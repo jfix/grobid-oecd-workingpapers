@@ -1,0 +1,2198 @@
+Please cite this paper as: Conway, P., R. Herd and T. Chalaux (2010),  " Reforming 
+China's Monetary Policy Framework to Meet Domestic 
+Objectives " , OECD Economics Department Working Papers, 
+No. 822, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/5km32vmsq6f2-en OECD Economics Department Working 
+Papers No. 822 Reforming China's Monetary 
+Policy Framework to Meet 
+Domestic Objectives Paul Conway, Richard Herd, 
+Thomas Chalaux JEL Classification: E4, E5, E6, K2, L5 Unclassified ECO/WKP(2010)78 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 16-Dec-2010 
+___________________________________________________________________________________________ 
+English -Or. English ECONOMICS DEPARTMENT REFORMING CHINA'S MONETARY POLICY FRAMEWORK TO MEET DOMESTIC OBJECTIVES ECONOMICS DEPARTMENT WORKING PAPER No. 822 By Paul Conway, Richard Herd and Thomas Chalaux All Economics Department Working papers are available through the OECD internet website at 
+www.oecd.org/workingpapers JT03294506 Document complet disponible sur OLIS dans son format d'origine 
+Complete document available on OLIS in its original format ECO/WKP(2010)78 
+Unclassified English -Or. English Cancels & replaces the same document of 06 December 2010 ECO/WKP(2010)78 ABSTRACT/RÉSUMÉ Reforming China's monetary policy framework to meet domestic objectives As a result of reforms and financial sector development, the People's Bank of China (PBoC) now 
+exerts significant control over money market interest rates. With money market conditions increasingly 
+influencing effective commercial lending rates, the PBoC is also able to affect the cost of credit without 
+recourse to its benchmark commercial bank rates. Furthermore, interest rates are an important determinant 
+of investment spending in China, via the user cost of capital, and aggregate economic activity influences 
+inflation. Hence, greater use of interest rates in implementing monetary policy would enhance 
+macroeconomic stabilisation while avoiding a number of drawbacks of the current quantity-based 
+approach. In addition, increased flexibility in the exchange rate would enhance its role in offsetting 
+macroeconomic shocks and allow the PBoC more scope to tailor monetary policy to domestic 
+macroeconomic conditions. Concurrently, changes in the PBoC's policy stance should be predicated on 
+informed judgments based on the monitoring of a set of indicators in conjunction with a flexible inflation 
+objective as the nominal anchor. This paper relates to the 2010 OECD Economic Review of China 
+(www.oecd.org/eco/surveys/china). JEL Classification: E4; E5; E6; K2; L5 Keywords: Money; Macroeconomic Policy; Regulation; China ************************************ Poursuivre la réforme de la politique monétaire pour accomplir les objectifs domestiques Suite à diverses réformes et au développement du secteur financier, la Banque Populaire de Chine 
+(BPdC) contrôle désormais de façon significative les taux d'intérêt du marché monétaire. Les conditions du 
+marché monétaire influençant de plus en plus les taux effectifs des prêts commerciaux, la BPdC est 
+également en mesure d'influencer le coût du crédit sans recourir à ses taux d'intérêt commerciaux de 
+référence. De plus, les taux d'intérêt sont un déterminant important de l'investissement en Chine, via le 
+coût du capital, et l'activité exerce une influence sur l'inflation. Par conséquent, une utilisation plus active 
+des taux d'intérêt dans la conduite de la politique monétaire contribuerait à la stabilisation 
+macroéconomique tout en évitant certains des inconvénients de l'approche actuelle par les quantités. En 
+outre, une plus grande flexibilité du taux de change renforcerait son rôle dans l'amortissement des chocs 
+macroéconomiques et donnerait une plus grande latitude à la BPdC pour ajuster la politique monétaire en 
+fonction des conditions macroéconomiques internes. Dans le même temps, les changements de politique 
+monétaire devraient résulter d'une évaluation empirique basée sur le suivi d'une série d'indicateurs dans le 
+cadre d'un ancrage nominal sous la forme d'un objectif d'inflation flexible. Ce document se rapporte à 
+l'Étude économique de la Chine de l'OCDE, 2009, (www.oecd.org/eco/etudes/chine). Classification JEL: E4 ; E5 ; E6 ; K2 ; L5 Mots clés: Monnaie ; Politique macroéconomique ; Règlementation ; Chine Copyright OECD 2010 
+Application for permission to reproduce or translate all, or part of, this material should be made to:Head 
+of Publications Service, OECD, 2 rue André-Pascal, 75775 Paris cedex 16, France. 
+2 ECO/WKP(2010)78 TABLE OF CONTENTS 
+Reforming China's monetary policy framework to meet domestic objectives ............................................... 5 
+Introduction and conclusions ....................................................................................................................... 5 
+The modus operandi of the PBoC ................................................................................................................ 6 
+Financial markets and interest rates ............................................................................................................. 8 
+The influence of the PBoC on the interbank market .................................................................................... 9 
+The response of bank lending to money-market conditions ................................................................... 14 
+The way forward for interest rate reform ................................................................................................... 18 
+The impact of interest rate changes on the real economy .......................................................................... 20 
+Monetary policy transmission is difficult to see at the macro level ....................................................... 21 
+Micro-level studies are more revealing .................................................................................................. 22 
+The impact of monetary policy on asset prices ...................................................................................... 29 
+The impact of monetary policy on consumption is probably small but growing ................................... 30 
+The determinants of Chinese inflation ....................................................................................................... 30 
+The role of the exchange rate regime in Chinese monetary policy ............................................................ 33 
+The sterilisation of foreign reserve inflows ............................................................................................ 37 
+The way forward on exchange-rate reform ............................................................................................ 40 
+The benefits of moving towards a flexible inflation target ........................................................................ 44 BIBLIOGRAPHY ......................................................................................................................................... 46 Tables 
+Table 1. PBoC targets and outcomes ........................................................................................................... 7 
+Table 2. Relationship between the three month repo rate and the PBoC bill rate ..................................... 11 
+Table 3. The relationship between the effective one-year lending rate and the three-month repo rate ..... 17 
+Table 4. Net interest rate margin: an international comparison ................................................................. 19 
+Table 5. Estimating an IS model of aggregate demand ............................................................................. 22 
+Table 6. Descriptive statistics of regression variables ............................................................................... 25 
+Table 7. Investment regression results ....................................................................................................... 26 
+Table 8. Using the apparent firm interest rate for the user cost variable ................................................... 28 
+Table 9. Phillips curve estimates for China ............................................................................................... 32 
+Table 10. Estimated currency weights in the renminbi currency basket .................................................... 34 
+Table 11. The weights in the OECD effective exchange rate index for China .......................................... 36 
+Table 12. Currency inflows and increase in foreign exchange reserves .................................................... 39 Figures 
+Figure 1. Annual change in the outstanding stock of bonds, bills and notes ............................................... 8 
+Figure 2. Short-term money-market interest rates ..................................................................................... 10 
+Figure 3. The impact of changes in PBoC bill rates on interbank interest rates ........................................ 12 
+Figure 4. Required and excess reserves ..................................................................................................... 13 
+Figure 5. Realised volatility in selected money-market interest rates ....................................................... 14 
+Figure 6. The regulated bank deposit and lending rates and the repo rate ................................................. 15 
+Figure 7. Commercial lending rates and the interbank rate ....................................................................... 16 
+3 ECO/WKP(2010)78 Figure 8. The response of long to short rates ............................................................................................. 17 
+Figure 9. The differential between long-term and short-term interest rates .............................................. 18 
+Figure 10. Equity and debt to total liability ratios in listed Chinese firms ................................................ 23 
+Figure 11. Impact on investment and GDP of a one percentage point increase in real policy rates .......... 29 
+Figure 12. Changes in inflation and the output gap ................................................................................... 31 
+Figure 13. Estimated weight of the US dollar in the renminbi currency basket ........................................ 35 
+Figure 14. Bilateral and effective exchange rates ...................................................................................... 36 
+Figure 15. The balance of payments and foreign exchange reserves ......................................................... 38 
+Figure 16. PBoC sterilisation and base money .......................................................................................... 38 
+Figure 17. Estimated monthly portfolio inflows and the covered interest rate differential in favour of the 
+renminbi ..................................................................................................................................................... 41 
+Figure 18. Inflation and business cycle volatility across countries ............................................................ 42 Boxes 
+Box 1. Regressions with time-variant coefficients .................................................................................... 11 
+4 ECO/WKP(2010)78 Reforming China's monetary policy framework to meet domestic objectives By Paul Conway, Richard Herd and Thomas Chalaux 1 Introduction and conclusions The People's Bank of China (PBoC) began to function exclusively as a central bank in 1984. Since 
+then, much progress has been made in improving the conduct of monetary policy. China's monetary policy 
+framework has gradually moved away from a planned administrative system resting on credit rationing to a 
+more market-based regime with money growth as the main intermediate target. As part of this transition, 
+interest rates have been liberalised, making them more responsive to market signals, and the tools of 
+monetary policy have been modernised. The banking sector has also undergone significant reform (see 
+Chapter 3 in OECD, 2010) and the economy has become far more responsive to market-based policy 
+measures. Officially, the objective of Chinese monetary policy is  " to maintain the stability of the value of the 
+currency and thereby promote economic growth " . 2 It is not clear whether this refers to maintaining the 
+domestic purchasing power of the currency -i.e., the price level -or the exchange rate. In practice, the 
+State Council has also charged the PBoC with achieving price stability, employment growth, external 
+balance, and financial stability. 3 The PBoC is further responsible for promoting financial sector 
+liberalisation. The central bank is not independent and needs the permission of the State Council to change 
+policy settings. The 11 th Plan called for interest rate liberalisation and improvement in the transmission mechanism of 
+monetary policy. From this perspective, this paper evaluates China's monetary policy framework and 
+suggests ways in which it could be strengthened. It begins by reviewing the targets and instruments used 
+by the PBoC to influence money market conditions (Section 2). As outlined in Section 3, as a result of a 
+number of factors, including ongoing interest rate reform and a stronger banking sector, China's money 
+market is becoming more integrated with different market segments increasingly linked via arbitrage. The 1. 
+Paul Conway is an independent economist and consultant to the OECD (paul.conway@econconsult.co.nz). 
+Richard Herd (richard.herd@oecd.org, to whom correspondence should be addressed) and Thomas 
+Chalaux (thomas.chalaux@oecd.org) are, respectively, Head of and Statistician on the China Desk in the 
+Economics Department of the OECD. This Working Paper is the basis of Chapter 2 of the OECD's 2010 
+Economic Survey of the People's Republic of China (www.oecd.org/eco/surveys/china). The authors are 
+grateful for valuable comments received on earlier drafts from Andrew Dean, Bob Ford, Vincent Koen and 
+Sam Hill, as well as for discussions with officials from the People's Bank of China. Special thanks go to 
+Nadine Dufour and Lillie Kee for editorial support. The views expressed in this paper do not necessarily 
+reflect those of the OECD and its member countries. 2 . 
+See the PBoC's website: http://www.pbc.gov.cn/english/huobizhengce/objective.asp. 3 . 
+According to Governor Zhou Xiaochuan, as cited in Liu and Zhang (2007). 
+5 ECO/WKP(2010)78 PBoC now has considerable control over short-term interest rates in the interbank market and increasing 
+leverage over longer-term rates through the term structure. Going forward, the monetary policy framework 
+needs to place less emphasis on quantity-based liquidity controls and more on interest rate changes. The 
+PBoC's benchmark commercial bank lending and deposit rates, which do not influence economic activity 
+and are becoming increasingly irrelevant in the conduct of monetary policy, ought to be progressively 
+phased out. In Section 4, the paper goes on to review the effects of monetary policy on the real side of the 
+economy and presents evidence on the effects of interest rate changes on economic activity. In particular, 
+capital formation at the firm level is shown to be sensitive to changes in interest rates via the user cost of 
+capital. In addition, the results of estimating a Phillips curve for China, which are presented in Section 5, 
+show that changes in aggregate demand pressures influence inflation. This implies that the transmission 
+mechanism is effective in China and that monetary policy can enhance stability by playing a greater role as 
+a macroeconomic shock absorber. However, as discussed in Section 6, the current exchange rate regime 
+limits the policy options available to the PBoC and the effectiveness of monetary policy more generally 
+and prevents the value of the currency from moving to offset macro shocks. Finally, Section 7 argues the 
+case for allowing greater exchange rate flexibility and moving towards a flexible inflation objective as the 
+nominal anchor. This would permit monetary policy to make a greater contribution to macroeconomic 
+stability and reduce the costs and risks of sterilising foreign reserve inflows. The modus operandi of the PBoC China's monetary policy framework has evolved considerably since the mid-1980s. From 1984 until 
+1997, the PBoC issued base money and implemented monetary policy under a system of central bank 
+lending and credit controls. The PBoC provided liquidity to state-owned banks, which then lent money to 
+state-owned enterprises (SOEs), often at negative real interest rates. Since the establishment of the 
+development banks in 1994, central bank lending has mainly been used to subsidise rural credit 
+cooperatives or rescue insolvent financial institutions and no longer as a means of influencing monetary 
+conditions. More recently, money growth has replaced credit rationing as the main intermediate target of 
+monetary policy. The PBoC sets targets for the year-on-year growth rates of the money supply and bank 
+credit that are deemed to be consistent with its policy objectives. Over the course of the year, the PBoC 
+adjusts policy settings in line with developments in intermediate targets and other macroeconomic 
+variables. In practice, notwithstanding instability in the money multiplier and unpredictable liquidity 
+growth given the current exchange rate regime, the PBoC has been reasonably proficient at hitting its 
+money supply and bank credit targets (Table 1). In 2009, however, the full-year target for M2 growth was 
+reached by end-March as liquidity was dramatically increased in response to the global economic 
+recession. GDP growth targets have often been exceeded, particularly in recent years, whereas inflation 
+targets have been both over-and undershot. 
+6 ECO/WKP(2010)78 Table 1. PBoC targets and outcomes M1 
+M2 
+CPI inflation 
+Real GDP Target 
+Actual 
+Target 
+Actual 
+Target 
+Actual 
+Target 
+Actual 1998 
+17 
+12 
+16-18 
+15.8 
+5 
+-0.8 
+8 
+7.8 1999 
+14 
+14.5 
+14-15 
+16.0 
+2 
+-1.4 
+8 
+7.6 2000 
+15-17 
+19.7 
+14-15 
+16.1 
+1 
+0.4 
+8 
+8.4 2001 
+13-14 
+14 
+15-16 
+14.1 
+1-2 
+0.7 
+7 
+8.3 2002 
+13 
+16 
+13 
+15.1 
+1-2 
+-0.8 
+7 
+9.1 2003 
+16 
+19.1 
+16 
+20.0 
+1 
+1.2 
+7 
+10.0 2004 
+17 
+16.4 
+17 
+16.2 
+3 
+3.9 
+7 
+10.1 2005 
+15 
+11.7 
+15 
+14.8 
+4 
+1.8 
+8 
+10.4 2006 
+14 
+14.5 
+16 
+18.1 
+3 
+1.5 
+8 
+11.6 2007 
+No target 
+21 
+16 
+17.5 
+3 
+4.8 
+8 
+13.0 2008 
+No target 
+13.6 
+16 
+16.6 
+4.8 
+5.9 
+8 
+9.6 2009 
+No target 
+17 
+26.5 
+3-4.8 
+-0.7 
+8 
+8.7 2010 
+17 
+3 
+8 Source: PBoC and CEIC. The PBoC has a number of instruments at its disposal to achieve its money supply and credit growth 
+targets. Open market operations (OMOs) and changes in the required reserves of the commercial banks 
+have become the predominant tools with which the PBoC influences base money and money market 
+conditions more generally. The PBoC conducts OMOs using repos and central bank bills. Periodic changes 
+in reserve requirements have also become an important tool, mainly used in recent years to sterilise foreign 
+reserve inflows. As well as using quantity-based tools to control liquidity, the PBoC controls a range of interest rates 
+in the economy to varying degrees. The PBoC sets benchmark interest rates for commercial bank lending 
+and deposits across a range of maturities. It also sets interest rates on refinancing credit extended to the 
+banking system, the rediscount rate, and rates paid on the required and excess reserves of the commercial 
+banks deposited at the central bank. The yields on PBoC bills, which are used in OMOs to sterilise foreign 
+currency inflows, are also under the influence of the central bank. In comparison to OMOs and required 
+reserves, policy interest rates play a secondary role in monetary policy implementation and the PBoC 
+changes them less frequently and typically by a smaller amount than central banks elsewhere 
+(Anderson, 2007). As well as quantity-based and, to a lesser extent, price-based instruments, the PBoC still uses a form 
+of administrative guidance to influence bank lending. Since bank-specific credit ceilings were removed in 
+1998, the PBoC has held monthly meetings with commercial banks to outline its concerns about credit 
+conditions across sectors. The practice has since become institutionalised with the PBoC publishing notices 
+aimed at curbing lending in particular sectors from time to time. The PBoC also regularly reports on its 
+ " window guidance "  in its Quarterly Monetary Policy Reports. Administrative guidance has been 
+instrumental in slowing credit growth during periods of rapid expansion, such as in the early 2000s, and 
+increasing it more recently in response to the global recession. According to Geiger (2006), window 
+guidance can be effective because the governor of the PBoC ranks above officials in charge of the 
+commercial banks in the Chinese political hierarchy. 
+7 ECO/WKP(2010)78 Financial markets and interest rates 
+The interbank market for bonds started operating in 1997 and has since developed quickly (Figure 1). 
+As discussed in OECD (2010), the rapid growth in China's bond market has been facilitated by financial 
+sector liberalisation and the market infrastructure for borrowing and lending reserves among banks is now 
+well established. Although issued bonds have typically been short-term, bonds of longer maturities are 
+being increasingly offered and turnover and liquidity have grown rapidly. For most of the past decade, relatively few government bonds have been issued and offerings by the 
+PBoC have dominated the market. Until 2004, the corporate paper market was undeveloped as a result of 
+restrictive regulations set by the National Development Reform Commission. Subsequently, the PBoC 
+opened a corporate commercial paper market and, from 2007, allowed medium-term corporate notes to be 
+traded in the same market. As a result, between end 2007 and end 2009, the outstanding stock of 
+commercial paper and bonds issued by the non-financial corporate sector and local governments more than 
+tripled. Net sales amounted to 4% of GDP in 2009. Local authorities and their corporate affiliates (used to 
+finance infrastructure projects) were particularly active, raising 1.2% of GDP in 2009. In the first three 
+quarters of 2010, borrowing by the non-financial sector and local governments eased back, but still 
+amounted to 2.6% of GDP, bringing the outstanding stock of debt to 9% of annual GDP. Despite this 
+recent progress, however, the outstanding stock of bonds is still relatively small both compared with other 
+countries and relative to the size of bank lending. Figure 1. Annual change in the outstanding stock of bonds, bills and notes -8 -6 -4 -2 0 2 4 6 8 10 12 -8 -6 -4 -2 0 2 4 6 8 10 12 2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010/9 % of GDP 
+% of GDP National government 
+Central bank 
+Policy banks 
+Corporate bonds, commercial papers and medium term notes 
+Local government bonds 
+Total Note: The data for 2007 exclude the direct issue of CNY 1.35 trillion to the People's Bank in exchange for foreign exchange for the 
+China Investment Corporation. Source: Chinabond and CFIC. There are a variety of different money markets in China. The market for uncollaterised loans, which 
+are traded between banks, is not large and around 90% of the short-term money market turnover takes 
+place in the repurchase market, using bonds as collateral. Within the repo market, loans are traded both on 
+the stock exchanges and between banks, with the latter market dominating. In the interbank repo market, 
+trading is dominated by the 7-day maturity, which accounts for nearly 80% of the total turnover. At longer 
+maturities, market depth is limited. 
+8 ECO/WKP(2010)78 Three types of interest rates are available in the short-term market: i) the CHIBOR, which refers to a weighted average of actual transaction rates on the uncollateralised 
+interbank market; ii) the SHIBOR, available since January 2007, which represents the daily average of the quotes of 
+16 banks at 11.30 in the morning. This rate has the advantage of offering a price even when there are no 
+market transactions. Its disadvantage is that the banks are not obliged to trade at their quoted rates. The 
+objective of the SHIBOR was to generate a well-determined interest rate index that be used as the basis for 
+derivative products. iii) In January 2008, an interest rate swap market was introduced using the SHIBOR as a base. 
+However, turnover in this market has remained very limited and by September 2010 transactions in the 
+interbank swap market were only 1.4% of the transactions in the cash and secured interbank bank market. The flows in the interbank market are not the result of random fluctuations in the liquidity of a large 
+number of institutions but rather stem from the major four banks, accounting for over 70% of deposits, 
+having a structural surplus of deposits and consistently supplying money to the interbank market where it 
+is lent to other financial institutions. The relative importance of the different borrowers in the market varies 
+from year to year. The depth of the market is restricted by regulations limiting foreign banks to borrowing 
+only 1.5 times their capital in the interbank market. Market interest rates, including interbank rates, bill discounting rates and bond yields are fully 
+liberalised and move flexibly to clear markets for borrowing and lending reserves. 4 However in the 
+corporate bill market, introduced in 2005 by the Central Bank, an association of underwriters the National 
+Association of Financial Market Institutional Investors -sets the minimum rate at which new issues can be 
+made. Sometimes this rate deviates from the rate in the secondary market, effectively closing the new 
+issues market. The influence of the PBoC on the interbank market In April 2003, the PBoC converted all existing repurchase agreements into Central Bank bills to 
+create a new instrument for intervening in money markets. Since then, a relatively deep and liquid market 
+has developed. The central bank uses PBoC bills of various maturities to conduct open market operations 
+(OMOs) aimed at achieving its liquidity targets. In 2004, the PBoC introduced a range of innovations to 
+improve the effectiveness of its OMOs, including the introduction of a one and three-year tenors. In 
+addition, the PBoC increased the frequency of its OMOs auctions, extended the length of the trading period 
+and linked the bill trading system with the payment system so that settlement can be done on a payment-
+on-delivery basis. Consistent with the PBoC's reliance on quantity-based measures for implementing 
+monetary policy, bill auctions are usually conducted as fixed-quantity tenders with a variable interest rate, 
+although fixed-interest-rate auctions have been used as well from time to time. There is also an active repo 
+market that the PBoC can use to manage the supply of reserves, although in practice it has not used it 
+much. 4. 
+The Third Plenary Session of the 14 th Communist Party Central Committee set out the broad direction of 
+interest rate liberalisation in November 1993. In 2002, the 16 th National Congress reiterated the call for 
+interest rate reform with the aim of improving the efficiency with which financial resources are allocated. 
+In 2003, the Third Plenary Session of the 16 th Central Committee called for market-determined interest 
+rates steered by the PBoC consistent with economic objectives. 
+9 ECO/WKP(2010)78 The PBoC has considerable leverage over short-term money market interest rates. By setting the 
+interest rate it pays on excess reserves, the PBoC effectively imposes a floor in the interbank market. In 
+principle, the PBoC's base or benchmark rate, at which it lends to banks and other financial institutions, 
+should impose a ceiling. In practice, however, the PBoC does not issue loans at this rate and there has been 
+no lending through the base lending window since 2001. As a result, money market rates occasionally 
+spike above the base lending rate when liquidity is short, notably when there have been large IPOs in the 
+stock market. Until the onset of the global financial crisis, the PBoC had progressively increased the spread 
+between the interest rate on excess reserves and base lending to encourage banks to trade amongst 
+themselves in the interbank market (Figure 2). Figure 2. Short-term money-market interest rates 0 2 4 6 8 10 12 0 2 4 6 8 10 12 Jul-97 Jul-98 Jul-99 Jul-00 Jul-01 Jul-02 Jul-03 Jul-04 Jul-05 Jul-06 Jul-07 Jul-08 Jul-09 % pa 
+% pa 
+Excess reserve rate 
+7-day repo rate 
+Central bank loans Source: CEIC. The market interest rates under the control of the PBoC have started to have a stronger influence on 
+rates in the interbank market. Both rolling correlations and regressions with time-varying coefficients 
+(Box 1) indicate that the pass-through of changes in three-month PBoC bill rates to interbank repo rates of 
+the same maturity has increased over recent years (Figure 3). The strong influence of the PBoC bill rate on 
+the repo rate (both with three month maturities) is also confirmed by regression of the repo rate on the 
+PBoC bill rate and the lagged repo rate (Table 2). Although these correlations are not as strong as in OECD 
+countries, where central banks stand ready to lend or borrow at the policy interest rate, PBoC control over 
+interbank interest rates is becoming increasingly significant. However, the repo rate is much more volatile 
+than the PBoC bill rate, which may reflect the quantity oriented operating structure of monetary policy that 
+results in interest rate spikes in response to large IPOs (Porter and Xu, 2009). There is some evidence, in 
+line with the rolling correlations, that the response of the repo rate to the PBC bill rate has become stronger 
+since 2005 but the variability of the repo rate remains much greater than that of the PBoC bill rate. 
+10 ECO/WKP(2010)78 Box 1. Regressions with time-variant coefficients Following Cournède et al. (2008), regressions with time-varying coefficients are used to look at how the 
+response of interest rates on one financial asset to interest rates on a different assets has evolved over time. 
+Specifically, the analysis underpinning the time-varying coefficients graphed in Figures 3(c, d) and 4 respectively 
+looks at the response of: @BULLET Repo rates in the interbank market to PBoC bill rates at three and 12-month maturities. @BULLET 10-year Treasury bond rates to movements in the three-mouth interbank repo rate. For ease of exposition, the following description of this technique is based on the latter – i.e. the response 
+of long rates to short rates. The technique is exactly analogous for the former. Equation [1] relates monthly changes in nominal interest rates on government bonds ( ) t l 
+Δ 
+to monthly changes in three-month nominal interbank rates ( and an intercept. Interest rates enter the equation in changes because these are stationary 
+while the levels are not. 1 ) t s 
+Δ t 
+t 
+t 
+t 
+t u 
+s 
+a 
+a 
+l 
++ 
+Δ 
++ 
+= 
+Δ 2 
+1 with ( ) . , 
+0 
+~ 2 σ N 
+u t 
+[1] The regression coefficients are allowed to vary fairly freely over time with the only assumption being that 
+they follow random walks. The time-varying coefficients 
+and 
+are evaluated with the moment estimator proposed by Schlicht and Ludsteck (2006). 
+denotes the normal error terms. This extremely simple equation does not aim to offer a structural model of interest rates but is simply a concept-free statistical tool used to 
+assess changes in the co-movement between short and long rates. 1 
+t a 2 
+t a t u 1. 
+With constant coefficients, the presence of co-integration between long and short rates would require estimating an 
+error-correction model to avoid omitted variable bias. However, time-varying coefficients are poorly identified in 
+error-correction specifications because the long-run dynamics of the system can be picked up by the time variation 
+of the coefficients (including the short-run ones) as well as by the long-run parameters. For this reason, the model 
+has been estimated in differences as specified in equation [1]. Table 2. Relationship between the three month repo rate and the PBoC bill rate Coefficients 
+Standard Error 
+t Stat 
+Intercept 
+0.065 
+0.115 
+0.567 
+PBC BILL 3M 
+0.717 
+0.114 
+6.266 
+Lagged repo 
+0.391 
+0.092 
+4.261 Regression statistics 
+Multiple R 
+0.945 
+R square 
+0.893 
+Adjusted R square 
+0.889 
+Standard error 
+0.327 Observations 
+79 Source: Authors' analysis 
+11 ECO/WKP(2010)78 Figure 3. The impact of changes in PBoC bill rates on interbank interest rates -1.0 -0.8 -0.6 -0.4 -0.2 0.0 0.2 0.4 0.6 0.8 1.0 May-04 May-05 May-06 May-07 May-08 May-09 May-10 Central bank bill 3 months A. Rolling correlations -Repo 3 months to Level 
+Difference -2.0 -1.5 -1.0 -0.5 0.0 0.5 1.0 1.5 2.0 2.5 3.0 Jul-03 Jul-04 Jul-05 Jul-06 Jul-07 Jul-08 Jul-09 B. Time-varying coefficient -Central bank 
+bill 3 months to repo 3 months Point estimate 
+95 % confidence interval Source: Authors' analysis. A significant reduction in the amount of excess reserves held by the banking sector is one important 
+reason why China's money market has become more sensitive to the actions of the PBoC and different 
+market segments have become more integrated. In early 2002, excess reserves accounted for almost 8% of 
+bank deposits, more than doubling the size of bank reserves deposited at the PBoC (Figure 5). By the start 
+of 2009, excess reserves had fallen to under 2.5%. Hence, smaller banks are now more likely to need to 
+borrow in the money market to cover their requirements at the central bank and are therefore more 
+sensitive to money market rates. For larger banks that supply funds to the market, the channel for 
+influencing inter-bank rates is different in that they can always elect not to roll over their lending to raise 
+reserves during time of relatively scarce liquidity. Notwithstanding recent falls, excess reserves in the Chinese banking system are still high compared to 
+those found in other countries historically. For instance, in the decade prior to September 2007, excess 
+reserves in the United States were only 4% of the amount of required reserves, since excess reserves were 
+not remunerated. 5 There are a number of reasons for high reserve levels in China. In part, they arise in 
+response to the method used to calculate a bank's required reserves. Specifically, banks are penalised if 
+their reserves at the end of each business day fall below the required level, which is set equal to average 
+deposits at the end of the last ten day accounting period multiplied by the required reserve ratio. In Japan 
+and the euro area, banks are allowed to hold reserves below the required level on a given day provided the 
+monthly average level of reserves meets the target. In the United States the averaging period is two weeks. 
+Thus, the reserve requirement in China is not a period average requirement. Also, as discussed below, high 
+liquidity in the banking system is an inevitable consequence of the current exchange rate regime coupled 
+with generally large capital inflows. In addition, the relatively small size of China's bond market means 
+that banks have only limited options for investing their large deposit base. Finally, the interest rate paid by 
+the PBoC on excess reserves effectively lowers their opportunity cost. 5. 
+Three years later, however, following massive open market operations and the fall in the demand for credit, 
+banks held total reserves that were 14 times greater than their required reserves. Moreover, since 
+September 2008 excess reserves have been remunerated. 
+12 ECO/WKP(2010)78 Figure 4. Required and excess reserves 0 5 10 15 20 25 0 5 10 15 20 25 Jan-02 Oct-02 
+Jul-03 
+Apr-04 Jan-05 Oct-05 
+Jul-06 
+Apr-07 Jan-08 Oct-08 
+Jul-09 % 
+% Required reserve ratio 
+Excess reserves ratio Source: CEIC. One important disadvantage of the PBoC's quantity-based approach is that day-to-day changes in 
+money supply and demand translate into high-frequency interest rate volatility. In part, this volatility 
+reflects the need for Chinese banks to meet required reserve targets on a daily basis. As a result, realised 
+interest rate volatility in the interbank market is typically higher in China than in countries with an 
+implementation framework based around an overnight policy interest rate and longer reserve assessment 
+periods (Figure 5). Moving to a policy interest rate framework and a longer reserve reference period would 
+help reduce high-frequency interest rate volatility. This approach would also enable the system to handle 
+shocks better and allow changes in policy settings to be communicated to the public more effectively. 
+13 ECO/WKP(2010)78 Figure 5. Realised volatility in selected money-market interest rates 1 -16 -14 -12 -10 -8 -6 -4 -2 0 Jan-02 
+Jan-04 
+Jan-06 
+Jan-08 
+Jan-10 A. Overnight increasing 
+volatility -16 -14 -12 -10 -8 -6 -4 -2 0 Jan-02 
+Jan-04 
+Jan-06 
+Jan-08 
+Jan-10 B. 7-day increasing 
+volatility -16 -14 -12 -10 -8 -6 -4 -2 0 Jan-02 
+Jan-04 
+Jan-06 
+Jan-08 
+Jan-10 C. 1-Month increasing 
+volatility -16 -14 -12 -10 -8 -6 -4 -2 0 2 Jan-02 
+Jan-04 
+Jan-06 
+Jan-08 
+Jan-10 D. 3-month increasing 
+volatility -16 -14 -12 -10 -8 -6 -4 -2 0 Jan-02 
+Jan-04 
+Jan-06 
+Jan-08 
+Jan-10 A. Overnight increasing 
+volatility -16 -14 -12 -10 -8 -6 -4 -2 0 Jan-02 
+Jan-04 
+Jan-06 
+Jan-08 
+Jan-10 B. 7-day increasing 
+volatility -16 -14 -12 -10 -8 -6 -4 -2 0 Jan-02 
+Jan-04 
+Jan-06 
+Jan-08 
+Jan-10 C. 1-Month China 
+USA 
+UK increasing 
+volatility -16 -14 -12 -10 -8 -6 -4 -2 0 2 Jan-02 
+Jan-04 
+Jan-06 
+Jan-08 
+Jan-10 D. 3-month Japan 
+EU increasing 
+volatility 1. 
+Realised volatility is calculated as the log of squared changes in the relevant interest rate at the daily frequency: RVol t = ln(i t -i t-1 ) 2 where RVol t is realised volatility and i t is the relevant interest rate at time t. Unlike measures of implied volatility derived from options 
+pricing, realised volatility does not impose restrictive assumptions on the distribution of volatility. In addition, unlike other possible 
+volatility measures, realised volatility is independent of the mean level of interest rates (ECB, 2005). Source: Authors' analysis. The response of bank lending to money-market conditions While there is growing evidence that the PBoC influences market interest rates through open market 
+operations, the main communication channel for its interest rate policy is through changes in regulated 
+bank deposit and lending rates. The PBoC progressively widened the margin between benchmark lending 
+and deposit rates from zero at the beginning of the 1990s to 350 basis points at the beginning of this 
+century. This restored the profitability of the banking sector and ended the period during which banks were 
+14 ECO/WKP(2010)78 seen as a channel for distributing savings, rather than entities that needed to earn a rate of return on their 
+own capital. Since 2002, the PBoC has set the regulated lending rate in line with the repo rate, except in relatively 
+low growth periods (such as 2005 and 2009) when repo rates have fallen to low levels (Figure 6). In these 
+periods, the PBoC has not allowed the regulated lending rate or the deposit rate to fall in line with market 
+rates. In the 2006 and 2007 upturn the PBoC did increase savings rates more quickly than in the 2003 
+upswing. In the 2009 downturn, however, there was no change in the policy of holding regulated rates 
+above market rates. With the growth of the commercial paper market, such behaviour is becoming 
+increasingly difficult to manage. This was evident in the first half of 2009 when the issuance of 
+commercial paper surged as companies changed the origin of their borrowing towards the commercial 
+paper market where interest rates were lower than in the banking system. Figure 6. The regulated bank deposit and lending rates and the repo rate 3 4 5 6 7 8 9 0 1 2 3 4 5 6 Jul-03 Jan-04 Jul-04 Jan-05 Jul-05 Jan-06 Jul-06 Jan-07 Jul-07 Jan-08 Jul-08 Jan-09 Jul-09 Jan-10 Jul-10 % 
+% 3 month collateral repo rate (left scale) 1 year saving deposit rate (left hand scale) (left scale) Lending rate (right scale) Source: CEIC. Until 2004, the interest rates set by the commercial banks were not permitted to deviate from the 
+benchmark rates by more than 10%. Since then, the bands of permissible interest rates around the 
+benchmark rates have been progressively widened and commercial bank lending rates are now only subject 
+to a floor, and deposit rates to a ceiling (Figure 7). 6 In theory, this has increased the extent to which 
+commercial banks are free to set interest rates. In practice, after an initial spike, the average margin over 
+the regulated rate has remained low and fell to only 60 basis points in the first half of 2009. In effect, the 
+degree of deregulation has been limited, with banks either reluctant to price loans according their degree of 
+risk, or, alternatively, failing to grant credit to higher–risk, smaller companies. In addition, the ceiling on 
+deposit rates also still appears to be binding, with effective deposit rates clustered around the benchmark 
+(Porter and Xu, 2009). 7 6 . 
+Interest rate ceilings on loans still apply, however, for the rural credit cooperatives. 7 . 
+In the second quarter of 2009, however, reflecting high market liquidity, medium-and long-term enterprise 
+deposit rates exceptionally floated below the PBoC benchmark deposit rates as firms tried to arbitrage the 
+commercial paper market and regulated bank deposit rates. 
+15 ECO/WKP(2010)78 Figure 7. Commercial lending rates and the interbank rate 0 1 2 3 4 5 4 5 6 7 8 9 Q2 2004 
+Q4 2004 
+Q2 2005 
+Q4 2005 
+Q2 2006 
+Q4 2006 
+Q2 2007 
+Q4 2007 
+Q2 2008 
+Q4 2008 6 
+10 % 
+% Effective 1-year bank lending rate (left scale) 3 month repo 12 month average (right scale) Note: The PBoC ceased to publish the effective one-year lending rate in December 2008. Source: CEIC, PBoC, OECD. Money markets are one of the key links between a country's financial system and its real economy. 
+For that link to work, banks must be able to absorb and pass on changes in the cost of funds in the money 
+market to bank clients and vary rates in line with their credit-worthiness. This point is especially salient in 
+China. Notwithstanding the recent increase in the size of the corporate paper market, bank lending is still 
+by far the largest source of outside financing for investment. For example, Liu and Zhang (2007) report 
+that the banking sector intermediates about 75% of financial capital in China, implying that bank lending 
+rates, to a large extent, determine the marginal cost of capital for the entire economy. With commercial banks increasingly profit-oriented and relying more on the money market as a 
+source of funding and the central bank adjusting regulated rates more in line with market rates, the 
+relationship between the effective commercial bank lending rate and money market rates is strong. For 
+example, since 2004 when data on the effective rate charged on bank lending became available, the 
+correlation between the effective one-year bank lending rate and the three-month interbank repo rate has 
+been 0.77, significant at the 99% level of confidence. In a simple regression, the coefficient on the three month interbank rate (averaged over a 12-month period) indicates an almost exact pass-through to effective 
+one year lending rates (Table 3). 8 Thus, there is now a clear relationship between interest rates on 
+short-term PBoC bills, money market rates and both the effective and regulated bank lending rates. As 
+such, the interest rate on short-term bills has now become a key signalling rate for Chinese monetary 
+policy. 8 . 
+It is not possible to compare the one year bank lending rate to the one year repo rate, as in many periods 
+there were no transactions in the one-year market. 
+16 ECO/WKP(2010)78 Table 3. The relationship between the effective one-year lending rate and the three-month repo rate Coefficients 
+Standard Error 
+t Stat 
+P-value 
+Intercept 
+4.02 
+0.58 
+6.89 
+0.0000 
+12 month average 3 month repo 
+1.04 
+0.20 
+5.20 
+0.0001 Regression statistics 
+Multiple R 
+0.775 
+R square 
+0.600 
+Adjusted R square 
+0.578 
+Standard error 
+0.658 
+Observations 
+20 
+Time period 
+Q1 2004 to Q4 2008 1. Dependent variable: effective rate of interest on all loans with an initial term of one year. 2. Independent variable: average three-month interest rate over the preceding twelve months. Source: Authors' analysis. Another important consideration for the effective transmission of monetary policy is the extent to 
+which interest rate changes at the short end of the yield curve influence the long end. Policymakers 
+typically influence short rates, but spending and consequently inflation are usually related to interest rates 
+at longer maturities. The stronger the relationship between short and long interest rates, the more leverage 
+the central bank has along the yield curve, thereby increasing the likelihood of real activity correlating with 
+changes in monetary policy. In OECD countries, this relationship has changed over the past few decades, 
+reflecting the relative importance of, inter alia, inflation expectations as a driver of bond yields (Cournède 
+et al., 2008). In China, the impact of quarterly changes in 90-day interest rates on 10-year bond yields has 
+increased since 2005 and is currently broadly comparable to that in a number of OECD countries (Figure 
+8). This methodology suggests that the pass-through coefficient of short-term rates on long-term rates had 
+risen to around 0.2 until the beginning of 2008 (similar to that found in major OECD countries). However, 
+this point estimate was not well defined and had a large standard error. Figure 8. The response of long to short rates -0.6 -0.4 -0.2 0.0 0.2 0.4 0.6 -0.6 -0.4 -0.2 0.0 0.2 0.4 0.6 Oct-02 Apr-03 Oct-03 Apr-04 Oct-04 Apr-05 Oct-05 Apr-06 Oct-06 Apr-07 Oct-07 Apr-08 0.8 
+0.8 
+Point estimate 
+95 % confidence interval Source: Authors' analysis. 
+17 ECO/WKP(2010)78 Since 2008, the rolling coefficient analysis suggests that the relationship between short-term and long-
+term rates has broken down. Longer-term yields are affected not just by current short-term interest rates but 
+also expectations about future short-term interest rates and hence the future movement of the economy and 
+inflation. As yet, there is insufficient information to use the slope of the yield curve in China as an 
+indicator of future economic growth in the same way it is often used in advanced economies (Estrella, 
+2005). However, a similar relationship does appear to be evolving in China, with the yield curve becoming 
+markedly steeper during the period of rapid monetary expansion in the spring of 2009 (Figure 9). By the 
+autumn of 2009, its gradient reached unprecedented levels, before starting to fall back as the stance of 
+monetary policy became more normal. Figure 9. The differential between long-term and short-term interest rates 
+Three-month repurchase rate and ten-year financial bond -1.0 -0.5 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 -1.0 -0.5 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 Aug-02 
+May-03 
+Feb-04 
+Nov-04 
+Aug-05 
+May-06 
+Feb-07 
+Nov-07 
+Aug-08 
+May-09 
+Feb-10 % 
+% Note: Financial bonds are those issued by development and commercial banks. Source: CEIC. The way forward for interest rate reform China's monetary policy implementation framework needs to evolve to keep pace with a rapidly-
+changing economy or risks losing its effectiveness. Targeting money growth with quantity-based 
+instruments has been a natural evolution for Chinese monetary policy from the era of credit rationing. In 
+addition, the PBoC's substantial sterilisation operations, which, as discussed below, are necessary to 
+absorb large capital inflows under an inflexible exchange rate regime, also predispose the PBoC towards a 
+quantity-based approach to liquidity management. Although quantity-based frameworks have an important 
+role to play in countries with shallow and under-developed financial markets, interest rates are a key 
+macroeconomic price in more advanced economies and ensuring that they operate freely and transmit 
+changes in monetary policy is a crucial prerequisite for an efficient allocation of capital. Making more use 
+of policy interest rates would also reduce the PBoC's reliance on changes in required reserves as a means 
+of controlling liquidity, which have been found to hamper financial market development (IMF, 2004). In 
+addition, changes in required reserves and quantitative monetary tools in general risk becoming less 
+effective as other forms of financial intermediation outside the banking system become more important, as 
+has been recently happening in China. Moving to a policy interest rate would also lessen the PBoC's reliance on  " window guidance "  to 
+commercial banks, which weakens competition and undermines the market determination of interest rates. 
+The impact of window guidance on bank behaviour is also unpredictable and asymmetric, with those banks 
+following the wishes of the PBoC in times of tightening suffering commercial disadvantage. In addition, 
+18 ECO/WKP(2010)78 over the course of the global financial crisis, less reliance on window guidance and more reliance on policy 
+interest rates would have given the PBoC better information on the extent of its tightening in the first part 
+of 2008 and helped minimise the lending surge when lending quotas were abolished at the end of 2009. 
+Such surges in lending are not uncommon after periods during which credit growth has been constrained 
+by lending targets. Another important difficulty with using quantity-based tools to implement monetary policy arises 
+because China's state-controlled companies still have preferential access to bank finance. As such, a 
+reduction in credit growth, for example, typically falls disproportionately on private-sector firms, which, as 
+a group, have been the most productive in China (see Chapter 4 in OECD, 2010). In contrast, an interest 
+rate hike in a price-based framework is more likely to induce firms to suspend investment projects for 
+which the expected stream of future profits is marginal or highly uncertain, without the need for bank 
+officials to make such judgements. Conversely, an interest rate cut will tend to stimulate investment 
+projects with the highest expected rates of return, whereas mandated increases in bank credit, which have 
+played a large role in the PBoC's response to the global recession, imply a greater risk of non-performing 
+loans impairing bank balance sheets in the future. As well as moving to a price-based implementation framework, interest rate reform in other areas of 
+China's financial markets also needs to proceed. To continue reducing excess reserves in the banking 
+system and improving the degree of central bank control over money market conditions, the interest rate on 
+excess reserves deposited at the central bank needs to be set significantly below the other central bank rates 
+so as to lower the risk of the money market ceasing to function. 9 On the other hand, the interest rate paid 
+on required reserves should be set more in line with market rates. As discussed below, this would lower the 
+share of foreign reserve sterilisation costs that is currently borne by the commercial banks. Some aspects of China's current interest rate framework also hinder competition in the banking 
+sector. With commercial bank interest rates increasingly linked to money market conditions, the primary 
+purpose of the PBoC's lending rate floor and deposit rate ceiling has been to safeguard the profitability of 
+the predominantly state-owned banking sector. However, the weight given to protecting bank profit 
+margins appears to have fallen over time. By 2008, the net interest margin of Chinese banks had dropped 
+below those of banks in the United States and other Asian countries and it fell further in 2009, as lending 
+expanded rapidly (Table 4). Table 4. Net interest rate margin: an international comparison Net interest receipts as percent of total assets 2007 
+2008 
+China 
+2.64 
+2.65 
+Asean + Korea commercial banks 
+2.92 
+2.70 
+Euro area commercial banks (average 1994-2008) 
+1.45 
+1.45 
+US large commercial banks 
+2.85 
+2.69 Source: Garcia-Herrero and Santabárbara (2010). 9 . 
+On occasion, including during the first half of 2009 when the Chinese banking system was awash with 
+liquidity, repo rates in the money market have fallen to within a few basis points of the PBoC interest rate 
+on excess reserves, inducing the commercial banks to stop using the interbank markets and deposit excess 
+cash with the central bank (Figure 2 above). 
+19 ECO/WKP(2010)78 Models of oligopolistic markets suggest that while deregulation of the borrowing and lending rates is 
+only likely to make a slight change to bank borrowing and lending rates, it would a make a much greater 
+difference to the distribution of deposits across banks, allowing smaller banks to grow significantly 
+(Feyzioglu et al., 2009). Deregulation should also encourage a greater pass-through of money market rates 
+to bank interest rates, though the results cited above suggest that the pass-through has already risen to a 
+level similar to that indicated by a model of a deregulated oligopolistic banking sector. As the money 
+market now provides banks with an interest rate benchmark, there is no longer a need for the PBoC to do 
+so. Accordingly, the benchmark lending and deposit rates ought to be progressively phased out. Concerns 
+about bank profitability should be addressed by fiscal and prudential policy, rather than interest rate 
+regulation. As underlined in OECD (2010), corporate bond market regulation is also in need of further reform. 
+Restrictions in this market protect banks' large corporate lending business. If this market were better 
+developed so that the issuing rates of corporate bonds were fully market-determined, competitive pressures 
+on banks would intensify. As a result, bank borrowing costs for firms would better reflect market 
+conditions, which, in turn, are affected by the PBoC. In essence, greater reliance on market prices in the 
+valuation of corporate assets would work to reinforce the balance sheet channel of monetary policy. A key issue for China in moving to a price-based implementation framework is the resilience of the 
+banking sector to interest rates changes. As discussed in OECD (2010), reform in this area has moved a 
+long way over recent years and the banking sector is now in significantly better health than in the recent 
+past. Ultimately, in conjunction with the framework changes discussed below, moving to a policy interest 
+rate would facilitate the modernisation of the financial system. Declared non-performing loans had been successfully reduced to low levels by 2008 and have 
+remained at this low level, while being fully provisioned. The key to further improving the robustness of 
+the banking sector is to transform it into a well-supervised system that effectively allocates credit to its 
+most efficient use given prevailing market interest rates. Indeed, the response of the banking system to the 
+fiscal stimulus has illustrated that the process of credit allocation could still be improved. In response to 
+demand from local authorities and their development corporations, borrowing by local development 
+corporations rose by CNY 3 trillion in 2009, bringing the debt of these vehicles to CNY 7.3 trillion (nearly 
+22% of GDP). The scale of their borrowing was reduced in the first half of 2010, with their bank and 
+capital market borrowing rising by 0.8% and 0.7% of GDP respectively. Overall, the borrowing of local 
+financing platforms amounted to almost one-fifth of total outstanding bank loans in June 2010. This was in 
+addition to their borrowing of CNY 0.7 trillion in capital markets in 2009 and 2010. According to the bank 
+regulator almost one quarter of the bank loans to development corporations have been to projects of 
+doubtful financial viability and hence pose the risk of becoming non-performing in future years. Given the strains placed on China's financial system by the current exchange rate regime, further 
+interest rate reform needs to be carried out as part of a package that includes changes in currency market 
+arrangements, as outlined below. The impact of interest rate changes on the real economy The transmission of monetary policy to the real side of the economy requires that components of 
+aggregate demand be sensitive to changes in financial conditions. A great deal of research in this area has 
+focused on understanding the impact of interest rate changes on investment, which accounts for a 
+particularly large share of GDP and growth in China and is an important driver of business cycle 
+20 ECO/WKP(2010)78 volatility. 10 In principle, firms adjust their capital stock so that its marginal productivity equals its user 
+cost. As interest rates increase, for example, firms scale back projects for which the expected return is 
+insufficient to cover the higher financing costs, and investment slows. In addition to this direct interest rate 
+channel, higher interest rates may also reduce firm cash-flow which, in the absence of perfect capital 
+markets, will reduce their spending (credit channel). Monetary policy transmission is difficult to see at the macro level The macro-based evidence of a significant negative relationship between interest rate changes and 
+capital formation in China is not particularly compelling. For example, Geiger (2006) argues that changes 
+in interest rates have had a limited impact on aggregate macroeconomic variables and that the transmission 
+of monetary policy via the interest rate channel is distorted. In a VAR-based analysis, Laurens and Maino 
+(2007) also find that changes in short-term interest rates have had a minimal and statistically insignificant 
+impact on GDP. In another VAR study, Koivu (2008) reports that the transmission of interest rate changes 
+to the real economy is weak over the sample period 1998 to mid-2007. Qin et al. (2005) paradoxically find 
+that a rise in interest rates leads to an increase in investment, with a lag of about one year. In contrast, other authors have found evidence of a link between interest rates and macro aggregates. 
+For example, Girardin and Liu (2006), using a VAR model estimated on monthly data over 1997-2005, 
+find that short-term interest rates do have a significant impact on output and inflation, particularly in the 
+latter part of the sample period. He et al. (2005) finds that business investment in China is responsive to 
+price signals in both the short and the long run. It is difficult to estimate a stable IS equation for China, though some equations suggest that both 
+interest rates and the exchange rate have a statistically significant impact on the economy, even if the 
+absolute value of this impact is small. Specifically, the following equation is estimated on quarterly data 
+over the period 2000-07: ε 
+γ 
+γ 
+γ Y 
+t 
+i 
+i 
+t z 
+i 
+i 
+i 
+t r 
+i 
+i 
+i 
+t Y 
+i Y 
+t z 
+r 
+Y 
+const 
+Y Δ 
+= 
+− 
+= 
+− 
+= 
+− 
+Δ 
+Δ + 
+Δ 
++ 
+Δ 
++ 
+Δ 
++ 
+= 
+Δ ∑ 
+∑ 
+∑ 4 0 4 0 4 1 [2] where Y is real output, r the real benchmark PBoC lending rate, z a real effective exchange rate index for 
+the renminbi and ε an i.i.d. error term. The variable z is defined so that when the currency appreciates the 
+value of the index increases. It is initially estimated with the full complement of right-hand-side variables 
+and then without the insignificant lags. The results are reported in Table 5. Changes in the real interest rate 
+are estimated to have had a statistically significant impact on GDP growth during the estimation period that 
+runs from 2000 to 2007. The economic scale of the impact is, however, extremely small. Moreover, this 
+result is not particularly robust to alternative model specifications or changes in sample period. Changes in 
+the real effective exchange rate also have the expected sign and are statistically significant to varying 
+degrees. 10. 
+In China, gross fixed capital formation has grown by almost 20% per annum over recent years and 
+currently accounts for around 40% of GDP. Accordingly, understanding the linkages between financial 
+conditions and investment is of key importance when assessing monetary policy's macroeconomic 
+stabilisation role. 
+21 ECO/WKP(2010)78 Table 5. Estimating an IS model of aggregate demand Dependent variable: annual GDP growth 
+Coefficient 
+estimate 
+Explanatory variables: GDP growth, 3 rd lag, γ t−3 Y 
+Δ 0.382*** GDP growth, 4 th lag, γ Y t Δ 
+−4 0.865*** Contemporaneous change in the real effective exchange rate, γ t z -0.074** Change in the real effective exchange rate, 4 th lag, γ t 4 − z -0.081* Contemporaneous change in real benchmark PBoC lending rate, γ r t -0.081*** R 2 
+0.86 
+Number of observations 
+29 Note: *, ** and *** denote statistical significance at the 10, 5 and 1% level respectively. Source: Authors' analysis. The most common and obvious explanation for the limited impact of interest rate changes on the 
+Chinese macro economy is that state-owned commercial banks are often obliged to lend to SOEs (many of 
+which are owned by local authorities and are engaged in infrastructure activities) that enjoy soft budget 
+constraints, may have their debts forgiven and are therefore insensitive to changes in the price of credit. 
+However, studies of monetary policy transmission in OECD countries also generally have difficulty 
+finding clear evidence of a significant link between interest rate changes and investment at the 
+macroeconomic level. This difficulty is often ascribed to simultaneity biases – investment moves 
+pro-cyclically with the business cycle, which, in turn, is positively correlated with interest rates. 11 Micro-level studies are more revealing In contrast to studies conducted at the aggregate level, micro-level approaches aimed at understanding 
+the linkages between capital formation and its user cost have been more fruitful in OECD countries. For 
+example, the impact of changes in monetary policy on investment at the firm level has been investigated 
+using micro data in France, Germany, Italy and Spain. This work provides compelling evidence of an 
+interest rate channel operating through the user cost of capital. In addition, it also uncovers a significant 
+credit channel whereby firms with weaker balance sheets display a higher sensitivity of investment 
+spending to cash flow. 12 11. 
+See, for example, Bernanke and Gertler (1995), Chirinko (1993) and Gilchrist and Zakrajsek (2007). Other 
+potential sources of biases include misspecification of dynamics in investment equations, transitory time-
+series variation in the data and positively-sloped supply schedules which bias the estimated user cost 
+elasticity towards zero (Chirinko et al., 2004). 12. 
+See the overview by Chatelin et al. (2003) and the country-specific papers referenced therein. Other studies 
+based on micro data that reach similar conclusions for other countries include Gilchrist and Zakrajsek 
+(2007) for the United States and Nagahata and Sekine (2005) for Japan. 
+22 ECO/WKP(2010)78 In the case of China, there are reasons to think that economic reforms over recent years would have 
+increased the elasticity of capital formation to its user cost. Since the 1980s, the Chinese Government has 
+been progressively separating government functions from business operations across sectors, including 
+banking. SOEs are now held more accountable for their successes and failures and access to finance at 
+interest rates that are (implicitly or explicitly) below market levels has become much more limited. At the 
+same time, the rapid development of the private sector should also increase the sensitivity of aggregate 
+investment to the user cost of capital. Listed Chinese firms have been relying more on debt funding over 
+recent years, which should also heighten their sensitivity to interest rate changes (Figure 10). Figure 10. Equity and debt to total liability ratios in listed Chinese firms 0.30 0.35 0.40 0.45 0.50 0.55 0.60 0.65 0.30 0.35 0.40 0.45 0.50 0.55 0.60 0.65 2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 Equity/liabilities 
+Debt/liabilities Note: The data show the weighted average of the debt and equity share of total liabilities across listed Chinese firms. Source: TEJ, authors' analysis. To assess the impact of interest rate changes at the micro level, a model of investment by Chinese 
+firms is estimated. To the authors' knowledge, this is the first model of investment at the firm level in 
+China to include the impact of the user cost of capital on firms' investment decisions. 13 The model follows 
+Chatelain et al. (2003) and estimates the following equation at the micro level: t 
+s 
+t 
+i 
+i 
+t 
+s i 
+t 
+s 
+cf 
+i 
+i 
+i 
+t 
+s uc 
+i 
+i 
+i 
+t 
+s Y 
+i 
+i 
+t 
+s i 
+t 
+s i K 
+I 
+i 
+t 
+s t 
+s d 
+K 
+uc 
+Y 
+K 
+K ε 
+η 
+γ 
+γ 
+γ 
+γ + 
++ 
++ 
++ 
+Δ 
++ 
+Δ 
++ 
+= ∑ 
+∑ 
+∑ 
+∑ = 
+− 
+− − = 
+− 
+= 
+− 
+Δ − 
+− − = 
+− 2 0 
+1 
+, , 
+2 0 
+, 2 0 
+, 
+1 
+, , 
+2 1 / 1 
+, , cf 
+I 
+I 
+[3] In this model, I s and K s are, respectively, real investment and the capital stock, measured at 
+replacement cost, in firm s. The model also includes firm output, which is proxied by (log) changes in real 
+sales at the firm level (ΔY s ). To investigate the impact of credit constraints on capital formation, firm cash flow as a share of the capital stock ( 1 
+, − 
+t 
+s st K cf ), is also included in the regression. The regression further 13 . 
+Chen (2007) assesses the impact of cash flow on investment at the firm level in China but does not include 
+a measure of the user cost of capital in the regression. 
+23 ECO/WKP(2010)78 includes time dummies (d t ) and fixed effects at the firm level (η s ) to account for firm-specific variation in 
+capital formation not captured by the other variables in the model. In this model, the user cost of capital is the key price term. The benchmark measure of the user cost is 
+calculated as follows: ⎥ 
+⎥ 
+⎦ ⎤ ⎢ 
+⎢ 
+⎣ ⎡ 
++ 
+⎟ ⎟ 
+⎠ ⎞ 
+⎜ ⎜ 
+⎝ ⎛ Δ 
+− 
+− 
+⎟ 
+⎟ 
+⎠ ⎞ 
+⎜ 
+⎜ 
+⎝ ⎛ + 
++ 
+− 
+⎟ 
+⎟ 
+⎠ ⎞ 
+⎜ 
+⎜ 
+⎝ ⎛ + 
+= + δ 
+δ 
+τ I 
+t I 
+t t 
+s 
+t 
+s t 
+s 
+t 
+t 
+s 
+t 
+s t 
+s 
+t 
+s 
+t I 
+t 
+t 
+s P P 
+E 
+D E 
+LD 
+E 
+D D 
+i 
+P P 
+uc 1 , 
+, , , 
+, , 
+, 
+, ) 
+1 
+( 
+) 
+1 
+( [4] In this equation, the user cost of capital (uc s.t ) reflects a number of factors including the expected price of investment goods relative to final goods prices ( t I 
+t P P 1 + ), the corporate tax rate (τ) and the rate of depreciation (δ). It also includes a weighted average of debt and equity financing costs at the firm level, 
+which are the components of user cost through which the interest rate channel of monetary policy operates. 
+The opportunity cost of equity financing (LD t ) is proxied by the 10-year financial bond rate in China. 
+Reflecting the long-run marginal financing decisions of the firm, the relative shares of debt ⎟ 
+⎟ 
+⎠ ⎞ 
+⎜ 
+⎜ 
+⎝ ⎛ + t s 
+t 
+s t 
+s E 
+D D , 
+, , and equity ⎟ 
+⎟ 
+⎠ ⎞ 
+⎜ 
+⎜ 
+⎝ ⎛ + t s 
+t 
+s t 
+s E 
+D E , 
+, , financing in the total liabilities of the firm are used to weight together debt and equity financing costs in all three of these user-cost measures. As a robustness check, the cost of debt financing (i s,t ) is measured in three different ways in four 
+alternative user cost measures: @BULLET 
+UC1: In the benchmark version of the model debt financing costs are measured as an  " apparent 
+interest rate " , calculated as finance expenses over total firm debt. Reflecting data availability, 
+finance expenses are calculated using net finance costs less cash received from investment 
+income at the firm level. This variable is highly correlated with total firm debt, implying that it 
+predominantly reflects debt servicing costs. This is firm-level data and introduces firm-specific 
+variation into this measure of debt financing costs. @BULLET 
+UC2: Debt financing costs are measured at the macro level as the 1-year benchmark interest rate 
+for commercial bank lending, set by the PBoC. @BULLET 
+UC3: Debt financing costs are measured as the 1-year effective bank lending interest rate, which 
+is an average of interest rates actually paid on commercial banks loans as surveyed by the PBoC 
+(see Figure 6 above). @BULLET 
+UC4: Debt financing costs are based on the  " apparent interest rate "  as in UC1, but the debt and 
+equity rate are weighted by the changes in the debt and equity share of total liabilities for each 
+firm in each year. The advantage of these  " flow "  weights is that they reflect the ongoing financial 
+decisions of the firm. The disadvantage is that they are not directly linked to a well-defined 
+marginal decision (von Kalckreuth, 2001). The micro data used in the model covers listed Chinese firms at the annual frequency over the period 
+2002 to 2007. Descriptive statistics of the variables are given in Table 6. With the exception of changes in 
+user cost, the distributions of all the other variables are positively skewed. The within-firm standard 
+deviation, which measures the variability of each variable across time abstracting from variation across 
+24 ECO/WKP(2010)78 firms, is relatively high for cash flow over capital ( 1 
+, , − 
+t 
+s t 
+s K 
+cf ), whereas the investment to capital ratio ( 1 
+, , − 
+t 
+s t 
+s K I ) has been relatively less volatile. Finally, a comparatively large share of the volatility in all of the changes in user cost variables (UC1 to UC4) can be explained by aggregate time effects and is therefore 
+common across firms, particularly user cost estimated using commercial bank lending rates at the macro 
+level. In contrast, most of the variability in the other variables in the model is firm-specific. Table 6. Descriptive statistics of regression variables Variable 
+Mean 
+Median Within-firm 
+standard 
+deviation Firm-specific 
+time variation Investment over (lagged) capital 1 
+, − 
+t 
+i it K I 0.202 
+0.117 
+0.171 
+0.970 Change in (logged) sales ΔY i 
+0.168 
+0.145 
+0.291 
+0.958 Cash flow over (lagged) capital i 
+t 
+i i 
+t K − − − 1 
+, cf 0.582 
+0.299 
+0.381 
+0.946 Change in (logged) user cost -UC1 
+-0.055 
+-0.143 
+0.444 
+0.181 Change in (logged) user cost -UC2 
+-0.051 
+-0.148 
+0.344 
+0.035 Change in (logged) user cost -UC3 
+-0.083 
+-0.231 
+0.407 
+0.022 Change in (logged) user cost – UC4 
+-0.011 
+-0.079 
+0.634 
+0.490 Note: The within-firm standard deviation measuring variation over time is calculated after subtracting the means of each variable from 
+each observation at the firm level. The firm-specific time-variation is calculated as 1-R 
+2 where the R 
+2 is from a regression of each 
+mean-differenced variable on time dummies. Source: TEJ database and authors' analysis. The results of estimating equation 2 with the four alternative measures of the user cost of capital are 
+given in Table 7. As well as the coefficient estimates, the table also reports the long-run elasticities, which 
+are calculated using equation 5: ( 
+) ∑ 
+− ∑ 
+= = = L 
+h K 
+I 
+h h 
+h LRE 0 / 0 1 γ γ L 
+x [5] 
+25 ECO/WKP(2010)78 Table 7. Investment regression results Dependent variable: I i,t /K i,t-1 Explanatory variable: 
+UC1 
+UC2 
+UC3 
+UC4 Using the 
+Apparent 
+firm interest 
+rate Using the 
+one-year 
+regulated 
+bank 
+lending rate Using the 
+effective 
+one-year 
+bank 
+lending rate Using flow 
+weights Investment over (lagged) capital 1st lag 
+0.199*** 
+0.202*** 
+0.201*** 
+0.178*** 
+Investment over (lagged) capital 2nd lag 
+0.015 
+0.013 
+0.023** 
+0.033* Change in (log) sales 
+Long-run sales elasticity 
+0.191 
+0.193 
+0.201 
+0.239 
+Current period 
+0.077*** 
+0.079*** 
+0.074*** 
+0.083*** 
+1st lag 
+0.037*** 
+0.033*** 
+0.039*** 
+0.061*** 
+2nd lag 
+0.039*** 
+0.041*** 
+0.042*** 
+0.044** Change in (logged) user cost 
+Long-run user cost elasticity 
+-0.102 
+0.000 
+-0.263 
+-0.033 
+Current period 
+-0.025** 
+-0.088 
+0.256*** 
+-0.026** 
+1st lag 
+-0.041*** 
+-0.119 
+-0.148* 
+-0.016 
+2nd lag 
+-0.015* 
+-0.078 
+-0.312*** 
+-0.001 Cash flow over (lagged) capital Long-run cash flow elasticity 
+0.045 
+0.042 
+0.040 
+0.033 
+Current period 
+0.096*** 
+0.086*** 
+0.089*** 
+0.058*** 
+1st lag 
+-0.073*** 
+-0.067*** 
+-0.067*** 
+0.015 
+2nd lag 
+0.013*** 
+0.014*** 
+0.009** 
+-0.032*** Number of observations 
+2490 
+2905 
+2911 
+880 
+R 2 0.26 
+0.26 
+0.26 
+0.24 Note: *, ** and *** denote statistical significance at the 10, 5 and 1% level respectively. Source: Authors' analysis. In all versions of the model, the long-run impact of sales growth on changes in the capital stock is 
+broadly similar at around 0.2, indicating that investment responds positively to increases in firm output, as 
+proxied by real sales growth. The estimated impact of changes in the user cost of capital on investment varies across models. In the 
+benchmark model, the user cost, which is calculated using the apparent interest rate at the firm level 
+(UC1), has a negative impact on investment that is statistically significant – all of the contemporaneous 
+and lagged values are negative and significant with a peak impact occurring after one year. This indicates 
+that by influencing the cost of debt financing and the opportunity cost of equity financing, interest rate 
+changes alter the user cost of capital for Chinese firms and thereby affect investment. The long-run impact of changes in the user cost of capital on investment at the firm level is negative 
+and statistically significant in all version of the model, except the one estimated using UC2, in which debt 
+financing costs are measured using the PBoC benchmark commercial bank lending rate. When the 
+effective lending rate is used in the user cost calculation (UC3) the first and second lags are both negative 
+and significant to varying degrees, although the contemporaneous coefficient is significantly positive. 
+Finally, when the user cost if calculated using the  " flow "  weights (UC4), all the coefficients are negative 
+although only the contemporaneous value is significant at the 5% level. 14 The finding that UC3 – the user 14. 
+As a result of the additional lag used to calculate the flow weights and the exclusion of negative weights, 
+the number of observations in this regression is significantly reduced relative to the benchmark model. 
+26 ECO/WKP(2010)78 cost of capital estimated using the benchmark commercial bank lending rate – has no significant impact on 
+capital formation implies that this policy interest rate is becoming increasingly irrelevant for 
+macroeconomic control and strengthens the case for it to be abolished. In all versions of the model, the cash flow variable is typically highly significant. This may reflect the 
+effect of monetary policy operating through the firm's balance sheet – that is, a change in monetary policy 
+translates into a change in the amount of funds available to the firm, and thus affects firm investment. In 
+most cases, the coefficient on the first lag is negatively signed, although the long-run elasticity is still 
+positive, indicative of binding credit constraints in China's listed companies sector. Note, however, that 
+interpreting the implication of the coefficients on the cash flow variable can be problematic given that 
+current investment depends on expected future profits, which may be correlated with current cash flow. To assess whether the impact of the user cost of capital and cash flow on investment differs across 
+firm size, Table 8 reports the results of estimating the investment equation with firms split into three equal-
+sized groups based on the number of employees. The results are essentially unchanged from those reported 
+in Table 8. Changes in firm sales have a significant positive effect on investment. There is some evidence 
+that investment by large firms is less sensitive to the cost of capital, with the long-run elasticity much 
+lower than in the case of small and medium-sized firms, perhaps indicating that SOEs are still somewhat 
+less sensitive to the user cost of capital than the private sector. There does not, however, appear to be any 
+differences in the impact of cash flow on investment across different-sized firms. 
+27 ECO/WKP(2010)78 Table 8. Using the apparent firm interest rate for the user cost variable Dependent variable: I i,t /K i,t-1 
+Explanatory variable 
+Explanatory variable (user cost elasticity varies by firm size) 
+(cash flow elasticity varies by firm size) Change in investment over lagged 
+capital Change in investment over lagged 
+capital 
+1st lag dependent variable 
+0.199*** 
+1st lag dependent variable 
+0.196*** 2nd lag dependent variable 
+0.015 
+2nd lag dependent variable 
+0.015 Change in log sales 
+Change in log ) sales 
+Long-run sales elasticity 
+0.188 
+Long-run sales elasticity 
+0.201 
+Current period 
+0.075*** 
+Current period 
+0.080*** 
+1st lag 
+0.036*** 
+1st lag 
+0.038*** 
+2nd lag 
+0.040*** 
+2nd lag 
+0.043*** Cash flow over lagged capital 
+Impact of change in log user cost 
+long-run cash flow elasticity 
+0.046 
+long-run cash flow elasticity 
+-0.093 Current period 
+0.095*** 
+Current period 
+-0.030*** 1st lag 
+-0.072*** 
+1st lag 
+-0.044*** 2nd lag 
+0.013*** 
+2nd lag 
+-0.014 Impact of change in log user cost 
+Impact of change in log cash flow Small firms 
+Small firms 
+Long-run user cost elasticity 
+-0.136 
+Long-run cash flow elasticity 
+0.026 
+Current period 
+-0.059*** 
+Current period 
+0.069*** 
+2nd lag 
+-0.017 
+2nd lag 
+0.014*** Mid-size firms 
+Mid-size firms 
+long-run user cost elasticity 
+-0.129 
+Long-run cash flow elasticity 
+0.086 
+Current period 
+-0.043*** 
+Current period 
+0.085*** 1st lag 
+-0.041*** 
+1st lag 
+-0.035*** 2nd lag 
+-0.020* 
+2nd lag 
+0.019** Large firms 
+Large firms long-run user cost elasticity 
+-0.044 
+Long-run cash flow elasticity 
+0.111 62 Current period 
+-0.020 
+Current period 
+0.052*** 1st lag 
+-0.035*** 
+1st lag 
+-0.051*** 2nd lag 
+-0.009 
+2nd lag 
+0.049*** Number of observations 
+2490 
+Number of observations 
+2490 
+R 2 0.260 R 2 0.260 Note: *, ** and *** denote statistical significance at the 10, 5 and 1% level respectively. Source: TEJ database and authors' analysis. Dynamic simulation of the benchmark model (UC1) indicates that the impact of interest rate changes 
+on business investment is not only statistically significant but also of a scale that is useful for 
+macroeconomic stabilisation. In this simulation, the policy interest rate is raised by one percentage point 
+while inflation is held constant. This policy rate shock is then reversed linearly over five years. Changes in 
+28 ECO/WKP(2010)78 the policy interest rate are assumed to gradually feed into the interest rate faced by firms according to the 
+maturity structure of their debt and the extent of equity financing. 15 The cost of equity financing is driven 
+by the cost of long-term debt, which, based on the observed behaviour of Chinese 10-year bond rates, 
+increases by 0.2 percentage point for every percentage point rise in short rates. In total, reflecting the 
+gradual impact of the policy rate on interest rates faced by firms, the user cost of capital increases by only 
+one third of a percentage point in the first year in response to a one percentage point increase in the policy 
+rate. Even so, this relatively mild policy interest rate shock is estimated to lead to a cumulative slowdown 
+in investment and GDP relative to baseline of 2.5% and 0.9% respectively over the next four years 
+(Figure 11). Figure 11. Impact on investment and GDP of a one percentage point increase in real policy rates The increase in the policy rate is tapered to zero over five years Investment -1.2 -1.0 -0.8 -0.6 -0.4 -0.2 0.0 -1.2 -1.0 -0.8 -0.6 -0.4 -0.2 0.0 1 
+2 
+3 
+4 GDP Source: Authors' analysis. The impact of monetary policy on asset prices A further channel by which monetary policy can influence economic activity is through its impact on 
+asset prices. Central bank operations that increase liquidity will cause the prices of private sector assets to 
+rise and for investors to move towards less-liquid assets, thereby increasing the prices of longer-term 
+securities and then other assets such as stocks and real estate (Bordo and Wheelock, 2004). This channel 
+appears to be quite strong in China. Stock market prices are affected rapidly and to a large extent by 
+changes in monetary policy settings. Koivu (2009), for example, finds that, over 1998-2008, a one 
+percentage point increase in the money supply leads to an increase in equity prices of 3.5% within two 
+quarters. The impact of a similar increase in money on house prices is somewhat less (2.5%) and is spread 
+out over a two year period. Such findings suggest that much of the surge in house prices in 2010 can be 15 . 
+This average interest rate is not the rate that enterprises should use in making their investment decision; 
+rather the interest rate on new borrowing should be used. However, almost all firm debt is short term, so 
+reducing this bias. For the average firm, 80.9% of debt has an original maturity of less than one year. Of 
+the remaining long-term debt, 17% had a maturity of less than one year, suggesting an average initial 
+maturity of 6 years. 
+29 ECO/WKP(2010)78 attributed to the rapid growth of money during 2009. The impact of interest rates, rather than credit 
+availability, appears to be much lower (Zhu, 2006). The impact of monetary policy on consumption is probably small but growing 
+China's consumer credit market is still relatively small compared with enterprise credit but is 
+developing quickly. At the end of the 1990s, there was scarcely a housing market at all. However, as a 
+result of housing market reforms that concluded in 1998, the sale of state-owned housing to occupants at 
+less than market value resulted in a large number of owner-occupiers with little debt and created the 
+potential for a buoyant market. Since then, a re-orientation of the banking system towards more 
+commercial lending practices has significantly increased the dynamism of the residential mortgage market. 
+Banks have rapidly expanded mortgage lending, which has increased by over 20% annually between 2006 
+and 2008. Lending accelerated further in 2009 and 2010. In the twelve months to June 2010, residential 
+mortgages rose by almost half, reaching almost 13% of total bank lending, an increase of almost three 
+percentage points in one year. The housing market is therefore becoming a significant additional channel through which interest rate 
+changes affect the real economy. At the current level of interest rates and assuming a 15-year mortgage, a 
+two percentage point increase in interest rates would increase mortgage payments by an amount equivalent 
+to 3.5% of consumer spending or 1% of GDP. 16 As yet there is little evidence than changes in housing 
+wealth have any impact on private consumption, in contrast to the position in other Asian economies such 
+as Hong Kong, Singapore and Thailand (Peltonen et al., 2009). Equity prices appear to have an impact on 
+private consumption but the effect is small at best: a 10% rise in stock prices appears to raise private 
+consumption by 0.12% according to Peltonen et al. but Koivu (2009) found no impact. The determinants of Chinese inflation 
+In market economies, the difference between aggregate demand and potential output is a key source 
+of changes in inflation pressure: the output gap, as a summary measure of the extent of excess demand, is 
+an important link between the real side of the economy and inflation. Given that the investment decisions 
+of Chinese firms are sensitive to interest rate changes and the rapid growth of consumer credit, a 
+significant relationship between aggregate demand and inflation would provide important evidence of an 
+operative monetary policy transmission channel. Of course, for this link to work, prices need to be largely 
+determined by market forces, which is generally now the case in China. 17 From the mid-1980s to the mid-1990s the Chinese economy was very volatile, with wide swings in 
+the output gap and inflation. Subsequently, the adoption of a fixed exchange rate peg against the dollar, 
+following a period of large devaluations, helped reduce inflation volatility. At the same time, with greater 
+experience in managing an increasingly market-oriented economy, the gaps between aggregate supply and 
+demand have moderated. In addition, the adoption of a more flexible exchange rate policy in 2005 
+increased the ability of monetary policy to focus on domestic objectives and stabilise inflation. However, 
+in part reflecting the global commodity cycle, inflation began to increase again prior to the global financial 
+crisis, with CPI inflation peaking at 8.1% in February 2008. From the beginning of 2009, reflecting a 16 . 
+Mortgage lending is regulated by the PBoC. Until recently, the mortgage interest rate had to be adjustable 
+and linked to the regulated commercial lending rate of the banks. Rates are changed at the beginning of 
+each year. Mortgages must be less than 80% of the assessed value of the property and payments must be 
+less than 50% of income. 17 . 
+Price reform in China began in agricultural markets in the late 1970s and gathered pace in the mid-1980s. 
+By the early 1990s, almost half of industrial prices had been deregulated. By 2003, this figure had 
+increased to almost 90% (OECD, 2005). 
+30 ECO/WKP(2010)78 marked tightening in monetary policy one year earlier and the global economic recession, Chinese inflation 
+declined markedly, turning into deflation. Consistent with China's recent inflation experience, the OECD's 
+estimate of the output gap indicates significant excess demand in 2007 that subsequently turned into excess 
+capacity with the tightening of monetary policy and the global recession (Figure 12). Figure 12. Changes in inflation and the output gap -15 -12 -9 -6 -3 0 3 6 9 12 -8 -6 -4 -2 0 2 4 6 1986 
+1988 
+1990 
+1992 
+1994 
+1996 
+1998 
+2000 
+2002 
+2004 
+2006 
+2008 % 
+% Gap (left scale) 
+Change in inflation (right scale) Source: CEIC and authors' analysis. Empirical assessments of the link between aggregate demand and inflation in China have produced 
+mixed results. Using a basic specification of the Phillips curve, Coe and McDermott (1996) find no support 
+for a link between aggregate demand and Chinese inflation over the 1970s and 1980s. Ha et al. (2003) 
+measure potential output using a simple linear trend and also find that the Phillips curve fails to explain 
+inflation dynamics in China, which they attribute to the difficulties of estimating potential output. In 
+contrast, papers using data from the more recent period and output gaps estimated using more appropriate 
+techniques do find support for the Phillips curve in Chinese data. For example, Oppers (1997) finds that 
+China's inflation experience does, to a large extent, reflect surges in the main components of aggregate 
+demand. Gerlach and Peng (2004) also find that the Phillips curve fits the Chinese data provided adequate 
+care is taken to account for the effect of structural change on price formation in the economy. Finally, in a 
+careful analysis that uses time dummies to account for structural change, Scheibe and Vines (2005) find 
+that the output gap, the exchange rate, and inflation expectations all play important roles in explaining 
+Chinese inflation. To assess the impact of changes in aggregate demand on inflation in China, the following Phillips 
+curve is estimated, based on Scheibe and Vines' approach but updated to include five additional years of 
+data, at a quarterly frequency and to end-2007: ε 
+γ 
+γ 
+π 
+γ 
+π 
+γ 
+π t 
+i 
+i 
+t 
+i 
+i 
+t 
+i 
+t 
+t 
+t e 
+y 
+E 
+const 
++ 
+Δ 
++ 
++ 
++ 
++ 
+= π 
+π 
+π 
+π e 
+gap 
+gap 
+E ∑ 
+∑ 
+∑ = 
+− 
+= 
+− 
+= 
+− 
++ 
+0 
+0 
+1 
+1 
+1 Δ 
+4 
+4 
+4 [6] where π is the four-quarter percentage change in the consumer price index, E π is expected inflation, y gap is 
+the OECD's estimate of the Chinese output gap derived using a production function methodology and e is 
+the nominal effective exchange rate expressed so that an increase is a depreciation. The results of estimating this equation are given in Table 9. In the backward-looking version of the 
+model, in which expected inflation is assumed to equal inflation in previous quarters, the coefficient on the 
+31 ECO/WKP(2010)78 output gap is positive and significant, indicating that Chinese inflation does react to the level of excess 
+demand in the economy. When aggregate demand is greater than the economy's supply capacity, inflation 
+begins to move upwards in response to shortages in key markets. The converse applies when the output 
+gap is negative. Table 9. Phillips curve estimates for China Dependent variable: Four-quarter change in the CPI Explanatory variable Using lagged CPI 
+inflation to proxy 
+expectations Using survey-
+based 
+expectations and 
+lagged CPI 
+inflation to proxy 
+expectations Output gap 
+3rd lag 
+0.144** 
+0.156* Expected inflation 
+Total impact 
+0.883 
+1.028 1st lag, CPI inflation 
+1.369*** 
+1.161*** 2nd lag, CPI inflation 
+-0.486*** 3rd lag, CPI inflation 
+-0.346*** Survey estimate 
+0.213*** Change in the effective nominal exchange rate 
+Total impact 
+0.167 
+0.089 Current period 
+0.127*** 
+0.053*** 5th lag 
+0.040*** 
+0.036 Number of observations 
+78 
+65 Sum of coefficients on lagged and target CPI and 
+exchange rate 
+1.050 
+1.117 Note: *, ** and *** denote statistical significance at the 10, 5 and 1% level respectively. Source: Authors' analysis. In addition, the coefficients on changes in the nominal effective exchange rate are also highly 
+statistically significant, implying that changes in the (trade-weighted) nominal exchange rate also drive 
+inflation, with currency appreciation working to bring down inflation. In the  " hybrid "  version of the model, expected inflation is proxied by using both lagged inflation and 
+a survey measure of forward-looking inflation expectations. The coefficient on the surveyed inflation 
+measure has the expected positive sign and is highly significant indicating that current inflation is 
+influenced by expected inflation one year in the future. Furthermore, the sum of the coefficients on lagged 
+and forward-looking inflation and changes in the nominal exchange rate are not statistically different from 
+one, implying that the long-run Phillips curve is vertical and there is no long run trade-off between excess 
+demand and inflation. As a result, any sustained increase in output above potential would lead to ever-
+higher inflation. These results suggest that monetary policy will be more effective than would otherwise be the case 
+provided that the PBoC's pursuit of low and stable inflation is credible. If it is believed that the PBoC will 
+adjust policy settings to keep inflation low, this will, to some extent, become self-fulfilling through the 
+32 ECO/WKP(2010)78 impact of expected inflation. As a result, a given reduction in inflation can be brought about by smaller 
+changes in the output gap than if expectations were based purely on past inflation. Not surprisingly, given price and other reforms in China, Phillips curve estimates are sensitive to the 
+sample period and to how structural change is accounted for in the model. However, with a larger share of 
+economic activity being conducted by the private sector and subject to market conditions, the relationship 
+between excess demand and inflation is likely to become increasingly robust over time. While the evidence from estimated policy reaction functions is not yet conclusive, two estimates 
+suggest that the PBoC and the State Council do take into account an inflation target in setting interest rates 
+and do not rely entirely on quantity-based targets. Using monthly data, He and Pauwels (2008) find that 
+interest rates appear to be changed in proportion to the deviation of annual inflation from a rate of 3% and, 
+to a lesser extent, to the deviation of money supply growth from the target. Policy interest rates also tend to 
+move when foreign exchange reserves are growing. On the other hand, the extent to which output differs 
+from trend (the output gap) does not appear to enter into the policy reaction function. Other authors, such 
+as Mehorat and Sanchez-Fung (2010), find that inflation enters much more weakly into the reaction 
+function. The monetary policy cycles of 2007 and 2010 both fit a reaction function in which inflation plays a 
+role. In both cases, the tightening cycle for interest rates started a few months after inflation rose above 
+3%. From the point of view of controlling inflation, however, this reaction comes too late, since inflation 
+responds to the output gap with a lag of several quarters. Consequently, leaving an increase in interest rates 
+until after inflation has reached 3% will cause inflation to overshoot. The PBoC and the State Council need 
+to take a more forward-looking approach in which rates are moved in response to demand pressures in the 
+goods market, rather than waiting until inflation has breached the target. The role of the exchange rate regime in Chinese monetary policy Since a system of dual exchange rates was abolished in 1994, China's exchange rate regime has 
+officially been described as a managed float. During the first half of the 2000s, however, the renminbi was 
+effectively pegged to the US dollar. In July 2005, the renminbi was revalued by 2.1% against the US dollar 
+and the bands of permissible daily movements increased to ± 0.3%. The authorities also announced that, 
+going forward, the value of the renminbi would be set relative to a currency basket. In practice, the 
+authorities did permit the rate of renminbi appreciation vis-à-vis the US dollar to increase after the 
+July 2005 announcement but daily changes typically did not test the ± 0.3% bound. 18 Since August 2008 
+until recently, the pace of appreciation has stalled and the value of the renminbi has been broadly stable 
+against the US dollar. The weights in the renminbi currency basket The official weights in the renminbi currency basket have not been disclosed. However, these weights 
+can be estimated using a modified version of a model devised by Frankel and Wei (2007). Specifically, the 
+following equation is estimated: 18 . 
+From end-July 2005 to August 2008, the absolute value of daily changes in the renminbi spot rate vis-à-vis 
+the US dollar averaged 0.06%, only a small fraction of the permissible maximum. The limit of ± 0.3% was 
+reached or exceeded on only three days. 
+33 ECO/WKP(2010)78 ε 
+γ π e 
+t N C SDR 
+t 
+C e 
+SDR 
+t 
+RMB e 
+const 
+e Δ 
+= Δ + 
+Δ 
++ 
+= 
+Δ ∑ 1 , 
+, [7] In this model, daily changes in the renminbi exchange rate ( 
+) are regressed against daily changes in the 11 currencies ( 
+) that have been disclosed by the PBoC as being in the renminbi currency basket (US dollar, euro, Japanese yen, Korean won, Singapore dollar, UK pound, Malaysian 
+ringgit, Russian ruble, Australian dollar, Thai baht and Canadian dollar). To reduce the potential for multi-
+collinearity, all of the Asian currencies, except the Japanese yen, are combined into a weighted average 
+using their share of Chinese trade as weights. All currencies used in the regression are expressed vis-à-vis 
+the IMF's Special Drawing Rights (SDR). The equation also contains a constant term ( 
+) and error 
+term ( 
+). SDR 
+t 
+RMB e , 
+Δ SDR 
+t 
+C e , 
+Δ e const Δ ε e t 
+Δ The estimation period runs from July 2005, when the Chinese authorities announced that the value of 
+the renminbi would be managed relative to a currency basket, until May 2010. The sum of the coefficients 
+in the model is constrained to equal one, though this has little impact on the estimation results. The same 
+model is also estimated over the entire sample period using the time-varying coefficients methodology 
+outlined in Box 1. The results of estimating equation [7] are given in Table 10. Over the whole period, as expected, the 
+US dollar is the primary currency in the basket with the remainder of the basket containing only other 
+Asian currencies and this is confirmed by the use of the time-varying coefficient methodology (Figure 13). Table 10. Estimated currency weights in the renminbi currency basket Full sample US dollar 
+0.923*** 
+Japanese yen 
+0.021*** 
+All other Asian currencies 
+0.045*** Euro 
+-0.001 
+UK pound sterling 
+-0.004 
+Canadian dollar 
+-0.001 Russian rouble 
+0.017 
+Constant 
+0 Observations 
+757 Note: *, ** and *** denote statistical significance at the 10, 5 and 1% level respectively. Source: Authors' analysis. 
+34 ECO/WKP(2010)78 Figure 13. Estimated weight of the US dollar in the renminbi currency basket 0.6 0.7 0.8 0.9 1.0 1.1 0.6 0.7 0.8 0.9 1.0 1.1 1.2 
+1.2 Oct-02 
+Oct-03 
+Oct-04 
+Oct-05 
+Oct-06 
+Oct-07 
+Oct-08 
+Oct-09 Point estimate 95% confidence interval July 2008 : 
+peg restored Source: Authors' analysis. These results reinforce the view that during the period of currency appreciation, the Chinese 
+authorities focussed on the US dollar rate, rather than on a basket that would have more closely reflected 
+the share of the US dollar in effective exchange rate calculations. OECD estimates suggest that the weight 
+of the United States dollar in an effective exchange rate index should have been around 13% in 2008 
+(Table 11). The addition of currencies closely linked to the US dollar (such as those of Hong Kong, China 
+and Chinese Taipei), the weight of the US dollar zone only rises to 24%. (Table 11). As a result, the 
+effective exchange rate often moves quite strongly even if the rate against the dollar is fixed (Figure 14). 
+35 ECO/WKP(2010)78 Table 11. The weights in the OECD effective exchange rate index for China 2000 
+2004 
+2008 Per cent United States 
+16.8 
+14.1 
+13.0 Hong Kong, China 1 5.2 
+1.8 
+1.2 Chinese Taipei 2 4.1 
+9.2 
+9.5 Above three economies 
+26.0 
+25.0 
+23.7 Euro area 
+16.4 
+18.2 
+19.2 Japan 
+24.0 
+21.8 
+19.1 Korea 
+11.6 
+12.7 
+12.8 Singapore 
+3.7 
+4.2 
+4.6 Malaysia 
+1.8 
+2.0 
+2.4 United Kingdom 
+2.6 
+2.2 
+2.1 Thailand 
+1.5 
+1.6 
+2.1 Russia 
+2.3 
+1.4 
+1.5 India 
+0.6 
+1.0 
+1.3 Canada 
+1.5 
+1.3 
+1.2 Switzerland 0.8 
+0.9 
+1.1 Twenty other countries 7.3 
+7.6 
+8.9 All 49 countries used in calculation 100.0 100.0 100.0 Note 
+1 The currency of Hong Kong China has fluctuated in a band of ±0.5% against the US dollar over the past decade Note 
+2 The currency of Chinese Taipei has fluctuated in a band of ±5.0% against the US dollar over the past decade Source: OECD Exchange Rate database. These results are in apparent contrast to the speeches of the PBoC governor who in 2006 stated that 
+the US dollar had a weight of no more than 50% in the basket. The rolling estimate also suggests that there 
+was a marked change in the weight of the dollar about one year after the initial revaluation. Figure 14. Bilateral and effective exchange rates -2.5 -2.0 -1.5 -1.0 -0.5 0.0 0.5 1.0 1.5 2.0 2.5 Jun-00 
+Dec-00 
+Jun-01 
+Dec-01 
+Jun-02 
+Dec-02 
+Jun-03 
+Dec-03 
+Jun-04 
+Dec-04 
+Jun-05 
+Dec-05 
+Jun-06 
+Dec-06 
+Jun-07 
+Dec-07 
+Jun-08 
+Dec-08 
+Jun-09 
+Dec-09 
+Jun-10 A. Daily bilateral exchange rate changes 6.5 
+1.35 7.0 7.5 8.0 8.5 9.0 9.5 10.0 
+0.85 0.95 1.05 1.15 1.25 Jan-01 
+Jul-01 
+Jan-02 
+Jul-02 
+Jan-03 
+Jul-03 
+Jan-04 
+Jul-04 
+Jan-05 
+Jul-05 
+Jan-06 
+Jul-06 
+Jan-07 
+Jul-07 
+Jan-08 
+Jul-08 
+Jan-09 
+Jul-09 
+Jan-10 B. Nominal and real exchange rates Nominal effective, 2005=1 (left scale) Real effective, 2005=1 (left scale) Nominal RMB/USD (right scale) Source: OECD Exchange Rate database. 
+36 ECO/WKP(2010)78 While the authorities have been reluctant to allow a nominal appreciation of the renminbi against the 
+dollar for more than half of the past decade, a real appreciation of the currency normally occurs as an 
+economy develops. This is the result of the ratio of prices in the service sector of an economy to prices in 
+tradable goods rising towards the ratio seen in advanced countries. As a result, the overall price level 
+increases relative to advanced countries and hence the real exchange rate appreciates. This tendency of the 
+real exchange to appreciate, and hence for the market exchange rate to approach the purchasing power 
+parity of the currency, is known as the Harrod-Balassa-Samuelson (HBS) effect. Allowing for this effect, 
+and using the most recent estimates of purchasing power parities, the Chinese currency was close to its 
+income-adjusted purchasing power parity level in 2007 (Cheung et al., 2010). The HBS effect, however, is 
+even more pronounced when relative productivity is used, instead of relative income, to measure the extent 
+to which an economy lags behind the most advanced countries. Indeed, for the renminbi the gap between 
+the productivity-adjusted purchasing power parity and the market exchange rate is even narrower than on 
+the income measure. The theoretical expectation that the real exchange would appreciate gradually, is matched by the 
+actual gradual real appreciation of the renminbi over the period since the currency became fully convertible 
+for trade purposes in 1994. Since then the currency has appreciated on average by 1.7% per year. Such an 
+appreciation is almost exactly in line with the cross-sectional slope of the HBS and the speed with which 
+the Chinese economy is the closing the productivity gap with the United States. The sterilisation of foreign reserve inflows 
+Over recent years, China's exchange rate regime has been coming under increasing pressure. Since 
+2005, large current account surpluses and rising capital inflows, particularly of foreign direct investment, 
+have resulted in appreciation pressure on the renminbi (Figure 15 Panel A). In response, the State 
+Administration of Foreign Exchange has sold renminbi, leading to a large and sustained increase in foreign 
+reserves to unprecedented levels. In late 2008 and early 2009, sizeable capital outflows slowed the pace of 
+foreign reserve accumulation, while a fall in the current account surplus was responsible for a fall in 
+reserve accumulation in the first half of 2010 (Figure 15 Panel B). Since the beginning of 2009, the pace of 
+reserve accumulation has slowed to USD 28 billion per month down from USD 34 billion per month in the 
+previous 18 months. By September 2010, total reserves stood at $2.65 trillion, making China by far the 
+world's largest holder of foreign exchange reserves, ahead of Japan. The rapid accumulation of foreign exchange reserves arising from currency intervention has the 
+potential to spill over into China's domestic money market by affecting reserve money growth and wider 
+monetary conditions. This has been an important consideration underpinning the policy actions of the 
+PBoC over recent years. To limit such effects, the PBoC uses OMOs of PBoC bills and changes in 
+commercial bank reserve requirements to drain liquidity from the banking system and sterilise the 
+domestic monetary consequences of foreign reserve inflows. Since 2002, the value of the PBoC's sterilisation instruments outstanding has risen roughly in line 
+with the stock of foreign exchange reserves, indicating that the central bank has generally been successful 
+in offsetting the domestic monetary impact of reserve inflows (Figure 15). Accordingly, base money 
+growth has been relatively stable, with little evidence of a trend pick-up in the mid-2000s when reserve 
+inflows began to accelerate. Since then, the PBoC has primarily relied on reserve requirement hikes to 
+offset increased inflows while the issuance of PBoC bills has slowed. Prior to the onset of the global 
+financial crisis, the total value of PBoC sterilisation instruments peaked at 27.5% of bank deposits 
+(required reserve ratio of 17.5% or CNY 7.8 trillion plus PBoC bill issuance of 10% of bank deposits or 
+CNY 4.6 trillion). 
+37 ECO/WKP(2010)78 Figure 15. The balance of payments and foreign exchange reserves -150 -100 -50 0 50 100 150 200 250 300 350 2001H1 
+2001H2 
+2002H1 
+2002H2 
+2003H1 
+2003H2 
+2004H1 
+2004H2 
+2005H1 
+2005H2 
+2006H1 
+2006H2 
+2007H1 
+2007H2 
+2008H1 
+2008H2 
+2009H1 
+2009H2 USD Bn A. The balance of payments Current account FDI Other Reserve accumulation -40 -20 0 20 40 60 80 100 0 500 1000 1500 2000 2500 3000 Feb-1998 
+Feb-1999 
+Feb-2000 
+Feb-2001 
+Feb-2002 
+Feb-2003 
+Feb-2004 
+Feb-2005 
+Feb-2006 
+Feb-2007 
+Feb-2008 
+Feb-2009 
+Feb-2010 USD Bn 
+USD Bn B. Foreign exchange reserves Change in foreign reserves (right scale) Foreign reserves (left scale) Source: OECD Exchange Rate database. As part of its efforts to increase liquidity in late 2008 and early 2009, the PBoC used open market 
+purchases of PBoC bills and cuts in the required reserves ratios to inject around CNY 780 billion of base 
+money, opening a gap between the movement of reserves and the total of the outstanding sterilisation 
+instruments (Figure 16). This was then progressively reversed from the summer of 2009 and by 
+March 2010, the total value of PBoC bills outstanding was CNY 4.3 trillion, equivalent to 6.7% of total 
+bank deposits. With the required reserves ratio back to 17% – equivalent to CNY 10 trillion – the PBoC 
+was effectively removing almost one quarter of bank deposits from circulation. Figure 16. PBoC sterilisation and base money 0 2000 4000 6000 8000 10000 12000 14000 16000 0 2000 4000 6000 8000 10000 12000 14000 16000 2002Q1 
+2003Q1 
+2004Q1 
+2005Q1 
+2006Q1 
+2007Q1 
+2008Q1 
+2009Q1 
+2010Q1 18000 
+18000 CNY Bn 
+CNY Bn 
+PBoC bonds 
+Required reserves 
+Foreign reserves Source: CEIC Relative to the PBoC's desired rate of reserve money growth – derived from a money supply 
+equation – Ouyang et al. (2007) estimate that the central bank was able to sterilise 92 to 97% of excess 
+reserve inflows over 1999-2005. Even during the period of slow appreciation of the currency post 2005, 
+the sterilisation of foreign currency purchases was successful. Such periods of slow appreciation can 
+complicate the conduct of monetary policy as they can give rise to expectations of further appreciation that 
+in turn generate capital inflows. It has been argued that such a policy is inherently unstable, as expectations 
+38 ECO/WKP(2010)78 of further exchange rate rises generate capital inflows on a scale that would make sterilisation impossible 
+(McKinnon and Schnabl, 2009). However, this does not appear to be the case for China, where the PBoC 
+was able to maintain the growth rate of M2 very close to its target of 17% during the period of slow 
+currency appreciation vis-à-vis the US dollar. While capital flows have been a source of increases in 
+reserves in certain periods, over the longer haul the increase in reserves (excluding valuation changes) has 
+been the result of the current account surplus and inflows of foreign direct investment (Table 12). 
+Since 2007, the government has encouraged capital outflows from state-owned enterprises, notably in the 
+area of resource-related investments (OECD, 2008), and, together with the creation of a sovereign wealth 
+fund, helped reduced pressure on reserve increases, notably in 2008. Table 12. Currency inflows and increase in foreign exchange reserves USD billion 2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+H1 
+Inflows of currency Trade and FDI 
+239.9 
+331.4 
+510.2 
+583.9 
+375.3 
+182.9 
+Current account surplus 
+160.8 
+253.3 
+371.8 
+436.1 
+297.1 
+126.5 Inward FDI 
+79.1 
+78.1 
+138.4 
+147.8 
+78.2 
+56.4 Financial capital flows 
+93.0 
+112.8 
+118.2 
+19.4 
+43.8 
+59.9 
+Inward portfolio 
+21.2 
+42.9 
+21.0 
+9.9 
+28.8 
+-0.1 Inward other assets 
+44.9 
+45.1 
+81.8 
+-15.0 
+58.5 
+96.0 Errors and omissions 
+26.9 
+24.8 
+15.4 
+24.5 
+-43.5 
+-36.0 Total 
+333.0 
+444.2 
+628.4 
+603.3 
+419.1 
+242.8 Outflows of currency 
+Outward FDI 
+-11.3 
+-21.2 
+-17.0 
+-53.5 
+-43.9 
+-19.4 Outward portfolio 
+-26.2 
+-110.4 
+-2.3 
+32.7 
+9.9 
+-7.2 Outward other assets 
+-48.9 
+-31.9 
+-151.5 
+-106.1 
+9.4 
+-38.2 Total 
+-86.4 
+-163.4 
+-170.8 
+-126.8 
+-24.6 
+-64.8 Current account and 
+inward FDI 
+239.9 
+331.4 
+510.2 
+583.9 
+375.3 
+182.9 Other capital inflows 
+6.6 
+-50.6 
+-52.6 
+-107.4 
+19.2 
+-4.9 Reserve asset flow 
+-250.6 
+-284.8 
+-460.7 
+-479.5 
+-398.4 
+-178.0 Rate of growth of reserves 
+41.1 
+34.8 
+43.2 
+31.4 
+20.5 
+15.4 Reserves as % of GDP 
+36.3 
+39.3 
+43.7 
+43.1 
+48.1 
+43.2 Source: State Administration for Foreign Exchange. 
+39 ECO/WKP(2010)78 Although the PBoC has generally managed to sterilise the effect of foreign reserve inflows on the 
+domestic money supply, holding large reserves is not necessarily costless. Cost/benefit quantification is 
+difficult, however, as it depends on several unknowns, including the maturity of bonds held as reserves and 
+their currency composition. 19 One extreme case is to assume that all foreign exchange reserves are held in 
+dollars, invested in instruments with short-term maturities and financed in local currency by the issue of 
+liabilities with similar maturities to the assets. Then, the financing cost depends on the short-term interest 
+rate differential between US Treasury and PBoC bills. Since 2003, when the build-up in reserves took off, 
+Chinese rates have been, on average, 20 basis points below US rates. This small differential has occurred 
+despite capital controls that, in theory, prevent arbitrage between domestic and foreign money markets. In 
+total, over the period from June 2003 to October 2009, the cumulated interest cost of financing the reserves 
+would have been close to zero on the basis of this extreme assumption. Periods when financing was 
+expensive, such as since the beginning of 2008, have been offset by periods when there was a profit in 
+holding reserves. This was noticeably the case in 2007, when the Chinese authorities did not follow the 
+Federal Reserve in raising short-term interest rates. In the first half of 2010, the financing cost began to 
+mount and approached three-quarters of a percentage point of GDP. While the interest rate cost of holding reserves has been minimal, the central bank has incurred 
+substantial losses due to the appreciation of the currency against the dollar. If the reserves had been held 
+entirely in dollars, the cumulative loss would have amounted to around 6% of annual GDP by 
+October 2009 and would eventually require a recapitalisation of the central bank. As well as exposing the central bank and indirectly the government to interest rate and exchange rate 
+risk, the PBoC's sterilisation operations also impose considerable cost on the Chinese banking sector. In 
+particular, the interest rate paid by the PBoC on required reserves is typically lower than interest rates 
+prevailing in the money market, implying significant opportunity costs for the commercial banks from 
+having to hold reserves. This has worked against the impact of regulated interest rates on bank profits, 
+described above. Sterilisation costs are a fiscal problem and arrangements need to be put in place to pay commercial 
+banks a competitive rate of interest on required reserves and ensure that any losses borne by the PBoC are 
+transferred to the government in a timely manner without weakening the commercial banking sector. The way forward on exchange-rate reform Perhaps the greatest cost of China's exchange rate regime is the constraint it imposes on the PBoC's 
+ability to tailor monetary policy to domestic objectives. The essential problem stems from Robert 
+Mundell's  " inconsistent trinity "  – the impossibility of running an independent monetary policy under a 
+fixed exchange rate regime when financial capital is mobile across borders. This arises because, without 
+exchange rate adjustment, cross-country differences in interest rates lead to capital flows that affect 
+domestic financial conditions. Ultimately, the arbitrage opportunity closes and the central bank is 
+prevented from running an independent monetary policy. Intervening to sterilise changes in foreign reserves can forestall this adjustment but runs the risk of 
+ever-increasing capital flows that could ultimately overwhelm central bank control of the money supply. 
+For example, resisting currency appreciation and sterilising the foreign reserve inflow prevents the 
+domestic interest rate from falling, which attracts more inflows, necessitating more sterilisation, etc. 19 . 
+Even if these were known, there would arguably be a need to standardise the risk factors for both assets 
+and liabilities, otherwise part of the cost (or apparent profit) would be due to unmatched risk-taking, rather 
+than the cost of sterilisation per se. 
+40 ECO/WKP(2010)78 Eventually, as sterilisation costs become prohibitive, the central bank has no choice but to allow the 
+currency to appreciate or interest rates to fall, sparking domestic inflation. In either case, an appreciation of 
+the real exchange rate becomes unavoidable. In the case of China, capital controls do provide the PBoC with some scope for independent monetary 
+policy despite a heavily-managed exchange rate regime. Deviations from covered interest parity (CIP) vis-
+à-vis the United States have been relatively large and persistent at times (Ma and McCauley, 2007). 
+Expectations of renminbi appreciation against the US dollar – as measured in the offshore non-deliverable 
+forward (NDF) market – have at times influenced the direction and volume of estimated portfolio flows 
+across China's border (Figure 17). 20 However, persistent deviations from CIP suggest that these flows are 
+insufficient to equalise returns on broadly equivalent assets, implying that China's capital controls do still 
+bind to some degree. In turn, this implies that the PBoC has some autonomy in its monetary policy settings, 
+despite the exchange rate regime. Figure 17. Estimated monthly portfolio inflows and the covered interest rate differential in favour of the 
+renminbi -25 -20 -15 -10 -5 0 5 10 15 20 -25 -20 -15 -10 -5 0 5 10 15 20 Jan-02 Oct-02 Jul-03 Apr-04 Jan-05 Oct-05 Jul-06 Apr-07 Jan-08 Oct-08 Jul-09 Apr-10 % 
+% of GDP Portfolio inflows (left scale) Covered interest rate differential (right scale) Note: The covered interest rate differential is calculated as the difference between the sum of the onshore three-month interest rate 
+for the renminbi and the expected appreciation of the renminbi over a three-month period, measured at an annual rate, as observed in 
+the Hong Kong market for non-deliverable futures for the renminbi and the three-month US dollar interest rate in London. Portfolio 
+inflows are measured as the difference between the monthly changes in foreign exchange reserves and the sum of the monthly trade 
+balance data and an interpolated series for foreign direct capital inflows and the service part of the current account. Source: Authors' analysis. It remains an open question, however, whether the degree of autonomy afforded by China's capital 
+controls will be sufficient to allow the PBoC to conduct monetary policy in an optimal way in the future. 
+Assessing central bank performance in this regard is not straightforward given the difficulties of isolating 
+the effect of monetary policy on the macroeconomy. Since the  " boom/bust "  cycles of the 1980s and 1990s, 
+Chinese inflation volatility has fallen considerably. However, inflation volatility was also lower in most 
+other countries after 2000 and Chinese inflation remains more volatile than in most OECD countries, 
+including the United States, against whose currency the renminbi has been extremely stable (Figure 18), 20 . 
+A number of authors have investigated the drivers of portfolio inflows in China, finding that to some extent 
+they are correlated with expected movements in the exchange rate, interest rate differentials and asset 
+market returns (Anderson, 2007; Ma and McCauley, 2007). 
+41 ECO/WKP(2010)78 suggesting some difficulty in using monetary policy to stabilise inflation, all the more so as supply shocks 
+from the agricultural sector are more important in China than in advanced economies. Figure 18. Inflation and business cycle volatility across countries Australia Austria Belgium Brazil Canada Chile China Czech Republic Denmark Estonia Finland France Germany Greece Hungary Iceland India Ireland Israel Italy Japan Korea Luxembourg Malaysia Netherlands 
+New Zealand Poland Portugal Singapore Slovak Republic 
+Slovenia South Africa Spain Sweden Switzerland 
+United Kingdom United States Vietnam 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 0.0 
+0.5 
+1.0 
+1.5 
+2.0 
+2.5 
+3.0 
+3.5 
+4.0 
+Standard deviation of the GDP deflator, 1998-2007 Standard deviation of the output gap, 1998-2007 4.0 Note: the standard deviations are calculated using the HP filter over 1998-2007 (annual data). Source: World Development Indicators, authors' analysis. Although a range of factors are at play, the PBoC's policy actions do, indeed seem often to reflect 
+balance-of-payments concerns at the expense of domestic policy objectives. For example, Burdekin and 
+Siklos (2006) find that changes in foreign reserves play a significant role in the PBoC's monetary policy 
+reaction function. Similarly, Ouyang et al. (2007) find evidence that changes in foreign reserves have a 
+significant impact on changes in the PBoC's net domestic assets, implying that maintaining a targeted 
+exchange rate narrows the scope for monetary policy to address domestic objectives and a failure to fully 
+sterilise inflows. Moreover, Laurens and Maino (2007) argue that China's tightly managed exchange rate 
+prevents greater reliance on interest rates to manage aggregate demand given that, theoretically, a 
+tightening might result in larger capital inflows. However, capital controls have been quite successful in 
+restraining capital flows. Indeed, Ma and Macauly (2007) found that capital controls had been sufficiently 
+strong to ensure that China had been able to maintain a monetary policy as independent from that of the 
+United States as did the European Central Bank which had the opposite combination of policies designed 
+to give an independent monetary policy (namely a floating exchange rate and no capital controls). 21 21 . 
+However, in making this comparison, the wider macroeconomic context needs to be taken into account. 
+For example, if, compared to the euro area, China's business cycle is less correlated with the US cycle, 
+then, all else equal, Chinese interest rates will need to deviate from US rates by a relatively larger margin 
+for monetary policy to be optimal. 
+42 ECO/WKP(2010)78 The monetary policy constraints imposed by China's exchange rate regime are reinforced by concerns 
+over the impact of central bank actions on sterilisation costs and the value of China's foreign reserve 
+holdings. Given that the existing stock of PBoC bills has an average maturity of less than one year, 
+changes in domestic interest rates aimed at controlling inflation quickly affect sterilisation costs. 
+Contingent losses on foreign reserves also temper the extent of renminbi appreciation permitted by the 
+Chinese authorities. A preference to contain the increase in China's foreign reserve holdings has prompted 
+recent efforts to promote the use of the renminbi in international trade and finance. 22 However, if the 
+renminbi is to be used more widely internationally, China's capital controls will need to be eliminated so 
+that foreigners can invest in renminbi-denominated assets and easily repatriate their capital and income. China will eventually require a flexible exchange rate regime with open capital markets. The next step 
+in this direction would be to link the Chinese currency to a basket of currencies of major trading partners 
+and to announce the composition of the basket. The value of the currency would still be influenced by 
+different factors than those affecting China but the degree of correlation with shocks might be less than in 
+the case of linking to the US dollar, as over 44% of the OECD basket for China is accounted for by Asian 
+currencies (excluding those linked to the dollar). Under such a regime, in order to mitigate the potential for 
+abrupt changes in the value of the renminbi to destabilise economic activity, the PBoC would smooth 
+short-run exchange rate fluctuations while allowing the exchange rate to reach its market-determined level 
+over longer horizons. Greater exchange rate flexibility would facilitate the implementation of a monetary 
+policy geared to domestic objectives. The next step could entail a greater liberalisation of capital outflows 
+and a degree of foreign investment in Chinese bond markets, either by allowing foreign investors access to 
+the government bond market or allowing greater issuance of renminbi bonds by foreign issuers. The recent 
+moves to allow certain banks to issue bonds in the Hong Kong market are a step in this direction as are the 
+moves to allow settlement of foreign trade in the Chinese currency. However, these avenues of 
+convertibility are still in their infancy with only CNY 18.3 billion of trade settled in renminbi in the first 
+quarter of 2010 (about 0.3% of trade in goods and services). Greater exchange rate flexibility would also enhance the exchange rate's role as an automatic 
+stabiliser that helps smooth business cycle volatility, as China becomes more integrated with the global 
+economy. The empirical modelling work discussed above indicates that changes in the real effective 
+exchange rate are a significant determinant of changes in aggregate demand and that the nominal exchange 
+rate influences inflation. 23 At the moment, greater exchange rate flexibility would likely result in currency appreciation, increase 
+the labour share of income and the purchasing power of households and help reorient investment towards 
+the non-tradables sector. However, it would also likely entail a short-term output cost that might warrant 
+offsetting measures to boost domestic demand. In these circumstances, the authorities may be inclined to 22 . 
+From mid-2009, selected firms in five Chinese cities have been able to settle transactions in renminbi with 
+businesses in Hong Kong and Macau. Foreign banks are able to buy or borrow renminbi from mainland 
+lenders to finance such trade. The PBoC has also signed currency-swap agreements with Argentina, 
+Belarus, Hong Kong, Indonesia, Malaysia and South Korea and will make renminbi available to pay for 
+Chinese imports if these economies run short of foreign exchange. Hong Kong banks are now allowed to 
+issue yuan-denominated bonds, a step towards building an offshore renminbi market. From August 2009, 
+foreigners can open renminbi denominated bank accounts in Hong Kong and banks are free to make both 
+interbank transfers and loans in the currency (provided the loans are used outside the mainland), but banks 
+cannot yet invest unused balances in the mainland interbank bond market. 23 . 
+Shu and Yip (2006) also find that changes in the exchange rate influence aggregate demand, through the 
+net exports channel, as well as inflation. 
+43 ECO/WKP(2010)78 wait until inflation becomes a problem once again before allowing an appreciation. Greater exchange rate 
+flexibility would also reduce the pace at which China's exposure to US dollar assets is rising. Although 
+this may entail an initial capital loss on existing reserves, as the renminbi appreciates, it would lower 
+China's exposure to future losses. The benefits of moving towards a flexible inflation target Greater exchange rate flexibility raises the question of the most appropriate nominal anchor for 
+Chinese monetary policy. The PBoC's reliance on the stock of money as an intermediate policy target is 
+problematic. Although a number of studies have identified a link between money growth and inflation in 
+the long run, short-run instabilities in the rate of money growth consistent with low and stable inflation 
+indicate that a money target is not a good stand-alone nominal anchor (Laurens and Maino, 2007). In 
+addition, simple quantity-based frameworks do not handle shocks very well and are susceptible to errors in 
+forecasting money demand. The authorities' reaction function should place greater weight on 
+forward-looking indicators of inflation and not just react when inflation breaches pre-announced or even 
+undeclared targets. Indeed, changes in the PBoC's policy stance should be predicated on informed judgements based on 
+monitoring a set of indicators in the framework of a flexible inflation objective over the medium term. 
+Because money growth and inflation are correlated in the long run, money aggregates would still have an 
+important role to play as informational variables within this framework. 24 This would facilitate the PBoC 
+ " leaning against "  excess credit creation and the build-up of related imbalances that have contributed to the 
+recent failure of monetary policy in a number of countries to ensure macro and financial stability (White, 
+2009). Incorporating a forward-looking inflation objective into the PBoC's monetary policy framework 
+would yield a number of additional benefits. 25 Specifically, an inflation objective is transparent and easily 
+understood by the public. So when monetary policy is credible, a forward-looking inflation objective can 
+help condition inflation expectations, which can play an important role in macroeconomic stabilisation. In 
+addition, an inflation objective has the advantage of focusing the political debate on what monetary policy 
+is able to achieve in the long run, namely controlling inflation, and away from what monetary policy 
+cannot do, namely permanently increasing output growth, lowering unemployment or keeping the real 
+exchange rate at some predetermined level. Moving China's monetary policy framework in this direction would require a range of enhancements 
+in other areas. Incorporating an inflation objective into the policy framework would allow a rethink of 
+NDRC policies that attempt to influence inflation by controlling individual prices. China's macroeconomic 
+statistics would also need to continue to improve to provide the PBoC with better information to monitor 
+the economy and communicate its policy intentions. Improved macroeconomic statistics would allow for 
+better conditional macroeconomic forecasts to inform policy decisions. The literature on Chinese 
+macro-modelling is still relatively sparse, but the empirical models discussed in this paper and used in 
+other research suggest that relatively stable macroeconomic relationships are beginning to emerge. 24 . 
+See, for example, Gerlach and Kong (2005) and Laurens and Maino (2007). 25. 
+The pros and cons of inflation targeting in emerging economies are discussed in Mishkin and Schmidt-
+Hebbel (2007). 
+44 ECO/WKP(2010)78 The issue of central bank independence would also need to be addressed. Currently in China, 
+decisions to adjust the PBoC's monetary policy instruments are made by the State Council. Modernising 
+the framework would require granting the PBoC instrument independence so it can react promptly and 
+decisively to changing economic circumstances without being swayed by political concerns. Operational 
+independence would allow the PBoC to generate and sustain the credibility it needs to effectively influence 
+inflation expectations. The State Council would still set the strategic objectives, but leave implementation 
+to the PBoC. As the exchange rate regime evolves towards greater flexibility, monetary policy should focus 
+increasingly on domestic objectives, notably the goal of price stability over the medium term. The 
+monetary policy transmission mechanism is operational and the PBoC needs to be able to move short-term 
+interest rates in a wider range to enhance the role of monetary policy in buffering the economy from 
+domestic and external shocks. 
+45 ECO/WKP(2010)78 BIBLIOGRAPHY Anderson, J. (2007), The China Monetary Policy Handbook, UBS Investment Research, Hong Kong. Bernanke, B. and M. Gertler (1995),  " Inside the Black Box: The Credit Channel of Monetary Policy 
+Transmission " , Journal of Economic Perspectives, Vol. 9, No. 4. Bordo, M.D. and D. C. Wheelock, (2004),  " Monetary Policy and Asset Prices: A Look Back at Past U.S. 
+Stock Market Booms " , Federal Reserve Bank of St. Louis Review, Vol. 86, No. 6. Burdekin, R. and P. Siklos (2005),  " What Has Driven Chinese Monetary Policy Since 1990? Investigating 
+the People's Bank of China Policy Rule " , East-West Center Working Papers, No. 85. Chatelain, J.-B., A. Generale, I. Herando, U. von Kalckreuth and P. Vermeulen (2003),  " New Findings on 
+Firm Investment and Monetary Transmission in the Euro Area " , Oxford Economic Papers, Vol. 19, 
+No. 1. Chen, M. (2007),  " Financial Constraints and the Investment of Chinese Listed Firms " , mimeo, School of 
+Economics, University of Nottingham. Chirinko, R. (1993),  " Business Fixed Investment: A Critical Survey of Modelling Strategies, Empirical 
+Results, and Policy Implications " , Journal of Economic Literature, Vol. 31, No. 4. Chirinko, R., S. Fazzari and A. Meyer (2004),  " That Elusive Elasticity: A Long-Run Panel Approach to 
+Estimating the Capital-labour Substitution Elasticity " , CESIFO Working Papers, No. 1240. Coe, D. and J. Mcdermott (1996),  " Does the Gap Model Work in Asia? " , IMF Working Paper No. 96/69. Cheung Yin-Wong, M. D. Chinn and E. Fujii, (2010),  " Measuring Renminbi Misalignment: Where Do We 
+Stand? " , Working Paper 24/2010, Hong Kong Institute for Monetary Research. Cournède, B., R. Ahrend and R. Price (2008),  " Have Long-Term Financial Trends Changed the 
+Transmission of Monetary Policy? " , OECD Economics Department Working Papers, No. 634. Estrella, A. (2005),  " The Yield curve as a Leading Indicator " , http://www.newyorkfed.org/research/capital 
+_markets/ycfaq.pdf European Central Bank (2005), Monthly Bulletin, March. Feyzioglu, T., N. Porter and E. Takats (2009),  " Interest Rate Liberalization in China " , IMF Working 
+Papers, WP/09/171. Frankel, J. and S. Wei (2007),  " Assessing China's Exchange Rate Regime " , Economic Policy, Issue 51. Garcia-Herrero, A. and D. Santabárbara (2010),  " Where is the Chinese Banking Sector going after the 
+Crises? " , mimeo, ESCB seminar on the Chinese Economy, Frankfurt, January. Geiger, M. (2006),  " Monetary Policy in China (1994-2004): Targets, Instruments and their Effectiveness " , 
+Würzburg Economic Papers, No. 68. 
+46 ECO/WKP(2010)78 Gerlach, S. and J. Kong (2005),  " Money and Inflation in China " , Hong Kong Monetary Authority, 
+Research Memorandum, 04/2005. Gerlach, S. and W. Peng (2006),  " Output Gaps and Inflation in Mainland China " , BIS Working Papers, 
+No. 194. Gilchrist, S. and E. Zakrajsek (2007),  " Investment and the Cost of Capital: New Evidence from the 
+Corporate Bond Market " , NBER Working Papers, No. 13174. Girardin, E. and Y. Liu (2006)  " The Effects of Monetary Policy in China since 1997 " , mimeo, GREQAM, 
+Université de la Mediterranée. He, D., C. Chu, and A. Wong (2005),  " Monetary Management in China in the Face of Large Capital 
+Inflows " , Hong Kong Monetary Authority, Research Memorandum No. 07/2005. He, D. and L. Pauwels (2008), "  What prompts the People's Bank of China to change its monetary policy 
+stance? Evidence from a discrete choice model " , Working Paper 06, Hong Kong Monetary 
+Authority IMF (2004),  " Monetary Policy Implementation at Different Stages of Market Development " , 
+www.imf.org/external/np/mfd/2004/eng/102604.pdf. von Kalckreuth, U. (2001),  " Monetary Transmission in Germany: New Perspectives on Financial 
+Constraints and Investment Spending " , European Central Bank Working Papers, No. 109. Koivu, T. (2008),  " Has the Chinese Economy Become More Sensitive to Interest Rates? Studying Credit 
+Demand in China " , Bank of Finland Discussion Paper, 1/2008. Koivu, T. (2009),  " Monetary policy, asset prices and consumption in China " , mimeo, presented at an 
+ESCB conference on the Chinese economy, January 2010. Laurens, J. and R. Maino (2007),  " China: Strengthening Monetary Policy Implementation " , IMF Working 
+Papers, No. 07/14. Liu, L. and W. Zhang (2007),  " A New Keynesian Model for Analysing Monetary Policy in Mainland 
+China " , Hong Kong Monetary Authority Working Papers, No. 18/2007. Ma, G. and R. McCauley (2007),  " Do China's Capital Controls Still Bind? Implications for Monetary 
+Autonomy and Capital Liberalisation " , BIS Working Papers, No. 233. McKinnon, R. and G. Schnabl (2009),  " China's Financial Conundrum and Global Imbalances " , 
+BIS Working Papers, No. 277. Mehrotra, A. and J.R. Sánchez-Fung, (2010),  " China's monetary policy and the exchange rate " , BOFIT, 
+Bank of Finland, Discussion Paper No. 10 Mishkin, F. and K. Schmidt-Hebbel, eds. (2007), Monetary Policy Under Inflation Targeting, Santiago, 
+Central Bank of Chile. Nagahata, T. and T. Sekine (2005),  " Firm Investment, Monetary Transmission and Balance-Sheet 
+Problems in Japan: An Investigation Using Micro Data " , Japan and the World Economy, Vol. 17, 
+Issue 3. 
+47 ECO/WKP(2010)78 Peltonen, T., R. Sousa and I. Vansteenkiste (2009),  " Wealth Effects in Emerging Market Economies " , ECB 
+Working Papers, No. 1000. OECD (2005), OECD Economic Survey of China, OECD, Paris. OECD (2008), Investment Policy Review of China, OECD, Paris. OECD (2010), OECD Economic Survey of China, OECD, Paris. Oppers, S. (1997),  " Macroeconomic Cycles in China " , IMF Working Papers, No. 97/135. Ouyang, A., R. Rajan and T. Willett (2007),  " China as a Reserve Sink: The Evidence From Offset and 
+Sterilisation Coefficients " , Hong Kong Institute for Monetary Research Working Papers, 
+No. 10/2007. Porter, N. and T. Xu (2009),  " What Drives China's Interbank Market? " , IMF Working Papers, WP/09/189. Helmut Reisen H. (2009),  " On the Renminbi and Economic Convergence " , 17 December, 
+www.voxeu.eu/index.php?q=node/4397. Scheibe, J. and D. Vines (2005)  " A Phillips Curve for China " , CAMA Working Paper, No. 2/2005, 
+Australian National University. Schlicht, E. and J. Ludsteck (2006),  " Variance Estimation in a Random Coefficients Model " , IZA 
+Discussion Papers, No. 2031. Shu, C. and R. Yip (2006),  " Impact of Exchange Rate Movements on the Mainland Economy " , China 
+Economic Issues, Hong Kong Monetary Authority, No. 3/06. White, W. (2009),  " Should Monetary Policy Lean or Clean? " , Federal Reserve Bank of Dallas 
+Globalization and Monetary Policy Institute Working Papers, No. 34. Zhu, H. (2006),  " The Structure of Housing Finance Markets and House Prices in Asia " , BIS Quarterly 
+Review, December. 
+48 ECO/WKP(2010)78 WORKING PAPERS The full series of Economics Department Working Papers can be consulted at www.oecd.org/eco/workingpapers/ 821. Regulatory reforms to unlock long-term growth in Turkey 
+(December 2010) by Rauf Gönenç and Łukasz Rawdanowicz 820. After the crisis: mitigating risks of macroeconomic instability in Turkey 
+(December2010) by Łukasz Rawdanowicz 819. The 2008-09 crisis in Turkey: performance, policy responses and challenges for sustaining the 
+recovery 
+(December 2010) by Łukasz Rawdanowicz 818. Fiscal-consolidation strategies for Canadian governments 
+(November 2010) by Yvan Guillemette 817. The land transport sector: policy and performance 
+(November 2010) by Jan Persson and Daeho Song 816. A simple model of the relationship between productivity, saving and the current account 
+(November 2010) by Jean-Marc Fournier, Isabell Koske 815. The impact of structural policies on saving, investment and current accounts 
+(November 2010) by Clovis Kerdrain, Isabell Koske, Isabelle Wanner 814. Towards a less distortive and more efficient tax system in Portugal 
+(November 2010) by Alvaro Pina 813. Are global imbalances sustainable? Shedding further light on the causes of current account 
+reversals 
+(November 2010) by Luiz de Mello, Pier Carlo Padoan, Linda Rousová 812. Turkey's improving integration with the global capital market: Impacts on risk premia and capital 
+costs 
+(November 2010) by Rauf Gönenç, Saygin Şahinöz, Őzge Tuncel 811. Trade linkages in the OECD trade system 
+(October 2010) by Jérôme Brézillon, Stéphanie Guichard and Dave Turner 810. Enhancing the effectiveness of social policies in Indonesia 
+(October 2010) by Margherita Comola and Luiz de Mello 809. Tackling the infrastructure challenge in Indonesia 
+(October 2010) by Mauro Pisu 808. Phasing out energy subsidies in Indonesia 
+(October 2010) by Annabelle Mourougane 807. Implementing cost-effective policies in the United States to mitigate climate change 
+(October 2010) by David Carey 
+49 ECO/WKP(2010)78 
+50 806. Restoring fiscal sustainability in the United States 
+(October 2010) by Patrick Lenain, Bob Hagemann and David Carey 805. Norway: Sustainable development: climate change and fisheries policies 
+(September 2010) by Paul O'Brien 804. Netherlands: How the transport system can contribute to better economic and environmental 
+outcomes 
+(September 2010) by Tomasz Koźluk 803. Public-private partnerships and investment in infrastructure 
+(September 2010) by Sónia Araújo and Douglas Sutherland 802. Sustaining the momentum of fiscal reform 
+(September 2010) by Colin Forthun and Robert Hagemann 801. The consequences of banking crises for public debt 
+(September 2010) by Davide Furceri and Aleksandra Zdzienicka 800. A simulation model of federal, provincial and territorial government accounts for the analysis of 
+fiscal-consolidation strategies in Canada 
+(September 2010) by Yvan Guillemette 799. Product market regulation: extending the analysis beyond OECD countries 
+(October 2010) by Anita Wölfl, Isabelle Wanner, Oliver Röhn, Giuseppe Nicoletti 798. Korea's green growth strategy: mitigating climate change and developing new growth engines 
+(July 2010) by Randall S. Jones and Byungseo Yoo 797. Health-care reform in Korea 
+(July 2010) by Randall S. Jones 796. The Korean financial system: overcoming the global financial crisis and addressing remaining 
+problems 
+(July 2010) by Masahiko Tsutsumi, Randall S. Jones and Thomas F. Cargill 795. Are global imbalances sustainable? Post-crisis scenarios 
+(July 2010) by Luiz de Mello and Pier Carlo Padoan 794. Is there a case for carbon-based border tax adjustment? An applied general equilibrium analysis 
+(July 2010) by Jean-Marc Burniaux, Jean Chateau and Romain Duval 793. Promoting potential growth: The role of structural reform 
+(July 2010) by Luiz de Mello and Pier Carlo Padoan 792. Catching-up and inflation in Europe: Balassa-Samuelson, Engel's law and other culprits 
+(July 2010) by Balázs Égert 

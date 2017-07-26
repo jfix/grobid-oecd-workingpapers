@@ -1,0 +1,157 @@
+priority, or (ii) wrongly classifying a patent family as a claimed priority when in fact it is only a singleton (e.g. 
+consider a patent family consisting of EP and DE applications with DE as the only designated country). 
+
+12 Previously, one needed to determine whether a patent has been granted at each of the 38 member states 
+patent authorities, hence making sense of the 38 different publication kind code systems. Fortunately, this has 
+been much facilitated in recent editions of PATSTAT. 
+
+13 Specifically, data for years prior to 1990 seem rather incomplete; therefore we only construct the propensities 
+for the period after 1990 (for Italy only after 2004). Even after 1990, data for some years and offices are missing, 
+with two different situations occurring: (1) A year count is missing (GR 2007, LT 2007) and years around seem 
+to be correct (the same trend before and after the missing year). In this case we simply impute a value for the 
+missing year corresponding to the mean of the year before and the year after. (2) A year count is missing (FR 
+2007, IT 2007) and the years before and after show implausibly high numbers above the long-term trend. In this 
+case we assume that for an unknown reason the patents have been distributed among the years before and after 
+the missing year. ). In this case we re-allocate a third of the count proceeding the missing year, and a third of 
+count in the year following the missing year. Moreover, the total on which the propensities are calculated also 
+has to be corrected (the total for 2007 is very low compared with other years). The total is the count of distinct 
+applications among all countries (no double-counting for applications with protection in multiple states). We use 
+the  " duplicate protection "  coefficient observed in 2005 and 2009, take the mean of those two values, and divide 
+through the values re-allocated from 2006 to 2007 and from 2008 to 2007 to inflate the total for 2007. 
+
+14 A similar approach was developed by De Rassenfosse et al. (2013). 
+
+15 Development of a suitable search strategy – that is, a mapping between patent classification systems and a 
+definition of  " environmental "  innovation -is a distinct problem and is not addressed here. A companion paper is 
+devoted to this issue. 
+
+16 Starting 2013 the EPO and USPTO have started using a common classification system (CPC) and 
+consequently the use of ECLA and USPC is being discontinued. 
+
+17 Personal communication from Mr. Pierre Held of the European Patent Office, November 2012 in Hamburg, 
+Germany. 
+
+18 The benefit of the new Y02 scheme is twofold. First, it allows identifying patent documents in technological 
+fields that would otherwise not be possible by a non-specialist! The tags were developed by patent examiners at 
+the EPO who are specialised in the different fields covered. Second, it provides a much greater level of detail 
+than what would be possible using the IPC. This is a significant advantage over previous searches based on the 
+IPC. See Veefkind et al. (2012) for further details. 
+
+19 DOCDB, also referred to as EPODOC, is the EPO's master documentation database. This is the resource 
+used by patent examiners for searches of prior art. 
+
+20 Personal communication by Mr. Victor Veefkind of the European Patent Office, 2012. 
+
+21 In the ideal case, one would construct a different TOTPAT for each of the individual Y02 symbols – 
+depending on type of attributes used in the algorithm to assign a given symbol (e.g. some algorithms use 
+keywords, others do not). While such information could be made available, it is of limited practical use because 
+(i) analysis is rarely conducted at the level of an individual symbol (e.g. Y02E10:43 Fresnel lenses); rather, it is 
+the hierarchically more aggregated level (e.g. Y02E10:4 Solar thermal energy) that is of interest to decision-
+makers. In such case it is not clear how can one generate a TOTPAT at the aggregate level when individual tags 
+use different sets of attributes; (ii) Even if the same set of attributes were used within a given  " field "  of 
+technology, analyses often compare several of such  " fields "  implying the use of multiple  " totals "  (e.g. a total for 
+solar energy, a total for wind energy, etc.). 
+
+22 See Johnstone et al. (2012) for a discussion. 
+
+The Use of Patent Statistics for International Comparisons and Analysis of Narrow Technological Fields 
+
+REFERENCES 
+
+Aghion P., Dechezleprêtre, A., Hemous, D., Martin, R. and J. Van Reenen (2012) "Carbon Taxes, Path 
+Dependency and Directed Technical Change: Evidence from the Auto Industry," NBER 
+Working Papers 18596, National Bureau of Economic Research. 
+
+Barton J.H. (2007),  " Intellectual Property and Access to Clean Energy Technologies in 
+Developing Countries " , International Centre for Trade and Sustainable Development (ICTSD). 
+
+Belward A., B. Bisselink, K. Bódis, A. Brink, J.-F. Dallemand, A. de Roo, T. Huld, F. Kayitakire, P. 
+Mayaux, M. Moner-Girona, H. Ossenbrink, I. Pinedo, H. Sint, J. Thielen, S. Szabó, U. 
+Tromboni, L. Willemen (2011),  " Renewable energies in Africa " , European Commission Joint 
+Research Centre. 
+
+Collier, P., Venables, A.J. (2012),  " Greening Africa? Technologies, endowments and the latecomer 
+effect " , Energy Economics, Elsevier, vol. 34(S1), pages S75-S84. 
+
+de Rassenfosse, G., Dernis, H., Guellec, D., Picci, L. and B. van Pottelsberghe de la Potterie (2013) 
+"The worldwide count of priority patents: A new indicator of inventive activity", Research 
+Policy, Volume 42, Issue 3, Pages 720–737. 
+
+Dechezleprêtre, A., M. Glachant, I. Haščič, N. Johnstone, and Y. Ménière (2011),  " Invention and 
+transfer of climate change mitigation technologies on a global scale: A study drawing on patent 
+data, "  in Review of Environmental Economics and Policy, Volume 5, Issue 1, Pages 109-130. 
+
+Dernis, H. and M. Khan (2004),  " Triadic patent families methodology " , STI Working Paper 2004/2. 
+OECD Publishing. 
+
+Dernis, H., Guellec, D. and B. van Pottelsberghe (2001),  " Using patent counts for cross-country 
+comparisons of technology output " , STI Review No. 27, OECD Publishing. 
+
+Faust, K. (1990),  " Early identIfication of Technological Advances on the Basis of Patent Data " , 
+Scientometrics, Vol. 19(5-6), pp. 473-480. 
+
+Faust, K. and H. Schedl (1983),  " International Patent Data: Their Utilisation for the Analysis of 
+Technological Developments " , World Patent Information, Vol. 5(3), pp. 144-157. 
+
+Guellec, D. and B. van Pottelsberghe de la Potterie (2000),  " Applications, Grants and the Value of a 
+Patent " , Economics Letters, Vol. 69, pp. 109-114. 
+
+Harhoff, D., F.M. Scherer and K. Vopel (2003),  " Citations, family size, opposition and the value of 
+Patent Rights " , Research Policy, Vol. 32, pp. 1343-63. 
+
+Haščič, I. and N. Johnstone (2011), "Innovation in Electric and Hybrid Vehicle Technologies: The 
+Role of Prices, Standards and R&D", in OECD, Invention and Transfer of Environmental 
+Technologies, OECD Publishing. http://dx.doi.org/10.1787/9789264115620-5-en 
+
+The Use of Patent Statistics for International Comparisons and Analysis of Narrow Technological Fields 
+
+OECD SCIENCE, TECHNOLOGY AND INDUSTRY WORKING PAPERS 
+
+40 
+
+Haščič, I. and M. Migotto (2015)  " Measuring Environmental Innovation Using Patent Data: Policy 
+Relevance " , OECD Environment Working Papers, OECD Publishing (forthcoming). 
+
+Haščič, I., J. Silva and N. Johnstone (2012),  " Climate Mitigation and Adaptation in Africa: Evidence 
+
+from Patent Data " , OECD Environment Working Papers, No. 50, OECD Publishing, Paris. 
+
+http://dx.doi.org/10.1787/5k8zng5smxjg-en 
+
+Haščič, I., Johnstone, N., Watson, F., Kaminker, C. (2010),  " Climate Policy and Technological 
+Innovation and Transfer: An Overview of Trends and Recent Empirical Results " , OECD 
+Environment Working Papers, No. 30, OECD Publishing, Paris. 
+
+http://dx.doi.org/10.1787/5km33bnggcd0-en 
+
+Johnstone, N., I. Haščič, J. Poirier, M. Hemar and C. Michel (2012)  " Environmental policy stringency 
+and technological innovation: evidence from survey data and patent counts " , Applied 
+Economics, Volume 44, Issue 17, 2012, pages 2157-2170. 
+
+Lanzi, E., Verdolini, E. and I. Haščič (2011)  " Efficiency-improving fossil fuel technologies for 
+electricity generation: Data selection and trends, "  in Energy Policy, Volume 39, Issue 11, Pages 
+7000-7014. 
+
+Martinez, C. (2010),  " Insight into Different Types of Patent Families " , OECD Science, Technology 
+and Industry Working Papers, No. 2010/02, OECD Publishing, Paris. 
+
+http://dx.doi.org/10.1787/5kml97dr6ptl-en 
+
+Noailly J. and R. Smeets (2013) "Directing Technical Change from Fossil-Fuel to Renewable Energy 
+Innovation: An Empirical Application Using Firm-Level Patent Data," FEEM Working 
+Papers 2013.34, Fondazione Eni Enrico Mattei. 
+
+OECD (2012), Energy and Climate Policy: Bending the Technological Trajectory, OECD Studies on 
+Environmental Innovation, OECD Publishing. http://dx.doi.org/10.1787/9789264174573-en 
+
+OECD (2011), Invention and Transfer of Environmental Technologies, OECD Studies on 
+Environmental Innovation, OECD Publishing. http://dx.doi.org/10.1787/9789264115620-en 
+
+OECD (2009), OECD Patent Statistics Manual, OECD Publishing. http://dx.doi.org/10.1787/9789264056442-
+
+en 
+
+Veefkind, V., J. Hurtado-Albir, S. Angelucci, K. Karachalios, and N. Thumm (2012),  " A new EPO 
+classification scheme for climate change mitigation technologies " , World Patent Information 34 
+(2): 106-111. 
+

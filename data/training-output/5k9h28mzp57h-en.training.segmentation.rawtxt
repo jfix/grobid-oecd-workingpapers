@@ -1,0 +1,1386 @@
+Please cite this paper as: Molnar, M. (2012),  " Fiscal Consolidation: Part 5. What Factors 
+Determine the Success of Consolidation Efforts? " , OECD 
+Economics Department Working Papers, No. 936, OECD 
+Publishing, Paris. 
+http://dx.doi.org/10.1787/5k9h28mzp57h-en OECD Economics Department Working 
+Papers No. 936 Fiscal Consolidation: Part 5. 
+What Factors Determine the 
+Success of Consolidation 
+Efforts? Margit Molnar JEL Classification: E62, H2, H5, H6, H7 Unclassified ECO/WKP(2012)13 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 10-Jan-2012 
+___________________________________________________________________________________________ 
+_____________ 
+English -Or. English ECONOMICS DEPARTMENT FISCAL CONSOLIDATION 
+PART 5. WHAT FACTORS DETERMINE THE SUCCESS OF CONSOLIDATION EFFORTS? ECONOMICS DEPARTMENT WORKING PAPERS No. 936 by Margit Molnar All Economics Department Working Papers are available through OECD's internet website at 
+www.oecd.org/eco/workingpapers JT03314133 Document complet disponible sur OLIS dans son format d'origine 
+Complete document available on OLIS in its original format ECO/WKP(2012)13 
+Unclassified English -
+Or. English ECO/WKP(2012)13 2 ABSTRACT / RÉSUMÉ Fiscal consolidation 
+Part 5. What factors determine the success of consolidation efforts? The global economic and financial crisis exacerbated the need for fiscal consolidation in many OECD 
+countries. Drawing lessons from past episodes of fiscal consolidation, this paper investigates the economic 
+environments, political settings and policy measures conducive to fiscal consolidation and debt stabilisation 
+using probit, duration, truncated regression and bivariate Heckman selection methods. The empirical analysis 
+builds on the earlier literature and extends it to include new aspects that may be of importance for consolidating 
+governments. The empirical analysis confirms previous findings that the presence of fiscal rules – expenditure 
+or budget balance rules – is associated with a greater probability of stabilising debt. Crucial in determining the 
+causal link behind the association, the results also reveal an independent role for such rules over and above the 
+impact of preferences for fiscal prudence. Also, while the analysis confirms that spending-driven adjustments 
+vis-à-vis revenue-driven ones are more likely to stabilise debt, it also reveals that large consolidations need 
+multiple instruments for consolidation to succeed. Sub-national governments, in particular state-level 
+governments can contribute to the success of central government consolidation, if they co-operate. To ensure 
+that state-level governments do co-operate, having the right regulatory framework with the extension of fiscal 
+rules to sub-central government levels is important. JEL classification codes: E62; H2; H5; H6; H7 
+Keywords: Fiscal consolidation; taxation; government spending; fiscal rules; fiscal federalism 
++++++++++++++++++++ 
+Consolidation budgétaire 
+Partie 5. Quels sont les facteurs qui conditionnent la réussite des efforts 
+d'assainissement budgétaire ? La crise économique et financière mondiale a exacerbé l " impératif d " assainir les finances publiques dans 
+de nombreux pays de l " OCDE. Tirant les enseignements des épisodes passés de rééquilibrage budgétaire, ce 
+document analyse les facteurs économiques, politiques et stratégiques favorables à l " assainissement des finances 
+publiques et à la stabilisation de la dette en utilisant la méthode des probits, les modèles de durée, de régression 
+tronquée et de sélection en deux étapes de Heckman. L " analyse empirique s " inspire de travaux antérieurs qu " elle 
+enrichit en intégrant d " autres aspects qui peuvent être importants pour les autorités qui optent pour une 
+trajectoire d " assainissement budgétaire. Cette analyse empirique confirme les résultats antérieurs qui montraient 
+que l " existence de règles budgétaires – règles de dépenses ou d " équilibre budgétaire – est associée à une plus 
+forte probabilité de stabilisation de la dette. Essentiels pour déterminer le lien de causalité qui sous-tend cette 
+association, les résultats révèlent par ailleurs que ces règles jouent un rôle indépendant au-delà des effets d " une 
+politique axée sur la prudence budgétaire. En outre, l " analyse confirme que les mesures de restriction des 
+dépenses sont plus susceptibles de stabiliser la dette que celles fondées sur l " augmentation des recettes, mais elle 
+révèle également que, pour réussir, les rééquilibrages de grande ampleur doivent s " appuyer sur de multiple 
+instruments. Les autorités infranationales, et notamment les autorités régionales ou des États, peuvent contribuer 
+au succès des efforts déployés par l " administration centrale en coopérant. Pour garantir cette coopération, il est 
+important de disposer d " un cadre réglementaire adéquat qui applique les règles budgétaires aux autorités 
+infranationales. Classification JEL : E62 ; H2 ; H5 ; H6 ; H7 
+Mots-clés : Consolidation budgétaire ; taxation ; dépenses publiques ; règles budgétaires ; fédéralisme 
+budgétaire © OECD (2012) 
+You can copy, download or print OECD content for your own use, and you can include excerpts from OECD publications, databases and 
+multimedia products in your own documents, presentations, blogs, websites and teaching materials, provided that suitable 
+acknowledgment of OECD as source and copyright owner is given. All requests for commercial use and translation rights should be 
+submitted to rights@oecd.org ECO/WKP(2012)13 3 TABLE OF CONTENTS FISCAL CONSOLIDATION 
+PART 5. WHAT FACTORS DETERMINE THE SUCCESS OF CONSOLIDATION EFFORTS? ........... 5 Introduction and main results ....................................................................................................................... 5 
+A review of the literature ............................................................................................................................. 7 
+Empirical approach .................................................................................................................................... 11 
+Empirical results ........................................................................................................................................ 13 
+The start of consolidations ..................................................................................................................... 13 
+The duration of consolidations ............................................................................................................... 14 
+The size of consolidations ...................................................................................................................... 16 
+The intensity of consolidations............................................................................................................... 16 
+The success of consolidations ................................................................................................................ 18 
+The impact of sub-central fiscal behaviour on central consolidation ..................................................... 21 
+Conclusions ................................................................................................................................................ 22 Bibliography .................................................................................................................................................. 25 Boxes 1. Fiscal rules: design, implementation and creative accounting issues .................................................. 23 Tables 1. Summary of the empirical results .......................................................................................................... 7 
+2. A literature review of what determines the start of fiscal consolidation ............................................... 8 
+3. Definitions used to define features of fiscal consolidations ................................................................ 12 
+4. Determinants of the start of fiscal consolidation ................................................................................. 14 
+5. Determinants of the length of fiscal consolidation .............................................................................. 15 
+6. Determinants of the size of fiscal consolidation ................................................................................. 17 
+7. Determinants of the intensity of fiscal consolidation .......................................................................... 18 
+8. Determinants of the success of consolidation ..................................................................................... 20 
+9. Sub-central governments and success in stabilising debt .................................................................... 22 This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the 
+delimitation of international frontiers and boundaries and to the name of any territory, city or area. ECO/WKP(2012)13 4 ECO/WKP(2012)13 5 FISCAL CONSOLIDATION PART 5. WHAT FACTORS DETERMINE THE SUCCESS OF CONSOLIDATION EFFORTS? by Margit Molnar 1 Introduction and main results In the aftermath of the economic and financial crisis many OECD countries face substantial fiscal 
+consolidation needs. In this context, taking stock of past consolidation episodes can provide insights into 
+what policy and institutional measures were most conducive to successful consolidations. The analysis of 
+past consolidation episodes between 1960-2009 builds on and extends earlier OECD work by 
+Ahrend et al. (2006) and Guichard et al. (2007). It uses probit, duration, truncated regression and bivariate 
+Heckman selection methods to investigate consolidations, highlighting the different ingredients that affect 
+how much consolidation is undertaken and whether it is successful in terms of stabilising debt. The 
+estimations consider five aspects of fiscal consolidations:  What conditions make governments start fiscal adjustments?  What determines how long adjustments last?  What determines the size?  What determines the intensity (the annual average consolidation over the consolidation episode) 
+of the adjustment?  What makes fiscal retrenchments successful in the sense of stabilising the debt/GDP ratio? The definition of a consolidation episode is crucial as different thresholds and budget data may lead to 
+different findings. Accordingly, to obtain robust results, five thresholds are used. These thresholds cover 
+several types of consolidation episodes from very small ones defined as any improvement in the budget 
+balance that may occur over a number of years to very large ones of at least 2 percentage points of GDP in 
+a given year. Three definitions for the success of consolidation are used: debt stabilises i) the year after, 
+ii) two years after and iii) three years after the episode ends. Different definitions of the budget balance 
+were used in the analysis, though only results for the cyclically-adjusted underlying primary balance are 
+reported. 1. 
+At the time of writing the author was a member of the Economics Department of the OECD. This is a 
+background paper for the OECD " s project on Fiscal Consolidation (see Sutherland et al., 2012 for the main 
+paper). This paper is a revised version of a document prepared for a meeting of Working Party No. 1 of the 
+OECD Economic Policy Committee held in October 2011. The author is indebted to the participants of the 
+meeting as well as Hansjörg Blöchliger, Peter Hoeller and Douglas Sutherland for useful comments and 
+suggestions and to Susan Gascard for excellent editorial support. ECO/WKP(2012)13 6 The analysis considers the role of fiscal rules in consolidations. Dummy variables indicate whether 
+i) expenditure rules, ii) budget balance rules or iii) the combination of expenditure and budget balance 
+rules are in place and iv) an indicator capturing the strength of fiscal rules, which is only available for the 
+EU countries, is tested. Although the direction of causality between fiscal discipline and fiscal rules is 
+difficult to establish in a cross-country analysis, findings in the literature based on Canadian, Swiss and US 
+data tend to support a role for fiscal rules in underpinning prudent fiscal behaviour even when voters "  
+preferences (based on observed preferences from micro-level data) are taken into account. 2 As fiscal 
+consolidation itself affects many of the economic environment factors that are included in the analysis, 
+such variables were entered with a lag to reduce the simultaneity problem. The main findings, summarised in Table 1, are the following:  Fiscal rules are, in general, associated with fiscal consolidation episodes that are successful in 
+stabilising debt, though there is no evidence that they influence the size or the intensity of 
+consolidation. Budget balance rules appear to lengthen the duration of consolidations.  The composition of consolidation measures seems to be related to its success. Expenditure based 
+consolidations appear to be more effective in stabilising debt. However, the specific 
+consolidation measures that lead to success seem to differ by the type of consolidation (i.e. small 
+or large, gradual or  " cold turkey " ) and by the horizon of debt stabilisation (i.e. debt stabilises one, 
+two or three years after the consolidation episode ends). Very large consolidations tend to be 
+achieved by multiple instruments, including both revenue and spending items.  Strong growth appears to matter for stabilising debt, though less for the size or intensity of 
+consolidations. Low growth rates may lead to protracted consolidation episodes.  Declining interest rates seem to increase the probability of success and the duration of 
+consolidation, though have no robust impact on the start, size or intensity of the consolidation.  The political setting 3 also appears to matter for the success of consolidation: non-centrist 
+governments are less likely to stabilise debt than those closer to the centre. The orientation of 
+government does not seem to affect the duration of consolidation. In some specifications, strong 
+governments further from the centre tend to engage in smaller and less intensive consolidation.  Newly-elected governments seem to be more likely to start a fiscal adjustment programme and 
+have a positive effect on duration.  Consolidations by state-level governments tend to increase the probability of success of central 
+government retrenchment efforts, but this is not the case for consolidations at the local 
+government level (not reported in Table 1). The rest of this paper is structured as follows: The next section summarises the main findings from the 
+empirical literature. This is followed by a short discussion of the tools used and the main definitions of 
+consolidation episodes and whether they succeed in stabilising debt. The following section presents 2. 
+Krogstrup and Wälti (2008) and Dafflon and Pujol (2001) are examples of the literature finding a causality 
+between fiscal rules and fiscal discipline. 3. 
+In the analyses two variables capturing the political orientation and the stability of government are used as 
+in Égert (2010): the strength of right-leaning and left-leaning governments. The value is higher the further 
+left or right the government " s political stance (i.e. very left wing or very conservative) of the political 
+spectrum and the stronger its political standing is (the strongest is a single party majority government). ECO/WKP(2012)13 7 detailed results for the econometric analysis of different aspects of consolidation. The final section 
+concludes by discussing the implications of the findings for fiscal consolidation. Table 1. Summary of the empirical results Start 
+Duration 
+Size 
+Intensity 
+Success 
+Policy variables 
+Fiscal rules 
+Expenditure rule 
++++ 
+Budget balance rule 
++++ 
+Expenditure and balanced budget rule 
++++ 
+Strength of fiscal rules (for the EU) 
++++ Composition of consolidation 
+Spending cut versus revenue increase share 
+….. 
+….. 
++++ 
+Housing and community amenities spending cut share 
+….. 
++++++ 
+… 
+Social protection spending cut share 
++.+.+ Economic environment variables 
+GDP growth 
++…. 
++…. 
++++ 
+Exchange rate (lagged change) 
+….. 
+----. 
+….-
+..-.-
++.. 
+Interest rate (lagged change) 
+….+ 
+….+ 
+---
+Interest rate differential (lagged change) 
+….+ 
+Implicit interest on government debt (lagged change) 
+-----
+Inflation (lagged) 
+….-
+-----
+.+.+. 
+++.++ 
+---
+Length of consolidation 
++++++ 
+OECD30 budget balance/GDP (lagged change) 
++++++ 
+Initial debt ratio 
+….. 
+...-. 
+….+ 
+….+ 
+Initial underlying primary budget balance 
+-----
+-----
+….-
+…--
+Change in the debt ratio (lagged) 
+….. 
+….. 
+….+ 
+ERM 
+.+.+. 
+…+. 
+EU 1992-1998 
+….-
++…-
+EU 1999-2009 
+….. 
+….. Political setting variables 
+Elections (lagged) 
+.+++. 
++++++ 
+.-… 
+….. 
+Strong left-leaning government 
+-...-
+….. 
+…-.-
+..-.-
+---
+Strong right-leaning government 
+.----
+….. 
+…-.. 
+…-. 
+.--Notes: The direction of significant effects is indicated by plus and minus signs, a non-significant effect by a dot. 
+In the columns for the start, duration, size and intensity of consolidation, the results for five thresholds are indicated in the 
+following order: i) very small: continuous improvement in the budget balance (i.e. the episode lasts as long as the budget 
+balance improves), ii) medium-sized: 1 percentage point fall in the budget balance/GDP ratio in a single year or in two years, 
+with at a minimum a 0.5 percentage point in the first year, iii) large 1: 1.5 percentage point fall in the budget balance/GDP ratio in a 
+single year or in two years with at a minimum a 1.25 percentage point in each, iv) large 2: 1.5 percentage point fall in the budget 
+balance/GDP ratio in a single year or in three years with less than a 0.5 percentage point deterioration in any year and v) very large: 
+2 percentage point fall in the budget balance in a single year or in two years with a minimum of 1.5 percentage points in each. 
+In the column for success, the signs are indicated for three different definitions of success in the following order: i) debt 
+stabilises one year ii) two years and iii) three years after the consolidation episode ends. The fiscal rule variables in the success 
+equations are entered sequentially. 
+The methods used are: probit for the start and duration of the consolidation, truncated regression for the analysis of the size and 
+intensity of the consolidation and the bivariate Heckman selection model for the success of a consolidation in stabilising debt. A review of the literature The literature on fiscal consolidation episodes has identified major determinants of the likelihood of 
+starting fiscal consolidation and its success, as well as several other attributes. The major questions of 
+interest addressed by the fiscal consolidation episode literature are i) in which circumstances are fiscal 
+adjustments likely to start and ii) in which circumstances are they successful. For the start of 
+consolidations, initial conditions including the macroeconomic environment and political economy settings 
+appear to be decisive. For the likelihood of success, a broader set of conditions have been tested. Not 
+surprisingly, given that the channels through which policy effects come through may differ across ECO/WKP(2012)13 8 episodes, the literature is inconclusive on some of the policies. A large part of the literature focuses on the 
+composition of consolidation, primarily whether it should be based on expenditure cuts or revenue 
+increases. While there seems to be consensus on the larger role for expenditure cuts, the results are less 
+homogenous at the more disaggregated level. Tackling politically sensitive budgetary items, however, 
+seems to be a crucial ingredient of successful consolidations. Fewer studies deal with the role of the policy 
+mix or structural and institutional conditions in determining the success of consolidation. Moreover, the 
+applicability of past consolidation experiences may be limited as policymakers now face additional 
+challenges such as repairing banking sectors and coping with weak global demand. The present 
+consolidation may also be distinct owing to its required size and how wide-spread consolidation needs are. 
+These features may imply the need for a broader set of policy tools to achieve consolidation. Fiscal consolidation is more likely to be launched when fiscal conditions are weak and the domestic 
+economy is doing well relative to other economies (Table 2). Weak public finance conditions are found to 
+be an important trigger of consolidation (Barrios et al., 2010, Guichard et al., 2007, European 
+Commission, 2007 and Von Hagen and Strauch, 2001). In contrast to the intuition that fiscal actions only 
+take place when the authorities are forced by circumstances to embark on a consolidation path, von Hagen 
+and Strauch (2001) and the European Commission (2007) found that positive output gaps increase the 
+probability of launching a retrenchment. 4 Von Hagen and Strauch (2001) also found a negative impact for 
+the international environment, which, combined with the positive coefficient on domestic cyclical 
+conditions, imply that governments are more likely to undertake consolidation efforts when the domestic 
+economy is doing well relative to other economies. Von Hagen and Strauch (2001) also found evidence of 
+peer pressure: an increase in the OECD structural government balance has a strong positive effect on the 
+likelihood to start a consolidation. Table 2. A literature review of what determines the start of fiscal consolidation Dependent variable: start of a 
+consolidation episode (binary) Guichard 
+et al. (2007) 
+EC (2007) 
+von Hagen and 
+Strauch (2001) Ahrend et al. 
+(2006) Barrios et al. 
+(2010) probit Barrios et al. (2010) 
+Heckman 2-step Initial budget balance (CAPB) 
+-
+-
+Debt-to-GDP ratio 
++ 
++ 
+-
+Increasing debt ratio 
++ 
+Need for adjustment (difference between current CAB 
+and the one needed to bring the debt ratio to zero over 30 years) + Output gap 
++ 
++ 
+0 
+Weak international environment 
+-
+Tight monetary conditions in the 
+previous year (index) -Increase in OECD structural government balance 
++ 
+Fiscal rules 
+0 
+Effective budgetary procedures 
++ 
+Exchange rate depreciation 
++ 
+Elections 
++ 
+0 
+Size of majority in parliament 
+0 
+Long-term interest rates (domestic-
+foreign reference) + Pension reform (Rodolfo de Benedetti 
+Foundation), dummy 0 Employment protection legislation dummy 
+0 
+Unemployment benefits dummy 
++ 
+Labour market reform dummy 
++ 
+Product market reform dummy 
+0 
+Number of countries 
+24 
+27 
+20 (OECD) 
+24 
+35 
+35 
+Time period 
+1978-2005 
+1970-2006 
+1960-1998 
+1980-2005 1970-2008 
+1970-2009 
+Number of episodes 
+85 
+146 
+65 
+83 
+235 
+235 
+Method used 
+probit 
+probit 
+probit 
+Probit 
+probit 
+Heckman 2-step 
+Note: The negative and positive signs mean negative and positive effect, respectively, while a zero means no significant effect was found. 4. 
+European Commission (2007) noted that the ex post output gaps used in the analyses may not necessarily 
+reflect the assessment of the cycle at the time. ECO/WKP(2012)13 9 The duration of fiscal consolidations is affected by the composition of the adjustment, initial 
+conditions and consolidation fatigue. Von Hagen et al. (2002) found that when output was below potential 
+but improving, a tightening fiscal stance in other countries and an increasing contribution by spending, in 
+particular transfers and wage expenditures, to the total consolidation increase the likelihood that the 
+consolidation episode will continue. Guichard et al. (2007) and Ahrend et al. (2006) confirmed the 
+importance of a negative output gap to continuing an adjustment programme. On the other hand, 
+Tsibouris et al. (2006) found no significant effect. Von Hagen et al. (2002) also found evidence of 
+consolidation fatigue by showing that the longer an episode lasts, ceteris paribus, the greater the likelihood 
+that the adjustment process will be reversed. This finding was confirmed by Guichard et al. (2007) and 
+Ahrend et al. (2006). In general, gradual consolidations tend to be more successful than a cold shower adjustment, but at 
+high and sharply rising debt levels and in a low-growth environment a cold shower may be more effective 
+(Barrios et al., 2010; European Commission, 2007). A gradual retrenchment, however, is not successful in 
+the case of consolidations following sharp debt increases. Moreover, Barrios et al. (2010) found that 
+monetary and economic conditions may be playing a role in determining the consolidation strategy. Cold 
+showers may be the right choice if initial debt levels and interest rates are high and GDP growth low, while 
+the opposite conditions would suggest proceeding gradually. Boltho and Glyn (2006) highlight the differences in consolidation efforts in the 1980s and 1990s: 
+while in the 1980s, inflation and balance-of-payment problems constituted the greatest threat following the 
+oil shocks, in the 1990s, long-term debt sustainability became the major concern. In addition, the run up to 
+the EMU provided an impetus to consolidation efforts. Among the few studies looking at the impact of 
+financial crises on the start or the probability of success of fiscal consolidations, Barrios et al. (2010) found 
+that the fall-out from the crises may hinder the necessary retrenchment. Undertaking consolidation once the 
+financial crisis is resolved and choosing a cold shower strategy increases the chance to succeed. This may 
+be related to the use of public funds that the repair of the financial sector often necessitates and as long as 
+the cost of bailouts is unclear, fiscal consolidation programmes may not be credible. The impact of high debt levels on the probability of successful consolidation hinges upon model 
+specifications. For example, Barrios et al. (2010) using two different approaches find either a positive or 
+negative net impact of debt. Monetary conditions including exchange rate and interest rate movements also have a bearing on 
+fiscal consolidation, though the literature exploring this is scant and inconclusive. Exchange rate 
+depreciation may support the consolidation process by leading to competitiveness gains and export-led 
+growth. This channel is more likely to work for small open economies. The experience of OECD countries 
+shows, however, that depreciation does not necessarily help consolidations succeed. Several studies find no 
+significant impact (Alesina and Perotti, 1997, Guichard et al., 2007 and Barrios et al., 2010) or a 
+significant albeit small positive impact (Lambertini and Tavares, 2005). Lambertini and Tavares (2005) 
+observed that exchange rate depreciation, which boosted competitiveness, often preceded fiscal 
+consolidation episodes in OECD countries over 1970-99. A fall in relative unit labour costs before and 
+during successful consolidations boosted competitiveness (Alesina and Perotti, 1997). While nominal 
+depreciation was observed in both successful and unsuccessful consolidation episodes, it was only in the 
+case of successful ones where nominal depreciations had an impact on competitiveness. This may be 
+related to the composition of fiscal adjustments, in particular the greater weight given to cuts in 
+government wages and employment in successful consolidations, thereby inducing wage moderation. 
+Ahrend et al. (2006) found that monetary policy easing at the initial stage of fiscal consolidation 
+contributes to off-set the contractionary impact of fiscal consolidation. Von Hagen and Strauch (2001) 
+found that monetary easing may entice governments to start fiscal adjustments, but this does not 
+necessarily lead to successful adjustments. ECO/WKP(2012)13 10 The composition of fiscal consolidation matters for the probability of success of consolidations: 
+retrenchments based on expenditure cuts are found to be more effective (Alesina and Ardagna, 1998, 2009; 
+von Hagen et al., 2002; Guichard et al., 2007; Barrios et al., 2010). A possible explanation for the higher 
+effectiveness of spending cuts versus tax increases is that the former are often coupled with reforms that 
+enhance the effectiveness of budgetary procedures (European Commission, 2007). Von Hagen and Strauch 
+(2001) examined the probability of a consolidation to be expenditure based and found that a small output 
+gap, both domestically and internationally, a tight fiscal stance in other countries and a high debt-to-GDP 
+ratio increase the probability of a consolidation episode to be expenditure based. Revenue-based 
+consolidations can also be effective, if there is room to increase the revenue-to-GDP ratio, in particular if 
+the revenue types that are less harmful for growth (such as user fees, environmental taxes, property taxes 
+and value-added taxes) are under-exploited (Tsibouris et al., 2006). Surprisingly, Alesina and Perotti 
+(1995) found that the small share of successful adjustments due to increases in tax revenues comes almost 
+exclusively from corporate income taxes and not indirect taxes. Past empirical work typically finds that cutting current government spending is more conducive to 
+successful consolidation (Alesina and Ardagna; 2009). Guichard et al. (2007) found that social spending 
+and transfers are areas where spending cuts should be focused to achieve a successful consolidation. 
+Alesina and Perotti (1995 and 1997) found that fiscal adjustments should focus on cuts in welfare spending 
+and government wages, if they are to be successful. However, European Commission (2007) found, that in 
+the 1990s, the positive impact of cutting primary expenditure on the likelihood of success became weaker. 
+This could be due to past consolidations harvesting the  " low hanging fruits " . Interestingly, if the analysis 
+focuses on the European Union (27 members), spending on social protection, health and education 
+continue to increase during consolidation periods, while the bulk of the cuts are done in economic affairs 
+(which comprise subsidies, gross fixed capital formation, capital transfers and intermediate consumption) 
+and housing and community amenities (European Commission, 2007). 5 The literature is not conclusive on which types of fiscal rules and institutions affect consolidation 
+programmes. Guichard et al. (2007) found a beneficial effect from a combination of expenditure and 
+budget balance rules. The European Commission (2007), on the contrary, found no significant impact of 
+expenditure rules in the European Union, though this study did not verify the combined effect with budget 
+balance rules. However, effective budgetary procedures appear to increase the probability of success 
+(European Commission, 2007). Barrios et al. (2010) did not find a significant impact of budget deficit rules 
+on the likelihood of successful consolidation. Successful consolidations may be accompanied by changes in the distribution of income. Alesina and 
+Perotti (1997) and Alesina and Ardagna (1998) observed that during successful consolidations, the profit 
+share often increases. Alesina and Ardagna (1998) showed that the profit share increases not only during 
+but also in the aftermath of consolidations. Mulas-Granados (2005) found that fiscal consolidations are 
+associated with higher income inequality, though less so for revenue-based adjustments than for 
+expenditure-based ones. Few studies find convincing evidence on how political factors affect consolidation. Alesina and 
+Perotti (1995) found that coalition governments are mostly unsuccessful in attaining lasting adjustment. 
+The same authors also found that left-and right-wing governments are equally likely to carry out 
+successful adjustments, while centrist governments are less likely to do so. Guichard et al. (2007) showed 
+that consolidations are more likely to start after elections in OECD member countries, while the European 5. 
+The study by the European Commission (2007) is the first one to look at cuts in expenditure at the 2-digit 
+COFOG (classification of functions of government) level. Categories at this level include general public 
+services; defence; public order and safety; economic affairs; environmental protection; housing and 
+community amenities; health; recreation, culture and religion; education; and social protection. ECO/WKP(2012)13 11 Commission (2007) did not find a significant effect for the EU countries over a similar time period. 
+Alesina and Perotti (1995) did not find a significant impact of the closeness of elections on either the 
+likelihood of strong adjustments or their success. Empirical approach Most of the literature applies similar estimation techniques to identify the major determinants of 
+success or failure of fiscal consolidations, but there is considerable variation across the measures of fiscal 
+consolidation, the definitions of the start of consolidation, the size of consolidation and of what constitutes 
+a successful consolidation (Table 3). 6 Earlier studies such as Alesina and Perotti (1995, 1996) and Alesina and Ardagna (1998) defined a 
+fiscal consolidation episode using the so-called Blanchard index, which calculates a cyclically-adjusted 
+budget balance assuming an unchanged unemployment rate with respect to the previous year. In more 
+recent studies the cyclically-adjusted primary balance is used (Tsibouris et al., 2006). The major 
+shortcoming of the cyclically-adjusted primary balance is that it can also reflect one-offs and accounting 
+distortions (Koen and van den Noord, 2005), revenue fluctuations due to asset prices (Girouard and Price, 
+2004) and growth surprises (Larch and Salto, 2005). To address these issues, past analyses have typically 
+only used large changes. There is, however, a trade-off in setting thresholds high as it can exclude longer 
+periods of moderate adjustment. There is a wide variation in the definition of the success of fiscal consolidation, which can be related 
+to its impact on deficits, debt or growth performance. The European Commission (2007) uses a cyclically-
+adjusted primary balance based criterion, Guichard et al. (2007) classify a consolidation episode as 
+successful, if its size is large enough to stabilise the debt-to-GDP ratio. Barrios et al. (2010) use the public 
+debt level as a measure of success: a fiscal consolidation is considered as successful if it brings debt down 
+by at least 5 percentage points of GDP in the three years following the episode. In the following empirical work several definitions of consolidation have been used. The choice is not 
+always innocuous. To highlight this, the main characteristics of past consolidations using two different 
+approaches to defining the episodes (annual tightening of the underlying primary balance by at least 1.5% 
+of GDP or a gradual but continual tightening of the underlying primary balance over several years) are:  Size: The overall amount of tightening on average does not differ significantly between the two 
+definitions, being around 3% of GDP in both cases. The largest consolidations for episodes based 
+on the annual tightening are almost 9% of GDP whereas they approach 11% of GDP for episodes 
+based on sustained tightening.  Pace: In consolidations greater than 1.5% of GDP tightening of the underlying primary balance 
+in a given year the average tightening is 2.3% of GDP (reaching over 4% in Hungary in 2007 and 
+Sweden in 1996). If the consolidation is defined as a sustained tightening of the underlying 
+primary balance, the average pace of tightening is slower at just under one per cent of GDP 
+annually. 6. 
+The main estimation tools include probit, duration models and OLS, and more rarely the Heckman probit 
+two-step estimator. Estimates of the determinants of the start and success of consolidations may be biased 
+if not controlling for the correlation between the decision to consolidate and the likelihood to achieve a 
+successful consolidation (Barrios et al., 2010). ECO/WKP(2012)13 12 Table 3. Definitions used to define features of fiscal consolidations Start of consolidation 
+Continuation 
+Stop 
+Success 
+Definition 1 
+Definition 2 Ahrend et al., 2006 
+At least 1 percentage point of 
+potential GDP in one year At least 1 percentage point potential 
+GDP in two years with at least 
+0.5 percentage point in the first year Cyclically-adjusted primary 
+balance improves (can decline 
+0.3 percentage point in a year if 
+in the following year it increases 
+by more than 0.5 percentage 
+points) Cyclically-adjusted primary 
+balance stops increasing or 
+improves by less than 
+0.2 percentage point of GDP in 
+one year and then deteriorates Alesina and Perotti, 1995 
+Blanchard fiscal impulse is 
+between -1.5 and -0.5% of GDP Blanchard fiscal impulse is less than 
+1.5% of GDP Three years after the debt/GDP 
+ratio is 5 percentage point lower Alesina and Ardagna, 
+2009 At least 1.5 percentage point of 
+GDP in one year Cumulative debt/GDP 
+improvement is greater than 
+4.5 percentage point 
+Alesina and Perotti, 1997 
+At least 1.5 percentage point of 
+GDP in 1 year At least a 1.5 percentage point of GDP 
+in 2 years with each more than 
+1.25 percentage points Ardagna, 2009 
+At least 2 percentage points of 
+potential GDP in one year At least a 2 percentage points of 
+potential GDP in two years with each 
+more than 1.5 percentage points Barrios et al., 2010 
+At least 1.5 percentage point 
+potential GDP in one year At least a 1.5 percentage point of 
+potential GDP in three years, with no 
+annual deterioration larger than 
+0.5 percentage points EC, 2007 
+At least a 1.5 percentage point 
+GDP in one year At least a 1.5 percentage point of 
+potential GDP in three years, with no 
+annual deterioration larger than 
+0.5 percentage points Three years after the cyclically-
+adjusted primary balance does not 
+deteriorate by more than 0.75% of 
+GDP in cumulative terms Guichard et al., 2007 
+At least 1 percentage point 
+potential GDP in one year At least a 1 percentage point of 
+potential GDP in two years with each 
+more than 0.5 percentage points Cyclically-adjusted primary 
+balance improves (can decline 
+0.3 percentage point in a year if 
+the following year it increases 
+by more than 0.5 percentage 
+points) Cyclically-adjusted primary 
+balance stops increasing or 
+improves by less than 
+0.2 percentage point of GDP in 
+one year and then deteriorates Tsibouris et al., 2006 
+Uninterrupted improvement in 
+the primary budget balance Primary balance deteriorates 
+or debt ratio increases von Hagen et al., 2002 
+Cyclically-adjusted primary 
+balance deteriorates 
+von Hagen and Strauch, 
+2001 Cyclically-adjusted balance at 
+least 1.25 percentage points of 
+potential GDP in 2 years Cyclically-adjusted balance at least 
+1.5 percentage points of potential GDP 
+and positive in the preceding and 
+following year Two years after the government 
+balance is at least 75% of the 
+balance in the first year ECO/WKP(2012)13 13  Length: when the consolidation is defined as the underlying primary balance tightening of more 
+than 1.5% of GDP in a single year, the consolidation typically lasts a single year, though around 
+one-third of episodes maintain that pace into a second year. When the consolidation episode is 
+defined as a sustained tightening, the average length is almost four years with the longest 
+reaching 14 years (Greece between 1985 and 1999, when excluding the small reversal in 1995).  Composition: The composition of changes in underlying spending and revenues suggests that 
+revenues contributed more than spending on average to consolidations based on the tightening in 
+a given year (almost 2% of GDP for revenue increases relative to almost 1% of GDP for 
+spending). For sustained consolidations, the contribution is more balanced, with a slightly greater 
+contribution from spending (-2% of GDP) than revenue (1.5% of GDP).  Outcome for debt: For both definitions of consolidation, the level of debt on average changes by 
+a modest amount during the consolidation (rising by around 2% of GDP). However, the ranges 
+are substantial varying from a 12% of GDP reduction to over 24% of GDP increase for 
+consolidations based on the tightening in a given year. For the consolidations based on the 
+sustained tightening definition the variation is even more pronounced, ranging from a 25% of 
+GDP reduction to a 40% of GDP increase. Empirical results The start of consolidations The main findings concerning the start of a consolidation are (Table 4): 7  An important driver to start a consolidation is a country " s need to consolidate, which is captured 
+by the initial size of budget deficits. Initial debt levels and increases in debt do not appear to 
+provide incentives to consolidate. 
+ Monetary conditions can help trigger the start of a consolidation. High interest rate differentials 
+before the consolidation episode appear to matter for the start of very large consolidations. 8 
+However, a depreciating exchange rate does not appear to matter. 
+ Fiscal consolidation in other countries appears to have an impact on adjustment programmes, 
+indicating a kind of peer pressure. 
+ Political economy factors can also influence the start of a consolidation. Newly-elected 
+governments are more likely to launch adjustment programmes. Governments that are far from 
+the centre and stronger are less likely to undertake a consolidation programme. 7. 
+Probit analysis was used to examine the determinants of the start of consolidation episodes and in Table 4 
+the results for the underlying adjusted primary balance are indicated. Replacing it with the adjusted 
+primary balance did not change the results. 8. 
+Long-term interest rate differentials are measured relative to German rates for European countries and 
+relative to US rates for other countries. The United States and Germany, as well as Japan and the 
+United Kingdom, are excluded from the sample for the calculation of average responses. Long-term 
+interest rate differentials are a better proxy for the perceived sustainability of fiscal policies than absolute 
+interest rate levels, which also reflect cyclical and other influences on global bond markets. ECO/WKP(2012)13 14 Table 4. Determinants of the start of fiscal consolidation Probit estimation Type of consolidation 
+(see note to the table) (1) Very small 
+consolidation 
+threshold (2) Medium-
+sized 
+consolidation 
+threshold (3) Large and 
+sharp 
+consolidation 
+threshold (4) Large and 
+long 
+consolidation 
+threshold (5) Very large 
+consolidation 
+threshold Left-hand side variable: binary variable indicating the start of a consolidation Explanatory variables Debt/GDP (lagged) 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 Budget balance/GDP (lagged) 
+-0.03*** 
+-0.02*** 
+-0.01*** 
+-0.02*** 
+-0.01*** Change in the debt ratio (lagged) 
+0.00 
+0.00 
+0.00 
+0.00 
+0.00 Change in OECD30 budget 
+balance/GDP (lagged) 0.04** 
+0.08*** 
+0.04** 
+0.08*** 
+0.02* Change in nominal effective 
+exchange rate (lagged) -0.34 
+-0.07 
+-0.13 
+-0.17 
+0.04 Change in inflation (lagged) 
+-0.94 
+-0.34 
+-0.51 
+-0.30 
+-0.53* Interest rate differential (lagged) 
+0.00 
+0.00 
+0.01 
+0.00 
+0.01** Election year (lagged) 
+0.05 
+0.09*** 
+0.04* 
+0.04* 
+0.01 Strong left-leaning government 
+-0.02** 
+-0.01 
+-0.01 
+-0.01 
+-0.00* Strong right-leaning government 
+-0.01 
+-0.01** 
+-0.01*** 
+-0.01** 
+-0.01*** Number of observations 
+553 
+553 
+553 
+553 
+553 Notes: Budget balance measure: underlying cyclically-adjusted primary balance. Thresholds applied for consolidation episodes: i) very 
+small: continuous improvement in the budget balance (i.e. the episode lasts as long as the budget balance improves), 
+ii) medium-sized: 1 percentage point fall in the budget balance/GDP ratio in a single year or in two years, with at a minimum a 
+0.5 percentage point in the first year, iii) large 1: 1.5 percentage point fall in the budget balance/GDP ratio in a single year or in 
+two years with at a minimum a 1.25 percentage point in each, iv) large 2: 1.5 percentage point fall in the budget balance/GDP 
+ratio in a single year or in three years with less than a 0.5 percentage point deterioration in any year and v) very large: 
+2 percentage point fall in the budget balance in a single year or in two years with a minimum of 1.5 percentage points in each. 
+Significance levels: * significant at 10%; ** significant at 5%; *** significant at 1%. 
+Reported coefficients are the marginal effects (i.e. the change in probability of the left-hand side variable if the explanatory 
+variable increases by one unit). The duration of consolidations The main findings concerning the duration of a consolidation are (Table 5): 9  A major determinant of the length of a consolidation appears to be the size of the budget deficit.  Monetary conditions can have an effect on the duration of a consolidation. A depreciating 
+exchange rate provides a favourable environment for competitiveness gains and lengthens the 
+duration of the consolidation episode. Falling inflation tends to increase the duration of the 
+episode. A decrease in the implicit interest paid on debt also appears to lengthen the episode. 
+Replacing this variable by long-term interest rates (not reported) leads to the same result.  Newly-elected governments tend to continue consolidations. The orientation of the government 
+does not seem to matter for the length of the episode. 9. 
+The determinants of the duration of consolidation were examined using duration analysis and the budget 
+balance measure used is the underlying adjusted primary balance, but the use of the adjusted primary 
+balance leads to similar results. ECO/WKP(2012)13 15  The composition of fiscal consolidation does not appear to have a bearing on its length. This 
+holds for over 20 spending and revenue items examined at both the aggregate and disaggregated 
+level. These findings are not reported in the table.  The duration of a consolidation episode appears to be largely uninfluenced by the level of debt.  Adding fiscal rules (sequentially) results in insignificant coefficients on the exchange rate and 
+interest rate variables, while showing no significant effect for fiscal rules, either (not reported). 
+This could be due to the interaction between fiscal rules and macroeconomic variables that may 
+work through the disciplining effect of fiscal rules or may be related to an omitted variable 
+reflecting the government " s commitment to prudent macroeconomic policies. Table 5. Determinants of the length of fiscal consolidation Survival data analysis Type of consolidation 
+(see note to the table) (1) Very small 
+consolidation 
+threshold (2) Medium-
+sized 
+consolidation 
+threshold (3) Large and 
+sharp 
+consolidation 
+threshold (4) Large and 
+long 
+consolidation 
+threshold (5) Very large 
+consolidation 
+threshold Left-hand side variable: hazard rate of not stopping a consolidation episode Explanatory variables Debt/GDP (lagged) 
+0.00 
+0.00 
+0.00 
+-0.00* 
+0.00 Budget balance/GDP (lagged) 
+-0.02*** 
+-0.04*** 
+-0.04*** 
+-0.04*** 
+-0.04*** Change in implicit interest on 
+government debt -0.09*** 
+-0.11*** 
+-0.11** 
+-0.13*** 
+-0.12** Change in inflation 
+-4.10*** 
+-4.79*** 
+-5.64*** 
+-4.38*** 
+-5.63*** Change in exchange rate, NEER, 
+lagged -0.52* 
+-0.81** 
+-1.09** 
+-0.93** 
+-0.32 Election year dummy, lagged 
+0.11*** 
+0.10** 
+0.25*** 
+0.15*** 
+0.21** Strong left-leaning government 
+0.01 
+0.00 
+0.00 
+0.00 
+0.00 Strong right-leaning government 
+0.00 
+0.00 
+0.00 
+0.00 
+0.02 Constant 
+8.68*** 
+9.83*** 
+11.15*** 
+9.55*** 
+10.42*** Observations 
+572 
+572 
+572 
+572 
+572 Notes: Budget balance measure: underlying cyclically-adjusted primary balance. Thresholds applied for consolidation episodes: i) very 
+small: continuous improvement in the budget balance (i.e. the episode lasts as long as the budget balance improves), 
+ii) medium-sized: 1 percentage point fall in the budget balance/GDP ratio in a single year or in two years, with at a minimum a 
+0.5 percentage point in the first year, iii) large 1: 1.5 percentage point fall in the budget balance/GDP ratio in a single year or in 
+two years with at a minimum a 1.25 percentage point in each, iv) large 2: 1.5 percentage point fall in the budget balance/GDP 
+ratio in a single year or in three years with less than a 0.5 percentage point deterioration in any year and v) very large: 
+2 percentage point fall in the budget balance in a single year or in two years with a minimum of 1.5 percentage points in each. 
+Significance level: * significant at 10%; ** significant at 5%; *** significant at 1%. 
+The lognormal distribution was assumed for the hazard function as both the AIC model-selection criterion and the nested 
+Wald-test supported the lognormal (and loglogistic) forms versus the often used Weibull, Gompertz or exponential distributions. 
+As the lognormal distribution of the hazard function assumes an accelerated failure time form, the interpretation of the 
+coefficients is straightforward: a unit increase in the explanatory variable is associated with an increase equivalent to the size of 
+the respective coefficient in the log hazard rate. ECO/WKP(2012)13 16 The size of consolidations The main findings concerning the size of a consolidation are (Table 6): 10  The length of the consolidation episode appears to be a major determinant of its size, perhaps 
+reflecting that it takes longer to achieve larger consolidations.  Countries in the ERM tended to undertake larger consolidations compared to other countries.  How the consolidation is achieved appears to matter for the size of the consolidation. Cuts 
+focused on social protection and housing and community amenities spending seem to boost the 
+size of consolidations. 11 The robustness of these findings could not be fully checked, however, 
+owing to small sample size for some specifications. A larger share of spending cuts relative to tax 
+increases does not appear to affect the size of the consolidation (not reported). 12  There is weak evidence that newly-elected governments pursue less consolidation and that 
+left-leaning governments pursue smaller consolidations.  Monetary conditions do not seem to play an important role in determining the size of a 
+consolidation. Exchange rate depreciation boosts the size of only very large consolidations, while 
+interest rates and inflation do not seem to matter much.  The size of the deficit and the debt burden do not seem to be particularly important in 
+determining the size of the consolidation.  Fiscal rules do not appear to affect the size of consolidation (not reported). The intensity of consolidations The determinants of the intensity (annual average consolidation over the episode) of consolidation 
+episodes are very similar to those of their size. The main findings are (Table 7): 13  The intensity of large, but not smaller consolidation episodes appears to depend on the size of the 
+deficit in the previous year. The debt burden or an increase in debt levels only appears to matter 
+for very large consolidations. 10. 
+The determinants of the size of consolidations were investigated using the truncated regression model, as 
+the size, by definition, is truncated, and the Heckman selection model, as the size of the consolidation 
+presupposes a decision to consolidate. The results of the two types of regression models are largely the 
+same. The underlying cyclically-adjusted primary budget balance was used, but adjusted primary budget 
+balance measures lead to similar results. 11. 
+While cutting spending on social protection may boost incentives to work, to return to work or to work 
+longer, the finding that cuts for housing and community amenities matter is more of a surprise (though not 
+unprecedented in the literature: EC, 2007 has a similar finding for the EU-27 countries). 12. 
+The spending and revenue items were introduced into the regressions sequentially. 13. 
+The determinants of the intensity of consolidations were investigated using the truncated regression model, 
+as the intensity, by definition, is truncated, and the Heckman selection model, as the intensity of the 
+consolidation presupposes a decision to consolidate. The results of the two types of regression models are 
+largely the same. The underlying cyclically-adjusted primary budget balance was used, but adjusted 
+primary budget balance measures lead to similar results. ECO/WKP(2012)13 17 Table 6. Determinants of the size of fiscal consolidation Truncated regression model Type of consolidation 
+(see note to the table) (1) Very small 
+consolidation 
+threshold (2) Medium-
+sized 
+consolidation 
+threshold (3) Large and 
+sharp 
+consolidation 
+threshold (4) Large 
+and long 
+consolidation 
+threshold (5) Very large 
+consolidation 
+threshold Left-hand side variable: cumulated size of consolidation during the episode Explanatory variables Debt level (lagged) 
+0.00 
+0.00 
+0.00 
+0.00 
+0.01* Budget balance (lagged) 
+-0.09 
+-0.10 
+-0.06 
+-0.12 
+-0.08* Debt level (lagged change) 
+-0.04 
+0.01 
+0.02 
+-0.02 
+0.06 Length 
+1.53*** 
+1.77*** 
+2.56*** 
+1.52*** 
+2.24*** GDP growth rate (lagged) 
+15.05* 
+2.59 
+-0.39 
+5.39 
+-1.42 Nominal effective exchange rate 
+(lagged change) 0.01 
+-0.01 
+-0.04 
+-0.01 
+-0.08*** Core CPI (lagged change) 
+0.32 
+0.37** 
+0.05 
+0.50* 
+0.17 Long-term interest rate (lagged 
+change) -0.28 
+-0.06 
+0.03 
+-0.10 
+0.06** Elections in previous year 
+-0.93 
+-0.85** 
+-0.10 
+-0.44 
+0.29 ERM 
+0.67 
+1.03** 
+0.13 
+2.24*** 
+0.34 Euro area 1992-98 dummy 
+1.04 
+-0.50 
+0.05 
+-1.26 
+-1.12*** Euro area 1999-2009 dummy 
+-0.64 
+-0.07 
+0.37 
+-0.62 
+0.15 Strong left-side government 
+-0.04 
+0.01 
+-0.15*** 
+0.04 
+-0.09** Strong right-side government 
+-0.06 
+-0.02 
+-0.07** 
+-0.08 
+-0.04 Constant 
+-18.63** 
+-3.69 
+0.28 
+-6.76 
+1.46 Observations 
+115 
+80 
+44 
+61 
+27 Notes: Budget balance measure: underlying cyclically-adjusted primary balance. Thresholds applied for consolidation episodes: i) very 
+small: continuous improvement in the budget balance (i.e. the episode lasts as long as the budget balance improves), 
+ii) medium-sized: 1 percentage point fall in the budget balance/GDP ratio in a single year or in two years, with at a minimum a 
+0.5 percentage point in the first year, iii) large 1: 1.5 percentage point fall in the budget balance/GDP ratio in a single year or in 
+two years with at a minimum a 1.25 percentage point in each, iv) large 2: 1.5 percentage point fall in the budget balance/GDP 
+ratio in a single year or in three years with less than a 0.5 percentage point deterioration in any year and v) very large: 
+2 percentage point fall in the budget balance in a single year or in two years with a minimum of 1.5 percentage points in each. 
+Significance level: * significant at 10%; ** significant at 5%; *** significant at 1%.  Economic growth appears to be only relevant for the intensity of very small consolidations.  Inflation seems to have a positive effect on the intensity of the consolidation episode. Exchange 
+rate depreciation and rising long-term interest rates are associated with more intense, very large 
+consolidations. 
+ Elections do not seem to matter for the intensity of consolidations. There is some evidence 
+suggesting that both left-and right-leaning governments undertake less intense consolidations, 
+though this is found for only a few consolidation thresholds. 
+ Fiscal rules do not seem to matter for the intensity of fiscal consolidation (not reported). ECO/WKP(2012)13 18 Table 7. Determinants of the intensity of fiscal consolidation Truncated regression model Type of consolidation 
+(see note to the table) (1) Very small 
+consolidation 
+threshold (2) Medium-sized 
+consolidation 
+threshold (3) Large and 
+sharp 
+consolidation 
+threshold (4) Large and 
+long 
+consolidation 
+threshold (5) Very large 
+consolidation 
+threshold Left-hand side variable: intensity (annual average size of consolidation measures) Explanatory variables Debt/GDP (lagged) 
+0.00 
+0.00 
+0.00 
+0.00 
+0.01** Budget balance/GDP (lagged) 
+-0.04 
+-0.05 
+-0.03 
+-0.08** 
+-0.05* Change in the debt ratio (lagged) 
+-0.03 
+0.01 
+-0.01 
+0.00 
+0.07*** Growth rate (lagged) 
+6.34* 
+0.93 
+-1.00 
+3.72 
+-1.86 Change in exchange rate, 
+NEER, lagged 0.01 
+-0.01 
+-0.03* 
+-0.01 
+-0.06*** Inflation (lagged change) 
+0.20* 
+0.23*** 
+0.04 
+0.20** 
+0.35** Long-term interest rates (lagged 
+change) -0.11 
+-0.02 
+0.00 
+-0.01 
+0.05** Election year dummy (lagged) 
+-0.40 
+-0.22 
+0.04 
+-0.26 
+0.19 ERM 
+0.07 
+0.24 
+0.02 
+0.73*** 
+0.36 euro_9298 
+0.96** 
+0.01 
+0.17 
+-0.32 
+-0.91*** euro_9909 
+-0.16 
+0.02 
+0.37 
+-0.25 
+0.06 Strong left-leaning government 
+0.00 
+-0.01 
+-0.07** 
+-0.01 
+-0.07*** Strong right-leaning government 
+-0.02 
+-0.02 
+-0.03 
+-0.05** 
+-0.03 Constant 
+-6.05 
+0.35 
+3.35 
+-2.46 
+4.05* Observations 
+115 
+80 
+44 
+61 
+27 Notes: Budget balance measure: underlying cyclically-adjusted primary balance. Thresholds applied for consolidation episodes: 
+i) very small: continuous improvement in the budget balance (i.e. the episode lasts as long as the budget balance improves), 
+ii) medium-sized: 1 percentage point fall in the budget balance/GDP ratio in a single year or in two years, with at a minimum a 
+0.5 percentage point in the first year, iii) large 1: 1.5 percentage point fall in the budget balance/GDP ratio in a single year or 
+in two years with at a minimum a 1.25 percentage point in each, iv) large 2: 1.5 percentage point fall in the budget 
+balance/GDP ratio in a single year or in three years with less than a 0.5 percentage point deterioration in any year and v) very 
+large: 2 percentage point fall in the budget balance in a single year or in two years with a minimum of 1.5 percentage points in 
+each. 
+Significance level: * significant at 10%; ** significant at 5%; *** significant at 1%. The success of consolidations The major findings concerning the probability of success in stabilising debt are (Table 8): 14  Economic growth appears to help debt stabilisation. This may come partly through the 
+denominator effect.  An easing of monetary conditions captured by the change in the long-term interest rate seems to 
+increase the probability for a consolidation to stabilise debt. Moderating inflation similarly 14. 
+The determinants of the success of a consolidation were examined using the Heckman bivariate selection 
+model as the success presupposes consolidation undertaken. To account for episodes of different durations, 
+the probit model was also applied. The definition of success is debt stabilisation following the 
+consolidation episode, with a couple of thresholds for the number of years after which debt stabilises 
+following a consolidation. ECO/WKP(2012)13 19 appears to increase the probability of success of a consolidation. A depreciating exchange rate 
+may help as well, but the evidence is not strong.  The further governments are away from the centre, the less likely they seem to stabilise debt. 
+This finding is more robust for strong left-leaning governments than strong right-leaning ones.  Fiscal rules appear to be associated with successful consolidations, regardless whether an 
+expenditure rule, a budget balance rule or a combination of the two is in place. In addition, 
+stronger rules seem to be more effective.  Fiscal adjustment programmes during or immediately following banking crises appear to be less 
+likely to result in stabilising debt (not reported).  Consolidations based on spending cuts are more likely to stabilise debt. Very large consolidations 
+only stabilise debt temporarily, if they are spending driven. Reduction in social security spending 
+and government wages likewise only stabilises debt temporarily if the consolidation is large (not 
+reported). Assessing whether fiscal rules themselves contribute to fiscal consolidation creates difficulties. 
+Empirical work often finds that the presence of fiscal rules increases the probability of stabilising debt. 
+However, the causality of the relationship is often not assessed. For example, the finding may reflect 
+underlying government or population attitudes towards indebtedness, which leads governments concerned 
+about debt stabilisation (and reduction) to adopt fiscal rules as part of their fiscal consolidation 
+programmes. In cross-country studies assessing governments "  attitudes to fiscal restraint presents 
+considerable difficulties as comparable measures of preferences are missing. 15 So-called regression 
+discontinuity design (RDD) offers one way to identify whether the fiscal rules as distinct from underlying 
+preferences affect fiscal outcomes. RDD by controlling for country-specific trends can pinpoint whether 
+the introduction of a fiscal rule has an impact over and above the impact of unchanged or smoother 
+changes in preferences for fiscal probity. 16 The results (with 24 out of 24 different specifications 
+significant, though 4 specifications are significant only at the 10% threshold) support the independent role 
+of spending or budget balance rules in explaining debt stabilisation, after controlling for the other potential 
+influences. 15. 
+Within countries such as Canada, Switzerland and the United States, voters "  preferences are used to control 
+for the incentives sub-central governments face in pursuing fiscal prudence. 16. 
+Country-specific time trends and their second and third-order terms were inserted in the regressions. ECO/WKP(2012)13 20 Table 8. Determinants of the success of fiscal consolidation Bivariate Heckman selection model Debt stabilises at t+1 
+Debt stabilises at t+2 
+Debt stabilises at t+3 Expenditure 
+rules Balanced 
+budget 
+rules Expenditure 
+and 
+balanced 
+budget rules Fiscal 
+rules 
+index Expenditure 
+rules Balanced 
+budget 
+rules Expenditure 
+and balanced 
+budget rules Fiscal 
+rules 
+index Expenditure 
+rules Balanced 
+budget 
+rules Expenditure 
+and 
+balanced 
+budget 
+rules Fiscal 
+rules 
+index Left-hand side variable: binary variable indicating the success of a consolidation 
+Explanatory variables 
+Growth rate 
+12.07*** 
+12.87*** 
+12.01*** 
+17.73*** 
+8.1*** 
+8.85*** 
+8.28*** 
+14.44*** 
+7.21*** 
+8.33*** 
+7.47*** 
+15.71*** 
+Long-term interest rate (change) 
+-0.10** 
+-0.09** 
+-0.10** 
+-0.13* 
+-0.18*** 
+-0.17*** 
+-0.18*** 
+-0.39*** 
+-0.23*** 
+-0.22*** 
+-0.23*** 
+-0.56*** 
+NEER depreciation dummy 
+0.21* 
+0.22* 
+0.19 
+0.56*** 
+0.14 
+0.16 
+0.13 
+0.25 
+-0.06 
+-0.07 
+-0.10 
+0.01 
+Inflation (change) 
+-0.29*** 
+-0.25*** 
+-0.28*** 
+-0.42*** 
+-0.28*** 
+-0.26*** 
+-0.28*** 
+-0.47*** 
+-0.24*** 
+-0.22*** 
+-0.24*** 
+-0.38*** 
+Strong left-leaning government 
+-0.04* 
+-0.06*** 
+-0.04* 
+-0.06* 
+-0.08*** 
+-0.10*** 
+-0.08*** 
+-0.14*** 
+-0.07*** 
+-0.08*** 
+-0.06*** 
+-0.21*** 
+Strong right-leaning 
+government -0.03* 
+-0.02 
+-0.02 
+0.02 
+-0.04** 
+-0.03* 
+-0.03** 
+0.00 
+-0.05*** 
+-0.04*** 
+-0.04*** 
+-0.05 Expenditure rules dummy 
+0.44*** 
+0.32** 
+0.42*** 
+Balanced budget rules dummy 
+0.59*** 
+0.50*** 
+0.60*** 
+Expenditure and balanced budget rules dummy 
+0.55*** 
+0.51*** 
+0.67*** 
+Fiscal rules index for the EU countries 
+0.16* 
+0.32*** 
+0.51*** 
+Constant 
+-12.36*** 
+-13.51*** 
+-12.33*** 
+-17.87*** 
+-8.05*** 
+-9.12*** 
+-8.27*** 
+-14.10*** 
+-7.21*** 
+-8.65*** 
+-7.49*** 
+-15.46*** Observations 
+542 
+542 
+542 
+282 
+545 
+545 
+545 
+293 
+548 
+548 
+548 
+304 Notes: Budget balance measure: underlying cyclically-adjusted primary balance. 
+Significance levels: * significant at 10%; ** significant at 5%; *** significant at 1%. 
+Reported coefficients are the marginal effects (i.e. the change in probability of the left-hand side variable if the explanatory variable increases by one unit). The coefficients of the 
+selection equation variables are not shown in the table but tests confirmed the selection bias in most cases. ECO/WKP(2012)13 21 The impact of sub-central fiscal behaviour on central consolidation Central governments that tend to assume a large share in the burden of fiscal consolidation may need 
+to count on the support of sub-central governments. Although in some cases sub-central fiscal behaviour is 
+kept under control by fiscal rules, central governments may be forced to cover deficits and assume debt 
+created by sub-central levels of government, which may frustrate efforts to consolidate. For the analysis, fiscal balances were cyclically adjusted using the Hodrick-Prescott filter and their 
+impact on the start, size, length and success of central government consolidation efforts was examined. In 
+order to assure comparability, consolidation was defined as an improvement in the cyclically-adjusted 
+central government and social security budget balance (using only cyclically-adjusted central government 
+balances does not alter the results). For most consolidation aspects, the actions of sub-central levels of government do not appear to make 
+much difference. The start of fiscal consolidation, defined as any improvement in the budget balance does 
+not seem to be influenced by sub-central fiscal behaviour. 17 Sub-central government behaviour does not 
+appear to affect the length, size and intensity of consolidation episodes consistently. The contribution of sub-central governments to the success of a consolidation programme initiated by 
+a central government does seem to matter in some cases. 18 Success was defined as stabilisation of 
+government debt 1, 2 and 3 years following the consolidation episode. 19 The results for these regressions 
+(Table 9) suggest that consolidations by state-level governments tend to increase the probability of success 
+of central government retrenchment efforts. This finding holds when consolidation is defined as 
+stabilisation of government debt two or three years following the start of the consolidation. Consolidations 
+at the local government level do not appear to have a consistent effect on the success of consolidation. 
+However, some evidence suggests that they reduce the probability of a successful central government 
+consolidation effort. This finding is statistically significant, when debt stabilises in the following year, but 
+less so when debt stabilises in subsequent years. In part, the differences in the findings may be due to the 
+differences in the samples with all countries having local governments, but only a sub-set with state-level 
+governments. 20 Alternatively, the finding may either reflect that given the services local governments 
+typically provide a sharp tightening may be unsustainable without central government providing additional 
+support or alternatively that an overall consolidation effort requiring significant tightening at the local level 
+is more serious and will take longer for debt to stabilise. 17. 
+Although higher balances at the local or the joint local and state level in the year before the consolidation 
+seemed to increase the probability of the central government starting fiscal retrenchment, these results are 
+driven by the three countries (Austria, Spain and Switzerland). 18. 
+Sub-central governments do not appear to affect the length, size and intensity of consolidation episodes. 19. 
+The determinants of the success of a central government consolidation were examined using the Heckman 
+bivariate selection model, which is an appropriate econometric technique since success presupposes that 
+consolidation is undertaken. The Hodrick-Prescott filter is used for the cyclical adjustment. 20. 
+Sensitivity tests that restrict the sample to those countries with state level governments or only those 
+countries without state level governments suggests that some of the results are sensitive to the inclusion of 
+Canada and Korea. ECO/WKP(2012)13 22 Table 9. Sub-central governments and success in stabilising debt Left-hand side variable: binary variable 
+indicating the success of a consolidation Debt 
+stabilises 
+at t+1 Debt 
+stabilises 
+at t+2 Debt 
+stabilises 
+at t+3 Debt 
+stabilises 
+at t+1 Debt 
+stabilises 
+at t+2 Debt 
+stabilises 
+at t+3 Explanatory variables 
+Growth rate 
+8.80*** 
+3.80 
+2.30 
+7.77*** 
+5.13*** 
+4.65*** 
+Long-term interest rates (change) 
+-0.14*** 
+-0.20*** 
+-0.13*** 
+-0.06*** 
+-0.09*** 
+-0.11*** 
+NEER depreciation dummy 
+0.04 
+0.06 
+0.07 
+0.15*** 
+0.1** 
+0.02 
+Inflation (change) 
+-0.11 
+-0.08** 
+-0.02 
+-0.06*** 
+-0.07*** 
+-0.07*** 
+Strong left-leaning government 
+-0.01 
+-0.04** 
+-0.03* 
+-0.02** 
+-0.03*** 
+-0.03*** 
+Strong right-leaning government 
+-0.01 
+-0.01 
+-0.01 
+-0.01 
+-0.01 
+-0.01* 
+State-level government budget balance 
+(change) 0.34 
+0.71*** 
+0.73*** Local government budget balance (change) 
+-0.41** 
+-0.32* 
+-0.19 Observations 
+145 
+164 
+183 
+472 
+473 
+474 
+LR-test of independent equations 
+7.35*** 
+7.39*** 12.75*** 
+4.35** 
+1.8 
+1.43 Notes: The budget balance measures are cyclically-adjusted using the Hodrick-Prescott filter. 
+Significance levels: * significant at 10%; ** significant at 5%; *** significant at 1%. 
+The regressions use the bivariate Heckman selection model. Reported coefficients are the marginal effects (i.e. the change in 
+probability of the left-hand side variable if the explanatory variable increases by one unit). The coefficients of the selection 
+equation variables are not shown in the table but tests confirmed the selection bias in most cases. Conclusions The analysis of past consolidation episodes suggests that there are certain policies that may be 
+conducive to debt stabilisation. This section provides a brief discussion of the policy measures and 
+economic environment factors as well as the political settings that appear to support debt stabilisation, 
+encourage governments to start to consolidate, boost the size and the intensity of consolidation episodes, 
+and prompt governments to continue the adjustment once started. Fiscal rules are one of the policy measures found to be associated with a higher probability of 
+stabilising debt. The rational for fiscal rules is related to the reluctance of governments to commit to fiscal 
+discipline and the room governments have to abandon their announced plans before implementation. To 
+counteract these problems, explicit targets and fiscal rules can play an important role, though they are 
+difficult to design (Box 1). Fiscal rules can constrain government spending, spending of revenue windfalls, 
+the budget balance or debt, or a combination of them. The empirical work in this paper indicates that 
+countries that have either expenditure or budget balance rules or a combination of the two are more likely 
+to stabilise debt. The causality could also run the other way, as governments that are more committed to 
+debt stabilisation are more likely to adopt fiscal rules. However, an independent role of spending or budget 
+balance rules in explaining debt stabilisation was also found. In addition, more comprehensive fiscal rules 
+– that is the larger part of government activity and the larger number of government levels they cover 
+inter alia – are more likely to help stabilise debt. However, in this case, owing to lack of data, the direction 
+of causality could not be established and therefore it can well be the case that governments that commit to 
+debt stabilisation adopt more comprehensive fiscal rules. The composition of the fiscal adjustment can also matter for the probability of its success. Very large 
+consolidations, that need to be pursued now by many countries, have a higher probability of success, if 
+achieved by multiple instruments. Past evidence suggests that a mix of reducing various spending items 
+– including subsidies, government wages and social protection – and of increasing several revenue items 
+helps. ECO/WKP(2012)13 23  The empirical evidence shows that if the adjustment is spending rather than tax driven, debt is 
+more likely to stabilise and this stabilisation is lasting. However, very large consolidations 
+stabilise debt only temporarily if they are exclusively spending driven. Similarly, cutting 
+government wages only helps stabilise debt temporarily if the consolidation is large. A reduction 
+in social security spending can increase the probability of consolidations of any size to succeed. 
+But in the case of very large consolidations, the debt ratio will only stabilise temporarily, 
+suggesting that large cuts in social security spending may not be sustainable. There is some 
+evidence that cutting subsidies may help stabilise debt, though it only applies for very large 
+consolidations. Relying on cuts of social protection spending and on housing and community 
+amenities may boost the size of the consolidation, though they do not seem to matter for its 
+probability to succeed. Finally, the composition appears to have little bearing on the duration of 
+the consolidation.  Revenue-based consolidations are often considered to be less effective due to the ratchet effect on 
+spending and to the adverse impact on growth compared to expenditure-based ones. A focus on 
+indirect taxes reduces the probability for immediate debt stabilisation, though this impact fades 
+away after a year. There is some weak evidence that relying on business taxes for fiscal 
+adjustment may help achieve debt stabilisation temporarily, but for very large programmes it 
+hampers debt stabilisation over the medium term. Box 1. Fiscal rules: design, implementation and creative accounting issues Given the multiple targets fiscal policy needs to take into account, optimal fiscal rules can be derived 
+theoretically, but they are too complex to implement. In addition, fiscal rules should allow for some flexibility over the 
+cycle, but too much flexibility may undermine them (Wyplosz, 2008). Striking a balance between stringency and 
+flexibility also involves an additional implementation issue: the exact cyclical position of the economy may be hard to 
+determine, so that it is also difficult to judge at any point in time whether the government is complying with the fiscal 
+rules. Owing to these implementation and design issues, Wyplosz (2005 and 2008) proposed that a fiscal council 
+should serve as a surrogate for a fiscal policy rule. He argues that fiscal councils could be a powerful watchdog. 
+There could be an intermediate way, with a fiscal council monitoring compliance with fiscal rules as well as taking up 
+other functions, such as providing independent forecasts and analysis of and recommendations for fiscal policy. Fiscal rules may, in some circumstances, encourage creative accounting. This is more likely when complying 
+with the rules results in credibility gains for the government and the risk of being caught is low (for instance, owing to 
+a low level of fiscal transparency) or when the social cost of being caught is low (if, for instance, the electorate is 
+accustomed to creative accounting by the government). Creative accounting is less likely when the social cost of 
+missing fiscal targets is high or when the probability of being discovered is high. A high probability of being 
+discovered fosters genuine fiscal consolidation (Koen and van den Noord, 2005 and Milesi-Ferretti, 2000). The economic environment in which consolidation takes place can affect the probability of its 
+success. In the empirical analyses, economic growth and falling interest rates appear to help stabilise debt. 
+Growth reduces debt partly through the denominator effect, while declining interest rates help stabilising 
+debt through reducing debt servicing costs and cushioning the contractionary impact of consolidation. 
+Growth appears to matter less for the size or intensity of adjustment. Falling interest rates similarly do not 
+seem to have an impact on the start, size or intensity of the adjustment. The depreciation of the nominal 
+effective exchange rate seems to be conducive to reducing debt, which may work through competitiveness 
+gains boosting exports, though this effect is short lived. It also appears to lengthen the consolidation 
+episode, but has no bearing on the size or the intensity of the episode. Moderating inflation also seems to 
+help debt stabilisation, though favours a less intense and more protracted process. ECO/WKP(2012)13 24 The political setting also seems to matter for the success of consolidation: some evidence suggests 
+that centrist governments appear more likely to stabilise debt. Newly-elected governments seem to be more 
+likely to start a consolidation and also to continue it. However, as in the case of the policy variables, the 
+findings related to the political environment are also susceptible to omitted variable problems and reverse 
+causality. For instance, if the electorate cares about fiscal discipline, it elects governments that are more 
+likely to provide such discipline. The attitude of sub-central governments towards central government consolidation appears to affect 
+its probability of success. In particular, state-level governments can increase the probability of success and 
+the stabilisation of national debt if they consolidate during central government consolidation episodes. To 
+ensure that state-level governments do co-operate, the right regulatory framework with the extension of 
+fiscal rules to sub-central government levels may be effective. ECO/WKP(2012)13 25 Bibliography Ahrend, R., P. Catte and R. Price (2006),  " Interactions between Monetary and Fiscal Policy: How 
+Monetary Conditions Affect Fiscal Consolidation " , OECD Economics Department Working Paper, 
+No. 521. Alesina, A. and S. Ardagna (1998),  " Fiscal Adjustments – Why they can be Expansionary? " , Economic 
+Policy, Vol. 13(27). Alesina, A. and S. Ardagna (2009),  " Large Changes in Fiscal Policy: Taxes versus Spending " , NBER 
+Working Paper, No. 15438. Alesina, A. and R. Perotti (1995),  " Fiscal Expansions and Adjustments in OECD Countries " , Economic 
+Policy, Vol. 21. Alesina, A. and R. Perotti (1997),  " Fiscal Adjustments in OECD Countries: Composition and 
+Macroeconomic Effects " , IMF Staff Papers, Vol. 44(2). Ardagna, S. (2009),  " Determinants and Consequences of Fiscal Consolidations in OECD Countries "  in: 
+European Commission: European Economy 2009, European Commission, Brussels. Barrios, S., S. Langedijk and L. Pench (2010),  " EU Fiscal Consolidation after the Financial Crisis – 
+Lessons from Past Experiences " , paper presented at the 12 th Banca d " Italia Public Finance Workshop 
+Fiscal Policy: Lessons from the Crisis held in Perugia on 25-27 March. Boltho, A. and A. Glyn (2006),  " Prudence or Profligacy: Deficits, Debt, and Fiscal Consolidation " , Oxford 
+Review of Economic Policy, Vol. 22 (3). Dafflon, B. and F. Pujol (2001),  " Fiscal Preferences and Fiscal Performance – Swiss Cantonal Evidence " , 
+International Public Management Review, Vol. 2 (2). Égert, B. (2010),  " Fiscal Policy Reactions to the Cycle in the OECD: Pro-or Countercyclical? " , OECD 
+Economics Department Working Paper, No. 763. European Commission (2007), European Economy – Public Finances in EMU. European Commission, 
+Brussels. Girouard, N. and R. Price (2004),  " Asset-Price Cycles,  " One-off "  Factors and Structural Budget Balances " , 
+OECD Economics Department Working Paper, No. 391. Guichard, S., M. Kennedy, E. Wurzel and C. André (2007),  " What Promotes Fiscal Consolidation: OECD 
+Country Experiences " , OECD Economics Department Working Paper, No. 553. Koen, V. and P. van den Noord (2005),  " Fiscal Gimmickry in Europe: One-off Measures and Creative 
+Accounting " , OECD Economic Department Working Paper, No. 417. ECO/WKP(2012)13 26 Krogstrup, S. and S. Wälti (2008),  " Do Fiscal Rules Cause Budgetary Outcomes? " , Public Choice, 
+Vol. 136. Lambertini, L. and J.A. Tavares (2005),  " Exchange Rates and Fiscal Adjustments: Evidence from the 
+OECD and Implications for the EMU " , Contributions to Macroeconomics, Vol. 5 (1). Larch, M. and M. Salto (2005),  " Fiscal Rules, Inertia and Discretionary Fiscal Policy " , Applied 
+Economics, Vol. 37. Milesi-Ferretti, G.M. (2000),  " Good, Bad or Ugly? On the Effects of Fiscal Rules with Creative 
+Accounting " , IMF Working Paper, No. 172. Mulas-Granados, C. (2005),  " Fiscal Adjustments and the Short-term Trade-off between Economic Growth 
+and Equality " , Hacienda Pública Espaňola/Revista de Economía Pública, 172(1). Sutherland, D., P. Hoeller and R. Merola (2012),  " Fiscal Consolidation. Part 1. How Much is Needed and 
+How to Reduce Debt to a Prudent Level? " , OECD Economics Department Working Paper, No. 932. Tsibouris, G.C., M.A. Horton, M.J. Flanagan and W.S. Maliszewski (2006),  " Experience with Large Fiscal 
+Adjustment " , IMF Occasional Paper, No. 246. Von Hagen, J. and R.R. Strauch (2001),  " Fiscal Consolidations: Quality, Economic Conditions and 
+Success " , Public Choice, Vol. 109. Von Hagen, J., A.H. Hallett and R.R. Strauch (2002),  " Budgetary Consolidation in Europe: Quality, 
+Economic Conditions and Persistence " , Journal of the Japanese and International Economies, 
+Vol. 16. Wyplosz, C. (2005),  " Fiscal Policy: Institutions versus Rules " , National Institute Economic Review, 
+No. 191. Wyplosz, C. (2008),  " Fiscal Councils: Unlovable or just Unloved? " , Swedish Economic Policy 
+Review, Vol. 15. ECO/WKP(2012)13 27 WORKING PAPERS The full series of Economics Department Working Papers can be consulted at www.oecd.org/eco/workingpapers/ 935. Fiscal consolidation 
+Part 4. Case studies of large fiscal consolidation episodes 
+(January 2012) by Hansjörg Blöchliger, Dae-Ho Song and Douglas Sutherland 934. Fiscal consolidation 
+Part 3. Long-run projections and fiscal gap calculations 
+(January 2012) by Rossana Merola and Douglas Sutherland 933. Fiscal consolidation 
+Part 2. Fiscal multipliers and fiscal consolidations 
+(January 2012) by Ray Barrell, Dawn Holland and Ian Hurst 932. Fiscal consolidation 
+Part 1. How much is needed and how to reduce debt to a prudent level? 
+(January 2012) by Douglas Sutherland, Peter Hoeller and Rossana Merola 931. Less income inequality and more growth – Are they compatible? 
+Part 8. The drivers of labour income inequality – A review of the recent literature 
+(January 2012) by Rafal Kierzenkowski and Isabell Koske 930. Less income inequality and more growth – Are they compatible? 
+Part 7. The drivers of labour earnings inequality – An analysis based on conditional and 
+unconditional quantile regressions 
+(January 2012) by Jean-Marc Fournier and Isabell Koske 929. Less income inequality and more growth – Are they compatible? 
+Part 6. The distribution of wealth 
+(January 2012) by Kaja Bonesmo Fredriksen 928. Less income inequality and more growth – Are they compatible? 
+Part 5. Poverty in OECD countries 
+(January 2012) by Mauro Pisu 927. Less income inequality and more growth – Are they compatible? 
+Part 4. Top incomes 
+(January 2012) by Peter Hoeller 926. Less income inequality and more growth – Are they compatible? 
+Part 3. Income redistribution via taxes and transfers across OECD countries 
+(January 2012) by Isabelle Joumard, Mauro Pisu and Debbie Bloch 925. Less income inequality and more growth – Are they compatible? 
+Part 2. The distribution of labour income 
+(January 2012) by Isabell Koske, Jean-Marc Fournier and Isabelle Wanner ECO/WKP(2012)13 28 924. Less income inequality and more growth – Are they compatible? 
+Part 1. Mapping income inequality across the OECD 
+(January 2012) by Peter Hoeller, Isabelle Joumard, Mauro Pisu and Debbie Bloch 923. Current issues in managing government debt and assets 
+(December 2011) by Eckhard Wurzel and Lukasz Rawdanowicz 922. Public spending efficiency in the Czech Republic: fiscal policy framework and the main spending 
+areas of pensions and healthcare 
+(December 2011) by Zuzana Smidova 921. Exploring determinants of subjective wellbeing in OECD countries – evidence from the World 
+Value Survey 
+(December 2011) by Sarah Fleche, Conal Smith and Piritta Sorsa 920. Russia: progress in structural reform and framework conditions 
+(December 2011) by Yana Vaziakova, Geoff Barnard and Tatiana Lysenko 919. Explaining the interest-rate-growth differential underlying government debt dynamics 
+(December 2011) by David Turner and Francesca Spinelli 918. Reassessing the NAIRUs after the crisis 
+(December 2011) by Stéphanie Guichard and Elena Rusticelli 917. Employment protection legislation and plant-level productivity in India 
+(December 2011) by Sean Dougherty, Verónica Frisancho Robles and Kala Krishna 916. Systemically important banks and capital regulation challenge 
+(December 2011) by Patrick Slovik 915. Improving educational outcomes in Slovenia 
+(December 2011) by Mehmet Eris 914. Addressing challenges in the energy sector in Israel 
+(December 2011) by Philip Hemmings 913. Issues in private sector finance in Israel 
+(December 2011) by Philip Hemmings 912. How to improve the economic policy framework for the housing market in Israel 
+(December 2011) by Philip Hemmings 911. Fiscal Prospects and Reforms in India 
+(December 2011) by Richard Herd, Sam Hill and Vincent Koen 910. Structural reforms to reduce unemployment and restore competitiveness in Ireland 
+(December 2011) by Álvaro Pina 909. Getting back on track: restoring fiscal sustainability in Ireland 
+(December 2011) by David Haugh 

@@ -1,0 +1,1363 @@
+Please cite this paper as: Brezzi, M. and M. Diaz Ramirez (2016),  " Building subjective 
+well-being indicators at the subnational level: A preliminary 
+assessment in OECD regions " , OECD Regional Development 
+Working Papers, 2016/03, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/5jm2hhcjftvh-en OECD Regional Development Working 
+Papers 2016/03 Building subjective well-
+being indicators at the 
+subnational level A PRELIMINARY ASSESSMENT IN OECD 
+REGIONS Monica Brezzi, Marcos Diaz Ramirez JEL Classification: I31, R11 1 OECD REGIONAL DEVELOPMENT WORKING PAPERS This series is designed to make available to a wider readership selected studies on regional development 
+issues prepared for use within the OECD. Authorship is usually collective, but principal authors are named. 
+The papers are generally available only in their original language English or French with a summary in the 
+other if available. OECD Working Papers should not be reported as representing the official views of the OECD or of its 
+member countries. The opinions expressed and arguments employed are those of the author(s). The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli authorities. 
+The use of such data by the OECD is without prejudice to the status of the Golan Heights, East Jerusalem 
+and Israeli settlements in the West Bank under the terms of international law. Working Papers describe preliminary results or research in progress by the author(s) and are published to 
+stimulate discussion on a broad range of issues on which the OECD works. Comments on Working Papers 
+are welcomed, and may be sent to either gov.contact@oecd.org or the Public Governance and Territorial 
+Development Directorate, OECD, 2 rue André-Pascal, 75775 Paris Cedex 16, France. Authorised for publication by Rolf Alter, Director, Public Governance and Territorial Development 
+Directorate, OECD. -----------------------------------------------------------------------------
+OECD Regional Development Working Papers are published on 
+http://www.oecd.org/gov/regional/workingpapers 
+-----------------------------------------------------------------------------Applications for permission to reproduce or translate all or part of this material should be made to: OECD 
+Publishing, rights@oecd.org or by fax 33 1 45 24 99 30. © OECD 2016 2 BUILDING SUBJECTIVE WELL-BEING INDICATORS AT THE SUBNATIONAL LEVEL: A 
+PRELIMINARY ASSESSMENT IN OECD REGIONS Monica Brezzi and Marcos Diaz Ramirez 1 Abstract This paper provides, for the first time, estimates of subjective well-being variables in 373 OECD 
+subnational regions, allowing comparison of various measures of how people experience and evaluate their 
+lives within and across all 34 OECD countries. Different weighting strategies as well as several robustness 
+checks have been carried out to ensure regional representativeness and to provide reliable indicators. The 
+results show that it is possible to obtain robust regional estimates of subjective well-being through the 
+Gallup World Poll for the variables satisfaction with life and social support network. These estimates could 
+be included in the OECD Regional Well-Being Database to provide two additional well-being dimensions 
+measured uniquely with subjective indicators. In addition to these two variables, the paper explores the 
+feasibility of other subjective indicators, either from Gallup or the European Statistics on Income and 
+Living Standards (EU SILC), which are particularly meaningful when measured at the city or regional 
+levels, such as satisfaction with the living environment, satisfaction with commuting time, trust in the 
+political system, and feeling of safety in the community. Finally, a regression analysis is performed to give 
+an insight of the explanatory power of both individual and regional specific characteristics to self-reported 
+life satisfaction. The results show that regional fixed effects capture around 10 percentage points of the 
+variation in life satisfaction, of which 30% can be associated to observable regional characteristics such as 
+mortality rate and air pollution. Furthermore, life satisfaction tends to be negatively affected not only by 
+the individual unemployment status but also by the level of unemployment of the region; in the OECD 
+area, everything else equal, being unemployed is associated with 7 percentage points less of life 
+satisfaction compared to someone that is employed; whereas, an increase of 1 percentage point in the 
+unemployment rate at the regional level is related with 0.4 percentage points less of satisfaction with life as 
+a whole. JEL classification codes: I31, R11 Keywords: subjective well-being, regional disparities, access to services, World Gallup Poll, 
+European Statistics on Income and Living Conditions. 1 Monica Brezzi monica.brezzi@oecd.org; Marcos Diaz Ramirez marcos.diazramirez@oecd.org. The authors wish to 
+thank Luiz De Mello (OECD) and Carrie Exton (OECD) for their comments and suggestions on previous 
+drafts; Paola Annoni (European Commission) and Lewis Dijkstra (European Commission) for helpful 
+discussions regarding the statistical methods employed, and Eurostat for providing EU SILC data. They 
+also acknowledge various colleagues from the OECD Regional Development Policy Division for their 
+useful comments. 3 TABLE OF CONTENTS 1. Introduction .............................................................................................................................................. 4 
+2. The Gallup World Poll and its representativeness at the regional level................................................... 5 
+Sample representativeness assessment ..................................................................................................... 5 
+Population comparison by gender-age groups ......................................................................................... 8 
+Estimation of confidence intervals ......................................................................................................... 11 
+3. Adding new dimensions to the regional well-being: Life satisfaction and Social connections ............. 11 
+Life satisfaction ...................................................................................................................................... 11 
+The impacts of individual and regional characteristics on life satisfaction ............................................ 17 
+Social connections .................................................................................................................................. 20 
+4. Subjective indicators to complement objective indicators ..................................................................... 21 
+Safety ...................................................................................................................................................... 23 
+Civic engagement and governance ......................................................................................................... 24 
+Access to services ................................................................................................................................... 25 
+Environment ........................................................................................................................................... 28 
+Work-life balance ................................................................................................................................... 28 
+5. Conclusions ............................................................................................................................................ 29 
+References .................................................................................................................................................. 30 
+Annex ......................................................................................................................................................... 32 Tables Table 1. 
+Difference between surveyed and real population shares ........................................................ 9 
+Table 2. 
+Percent of regions with sample and real population shares not statistically different ........... 10 
+Table 3. 
+Regions not included or not reweighted in the analysis ........................................................ 10 
+Table 4. 
+Confidence intervals for regional Gallup variables ............................................................... 11 
+Table 5. 
+Regional ranking agreements among the different surveys ................................................... 17 
+Table 6. 
+Regional and individual characteristics as predictors of life satisfaction .............................. 18 
+Table 7. 
+Subjective and objective indicators by well-being dimension ............................................... 22 
+Table 8. 
+Other regional characteristics as predictors of life satisfaction ............................................. 32 Figures Figure 1. Distribution of sample sizes across regions ............................................................................. 7 
+Figure 2. Regional variation in life satisfaction .................................................................................... 12 
+Figure 3. Life satisfaction in Italian regions ......................................................................................... 14 
+Figure 4. Life satisfaction in Mexican states ........................................................................................ 15 
+Figure 5. Life satisfaction in United Kingdom regions......................................................................... 16 
+Figure 6. Life satisfaction in European regions .................................................................................... 17 
+Figure 7. Regional variation in social network support ........................................................................ 21 
+Figure 8. Regional variation in the perception of safety ....................................................................... 24 
+Figure 9. Regional variation in the perception of corruption ................................................................ 25 
+Figure 10. 
+Regional variation in quality of water ............................................................................... 26 
+Figure 11. 
+Regional variation in satisfaction with commuting time ................................................... 27 
+Figure 12. 
+Regional variation in satisfaction with services and the living environment .................... 27 
+Figure 13. 
+Level and perception of air pollution in OECD regions .................................................... 28 
+Figure 14. 
+Regional variation in satisfaction with time use ................................................................ 29 4 1. Introduction Subjective well-being reflects the notion of measuring how people experience and evaluate their lives. 
+It includes evaluation of life as a whole (generally referred as life satisfaction), evaluations of particular 
+domains of life (for example, satisfaction with time available for leisure), feelings and emotions, as well 
+measures of  " meaningfulness "  or  " purpose "  in life. Subjective aspects provide important information about 
+quality of life but also a better understanding of its determinants and thus can complement other outcome 
+measures as an alternative yardstick of progress (Stiglitz et al., 2008). In particular, measures of subjective 
+well-being are uniquely placed to provide information on the net impact of changes in social and economic 
+conditions on the perceived well-being of respondents, taking into account the impact of differences in 
+tastes and preferences among individuals (OECD, 2013). The OECD framework to measure well-being at national level encompasses two dimensions that are 
+measured uniquely with subjective indicators, life satisfaction and social connections, and includes some 
+subjective indicators alongside with objective ones in the dimensions of health and environment (OECD 
+Better Life Index http://www.oecdbetterlifeindex.org/). In recent years, several national and international 
+statistical offices have started producing subjective well-being data encompassing different measures as 
+recommended by the OECD Guidelines on measuring subjective well-being (OECD, 2013): Australia 
+(2014), Canada (since 1985), Israel (2006), Italy (1993), Korea (2013), Mexico (2012), New Zealand 
+(2014), Turkey (2013), United Kingdom (2012) and United States (2011). Subjective evaluations were 
+collected for the first time in European official statistics through the 2013 ad-hoc module of EU statistics 
+on income and living conditions (EU SILC) covering 25 European OECD countries (Eurostat, 2015). 
+While the domains and questions of the national surveys are getting more and more similar, a full 
+comparability across countries has not yet been established. The OECD still relies on the world-wide 
+Gallup survey for some of the subjective indicators in the Better Life Index. Data constraints prevented the inclusion of subjective measures in the OECD measurement of well-
+being in regions (OECD, 2014). The World Gallup Poll is designed to be representative only at the national 
+level, few national surveys have been expanded to be representative at the subnational level (Italy, Mexico, 
+Turkey and the United Kingdom), and for some European countries included in the EU SILC module on 
+well-being regional identifiers are available. Currently, the measurement of well-being in OECD regions 
+includes eleven headline objective indicators to monitor outcomes in regions along nine well-being 
+dimensions (OECD Regional Well-Being http://www.oecdregionalwellbeing.org/index.html). This paper provides, for the first time, subjective well-being indicators for 373 OECD subnational 
+regions, allowing comparison within and across all 34 OECD countries. These estimates are derived from 
+individual responses to the Gallup survey. Different weighting strategies as well as several robustness 
+checks have been carried out to ensure regional representativeness and to provide reliable indicators. It 
+should be noted that, in order to increase the sample size, all the annual waves of the Gallup survey 
+between 2006 and 2014 are pooled together; thus the results provide just one observation in time. Various questions from the Gallup survey are investigated in order to provide regional estimates of 
+different well-being dimensions, including life satisfaction, social connections, environment, safety, and 
+governance. In addition, regional variables are estimated for some European countries from the 2013 
+module on well-being of the EU SILC. The selected variables from EU SILC differ from Gallup and 
+include questions on life satisfaction, social connections, work-life balance, access to services, safety, and 
+governance. The regional coverage from EU SILC varies from 7 to 16 countries depending on the 
+questions. Robustness checks on the regional samples from EU SILC have not been carried out; instead the 
+regional estimates are used for comparison with the results derived from Gallup, when the questions and 
+measurements are similar, to test the goodness of fit to official statistics. 5 The choice of the survey questions investigated derives from the following considerations. First, the 
+paper tests whether it is possible to expand the OECD regional well-being measurement to include two 
+dimensions, currently available only at the national level, which are measured through subjective 
+indicators: life satisfaction and social connections (meaning having someone to rely on in case of need). 
+Second, previous work at the subnational level has underlined the importance of including people's 
+evaluations of particular domains to complement objective indicators (OECD, 2014; OECD 2015a). The 
+paper provides regional estimation for a selection of subjective indicators, derived from Gallup or EU 
+SILC, in the dimensions of governance and civic engagement, access to services (including evaluations on 
+the quality of services), safety, environment, and work-life balance. The results show that it is possible to obtain robust regional estimates of subjective well-being 
+through the Gallup Poll for six selected measures: life satisfaction, social connections, perception of 
+corruption, satisfaction with quality of water, satisfaction with quality of air, and feeling of safety. The 
+estimates are available for all the OECD TL2 regions with the exception of five: Yukon, Northwest 
+Territories, and Nunavut (Canada) and Helsinki-Uusimaa and Aland (Finland). Regional values on life satisfaction from Gallup vary from 4.4 to 8.6 on a zero-ten point scale, a gap 
+that is 1.6 times larger than the one among countries. The regional values on life satisfaction from Gallup 
+are highly correlated with those derived from official statistics (either EU SILC or national surveys), 
+suggesting the possibility of using the Gallup estimates to add life satisfaction in the OECD Regional 
+Well-Being Database as  " place holder "  to be substituted by official statistics as they become available in 
+more countries. Similarly, regional values can be estimated for the social support network (social 
+connections) from Gallup, although the comparison with official statistics via EU SILC was possible only 
+for five European countries. Finally, the paper suggests an additional set of self-reported indicators that could be made available at 
+the subnational level in the future. To this aim, it would be important to replicate the well-being module in 
+the European Union Statistics on Income and Living Conditions (EU SILC) and expand the geographical 
+coverage to regions, at least for those indicators, such as satisfaction with commuting, satisfaction with 
+services and living environment, or perception of safety in the area of residence, which are more 
+meaningful when measured at a more granular territorial scale. The paper is organised as follow. Section 2 provides a description of the main source of data (Gallup 
+World Poll) together with an assessment of the regional sample representativeness. Section 3 provides 
+comparative results across regions in OECD countries for the variables in the dimensions of life 
+satisfaction and social connections. This section also compares the results of the regional values for life 
+satisfaction obtained by the Gallup World Poll, the EU SILC and the national surveys with subnational 
+samples from Italy, Mexico and the United Kingdom. Section 4 presents the results for a selection of 
+subjective variables, derived from Gallup or EU SILC that could be included in well-being dimensions 
+already measured at the regional level with objective variables. Section 5 concludes with suggestions on 
+possible uses of the results. 2. The Gallup World Poll and its representativeness at the regional level Sample representativeness assessment The Gallup World Poll (Gallup) is a repeated cross-sectional survey that (following the Gallup 
+Macroeconomic Path framework) gathers people's opinions and self-evaluations on matters related to Law 
+and Order, Food and Shelter, Institutions and Infrastructure, Good Jobs, Well-Being, and Brain Gain 2 . As 2 See Gallup World Poll: http://www.gallup.com/services/170945/world-poll.aspx 6 of 2015, nine waves have been collected in which the survey has covered 165 countries and territories from 
+2006 to 2014. Surveys are carried out face to face and/or via telephone depending on the country. All 
+samples are probability based and nationally representative (including rural areas) of the population aged 
+15 years and above. The typical sample size is of 1 000 for a country-year combination. The 6 variables of 
+interest extracted from Gallup are life satisfaction, social connections, perception of corruption, feeling of 
+safety, satisfaction with quality of water and satisfaction with quality of air. This paper focuses on the 34 OECD countries and more precisely on its 379 large regions, of which 
+373 3 are identifiable and available in Gallup. Estimating subjective well-being indicators at the TL2 level 
+requires further splitting of the country samples, which for some low-populated regions might generate 
+considerably small samples and thus unreliable and/or unrepresentative indicators. The first step to tackle 
+this issue is to pool together the nine available waves of Gallup and to estimate indicators for the period 
+2006-2014 (instead of annual indicators). 4 Nevertheless, since the variables of interest have not been 
+collected for every country every year, there are still a few regions for which small sample size might be a 
+concern. Survey sample sizes vary across regions and variables 5 , whereas the average sample size for the 
+variable life satisfaction is 727, the average sample size for satisfaction with air quality is 528. Figure 1 
+shows the distribution of the regional sample sizes by variable. For any variable, at least 84% of the 
+regions (313 out of 373) have sample sizes larger than 100 observations. For life satisfaction, around 72% 
+of the regions have sample sizes larger than 200; while for the other variables only around 65% of the 
+regions do. 3 The Italian region denoted as Province of Trento in the Gallup estimates includes both the Autonomous Province of 
+Trento and Autonomous Province of Bolzano-Bozen. 4 While pooling together the samples of all available years would increase the precision of the estimated indicators 
+(by reducing margins of error), it also preclude the possibility of an analysis over time and the study of 
+time effects on the different indicators. 5 Before pooling they also vary across time, with most of the sample concentrated at the end of the period (50% of the 
+sample is in the last three available years, 2012-2014). The distributions of sample sizes by variable, region 
+and year are available under request. 7 Figure 1. Distribution of sample sizes across regions Source: Authors' elaborations from Gallup Poll (2006-2013). In general the subjective well-being indicators from Gallup are estimated as in (1), where the 
+subjective well-being variable is first estimated for an individual í µí± of gender-age group í µí± and in region í µí± 
+(for a given variable í µí±, the sub-index í µí± won't be included to simplify the notation) 6 : í µí±í µí±í µí°µ í µí±í µí± = 
+∑ í µí±¤ í µí±í µí±í µí± í µí±¥ í µí±í µí±í µí± í µí± í µí±í µí± 
+í µí±=1 ∑ í µí±¤ í µí±í µí±í µí± í µí± í µí±í µí± 
+í µí±=1 (1) Where í µí±¤ í µí±í µí±í µí± denotes the weights provided by Gallup 7 and í µí±¥ í µí±í µí±í µí± it's the value of the well-being measure 
+(for life satisfaction it is a value from 0 to 10, and for the other variables it is a value from 0 to 1). There 6 In an alternative specification weighted averages (as in equation 1) have been replaced by simple averages, which 
+has yielded very similar results. 8 are 6 gender-age groups (í µí± ∈ (1, … , í µí°º = 6), which were determined based on the statistical analysis and 
+results presented in the following subsection) and 373 regions; í µí± í µí±í µí± stands for the sample size of the group 
+g in region í µí±. Once subjective well-being has been estimated by group and region, it is possible to apply 
+equation 2 to aggregate the groups of the same region by reweighting accordingly to the real population 
+shares of the 6 gender-age groups. Subjective well-being in region r is then obtained as: í µí±í µí±í µí°µ í µí± = ∑ í µí¼ í µí±í µí± í µí±í µí±í µí°µ í µí±í µí± í µí°º í µí±=1 (2) where í µí¼ í µí±í µí± = í µí± í µí±í µí± ∑ 
+í µí± í µí±í µí± í µí°º 
+í µí±=1 is the real-population share of group g. To assess and improve the reliability of these indicators, three analyses are carried out. First, for all 
+the OECD countries surveyed population shares by gender and age groups are compared to the real-
+population shares of the same groups in the region. In the same vein, statistical tests are performed to 
+determine if the sample proportion of a given gender-age group is statistically the same as the population 
+proportion; this part of the analysis concludes with the decision of reweighting the indicators in a way that 
+they fit the distribution of the different gender-age groups observed in the real population. Second, for the 
+estimated indicators, 95% confidence intervals are built for every region. Finally, the estimated values of 
+life satisfaction and social connections from Gallup are compared to its counterparts from other official 
+sources. More precisely, life satisfaction at the regional level from Gallup is compared to the variable  " life 
+satisfaction "  from EU SILC (16 countries of the European Union) 8 , INEGI (Mexico's states), ISTAT 
+(Italy's regions), and ONS (United Kingdom's regions). On the other hand, because of lack of data from 
+national surveys, the variable on social connections in regions from Gallup is compared only to its 
+counterpart variable  " help from others "  from EU SILC (available at the regional level for 7 European 
+countries). Population comparison by gender-age groups To perform this analysis eight gender-age groups are defined, for each gender there are the following 
+4 age classes: between 15 and 34 years old, between 35 and 54, between 55 and 74, and between 74 and 99 
+years old. The sample shares come from Gallup and the real-population shares are the 2006-2014 average 
+population values from the OECD Regional Database. 9 Table 1 displays descriptive statistics of the difference in percentage points of the proportion of 
+people in each group between the Gallup Poll and the official population data. Positive values indicate an 
+over sampling of that particular group in the survey, while negative values denote an under sampling. On 
+average almost all age groups are well represented, with average differences between the surveyed and 7 According to Gallup (2015)  " Data weighting is used to ensure a nationally representative sample for each country 
+and is intended to be used for calculations within a country. First, base sampling weights are constructed to 
+account for oversamples and household size. If an oversample has been conducted, the data are weighted to 
+correct the disproportionate sample. Weighting by household size (number of residents aged 15 and older) 
+is used to adjust for the probability of selection, as residents in large households will have a 
+disproportionately lower probability of being selected for the sample. Second, post-stratification weights 
+are constructed. Population statistics are used to weight the data by gender, age, and, where reliable data 
+are available, education or socioeconomic status. Finally, approximate study design effect and margin of 
+error are calculated. The design effect calculation reflects the influence of data weighting and does not 
+incorporate the infraclass correlation coefficients. "  8 EU-SILC provides regional (TL2) identifiers only for some European countries and variables, which generates 
+different regional coverages depending on the variable considered. 9 We consider the weighted samples. The sample sizes slightly vary across the different questions. 9 total population shares varying between 1.5 and 1.9 percentage points (in absolute values). However, the 
+max and min statistics reveal important deviations for some gender-age groups in certain variables. For 
+example, the group  " females 35-54 years old "  is oversampled by 35 percentage points in the Canadian 
+region of Prince Edward Island (CA11), mainly because of the relative importance of a deviation in the 
+sampling gains under such a small sample. Similarly, for the variable quality of water in the Mexican 
+region of Baja California Sur (ME03) the proportion of  " males 15-34 years old "  is 20.3 percentage points 
+lower than the population proportion observed in the census data. Table 1. Difference between surveyed and real population shares Percentage points, 2006-2014 Females 15-
+34 Females 35-
+54 Females 55-
+74 Females 75-
+99 
+Males 15-34 
+Males 35-54 
+Males 55-74 
+Males 75-99 Life 
+satisfaction 
+Average 
+-1.19 
+1.85 
+1.61 
+-1.56 
+-0.74 
+-0.29 
+0.75 
+-0.42 
+Max 
+23.52 
+35.39 
+18.31 
+6.36 
+17.65 
+16.10 
+12.68 
+7.62 
+Min 
+-12.71 
+-9.86 
+-8.00 
+-8.10 
+-17.32 
+-14.70 
+-8.55 
+-4.49 
+Median 
+-1.21 
+1.83 
+1.56 
+-1.59 
+-0.91 
+-0.25 
+0.65 
+-0.47 
+Social 
+connections 
+Average 
+-1.11 
+1.86 
+1.59 
+-1.57 
+-0.88 
+-0.19 
+0.73 
+-0.43 
+Max 
+23.52 
+15.72 
+14.33 
+6.36 
+23.10 
+16.75 
+12.70 
+7.62 
+Min 
+-12.97 
+-7.34 
+-8.80 
+-8.05 
+-17.32 
+-14.18 
+-8.55 
+-4.66 
+Median 
+-1.15 
+1.86 
+1.47 
+-1.69 
+-0.96 
+-0.36 
+0.78 
+-0.47 
+Corruption 
+Average 
+-1.16 
+1.95 
+1.53 
+-1.52 
+-0.80 
+-0.30 
+0.73 
+-0.43 
+Max 
+23.52 
+13.41 
+16.09 
+6.43 
+21.05 
+12.99 
+11.75 
+7.62 
+Min 
+-14.06 
+-7.34 
+-8.00 
+-8.05 
+-17.32 
+-15.33 
+-8.55 
+-4.66 
+Median 
+-1.11 
+1.92 
+1.38 
+-1.69 
+-0.96 
+-0.39 
+0.76 
+-0.47 
+Feeling of 
+safety 
+Average 
+-1.22 
+1.90 
+1.59 
+-1.52 
+-0.89 
+-0.20 
+0.72 
+-0.39 
+Max 
+23.52 
+13.95 
+20.75 
+6.36 
+22.00 
+15.70 
+11.52 
+7.62 
+Min 
+-13.20 
+-7.34 
+-8.00 
+-8.05 
+-17.32 
+-13.79 
+-8.55 
+-4.66 
+Median 
+-1.25 
+1.89 
+1.49 
+-1.64 
+-1.02 
+-0.35 
+0.74 
+-0.44 
+Quality of 
+water 
+Average 
+-1.18 
+1.82 
+1.62 
+-1.63 
+-0.70 
+-0.24 
+0.72 
+-0.41 
+Max 
+20.25 
+15.83 
+20.99 
+6.36 
+21.77 
+14.21 
+11.36 
+7.62 
+Min 
+-13.39 
+-7.63 
+-8.00 
+-8.07 
+-20.36 
+-15.72 
+-8.55 
+-5.01 
+Median 
+-1.16 
+1.72 
+1.43 
+-1.73 
+-1.04 
+-0.46 
+0.65 
+-0.53 
+Quality of 
+air 
+Average 
+-1.18 
+1.82 
+1.62 
+-1.63 
+-0.70 
+-0.24 
+0.72 
+-0.41 
+Max 
+20.25 
+15.83 
+20.99 
+6.36 
+21.77 
+14.21 
+11.36 
+7.62 
+Min 
+-13.39 
+-7.63 
+-8.00 
+-8.07 
+-20.36 
+-15.72 
+-8.55 
+-5.01 
+Median 
+-1.16 
+1.72 
+1.43 
+-1.73 
+-1.04 
+-0.46 
+0.65 
+-0.53 
+Note: This analysis only includes the regions for which all age-gender groups are represented in the survey sample. To complement the descriptive picture presented in Table 1, a one-sample z-test is performed to 
+determine statistical significant differences between survey and official population shares in the different 
+groups. Table 2 shows that for each gender-age group and variable, in at least two thirds of the regions the 
+sample shares are not statistically different from the real-population shares, with the exception of the group 
+ " females 75-99 years old " , 10 Table 2. Percent of regions with sample and real population shares not statistically different Females 
+15-34 Females 
+35-54 Females 
+55-74 Females 
+75-99 Males 
+15-34 Males 
+35-54 Males 
+55-74 Males 
+75-99 Life satisfaction 
+67.07 
+67.37 
+67.37 
+45.81 
+68.56 
+78.44 
+78.44 
+65.87 Social connections 
+73.33 
+68.79 
+72.73 
+48.18 
+74.85 
+83.33 
+82.73 
+70.30 Corruption 
+72.95 
+67.17 
+71.73 
+47.42 
+74.47 
+79.94 
+78.72 
+68.69 Feeling of safety 
+70.43 
+67.07 
+69.51 
+46.95 
+71.95 
+78.66 
+79.57 
+68.60 Quality of water 
+72.78 
+72.17 
+74.01 
+46.79 
+75.84 
+81.35 
+81.96 
+68.81 Quality of air 
+72.78 
+72.17 
+74.01 
+46.79 
+75.84 
+81.35 
+81.96 
+68.81 Note: This analysis only includes the regions for which all age-gender groups are represented in the survey sample. The results refer 
+to a z-test with 95% statistical significance. One important aspect to remark is that Table 1 and Table 2 include only the regions for which all 
+gender-age groups are represented in the Gallup sample. Therefore, 59 regions have been excluded at least 
+once (for one of the 6 variables), of which 44 are lacking data only for the 74-99 years old. This fact 
+together with the idea of gaining representativeness for the different gender-age groups of the region 
+reinforces the strategy of restricting the sample to the 15-74 years old population and calculating the 
+indicators by weighting accordingly to the gender-age distribution observed in the real population data. 
+Note that even after restricting the sample to the 15-74 years old population, there are still 15 regions 
+lacking data on one of the remaining gender-age groups (see Table 3); the estimates for these regions are 
+included, however it's important to keep in mind the low reliability of the indicators for these 15 regions. 
+In sum, all the Gallup indicators are computed using weights on 6 gender-age groups for 358 regions, and 
+without regional post-stratification weights for 15 TL2 regions. Table 3. Regions not included or not reweighted in the analysis OECD regions not available Canada Yukon 
+CA60 
+Northwest Territories 
+CA61 
+Nunavut 
+CA62 Finland 
+Helsinki-Uusimaa 
+FI1B 
+Åland 
+FI20 
+OECD regions that couldn't be reweighted Canada 
+Newfoundland and Labrador CA10 
+Prince Edward Island 
+CA11 Spain 
+Ceuta 
+ES63 
+Melilla 
+ES64 
+Italy 
+Aosta Valley 
+ITC2 Mexico 
+Quintana Roo 
+ME23 
+Tlaxcala 
+ME29 United States Delaware 
+US10 
+District of Columbia 
+US11 
+Hawaii 
+US15 
+Nevada 
+US32 
+North Dakota 
+US38 
+Rhode Island 
+US44 
+South Dakota 
+US46 
+Vermont 
+US50 11 Estimation of confidence intervals Confidence intervals at the 95% by region and variable are estimated to be more precise about the 
+reliability of the regional estimates from Gallup. The confidence intervals of the proportion variables (i.e. 
+social connections, perception of corruption, feeling of safety, satisfaction with quality of water and 
+satisfaction with quality of air) are estimated as follows: í µí° ¶í µí°¼ í µí±í µí± 95% = 1.96√ 
+í µí± í µí±í µí± (1 − í µí± í µí±í µí± ) 
+í µí± í µí±í µí± 
+(3) Where í µí± denotes the question and í µí± the region; while í µí± í µí±í µí± and í µí± í µí±í µí± denote respectively the proportion 
+of positive answers ( " yes "  or  " satisfied " ) and the sample size. For the variable life satisfaction, which is measured on a zero-ten point scale the confidence intervals 
+are calculated as: í µí° ¶í µí°¼ í µí±í µí± 95% = 1.96 
+í µí¼ í µí±í µí± √í µí± í µí±í µí± 
+(4) where í µí¼ í µí±í µí± denotes the sample standard deviation and í µí± í µí±í µí± the sample size. In the majority of the cases sample sizes are large enough to have acceptable margins of error; the 
+average values of the confidence intervals for the proportion variables lie between 4 and 6 percentage 
+points (see Table 4). There are, however, few regions in Chile, Italy, Mexico, Spain and the United States 
+where the confidence intervals are very high, mainly due to small sample sizes. 10 Caution is necessary in 
+interpreting results in these cases. Table 4. Confidence intervals for regional Gallup variables Life 
+Satisfaction Social 
+connections 
+Corruption 
+Feeling of 
+safety Satisfaction 
+with water Satisfaction 
+with air Average 
+2.3 
+4 
+6 
+5 
+5 
+5 Max 
+12.9 
+28 
+28 
+27 
+24 
+29 Min 
+0.5 
+0 
+1 
+1 
+0 
+0 Median 
+1.9 
+3 
+5 
+5 
+4 
+4 Note: All confidence intervals are expressed in percentage points. 3. Adding new dimensions to the regional well-being: Life satisfaction and Social connections Life satisfaction Promoting well-being is the ultimate goal of policies, stated, for example, in the 1993 Treaty of the 
+European Union, and well-being measurement would not be complete without considering a person's 
+overall assessment of their life. In the OECD Better Life Initiative, subjective well-being, or life 
+satisfaction, represents one of the aspects of well-being alongside other dimensions, such as jobs, education 
+outcomes, safety, health, etc. (OECD, 2015b). Therefore in the OECD framework the maximization of life 
+satisfaction is one of the goals of public policy together with other dimensions, as opposed to other 10 If the analysis is restricted to the regions with at least 100 observations the confidence intervals never go above 9 
+percentage points (the results are not shown but available upon request). 12 approaches where life satisfaction is considered the sole measure of overall well-being, with material 
+conditions and quality of life possible drivers of it. 11 Life satisfaction in Gallup is measured with the question  " Please imagine a ladder, with steps 
+numbered from 0 at the bottom to 10 at the top. The top of the ladder represents the best possible life for 
+you and the bottom of the ladder represents the worst possible life for you. On which step of the ladder 
+would you say you personally feel you stand at this time? " , answers take values from 0 to 10 (also  " don't 
+know "  and  " refused to reply " ) at the individual level, while the indicator at the regional (country) level is 
+simply the weighted average of those individual who gave a response (from 0 to 10) in a given region 
+(country). The average values by country vary from 4.9 in Hungary to 7.6 in Denmark and Switzerland; 
+while the regional values range from 4.4 in the Mediterranean Region East (Turkey) to 8.6 in Campeche 
+(Mexico). The largest regional differences are found in Mexico, Chile and Turkey (Figure 2). Figure 2. Regional variation in life satisfaction Mean satisfaction with life; 0-10 points scale; average 2006-2014 Note: Countries are ordered by increasing regional variation. Source: Authors' elaborations from Gallup World Poll data. Regional responses on life satisfaction from the Gallup survey were benchmarked against the national 
+surveys of Italy, Mexico and the United Kingdom whose samples are designed to be representative at the 
+subnational level, and, for the European countries, with the EU Statistics on Income and Living Conditions 
+(EU SILC). In general the formulation of the question on life satisfaction is similar in the different surveys, 
+although only Gallup uses the image of the ladder while the other surveys ask directly  " Overall, how 
+satisfied are you with your life nowadays? "  The answers are on an 11 points scale (from zero to ten) for all 
+the surveys, while the target population slightly differs in age (14 years and over in Italy, 15 years and over 
+in Mexico and 16 years and over in the United Kingdom). Other OECD countries have published official 
+data on subjective well-being at subnational level, although we could not use them for this paper. Since 11 See Layard, 2005 and Fleurbaey, 1996 for a reference to the  " welfarist "  and  " non-welfarist "  approaches. 13 2013 the Life Satisfaction Survey in Turkey, for example, has been expanded to the regional and provincial 
+levels (corresponding to the TL2 and TL3 OECD regions). 12 However, the survey includes a question on 
+happiness on a 3 points scale but no questions on satisfaction with life. Evaluation of life satisfaction at the 
+provincial level in Canada (OECD TL2 regions) on an 11 points scale is available through the Canadian 
+Community Health Survey run by Statistics Canada. However, the provincial results are presented only as 
+number of people who reported to be satisfied or very satisfied. 13 Large regional variations exist in life satisfaction in Italy. On average in 2013, 39.5% of citizens from 
+the North express a high satisfaction with life, 34% from the Centre and 29.6% from the South; regional 
+differences have narrowed since 2009, because of the decrease in life satisfaction from the Northern 
+regions (Istat, 2014). On average life satisfaction was equal to 7.8 in the Province of Bolzano and 6.5 in 
+Campania in the period 2010-2014, according to the Istat  " Indagine sugli aspetti della vita quotidiana "  
+(Survey on Daily Life Aspects). Regional values are highly comparable with those from the Gallup Survey, 
+although the values from the latter are lower than those from the national survey (Figure 3). 14 The two 
+rankings are positively correlated with a 99% confidence interval: The Spearman's coefficient is equal to 
+0.7 on a scale between zero (perfect independence between the two rankings) and one (perfect coincidence 
+of the two rankings) (Table 5). 15 12 National values on subjective well-being are available yearly since 2004; the subnational samples will be repeated 
+every four years. 13 See Statistics Canada Health Indicator Profiles; 
+http://www5.statcan.gc.ca/cansim/a26?Lang=eng&retrLang=eng&id=1050502&paSer=&pattern=&stByV 
+al=1&p1=1&p2=-1&tabMode=dataTable&csid=#F72 14 The EU SILC uses the values from the national survey referred to the year 2012. The values of the Provinces of 
+Bolzano and Trento are presented together in the Gallup Poll because of small sampled population, while 
+they are distinct in the National survey and in EU SILC. 15 The Spearman's coefficient measures the relationship between rankings of different ordinal variables. It varies in 
+the interval [-1,1] with zero equal to perfect independence between the two rankings. The critical value at a 
+99% confidence level with the number of regions equal to 20 is =0.52. 14 Figure 3. Life satisfaction in Italian regions Note: The Italian region here denoted as Province of Trento includes both the Autonomous Province of Trento and Autonomous 
+Province of Bolzano-Bozen. Source: Authors' elaborations on Istat and Gallup data. Life satisfaction is generally high in Mexico: the average levels on a scale from 0 to 10 varied from 
+7.6 in Oaxaca to 8.3 in Coahuila, according to the national survey BIARE average on the period 2012-
+2014. The regional variation is larger according to the Gallup Poll, between 6.2 in Guerrero to 8.6 in 
+Campeche (Figure 4). According to the Spearman's coefficient, the two state rankings agreement is equal 
+to 0.33 on a scale between zero (perfect independence between the two rankings), and one (perfect 
+coincidence of the two rankings).The correlation among the rankings is statistically significant with a 95% 
+confidence interval but not with a 99% confidence interval. The relative rankings from Gallup and BIARE 
+differ mostly in the identification of the states with top and bottom values of life satisfaction. For example, 
+only the state of Tamaulipas is included among the top five states in both rankings and only the states of 
+Guerrero and Morelos are included among the bottom five states in both rankings. It should be noted, when 
+comparing the two rankings, that the reference period for Gallup is average of 2006-2013, while the 
+national survey's values are computed as the average of 2012 and 2014 (Table 5). 15 Figure 4. Life satisfaction in Mexican states Source: Authors' elaborations from World Gallup Survey and INEGI BIARE 2012 and 2014. Life satisfaction at the subnational level is collected in the United Kingdom through the Annual 
+Population Survey carried out by the Office for National Statistics (ONS, 2015). The correlation among the 
+regional responses by Gallup and APS is high and the Spearman's coefficient of the two rankings is equal 
+to 0.72 (Figure 5 and Table 5). 16 Figure 5. Life satisfaction in United Kingdom regions Source: Authors' calculations using data from GALLUP (2006-2012) and Annual Population Survey (APS) -Office for National 
+Statistics of the UK (in financial year ending 2015). Regional values of life satisfaction from the 2013 EU SILC are estimated for 16 European OECD 
+countries, for a total of 124 regions. 16 In general, life satisfaction levels from Gallup are higher than those 
+from EU SILC; however, the regional values from the two surveys are highly correlated (Figure 6) and the 
+two regional rankings are very close (the Spearman coefficient is equal to 0.85) (Table 5). 16 The countries included in the analysis are Belgium, Czech Republic, Denmark, Estonia, Finland, France, Ireland, 
+Italy, Luxembourg, Norway, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, and United 
+Kingdom. 17 Figure 6. Life satisfaction in European regions Note: Dots correspond to 124 regions in 16 European – OECD countries. Source: Authors' calculations using data from GALLUP (2006-2012) and EU SILC (2013). Table 5. Regional ranking agreements among the different surveys Spearman correlation coefficient and confidence intervals Survey 
+Italy national 
+survey (2010-
+2014) Mexico national 
+survey (2012-2014) United Kingdom 
+national survey 
+(2014) EU SILC (2013) Gallup (2006-13) 
+0.66 
+0.33 
+0.72 
+0.85 
+Critical value for the 
+95% confidence 
+interval 0.38 
+0.30 
+0.50 Critical value for the 
+99% confidence 
+interval 0.52 
+0.42 
+0.68 Note: The Spearman's rank correlation coefficient measures the correlation between two rankings. It varies in the interval -1 and 1, 
+with zero equal to perfect independence of the two rankings, and +/-1 perfect concordance (discordance) between the two rankings. 
+The critical value for a 95% (or 99%) confidence interval is the minimum value to say that the correlation among the two rankings is 
+statistically significant. The critical value depends on the number of regions. Source: Authors' elaboration based on data from Gallup Poll, Istat, INEGI, ONS and Eurostat. The impacts of individual and regional characteristics on life satisfaction Existing literature has explored individual-level determinants of life satisfaction and results generally 
+hold across countries and time regarding the impacts of income, age, education, self-reported health, or 
+marital status on life satisfaction (Bjørnskov et al, 2006 for a review of literature). Fewer studies, instead 
+attempt to understand the impact of country or regional level characteristics on life satisfaction and results 
+are mixed (Bjørnskov et al, 2006; Helliwell and Huang, 2011; Di Tella and McCulloch, 2006). This is, 
+however, a growing field, since a better understanding of the relationships between life satisfaction and 
+macro-level indicators -such as labour market performance, quality of government, quality of services and 18 education, can shed light on policy interventions to improve well-being, while individual-level 
+characteristics are much less amenable to change by policies (see OECD, 2015 for an example on 
+Mexico's states). In our empirical specification life satisfaction of the individual í µí± in region í µí± and in year í µí±¡ (í µí°¿í µí± í µí±í µí±í µí±¡ ) is 
+associated to its individual characteristics (í µí± í µí±í µí±í µí±¡ ), regional time-varying factors (í µí± í µí±í µí±¡ ), time fixed effects 
+(í µí»¾ í µí±¡ ), regional fixed effects (í µí¼ í µí± ) and unobserved individual characteristics (í µí¼ í µí±í µí±í µí±¡ ) (equation 5). Given the 
+available data, this is the specification that captures most of the variance in individual life satisfaction 
+(around 25%). í µí°¿í µí± í µí±í µí±í µí±¡ = í µí»½í µí± í µí±í µí±í µí±¡ + í µí»¿í µí± í µí±í µí±¡ + í µí»¾ í µí±¡ + í µí¼ í µí± + í µí¼ í µí±í µí±í µí±¡ 
+(5) The simplest specification (Table 6, column 1) we run a regression of life satisfaction against the set 
+of individual characteristics without including regional variables (í µí± í µí±í µí±¡ and í µí¼ í µí± ). The second specification 
+includes the regional fixed effects and two time-variant variables (population density and unemployment 
+rate). The comparison of column 1 and 2 of Table 6 provides insights on the contribution of regional 
+aspects in addition to individual-level characteristics to explain life satisfaction. Finally, the third 
+specification (Table 6, column 3), substitutes the regional fixed effects with observable time-invariant 
+regional characteristics (í µí¼ í µí± is substituted with í µí¼í µí± í µí± ), the purpose of this estimation is to get an idea of the 
+part of the variance of the regional fixed effects that can be explained by observable (time-invariant) 
+regional characteristics. Table 6 shows the results of the three aforementioned specifications. In all three specifications, the 
+sign of the individual characteristics are as expected and confirm previous results; the magnitudes of the 
+coefficients, as well as their statistical significance, don't vary substantially across specifications. Higher 
+incomes, higher levels of education, being employed, having a good support network, feeling safe, being 
+satisfied with the quality of the environment (air and water) are all significantly positively associated to 
+higher levels of life satisfaction. On the other hand being unemployed, perception of governmental 
+corruption and being a male are negatively related to life satisfaction. Life satisfaction tends to decrease 
+with age until a turning point in which the marginal effect of an additional year yields an improvement in 
+the subjective evaluation (the relation between age and life satisfaction is not linear). Table 6. Regional and individual characteristics as predictors of life satisfaction (1) 
+(2) 
+(3) Dependent variable: 
+Life satisfaction Individual characteristics 
+Individual characteristics 
+and regional FE Individual and regional 
+characteristics 
+Log of income 
+0.245*** 
+0.184*** 
+0.189*** 
+(0.00596) 
+(0.00565) 
+(0.00569) 
+Age 
+-0.0506*** 
+-0.0497*** 
+-0.0485*** 
+(0.00163) 
+(0.00156) 
+(0.00160) 
+Age square 
+0.000402*** 
+0.000401*** 
+0.000373*** 
+(1.73e-05) 
+(1.66e-05) 
+(1.70e-05) 
+Gender (Male) 
+-0.191*** 
+-0.180*** 
+-0.173*** 
+(0.0101) 
+(0.00952) 
+(0.00989) 
+Secondary education 
+0.600*** 
+0.448*** 
+0.546*** 
+(0.0169) 
+(0.0161) 
+(0.0165) 
+Tertiary education 
+0.964*** 
+0.781*** 
+0.856*** 
+(0.0188) 
+(0.0181) 
+(0.0184) 
+Social connections 
+0.913*** 
+0.864*** 
+0.900*** 
+(0.0189) 
+(0.0179) 
+(0.0186) 19 Table 6. Regional and individual characteristics as predictors of life satisfaction (continued) Perception of corruption 
+-0.514*** 
+-0.225*** 
+-0.351*** 
+(0.0101) 
+(0.0106) 
+(0.0103) 
+Feeling of safety 
+0.350*** 
+0.296*** 
+0.317*** 
+(0.0112) 
+(0.0107) 
+(0.0110) 
+Quality of water 
+0.245*** 
+0.173*** 
+0.188*** 
+(0.0147) 
+(0.0143) 
+(0.0145) 
+Quality of air 
+0.187*** 
+0.163*** 
+0.154*** 
+(0.0129) 
+(0.0127) 
+(0.0128) 
+Employed 
+0.207*** 
+0.161*** 
+0.165*** 
+(0.0125) 
+(0.0120) 
+(0.0123) 
+Unemployed 
+-0.450*** 
+-0.512*** 
+-0.473*** 
+(0.0203) 
+(0.0194) 
+(0.0200) 
+Unemployment rate 
+(Region,time) -0.0420*** 
+-0.0504*** (0.00279) 
+(0.00109) 
+Population density 
+(Region,time) 0.000236 
+7.79e-05*** (0.000194) 
+(4.59e-06) 
+Mortality rate (Region) 
+-0.103*** 
+(0.00360) 
+Air pollution (Region) 
+-0.0336*** 
+(0.000896) 
+Constant 
+3.976*** 
+5.516*** 
+6.252*** 
+(0.0655) 
+(0.0834) 
+(0.0771) 
+Observations 
+154,061 
+154,061 
+154,061 
+R-squared 
+0.158 
+0.257 
+0.187 
+Time FE 
+Yes 
+Yes 
+Yes 
+Regional FE 
+No 
+Yes 
+No Note: In parenthesis robust standard errors. *** p<0.01. The status primary education is the reference for both secondary and tertiary 
+education; the reference for both being employed or unemployed is being out of the labour force. All the 373 TL2 OECD regions are 
+included in the sample. The period covered is 2009 to 2014. The preferred specification is defined by equation 5 (column 2); from these results one can remark the 
+high associations between life satisfaction and both social connections and being unemployed. Having 
+someone to rely on in case of need is strongly associated with higher levels of life satisfaction (almost 
+equal to 1 point in the typical life satisfaction scale that goes from 0 to 10). On the other hand, being 
+unemployed is importantly related to lower levels of self-reported life satisfaction (around 0.5 in the scale 
+0-10 compared to someone out of the labour force, and around 0.7 points less, out of 10, compared to 
+someone being employed). By comparing column 1 and 2, it is possible to see an increase in the R-squared (the same result is 
+obtained with the R-squared adjusted) of around 10 percentage points (from 0.15 to 0.25), which can be 
+attributed to the introduction of the regional fixed effects. In column 3, regional fixed effects are 
+substituted by time-invariant regional characteristics (mortality rates and air pollution); the increase in the 
+goodness of fit from column 1 to column 3 is of around 0.03, which suggests that 30% of the 10 percentage 
+points increase in the R-squared due to regional fixed effects can be associated to observable regional 
+characteristics such as mortality rates and air pollution 17 . The choice of regional characteristics of column 
+(2) and (3) is the only specification where all the OECD regions can be included for the period 2009-2014. 17 As a second exercise the regional fixed effects of Table 6 column 2 have been filtered and regressed directly 
+against observable time-invariant regional characteristics yielding very similar results (R-squared of 0.32). 20 Other empirical specifications with different regional variables have been tested; however, the lack of 
+data for all the OECD regions generates a trade-off between the geographical coverage (and sample size) 
+and the completeness of the model (the number of explanatory variables). Some of these regressions are 
+presented in the Annex (see Table 8), although more refinements in data collection at the regional level are 
+still necessary for a more precise study of the regional determinants of individual subjective well-being. 
+The results show that the economic development and housing conditions affect positively and significantly 
+life satisfaction, and the lack of safety in urban regions has a significant negative impact. Whereas the size 
+of the coefficient of the number of rooms in a household is around one third the one of the unemployment 
+rate, the magnitude of the coefficient of the average regional GDP per capita is considerably and 
+surprisingly small. Social connections Good interpersonal relations, social network supports and general trust in others and institutions are 
+considered important sources of individual well-being and social cohesion. Not only they represent 
+additional resources to the material and cultural ones, but they can also improve performance of 
+institutions and reduce transaction costs (Bourdieu, 1986; Helliwell, 2005; Putnam, 2001). To measure social connections, the Gallup question selected is  " If you were in trouble, do you have 
+relatives or friends you can count on to help you whenever you need them, or not? "  18 In most OECD 
+regions, at least 80% of people report having someone to rely on in case of need. The exceptions are Korea 
+where the values range between 73% to 79%, and Mexico, Chile, Turkey and Greece where regional 
+differences are very large with some regional values well below 75% (Figure 7 19 ). 18 The possible answers are  " yes " ,  " no " ,  " don't know "  and  " refused to reply " . The indicator at the regional level is the 
+(weighted) percent of those who replied  " yes "  with respect to all the interviewees (those with the answers 
+ " yes " ,  " no " ,  " don't know "  and  " refused to reply " , i.e. the non-missing values) in a given the region. 19 Country averages in Figure 7 are sometimes dissimilar to the values of social networks used by the OECD for the 
+Better Life Index because while the BLI uses yearly indicators, our regional estimates rely on multiyear 
+samples (2006-2014). 21 Figure 7. Regional variation in social network support Percentage of people who report having relatives or friends they can rely on; average 2006-2014 Note: Countries are ordered by increasing regional variation. Source: Authors' elaborations from Gallup World Poll data A similar question on the perceived social support is included in the 2013 EU SILC as well as a 
+question on trust in others. 20 Regional values, however, could be estimated only for the Czech Republic, 
+Finland, France, Spain and the United Kingdom. According to these values, on average around 90% or 
+more people feel they have friends to rely on; the largest regional differences are found in Spain, although 
+the three lowest values correspond to small regions (islands) and the estimates are less accurate. Feelings 
+of trust in others were the highest in Finland, on average 7.3 on a 0-10 points scale, and the lowest in 
+France, between 4.4 in Limousin and 5.6 in Corse. 4. Subjective indicators to complement objective indicators This section seeks to expand measures of quality of life introducing subjective indicators to 
+complement the objective ones already available in OECD regions via the OECD Regional Well-Being 
+Database. The well-being dimensions were selected with considerations on introducing evaluations of 
+particular domains of life (safety, work-life balance), evaluations on the quality of services (access to 
+services, environment) and measures of social capital and citizens' feedback on government activities 20 The questions are  " Do you have any relatives, friends or neighbours that you can ask for help? " (Answers yes/no) 
+and  " Would you say that most people can be trusted? "  (Answers on a scale from 0 to 10, where 0 means 
+that in general you do not trust any other person and 10 that you feel most people can be trusted). 22 (civic engagement and governance). 21 Five variables are derived from the Gallup Poll and computed at the 
+regional level; other relevant variables from EU SILC 2013 are discussed for future reflection, since 
+regional values are currently available only for a limited number of European countries (Table 7). Some of 
+the subjective variables provide additional information on specific well-being dimensions not previously 
+captured with the objective variables (for example of trust, perception of corruption, satisfaction with 
+commuting, etc.), while others complement the objective measures on safety and environment. Table 7. Subjective and objective indicators by well-being dimension Well-being 
+dimension Headline 
+indicators 
+available Suggested subjective 
+indicator Source 
+Regional coverage Safety Homicide rate 
+OECD RWBD 
+(from official 
+national 
+sources) All OECD TL2 regions % of people who feel safe to walk 
+alone at night in their neighbourhood Gallup Poll All OECD TL2 regions except the 
+five in Table 1 
+% of people who feel fairly or very safe 
+to walk alone after dark in the area of 
+residence EU SILC 2013 TL2 regions in Czech Republic, 
+Finland, France, Italy, Spain and 
+United Kingdom Civic engagement 
+and governance Voter turnout 
+OECD RWBD 
+(from official 
+national 
+sources) All OECD TL2 regions % of people who believe corruption is 
+widespread throughout government in 
+their country Gallup Poll All OECD regions except the five in 
+Table 1 Regional average trust in the political 
+system (0-10 points scale) EU SILC 2013 TL2 regions in Czech Republic, 
+Finland, France, Spain and United 
+Kingdom Access to services Households 
+broadband access OECD RWBD 
+(from official 
+national 
+sources) All OECD TL2 regions % of people satisfied with the quality of 
+water in the place of residence Gallup Poll All OECD regions except the five in 
+Table 1 
+Regional average satisfaction with 
+commuting time EU SILC 2013 TL2 regions in Belgium, Czech 
+Republic, 
+Denmark 
+Finland, 
+France, Ireland, Italy, Norway, 
+Slovenia, Slovak Republic, Spain, 
+Switzerland and United Kingdom 
+Regional average satisfaction with 
+services and living environment (the 
+term refers to the access to services, 
+shops, public transport etc.and the 
+presence of cinema, museums, 
+theatres, etc.). EU SILC 2013 TL2 regions in Belgium, Czech 
+Republic, 
+Denmark 
+Finland, 
+France, Ireland, Italy, Norway, 
+Slovenia, Slovak Republic, Spain, 
+Switzerland and United Kingdom Environment Population exposure 
+to air pollution 
+(PM2.5) OECD RWBD 
+(OECD 
+estimates) All OECD TL2 and TL3 regions % of people satisfied with the quality of 
+air in the place of residence Gallup Poll All OECD regions except the five in 
+Table 1 21 The paper does not include self-reported health, which is a common subjective variable because it is not in the 
+World Gallup Poll. It is instead available via EU SILC 2013 and thus the available regional estimates 
+would be the same as for the other variables presented here. 23 Table 7. Subjective and objective indicators by well-being dimension (continued) Work-life balance none 
+Regional average satisfaction with the 
+amount of time to do things you like to 
+do EU SILC 2013 
+TL2 regions in Belgium, Czech 
+Republic, Denmark, Finland, 
+France, Ireland, Italy, Norway, 
+Slovak Republic, Slovenia, Spain, 
+Sweden, Switzerland and United 
+Kingdom 
+% of people who report working 50 
+hours or more per week EU SILC 2013 TL2 regions in Belgium, Czech 
+Republic, 
+Denmark, 
+Finland, 
+Ireland, Italy, Norway, Slovak 
+Republic, Slovenia, Spain, Sweden 
+and Switzerland Safety Personal safety is one of the most critical dimensions of well-being. Crime has not only a direct effect 
+on the victims and their families, but also on those who are not victims but live in the same community and 
+on the socio-economic development of these communities. Perception of safety complements objective 
+measures such as crime rates or homicide rates. Subjective measures of safety are also correlated to trust in 
+the public institutions and trust in the effectiveness of law enforcement (OECD, 2015a). Regional variation 
+in the perception of safety is large in many OECD countries. According to the Gallup measure at least 50% 
+of people do not feel safe to walk alone at night in 28 regions in Chile, Greece, Mexico and Turkey, and 
+also in Moravia (Czech Republic), Central Hungary (Hungary), Slaskie (Poland), and Bratislava (Slovak 
+Republic) (Figure 8). 22 22 The question is  " Do you feel safe walking alone at night in the city or area where you live? "  The possible answers 
+are  " yes " ,  " no " ,  " don't know "  and  " refused to reply " . The indicator at the regional level is the (weighted) percent of 
+those who replied  " yes "  with respect to all the interviewees (those with the answers  " yes " ,  " no " ,  " don't know "  and 
+ " refused to reply " , i.e. the non-missing values) in a given the region. 24 Figure 8. Regional variation in the perception of safety Percentage of people who feel safe to walk alone at night in the area of residence; average 2006-2014. Note: Countries are ordered by increasing regional variation. In the case of Italy, Spain and the United States the lowest and highest 
+regional values correspond to regions that couldn't be reweighted, therefore the graph shows the second lowest/highest. In particular, 
+the highest value in Italy is Aosta (91.1%), the lowest value in Spain is Melilla (66%) and the highest is Ceuta (96%), the lowest 
+values in the United States are the District of Columbia (55.3%) and Nevada (60.8%) and the highest value is Vermont (96.3%). Source: Authors' elaborations from Gallup World Poll data A very similar question on perception of safety is included in the EU SILC 2013 and it was possible 
+to compute regional values for six European countries (Czech Republic, Finland, France, Italy, Spain and 
+United Kingdom). With the exception of Spain, the correlations among the rankings obtained with the EU 
+SILC and Gallup values are statistically significant at 99%. Civic engagement and governance Citizens' feedback on public institutions and their expectations on government's activities are 
+important aspects of social cohesion and effective democracies. Many of the policies that bear most 
+directly on people's lives are put into effect at the local level and citizens' experience with local 
+institutions have often a significant impact on their trust, behaviour and well-being (Hudson, 2006; Tavits, 
+2008). The variable chosen to be included in the Governance and civic engagement dimension refer to the 
+percentage of people who believe corruption is widespread throughout government in their country. 
+According to the Gallup results, in countries such as Denmark, Finland, Netherlands, Norway, New 
+Zealand, Sweden and Switzerland, corruption is low (below 40%) and with small regional variations. A 
+second group of countries includes the Czech Republic, Greece, Hungary, Israel, Italy and Slovenia, where 
+corruption is high (between 75 and 90%) and with small regional variations. Finally, in Australia, Canada, 
+Chile, Mexico, Spain, Turkey and the United States the perception of corruption is quite different 
+depending on the region of residence; although the country average values vary in these countries, regional 
+values differ everywhere by more than 20 percentage points (Figure 9). 25 Figure 9. Regional variation in the perception of corruption Percentage of people who believe that corruption is widespread throughout the country's government; average 2006-
+2014. Note: Countries are ordered by increasing regional variation. In the case of Canada and Italy the lowest values correspond to regions 
+that couldn't be reweighted, therefore the graph shows the second lowest value. In particular, the lowest value in Canada is Prince 
+Edward Island (31.7%) and in Italy is Aosta (75%). Source: Authors' elaborations from Gallup World Poll data. Trust in the political system varied between 1.5 in Cantabria and Galicia (Spain) to 6.3 in Helsinki 
+(Finland) among the five countries whose regional values are available from EU SILC 2013. 23 As 
+expected, the regional values of trust in the political system are highly negatively correlated with the 
+perception of corruption from Gallup (the correlation coefficient is -0.6 and -0.9 with the exclusion of the 
+Czech Republic). Access to services Lack of adequate data has limited the development of national and international statistics on 
+accessibility to services at the sub-national level. In addition, different services (health, transport, 
+education, etc.) might be organised with different geographies of recipients in the same country making 
+difficult a common standard geography. Measures of physical accessibility are rare and even more so 
+measures of quality of services; satisfaction with the outcomes of certain services may provide indirect 
+information on the latter. In 23 out of the 34 OECD countries at least 80% of people are satisfied with the quality of water 
+according to the Gallup regional estimates. 24 At the same time, in around 10% of regions, concentrated in 23 The variable is measured on a zero-ten point scale with zero equal to no trust and ten complete trust. Czech 
+Republic, Finland, France, Spain and United Kingdom are the countries where it was possible to compute 
+regional estimates. 24 The question is  " In your city or area where you live, are you satisfied or dissatisfied with the quality of water? " ; the 
+possible answers are  " satisfied " ,  " dissatisfied " ,  " don't know "  and  " refused to reply " . The regional indicator is simply 
+the (weighted) percent of those who replied  " satisfied "  with respect to all the interviewees (those with the answers 
+ " satisfied " ,  " dissatisfied " ,  " don't know "  and  " refused to reply " ) in the region of interest. 26 Chile, Greece, Israel, Italy, Mexico, Poland, Spain and Turkey, less than 60% of people are satisfied with 
+the quality of water (Figure 10). Figure 10. 
+Regional variation in quality of water Percentage of people satisfied with the quality of water in the place where they live; average 2006-2014. Note: Countries are ordered by increasing regional variation. In the case of Canada, Spain and the United States the lowest values 
+correspond to regions that couldn't be reweighted, therefore the graph shows the second lowest values. In particular, the lowest value 
+in Canada is Newfoundland and Labrador (74%), in Spain is Melilla (41%) and in the United States is District of Columbia (67%). Source: Authors' elaborations from Gallup World Poll data. The EU SILC 2013 includes two questions on satisfaction with commuting time and satisfaction with 
+services and living environment, described as access to services, shops, and public transport as well the 
+presence of cinema, museums and theatres. Both questions would be very relevant at regional and city 
+levels, as national values may mask very different contextual conditions. Many studies find that commuters 
+report lower life satisfaction and higher anxiety on average than non-commuters (Strutzer and Frey, 2004; 
+Lucas and Heady, 2002); that satisfaction with life decreases as commuting time increases (ONS, 2014); 
+and, when commuting by car, they are more likely to feel a sense of time pressure (Hilbrecht et al., 2014). 
+Satisfaction with commuting varied between 5.9 in Molise (Italy) to 8.7 in Northern Norway among the 14 
+European countries for which regional values were computed (Figure 11). The regional values are 
+positively and significantly correlated with the values on life satisfaction. 0 10 20 30 40 50 60 70 80 90 100 Estonia 
+Luxembourg New Zealand 
+Iceland 
+Slovenia 
+Sweden 
+Finland Slovak Republic 
+Norway 
+Switzerland 
+Denmark 
+Ireland 
+Germany 
+Netherlands 
+Austria 
+Australia United Kingdom 
+Portugal 
+Israel 
+France Czech Republic 
+Belgium 
+Canada 
+Korea 
+Hungary 
+Japan United States 
+Spain 
+Poland 
+Italy 
+Mexico 
+Turkey 
+Greece 
+Chile Regional values 
+Country average 27 Figure 11. 
+Regional variation in satisfaction with commuting time Average values on a 0-10 points scale; 2013 Source: Authors 'elaboration from Eurostat (2015), European Union Statistics on Income and Living Conditions (EU SILC). Satisfaction with services and the living environment was the lowest in Sicily (Italy) and the highest 
+in all Norwegian regions, where only Oslo had an average value below 8 (Figure 12). Figure 12. 
+Regional variation in satisfaction with services and the living environment Average values on a 0-10 points scale; 2013 Note: The variable refers to the satisfaction with access to services, shops, and public transport, presence of cinema, museums, 
+theatres, and leisure facilities. Source: Authors 'elaboration from Eurostat (2015), European Union Statistics on Income and Living Conditions (EU SILC). 28 Environment People's satisfaction with the quality of air can complement objective measures of air pollution, such 
+as the average level of particulate matter (PM2.5) in a region, estimated through global satellite database 
+(Brezzi and Sanchez-Serra, 2014). As expected the two variables are significantly negatively correlated 
+although with differences across countries (Figure 13). While in some countries, such as Belgium, Finland, 
+France, Germany and the Slovak Republic, higher levels of air pollution in regions correspond to lower 
+subjective satisfaction with the quality of air, in other countries the two measures are not significantly 
+correlated, for example in Austria, Spain, Sweden and Turkey. Figure 13. 
+Level and perception of air pollution in OECD regions Population-weighted levels of air pollution (PM2.5) and percentage of people satisfied with air quality; average 2006-
+2014 Source: Authors' elaborations from Gallup World Poll data and OECD Regional Well-Being database. Work-life balance Regional estimates on the satisfaction with time use are also available for 14 European countries 
+through EU SILC 2013. On a zero-ten points scale (with 10 completely satisfied), regional averages varied 
+between 5.6 in Basilicata (Italy) to 7.9 in Zealand and Nortern Jutland (Denmark) (Figure 14). 29 Figure 14. 
+Regional variation in satisfaction with time use Regional averages on a 0-10 points scale; 2013 Source: Authors 'elaboration from Eurostat (2015), European Union Statistics on Income and Living Conditions (EU SILC). From EU SILC 2013, it is possible to include a question on the share of people who have worked 
+more than 50 hours the previous week, as indirect measure of time available for non-work activities. The 
+available regional data from 12 countries vary from around 1% of employees worked more than 50 hours 
+in the previous week in Norrland (Sweden), Zealand (Denmark) and Western Slovenia, to more than 4% 
+employees in 10 regions in Belgium, the Czech Republic, Italy and Switzerland. In the future, regional 
+values of this variable may become available from national surveys on time-use or from labour force 
+statistics. 25 5. Conclusions The paper assesses the use of the Gallup World Poll to provide subnational averages of subjective 
+well-being and self-reported indicators in the 379 OECD regions. Countries' samples were reweighted to 
+increase the comparability with the demographic profile of a region. The results suggest good sample 
+representativeness at the regional level, at least when restricting the age of respondents to 15-74 years, and 
+very few missing regions. 25 The OECD Better Life Index includes a similar variable at the national level from Labour Force Statistics (OECD 
+2015b). 5.5 6.0 6.5 7.0 7.5 8.0 8.5 Ireland 
+Slovenia 
+Finland 
+Norway Slovak Republic 
+Denmark 
+Sweden Czech Republic United Kingdom 
+Belgium 
+Switzerland 
+Spain 
+France 
+Italy 30 When possible, regional estimates from Gallup are benchmarked with results derived from the 2013 
+module on well-being of the European Statistics on Income and Living Conditions (EU SILC) and from 
+national surveys designed to be representative at the regional level. Two main conclusions can be drawn. First, the variables satisfaction with life and social support 
+network can be estimated for all the OECD (TL2) regions. This will allow, for example, to expand the 
+OECD Well-Being Database to the subnational level to include two subjective dimensions, kept distinct 
+from the existing ones currently measured with objective indicators. Life satisfaction estimates from 
+Gallup are highly correlated with responses derived from official statistics (EU SILC 2013 and national 
+surveys) suggesting the possibility to use Gallup values as  " place holders "  while more regional values for 
+official sources become available. Second, future replicates of the 2013 well-being module of EU SILC may include a selection of 
+indicators with subnational sample representativeness. In addition to life satisfaction and social support 
+networks, which are becoming standard measures in many surveys, this paper suggests few variables that 
+are particularly meaningful when measured at the city or regional levels: satisfaction with the living 
+environment, satisfaction with commuting time, trust in the political system, and perception of safety in 
+own 's community. These variables could in the future complement objective indicators in the dimensions 
+of accessibility to services, environment, safety, and governance and civic engagement. Importantly, future 
+replicates would allow monitoring changes over time, which is currently limited to few countries. References Bjørnskov, C., Dreher, A. and J. Fischer (2006), Cross-country determinants of life satisfaction: exploring 
+different determinants across groups in society. Arbeitspapiere // Konjunkturforschungsstelle, 
+Eidgenössische Technische Hochschule Zürich, No. 145. Bourdieu, P. (1986), The Forms of Capital, in Richardson, John G., ed., Handbook of Theory and Research 
+for the Sociology of Education, New York: Greenwood. Di Tella, R. and R. McCulloch (2006),  " Some uses of happiness data in economics " , Journal of economic 
+perspectives, Vol. 20, No. 1, pp. 25-46. Eurostat 
+(2015) 
+Quality 
+of 
+Life 
+in 
+Europe, 
+http://ec.europa.eu/eurostat/statistics-
+explained/index.php/Quality_of_life_in_Europe_-_facts_and_views_-_overall_life_satisfaction. Lucas J. L. and R. B. Heady (2002),  " Flextime Commuters and Their Driver Stress, Feelings of Time 
+Urgency, and Commute Satisfaction " , Journal of Business and Psychology, 2002, Vol. 16, No. 4, 
+page 565. Fleurbay (1996) Théories économiques de la justice, Paris: Economica. Helliwell, J. (2005) Well-being, social capital and public policy: What's new? NBER Working Paper 
+11807, available at: http://www.nber.org/papers/w11807.pdf. Helliwell, J. F. and H. Huang (2011) Well-Being and Trust in the Workplace. Journal of Happiness 
+Studies, DOI: 10.1007/s10902-010-9225-7. Istat 
+(2013) 
+Rapporto 
+Benessere 
+Equo 
+e 
+Sostenibile, 
+available 
+at: 
+http://www.istat.it/en/files/2013/03/bes_2013.pdf. Layard, R. (2005) Happiness: Lessons from a New Science, London, Allen Lane. 31 OECD (2015a), Measuring 
+Well-being 
+in 
+Mexican 
+States, 
+OECD 
+Publishing, 
+Paris, 
+http://dx.doi.org/10.1787/9789264246072-en. OECD (2015b), How's Life? 2015: Measuring Well-being, OECD Publishing, Paris, 
+http://dx.doi.org/10.1787/how_life-2015-en. OECD (2014), How's Life in Your Region?, Measuring Regional and Local Well-being for Policy Making, 
+OECD Publishing, Paris, http://dx.doi.org/10.1787/9789264217416-en. OECD (2013), OECD Guidelines on Measuring Subjective Well-being, OECD Publishing, Paris, 
+http://dx.doi.org/10.1787/9789264191655-en. Office for National Statistics (2015) Measuring national well-being; Personal well-being in the UK. Office for National Statistics (2014) Commuting and personal well-being. Putnam, R. (2001), Bowling Alone: The Collapse and Revival of American Community, New York: 
+Simon & Schuster. Stiglitz J.E., A. Sen and J.-P. Fitoussi (2009), Report by the Commission on the Measurement of Economic 
+Performance 
+and 
+Social 
+Progress, 
+available 
+at: 
+http://www.stiglitz-sen-
+fitoussi.fr/documents/rapport_anglais.pdf. Stutzer, A. and B. Frey (2004), Stress that doesn't pay: the commuting paradox. IZA Discussion Paper n. 
+1278, available at: http://ftp.iza.org/dp1278.pdf. 32 Annex Life satisfaction regressions including more regional explanatory variables Table 8. Other regional characteristics as predictors of life satisfaction (1) 
+(2) 
+(3) 
+VARIABLES 
+Life satisfaction 
+Life satisfaction 
+Life satisfaction Log of income 
+0.187*** 
+0.166*** 
+0.199*** 
+(0.00616) 
+(0.00644) 
+(0.00756) 
+Age 
+-0.0495*** 
+-0.0506*** 
+-0.0533*** 
+(0.00166) 
+(0.00173) 
+(0.00195) 
+Age square 
+0.000379*** 
+0.000387*** 
+0.000421*** 
+(1.77e-05) 
+(1.84e-05) 
+(2.07e-05) 
+Gender (Male) 
+-0.174*** 
+-0.174*** 
+-0.173*** 
+(0.0103) 
+(0.0107) 
+(0.0118) 
+Secondary education 
+0.545*** 
+0.507*** 
+0.529*** 
+(0.0172) 
+(0.0181) 
+(0.0199) 
+Tertiary education 
+0.845*** 
+0.798*** 
+0.816*** 
+(0.0192) 
+(0.0201) 
+(0.0223) 
+Social connections 
+0.912*** 
+0.930*** 
+0.965*** 
+(0.0194) 
+(0.0208) 
+(0.0240) 
+Perception of corruption 
+-0.357*** 
+-0.365*** 
+-0.372*** 
+(0.0107) 
+(0.0113) 
+(0.0124) 
+Feeling of safety 
+0.325*** 
+0.322*** 
+0.338*** 
+(0.0114) 
+(0.0120) 
+(0.0134) 
+Quality of water 
+0.184*** 
+0.187*** 
+0.191*** 
+(0.0151) 
+(0.0165) 
+(0.0185) 
+Quality of air 
+0.158*** 
+0.175*** 
+0.160*** 
+(0.0135) 
+(0.0143) 
+(0.0161) 
+Employed 
+0.165*** 
+0.155*** 
+0.162*** 
+(0.0128) 
+(0.0135) 
+(0.0149) 
+Unemployed 
+-0.481*** 
+-0.504*** 
+-0.488*** 
+(0.0208) 
+(0.0218) 
+(0.0243) 
+Unemployment rate 
+(Region,t) -0.0478*** 
+-0.0447*** 
+-0.0420*** (0.00111) 
+(0.00116) 
+(0.00143) 
+Population density (Region,t) 
+7.93e-05*** 
+3.20e-05*** 
+3.89e-05*** 
+(4.63e-06) 
+(6.58e-06) 
+(7.34e-06) 
+Mortality rate (Region) 
+-0.0836*** 
+-0.0292*** 
+0.00465 
+(0.00414) 
+(0.00450) 
+(0.00502) 
+Air pollution (Region) 
+-0.0284*** 
+-0.0326*** 
+-0.0369*** 
+(0.00107) 
+(0.00111) 
+(0.00148) 
+Rooms per capita (Region) 
+0.136*** 
+0.162*** 
+0.0959*** 
+(0.0168) 
+(0.0185) 
+(0.0207) 
+GDP per capita (Region) 
+9.19e-06*** 
+1.03e-05*** 
+(5.27e-07) 
+(5.79e-07) 
+Auto theft (Region) 
+0.000750*** 
+(6.37e-05) 
+Urban area 
+0.134*** 
+(0.0204) 
+Auto theft in urban areas 
+-0.000804*** 
+(8.03e-05) 
+Constant 
+5.814*** 
+5.252*** 
+4.676*** 
+(0.0894) 
+(0.0980) 
+(0.112) Observations 
+143,825 
+130,993 
+103,763 
+R-squared 
+0.189 
+0.192 
+0.194 
+Time FE 
+Yes 
+Yes 
+Yes 
+Note: Robust standard errors in parentheses with *** p<0.01, ** p<0.05, * p<0.1. While Table 6 includes all the 34 OECD countries; 
+regressions 1, 2 and 3 of the above Table cover only 31, 29 and 23 OECD countries, respectively. 

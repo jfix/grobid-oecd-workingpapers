@@ -1,0 +1,3349 @@
+Please cite this paper as: Guo, D., C. Webb and N. Yamano (2009),  " Towards 
+Harmonised Bilateral Trade Data for Inter-Country Input-
+Output Analyses: Statistical Issues " , OECD Science, 
+Technology and Industry Working Papers, 2009/04, OECD 
+Publishing, Paris. 
+http://dx.doi.org/10.1787/226023512638 OECD Science, Technology and Industry 
+Working Papers 2009/04 Towards Harmonised 
+Bilateral Trade Data for Inter-
+Country Input-Output 
+Analyses: Statistical Issues Dong Guo, Colin Webb, 
+Norihiko Yamano Unclassified DSTI/DOC(2009)4 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 25-Feb-2009 
+___________________________________________________________________________________________ 
+English -Or. English DIRECTORATE FOR SCIENCE, TECHNOLOGY AND INDUSTRY TOWARDS HARMONISED BILATERAL TRADE DATA FOR INTER-COUNTRY INPUT-OUTPUT 
+ANALYSES: STATISTICAL ISSUES STI WORKING PAPER 2009/4 
+Statistical Analysis of Science, Technology and Industry Dong Guo, Colin Webb and Norihiko Yamano JT03260177 Document complet disponible sur OLIS dans son format d'origine 
+Complete document available on OLIS in its original format DSTI/DOC(2009)4 
+Unclassified English -Or. English DSTI/DOC(2009)4 2 STI Working Paper Series The Working Paper series of the OECD Directorate for Science, Technology and Industry is designed 
+to make available to a wider readership selected studies prepared by staff in the Directorate or by outside 
+consultants working on OECD projects. The papers included in the series cover a broad range of issues, of 
+both a technical and policy-analytical nature, in the areas of work of the DSTI. The Working Papers are 
+generally available only in their original language – English or French – with a summary in the other. Comments on the papers are invited, and should be sent to the Directorate for Science, Technology 
+and Industry, OECD, 2 rue André-Pascal, 75775 Paris Cedex 16, France. The opinions expressed in these papers are the sole responsibility of the author(s) and do not 
+necessarily reflect those of the OECD or of the governments of its member countries. http://www.oecd.org/sti/working-papers OECD/OCDE, 2009 
+Applications for permission to reproduce or translate all or part of this material should be made to: 
+OECD Publications, 2 rue André-Pascal, 75775 Paris, Cedex 16, France; e-mail: rights@oecd.org DSTI/DOC(2009)4 3 TOWARDS HARMONISED BILATERAL TRADE DATA FOR INTER-COUNTRY 
+INPUT-OUTPUT ANALYSES: STATISTICAL ISSUES  *  Dong Guo, Colin Webb and Norihiko Yamano Economic Analysis and Statistics Division 
+Directorate for Science, Technology and Industry (DSTI), OECD 
+colin.webb@oecd.org 
+norihiko.yamano@oecd.org ABSTRACT Understanding the increasingly complex structures of international trade is an important concern for 
+policy makers, as deepening economic integration is characterised by the growing trade in intermediate 
+goods and services between countries. Analyses based on international input-output tables can help address 
+trade-related policy issues as well as providing other insights into the socio-economic and environmental 
+impacts of globalisation. To link national input-output tables in order to carry out interdependent analyses 
+across countries requires a consistent set of harmonised international bilateral trade data that ideally 
+reflects recent output by the economic activities in question. This paper discusses the challenges faced 
+when attempting to construct appropriate bilateral trade matrices using annual data collected by the OECD 
+and United Nations, as well as national sources. While the main focus is on the increasing presence of 
+ " re-exports "  in reported exports of goods data, this paper also addresses some other statistical and data 
+issues that need to be considered, such as treatment of confidential (or  " unallocated " ) trade in goods; trade 
+in secondhand goods, scrap metal and other waste; differences in trade statistics across international 
+statistical agencies; and the additional problems encountered when converting product-based trade data to 
+industry-based classifications. Issues concerning Balance of Payments data, the main source for trade in 
+services, are also addressed.  *  A draft of this paper was presented to OECD's Working Party on International Trade in Goods and Trade 
+in Services Statistics (WPTGS) organised by OECD in September 2008 (www.oecd.org/std/its/wptgs2008). 
+The authors would like to thank the participants of this meeting. Also, special thanks go to William Cave 
+and Luke Bergmann for their insightful and thorough comments. The views in this paper are our own and 
+not necessarily those of the OECD. All remaining errors are our own. DSTI/DOC(2009)4 4 VERS DES DONNÉES HARMONISÉES SUR LES ÉCHANGES BILATÉRAUX 
+POUR L'ANALYSE INTERNATIONALE DES ENTRÉES-SORTIES: 
+PROBLÈMES STATISTIQUES  *  Dong Guo, Colin Webb et Norihiko Yamano Division des analyses économiques et des statistiques 
+Direction de la science, de la technologie et de l'industrie (DSTI), OCDE 
+colin.webb@oecd.org 
+norihiko.yamano@oecd.org RÉSUMÉ Comprendre les structures de plus en plus complexes du commerce international constitue un enjeu 
+important pour les responsables de l'action publique, dans la mesure où le renforcement de l'intégration 
+économique se caractérise par des échanges croissants de services ainsi que de biens intermédiaires entre 
+pays. Les analyses réalisées à partir de tableaux d'entrées-sorties internationaux peuvent apporter des 
+éléments de réponse aux questions de politique publique liées aux échanges, et fournir d'autres 
+enseignements sur les répercussions socioéconomiques et environnementales de la mondialisation. Pour 
+analyser les relations d'interdépendance entre pays, il est nécessaire de coupler les tableaux 
+d'entrées-sorties nationaux; pour ce faire, il faut disposer d'un ensemble de données harmonisées 
+cohérentes portant sur les échanges internationaux et correspondant, dans l'idéal, à la production récente 
+des activités économiques. Ce document examine les difficultés rencontrées pour construire des tableaux 
+de commerce bilatéral adéquats, à partir des bases de données annuelles sur le commerce international 
+gérées par l'OCDE et les Nations Unies, ou d'informations provenant de sources nationales. Ce papier 
+traite principalement de la présence croissante des « réexportations » dans les exportations de 
+marchandises recensées et il soulève également d'autres problèmes statistiques, ou liés aux données, dont il 
+faut tenir compte. Il s'agit notamment des différences de données du commerce entre les divers organismes 
+statistiques internationaux, du traitement des échanges des biens confidentiels (ou « non attribués »), du 
+commerce des biens d'occasion, de débris de métaux et autres déchets, ainsi que des problèmes liés à la 
+conversion des données d'échange par produit en données sectorielles. Ce document traite aussi des 
+problèmes liés aux échanges de services provenant de la Balance des Paiements.  *  Une version préliminaire de ce papier a été présentée au Groupe de Travail de l'OCDE sur les Statistiques 
+du Commerce International des Marchandises et des Services (WPTGS) organisé par l'OCDE en 
+septembre 2008 (www.oecd.org/std/its/wptgs2008). Les auteurs souhaitent remercier les participants de 
+cette réunion. Ils adressent également des remerciements particuliers à William Cave et Luke Bergmann 
+pour la perspicacité et la précision de leurs commentaires. Les points de vue exprimés dans ce rapport 
+n'engagent que les auteurs et ne reflètent pas ceux de l'OCDE. Toute information erronée est imputable 
+aux auteurs. DSTI/DOC(2009)4 5 TABLE OF CONTENTS 1. INTRODUCTION ...................................................................................................................................... 6 2. INTERNATIONAL TRADE IN GOODS: STATISTICAL ISSUES AND DATA ISSUES .................... 8 2.1. Origins of problems with  " mirror statistics "  – an overview ................................................................. 8 
+2.2. Re-exports ............................................................................................................................................ 9 
+2.2.1. Re-exports – a growing phenomenon .............................................................................................. 11 
+2.2.2. Re-exports – methodological issues ................................................................................................ 12 
+2.2.3. Re-exports – availability of data ..................................................................................................... 14 
+2.3. Other data issues – an overview ......................................................................................................... 16 
+2.3.1. Difference of definitions in compiling trade statistics .................................................................... 17 
+2.3.2. Unallocated trade data ..................................................................................................................... 18 
+2.3.3. Scrap metal, waste products and secondhand goods ....................................................................... 22 
+2.3.4. Differences in published merchandise trade statistics ..................................................................... 24 
+2.3.5. Bilateral trade by industry classifications ....................................................................................... 25 3. INTERNATIONAL TRADE IN SERVICES ........................................................................................... 28 3.1. Sources of data – Balance of Payments .............................................................................................. 28 
+3.2. Availability of bilateral trade in services statistics ............................................................................. 28 4. IMPENDING CHANGES TO BALANCE OF PAYMENTS DEFINITIONS ........................................ 30 4.1. Goods sent abroad for processing ...................................................................................................... 30 
+4.2. Merchanting ....................................................................................................................................... 30 
+4.3. Impact of changes ............................................................................................................................... 30 5. SUMMARY .............................................................................................................................................. 31 REFERENCES ............................................................................................................................................. 33 DSTI/DOC(2009)4 6 1. INTRODUCTION Economic globalisation is currently characterised not only by increasing international trade in final 
+goods but also by increasing trade in intermediate goods and service transactions, as innovation and 
+production processes are fragmented across countries. The structure of such trends can be tracked by 
+carefully constructed multi-national input-output (I-O) tables. To do so, researchers link standardised (or 
+harmonised) national I-O tables to international bilateral trade matrices using standard assumptions (see 
+Box 1). In recent years, the OECD has undertaken efforts to improve and increase the coverage of its 
+database of harmonised I-O tables, not least to incorporate major non-OECD countries such as Brazil, 
+China, India, Indonesia and Russia (Yamano and Ahmad, 2006). A useful feature of the OECD I-O tables 
+is that intermediate inputs are divided into goods and services that are domestically-produced and those 
+that are imported. To extend the analytical power of this data set, OECD is embarking on a project to 
+develop bilateral trade matrices that can help identify the country of origin of imported intermediate inputs 
+and be used to link I-O tables. However, this requires analyses of currently available international bilateral 
+trade data to identify areas where adjustments may be required to best match the estimates of exports and 
+imports in I-O tables. This paper discusses the challenges faced when attempting to construct consistent bilateral trade 
+matrices using the widely used annual databases of international trade hosted by the OECD and United 
+Nations Statistical Division (UNSD) 1 as well as national sources. While the focus is on identifying and 
+measuring re-exported goods, other reasons for inconsistencies in so-called mirror trade are discussed, as 
+is the issue of identifying internationally traded goods that were not manufactured recently (for example 
+secondhand goods, scrap metal and other waste products). The additional problems faced when attempting 
+to convert trade data from product classifications to industry classification are also addressed – not least 
+identifying imported intermediate products. While the discussion mainly concerns international trade in 
+goods, one cannot ignore the issues concerning measurement of international trade in services and the 
+related methodological requirements for compiling Balance of Payments (BOP) accounts. National 
+Supply-Use tables (SUTs) and I-O tables are constructed within the framework of National Accounts 
+(according to SNA93 2 or, in EU, ESA95 recommendations) which use BOP definitions for aggregate 
+international trade data. Ultimately, to link national harmonised I-O tables, matrices with  " adjusted "  
+bilateral trade data for both goods and services are required. Discussion of certain types of international 
+trade in services such as Foreign Affiliates Trade in Services (FATS) data is not included here but can be 
+found in separate studies such as Bensidoun and Ünal-Kesenci (2008) 3 . 1. 
+For trade in goods, OECD's International Trade in Commodity Statistics (ITCS) and U.N.'s Comtrade 
+database. 2. 
+http://unstats.un.org/unsd/sna1993/toctop.asp. 3. 
+The General Agreement on Trade in Services (GATS) recognises four modes of provision of trade in 
+services. BOP covers modes 1 and 2 (Cross-border supply and Consumption abroad) while FATS mainly 
+covers mode 3 (Commercial presence). Mode 4 (Presence of natural persons) can be found in both BOP 
+and FATS. DSTI/DOC(2009)4 7 Box 1. Using inter-regional trade matrices in input-output systems In general, to measure economic interactions between regions, there are two different types of input-output 
+systems that can take account of trade flows: inter-regional input-output (IRIO) and multi-regional input-output (MRIO). For IRIO, suppose that an inter-regional trade flow can be expressed as 
+-i.e. the value of intermediate goods from industry i in region h purchased by industry j in region m; that 
+is the total output of industry j in region m; that 
+is the final demand of output from industry j in region m by region h (for private or 
+government consumption or investment); and that N and R represent the number of industries and regions, 
+respectively; then in IRIO, the total output of industry j in region m can be written as: where 
+= 
+are the input coefficients. In IRIO, the data requirements are substantial as consistent matrices 
+of inter-regional, inter-industry trade are required. Alternatively, in MRIO some assumptions are made in order to build matrices with reduced data requirements. 
+Notably, it uses transactions data where the sector of destination is ignored. Rather than using trade flows between industries i and j, MRIO requires 
+: the value of goods from industry i that region m ships from region h. This 
+yields the proportion of goods from industry i in region m shipped from other regions, also known as the trade 
+coefficient of region m of goods from industry i and expressed as with 
+=1. With each 
+region's input coefficient 
+( , m = 1, 2, …, R) available, then in the MRIO system, the inter-regional flow can be expressed as: Note that is the total final demand of output from industry j in region m. Source: Isard et al. (1998, Chapter 3) For measuring trade flows among the 40 or so countries targeted in the OECD I-O database, the trade coefficient 
+matrix can be estimated using OECD's STAN Bilateral Trade by industry Database (BTD) for member countries and 
+for non-member countries. DSTI/DOC(2009)4 8 2. INTERNATIONAL TRADE IN GOODS: STATISTICAL ISSUES AND DATA ISSUES 2.1. Origins of problems with  " mirror statistics "  – an overview Trade is the activity of buying, selling, or exchanging goods or services within a country or between 
+countries. In this paper we concentrate on international trade between countries. Statistically, international 
+merchandise trade in goods measures physical movements of goods across international frontiers. In 
+Balance of Payments, BPM5 definitions, international trade should be recorded when there has been a 
+change of ownership of goods between a resident and non-resident. When conducting analyses of trade flows between countries or regions, it is highly desirable that 
+merchandise trade data recorded by country A for exports to country B match data recorded by country B 
+for imports from country A in order to produce consistent A-B trade flow matrices by year (and by 
+commodity groups). Unfortunately this is rarely the case. Problems with  " mirror statistics "  occur for many 
+reasons, including: @BULLET different valuations for imports (c.i.f.) and exports (f.o.b.) 4 ; @BULLET different trade recording systems for imports and exports, general v. special trade 4 ; @BULLET differences across countries in definitions of trade partners; @BULLET differences in thresholds for recording international trade 5 which by extension means differences 
+in definition of trade in  " small transactions " ; @BULLET consequences of  " merchanting " ; and @BULLET others, such as timing of measurement (recording by customs), differing allocation of product 
+classification to goods or mis-attribution; and smuggling (Tsigas et al.1992). At an aggregate level, in the context of National Accounts and Balance of Payments (BoP), 
+adjustments are made to merchandise trade in goods to produce more consistent estimates. For example, 
+valuation adjustments for imports (i.e. costs of insurance and freight are deducted from imports of goods 
+and added to imports of services), adjustments due to timing (i.e. when time of change in ownership does 
+not coincide with movement of goods), and adjustments when there has been a change in ownership but 
+the goods have not crossed the customs frontier (for example, large value capital items such as ships and 
+aircraft). However, few national authorities make such BoP adjustments at more detailed levels – either by 
+partner country or by commodity (even for relatively aggregate levels). Also, while the United Nations 
+(1998) provides clear recommendations on defining trade partners, practices may differ across countries 
+when compiling trade statistics. Close attention needs to be paid to national definitions when looking at 
+trade statistics. For analyses of the impact of globalisation, linking harmonised I-O tables with consistent trade 
+matrices can provide a range of interesting insights (inter-dependencies etc.). While the general problems 4 . 
+For definitions of different trade systems, c.i.f. and f.o.b., please refer to Table 3. 5. 
+In the EU, external trade statistics apply a transaction threshold system. Transactions below a certain value 
+or quantity do not have to be reported by Member States. For extra-EU trade this threshold is currently 
+EUR 1 000 or 1 000 kg in net mass. For intra-EU trade statistics the threshold is EUR 200. 
+(see: http://europa.eu.int/estatref/info/sdds/en/ext/ext_sm.htm). Note that the EU Intrastat system is the 
+main reason for differences in trade statistics published by OECD/UN and EU (see Lindner, 2008). DSTI/DOC(2009)4 9 connected with mirror statistics need to be addressed, an increasingly significant problem across an 
+increasing number of countries is the presence of  " re-exports "  in recorded trade statistics. Indeed it is a 
+major reason for the existing discrepancies between international trade data reported by importers and 
+exporters. 2.2. Re-exports According to the UN definition of general trade flows (United Nations, 1998), re-exports take place 
+when goods enter a customs territory from one country and are shipped to another country without being 
+transformed 6 . It is also known as transhipment (see Mellens et al., 2007, Andriamananjara et al., 2004, 
+Fung and Lau, 1998). Although rarely recorded separately in published national or international databases, 
+re-exports can sometimes be distinguished from other trade flows as demonstrated by Roos (2005, 2006) in 
+the case of the Netherlands (where re-exports now account for over 40% of recorded exports). The presence of re-exports is most likely in those countries and regions with favourable geographical 
+positions from a perspective of intercontinental transportation. These include the Netherlands, Belgium, 
+Germany, and possibly France in Europe, and Hong Kong and Singapore in Asia, in the sense that these 
+countries act as the hubs for shipments of trade between countries of their continental region and the rest of 
+the world. For example, major hub functions between the European economy and the rest of the world are 
+located at Dutch and Belgian ports while the ports of Hong Kong play a similar role for eastern Asia. In 
+this context it should be noted that over 80% of the world's trade in goods is transported by sea (UNCTAD, 
+2008). When coupled with differences across countries in definitions of country of origin and country of 
+consignment for import partners, re-exports (and re-imports) can significantly increase export/import 
+discrepancies between countries. For example, if China exports USD 5 million worth of 
+domestically-produced goods to the US via Hong Kong, then effectively China exports USD 5 million 
+worth of domestically-produced goods to Hong Kong and Hong Kong re-exports the same amount to the 
+US (see Figure 1). Figure 1. An example of flows of goods in three countries/regions 6. 
+A brief note about exports and re-exports is attached to UN Comtrade database at 
+http://comtrade.un.org/kb/article.aspx?id=10152. Hong Kong 
+The US @BULLET Imported the same 
+USD 5 million in goods 
+from China 
+(recorded as imports 
+from China) @BULLET Re-exported to China 
+USD 5 million 
+(recorded as re-exports 
+to the US) @BULLET Exported 
+USD 5 million 
+in domestically-
+produced goods China @BULLET Imported 
+USD 5 million in 
+goods from Hong Kong to Hong Kong DSTI/DOC(2009)4 10 Exports recorded by China 
+Imports recorded by U.S. 
+Possible induced trade discrepancy 
+between China and U.S. (1) 
+Exports to the U.S. 
+Imports from China 
+-(2) 
+Exports to the U.S. 
+Imports from Hong Kong 
+USD 5 million (3) 
+Exports to Hong Kong 
+Imports from China 
+USD 5 million (4) 
+Exports to Hong Kong 
+Imports from Hong Kong 
+USD 10 million However, depending on how the transaction is recorded by each country, discrepancies in trade data 
+may or may not arise. Taking the above example whereby China exports domestically-produced goods to 
+the U.S. via Hong Kong, from the perspective of Hong Kong, imports from China are recorded as 
+re-exports to the U.S. as shown in Figure 1. However, for both China and the U.S., data compilers may 
+record the transaction differently depending on the information available to them. Both countries follow 
+the recommendations of the United Nations (1998) to define their trading partners, as country of origin for 
+imports and last known destination for exports. However, the US also accepts the country of shipment as 
+an import partner country if the country of origin could not be identified. Note that, the last known 
+destination also limits the information known at the time of exports as specified by the UN (1998). 
+Therefore, there are potentially four different combinations recording the 5-million-dollar trade transaction: 1. China knows the last known destination of the exported goods is the U.S., and the U.S. identifies the origin 
+of the goods as China; 2. China knows the last known destination of the exported goods is the U.S., however, the U.S. cannot 
+identify the origin of the imports, but can only track that it is shipped from Hong Kong; 3. China only knows the exports go to Hong Kong 7 , no further information of future destination is available, 
+but somehow, the U.S. knows the origin of their imports are from China; and 4. China only knows the exports go to Hong Kong, no further information of future destination is available; 
+the U.S. cannot track the origin of the import but only the shipment region, Hong Kong. The different recordings are also illustrated in Figure 1. In fact, this example reflects the reality of the 
+long-existing and controversial trade discrepancies between China and the U.S. as shown in Table 1. Table 1. Official U.S. and Chinese merchandise trade data (billion USD) Year Official U.S. 
+exports to China 
+(U .S. data) Official Chinese 
+imports from the 
+U.S. 
+(Chinese data) Official U.S. 
+imports from 
+China 
+(U .S. data) Official Chinese 
+exports to the 
+U.S. 
+(Chinese data) Official U.S. -
+China trade 
+balance 
+(U.S. data) Official U.S.-
+China trade 
+balance 
+(Chinese data) 
+1995 
+11.7 
+16.1 
+45.6 
+24.7 
+-33.8 
+-8.6 
+1996 
+12.0 
+16.2 
+51.5 
+26.7 
+-39.5 
+-10.5 
+1997 
+12.8 
+16.3 
+62.5 
+32.7 
+-49.7 
+-16.4 
+1998 
+14.3 
+17.0 
+71.2 
+38.0 
+-56.9 
+-21.0 
+1999 
+13.1 
+19.5 
+81.8 
+41.9 
+-68.7 
+-22.4 
+2000 
+16.2 
+22.4 
+100.0 
+52.1 
+-83.8 
+-29.7 
+2001 
+19.2 
+26.2 
+102.3 
+54.3 
+-83.1 
+-28.1 
+2002 
+22.1 
+27.2 
+125.2 
+70.0 
+-103.1 
+-42.8 Source: Fung and Lau (2003) Table 1. 7. According to Fung and Lau (2001), before 1993, Chinese customs counted all exports to Hong Kong whether they 
+were consumed in Hong Kong or re-exported to a third party. Despite efforts made since 1993, China still cannot fully 
+track the final destination of the goods exported to Hong Kong. See also He (2007). DSTI/DOC(2009)4 11 Note that this example does not deal with the possibility of mark-ups in Hong Kong (via branding, 
+re-packaging etc.) before the goods are shipped to the U.S. so that, for example, the USD 50 million worth 
+of goods shipped from China to Hong Kong become USD 60 million worth of goods imported by the USA. 2.2.1. Re-exports – a growing phenomenon As liberalisation of global trade increases, more countries, particularly those with a special trade 
+status or geographical location (such as the Netherlands, Belgium, Hong Kong and Singapore), are paying 
+more attention to their trade flows as domestically-produced goods account for less of the total volume of 
+trade with their partner countries. As a result, increasing asymmetries in trade statistics with their partner 
+countries are becoming apparent (Geyer-Schaefer 2007). The classic case is the trade discrepancy between 
+China and the U.S. where re-exports from Hong Kong account for a very large share (see Table 2). In the 
+case of the Netherlands, the trend of increasing re-exports started in the mid-80s, and has continued since 
+then. Currently, re-exports account for more than 40% of the total exports in the country compared to less 
+than 20% in 1990 (Mellens et al., 2007; Kusters and Verbruggen, 2001). Increasing re-exports is a 
+worldwide trend, affecting not only Hong Kong and the Netherlands but countries such as Singapore and 
+Germany. For Hong Kong the average growth rate of re-exports was about 18% from 1983 to 2005, while 
+for the Netherlands it was about 9% between 1985 and 1997, and for Germany the annual growth in 
+re-exports from 1992 to 2002 was about 14%. Estimates of re-exports as a share of total exports varies 
+across countries – in Germany it is about 15%, in Singapore, more that 50%, while in Hong Kong, it is 
+around 95% (Mellens et al., 2007). Table 2. Re-exports through Hong Kong (USD billion) Source: Fung and Lau (2003) Table 2. As mentioned earlier, UN (1998) considers re-exports to be foreign goods exported from any part of 
+the economic territory of a country in the same state 8 as previously imported 9 . However, in practice, 
+countries have different ways to define and account for re-exports and consequently different methods for 
+refining trade flow data. In the Netherlands, for example, re-exports are imported goods leaving the 
+Netherlands in a largely unprocessed state. That is, a Dutch trader may buy goods in the United States, 
+store them in his own warehouse searching for a buyer, and then export them to Germany. There are three 
+different ways to define the re-exports, which are (1) based on the origin criteria, (2) based on the rule of 8. 
+The term  " goods in the same state "  includes goods which underwent processing that did not change their 
+origin. Re-packing, splitting into lots, sorting or grading, marking and the like are not considered as 
+undergoing a process of transformation of a good. 9. 
+For the definition of re-export flows in general trade systems and special trade systems, see United Nations 
+(1998), page 27, paragraph 78 and page 30, paragraph 84, respectively. Year Hong Kong re-exports of 
+U.S. goods to China 
+(Hong Kong data) Hong Kong re-exports as a 
+share of official U.S. data 
+on exports to China (%) Hong Kong re-exports of 
+Chinese goods to the U.S. 
+(Hong Kong data) Hong Kong re-exports as a 
+share of official Chinese 
+data on exports to the U.S. (%) 1995 
+5.0 
+42.7 
+27.6 
+111.7 
+1996 
+5.9 
+49.2 
+29.2 
+109.4 
+1997 
+6.0 
+46.9 
+31.3 
+95.7 
+1998 
+5.3 
+37.1 
+31.1 
+81.8 
+1999 
+5.4 
+41.2 
+32.1 
+76.6 
+2000 
+6.1 
+37.7 
+36.5 
+70.1 
+2001 
+6.5 
+33.9 
+33.3 
+61.3 
+2002 
+6.2 
+28.1 
+34.3 
+49.0 DSTI/DOC(2009)4 12 value added, (3) the change code of a good. A distinction also has to be made for other types of flows such 
+as transit and quasi transit via a custom warehouse or through the Netherlands (Roos, 2005). 2.2.2. Re-exports – methodological issues Roos (2005) presented some ways to identify and measure re-exports in the Netherlands. In practice, 
+companies in the Netherlands have to provide Statistics Netherlands with a code to specify the trade flow 
+in order to distinguish re-exports from domestic exports. In practice, not every company provides the 
+correct code and as a result only one-third of what is assumed to be re-exports are reported in this way. Re-exports can be estimated by using the information in the supply-and-use tables of National 
+Accounts. This method can provide estimates at a reasonably detailed level of products and was applied to 
+estimate re-exports of the Netherlands in the nineties (Roos, 2006). However, it has the drawback of only 
+providing data at the total world level i.e. without additional information by partner country. Another way 
+of identifying re-exports is to compare the volume of imports to the volume of exports of the company. If 
+measured imports are more or less equal to exports for the same product code, then the exports are 
+probably re-exports, while if measured exports are notably higher than imports, then there is some 
+domestic production. Usually the largest exporters are profiled to enhance the estimations. Note that some 
+other factors, such as production structure, can be taken into account of estimating re-exports. For example, 
+if certain goods are not produced or grown in a country (e.g. bananas), then all exports of such goods can 
+be considered re-exports (Roos, 2006). In New Zealand re-exports are defined as  " merchandise exports that were earlier imported into 
+New Zealand and comprise less than 50 percent New Zealand content by value. "  New Zealand has adopted 
+a value-added-based assessment to determine whether a  " transformation "  of a good is  " substantial " , which 
+is called  " 50 percent New Zealand content by value " . Actually, it is a simplified definition, referring to the 
+exact rules of origin in the Customs and Excise Regulations that govern whether a good is of domestic or 
+foreign origin. In detail, the  " 50 percent rule of origin "  is calculated as: Qualifying Expenditure (QE) 
+Factory Cost (FC) which is expressed as a percentage, where qualifying expenditure (QE) are domestic expenditure on 
+materials, labour & overheads, while Factory Cost (FC) are the total expenditure on materials, labour and 
+overheads, including (1) the purchase price, (2) overseas freight and insurance, (3) port and clearance 
+charges, and (4) inward transport to store, but not (1) customs duty, (2) anti-dumping duty, (3) excise duty, 
+and (4) sales & goods and services taxes. In March 2004, New Zealand implemented an electronic system 
+for tracing the origin of a good being exported through New Zealand customs. This allows the timely 
+transfer of monthly export statistics to Statistics New Zealand so that re-export statistics can be compiled 
+along with the total exports statistics 10 . Note that trade statistics in New Zealand are compiled at a detailed, 
+10-digit, level of the Harmonised System. In Hong Kong, more than 90% of merchandise trade is due to re-exports (re-imports) mainly 
+involving China. This high-profile case of re-exports has been recognised by many researchers in recent 
+years with much effort going into making necessary adjustments to trade statistics prior to analyses. For 
+example, in the series of analyses by Fung and Lau since 1998, they have used the trade data from China, 
+the US and Hong Kong to re-adjust the data on bilateral trade between the US and China by taking into 
+account different aspects of the issues which could cause discrepancies, such as estimates of re-exports by 10. 
+For more detail, see Statistics New Zealand (2006). DSTI/DOC(2009)4 13 Hong Kong not previously covered (1998), the measurement of exports and imports 11 ; smuggling, mark-up 
+rate and trade in services (2001, 2003) – adjusting the data covering the period from 1998 to 2002. 
+Recently Ferrantino and Wang (2007) tried to explore reasons for discrepancies by establishing a 
+regression model. Further, Noda (1997) and Feenstra et al. (2005) provide some methods to build trade matrices by 
+using more extensive trade statistics. For example, Noda (1997) constructed a Hong Kong re-export trade 
+matrix by using detailed re-exports statistics from 1988 to 1995. If the re-export value of a certain 
+commodity from original country A i to trading partner A j via Hong Kong is designated as e ij , then the total 
+re-exporting value of this commodity to trading partner A j from different origin countries via Hong Kong, ReX j , can be expressed as Re X j = e ij i=1 m ∑ , where m is the number of originating countries. Note that Hong Kong merchandise trade statistics are compiled at the 8-digit level of HS. Feenstra et al. (2005), on the other hand, adjusted the trade flows between China/Hong Kong and 
+other countries by taking into account the re-exports between China and Hong Kong. Their starting point is 
+to consider the value-added generated in Hong Kong when the re-exports occur. Different mark-up rates 
+are applied to different destination countries based on 1-digit SITC level according to the availability of 
+trade statistics for Chinese exports to Hong Kong and the Hong Kong re-exports of the same commodities. 
+That is, the mark-up of the value added is calculated by multiplying the mark-up rate to the value of 
+Chinese re-exports through Hong Kong to the destination countries. However, in order to avoid the 
+situation in which the Hong Kong re-export value added is higher than the import value from China as 
+reported in UN trade statistics, the value added of Hong Kong is re-defined as: HK VA = Mark-up rate × min {UN country imports from China, China re-exports to UN country} Note that the import statistics from China reported by the UN are at the 4-digit level of SITC. For 
+each country in the UN dataset, the value of imports from China is reduced by the calculated HK VA, while 
+the value of imports from Hong Kong is increased by the calculated HK VA. The Global Trade Analysis Project (GTAP) 12 makes adjustments for re-exports for Hong Kong and 
+Netherlands in its GTAP 6 database. For Hong Kong, it also recognises that there is a re-export margin 
+included in re-exports which should be considered as value added by services and allocated accordingly. 11. 
+Such as the different valuations of exports and imports used by the US and China. Exports are measured by 
+China as free on board (f.o.b.) while for the US the valuation is freight alongside ship (f.a.s.) – the 
+difference being the cost of loading the goods from alongside the vessel or aircraft onto the vessel or 
+aircraft. For import measurement, both countries use cost, insurance, and freight (c.i.f.). Note that to 
+convert f.a.s. value to f.o.b. value, 1% cost is added to the f.a.s. exports value (see Fung and Lau, 2003). 12. 
+See www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=1819. Note that GTAP 7 (Nov 
+2008) is now available (www.gtap.agecon.purdue.edu/databases/v7/default.asp) but at the time of writing, 
+updated documentation concerning GTAP treatment of trade data was not yet available. DSTI/DOC(2009)4 14 Jin (2005) also provides an interesting discussion concentrating on  " processing trade "  and concludes:  " Hong Kong's re-export of Chinese goods, in particular Chinese processing goods, is the major 
+reason for discrepancies in China's reported trade statistics with its major partners. The results 
+reflect changing economic reality rather than casting doubt on the quality of published trade data: 
+the real expansion of Chinese foreign trade in the last twenty years is due to the massive outsourcing 
+schemes of foreign invested enterprises into the low-margin processing sector in China. Despite the 
+decreasing trend in reliance on Hong Kong, the increasing scale of the processing trade means 
+large discrepancies will still exist in the future. "  2.2.3. Re-exports – availability of data Many countries, especially those using special trade systems, do not provide detailed information on 
+re-export statistics even though their exports figures routinely include re-exports. 13 As summarised in 
+Table 3, detailed re-exports data are currently only available in OECD ITCS and/or UN Comtrade for 
+New Zealand, the United States, Hong Kong, Russia and Singapore though not necessarily for all the years 
+covered by exports. Re-exports data are available in the 2006 edition of OECD Input-Output database for most EU 
+countries (see Table 3 for exceptions), Canada, Norway, Chinese Taipei, South Africa, Switzerland and 
+Turkey. Note that in the OECD ITCS and UN Comtrade databases, data are sometimes reported where the 
+declaring country and partner country are identical (for example: Australian imports from Australia or 
+French exports to France). Such information is more prevalent for import data. While some of these data 
+can be attributed to re-imports or re-exports of goods, according to the available country notes in ITCS, 
+this is not always the case – see latest documentation for OECD's Bilateral Trade Database (OECD, 2008) 
+for more details. 13. 
+See http://comtrade.un.org/kb/article.aspx?id=10152. DSTI/DOC(2009)4 15 Table 3. Trade data definitions and availability of re-exports data Country 
+Exports 
+partner (UN) Imports 
+partner (UN) 1 Trade 
+system 2 Trade Valuation 
+Exports/Imports 3 Re-exports 
+recorded in I-O 
+tables Re-exports reported 
+in Comtrade or 
+ITCS 
+EU countries 
+L 
+O / C 
+S 4 
+FOB/CIF 5 
+yes 6 Other OECD countries Australia 
+L 
+O 
+S/G 
+FOB/FOB 
+-
+-
+Canada 
+L 
+O 
+G 
+FOB/FOB 
+yes 
+-
+Iceland 
+L 
+O 
+S 
+FOB/CIF 
+-
+-
+Japan 
+L 
+O 
+G 
+FOB/CIF 
+-
+-
+Korea 
+L 
+O 
+S 
+FOB/CIF 
+-
+-
+Mexico 
+L 
+O 
+G 
+FOB/CIF 
+-
+-
+New Zealand 
+L 
+C 
+G 
+FOB/CIF 
+-
+yes 
+Norway 
+L 
+O 
+G 
+F O B / C I F 
+yes 
+-
+Switzerland 
+L 
+O 
+S 
+FOB/CIF 
+yes 
+-
+Turkey 
+L 
+O 
+S 
+F O B / C I F 
+yes 
+-
+United States 
+L 
+O 
+G 7 
+FAS 8 /CIF 
+-
+y e s Non-OECD countries Argentina 
+L 
+O 
+G 
+FOB/CIF 
+-
+-
+Brazil 
+L 
+O 
+S 
+FOB/CIF 
+-
+-
+China 
+L 
+O 
+G 
+FOB/CIF 
+-
+-
+Chinese Taipei 
+yes 
+-
+Hong Kong, China 
+L 
+C 
+G 
+FOB/CIF 
+-
+yes 
+India 
+L 
+O 
+G 
+FOB/CIF 
+-
+-
+Indonesia 
+L 
+O 
+S 
+FOB/CIF 
+-
+-
+Israel 
+Sale 
+O 
+S 
+FOB/CIF 
+-
+-
+Russia 
+L 
+O 
+G 
+FOB/CIF 
+-
+yes 
+Singapore 
+L 
+O 
+G 
+FOB/CIF 
+-
+yes 
+South Africa 
+L 
+O 
+G 
+FOB/FOB 
+yes 
+-L: Last known destination at the time of shipment. 
+1. O: Country of Origin; C: Country of Consignment; O/C: Country of Origin / Country of consignment for intra-EU. 
+2. G: General trade; S: Special trade. According to IMTS (UN, 1998, paragraph 66 and 67), the general trade system is in use when 
+the statistical territory of a country coincides with its economic territory, while a special trade system is in use when the statistical 
+territory comprises only a particular part of the economic territory. 
+3. CIF: Cost, Insurance and Freight. The seller must pay the insurance and freight costs necessary to bring the goods to the port of 
+destination. The seller contracts for insurance and pays the insurance premium. For more detail, see UN (1998, Annex D, pages 
+82-83). FOB: Free on Board. This term means the seller's obligation to deliver is fulfilled when the goods have passed over the ship's 
+rail at the named port of shipment. This means the buyer has to bear all costs and risks of loss of or damage to the goods from the 
+point. This term can only be used for sea or inland waterway transport, for more detail see UN (1998, Annex D, page 82). 
+4. General trade for Denmark, Ireland and United Kingdom. 
+5. Slovak Republic: FOB/FOB; Czech Republic FOB/FOB to 2005, FOB/CIF from 2006. 
+6. Except for Czech Republic, Portugal, Slovak Republic, Spain and United Kingdom. 
+7. Imports also disseminated according to special trade definitions. 
+8. FAS: Free Alongside Ship. The seller's obligation to deliver is fulfilled when the goods have been placed alongside the vessel on 
+the quay or in lighters at the named port of shipment. The buyer has to bear all costs and risks of loss of or damage to the goods from 
+that moment. This term can only be used for sea and inland waterway transport. DSTI/DOC(2009)4 16 2.3. Other data issues – an overview When linking I-O tables we need to have trade-in-goods matrices that are consistent with countries' 
+data for domestic production and intermediate consumption and thus adjustments for re-exports (and 
+re-imports) are an obvious priority. I-O analytical tools, especially inter-regional and multi-regional I-O 
+models that link production structures across countries, are increasingly being used to address a wide range 
+of socio-economic and environmental issues such as embodied carbon dioxide (CO 2 ) emissions (Ahmad 
+and Wyckoff, 2003), international spatial organisation of the motor vehicle production (Wixted, 2006), and 
+material and environmental flows measurement (Wixted et al., 2006). If multinational I-O tables are not 
+well-constructed, subsequent analyses may be misleading. Besides re-exports, there are other issues related to international trade-in-goods data, which should be 
+considered when linking I-O tables. These include: @BULLET  " Unallocated trade "  data: This is the trade that is not recorded in international databases under 
+regular (HS or SITC) product codes and/or not recorded by partner country, due to confidentiality 
+or other reasons. Such transactions may be recorded with special codes (e.g. HS 99 for products). 
+ " Unallocated trade "  as a share of total trade varies across countries and is often likely to be 
+concentrated in certain product groups or industries. The extent to which special codes are used 
+may even vary across time. In order to optimise trade data for linking input-output tables it would 
+be useful to have an idea of the underlying composition of any  " unallocated trade " . @BULLET Identification of trade in secondhand goods (e.g. transport equipment): These are not the result of 
+recent production and thus should not be linked to manufacturing production data for a given 
+year. @BULLET Identification of certain scrap and waste products for recycling or disposal (e.g. PCs). @BULLET Identification of exports from the recycling industry: For example, distinguishing exports of 
+recycled metals or paper from exports of similar products manufactured from raw materials. @BULLET Consequences of  " merchanting " : If a merchant in country A buys goods in country B and sells 
+them to country C, and the physical movement of goods is directly from B to C, then the value of 
+imports recorded by country C is usually greater than the value of exports recorded by country B 
+– the difference being recorded as a merchanting service credit in the Balance-of-Payments 
+account of country A. See Takeda (2006) for detailed discussion. @BULLET Differences in trade structures when comparing, within countries, merchandise trade statistics 
+found in ITCS or Comtrade with those given in official Supply-Use or I-O tables even when 
+allowing for the differences in definitions used for BoP and customs-based trade statistics. @BULLET Miscellaneous: For example, the significant impact of VAT intra-Community missing trader 
+fraud ( " Carousel fraud " ), as documented by the UK, affecting high-value low weight goods (such 
+as mobile phones).  " Official "  adjustments only made for total goods in a Balance of Payments 
+context – upward adjustments to imports of GBP 1.7 billion in 1999, GBP 2.8 billion 
+in 
+2000, 
+GBP 7.1 billion in 2001 and GBP 11.1 billion in 2002. 
+See 
+www.statistics.gov.uk/cci/article.asp?id=402. Also, under-reporting of Canadian 
+exports 
+to 
+non-US 
+destinations 
+as 
+documented 
+by 
+Statistics 
+Canada: 
+www.olis.oecd.org/olis/2008doc.nsf/linkTo/std-ses-wptgs(2008)5. DSTI/DOC(2009)4 17 Also, for certain trade data sources, such as UN Comtrade and OECD ITCS, there may be differences 
+in reported trade statistics for certain countries, by partner country as well as at total level. 2.3.1. Difference of definitions in compiling trade statistics Table 3 summarises the different trade definitions and valuations used by the countries targeted in 
+OECD I-O tables. Even though the UN has recommendations for defining trade partners of each country, 
+different countries still have different definitions on import and export partner countries. Most countries on 
+our list consider the country of origin as their import partner and the last known destination as their export 
+partner. However, there are still some exceptions. For example, New Zealand and Hong Kong take the 
+country of consignment as the import partner. Some countries apply a second rule of defining partner 
+countries if the first rule cannot be met. For example, the US takes the country of shipment as the import 
+partner if the country of origin cannot be identified. Two different trade systems are commonly used – the General Trade System and the Special Trade 
+System. The general trade system is in use when the statistical territory of a country coincides with its 
+economic territory, while a special trade system is in use when the statistical territory comprises only a 
+particular part of the economic territory (UN 1998). The general trade system is recommended by the UN 
+(1998) and used by most of the non-EU countries in our sample. In the EU, Special Trade is generally used, 
+the exceptions being Denmark, Ireland and the United Kingdom. All European countries take countries of 
+consignment as export and import partners as far as intra-EU trade is concerned 14 . However, there are 
+exceptions. For example, Greece also takes the country of the first consignment as import partner country, 
+while Poland considers the countries of buyers as the import partner countries. 14. 
+According to Eurostat, there are ten countries that use the country of origin as a criterion for their national 
+figures, but provide data to Eurostat on a country-of-consignment basis for intra-community trade. DSTI/DOC(2009)4 18 2.3.2. Unallocated trade data Unallocated trade refers to reported transactions not allocated to regular HS product codes, and/or not 
+allocated to a particular partner country, but reported using special codes (for example, HS 99 or 
+ " Commodities not specified according to kind "  for products;  " Other Areas n.e.s. "  for partners). The special 
+items cover confidential transactions as well as data that could not be allocated for other statistical reasons 
+(e.g. incomplete or ambiguous information on transactions). Such data cannot be ignored when linking the 
+trade data to I-O tables because unclassified goods in each country may be concentrated in certain 
+industries and/or related to certain partners. A maximum amount of information concerning the product, 
+and partner, composition of  " unallocated trade "  should be solicited from national authorities to make the 
+linkage of trade data to I-O tables more justified. On the other hand, if a country does not have unallocated 
+trade reported in databases it may be worth investigating whether the country really does not have 
+unallocated trade (confidential trade) or it is just not being reported. Note that GTAP also addresses this 
+issue when compiling GTAP database on the world economy as a system of flows of goods and services 15 . Table 4 summarises the percentage of trade in products not specified, in HS according to kind. On 
+average, OECD countries have higher shares than non-OECD countries for both exports and imports. The 
+situation varies from country to country. Some countries such as Germany, Ireland, Russia, United 
+Kingdom and United States have relatively high shares of unallocated trade for both exports and imports, 
+while other countries have high shares in just exports or imports. For example, Norway has high 
+unallocated shares for exports compared to imports while Mexico has higher shares for imports. Note that 
+for certain countries such as Australia, Russia and South Africa, unallocated products can account for a 
+significant share of the total trade for certain years, sometimes for both exports and imports. Of particular note are the variations of shares of unallocated trade for product across years within 
+countries. For example, in OECD's ITCS database, Australia has very high shares of exports not allocated 
+by product from 1990 to 2000 (14-19%) which drops to about 7% in 2005. Reasons for such variations can 
+include improvements in identifying transactions; changes in trading structures so that more or fewer 
+transactions in  " confidential trade "  are undertaken; or changes in the way such data are reported – from 
+providing data by partner but not by product to providing data by product but not by partner or vice versa. 15. www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=1818. DSTI/DOC(2009)4 19 Table 4. Merchandise trade not allocated by product As a percentage of total merchandise trade 1990 
+1995 
+2000 
+2005 1988-2006 1990 
+1995 
+2000 
+2005 1988-2006 
+Australia 
+14.4 
+15.9 
+19.1 
+6.7 
+14.3 
+3.6 
+2.3 
+2.1 
+0.3 
+2.2 
+Austria 
+-
+2.8 
+1.9 
+1.8 
+2.3 
+-
+0 . 4 
+0 . 2 
+0.8 
+0.5 
+Belgium 
+-
+0.2 
+0.3 
+1.4 
+2.1 
+-
+0 . 5 
+0 . 1 
+0.5 
+0.9 
+Canada 
+2.0 
+1.4 
+5.8 
+4.7 
+3.7 
+2.5 
+2.6 
+1.9 
+1.5 
+2.3 
+Czech Republic 
+-
+0.4 
+0.0 
+0.6 
+0.7 
+-
+0 . 1 
+0 . 0 
+3.0 
+0.6 
+Denmark 
+4.6 
+5.1 
+4.4 
+4.0 
+4.7 
+2.1 
+1.6 
+1.8 
+1.7 
+2.1 
+Finland 
+0.0 
+0.9 
+0.5 
+0.7 
+0.5 
+0.1 
+1.7 
+2.3 
+1.7 
+1.3 
+France 
+0.6 
+0.0 
+0.7 
+1.0 
+0.5 
+0.4 
+0.1 
+0.2 
+0.1 
+0.2 
+Germany 
+1.6 
+3.6 
+2.3 
+2.5 
+2.9 
+2.1 
+5.5 
+5.2 
+3.6 
+4.6 
+Greece 
+0.0 
+1.9 
+3.2 
+2.6 
+1.9 
+0.0 
+0.0 
+0.2 
+0.1 
+0.2 
+Hungary 
+-
+0.4 
+0.1 
+0.7 
+1.0 
+-
+0 . 1 
+3 . 5 
+1.3 
+1.7 
+Iceland 
+0.7 
+0.4 
+1.0 
+1.0 
+0.7 
+0.1 
+0.2 
+0.1 
+0.1 
+0.2 
+Ireland 
+4.4 
+6.9 
+4.3 
+3.8 
+4.5 
+2.9 
+9.2 
+5.8 
+5.9 
+5.9 
+Italy 
+1.6 
+1.2 
+0.8 
+1.6 
+1.4 
+2.5 
+2.5 
+3.7 
+5.0 
+3.5 
+Japan 
+1.6 
+2.1 
+3.6 
+4.5 
+2.9 
+2.9 
+1.3 
+1.6 
+1.6 
+1.8 
+Korea 
+-
+0.1 
+0.1 
+0.1 
+0.1 
+-
+0 . 3 
+0 . 1 
+0.1 
+0.2 
+Luxembourg 
+-
+-
+1.7 
+2.0 
+2.1 
+-
+-
+3 . 5 
+4.0 
+3.9 
+Mexico 
+0.6 
+0.1 
+0.1 
+0.2 
+0.2 
+13.8 
+5.4 
+0.3 
+1.0 
+4.2 
+Netherlands 
+3.9 
+3.9 
+0.2 
+0.2 
+2.0 
+0.4 
+0.5 
+0.1 
+0.0 
+0.3 
+New Zealand 
+1.7 
+0.9 
+4.5 
+3.4 
+2.3 
+0.4 
+0.1 
+0.1 
+0.6 
+0.2 
+Norway 
+5.6 
+7.3 
+4.4 
+3.5 
+5.7 
+0.8 
+0.9 
+1.0 
+0.4 
+0.8 
+Poland 
+-
+0.1 
+0.1 
+2.1 
+1.0 
+-
+0 . 0 
+0 . 1 
+2.2 
+1.4 
+Portugal 
+0.2 
+0.1 
+0.1 
+2.7 
+0.4 
+0.0 
+0.0 
+0.2 
+1.9 
+0.3 
+Slovak Republic 
+-
+-
+0.0 
+1.3 
+0.3 
+-
+-
+0 . 0 
+0.7 
+0.3 
+Spain 
+1.1 
+0.8 
+1.6 
+1.6 
+1.2 
+0.3 
+0.1 
+0.5 
+0.6 
+0.5 
+Sweden 
+7.8 
+7.7 
+5.3 
+2.5 
+6.0 
+1.8 
+1.5 
+5.8 
+2.7 
+2.7 
+Switzerland 
+2.6 
+0.8 
+1.1 
+0.8 
+1.2 
+1.5 
+0.6 
+1.0 
+1.2 
+1.1 
+Turkey 
+0.0 
+0.0 
+0.1 
+1.1 
+2.9 
+0.0 
+0.0 
+0.3 
+4.9 
+3.1 
+United Kingdom 
+5.0 
+2.6 
+2.8 
+2.5 
+3.9 
+2.9 
+1.5 
+2.9 
+5.3 
+3.7 
+United States 
+3.9 
+3.3 
+3.5 
+3.4 
+3.8 
+3.5 
+3.4 
+4.4 
+3.5 
+3.9 
+OECD sub-total 
+-
+2.5 
+2.6 
+2.4 
+-
+2.3 
+2.6 
+2.4 
+Argentina 
+-
+0.0 
+1.3 
+1.5 
+1.0 
+-
+0 . 0 
+0 . 6 
+0.9 
+0.4 
+Brazil 
+1.2 
+1.3 
+1.9 
+1.8 
+1.4 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Chile 
+1.3 
+1.3 
+2.3 
+2.2 
+1.3 
+1.3 
+0.9 
+0.5 
+China 
+-
+0.3 
+0.2 
+0.2 
+0.3 
+-
+1 . 0 
+0 . 7 
+0.3 
+0.6 
+Chinese Taipei 
+0.2 
+0.1 
+0.8 
+0.6 
+0.4 
+2.6 
+2.0 
+1.6 
+1.0 
+2.3 
+Estonia 
+-
+0.0 
+0.0 
+3.3 
+-
+0 . 1 
+0 . 0 
+2.1 
+Hong Kong, China 
+-
+0.6 
+0.1 
+0.2 
+0.4 
+-
+0 . 4 
+0 . 1 
+0.1 
+0.3 
+India 
+2.1 
+1.7 
+2.3 
+1.4 
+1.9 
+6.3 
+7.1 
+1.9 
+0.9 
+4.3 
+Indonesia 
+0.0 
+0.0 
+0.0 
+0.0 
+1.6 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Israel 
+-
+2.5 
+0.3 
+1.1 
+0.6 
+-
+1 . 6 
+0 . 4 
+0.3 
+0.6 
+Malaysia 
+0.4 
+1.3 
+0.7 
+0.6 
+0.2 
+2.5 
+1.5 
+1.8 
+Philippines 
+-
+-
+0.0 
+0.0 
+-
+-
+0 . 0 
+0.0 
+Russia 
+-
+-
+11.8 
+8.4 
+12.0 
+-
+-
+11.3 
+6.2 
+13.2 
+Singapore 
+1.3 
+2.3 
+3.2 
+3.8 
+2.4 
+1.2 
+1.0 
+0.9 
+0.9 
+1.2 
+Slovenia 
+-
+0.2 
+0.2 
+0.1 
+-
+2 . 9 
+0 . 0 
+0.0 
+South Africa 
+-
+-
+24.9 
+0.0 
+14.4 
+-
+-
+8 . 8 
+8.7 
+8.5 
+Thailand 
+1.2 
+0.9 
+2.7 
+1.4 
+2.1 
+1.2 
+0.7 
+1.1 
+Non-OECD sub-total 
+-
+-
+2.4 
+1.6 
+-
+-
+1.2 
+1.0 
+TOTAL 
+-
+-
+2.6 
+2.2 
+-
+-
+2.3 
+2.1 Imports 
+Exports Source: OECD STAN BTD September 2008, ITCS 2008. DSTI/DOC(2009)4 20 Table 5. The share of trade not allocated by partner country As a percentage of total merchandise trade 1990 
+1995 
+2000 
+2005 1988-2006 1990 
+1995 
+2000 
+2005 1988-2006 
+Australia 
+1.2 
+1.2 
+1.9 
+1.4 
+1.5 
+0.0 
+0.0 
+0.1 
+0.2 
+0.1 
+Austria 
+-
+3.7 
+0.0 
+2.8 
+1.5 
+-
+1.8 
+0.0 
+2.9 
+1.2 
+Belgium 
+0.8 
+0.4 
+0.6 
+0.6 
+0.6 
+0.1 
+0.4 
+0.0 
+0.0 
+0.1 
+Canada 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Czech Republic 
+-
+27.7 
+0.0 
+0.0 
+4.7 
+-
+22.5 
+0.2 
+0.1 
+3.9 
+Denmark 
+3.8 
+5.3 
+6.4 
+7.7 
+5.7 
+0.7 
+0.8 
+0.8 
+0.4 
+0.8 
+Finland 
+2.3 
+3.0 
+2.7 
+1.7 
+2.5 
+0.7 
+2.0 
+2.8 
+0.5 
+1.3 
+France 
+0.0 
+0.1 
+0.2 
+0.1 
+0.2 
+0.3 
+0.3 
+0.1 
+0.1 
+0.2 
+Germany 
+3.3 
+3.5 
+2.6 
+0.2 
+2.8 
+3.7 
+3.2 
+3.3 
+0.1 
+3.2 
+Greece 
+0.9 
+0.3 
+0.2 
+1.0 
+1.0 
+0.1 
+0.0 
+0.0 
+0.2 
+0.2 
+Hungary 
+-
+2.3 
+0.0 
+0.0 
+0.8 
+-
+0.0 
+0.0 
+0.0 
+0.8 
+Iceland 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Ireland 
+0.9 
+2.6 
+1.5 
+0.2 
+1.5 
+0.8 
+3.6 
+3.1 
+2.3 
+2.3 
+Italy 
+0.4 
+0.5 
+1.3 
+1.2 
+0.9 
+0.2 
+0.2 
+3.8 
+4.3 
+1.9 
+Japan 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Korea 
+-
+0.2 
+0.2 
+0.1 
+0.2 
+-
+0.7 
+0.0 
+0.0 
+0.1 
+Luxembourg 
+-
+-
+1.2 
+1.8 
+1.5 
+-
+-
+2.7 
+3.4 
+3.1 
+Mexico 
+0.6 
+0.0 
+0.2 
+0.4 
+0.1 
+0.9 
+0.2 
+0.0 
+0.0 
+0.1 
+Netherlands 
+4.6 
+9.2 
+7.1 
+0.7 
+6.3 
+1.2 
+2.7 
+5.2 
+0.0 
+2.0 
+New Zealand 
+4.5 
+2.9 
+2.1 
+0.9 
+2.4 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Norway 
+0.0 
+0.0 
+0.0 
+3.5 
+0.4 
+0.0 
+0.0 
+0.0 
+0.4 
+0.0 
+Poland 
+-
+2.2 
+2.2 
+0.1 
+1.0 
+-
+2.3 
+1.7 
+0.1 
+1.2 
+Portugal 
+1.2 
+0.7 
+0.6 
+1.4 
+0.9 
+0.1 
+0.0 
+0.0 
+0.2 
+0.1 
+Slovak Republic 
+-
+-
+0.1 
+0.0 
+0.1 
+-
+-
+0.1 
+8.5 
+2.1 
+Spain 
+2.1 
+1.0 
+0.8 
+1.5 
+1.0 
+0.3 
+0.0 
+0.0 
+0.0 
+0.1 
+Sweden 
+0.0 
+0.0 
+0.0 
+0.6 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Switzerland 
+2.0 
+2.5 
+0.0 
+0.0 
+1.0 
+0.2 
+0.2 
+0.0 
+0.0 
+0.1 
+Turkey 
+0.2 
+2.0 
+4.6 
+4.2 
+2.9 
+0.0 
+0.9 
+3.1 
+0.8 
+1.3 
+United Kingdom 
+8.9 
+4.1 
+0.3 
+2.8 
+4.2 
+7.8 
+4.2 
+1.5 
+4.6 
+4.4 
+United States 
+0.1 
+0.1 
+0.0 
+0.0 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+Argentina 
+-
+0.1 
+1.9 
+1.8 
+1.3 
+-
+1.5 
+2.6 
+1.1 
+2.0 
+Brazil 
+1.2 
+0.8 
+1.7 
+1.7 
+1.4 
+0.0 
+0.2 
+0.0 
+0.0 
+0.2 
+China 
+-
+0.0 
+0.0 
+0.0 
+0.0 
+-
+1.7 
+0.0 
+0.0 
+0.9 
+Chinese Taipei 
+0.7 
+0.7 
+0.8 
+1.1 
+0.8 
+1.0 
+0.4 
+1.2 
+1.5 
+1.0 
+Hong Kong, China 
+-
+0.1 
+0.0 
+0.0 
+0.0 
+-
+0.0 
+0.0 
+0.0 
+0.0 
+India 
+2.9 
+1.4 
+4.1 
+0.2 
+1.6 
+10.7 
+10.3 
+31.0 
+29.7 
+14.1 
+Indonesia 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.4 
+0.2 
+0.9 
+0.0 
+0.3 
+Israel 
+-
+4.0 
+4.6 
+3.7 
+4.4 
+-
+6.4 
+10.5 
+14.3 
+9.5 
+Russia 
+-
+-
+0.0 
+0.0 
+0.4 
+-
+-
+0.0 
+0.1 
+4.4 
+Singapore 
+0.1 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+0.0 
+South Africa 
+-
+-
+24.8 
+0.9 
+14.2 
+-
+-
+0.7 
+0.3 
+6.0 Imports 
+Exports Source: OECD STAN BTD September 2008, ITCS 2008. DSTI/DOC(2009)4 21 Table 5 summarises the percentage of trade not allocated by partner country (labelled  " Unspecified "  
+in the OECD STAN Bilateral Trade by industry Database (BTD) and including  " Other areas n.e.s. " , free 
+zones, fuel bunkers and special categories) for 41 countries in various years. As with unallocated products, 
+the shares vary across countries and across years within countries. Of particular note are the high and 
+increasing shares of imports from unspecified partners apparent for India and Israel. It should be noted that 
+for some countries a notable proportion of trade is reported with neither partner nor commodity. Also, the 
+share of trade allocated to recognised partners and commodities can be relatively low, even for OECD 
+countries – for example, for Australia, only 83% of exports are allocated to partner countries and HS 
+2-digit commodities in 2005. Care should thus be taken when using the apparent structure of such a subset 
+to determine the structure of total trade. Table 6 details the sectoral shares of unspecified partners' trade in total merchandise trade for an 
+aggregate of 41 OECD and non-OECD countries. In general, the  " energy-producing sectors "  (Mining and 
+quarrying, Coke, refined petroleum products and nuclear fuel and Utilities) are the most commonly 
+reported without reference to partner countries. Close inspection reveals, however, that such practices are 
+concentrated in certain countries for certain sectors. For example, for Mining and Quarrying exports, the 
+shares are mainly explained by Russia where during 2000-2006, about 30% of exports were recorded 
+without a partner country – while for imports, the overall share is mainly due to the non-recording of 
+partners by Germany (30%) and India (49%). A consequence of such variations in reporting  " confidential "  or  " unallocated "  trade is that if it affects 
+a small subset of products or partners, then any analyses of data over time for these products or partners 
+may be subject to biases – and it is often not easy to identify which products and/or partners are affected. Table 6. The share of trade 
+a not allocated by partner country by sector of merchandise trade (%) 2000 
+2005 
+1999-2006 
+2000 
+2005 
+1999-2006 
+Agriculture, hunting, forestry and fishing 01-05 0.5 
+1.5 
+1.2 
+0.1 
+0.2 
+0.1 
+Mining and quarrying 10-14 7.3 
+7.3 
+7.6 
+5.8 
+6.5 
+5.5 
+Food products, beverages and tobacco 15-16 0.8 
+0.6 
+0.6 
+0.1 
+0.1 
+0.1 
+Textiles, textile products, leather and footwear 17-19 0.2 
+0.4 
+0.3 
+0.1 
+0.2 
+0.1 
+Wood and products of wood and cork 20 0.0 
+0.0 
+0.1 
+0.1 
+0.1 
+0.0 
+Pulp, paper, paper products, printing and publishing 21-22 0.8 
+0.4 
+0.5 
+0.1 
+0.2 
+0.1 
+Coke, refined petroleum products and nuclear fuel 23 6.2 
+4.4 
+5.4 
+1.6 
+2.5 
+1.7 
+Chemicals 24 1.7 
+1.3 
+1.4 
+0.4 
+0.3 
+0.3 
+Rubber & plastics products 25 0.1 
+0.2 
+0.1 
+0.1 
+0.1 
+0.1 
+Other non-metallic mineral products 26 0.7 
+1.4 
+0.9 
+0.3 
+0.3 
+0.3 
+Basic metals 27 0.4 
+1.2 
+0.9 
+0.3 
+0.2 
+0.3 
+Fabricated metal products, except machinery & equipment 28 0.1 
+0.4 
+0.3 
+0.2 
+0.3 
+0.2 
+Machinery & equipment, nec 29 0.3 
+0.3 
+0.3 
+0.2 
+0.2 
+0.2 
+Office, accounting & computing machinery 30 0.2 
+0.1 
+0.2 
+0.2 
+0.1 
+0.1 
+Electrical machinery & apparatus, nec 31 0.4 
+0.2 
+0.3 
+0.2 
+0.2 
+0.2 
+Radio, television & communication equipment 32 1.4 
+0.8 
+0.5 
+1.2 
+0.3 
+0.6 
+Medical, precision & optical instruments 33 0.5 
+0.3 
+0.2 
+0.1 
+0.2 
+0.1 
+Motor vehicles, trailers & semi-trailers 34 0.1 
+0.2 
+0.1 
+0.0 
+0.0 
+0.0 
+Other transport equipment 35 0.6 
+0.5 
+0.8 
+0.2 
+0.1 
+0.2 
+Manufacturing nec; recycling (include Furniture) 36-37 0.1 
+0.3 
+0.2 
+0.1 
+0.2 
+0.1 
+Utilities 40-41 3.3 
+1.7 
+4.3 
+1.6 
+3.7 
+3.4 
+Total (not including unallocated products) 
+1.0 
+1.1 
+1.0 
+0.8 
+1.0 
+0.8 Exports 
+Imports ISIC 
+Rev.3 a Aggregate of OECD countries and selected non-OECD countries (see Table 5 for list). Source: OECD STAN BTD September 2008, ITCS 2008. DSTI/DOC(2009)4 22 2.3.3. Scrap metal, waste products and secondhand goods The increasing movement of scrap metal and assorted waste around the world is of obvious concern to 
+environmental analysts, particularly the increasing exports from developed to developing countries, so it is 
+important to be able to distinguish such products in international trade statistics. In a more general sense, 
+when linking trade in goods data to I-O tables, we need to be able to distinguish scrap metal, waste 
+products and secondhand goods from the output of recent manufacturing production and, for example, 
+identify imported inputs into the recycling industry. Currently, scrap metal and certain waste products 
+(e.g. paper and plastic) can be identified as they are coded in HS – see Table 7. However, there are many 
+types of used goods, such as discarded PCs and secondhand transport equipment that do not have separate 
+codes in HS and are thus difficult to identify in trade statistics – they may be  " recorded and classified 
+under the appropriate commodity heading if their value is positive " . (The United Nations, 1998, para. 41) Table 7. Waste and scrap metal products identified in trade data by HS code HS 1988 Code 
+HS Description 
+Miscellaneous waste 3915 
+Waste, parings and scrap, of plastics. 
+401220 
+Used pneumatic tyres 
+4707 
+Waste and scrap of paper or paperboard. 
+5103 
+Waste of wool or of fine or coarse animal hair, including yarn waste but excluding garnetted stock. 
+5104 
+Garnetted stock of wool or of fine or coarse animal hair. 
+5202 
+Cotton waste (including yarn waste and garnetted stock). 
+5505 
+Waste (including noils, yarn waste and garnetted stock) of man-made fibres. Scrap metal 7112 
+Waste and scrap of precious metal or of metal clad with precious metal. 
+7204 
+Ferrous waste and scrap; remelting scrap ingots of iron or steel. 
+7404 
+Copper waste and scrap. 
+7503 
+Nickel waste and scrap. 
+7602 
+Aluminium waste and scrap. 
+7802 
+Lead waste and scrap. 
+7902 
+Zinc waste and scrap. 
+8002 
+Tin waste and scrap. 8908 
+Vessels and other floating structures for breaking up. When looking at trade in identifiable scrap and waste (Table 8), it is no surprise that non-OECD 
+countries have higher and increasing import shares (e.g. China and India with about 1.8% each in 2005) 
+while OECD countries tend to have higher export shares (exceptions include Korea and Turkey). On 
+average, the import share for non-OECD countries was about 1% in 2005, double that for OECD, while for 
+exports, the OECD share was about 0.6%, double that for non-OECD countries. It is important to note that 
+for many countries, scrap and waste materials may be exported to (or imported from) a limited number of 
+trading partners so that while the share of such trade may be relatively low at total world level, it can be 
+quite significant when looking at certain bilateral trade flows. Trade in used goods not identified by HS (or 
+SITC) codes may follow similar patterns. DSTI/DOC(2009)4 23 Table 8. Trade in scrap and waste, identifiable by HS codes As a percentage of total trade Exports 
+Imports 
+1995 
+2000 
+2005 
+1995 
+2000 
+2005 
+Australia 
+0.44 
+0.44 
+0.70 
+0.06 
+0.05 
+0.03 
+Austria 
+0.34 
+0.34 
+0.46 
+0.78 
+0.45 
+0.72 
+Belgium 
+0.46 
+0.46 
+0.50 
+1.00 
+0.93 
+0.77 
+Canada 
+0.60 
+0.36 
+0.63 
+0.86 
+0.47 
+0.51 
+Czech Republic 
+0.99 
+0.58 
+0.71 
+0.21 
+0.21 
+0.25 
+Denmark 
+0.65 
+0.45 
+0.69 
+0.26 
+0.17 
+0.17 
+Finland 
+0.29 
+0.35 
+0.31 
+0.53 
+0.52 
+1.52 
+France 
+0.54 
+0.47 
+0.72 
+0.37 
+0.29 
+0.30 
+Germany 
+0.62 
+0.51 
+0.53 
+0.60 
+0.63 
+0.69 
+Greece 
+0.47 
+0.36 
+0.58 
+0.35 
+0.23 
+0.72 
+Hungary 
+1.30 
+0.42 
+0.56 
+0.19 
+0.10 
+0.07 
+Iceland 
+0.34 
+0.39 
+0.36 
+0.07 
+0.03 
+0.01 
+Ireland 
+0.13 
+0.08 
+0.19 
+0.30 
+0.14 
+0.11 
+Italy 
+0.08 
+0.13 
+0.17 
+1.16 
+0.65 
+0.71 
+Japan 
+0.10 
+0.17 
+0.63 
+0.41 
+0.34 
+0.25 
+Korea 
+0.07 
+0.06 
+0.17 
+1.37 
+1.21 
+1.44 
+Mexico 
+0.65 
+0.39 
+0.45 
+0.62 
+0.37 
+0.36 
+Nethelands 
+0.92 
+0.65 
+1.01 
+0.88 
+0.55 
+0.65 
+New Zealand 
+0.33 
+0.39 
+0.71 
+0.18 
+0.10 
+0.05 
+Norway 
+0.25 
+0.15 
+0.17 
+0.59 
+0.50 
+0.34 
+Poland 
+0.34 
+0.64 
+0.75 
+0.11 
+0.12 
+0.14 
+Portugal 
+0.27 
+0.35 
+0.74 
+0.10 
+0.11 
+0.28 
+Spain 
+0.16 
+0.17 
+0.26 
+1.10 
+0.74 
+0.85 
+Sweden 
+0.28 
+0.28 
+0.42 
+0.86 
+0.64 
+0.52 
+Switzerland 
+0.45 
+0.49 
+0.53 
+0.40 
+0.26 
+0.88 
+Turkey 
+0.26 
+0.24 
+0.24 
+3.19 
+1.43 
+2.78 
+United Kingdom 
+0.51 
+0.41 
+0.94 
+0.36 
+0.37 
+0.22 
+United States 
+1.07 
+0.65 
+1.12 
+0.25 
+0.15 
+0.17 
+OECD 
+0.52 
+0.41 
+0.63 
+0.59 
+0.42 
+0.49 
+Argentina 
+0.16 
+0.11 
+0.09 
+0.04 
+0.01 
+0.04 
+Brazil 
+0.02 
+0.03 
+0.05 
+0.16 
+0.06 
+0.15 
+Chile 
+0.07 
+0.11 
+0.42 
+0.04 
+0.06 
+0.10 
+China 
+0.04 
+0.02 
+0.01 
+0.89 
+1.48 
+1.78 
+Chinese Taipei 
+0.17 
+0.12 
+0.18 
+0.81 
+0.65 
+1.08 
+Estonia 
+2.12 
+2.89 
+1.67 
+0.38 
+0.88 
+0.27 
+Hong Kong, China 
+0.72 
+0.58 
+0.70 
+0.71 
+0.43 
+0.60 
+India 
+0.05 
+0.03 
+0.09 
+2.02 
+1.31 
+1.78 
+Indonesia 
+0.22 
+0.09 
+0.19 
+1.46 
+1.65 
+1.07 
+Israel 
+0.31 
+0.17 
+0.37 
+0.06 
+0.05 
+0.03 
+Malaysia 
+0.15 
+0.12 
+0.16 
+0.32 
+0.37 
+0.63 
+Philippines 
+0.22 
+0.49 
+0.25 
+0.11 
+Russia 
+0.59 
+0.95 
+0.10 
+0.03 
+Singapore 
+0.28 
+0.22 
+0.32 
+0.07 
+0.07 
+0.20 
+Slovenia 
+0.20 
+0.35 
+0.64 
+1.22 
+0.97 
+1.53 
+South Africa 
+1.11 
+0.93 
+0.09 
+0.12 
+Thailand 
+0.18 
+0.18 
+0.38 
+0.61 
+0.50 
+0.60 
+Selected non-OECD 
+(sum of above) 
+-
+0.25 
+0.31 
+0.62 
+0.97 Source: OECD STAN Bilateral Trade Database (BTD), 2008 DSTI/DOC(2009)4 24 2.3.4. Differences in published merchandise trade statistics One source of frustration for researchers in recent years has been apparent differences in trade in 
+goods data from different published sources. While differences between OECD ITCS and Eurostat trade 
+data are to be expected, not least because of the latter's use of the Intrastat system, differences between 
+OECD ITCS and UN Comtrade are less intuitive since common definitions are generally applied. 
+Previously, OECD and United Nations Statistics Division (UNSD) developed their merchandise trade 
+statistics systems independently. However since 2001, via a  " Memorandum of Understanding " , both 
+organisations have been sharing data sources 16 . The general idea behind the agreement is that trade data for 
+OECD member countries are processed by OECD while data for non-OECD countries are processed by 
+UNSD. While some reduction in the data reporting burden of OECD national statistical institutes has 
+occurred, the main aim of the exercise was the alignment and harmonisation of the UN and OECD trade 
+databases. Data for years beyond 2005 have been processed by OECD and UNSD with nearly identical 
+software systems and during 2008 increased efforts were made to  " harmonise "  ITCS with Comtrade by 
+reprocessing data for all OECD countries back to 2000 with the common software and procedures. However, even when both databases have been  " synchronised "  there remain some subtle differences. 
+For example, ITCS has a more detailed treatment of  " unallocated trade "  (see 2.3.2, also known as 
+ " memoranda items " ), for EU countries than UNSD – it hosts a range of special 6-digit product codes for 
+ " unallocated trade "  below the 2-digit HS level. A consequence is that for certain 2-digit product groups, 
+ITCS data may be higher than Comtrade while being lower for the general  " Commodities not specified 
+according to kind " . This is illustrated in Table 9 by a comparison between ITCS and Comtrade 2-digit HS 
+data for Germany, where for example, exports of HS 88  " Aircraft, spacecraft and parts thereof "  are 
+reported to be 5-7% higher in ITCS than in Comtrade. Table 9. ITCS data as a % of COMTRADE 
+Germany total trade, 2002-2006 HS 1996 commodities 
+2002 
+2003 
+2004 
+2005 
+2006 
+2002 
+2003 
+2004 
+2005 
+2006 
+Total 
+99.9 
+100.0 
+100.0 
+100.0 
+100.0 
+99.9 
+100.0 
+100.0 
+100.0 
+100.0 Commodities not specified according to kind 
+48.4 
+75.7 
+80.1 
+65.2 
+66.2 
+79.8 
+92.1 
+92.2 
+83.7 
+86.8 
+63: Other textile articles; clothing etc 
+101.7 
+102.0 
+102.4 
+102.0 
+102.2 
+100.4 
+100.2 
+100.4 
+100.2 
+100.0 
+73: Articles of iron or steel. 
+102.0 
+102.2 
+102.7 
+101.8 
+101.4 
+100.0 
+99.9 
+100.3 
+100.0 
+100.0 
+82: Tools and implements of base metal 
+103.7 
+103.8 
+104.8 
+103.8 
+103.1 
+100.2 
+100.7 
+101.1 
+101.4 
+100.9 
+84: Machinery and mechanical appliances and parts; boilers 
+100.9 
+100.9 
+100.6 
+101.5 
+101.5 
+99.3 
+99.1 
+99.2 
+100.0 
+100.1 
+85: Electrical machinery and equipment and parts thereof 
+102.5 
+102.4 
+102.2 
+100.8 
+100.8 
+100.7 
+101.0 
+101.0 
+100.0 
+100.0 
+87: Vehicles other than railway or tramway rolling-stock; parts 105.9 
+105.9 
+104.9 
+104.3 
+104.7 
+105.7 
+106.0 
+106.6 
+105.9 
+105.2 
+88: Aircraft, spacecraft, and parts thereof. 
+105.7 
+106.6 
+107.3 
+106.7 
+105.7 
+107.5 
+105.7 
+106.8 
+106.7 
+106.0 Sum of all other 2-digit HS commodities 
+100.0 
+100.1 
+100.1 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 
+100.0 Exports 
+Imports Sources: ITCS and COMTRADE databases, July 2008 For certain countries and/or years, data for years prior to 2000 may differ significantly between ITCS 
+and Comtrade. There may be several reasons for this such as: i) use of different versions of national source 
+data: i.e. first version versus subsequent revision(s); ii) differing treatment of confidential data 
+(e.g. allocated to partner  " Other Areas n.e.s. "  versus allocated to  " Commodities n.e.s. " ); and iii) differing 
+partner country and commodity coding regimes. Such problems mainly affect data for OECD countries. 
+This is because the OECD has only ever processed a few non-OECD countries such as China, Hong Kong 
+and Chinese Taipei (not recognised by the U.N.). Resources permitting, OECD hopes to extend the 
+synchronisation exercise to data prior to 2000. Reviewing data for 1995 would be particularly useful as this 
+was a common benchmark year for national I-O tables. 16. 
+For details concerning UNSD-OECD joint trade data collection and processing see Legoff, (2005, 2006). DSTI/DOC(2009)4 25 2.3.5. Bilateral trade by industry classifications As well as the conceptual and statistical issues that affect the basic bilateral trade by commodity data, 
+such as re-exports and unallocated trade, there are additional challenges to be faced when attempting to 
+estimate trade flows by economic activity (whether producers of primary products, manufactures or 
+services). When linking industry x industry I-O tables for inter-country I-O analysis, matrices of bilateral 
+trade according to an industry classification are required, yet there are particular problems when 
+constructing such matrices. For some years the OECD has produced the Bilateral Trade Database (BTD) for industrial analysis 
+which presents trade in goods according to economic activities, most recently using a classification based 
+on ISIC Rev.3. It is designed to be comparable with other data sets in OECD's  " STAN family "  including 
+OECD's I-O tables 17 . BTD is compiled from OECD's ITCS by using a standard conversion from the 1988 
+version of the Harmonized Commodity Description and Coding System (HS 1988) to ISIC Rev.3 for all 
+countries 18 . Data recorded in later versions of HS (HS 1996, HS 2002) are converted to HS 1988 
+beforehand. The drawbacks of this standard approach include the following: @BULLET BTD does not necessarily provide explicit trade figures for industry: products are linked to the 
+industries that typically produce them (and thus in this case, BTD assumes  " homogeneity "  in 
+industries). For industrial activity data, enterprises (or establishments) are allocated an ISIC code 
+according to their primary activity. If an industry has significant goods producing secondary 
+activities, its exports in BTD may be underestimated (and over-estimated in the industry deemed 
+likely to produce the goods). @BULLET BTD presents estimates for all imports from partners' industries, not intermediate imports by 
+domestic industries. While useful for developing indicators such as import penetration by 
+industry, this restricts the use of BTD imports for linking to imports of intermediates by industry 
+that are present in I-O tables. @BULLET There are very few product codes allocated to service industries. However, industrial activity data 
+for some service sectors (e.g. wholesale and retail) may include enterprises involved in assembly 
+and export of final goods (e.g. PCs), considered as secondary activities. This is not recorded in 
+BTD (c.f. first bullet above). @BULLET Exported output of recycling industry cannot be identified. The consequences of some of the issues described above are illustrated in Table 10, which shows 
+exports as a percentage of production (gross output) for the ISIC Rev.3 activity  " Office, accounting and 
+computing machinery " . For many countries the estimated value of exports is significantly greater than 
+production. While the main reason may be the presence of re-exports (particularly for Belgium and the 
+Netherlands), there are undoubtedly cases where wholesale firms are involved in the assembly and export 
+of PCs. Exports of used PCs to developing countries for re-use or dismantling may also be included, but 
+the value is probably quite low. In other words, in OECD countries,  " true "  manufacturing of PCs is not as 
+prevalent as exports data may suggest. 17. 
+BTD (OECD, 2008) was first developed by OECD's Directorate for Science, Technology and Industry in 
+the early 1990s as part of a project to provide data tools for  " advanced "  structural analysis such as the 
+measurement of international technology diffusion. Other data sets developed, and still maintained, include 
+the I-O database, STAN industry database (www.oecd.org/sti/stan) and the business R&D expenditure 
+(ANBERD) database (www.oecd.org/sti/anberd). 18. 
+www.oecd.org/dataoecd/50/24/37990672.xls. DSTI/DOC(2009)4 26 Table 10. Exports as a percentage of production  " Office, accounting and computing machinery "  (ISIC 30) 1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+Aust ria 
+784.4 
+677.9 
+754.3 
+200.9 
+230.1 
+223.6 
+175.4 
+Belgium 
+1123.9 
+1203.2 
+1537.7 
+2543.2 
+2117.7 
+2439.2 
+2396.5 
+Canada 
+91.9 
+95.4 
+137.8 
+140.7 
+136.1 
+120.1 
+130.7 
+Denm ark 
+342.2 
+270.7 
+452.3 
+357.4 
+272.6 
+384.1 
+347.0 
+Finl and 
+86.5 
+83.0 
+96.5 
+97.3 
+87.8 
+243.4 
+383.2 
+France 
+72.0 
+98.3 
+102.6 
+110.8 
+107.9 
+119.8 
+98.8 
+Germ any 
+82.3 
+86.6 
+86.1 
+94.8 
+111.2 
+112.6 
+116.6 
+Gree ce 
+155.6 
+138.5 
+263.6 
+300.0 
+440.0 
+900.0 
+1075.0 
+Hungary 
+74.0 
+7.8 
+93.7 
+104.9 
+111.1 
+136.5 
+108.2 
+Ireland 
+109.6 
+116.3 
+139.5 
+132.2 
+111.0 
+100.3 
+125.3 
+Ital y 
+102.8 
+96.2 
+87.8 
+79.5 
+79.2 
+87.2 
+78.9 
+Japan 
+34.1 
+32.7 
+37.1 
+39.0 
+35.2 
+34.0 
+33.3 
+Korea 
+64.3 
+69.8 
+59.0 
+58.2 
+77.6 
+83.1 
+70.3 
+Mexico 
+120.1 
+111.8 
+101.6 
+109.3 
+119.7 
+121.5 
+142.7 
+Netherlands 
+532.5 
+710.4 
+932.6 
+983.5 
+1178.0 
+1427.9 
+1567.0 
+Norway 
+172.0 
+232.7 
+199.9 
+165.7 
+135.4 
+290.3 
+259.0 
+Poland 
+13.4 
+21.4 
+17.6 
+23.7 
+21.4 
+23.0 
+12.4 
+Port ugal 
+16.7 
+20.9 
+27.0 
+22.6 
+21.0 
+26.2 
+97.3 
+Spai n 
+44.9 
+45.7 
+50.7 
+58.2 
+65.5 
+65.9 
+50.5 
+Sweden 
+141.5 
+147.8 
+163.0 
+112.8 
+112.9 
+137.9 
+135.9 
+United Kingdom 
+97.7 
+92.9 
+94.1 
+93.8 
+101.3 
+109.2 
+102.1 
+United States 
+47.3 
+46.2 
+47.8 
+43.1 
+44.2 
+53.4 
+56.7 Source: OECD STAN database 2005. This illustrates the pressing need for an adjusted BTD for use with I-O tables. In fact, when 
+comparing BTD estimates for total manufacturing exports for year 2000 with those present in I-O tables 
+(Table 11), there are considerable differences for some countries not wholly due to the apparent BoP 
+adjustments made for I-O. DSTI/DOC(2009)4 27 Table 11. Exports of manufactured goods, 2000 Comparison of estimates from OECD BTD and I-O data sets Australia 
+30.8 
+24.5 
+6.3 
+25.8 
+Austria 
+59.8 
+58.6 
+1.2 
+2.1 
+Belgium 
+171.6 
+136.9 
+34.7 
+25.4 
+Canada 
+218.6 
+229.7 
+-11.1 
+-4.8 
+Czech Republic 
+27.9 
+26.3 
+1.5 
+5.8 
+Denmark 
+42.4 
+40.8 
+1.6 
+4.0 
+Finland 
+44.9 
+46.2 
+-1.3 
+-2.9 
+France 
+279.2 
+271.3 
+7.9 
+2.9 
+Germany 
+528.3 
+518.8 
+9.5 
+1.8 
+Greece 
+8.7 
+7.4 
+1.4 
+18.3 
+Hungary 
+27.1 
+27.4 
+-0.3 
+-0.9 
+Iceland 
+1.8 
+--
+--
+--
+Ireland 
+72.1 
+78.4 
+-6.3 
+-8.0 
+Italy 
+232.8 
+212.6 
+20.2 
+9.5 
+Japan 
+460.7 
+420.4 
+40.3 
+9.6 
+Korea 
+171.1 
+170.4 
+0.7 
+0.4 
+Luxembourg 
+7.6 
+7.1 
+0.5 
+6.9 
+Mexico 
+144.9 
+--
+--
+--
+Netherlands 
+163.3 
+176.2 
+-12.9 
+-7.3 
+New Zealand 
+11.4 
+9.8 
+1.6 
+16.0 
+Norway 
+20.7 
+20.0 
+0.7 
+3.5 
+Poland 
+29.9 
+28.6 
+1.3 
+4.4 
+Portugal 
+23.8 
+19.3 
+4.5 
+23.2 
+Slovak Republic 
+11.5 
+10.5 
+0.9 
+8.9 
+Spain 
+103.8 
+103.1 
+0.8 
+0.7 
+Sweden 
+81.2 
+83.6 
+-2.3 
+-2.8 
+Switzerland 
+78.5 
+79.5 
+-1.0 
+-1.3 
+Turkey 
+24.0 
+23.1 
+0.9 
+4.0 
+United Kingdom 
+248.1 
+199.6 
+48.5 
+24.3 
+United States 
+713.8 
+592.0 
+121.8 
+20.6 
+Argentina 
+18.1 
+--
+--
+--
+Brazil 
+45.3 
+40.4 
+4.9 
+12.2 
+China 
+238.1 
+238.2 
+-0.2 
+-0.1 
+Chinese Taipei 
+121.3 
+110.9 
+10.5 
+9.4 
+Hong Kong, China 
+0.0 
+--
+--
+--
+India 
+29.6 
+29.0 
+0.5 
+1.9 
+Indonesia 
+44.1 
+39.1 
+5.0 
+12.8 
+I s r a e l 
+2 8 . 8 
+--
+--
+--
+Russia 
+45.7 
+53.7 
+-8.0 
+-15.0 
+Singapore 
+135.3 
+83.5 
+51.8 
+62.1 
+South Africa 
+17.5 
+13.8 
+3.7 
+27.0 Countries 
+BTD 
+I-O Difference 
+% of I-O Sources: OECD Bilateral trade by industry database (BTD); OECD Input-Output Database, 2006 editions. DSTI/DOC(2009)4 28 3. INTERNATIONAL TRADE IN SERVICES 3.1. Sources of data – Balance of Payments International trade in services is defined as the supply of a service with four GATS modes of 
+provision: 1. Cross-border supply, 2. Consumption abroad, 3. Commercial presence and 4. Presence of 
+natural persons (United Nations, 2002, page 11; and page 23 for a graphical summary). The well 
+established Balance of Payments accounts cover the first two, as well as aspects of modes 3. and 4., and is 
+the principle source for estimates of bilateral trade in services. There is no equivalent of detailed customs 
+records for measuring international service transactions. In the currently used recommendations of the 5 th edition of the Balance of Payments Manual (BPM5), 
+international service transactions are classified into a dozen or so major categories with some additional 
+detail (see IMF, 1993, page 43). More detailed information became available with the development and 
+introduction from 1996 of the Extended Balance of Payment Services (EBOPS) classification (United 
+Nations, 2002, pages 29-53). A concordance table is provided between EBOPS and the CPC Ver.1 
+production classification (United Nations, 2002, Annex III). However, reconciling the EBOPS 
+classification with the activity classification used in harmonised industry x industry I-O tables is not 
+straightforward (Annex Table 1). For example, the subcategories of  " Travel "  (EBOPS236),  " Business 
+travel expenditure "  (EBOPS237) and  " Personal travel expenditure "  (EBOPS240), cover purchases from a 
+variety of service industries such as accommodation, restaurants and retail. 3.2. Availability of bilateral trade in services statistics Despite substantial improvements in recent years, published bilateral trade in services data are still 
+quite limited compared to the availability of bilateral trade in goods. While most exports and imports 
+figures of commodity trade for all partners of our target of 40 or so countries are available, the number of 
+available figures of exports (credit) and imports (debit) are limited for services sectors. In the OECD Trade 
+in Services by partner countries database, 34 of our targeted reporter countries are currently covered, while 
+in UN Service Trade dataset, 29 reporter countries are covered. OECD Trade in Services provide as much 
+data as possible by different service categories among partner countries, while UN Service Trade only has 
+trade data on countries with the world as their partner. Although the availability of data on bilateral trade in services is expanding steadily, there remain 
+conceptual differences between EBOPS and activity classifications such as ISIC Rev.3. One solution for 
+developing appropriate bilateral trade in service matrices for linking I-O tables is to exploit existing 
+bilateral trade in services data through use of non-survey modelling techniques such as gravity equations 
+(Kimura and Lee, 2006). Differences not only exist for trade in goods, they also occur in trade in service statistics, for example 
+between UN and OECD trade in service databases. Encouragingly, notable differences in total trade in 
+services are observed for few countries (see Table 12). DSTI/DOC(2009)4 29 Table 12. Total exports and imports of services, 2000 Comparison between OECD and UN data sources, USD billion Imports 
+Exports 
+Imports 
+Exports 
+Imports 
+Exports 
+Australia 
+18.9 
+19.9 
+18.7 
+19.0 
+0.3 
+0.9 
+Austria 
+29.7 
+31.4 
+29.8 
+31.4 
+-0.1 
+-0.1 
+Canada 
+44.1 
+40.2 
+44.1 
+40.2 
+0.0 
+0.0 
+Czech Republic 
+5.4 
+6 .8 
+5.4 
+6.8 
+0.0 
+0.0 
+Denmark 
+21.1 
+24.0 
+21.0 
+23.9 
+0.1 
+0.0 
+Finland 
+8.4 
+6 .2 
+8.4 
+6.2 
+0.0 
+0.0 
+France 
+60.8 
+80.6 
+61.0 
+80.8 
+-0.2 
+-0.2 
+Germany 
+141 .4 
+86.5 
+141.8 
+86.8 
+-0.4 
+-0.3 
+Greece 
+11.3 
+19.3 
+11.3 
+19.4 
+0.0 
+-0.1 
+Hungary 
+5.0 
+6 .1 
+5.0 
+6.1 
+0.0 
+0.0 
+Iceland 
+1.2 
+1 .0 
+1.2 
+1.0 
+0.0 
+0.0 
+Ireland 
+28.9 
+16.9 
+29.0 
+16.9 
+-0.1 
+0.0 
+Italy 
+55.4 
+56.4 
+55.6 
+56.6 
+-0.2 
+-0.2 
+Japan 
+115 .1 
+69.2 
+116.5 
+69.1 
+-1.4 
+0.2 
+Korea 
+33.4 
+30.5 
+33.4 
+30.5 
+0.0 
+0.0 
+M exico 
+17.4 
+13.8 
+17.4 
+13.8 
+0.0 
+0.0 
+Netherlands 
+53.3 
+52.4 
+53.4 
+52.5 
+-0.2 
+-0.2 
+New Zealan d 
+4.5 
+4 .4 
+--
+--
+--
+--
+Norway 
+14.5 
+17.3 
+15.5 
+17.4 
+-1.0 
+-0.1 
+Poland 
+9.0 
+10.4 
+9.0 
+10.4 
+0.0 
+0.0 
+Portugal 
+7.0 
+9 .0 
+7.1 
+9.1 
+0.0 
+0.0 
+Slovak Republic 
+1.9 
+2 .3 
+1.9 
+2.3 
+0.0 
+0.0 
+Spain 
+33.2 
+52.6 
+33.2 
+52.6 
+0.0 
+0.0 
+Sweden 
+24.0 
+21.6 
+24.0 
+21.7 
+0.0 
+-0.1 
+Switzerland 
+12.8 
+28.7 
+14.3 
+30.9 
+-1.5 
+-2.2 
+Turkey 
+8.2 
+19.5 
+9.1 
+20.4 
+-0.9 
+-0.9 
+United Kingdom 
+99.4 
+12 0.1 
+--
+--
+--
+--
+United States 
+223 .7 296.0 223.7 
+298.6 
+0.0 
+-2.6 
+China 
+--
+--
+36.0 
+30.4 
+--
+--
+Hong Kong, China 
+24.7 
+40.4 
+--
+--
+--
+--
+India 
+--
+--
+14.6 
+16.3 
+--
+--
+Singapore 
+--
+--
+22.7 
+28.0 
+--
+--
+South Africa 
+--
+--
+5.1 
+5.8 
+--
+--differences 
+OECD TIS 
+UN SITS Sources: OECD International Trade in Services (TIS); UN Statistics of International Trade in Services (SITS). DSTI/DOC(2009)4 30 4. IMPENDING CHANGES TO BALANCE OF PAYMENTS DEFINITIONS Two types of international transactions that will be recorded differently in the forthcoming revisions 
+to BoP recommendations, BPM6, and the System of National Accounts (SNA 1993 Rev.1), to be finalised 
+in 2009, are  " Goods sent abroad for processing "  and  " Merchanting " . 4.1. Goods sent abroad for processing Goods sent abroad for processing are defined as materials or semi-processed goods belonging to a unit 
+in country A which are shipped to a unit in country B for significant transformation and then either i) are 
+returned to the original unit in country A; ii) enter domestic economy of B; or iii) are exported to a third 
+country C. The goods do not change ownership from A to B and B receives a fee from A for processing the 
+goods. Minor transformations of goods, such as repair and packaging are not regarded as processing and 
+are excluded from this consideration. See Chapter 4 of United Nations (2008) for detailed discussion. Under BPM5 and SNA 1993,  " goods for processing "  are recorded in both exports and imports of 
+goods as genuine external trade in gross terms although no change of ownership has taken place. This is 
+contrary to the basic principle of Balance of Payments that transactions should involve a change of 
+ownership. To rectify this, under the new recommendations, goods for processing will be excluded from 
+exports and imports in the goods accounts. Instead, the exchange of processing fees will be recorded under 
+services in the economies concerned: the outward processing economy recording payment of fees as 
+imports of services, the inward processing economy recording the receipt of fees as exports of services. 
+Thus there will be a mismatch with the physical movement of goods recorded in customs-based 
+merchandise trade statistics. 4.2. Merchanting Merchanting is defined as the purchase of a good by a resident (of compiling economy A) from a 
+non-resident in country B and the subsequent resale of the good to another non-resident in country C. 
+During the process, the good does not enter or leave the compiling economy A. The difference between the 
+value of goods when acquired and the value when sold is recorded, under BPM5, as a merchanting service 
+credit in country A. Three categories of merchanting can be identified:  " Transactions accompanied by 
+global manufacturing " ,  " Global wholesaling "  and  " Commodity dealing "  (Takeda, 2006). Under BPM6, the 
+merchant's margin will be recorded in the goods account of economy A as a  " net export under 
+merchanting " . Thus, as with goods for processing, there will be a mismatch with the physical movement of 
+goods recorded in customs-based merchandise trade statistics. 4.3. Impact of changes In international merchandise trade statistics, goods for processing will continue to be recorded on a 
+gross basis (i.e. as exports for the processing country if returning goods to country of ownership), as will 
+the movement of goods under merchanting. Therefore, any approach adopted for adjusting/analysing 
+bilateral merchandise trade statistics will not necessarily have to change. However, when linking to 
+Supply-Use and I-O tables, there could be increased difficulties in reconciling the merchandise trade data 
+with SNA 1993 Rev.1 data since, for example, many transactions previously recorded as manufactured 
+goods in I-O tables will now be recorded as services. Given the time lags (2-3 years or more) involved in 
+implementing major changes to international standards, it is not expected that there will be a great impact 
+on harmonising and linking forthcoming 2005 (benchmark) I-O tables. However, when the time comes to 
+focus on 2010 I-O tables these issues will need to be addressed. DSTI/DOC(2009)4 31 5. SUMMARY This paper highlights some issues that need to be taken into consideration when using bilateral trade 
+in goods statistics from existing international databases in order to construct multi-national I-O tables. For 
+researchers undertaking such work, the goal is to produce the best possible bilateral trade in goods and 
+services matrices that can be linked to the trade data present in harmonised I-O tables via, for example, a 
+multi-regional input-output (MRIO) model (as described in Box 1). Even if only analysing trade statistics, 
+the issues are worth taking into account. In order to make the best possible use of existing trade statistics some short-term solutions could help 
+make necessary adjustments: @BULLET Re-exports are of the most immediate concern due to their increasing shares in total trade 
+reported by many countries. Starting with countries with significant re-exports, national statistical 
+authorities could be requested to provide information on re-exports at the most detailed level 
+possible by partner and/or commodity for a few key years (e.g. 2000 and 2005). Some countries 
+have already carried out research concerning re-exports and their results could be exploited. @BULLET For unallocated trade, national statistical authorities or research institutes with local knowledge 
+may be able to provide indications of the composition  " unallocated trade "  reported in OECD and 
+UNSD databases. Again, efforts should first be concentrated on the countries where the problem 
+is predominant. @BULLET Identifying secondhand goods and assorted scrap and waste may be possible, under certain 
+circumstances, by exploiting quantity information and analysing average unit values of 
+transactions between countries. @BULLET The most significant BoP adjustment concerns removing c.i.f. from total imports of goods and 
+allocating to services. For imports by commodity (or industry) c.i.f. adjustments could be made 
+on a pro rata basis, but it may be preferable for researchers to continue to benchmark bilateral 
+imports on the imports present in I-O tables with possible further adjustments for certain partner 
+countries based on distance matrices. In fact, understanding how national statisticians estimate 
+merchandise imports and exports by product (or industry) for integration into SUTs and I-O 
+tables could be beneficial. GTAP tackle this problem via bilateral estimates of transport margins 
+based on information from U.S. Census Bureau 19 . @BULLET Close inspection of detailed HS categories in order to identify, where possible, products that are 
+likely to be intermediate goods rather than final consumption goods. For example, referring to 
+UN classification of Broad Economic Categories (BEC Rev.3) and/or concentrating on HS codes 
+for parts and components – cf. Yeats (1998) and use of SITC Rev.2 based list. A minimum 
+requirement when using I-O tables in conjunction with trade data is having consistent estimates 
+of the shares of imports of intermediate goods in total imports by industry. 19. 
+www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=1868. DSTI/DOC(2009)4 32 Long-term solutions to improve trade statistics databases could include: @BULLET systematic reporting of re-exports for all countries; @BULLET more detailed reporting of  " unallocated trade "  without breaking any confidentiality barriers; @BULLET additional product codes (or other coding system) to identify secondhand goods and waste and 
+scrap not currently coded; @BULLET additional product codes (or other coding system) to identify recycled goods; @BULLET reporting of Balance of Payments trade in goods by commodity groups (i.e. adjustments below 
+the level of total goods); @BULLET introduce export and import variables for goods and services in structural business statistics; and @BULLET encourage more countries to produce (more) detailed bilateral trade in services data. Whatever progress is made towards producing  " ideal "  bilateral trade matrices, researchers will still 
+need to build econometric models to fill the data shortage. However, this paper provides some insights as 
+why certain difficulties in matching trade and I-O may occur and so help researchers focus their efforts 
+when carrying out further data adjustments. Furthermore, the paper provides the groundwork for a possible 
+OECD project to develop improved bilateral trade matrices for use with I-O tables. DSTI/DOC(2009)4 33 REFERENCES Ahmad, N. and A. Wyckoff (2003),  " Carbon dioxide emissions embodied in international trade of goods " , 
+STI Working Paper 2003/15, OECD, Paris. 
+www.olis.oecd.org/olis/2003doc.nsf/linkto/dsti-doc(2003)15. Andriamananjara, S., H. Arce and M. J. Ferrantino (2004),  " Transhipment in the United States " , US 
+International Trade Commission of Economics Working Paper No. 2004-04-B, April 2004. Bensidoun, I. and D. Ünal-Kesenci (2008), Centre d'Etudes Prospectives et d'Information Internationales 
+(CEPII),  " Globalisation in Services: From Measurement to Analysis " , STD Working Paper 2008/3, 
+OECD, Paris. www.olis.oecd.org/olis/2008doc.nsf/linkTo/std-doc(2008)3-rev1. Feenstra, R.C., R.E. Lipsey, H. Deng, A. C. Ma, and H. Mo (2005),  " World trade flows: 1962-2000 " , 
+NBER Working Paper 11040, National Bureau of Economic Research, Cambridge, MA: 
+www.nber.org/papers/w11040. Ferrantino, M. J. and Z. Wang (2007),  " Accounting for discrepancies in bilateral trade: the case of China, 
+Hong Kong and the United States " , Office of Economic Working Paper, No.2007-04-A, 
+UN International Trade Commission. Fung, K. C. and L. J. Lau (1998),  " The China-United States bilateral trade balance: how big is it really? "  
+Pacific Economic Review 3: 33-47. Fung, K. C. and L. J. Lau (2001),  " New estimates of the United States-China bilateral trade balance: 
+1995-2002 " , Journal of the Japanese and International Economies 15: 102-130. Fung, K. C. and L. J. Lau (2003),  " Adjusted estimates of United States-China bilateral trade balances: 
+1995-2002 " , Journal of Asian Economics, 14: 489-496. Geyer-Schaefer, K. (2007),  " Analysis of asymmetries of trade statistics between Germany and China " , 
+STD/NAES/TASS/ITS (2007)22, paper presented to the 8th OECD International Trade Statistics 
+Expert Meeting, Paris: www.oecd.org/dataoecd/17/59/39244940.pdf. He, X. (2007),  " An evaluation of the intermediation role of Hong Kong in Chinese foreign trade " , Institute 
+of World Economics and Politics Working Paper No.15/2007, Chinese Academy of Social Sciences, 
+Beijing. International Monetary Fund (1993), Balance of Payments Manual, 5 th Edition: 
+www.imf.org/external/pubs/ft/bopman/bopman.pdf. Isard, W., I.J.Azis, M.P.Drennan, R.E.Miller, S.Saltzman and E.Thorbecke (1998), Methods of 
+Interregional and Regional Analysis, Aldershot: Ashgate Publishing. DSTI/DOC(2009)4 34 Jin, H.,  " Reasons for the discrepancies in China's Trade Statistics with major partners: The particular role 
+of the processing trade " , STD/NAES/TASS/ITS(2005)11, paper presented to the 6th OECD 
+International Trade Statistics Expert Meeting, Paris: www.oecd.org/dataoecd/51/6/35308958.pdf. Kimura, F. and Lee, H.H. (2006),  " The gravity equation in international trade in services " , Review of 
+World Economics, 142, 1, pp. 92-121. Kuroko, M. (2002),  " Conversion of Trade Commodity Classification SITC to IO24 Sector Classification: 
+Processing Conversion Error Data " , in Noda, Yosuke [ed.],  " World trade matrix: by Asian 
+international input-output table 24 sectors " , Chapter 2. IDE Statistical Data Series No.84, Institute 
+of Developing Economies, pp. 44-47: www.ide.go.jp/English/Publish/Books/Sds/084.html. Kusters, A. and J. Verbruggen (2001),  " Re-exports and the Dutch market position " , CPB Report 2001/4, 
+Netherlands Bureau for Economic Policy Analysis: 
+www.cpb.nl/nl/pub/cpbreeksen/cpbreport/2001_4/. Legoff, G. (2005),  " The OECD ITCS database in the UN/OECD joint trade data collection and processing 
+system " , STD/NAES/TASS/ITS (2005)3, paper presented to the 6th OECD International Trade 
+Statistics Expert Meeting, Paris: www.oecd.org/dataoecd/24/59/35276693.pdf. Legoff, G. (2006),  " The new and operational UNSD-OECD joint trade data collection and processing 
+system, methodological issues " , STD/NAES/TASS/ITS (2006)5, paper presented to the 7th OECD 
+International Trade Statistics Expert Meeting, Paris: www.oecd.org/dataoecd/46/34/37364061.pdf. Linden, J.A. van der and J. Oosterhaven (1995),  " European Community Intercountry Input-Output 
+Relations: Construction Method and Main Results for 1965-1985 " , Economic Systems Research 7, 
+3: 249-269. Lindner, A., B. Cave, L. Deloumeaux and J. Magdeleine (2001),  " Trade in goods and services: statistical 
+trends and measurement challenges " , OECD Statistics Brief no.1. Paris: 
+www.oecd.org/dataoecd/55/11/2539563.pdf. Lindner, A. (2008),  " International co-operation on trade statistics " , STD/CSTAT/RD(2008)4, paper 
+presented to the Meeting of the Committee on Statistics, Paris, June 2008. Mellens, M.C., H.G.A. Noordman and J.P.Verbruggen (2007),  " Re-exports: international comparison and 
+implications for performance indicators " , CPB Document 2007, No.149, Netherlands Bureau for 
+Economic Policy Analysis, The Hague: www.cpb.nl/nl/pub/cpbreeksen/document/149/doc149.pdf. Noda, Y. (1997),  " Transaction table by country of origin in Hong Kong re-export trade statistics: 
+compilation and evaluation method " , in Y. Yamamoto and Y. Noda [eds.],  " Trade structure of 
+Hong Kong, Taiwan and China, and Hong Kong re-export trade statistics " , IDE Statistical Data 
+Series No.75, Institute of Development Economies, Japan. Noda, Y. (2002),  " Evaluation of consistency of compiling world trade matrices " , Chapter 3 in Y. Noda 
+[ed.],  " World trade matrix: by Asian international input-output table 24 sectors " , IDE Statistical 
+Data Series No.84, Institute of Developing Economics, pp: 78-81. 
+www.ide.go.jp/English/Publish/Books/Sds/084.html. OECD (2008), OECD STAN Bilateral Trade Database, 2008: www.oecd.org/sti/btd. DSTI/DOC(2009)4 35 Ou-Yang, L. (2008), Census and Statistics Department of Hong Kong SAR, China,  " The changed 
+treatment of goods for processing and merchanting in the revised system of National Accounts 
+(SNA93, Rev.1) and the sixth Balance of Payments Manual (BPM6) " , paper presented to meeting of 
+the OECD Working Party on International Trade in Goods and Services Statistics (WPTGS), 
+22-24 September 2008, Paris: www.olis.oecd.org/olis/2008doc.nsf/linkTo/std-ses-wptgs(2008)19. Roos, J. (2005),  " International transport and trade statistics " , STD/NAES/TASS/ITS(2005)21, paper 
+presented to the 6th OECD International Trade Statistics Expert Meeting, Paris: 
+www.oecd.org/dataoecd/33/32/35331631.pdf. Roos, J. (2006),  " Identifying and measuring re-exports and re-imports " , STD/NAES/TASS/ITS(2006)18, 
+paper presented to the 7th OECD International Trade Statistics Expert Meeting, Paris: 
+www.oecd.org/dataoecd/3/22/37358015.pdf. Statistics New Zealand (2006),  " Country paper in International workshop on country practices in 
+compilation of international merchandise trade statistics by Department of economics and social 
+affairs " , Statistics Division, Bangkok, Thailand, 12 – 15 December 2006. Takeda, H. (2006),  " Merchanting " , Issues paper, SNA/M1.06/19, presented to the Fourth meeting of the 
+Advisory Expert Group on National Accounts, 30 January – 8 February 2006, Frankfurt: 
+http://unstats.un.org/unsd/nationalaccount/AEG/papers/m4Merchanting.pdf. United Nations (1998),  " International Merchandise Trade Statistics: Concepts and Definitions " , 
+Department of Economics and Social Affairs, Statistical Division, ST/ESA/STAT/SER.M/52/Rev.2: 
+http://unstats.un.org/unsd/publication/SeriesM/SeriesM_52rev2E.pdf. United Nations (2002),  " Manual on Statistics of International Trade in Services " , Statistical papers series 
+No.86: www.oecd.org/dataoecd/32/45/2404428.pdf. United Nations (2008),  " International Merchandise Trade Statistics: Supplement to Compilers Manual " , 
+final draft, March 2008, Department of Economics and Social Affairs, Statistical Division, 
+ST/ESA/STAT/SER.F/87/Add.1: http://unstats.un.org/unsd/trade/imtssupplcompilersmanual.htm. UNCTAD (2008), Review of Maritime Transport, 2008, New York and Geneva, 2008: 
+www.unctad.org/Templates/WebFlyer.asp?intItemID=4659&lang=1. Wixted, B. (2006),  " The international spatial organization of the motor vehicle production system: place, 
+flows, hierarchy and co-evolution " , paper presented at the DRUID Summer Conference 2006 on 
+Knowledge, innovation and competitiveness: dynamic of firms, networks, regions and institutions, 
+Copenhagen, Denmark, June 18-20, 2006. Wixted, B., N. Yamano and C. Webb (2006),  " Input-output analysis in an increasingly globalised world: 
+applications of OECD's harmonised international tables " , STI Working paper 2006/7, OECD, Paris: 
+www.oecd.org/dataoecd/6/34/37349386.pdf. Yamano, N., and N. Ahmad (2006),  " The OECD Input-Output Database 2006 Edition " , STI Working 
+Paper 2006/8, OECD, Paris: www.oecd.org/dataoecd/46/54/37585924.pdf. Yeats, A. J. (1998),  " Just how big is global production sharing? " , Policy Research Working Paper Series 
+1871, The World Bank: http://ideas.repec.org/p/wbk/wbrwps/1871.html. DSTI/DOC(2009)4 36 Annex Table 1. A concordance between OECD I-O categories and product and industry classifications * partial OECD I-O 37 sector aggregates 
+ISIC Rev. 3 
+Division code CPC Ver.1 
+Division code 
+Harmonised System (HS) 1988 
+EBOPS 1 Agriculture, Hunting and Fishing 01 + 02 + 05 01*, 02*, 03*, 
+04*, 23*, 38*, 
+86* 01, 020820, 0301-0302, 030621-030629, 030710-030721, 030731, 030741, 030751, 
+030760, 030791, 0407, 0409, 0410, 0503, 0508-0509, 051110, 06, 07 ex 0710, 0711, 
+0712, 08 ex 080620, 0811-0812, 081350, 0814, 09 ex 090112-090140, 090210, 090230, 
+10 ex 100620, 100630, 100640, 12 ex 1208, 121230, 1214, 1301, 14 ex 140410, 140420, 
+152190, 1801, 240110-240120, 4001, 410320, 410390, 4301, 440110, 440320-440399, 
+4404, 450110, 5001, 5102, 5201, 530110, 530210, 530310, 530410, 530511, 530521, 
+530591, 710110, 710121 283* 2 Mining and Quarrying 10 + 11 + 12 + 
+13 + 14 11*, 12*, 13*, 
+14*, 86* 25 ex 252020, 2522, 2523, 26 ex 260120, 2618-2620, 2701-2703, 2709, 271111, 
+271121, 271410, 271490, 710210, 710221, 710231, 710310 
+283* 3 Food products, beverages and tobacco 15 + 16 01*, 02*, 21*, 
+22*, 23*, 24*, 
+25*, 86* 02 ex 020820, 030270, 0303-0305, 030611-030619, 030729, 030739, 030749, 030759, 
+030799, 04 ex 0407, 0409, 0410, 0502, 0504-0507, 0510, 051191-051199, 0710-0712, 
+080620, 0811-0812, 081350, 0814, 090112-090140, 090210, 090230, 100620-100640, 
+11, 1208, 121230, 1214, 1302, 140410, 140420, 15 ex 1505, 1518, 1519, 1520, 152190, 
+16-17, 18 ex 1801, 19-23, 240130, 2402, 2403, 350110, 350210, 350510, 4101-4102, 
+410310, 510119 -4 Textiles; Textile products; Leather and footwear 17 + 18 +19 
+21*, 26*, 27*, 
+28*, 29*, 86* 1505, 4104-4111, 42 ex 420321, 4206, 4302-4303, 5002-5007, 510111, 510121-510130, 
+5105-5113, 52 ex 5201, 53 ex530110, 530210, 530310, 530410, 530511, 530521, 
+530591, 5401, 540261-540269, 540341-540349, 5406-5408, 5506-5516, 56-58, 5901-
+5903, 590699, 5907-5911, 60-62, 630120-630190, 6302-6308, 64, 65 ex 650610 
+650691, 701920, 8804, 911390, 940430, 940490 -5 Wood and products of wood and cork 20 
+31*, 86* 
+440121-440130, 440310, 4405-4421, 45 ex 450110, 46 
+-6 Pulp, paper, paper products; Printing and publishing 21 + 22 
+32*, 47*, 86* 
+47-49, 5905, 844250, 8524 
+-7 Coke, refined petroleum products and nuclear fuel 23 
+33*, 86* 
+2704, 2706, 2710, 271112-271119, 271129, 2712-2713, 284410-284440, 840130 
+-8 Chemicals 24 
+34*, 35*, 47*, 
+48*, 86* 1518-1520, 260120, 2707, 2708, 28 ex 281810, 281820, 284410-284440, 284450, 29-33, 
+34 ex 3406, 35 ex 350110, 350210, 350510, 36 ex 3605, 3606, 37 ex 3706, 38 ex 3801, 
+3816, 382350, 3901-3914, 4002, 4402, 540210-540259, 540310-540339, 5404-5405, 
+5501-5504, 710410, 710420, 8523 -9 Rubber and plastics products 25 
+28*, 36*, 86* 
+3916-3926, 4003-4017, 590610, 590691, 650610, 650691, 854720, 940592 
+-10 Other non-metallic mineral products 26 
+37*, 86* 
+252020, 2522, 2523, 2715, 281810, 3801, 3816, 382350, 68-69, 70 ex 701920, 854610, 
+854620, 854710, 940591 
+-11 Basic metals 27 
+41, 86* 
+2618-2620, 281820, 7106-7111, 72, 7301-7307, 7401-7412, 75 ex 7508, 7601-7609, 78 
+ex 7806, 79 ex 7907, 80 ex 8007, 81 
+-12 
+Fabricated metal products, except machinery and 
+equipment 28 
+38*, 42, 44*, 
+86*, 87* 7308-7314, 731520-731590, 7316-7320, 732211-732219, 7323-7326, 7413-7416, 7418-
+7419, 7610-7616, 7806, 7907, 8007, 82-83, 840110, 840140, 8402-8406, 848510, 9307, 
+9406 -13 Machinery and equipment 29 
+43*, 44*, 86*, 
+87* 630110, 731511-731519, 7321, 732290, 7417, 840120, 840721, 840729, 840790, 
+840810, 840890, 8410, 841181, 841182, 841199, 841221-841290, 8413-8418, 841911, 
+841919, 841931-841990, 8420-8421, 842211, 842220-842290, 8423-8441, 844210-
+844240, 844311, 844319-844390, 8444-8468, 8474-8484, 848590, 8508-8510, 8514-
+8516, 93 ex 9307 -14 Office, accounting and computing machinery 30 
+45*, 86, 87* 
+844312, 8469-8473, 9009 
+-15 Electrical machinery and apparatus, n.e.c 31 
+46*, 86*, 87* 
+842219, 8501-8507, 8511-8513, 8530-8531, 8535-8539, 8543-8545, 854690, 854790, 
+8548, 900662, 940510-940560, 940599 
+-16 Radio, television and communication equipment 32 
+47*, 86* 
+8517-8522, 8525, 8527-8529, 8532-8534, 8540-8542 
+-17 Medical, precision and optical instruments 33 
+48*, 86*, 87* 
+841920, 8526, 90 ex 900662, 9009, 9023, 91 ex 911390, 9402 
+-18 Motor vehicles, trailers and semi-trailers 34 
+43*, 49*, 86*, 
+87* 840731-840734, 840820, 840991, 840999, 8609, 870120, 8702-8708, 871610, 871631-
+871640, 871690 
+-19 Other transport equipment 35 
+43*, 49*, 86*, 
+87* 840710, 840910, 841111-841122, 841191, 841210, 86 ex 8609, 8711-8714, 871680, 
+88ex 8804, 89 
+-20 Manufacturing n.e.c (including furniture); Recycling 36 + 37 
+38*, 86* 3406, 3605, 3606, 420321, 4206, 5904, 6309-6310, 66-67, 710122, 710229, 710239, 
+710391, 710399, 710490, 7105, 7113-7118, 8715, 9023, 92, 9401, 9403, 940410-
+940429, 95-96 -21 Utility 40 + 41 
+17*, 33*, 69*, 
+86* 
+2705, 2716, 284450 
+-22 Construction 45 
+53*, 54* -249 23 Wholesale and retail trade; Repairs 50 + 51 + 52 
+61, 62, 87* -269 24 Hotels and restaurants 55 
+63 -236* 25 Transport and storage 60 + 61 + 
+62 + 63 
+64*, 65, 66, 67 -205, 236* 26 Post and telecommunications 64 
+64*, 68, 84* -245 27 Finance and insurance 65 + 66 + 67 
+71, 73* -260253 28 Real estate activities 70 
+72 -284* 29 Renting of machinery and equipment 71 
+73* -272 30 Computer and related activities 72 
+47*, 83*, 84*, 
+85*, 87* -263 31 Research and development 73 
+81 -279 32 Other business activities 74 
+32*, 38*, 82*, 
+83*, 85* -275-278, 
+280, 284* 33 
+Public administration and defence; Compulsory social 
+security 75 
+91 --34 Education 80 
+92 -289* 35 Health and social work 85 
+93 -289* 36 Other community, social and personal services 90 + 91 + 
+92 + 93 38*, 84*, 94*, 
+95*, 96*, 97* -284, 282, 
+289* 37 
+Private households with employed persons and extra-
+territorrial organisations and bodies 95 + 99 
+98, 99 -288 

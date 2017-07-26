@@ -1,0 +1,1617 @@
+Please cite this paper as: Hertel, T. and J. Liu (2016),  " Implications of water scarcity for 
+economic growth " , OECD Environment Working Papers, 
+No. 109, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/5jlssl611r32-en OECD Environment Working Papers 
+No. 109 Implications of water 
+scarcity for economic 
+growth Thomas W. Hertel, Jing Liu JEL Classification: C68, O44, Q15, Q25 Unclassified ENV/WKP(2016)11 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 08-Aug-2016 
+___________________________________________________________________________________________ 
+_____________ 
+English -Or. English ENVIRONMENT DIRECTORATE IMPLICATIONS OF WATER SCARCITY FOR ECONOMIC GROWTH -ENVIRONMENT 
+WORKING PAPER No. 109 by Thomas W. Hertel (1), Jing Liu (1) (1) Purdue University, USA OECD Working Papers should not be reported as representing the official views of the OECD or of its member 
+countries. The opinions expressed and arguments employed are those of the author(s). Authorised for publication by Simon Upton, Director, Environment Directorate. Keywords: water use, water scarcity, economic growth, CGE model. JEL classification: C68, O44, Q15, Q25. Contact person at OECD: 
+Rob Dellink, Co-ordinator Modelling and Outlooks, Environment Directorate, rob.dellink@oecd.org OECD Environment working papers are available at www.oecd.org/environment/workingpapers.htm JT03399681 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. ENV/WKP(2016)11 
+Unclassified English -Or. English Cancels & replaces the same document of 02 June 2016 ENV/WKP(2016)11 2 OECD ENVIRONMENT WORKING PAPERS OECD Working Papers should not be reported as representing the official views of the OECD or of its 
+member countries. The opinions expressed and arguments employed are those of the author(s). OECD Working Papers describe preliminary results or research in progress by the author(s) and are 
+published to stimulate discussion on a broad range of issues on which the OECD works. This series is designed to make available to a wider readership selected studies on environmental 
+issues prepared for use within the OECD. Authorship is usually collective, but principal author(s) are 
+named. The papers are generally available only in their original language -English or French-with a 
+summary in the other language. Comments on OECD Working Papers are welcomed, and may be sent to: OECD Environment Directorate 
+2, rue André Pascal, 75775 PARIS CEDEX 16, France 
+or by e-mail to env.contact@oecd.org ---------------------------------------------------------------------------
+OECD Environment Working Papers are published on 
+www.oecd.org/environment/workingpapers.htm 
+---------------------------------------------------------------------------This document and any map included herein are without prejudice to the status of or sovereignty over any 
+territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city 
+or area. The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli authorities. 
+The use of such data by the OECD is without prejudice to the status of the Golan Heights, East Jerusalem 
+and Israeli settlements in the West Bank under the terms of international law. © OECD (2016) You can copy, download or print OECD content for your own use, and you can include excerpts from OECD 
+publications, databases and multimedia products in your own documents, presentations, blogs, websites and 
+teaching materials, provided that suitable acknowledgment of OECD as source and copyright owner is given. 
+All requests for commercial use and translation rights should be submitted to rights@oecd.org. ENV/WKP(2016)11 3 ABSTRACT Global freshwater demand is projected to increase substantially in the coming decades, making water 
+one of the most fiercely contested resources on the planet. Water is linked to many economic activities, 
+and there are complex channels through which water affects economic growth. The purpose of this report 
+is to provide background information useful for a quantitative global assessment of the impact of water 
+scarcity on growth using a multi-region, recursive-dynamic, Computable General Equilibrium (CGE) 
+model. The paper provides a detailed review of the literature on water, water scarcity, sectoral activity 
+and economic growth, and identifies the possibilities and bottlenecks in incorporating water use into a 
+CGE framework. It covers agricultural water consumption, with special attention to irrigation, water use 
+in energy production, and demands for water by households, industry and services. Finally, it discusses 
+water supply and allocation. Based on the evidence assembled, there appear to have been relatively few instances in which water 
+scarcity has significantly slowed the long term rate of national economic growth. Furthermore, in 
+reviewing the literature on water demand, the ample opportunities for conserving water across the board 
+are striking, including in the electric power sector, the production of industrial steam, residential 
+consumption, and irrigated agriculture. In our opinion, the main reason why such substitution has not 
+been more widespread to date is due to the absence of economic incentives for conservation. The 
+presence of large inter-sectoral distortion heightens the need for general equilibrium analysis. But 
+implementation of a global CGE model with detailed representation of water demand and supply will be a 
+significant undertaking. It is essential to break out water from the other inputs in the CGE model, treat 
+water as both an input and an output, and add sectoral detail, with special attention to crop irrigation. 
+Furthermore, there are challenges in assigning appropriate values to water and specifying allocation rules 
+for dealing with water scarcity. Keywords: water use, water scarcity, economic growth, CGE model. JEL classification: C68, O44, Q15, Q25. ENV/WKP(2016)11 4 RÉSUMÉ La demande mondiale d'eau douce devrait augmenter de manière substantielles dans les prochaines 
+décennies, faisant de l'eau l'une des ressources les plus disputées de la planète. L'eau est liée à toutes les 
+activités économiques et affecte la croissance par de multiples canaux. Le but de ce rapport est de donner 
+les éléments de fond qui sont utiles à la mise en place d'une évaluation globale de l'impact de la rareté en 
+eau sur la croissance économique dans un modèle d'équilibre général calculable (EGC) multi-périodes et 
+multi-régions. Ce papier fournit une revue détaillée de la littérature sur l'eau, la rareté en eau, l'activité 
+sectorielle et la croissance économique; et identifie les possibilités et les goulots d'étranglement en 
+incorporant l'utilisation de l'eau dans le cadre d'un EGC. Il couvre la consommation d'eau pour 
+l'agriculture, avec une attention particulière pour l'irrigation, ainsi que l'utilisation de l'eau pour la 
+production d'énergie, et la demande d'eau des ménages, de l'industrie et des services. Enfin, il discute du 
+problème de la fourniture d'eau et de son allocation. Sur la base des éléments rassemblés, il semble qu'il y ait eu relativement peu d'exemples où la 
+rareté en eau ait ralenti significativement le taux de croissance économique de long terme. De plus, en 
+considérant la littérature sur la demande en eau, il est frappant de voir les grandes opportunités qui 
+existent pour économiser l'eau, notamment dans les secteurs de la production d'électricité, de vapeur pour 
+l'industrie, dans la consommation résidentielle et l'agriculture irriguée. Selon nous, la principale raison 
+pour laquelle une telle substitution ne s'est pas diffusée jusqu'à présent est liée à l'absence d'incitations 
+économiques à utiliser moins d'eau. L'existence de larges distorsions entre les secteurs rend hautement 
+nécessaire une analyse d'équilibre général. Mais la mise en place d'un modèle EGC mondial avec une 
+représentation détaillée de l'offre et de la demande d'eau sera une entreprise importante. Il est essentiel de 
+séparer l'eau des autres inputs de l'EGC, de traiter l'eau à la fois comme un input et un output, et 
+d'ajouter du détail sectoriel, avec une attention spécifique portée sur les cultures irriguées. De plus, il y a 
+des défis à relever pour donner à l'eau une valeur dans le modèle et pour spécifier les règles d'allocation 
+en cas de rareté. Mots clés : demande d'eau, rareté en eau, croissance économique, modèle EGC. Classification JEL: C68, O44, Q15, Q25. ENV/WKP(2016)11 5 TABLE OF CONTENTS ABSTRACT .................................................................................................................................................... 3 RÉSUMÉ ........................................................................................................................................................ 4 LIST OF ACRONYMS .................................................................................................................................. 7 1. MOTIVATION AND OVERVIEW ........................................................................................................... 8 1.1. Water in the Global Economy .............................................................................................................. 8 
+1.2. Implications for economic growth ........................................................................................................ 8 2. AGRICULTURE: THE LARGEST CONSUMER OF WATER ............................................................. 16 2.1. Extent of irrigation ............................................................................................................................. 17 
+2.2. Water in livestock production ............................................................................................................ 22 
+2.3. Contribution of irrigation to agricultural production, by region ........................................................ 23 
+2.4. Scope for improvements in water use efficiency................................................................................ 24 
+2.5. Irrigation stress resulting from climate change .................................................................................. 26 
+2.6. Modelling irrigated cropping in a global CGE framework ................................................................ 27 3. WATER USE IN ENERGY PRODUCTION ........................................................................................... 31 3.1. Water use for hydropower production ................................................................................................ 33 
+3.2. Water consumption by conventional power plants ............................................................................. 33 
+3.3. Water for biofuels ............................................................................................................................... 36 
+3.4. Implications for CGE modelling ........................................................................................................ 36 4. RESIDENTIAL DEMAND FOR WATER .............................................................................................. 36 4.1. Residential Demand in Industrialised Economies .............................................................................. 36 
+4.2. Residential Demand in Developing Economies ................................................................................. 37 
+4.3. Implications for CGE modelling ........................................................................................................ 38 5. COMMERCIAL AND INDUSTRIAL DEMAND FOR WATER .......................................................... 39 5.1. Commercial water demand ................................................................................................................. 39 
+5.2. Industrial water demand ..................................................................................................................... 39 
+5.3. Implications for CGE modelling ........................................................................................................ 39 6. ENVIRONMENTAL DEMANDS ........................................................................................................... 40 7. WATER SUPPLY AND ALLOCATION ................................................................................................ 41 7.1. Reuse of water .................................................................................................................................... 41 
+7.2. Economy-wide water Supply ............................................................................................................. 42 
+7.3. Allocation across sectors .................................................................................................................... 43 
+7.4. Implications for CGE Modelling ........................................................................................................ 45 8. CONCLUSIONS AND RESEARCH PRIORITIES ................................................................................. 46 8.1. Summary of Findings ......................................................................................................................... 46 
+8.2. Research Agenda ................................................................................................................................ 47 REFERENCES ............................................................................................................................................. 49 ENV/WKP(2016)11 6 Figures Figure 1.The optimal rate of water utilisation ............................................................................................. 9 
+Figure 2. Welfare cost of an implicit subsidy on water used in Agriculture (A) ...................................... 13 
+Figure 3. Welfare implications of a rise in world food prices facing an agricultural exporter .................. 14 
+Figure 4. Percent of cropland that is irrigated, by grid cell area, globally ................................................ 17 
+Figure 5. Area equipped for irrigation: historical and projected (Mha) .................................................... 18 
+Figure 6. Groundwater withdrawals in selected countries ........................................................................ 19 
+Figure 7. Long term average groundwater recharge rates (mm/year) ....................................................... 20 
+Figure 8. Competition for land and water in the GTAP-BIO-W model .................................................... 29 
+Figure 9. Agricultural land composite in TERM-H2O.............................................................................. 30 
+Figure 10. Water for energy production .................................................................................................... 32 
+Figure 11. Electric power generation cooling technologies available in India .......................................... 34 
+Figure 12. Marginal cost of water conservation in the electric power sector in India .............................. 35 
+Figure 13. Distribution of estimates of residential price elasticity of demand for water .......................... 37 
+Figure 14. Ecological water requirements as a percentage of long term mean annual river flow ............. 41 
+Figure 15. Projected adequacy of water for irrigation in 2030, based on simulations of the IMPACT-
+WATER model .......................................................................................................................................... 42 
+Figure 16. Cost of increasing water availability in India in 2030 through conservation and supply 
+conservation and supply considerations .................................................................................................... 45 ENV/WKP(2016)11 7 LIST OF ACRONYMS AEZ 
+Agro-Ecological Zone AgLU 
+[name of model] BRIICS 
+Brazil, Russia, India, Indonesia, China, South-Africa CDE 
+Constant Difference in Elasticities CES 
+Constant Elasticity of Substitution CET 
+Constant Elasticity of Transformation CGE 
+Computable General Equilibrium CO 2 
+Carbon dioxide ENV-Linkages 
+[name of model] EV 
+Equivalent Variation FAO 
+Food and Agriculture Organization of the United Nations FARM 
+[name of model] GDP 
+Gross Domestic Product GTAP 
+Global Trade Analysis Project GTAP-BIO-W 
+[name of model] GTAP-W 
+[name of model] IAM 
+Integrated Assessment Model IEA 
+International Energy Agency IFPRI 
+International Food Policy Research Institute IMPACT-WATER 
+[name of model] IWMI 
+International Water Management Institute MAGNET 
+[name of model] MVP 
+Marginal Value Product SIC 
+International Standard Industrial Classification TERM-H2O 
+[name of model] ENV/WKP(2016)11 8 1. MOTIVATION AND OVERVIEW 1.1. Water in the Global Economy The links between water scarcity and economic growth are complex and are only gradually 
+becoming apparent. There is relatively little literature that convincingly links water scarcity to economic 
+growth; the seminal work in this respect is Sadoff et al. (2015). They find a strong relationship between 
+water insecurity and growth, using a 113 country panel data analysis. The OECD Environmental Outlook 
+Baseline projects future demand for global freshwater (or more precisely  " blue water "  excluding rainfed 
+agriculture) to increase by 55% between 2000 and 2050 and this is expected to make water one of the 
+most fiercely contested resources on the face of the planet (OECD, 2012). However, the projected pattern 
+of growth in demand for water is quite varied, with water use in the OECD countries declining over this 
+period, while growth in the BRIICS region is expected to nearly double (Figure 5.4, OECD, 2012). The 
+same report also identifies the complex channels through which water affects economic growth. Sorting 
+these out requires a more complete model of the global economy. The purpose of this report is to provide 
+background information useful for such a quantitative global assessment of the impact of water scarcity 
+on growth using a multi-region, recursive-dynamic, Computable General Equilibrium (CGE) model, such 
+as the OECD's ENV-Linkages model. Issues related to the quality of water are beyond the scope of this 
+report. 1.2. Implications for economic growth Before embarking on a detailed review of the literature on water, water scarcity, sectoral activity and 
+economic growth, it is useful to revisit several strands of economic theory to put this issue in context. 
+This report explores three different aggregate economic models, each of which treats water in a different 
+way. In so doing, it sheds light on several dimensions of water's impacts on economic growth which will 
+need to be taken into account as we move forward with the incorporation of water into a CGE framework. 1.2.1. Water as a publicly provided good, subject to congestion A suitable starting point is the framework developed by Barbier (2004) who views water as a 
+publicly provided input into economic production. Individual firms' draw on a common pool of water for 
+their activities so that their firm level output depends on the aggregate rate of water withdrawal. If 
+decision makers wish to make more water available to individual firms, the aggregate rate of withdrawal 
+must rise, relative to aggregate output. Furthermore, since this publicly provided input is subject to 
+congestion, as the rate of withdrawal rises, relative to aggregate output, the marginal productivity of that 
+water in any individual firms' production declines. This is a clever way of dealing with the reuse problem 
+which will be discussed in more detail later in this report. Reuse presents a great challenge in regional and 
+national scale modelling, since water passing through one use is often reused downstream – after 
+appropriate treatment. On the supply side, the cost of providing additional water increases at an increasing 
+rate in Barbier's model, before eventually reaching some maximum rate of withdrawals determined by the 
+region's hydrological limits. ENV/WKP(2016)11 9 Figure 1. The optimal rate of water utilisation Source: Reproduced from Barbier (2004) When embedded within an optimal growth model, which accounts for the fact that resources devoted 
+to water extraction cannot be used to accumulate productive capital, an inverted-U shaped relationship 
+emerges between water withdrawals and economic growth (Figure 1). On the horizontal axis is the rate of 
+water utilisation, relative to total fresh water availability, and on the vertical axis is the economy's growth 
+rate. Within this framework, at any given point in time, there is an optimal rate of water withdrawal at 
+which the overall growth rate is maximised. Anything to the left of the optimal rate of withdrawal 
+suggests that the economy could benefit from greater public investment in water infrastructure since, at 
+the margin, the marginal cost of provision is lower than the marginal benefits conferred from greater 
+availability for firms or households in the economy. On the other hand, economies that find themselves to 
+the right of the optimum are devoting too many resources to water extraction. This could be either due to 
+very low water availability, or to an economy which is overly intensive in its use of water. Having developed this model, Barbier proceeds to estimate its key parameters using cross-section 
+data for 163 countries in the 1990's. The model shows the expected properties (inverted U-shaped 
+relationship), and the parameter values imply a positive elasticity of growth with respect to withdrawals. 
+For example, a 10% increase in the rate of water utilisation could increase the average growth rate in the 
+sample of countries from 1.3 % per capita to 1.33 % per capita. He concludes:  " Our estimations of this 
+relationship also suggest that current rates of fresh water utilisation in the vast majority of countries are 
+not constraining economic growth. To the contrary, most countries may be able to increase growth by 
+utilising more of their fresh water resources, although there are obvious limits on how much additional 
+growth can be generated in this way. "  Barbier does find that sixteen of the countries in his sample (about 
+10 % of the observations) do face conditions of extreme water scarcity, and in these cases, further 
+statistical tests suggest that growth may be adversely affected by lack of water. This suggests that, during 
+the historical period examined, and when assessed at national scale, the problem of water scarcity 
+constraining economic growth was likely quite limited. However, in practice, water supply and demand rarely respect national boundaries and so the 
+analysis of water scarcity and economic growth is not naturally amenable to country-level analysis. It may 
+be that the growth of subnational entities are more obviously constrained by water scarcity, but this fact 
+gets obscured when they are aggregated with unconstrained river basins. This is likely to be particularly 
+problematic for large countries and countries which draw on many river basins. Suffice it to say, at this 
+point, that, while Barbier finds little evidence of water scarcity constraining growth at the national level, ENV/WKP(2016)11 10 this does not preclude water scarcity being more widespread at the sub-national level. Subnational 
+analyses are also important due to the imperfect substitutability of ground for surface water (OECD, 
+2015a). Some regions rely heavily on one or the other, and, as shown below this can have important 
+consequences for economic growth. 1.2.2. Aggregate Production Function Approach Continuing in the spirit of Barbier's work, but now thinking about water as an input (W) into a 
+national production function, GDP (denoted as y) can be written as a function of water and a composite 
+input comprising both physical and human capital (K): 
+( , ) 
+y f K W 
+ 
+. For simplicity let us assume that 
+this production function is of the Constant Elasticity of Substitution (CES) variety so that substitution 
+possibilities in this economy can be characterised by a constant elasticity of substitution,  . As society 
+accumulates additional capital, one expects the capital/water ratio: / 
+KW to rise, thereby inducing relative 
+scarcity of water – assuming that the overall supply of water is limited by the hydrological cycle. In such 
+an economy, the value of  is critical to the potential for long run growth in this economy. If firms and 
+households can take advantage of the increasingly abundant capital to invest in water-saving or reuse 
+technologies, and if these technologies are sufficiently effective, then growth will proceed apace. This is 
+indicative of an economy with a large value of  . Indeed, provided 
+1 
+  , even in the absence of water-saving technological change, the share of water in GDP will diminish over time as the economy becomes 
+more and more water-efficient through capital-water substitution. On the other hand, in an economy 
+where output per gallon of water cannot be increased via capital investment ( 0   ), growth will be curtailed if water supplies cannot be increased through additional capital investment. Therefore, from an 
+empirical point of view, it is important to obtain accurate estimates of the sectoral elasticity of 
+substitution between other inputs and water. In practice the economy comprises many sectors, each with many different end uses for water. Water 
+can also be processed and reused in many cases. Therefore, an economy-wide estimate of  needs to 
+reflect the possibility of such reuse. In addition, it must reflect not only the ability to become more 
+efficient in specific end uses, but also the possibility of eliminating some end uses altogether. The 
+economy-wide estimate of  must also incorporate the potential to substitute away from products 
+produced by particularly water-intensive technologies. These types of intra-and inter-sector substitution 
+relationships are difficult to capture in a single aggregate economic model. However, the goal of 
+multisector Computable General Equilibrium (CGE) models is to capture these effects. By including 
+within the model the potential for technical substitution and innovations at a disaggregated level, as well 
+as the potential to substitute away from water intensive intermediate and final goods, CGE models allow 
+for an accurate assessment of the economy-wide potential for substitution of capital and other inputs for 
+water. This is why CGE models will be a focal point of this survey of water scarcity and economic 
+growth. 1.2.3. Water and Growth in a CGE Framework A natural way to think about economic growth within a CGE framework is to track the per capita 
+utility of a representative household in the economy. From a policy perspective, changes in utility are 
+typically translated into monetary terms (e.g. USD) using the concept of equivalent variation (EV), or the 
+change in real income associated with a reduction in water availability. EV is likely to be affected via a 
+number of different channels. This section explores these channels in some detail, as they will determine 
+the ultimate impact of water scarcity on economic growth and welfare. As this discussion requires some 
+technical background, the following sub-section develops these ideas in detail. The reader solely 
+interested in policy implications can skip over this sub-section and go immediately to the policy sub-
+section. ENV/WKP(2016)11 11 Technical Preliminaries: Equation (1) provides a stylised decomposition of regional economic 
+welfare in the context of a global CGE model (Huff and Hertel 2001). (Notation will be introduced as we 
+discuss this equation.) For the sake of compactness, this expression abstracts from the impact of emerging 
+new economic activities, increased scale of production, and endogenous productivity, as would be found 
+in many contemporary CGE applications. These are readily incorporated in an extended welfare 
+decomposition. However, water scarcity is unlikely to play a large role in any of these components of 
+economic growth. Equation (1) also abstracts from capital depreciation, taxes/subsidies on intermediate 
+inputs, and exogenous changes in efficiency. All of these considerations are typically also included in 
+global CGE analyses – in particular those based on the GTAP framework. However, they are not required 
+to make the key points under consideration 
+here. Before proceeding, note that the EV 
+decomposition in equation (1) refers to the 
+change in welfare in region s – just one 
+region of the many in the global economy 
+where r denotes a trading partner region 
+which is the source of imports into our 
+focus region, s. s  is a scaling factor which is normalised to one initially, but changes as 
+a function of the marginal cost of utility in 
+the presence of non-homothetic preferences 
+(McDougall 2003). The subscripts i refer to 
+produced commodities, of which there are 
+N in total. As shown below, in most CGE 
+models, this is where municipal water 
+shows up since the municipal water supply 
+is provided by a public utility using scarce 
+resources. Water can also appear as an 
+endowment, alongside capital, labour and 
+land, of which there are E endowments in 
+total, each potentially employed in any of 
+the J sectors. In this case, one thinks of the 
+sector in question extracting the water as part of its sectoral production function. Obviously this would be 
+the case for the municipal utility providing water as an intermediate input to other sectors. However, it 
+also applies to farms which pump groundwater for use in irrigating their crops, and industries which 
+supply their own water. In this case, the capital, labour and energy used in groundwater pumping 
+embedded in the production function for the irrigated sector. So water can show up in several places in 
+this welfare decomposition. Ultimately water availability traces back to physical endowments of water 
+and it is the scarcity of this water endowment which will be our focus here. The first way in which water scarcity affects welfare in this economy is the most obvious, direct 
+channel – namely there is less water available for use! In the case of water endowments, this is captured by the first term in brackets  
+ ( 
+/ 
+) is 
+is 
+is 
+is PE QE dQE QE 
+which reflects the current valuation of water's 
+contribution to the economy, based on the 'shadow price' of water (i.e. Endowment i) in region s  
+ is PE , and its quantity  
+ is QE , thereupon multiplying this valuation of water by the proportional    
+  
+  
+  
+  
+  
+  
+  
+ 1 11 1 1 1 11 11 11 ( 
+/ 
+) E is 
+is 
+is 
+is 
+i EJ Eijs 
+ijs 
+ijs 
+ij N Ois 
+is 
+is 
+i N CDis 
+is 
+is 
+i 
+ss 
+N CMis 
+is 
+is 
+i NR Mirs 
+irs 
+irs 
+ir NR irs 
+irs 
+ir NR irs 
+irs 
+ir PE QE dQE QE PFE dQFE PD dQO PD dQD 
+EV PM dQM PCIF dQMS QMS dPFOB QMS dPCIF    
+ 
+              
+              
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ (1) ENV/WKP(2016)11 12 change in its availability, ( / 
+) is 
+is dQE QE 1 . So if the contribution of water to the regional economy is USD 
+1billion, and there is a 10% reduction in its availability, then a first-order guess at the welfare cost would 
+be 0.10*USD 1bill. = USD 100mill. This is just a first-order estimate, since any reduction in available 
+water will affect the marginal value product of water. It is also the kind of estimate which can be 
+generated without resource to an economy-wide model. Of course, such a shortage will also interact with 
+other features of the economy – hence the need for economic modelling in the context of the CIRCLE 
+project. The subsequent discussion draws out the most important types of interactions which the 
+economic model will need to capture. In a market-based model (the problem presented by the absence of water markets will be discussed 
+shortly), the valuation of water is embedded in the market price, which is expected to rise with increasing 
+scarcity. Whether or not the proportionate rise in price exceeds the proportionate decline in water 
+availability can be related directly back to the economy-wide elasticity of substitution discussed above. If 1 
+  , then price will rise less than quantity, and the value pre-multiplying the proportional change in water availability to the economy will fall. On the other hand, if water is essential to household and firm production processes ( 1 
+  ), then price will rise faster than the quantity reduction and the valuation of water in the economy will rise as water becomes more scarce. In this case, the penalty for the first 1% cut 
+in water will be less than that which applies when cumulative reductions have reached 10%. The 
+empirical literature on the price elasticity of demand for water discussed throughout this survey provides 
+support for the hypothesis that, in many cases, 1 
+  is observed – at least at the level of individual firms and households. This direct impact of water scarcity on per capita regional welfare notwithstanding, there are quite a 
+number of other ways in which water scarcity can affect welfare in region s. The first is via reallocation of 
+water. As seen for example with the frequent droughts in California, water scarcity can result in 
+significant shifts in different sectors' claims on the diminished water resources. 2 When the marginal value 
+product of water in different uses differs greatly within an economy, there is considerable potential for 
+'second best' efficiency effects from such reallocations. Consider the situation portrayed in Figure 2a in 
+which a pre-determined amount of water withdrawals, W , is allocated between sectors A and B, as 
+reflected by the initial allocations: A 
+W and B 
+W . This pattern of water allocation reflects the presence of an 
+implicit subsidy on water use in sector A – or equivalently – a tax on Endowment Water use in sector B 
+of region s: EWBs 
+ 
+--since the marginal value product of water in A (read off the * 
+Aasegment) is lower 
+than that in B (read off the * 
+Bbsegment) at the initial equilibrium denoted by point e. Without the 
+tax/subsidy, the equilibrium allocation would be * 
+W . The loss in economic efficiency to this economy 
+from this distorted use of water is measured by the shaded area in Figure 2. 1 . 
+This expression offers a local approximation to EV, for large changes, the price and quantity levels must 
+also change. The ensuing numerical integration is what allows us to compute the sources of EV for large 
+shocks. 2 . 
+The substitutability between surface water and groundwater also matters when considering reallocation. ENV/WKP(2016)11 13 Figure 2. Welfare cost of an implicit subsidy on water used in Agriculture (A) Source: Authors' own elaboration Several CGE studies have sought to quantify this loss in efficiency. For example, in a recent study of 
+water and economic growth in South Africa, Hassan and Thurlow (2011) estimate that the benefits of 
+reallocation of water within the agricultural sector and across water board regions within the country 
+would amount to a recurring economic gain equal to 4.5% of agricultural GDP. This effect is captured in Equation (1) by the term:  
+ Eijs 
+ijs 
+ijs PFE dQFE  , wherein the implicit subsidy of endowment i to a specific crop (j) in region s is captured by the term  
+ 0 Eijs 
+ijs PFE   due to the presence of a subsidy (negative tax), so that when the amount of water allocated to this use falls, ijs dQFE <0, there is a welfare gain, as anticipated by Figure 2. The same concept applies to the other terms in Equation (1), which refer to output 
+subsidies/taxes, as well as consumption subsidies/taxes. (Intermediate inputs have been excluded from 
+Equation (1) for the sake of simplicity, but can also play a key role.) In short, the larger the initial distortion  
+ Eijs 
+ijs PFE  , and the larger the reallocation of water  
+ ijs dQFE , the greater the potential gain from a reallocation. In her review of the empirical literature on water use and allocation, Olmstead (2013) 
+cites intersectoral price differentials between agriculture and urban uses in the United States wherein the 
+latter can be paying as much as 100 times as much as the former sector pays for water. This suggests that 
+such reallocation effects could be very large indeed. To the extent that increasing water scarcity induces such reallocations of water amongst competing 
+uses, then some of this area can be recouped as an efficiency gain, thereby offsetting some of the loss 
+associated with the water reduction. Another way of thinking about this is to consider a situation in which 
+all of the water shortage is absorbed by sector A. Since the MVP of water in A is less than the average 
+valuation of water in the economy, part of the loss calculated in the first term of Equation (1) will be 
+made up through the reallocation effect captured in the second term of (1). This outcome is consistent 
+with the view of some water analysts that irrigated agriculture is the residual claimant on regional water 
+resources, and it is this sector which will suffer most of the reductions if and when water use is curtailed. ENV/WKP(2016)11 14 Figure 3. Welfare implications of a rise in world food prices facing an agricultural exporter Source: Authors' own elaboration Even if there is not an explicit decision to reallocate water between the two sectors, the presence of 
+this factor market distortion can give rise to unanticipated efficiency changes, provided the allocation of 
+water between the two sectors is subject to adjustment at the margin, as would be the case if this is 
+achieved via a subsidy, a tax, or a quota which is periodically re-evaluated. Consider, for example, the 
+case in which there is an improvement in nonfarm technology over time, such that the marginal value 
+product of water schedule associated with production in sector B rises from * 
+Bb to * 
+Bb  . Then region s 
+will firstly benefit from improved technology (the shaded technology gain area in Figure 3), and it will 
+also gain from the induced reallocation of water from sector A to sector B (efficiency gain area in 
+Figure 3). This kind of interplay between economic growth and water scarcity on the one hand, and pre-
+existing distortions on the other hand, is evidenced in the next three terms in Equation (1). The presence 
+of output subsidies or taxes, consumption taxes on domestic and imported goods, as well as tariffs on 
+imports, will likely interact with the quantity changes induced by water scarcity and sometimes give rise 
+to significant welfare effects at the regional level (Liu et al. 2014). Of course, when the inter-sectoral allocation of water is controlled by quotas, and these quotas are 
+not adjusted over time, then the efficiency change component of Figure 3 will not materialise. However, 
+if the pressure caused by the economic growth in sector B eventually results in a reallocation of quotas, 
+then this principle is applicable. There is an additional efficiency gain, relative to baseline welfare in the 
+economy and it is larger, the greater the initial distortion in the water market EWBs 
+ 
+, and the larger the 
+reallocation of water from sector A to sector B ( dW ). The final two terms in equation (1) refer to the terms of trade effects alluded to above. In practice, 
+most countries engage in two-way trade, such that they are both exporters and importers of most product 
+categories. This makes the terms of trade calculations more complex. It is no longer sufficient to simply 
+focus on a region's net exports. The effect of bilateral changes in export prices ( irs PFOB ) and import 
+prices ( irs PCIF ) for all goods traded with all partner regions must now be considered. Indeed, in an 
+investigation of the trade impacts of projected water scarcity, Liu et al. (2014) find that trading countries 
+are differentially affected depending on how intensively they trade with the economies affected by water 
+scarcity. ENV/WKP(2016)11 15 Policy Implications: From the point of view of policy analysis, the key point of the preceding 
+technical discussion is that water scarcity and economic growth can interact in a variety of ways. Most 
+decision makers think first and foremost about the direct effect: The economy now has fewer resources to 
+work with, therefore growth is expected to slow down, with the extent of this lost welfare depending on 
+the marginal economic value of water to the economy and the size of the shortfall. However, there are 
+many other potential avenues through which water scarcity can affect the economy. By raising the cost of 
+production for water intensive goods and services, water scarcity sends a signal to reduce the output of 
+these sectors. If this releases water to higher value uses, such that most of the adjustment in use occurs in 
+low value (subsidised) sectors, then the losses may not be as great as initially thought. The size of such 
+offsetting gains increases with the size of the initial disparity in effective prices paid for water and the 
+quantity of reallocation which occurs. In her review of the empirical literature on water use and 
+allocation, Olmstead (2013) cites intersectoral price differentials between agriculture and urban uses in 
+the United States where the latter can be paying as much as 100 times as much as the former sector pays 
+for water. 3 This suggests that such reallocation benefits could be very large indeed – especially if the 
+water crisis led this distortion to be reduced. In a global economy, water scarcity also affects the price of traded goods and services. For countries 
+which rely heavily on water-intensive imports, future water scarcity can result in terms of trade losses – or 
+gains in the case of net exporters of these products. If, in addition, these activities are themselves 
+recipients of other sorts of taxes and subsidies, there is potential for additional 'second best' effects. For 
+example, in their analysis of the impact of future water scarcity on global trade and economic welfare, Liu 
+et al. (2014) find that global welfare losses in their 2030 scenario are exacerbated by the increase, relative 
+to baseline, in subsidised agricultural production in the EU and the US – two regions which experience 
+relatively less long run scarcity in water in the aggregate according to the long run projections (Rosegrant 
+et al. 2013). 1.2.4. Virtual Water Trade With water scarcity increasingly influencing commodity trade patterns, a new body of literature has 
+arisen around the concept of 'virtual water trade'. The idea is that nearly all commodities require water in 
+their production process – irrigated agriculture being one of the most striking examples. When water is 
+physically consumed in one region to produce commodities which are themselves exported and consumed 
+in another region, this implicit transfer of water resources is dubbed 'virtual water'. 4 The volume of 
+virtual water trade has grown, along with growth in global trade, and it is estimated to have risen from 
+259 cubic km in 1986 to 567 cubic km in 2007 (Dalin et al., 2012). The concept of virtual water trade is 
+fully consistent with global CGE modelling. Water-augmented global CGE models allow for both the 
+calculation of water embodied in production at a given location, as well as the tracking of bilateral flows 
+from the region of production to the region of consumption. Therefore, they offer an ideal vehicle for 
+predicting how virtual water flows are likely to evolve in the future, including under scenarios of 
+economic reform or climate change (Konar et al., 2013). 3 . 
+More generally, despite encouraging trends, few OECD countries practice full cost recovery for 
+agriculture use through charges, even if this definition is limited to full supply costs (OECD, 2010). 4 . 
+The concept is however subject to multiple shortcomings and found to be unsuitable for policy purposes 
+(e.g., Wichelns, 2010). ENV/WKP(2016)11 16 1.2.5. Implications for the Modelling of Water Scarcity and Growth This brief overview of some of the basic principles behind water scarcity and economic growth 
+provides some important guidelines as it reviews the literature pertaining to specific sectors of the 
+economy. The first point is that the costs of increasing water withdrawals must be factored in, and this 
+cost function should be convex, such that costs rise at an increasing rate. There is empirical support for 
+this characterisation of costs; if they are not present in the model, one risks greatly overstating the benefits 
+from increasing withdrawals. A second point relates to the importance of understanding the extent to 
+which capital, and other inputs, can be substituted for water in response to scarcity. This could come in 
+the form of more efficient equipment, improved recycling of water, or enhanced extraction. 
+Underestimating this potential for capital-water substitution could lead to overstating the costs of water 
+scarcity to the economy. In addition to this type of factor substitution, it is also possible to conserve 
+scarce water through the modification of the mix of products produced and consumed in an economy. 
+Capturing this effect requires understanding how water scarcity feeds through to higher prices for water-
+intensive goods and services, and ultimately alters household consumption patterns. Finally, as water 
+scarcity will affect different parts of the economy, and these different parts are all linked, a multi-sectoral 
+economy-wide analysis using e.g. CGE models, is the suitable tool for investigating how the costs of 
+water scarcity are influenced by feedbacks from scarcity to economic growth. The welfare decomposition discussed above underscores the critical importance of accurately 
+estimating the marginal value product of water in different uses and understanding the mechanism by 
+which water shortfalls are allocated across uses. While quotas are a common vehicle for allocating water 
+to different uses, these are themselves likely to change in response to long run market conditions and 
+these changes must be part of any long run analysis as they will have important implications for economic 
+efficiency and hence economic growth. Finally, it must be borne in mind that CGE models in general, and global CGE models in particular, 
+are only one of many approaches to analysing the impacts of water scarcity. Indeed, as shown in the 
+ensuing literature review, the accurate specification of global CGE models relies heavily on more 
+disaggregated studies of water supply and demand. Most of these studies are partial equilibrium in nature, 
+assuming economic growth is exogenously specified and instead delving into the complexities of water 
+supply and demand in a given watershed or river basin. Such studies are essential inputs into the type of 
+global CGE analysis proposed in the ensuing report. 2. AGRICULTURE: THE LARGEST CONSUMER OF WATER How much water is used to produce food each year? Crop evapotranspiration alone (not including 
+water for food processing and preparation) consumes about one litre of water to produce one calorie 
+(Molden 2007). Using this metric, one can calculate that the total amount of water vaporised in a year to 
+feed today's 7.1 billion people amounts to 7.7 cubic kilometres. One fifth of this water total comes from 
+the application of irrigation water which, in turn, accounts for 70 % of total annual global freshwater 
+withdrawals (Molden 2007). Even though agriculture withdrawals have decreased in some regions over 
+the past decade, they still represented 44% of total freshwater withdrawals of OECD countries (OECD, 
+2013). Although it faces increasingly stiff competition for water from other uses in many parts of the 
+world, agriculture is therefore the largest consumer of water in the global economy and will remain so in ENV/WKP(2016)11 17 the foreseeable future (Faures et al. 2007). This suggests that water use for irrigation deserves special 
+attention in any analysis of the implications of future water scarcity for the global economy. 2.1. Extent of irrigation 2.1.1. Global irrigated area According to the most recent assessment by the FAO, 16% of the world's cultivated cropland is 
+equipped for irrigation (Alexandratos and Bruinsma 2012). Since the use of irrigation is subject to 
+multiple factors including investment, climate condition and water endowment, the extent of irrigation 
+varies considerably across regions (Figure 4). About 70% of the area equipped for irrigation is located in 
+15 Asian countries, 16% in America, 8% in Europe, 5% in Africa and 1% in Oceania (Siebert et al. 2010). 
+The dependency on irrigation can either enhance or impair a country's agricultural comparative 
+advantage, depending on the costs of irrigation and how well irrigation needs can be satisfied. On the 
+beneficial side, reliable and sufficient irrigation boosts yields and reduces agriculture's vulnerability to 
+climate variability. Nonetheless, agriculture that is highly dependent on irrigation may become more 
+fragile under the circumstance of irrigation shortfall. Liu et al. (2014) find that intensively irrigated 
+regions like India, China and Middle East/North Africa may experience increased food imports in the 
+coming decades as water is diverted from agricultural to non-agricultural uses due to rising income 
+growth and urbanisation. Figure 4. Percent of cropland that is irrigated, by grid cell area, globally. Total irrigated area is 285 Mha Source: Siebert et al. (2010) Between the present and 2050, it is expected that net global irrigated area will continue to expand, 
+but more slowly compared with the historical growth, as a result of overall adequacy of current food 
+supply, increasing scarcity of suitable areas for irrigation, more intense competition for water and rising 
+importance of investment in other sectors (Alexandratos and Bruinsma 2012). The estimated 20 million 
+ha net expansion by mid-century is expected to occur almost exclusively in land-scarce developing 
+countries (Figure 5) where increases in agricultural output will depend heavily on yield increases 
+(Bruinsma 2009). Unfortunately, the cropping areas most in need of irrigation are often located in regions 
+where water resources are naturally scarce and facing increasingly stiff competition from other uses. This 
+points to rising opportunity costs of water devoted to irrigation and greater pressure to conserve irrigation 
+water. ENV/WKP(2016)11 18 Figure 5. Area equipped for irrigation: historical and projected (Mha). Source: Bruinsma (2009) In the preceding discussion, and in much of the global agriculture literature, the extent of irrigation is 
+characterised by the area equipped for irrigation. A more relevant indicator tracks the area where 
+irrigation is actually in use. The FAO estimated this fraction to average about 85% (ranging from 
+40-100%, depending on the region) of the global 302 million ha equipped area, during the period 2005/07 
+(Alexandratos and Bruinsma, 2012). The distinction between the two immediately leads to the problem of 
+how to model expansion of irrigation. One suggestion would be to differentiate harvested and physical 
+irrigated area. Expansion reflected by newly irrigated area is typically lower than expansion measured by 
+the growth of areas actually irrigated (10% vs. 12% from 2005/07 to 2050, according to Alexandratos and 
+Bruinsma, 2012), due to the continuing increase in multiple cropping under irrigated conditions. 
+Additionally, the expansion estimated by the FAO is expressed in net terms, thus not taking into account 
+the rehabilitation of existing irrigated areas. Including or excluding this portion of the expansion makes a 
+substantial difference in estimating the investment required to sustain irrigated agriculture. 2.1.2. Water supply for irrigation: Increasing water supply for irrigation is subject to infrastructure constraints (storage and withdrawal 
+facilities) and water source limits (Rosegrant and Cai 2002). The latter is determined by both hydrological 
+flows and the residential, industrial and environmental demands for water. Indeed, agriculture is often the 
+residual claimant of water within a given basin although water allocation regimes vary greatly across 
+countries (e.g., OECD, 2015b). Keeping infrastructure capacity and water use efficiency unchanged, the 
+water budget for irrigation is likely to dwindle as the economy and populations grow. Strzepek and 
+Boehlert (2010) predict an 18% reduction in worldwide water available for agriculture by 2050, mainly 
+caused by increasing environmental flow requirements and larger municipal and industrial demands. 
+OECD (2012) also foresees a lower water demand for irrigation due to increasing competition from other 
+sectors. In hotspots like northern Africa, India, China, parts of Europe, the western United States and 
+eastern Australia, the reduction in water for irrigation could be dramatic. Forty-two percent of world irrigation water withdrawals come from groundwater, and the rest from 
+surface water (Döll et al. 2012). The two sources of water, however, are rarely distinguished in economic 
+models, yet their fundamental characteristics are quite different as are the growth rates and potential 
+hydrological constraints (OECD, 2015a). Groundwater is generally less vulnerable to climate variability 
+than surface water. The two sources of water also compete with different uses. Groundwater, contributes a 
+smaller fraction to public uses: on average, globally, 36% and 27% for households and manufacturing 
+versus 42% for irrigation (Döll et al. 2012). Therefore, it may face less intense competition from non-ENV/WKP(2016)11 19 agricultural uses. 5 Finally, the two sources of irrigation have different environmental impacts, as will be 
+discussed below. Ground water irrigation Groundwater has a number of valuable characteristics. First of all, it is less sensitive to annual 
+climate events as it responds more slowly to meteorological conditions than does surface water. Figure 6. Groundwater withdrawals in selected countries Source: Burke and Villholth (2007) Therefore, the expectation is that the importance of ground water with regard to irrigation supply 
+will intensify as more frequent and severe extreme weather events increase variability in precipitation, 
+soil moisture and surface water (Taylor et al. 2012). During the 2013-15 drought in California, for 
+example, farmers largely turned to groundwater for irrigation, fulfilling up to 70% of lost rain water 
+supplies and contributing to strong agricultural revenues (Gruere, 2015; Medellin-Azuara et al., 2015). 
+However, the slow recovery of groundwater to a dynamic equilibrium state means withdrawal can easily 
+surpass replenishment and lead to groundwater depletion. Over-drafting, especially in the regions that are 
+becoming heavily dependent on groundwater, weakens its buffering effect, potentially making agriculture 
+even more fragile to longer drought duration. Groundwater intensive use also can lead to major 
+environmental externalities, from saline intrusion to land subsidence (OECD, 2015a). Pavelic et al. (2012) 
+show that the average residence time of shallow, accessible groundwater ranges from less than one year to 
+four years, which explains why two or more years of continuous drought could pose a serious problem to 
+farmers relying on groundwater for irrigation. 5 . 
+While agriculture groundwater use is very high in some regions, the overall average share is under 10%, 
+and often minimal in most OECD countries (OECD, 2015b). ENV/WKP(2016)11 20 Although groundwater availability is much less sensitive to climatic conditions compared with 
+surface water, the rate of groundwater recharge could be modified by the altered precipitation pattern 
+under the same aquifer conditions. Regions with high transmissivity and storage volume generally have a 
+higher reliance on groundwater irrigation, especially when climate conditions are favourable to 
+groundwater recharge (Siebert et al. 2010). In low recharge areas, leakages from inefficient irrigation 
+systems actually play a significant role in recharge (OECD, 2015b). In some cases, the linkage between 
+groundwater recharge and geophysical conditions could be complicated by land use change. For example, 
+in the West African semiarid belt, clearing savannah for cropland modified soil properties and infiltration 
+capacities, which substantially increased groundwater recharge (Leblanc et al. 2008). Another advantage of groundwater has to do with accessibility by farmers, and their ability to use it 
+ " on demand "  (OECD, 2015a). While surface water rights are often predetermined and access involves 
+engagement with other institutions, groundwater can in many cases be accessed by simply drilling a well 
+– something under direct control of the farmer. Both of these factors have contributed to rapid growth in 
+groundwater withdrawals in many regions. Figure 6, taken from Burke and Villholth (2007) shows the 
+recent evolution of ground water use in various regions around the world. The growth in India since the 
+inception of the Green Revolution is staggering. Bangladesh, China, Mexico and Tunisia also show very 
+strong growth. Furthermore, some of the strongest growth has been in regions with low recharge rates as 
+shown in Figure 7 (Burke and Villholth 2007). Figure 7. Long term average groundwater recharge rates (mm/year) Source: Burke and Villholth (2007) based on Döll and Flörke (2005) Surface water supplies Global water withdrawal from surface sources has been slowing down recently, from a growth rate 
+of 2% in the 1980s to -1% during 1990-2010 (Wada et al. 2013), largely due to the fact that surface water 
+has already been heavily exploited and that the construction of new reservoirs has been declining since 
+the 1980s (Chao, Wu, and Li 2008; M. W. Rosegrant, Cai, and Cline 2002). Nevertheless, surface water ENV/WKP(2016)11 21 remains the dominant source of irrigation in Europe (70%), Southeast Asia (more than 80%) and South 
+America (Wada et al. 2013). In OECD, surface water occupies two third of irrigated areas (OECD, 
+2015a). Surface water supply is highly climate-dependent. Watershed responses to reduced precipitation 
+(including rain-and snowfall) and higher temperatures are typically amplified, due to vegetation 
+interception and transmission loss (Arnell 2004). Thus, for instance a 20% reduction in rainfall might 
+yield a 50% reduction in runoff (Turral, Svendsen, and Faures 2010). Although warming tends to increase 
+total precipitation and water discharge at the global level (Füssel et al. 2012; Milly, Dunne, and Vecchia 
+2005), this tendency may not translate directly into a more beneficial effect on surface water irrigation in 
+critical regions. This is due to the fact that climate models are predicting an uneven spatial and temporal 
+distribution of precipitation, in which the wet areas get wetter and the dry areas drier. Besides, even where 
+annual precipitation is not expected to decline, seasonal shifts may cause substantial problems if the 
+increased water runoff in rainy season cannot be impounded due to limited storage capacity. The economic literature concerning stochastic surface water supply mainly focuses on its impact on 
+the flow of agricultural goods (e.g. crop output) and services (e.g. crop insurance), but there is much less 
+emphasis on the stock of capital (e.g. infrastructure). A theoretical analysis performed by Fisher and 
+Rubio (1997) shows that a larger variance of the surface water resource caused by climate uncertainty 
+provides an incentive to invest in water reserve infrastructure. In the long-run, the equilibrium level of the 
+capital stock (or water storage capacity) will likely increase in the face of a changing climate. 2.1.3. Water use in agriculture It is common in the irrigation management literature to divide water applied to soil into two main 
+ " fractions " , each with two  " sub-fractions " . The consumed fraction contains beneficial transpiration and 
+non-beneficial evaporation; the non-consumed fraction can be further split into recoverable seepage and 
+non-recoverable seepage (Foster and Perry 2010). Distinguishing between these water categories is useful 
+when studying irrigation efficiency and water productivity, and their interaction with agriculture, 
+resources and environment. Crop consumptive use Consumptive use of water refers to any use that permanently removes water from the natural cycle, 
+such that this portion of water is no longer available for immediate reuse. Water is consumed by crops 
+when it is transpired, evaporated, or incorporated into products, plant tissue and animal tissue. 
+Consumptive water use includes both the beneficial transpiration by crops and the non-beneficial 
+evaporation from wet soil (including weed transpiration). Only the beneficial crop consumptive use 
+contributes directly to biomass generation. To use water in agriculture more efficiently, one can either 
+increase the capacity of crops to utilise water or increase the share of consumptive use relative to non-
+consumptive use. Agricultural water conservation is by no means equivalent to reducing water extraction for irrigation, 
+or making water resources available for non-agricultural uses. However, it does relate directly to increases 
+in the  " output per drop "  of consumptive water use in agriculture. In practice, output has been measured 
+both by quantity and value, which correspond, respectively, to the physical and economic productivity of 
+water. Regions like Sub-Saharan Africa still have great potential to boost yields, thereby increasing 
+physical water productivity; while in some Asian countries, where the yield gap is already small, there 
+appears to be wider scope to increase economic water productivity than to increase physical water 
+productivity (Molden et al., 2007). For these regions, the objective will likely shift to maximising the 
+ " value per drop " , or the economic productivity of consumptive water. ENV/WKP(2016)11 22 Losses associated with water storage and delivery This category of use of irrigation water use refers to the portion of water that is withdrawn but not 
+directly consumed by the crop. Therefore, this includes evaporation from water storage, which accounts 
+for a significant fraction in some regions. For example, reservoir evaporation in Texas amounts to about 
+61% of total agricultural irrigation use during the year 2010 (Wurbs and Ayala, 2014). In Australia, Craig 
+(2005) estimated this loss to be about 40% of the total storage volume. This evaporative loss could 
+increase by about 15% by 2080, due to the effect of higher surface temperatures in the face of climate 
+change (Helfer, Lemckert and Zhang, 2012). Increasing total usable water storage by reducing this type of 
+loss depends on the adoption of evaporation suppression technology, which is driven by the marginal 
+value product of the water to be saved. Another form of non-consumptive use of water in cropland irrigation derives from the water stored 
+in soils. This can be further split into recoverable seepage that infiltrates freshwater aquifers as  " return 
+flows " , as well as the non-recoverable seepage infiltrating a saline aquifer. Much of the water used to 
+flood rice fields or to support fish are also not consumed and is returned to the streamflow. From the point view of farmers and irrigation engineers, the fraction of water use which does not 
+directly contribute to crop production is typically deemed a waste of water. However, when viewed from 
+the perspective of the overall watershed, the non-consumptive crop use is not always a loss (Molden 
+et al. 2010). Rather, in many cases, it appears to be a necessity, and even beneficial to soil and crops. One 
+example is the process called  " salt leaching " . As water evaporates, salts contained in water concentrate in 
+the soil and must be displaced by the movement of water applied in excess of evapotranspiration. Thus, 
+some of the non-consumptive use is unavoidable and needed to maintain the salt balance in the soil 
+(Fereres and Soriano 2007). Infiltration from surface water irrigation in excess of crop requirements also 
+recharges underground water, and downstream water users can benefit from the return flows of upper 
+stream users (Molden et al. 2010). In Japan, irrigation-induced groundwater recharge from paddy rice 
+cultivation is very significant; multiple cities use it as a key to reduce aquifer depletion and mitigate the 
+risk of land subsidence (OECD, 2015a). Understanding these trade-offs is important for building 
+economic models, especially for properly formulating objective functions and constraints. Under certain 
+circumstances, the motivation is probably not to save water or to boost yields, but to obtain benefits like 
+environmental services, or perhaps simply to save on labour and energy. 2.2. Water in livestock production Water for livestock production accounts for 20% of total water used by agriculture (de Fraiture 
+et al. 2007). This includes both the direct use like animal drinking, feed-mixing and service as well as the 
+indirect use for grazing and growing feed crops, but 98% of the water consumption is attributed to the 
+latter-evapotranspiration of blue and green water in the production of feedstuffs. Producing livestock is 
+generally believed to be much more water intensive than producing crops (Mekonnen and Hoekstra 
+2012). For example, the global average water footprint per ton of beef is about 50 times that of vegetables 
+and 10 times to that of cereals. However, water for livestock would be considered to be relatively less 
+costly compared to the nutritional value of livestock and crops. To continue the previous example, the 
+water footprint per gram of beef protein is 5 times of that for cereal protein, and water footprint per gram ENV/WKP(2016)11 23 of beef fat is 3 times of that for nuts fat. 6 Nevertheless, meat-based diets do have a larger water footprint 
+than a vegetarian diet and therefore place additional burdens on limited water resources. Demand for meat will continue to expand in the coming decades, largely driven by world population 
+growth and the nutrition transition taking place in many developing countries. It is likely that aggregate 
+water use in livestock will increase accordingly. There are several factors at work here. One is related to 
+the composition of meat demands due to differences in feed conversion ratios. Beef has a much lower 
+conversion rate (11 times more feed per kilogram meat) than chicken, thus leading to a larger total water 
+footprint. Nevertheless, only 5% of beef feed comes from concentrates (e.g. cereals), as compared with 
+the 73% of chicken feed (Mekonnen and Hoekstra, 2012). This means, in terms of blue water content, the 
+difference between raising beef and chicken is much smaller. As consumer preferences evolve, it is likely 
+that the share of chicken in meat consumption will rise, thereby having indirect impacts on the green and 
+blue water footprints. Another important consideration is the degree of industrialisation in livestock sectors. The three 
+major production systems – grazing, industrial and mixed – have different water requirement profiles. 
+Extensive grazing systems are less efficient in feed conversion and therefore require more land resources 
+than the industrial systems, but grazing systems require a lower fraction of concentrate feeds, they place 
+less stress on blue water, and generate less water pollution than industrial systems for livestock 
+production. Over time, the livestock sector has been shifting away from the extensive grazing systems and 
+towards industrial systems (Taheripour et al., 2013b) – a fact which will have important implications for 
+future water consumption. 2.3. Contribution of irrigation to agricultural production, by region Irrigation was key to the success of the Green Revolution. It contributed substantially to producing 
+more food by boosting yields, increasing cropping intensities (i.e., multiple crops grown sequentially on 
+the same land throughout the year), and enlarging cropped areas; it also enhances the use of 
+complementary inputs (e.g. new cultivars and agrochemicals), thus improving total factor productivity 
+(Evenson and Gollin 2003; Hanjra, Ferede, and Gutta 2009; Huang et al. 2006). In the next few decades, 
+the role of irrigation in maintaining high agricultural productivity will remain critical in the context of 
+growing food demand, limited resources, and more variable climate. Moreover, investment in irrigation 
+can have a multiplier effect – in addition to providing stable output and food at affordable prices, it 
+improves nonfarm employment gain, thereby boosting regional incomes and spending (Namara 
+et al. 2010). In the developing world, irrigation shows a strong linkage with more productive agriculture and 
+poverty reduction. Based on a review of 120 studies that examine agricultural performance in South and 
+Southeast Asian countries, Hussain and Hanjra (2003) show that cropping intensities are generally higher 
+for irrigated than for rain-fed areas (111%-242% vs. 100%-168%). Besides, irrigation often leads to 
+higher cereal crop yield. For example, paddy rice, if it is irrigated, can yield a maximum of 5.5 tons per 
+hectares in the sampled fields, but without irrigation the yield rarely goes above 4 tons per hectares. A 
+recently released report by IFPRI (Svendsen, Ewing, and Msangi 2009) finds that irrigated yields in 
+Africa are typically 1.5 to 3 times of those of rainfed yields. 6 . 
+It should be noted that water footprint measurements do not necessarily relate to the opportunity cost of 
+water, which can lead to blatant misinterpretations. For instance, Anderson and Sumner (2016) show that 
+the actual drought-related footprint (rather than total water footprint) of a serving of beef is lower than 
+that of a serving of almonds or a glass of wine in the California context. ENV/WKP(2016)11 24 In addition to examining the direct effect of water accessibility on agriculture, a large number of 
+studies examine the multiplier effect that spreads the benefits of irrigation to other aspects of rural 
+development and to the broader economy (Hanjra, Ferede, and Gutta 2009; Mukherji and Facon 2009; 
+Smith 2004). Hussain and Hanjra (2003) report in their review that irrigated settings often feature higher 
+incomes (e.g., a 50% boost), less income inequality (the upper bound Gini of 0.53 versus 0.61 for rainfed 
+areas), and lower poverty prevalence (18-53% versus 21-66%). In both developing and developed countries, the value of irrigation is also reflected in how it helps 
+agriculture adapt to climate variability and change. Kucharik and Ramankutty (2005) study corn yield in 
+counties of Nebraska and Kansas during 1947–2001, and find that irrigation reduced corn yield variability 
+by a factor of three. Mendelsohn and Dinar (2003) apply a Ricardian analysis to compare the sensitivity 
+of land value to climate. They report that countries rich in surface water resources generally have a higher 
+tolerance to warmer and drier weather. Besides, the value of irrigated farm land increases faster than rain-
+fed farm land, probably because irrigation becomes more valuable as climate gets warmer. Recent 
+research by Lobell et al. (2014) highlights the rising sensitivity of non-irrigated crops to drought in the 
+Midwest of the US, thus emphasising the importance of supplementary irrigation. 2.4. Scope for improvements in water use efficiency The terminology underpinning discussion of water use efficiency in the water management literature 
+has undergone incremental improvements since 1950s (Perry, 2007). This section focuses on two 
+concepts – irrigation efficiency and water productivity. Irrigation efficiency is concerned with the reliable 
+and precise delivery of water to plants, while water productivity describes the fraction of applied water 
+which is actually consumed by crops. In an economic model with water, the former speaks to irrigation 
+water supply, while the latter has to do with irrigation water demand, especially the demand shift induced 
+by technological change. The two concepts represent different approaches, but both aim to quantify the 
+extent to which water is used more efficiently in agriculture. Water use efficiency is critical in determining how the goal of providing sufficient food for the 
+world will be achieved. Plusquellec (2002) estimates that 60% of the additional food in the next few 
+decades will be provided by irrigated agriculture. To support such an expansion in irrigated output, world 
+agriculture needs to consume additional water, or use the current extraction in a more productive way, or 
+both. If irrigation efficiency remains at today's level, the annual agricultural evapotranspiration may need 
+to double in order to feed the world in 2050. But with appropriate agricultural practices, this increase 
+could be held down to 60% (Rockström et al., 2007). The scope for improving irrigation efficiency and 
+water productivity will be discussed below. 2.4.1. Improvements to irrigation efficiency Irrigation efficiency can be defined as the ratio of crop water requirement to irrigation water 
+withdrawal. Here water requirement includes both crop uptake and other beneficial uses like microclimate 
+cooling and salt leaching. According to the FAO, average world irrigation efficiency was around 50% in 
+2005/2007. In other words, about one-half of the water withdrawal is  " lost "  between the source and the 
+destination. Among all the regions, sub-Saharan Africa has the lowest irrigation efficiency, averaging 
+about half of global efficiency (Alexandratos and Bruinsma, 2012). In the context of economic analyses, irrigation use is affected both by exogenous technological 
+changes (pure efficiency gains) and endogenous economic responses to the ensuing changes in relative 
+input scarcity and profitability. In terms of production economics, exogenous technological progress 
+captures those factors which result in a pure outward shift of the production function. This can only be 
+endogenised by incorporating a link between research and development and productivity growth. On the ENV/WKP(2016)11 25 other hand, changing economic conditions, and water scarcity in particular, can lead to changes in relative 
+input prices which also dictate improvements in water use efficiency – but this time due to new 
+investments based on existing knowledge. The interplay between exogenous technological change and endogenous, profit-driven responses on 
+the part of individual firms can result in counter-intuitive outcomes. For example, one would expect that 
+the exogenous introduction of more efficient irrigation technology would conserve water use in 
+agriculture. However, several studies have found evidence in contrast to this widely-held belief (OECD, 
+2016b). For example, Pfeiffer and Lin (2014) find that farmers tended to irrigate larger areas and shifted 
+towards more water intensive crops after switching to a more efficient irrigation technology which proved 
+more profitable. In natural resource and energy economics, this phenomenon is referred to as  " Jevon's 
+paradox " . This is the case where the increase in overall use, following the introduction of a new 
+technology, more than offsets the resource saving impact of increasing efficiency per unit of output. 
+Another example comes from a simulation study conducted by Ward and Pulido-Velazquez (2008) based 
+on the Upper Rio Grande Basin. They illustrate a situation where a drip irrigation subsidy for upper 
+stream irrigators reduces return flow, leading to larger depletion of downstream water. The overall 
+withdrawal from the basin turns out to be larger than before the subsidy for drip irrigation was provided. 7 One implication from these cases is that, when the goal is to conserve water, technological change 
+needs to be accompanied by corresponding institutional and legislative changes (e.g. extraction quotas or 
+taxes) if one wishes to avoid expansion in overall use. Furthermore, an integrated perspective is needed in 
+public policy debates. Taking the Upper Rio Grande Basin study for example, upper stream farmers 
+definitely win with yield gains and savings in energy for pumping and delivering water, but at the cost of 
+impairing the water rights of downstream users. If from the national view, the evaluation should also 
+consider whether the net income gains can compensate the cost to taxpayers and the forgone 
+environmental benefits. 2.4.2. Improving the efficiency of crop utilisation of water: Water productivity Unlike irrigation efficiency that measures the share of the diverted water finally applied to plants, 
+crop utilisation efficiency measures water productivity, or  " output per drop " . More output per drop can be 
+achieved through two pathways – raising yields (increasing the numerator) and reducing non-beneficial 
+consumptive water use (decreasing the denominator). Increasing water productivity places emphasis on 
+agricultural practices. For example, limiting non-beneficial evaporative loss could boost yields from 1 to 
+3 t/ha; limiting deep percolation of rainfall could further boost yields by another 2 t/ha (Rockström et al., 
+2010). In other cases, the efficiency-enhancing practice may not directly relate to water. Increasing the 
+harvest index, better pest and disease control, and adopting drought-tolerant cultivars all contribute to 
+raising yield relative to evapotranspiration, and therefore result in more crop per drop. Given political-
+economy issues, it may, however, not be easy for governments to re-allocate the water rights currently 
+assigned to high water users when these improve their management practices, and hence policies to 
+improve water productivity need to be well aligned with other measures to ensure that total water use is 
+reduced. It is well recognised that there is considerable room to improve water productivity. Rockström et al., 
+(2010a) hold the view that current food security concerns related to water are not an issue of water 
+scarcity per se, but rather a consequence of the ineffective management of water, soils and crops. Indeed, 7 . 
+Water efficiency investments can also incite farmers to follow a path of specialisation in irrigated crops, 
+which in the end would make them more dependent on water resources and the risks associated with 
+climate change (OECD, 2016b). ENV/WKP(2016)11 26 a number of recent findings confirm a nonlinear relationship between water productivity and yields (see 
+the summary in Rockström et al., 2007). At a lower level of yield, even a small yield gain can 
+significantly increase water productivity. But when the farm moves to a higher level of yield, water use 
+tends to rise in direct proportion to output, providing much less incentive for farmers to save water. The 
+threshold for this non-linearity is around 3 t/ha, and most small-scale farmers in developing countries 
+operate below this threshold, suggesting that they could significantly increase water efficiency 
+(Rockström et al., 2007). 2.5. Irrigation stress resulting from climate change In the context of a changing climate, irrigated agriculture is likely to experience significant changes 
+due to a combination of factors affecting both the demand and supply sides (OECD, 2014). Irrigation 
+stress is a relative measurement, which reflects the proportion of potential irrigation demand that is 
+satisfied by actual water consumption. The larger is the gap between the two, the greater the stress on the 
+irrigated crop. It was discussed earlier in section 2.1.2 how the supply of irrigation water can be affected 
+by climate change. In this subsection, the emphasis is placed on the stress arising from the changing 
+demand for irrigation due to climate change. The agricultural sector is highly exposed to climate change, and rising temperatures are likely to 
+increase the demand for water as rates of evapotranspiration rise, thereby depleting soil moisture more 
+rapidly. It is true that warming also tends to increase precipitation at least in some regions, but Wada et al. 
+(2013) argue that the enhancement of evaporative demand may outweigh the effect of increasing 
+precipitation under the more severe emissions scenario (e.g., above 4˚C warming), thereby leading to 
+larger irrigation requirements. Moreover, higher temperatures tend to reduce crop water use efficiency, 
+which means less beneficial consumptive use relative to the non-beneficial counterparts. In addition to warmer temperatures, climate change is also likely to increase the variability and 
+occurrence of extreme events (OECD, 2014 and 2016b). For the same long-term average climatic 
+condition, regions with a higher inter-annual variability typically suffer more from water scarcity than 
+comparable regions with a more even climate (Döll 2002), thus requiring more irrigation. Where climate 
+change stretches the intervals between precipitation events, crops which used to be rainfed may have to be 
+cultivated with supplementary irrigation during the highest stress periods. Finally, climate change-
+induced changes in temperature and precipitation conditions may shift the cropping calendar and growing 
+season. This shifts the seasonality of peak irrigation requirements, and may exacerbate the already severe 
+water stress during the summer and major crop growing season in some regions. Climate change could also affect both the extensive and intensive margins of water demand for 
+irrigation. On the extensive margin, total demand for irrigation is driven up by the increasing area 
+requiring irrigation. On the intensive margin, a larger amount of water may need to be applied per hectare 
+per year. If represented in net terms, it is likely that the extensive margin will be less dominant. Much of 
+the future irrigation investment will be in rehabilitating existing systems. Döll (2002) estimates that 
+climate change may cause global total irrigation requirement to increase by 5-8% until the 2070s. About 
+two-thirds of the area equipped for irrigation in 1995 will experience an increase in irrigation demand. 
+Fischer et al. (2007) find an even large increase of 20% in global irrigation needs by 2080. About two-
+thirds of the increase results from higher irrigation intensity. It is important to note the considerable uncertainty associated with these estimates. The main source 
+of uncertainty is of course the projection of future climate (OECD, 2014). Wada et al. (2013) compare the 
+multi-model projections and find substantial variations among inferences derived from different climate 
+and hydrological models. Second, the atmospheric CO 2 enrichment effect on irrigation requirements is 
+still unclear. Specifically, on the one hand, a higher CO 2 concentration reduces transpiration at the leaf ENV/WKP(2016)11 27 level, (the physiological effect); on the other hand, the subsequent increase in biomass leads to higher 
+transpiration at the regional scale (the structural CO 2 effect) (Betts et al. 1997). Which effect will be 
+dominant at regional and global levels remains uncertain. 2.6. Modelling irrigated cropping in a global CGE framework 2.6.1. Competition for land Land for agriculture and forestry is typically classified into three categories – cropland, pasture land 
+and managed forest (Ramankutty et al. 2008). Most of the CGE models allow land use transformation 
+from one type to the other at some conversion cost, while keeping total land supply fixed (Hertel, Rose, 
+and Tol 2009). Some models (e.g., MAGNET, ENV-Linkages) focus solely on agricultural land and 
+allow the total supply of land to vary depending on returns to farming. Competition for land can take 
+place at several levels – first among broad land cover types such as crops, pasture and forestry, followed 
+by the competition for cropland among different crop sectors. Demand for land is typically derived from a 
+production function, in which land enters as an independent input with a certain degree of substitutability 
+with other input factors. Land use is driven by the demand for land based products, as well as the 
+opportunity cost of alternative uses. Global CGE models recently have paid more attention to within-
+region land productivity variation and tend to limit the competition to land with similar soil quality and 
+growing conditions. Some commonly used classification standards are by climate zones (boreal, 
+temperate, and tropical) or by agro-ecological characteristics such as Agro-Ecological Zones (AEZs). An overview of land use in CGE models is provided by Hertel, Rose and Tol (2009). One commonly 
+applied structure designed to capture the imperfect mobility of land across uses within an AEZ is the 
+simple Constant Elasticity of Transformation (CET) function, in which an aggregate endowment of land 
+is transformed into different uses. The mobility of land is governed by a set of transformation parameters 
+that describe the responsiveness of land supply relative to returns from alternative uses. The major 
+problem with a CET structure is that it does not constrain the sum of actual hectares, but rather it 
+constrains the land rental share-weighted sum of hectares to remain constant in the aggregate. Also, this 
+approach does not provide an explicit link between yields and the heterogeneity of land, making it 
+difficult to be validated against the observed data (Hertel, Rose, and Tol 2009). An alternative approach is 
+represented by the AgLU model (R. Sands and Kim 2008; R. D. Sands and Leimbach 2003). AgLU 
+resembles a CET function in that it is subject to profit maximisation and supply response. What makes it 
+more appealing is the explicit modelling of yield heterogeneity and the linkage of supply response to 
+yield. However, AgLU is also criticised for its restrictive functional form assumption. Another approach 
+altogether involves the explicit modelling of conversion costs (Gurgel, Reilly, and Paltsev 2007). This 
+implicitly assumes that additional land can always be 'produced' provided sufficient resources are 
+applied. As a consequence some kind of 'brake' must be incorporated to prevent excessive conversion of 
+land in response to changing relative returns. While the theoretical framework used to model land supply is indeed important, even more 
+important are the empirical estimates of land supply to which these different model structures are 
+calibrated. All of them seek to embody external estimates of the responsiveness of land from different 
+sources to a change in the relative returns to agricultural land. Yet there are very few solid estimates of 
+these land supply elasticities, and those that exist are typically from the more developed regions of the 
+world, where cropland expansion is less of a factor (Ahmed, Hertel, and Lubowski 2008). There is an 
+urgent need for additional empirical work on this problem. ENV/WKP(2016)11 28 2.6.2. Competition for water The major interest of the CGE models concerned with water centres on the role of water as a primary 
+production factor, although a few exceptions examine water as a tradable good or intermediate input. 
+Water can be incorporated into a CGE model either implicitly or explicitly. If implicitly, the model does 
+not control water directly, but allocates irrigated land which itself embodies water. Modelling water 
+explicitly is more difficult due to the lack of information on water use, its valuation and market pricing. 
+Different strategies have been pursued to circumvent this challenge. The global FARM model (Darwin et 
+al. 1995) explicitly assigns to water a price and a value share based on estimations undertaken in the US. 
+Berrittella et al. (2007) use the degree of water supply falling short of demand to signal the presence of 
+economic rents associated with water. Recent studies argue that an increase in yield on irrigated land must 
+be achieved to pay for the returns to water. Thus, the shadow price corresponding to the water constraint 
+should be equated to the gains driven by the yield gap between irrigated and non-irrigated production 
+(EPPA-IRC model by Baker, 2011; GTAP-W by Calzadilla et al., 2011; GTAP-BIO-W by Taheripour et 
+al., 2013a). 2.6.3. Structure of the production function In biophysically-oriented models, irrigation demand is calculated as that portion of the crop water 
+requirement (determined by simulation of a crop growth model) which is not satisfied by precipitation or 
+soil moisture (Rosegrant et al. 2008). This is further adjusted for basin efficiency, which recognises that 
+not all irrigation water depletion is delivered and used in a beneficial fashion. This approach to modelling 
+irrigation demand requires more spatially detailed data than is typically available to global CGE 
+modellers. It also requires the economic model to be simulated in concert with hydrological and crop 
+growth models. Finally, it assumes that the full irrigation requirement is supplied to the irrigated crops – 
+so there is no trade-off between price and quantity consumed. All of these assumptions pose problems for 
+a CGE model. Therefore, an alternative approach is required. In the tradition of CGE models, irrigated agricultural production is generally represented by the 
+nested CES function. A very early global CGE model with water GTAP-W developed by Berrittella et al. 
+(2007) has a Leontief production function, which is a special case of the CES function with zero elasticity 
+of substitution. Water and other inputs enter into the final output production function in fixed proportion. 
+Sectoral demand for water responds to a water rent, which is triggered once water supply falls short of 
+demand. The rent increases proportionally with the water gap. Calzadilla et al. (2011) revised the original GTAP-W model and adopt a more flexible three-level 
+CES production function. The bottom level combines land and irrigation water to produce an irrigable 
+land-water composite. In the middle, this composite is further combined with rainfed land and other 
+primary inputs to produce a value-added input composite. The final output is produced from aggregated 
+value-added and intermediates at the top level of the nesting. Such a multi-level nesting structure permits 
+differing degrees of substitutability between inputs at each layer. This model creates two pathways for 
+water to be reallocated between competing uses as water becomes scarce. One is to substitute other inputs 
+for water (a direct effect on water demand); the other is to reduce the demand for water-intensive products 
+(an indirect effect on water demand). However, this pioneering work has significant limitations. The 
+fundamental weakness is that rainfed and irrigated production are treated as part of the same aggregate, 
+national production function. So it is not possible to shut down irrigation in one region in favour of 
+rainfed agriculture, or expanding irrigation in another region. As will be discussed below, based on 
+experience with the TERM-H2O model in Australia, it appears to be the case that such a specification 
+results in an understatement of the potential for reductions in irrigated water use in the face of prolonged 
+drought. ENV/WKP(2016)11 29 A recently developed model, GTAP-BIO-W, was introduced by Taheripour et al. (2013a). It retains 
+the advantages of GTAP-W, i.e. the multi-level CES structure and irrigated/rainfed crop production, but 
+overcomes some of its shortcomings. The most marked difference is that GTAP-BIO-W permits 
+competition for resources to take place at two different levels – competition for water within river basins 
+and competition for land within agro-ecological zones (AEZs). This design significantly improves the 
+adaptability of the model. For example, the irrigated and rainfed production functions operate 
+independently from one another. That means irrigated crop production can be completely removed from a 
+certain part of the country if water supply for irrigation falls short. Moreover, in GTAP-BIO-W, 
+intersections between different river-basins and AEZs are featured by different technologies (i.e. 
+production functions) that reflect water availability, growing condition and soil quality peculiar to that 
+area (Figure 8). The shadow value of water in the GTAP-BIO-W model is obtain from the higher return to land in 
+the irrigated sector as opposed to its rainfed counterpart. This approach is founded upon the assumption 
+that both sectors have the same basic cost structure for non-land inputs. This follows from the assumption 
+of identical input-output ratios (e.g., identical kg. nitrogen fertiliser/ton of crop output) and the same non-
+land input prices. Subtracting the aggregated non-land input cost share (which is therefore equal for 
+rainfed and irrigation agriculture) from the total (which equals one) yields the cost share of land and water 
+in both sectors. Further, because output per unit of land (tons of crop/hectare) is higher when irrigation is 
+applied, land rent per unit of irrigated land is also higher, given the same cost share of land and water. 8 
+The 'bonus' rent is then attributed to the contribution of irrigation water to total production. Figure 8. Competition for land and water in the GTAP-BIO-W model Source: Taheripour et al. (2013a) 8. 
+See the derivation in (Hertel and al., 2009). ENV/WKP(2016)11 30 GTAP-W, its revised version, and GTAP-BIO-W are among the few global CGE models with water 
+broken out. Incorporating water into a CGE framework has been more extensively explored in studies at 
+country and regional level (Darwin et al. 1995; Decaluwe, Patry, and Savard 1999; Dixon, Rimmer, and 
+Wittwer 2011; Gómez, Tirado, and Rey-Maquieira 2004; Peterson et al. 2004; van Heerden, Blignaut, and 
+Horridge 2008). Most of them still favor the multi-level CES structures. Reviews of these models and the 
+related applications can be found in Calzadilla et al. (2011), Dudu and Chumi (2008) and Ponce et al. 
+(2012). Here, it is useful to draw on one of these single-region studies, namely that of Dixon et al. (2011), 
+who use the TERM-H2O CGE model to examine the economy-wide impacts of a water buy-back policy 
+in the Murray-Darling River Basin of Australia. Figure 9 displays the key portion of a representative agricultural production in the TERM-H2O 
+model. Irrigated activities combine water with un-watered, irrigable land in fixed proportions to produce 
+irrigated land. Irrigated land substitutes for dry land (there is little of this in the irrigated sector) and un-
+watered, irrigable land, which can also be used in production, albeit with much lower productivity. When 
+a water shortage arises, due to a temporary drought, or a permanent buy-back scheme by which the 
+government reduces the amount of water available for irrigation, then less irrigable land can be irrigated. 
+This increases the availability of un-watered, irrigable land, which is now likely to move into a dry land 
+sector given the prospect of rising commodity prices. The dry land sector uses no irrigated land (by 
+definition) but it can substitute the un-watered irrigable land for dry land, thereby expanding the area of 
+rainfed production. Figure 9. Agricultural land composite in TERM-H2O Source: Dixon et al., (2011) It should be noted that the presence of un-watered, irrigable land in the irrigation production function 
+does not mean that the authors of TERM-H2O can avoid the simultaneous specification of rainfed 
+production sectors. Indeed, as with GTAP-BIO-W, the authors carry along in the model both rainfed and 
+irrigated sectors for all agricultural commodities produced in each of the model regions where irrigation is 
+present. However, the separate identification of currently irrigated, and potentially irrigable land, gives 
+their model a level of nuance which does not exist in GTAP-BIO-W. In the latter model, there are only 
+two types of land, with the land mobility parameter doing double-duty as a regulator of land movement as 
+well as irrigation preparation. In practice, obtaining separate estimates of land equipped for irrigation and ENV/WKP(2016)11 31 actively irrigated land, at global scale, is not currently possible. But doing so would enrich the analysis of 
+water scarcity. By separating rainfed and irrigated sectors, the authors of TERM-H2O and GTAP-BIO-W increase 
+the dimensions of their models considerably (2x the number of irrigated sectors). This raises a natural 
+question: What is gained by this added dimensionality? Some valuable insights are offered in the context 
+of the TERM-H2O model (Glyn Wittwer 2012). Early versions of that model did not distinguish irrigated 
+and dry land sectors. In the context of water availability reductions due to drought, separate analyses were 
+undertaken and the productivity of the agricultural sectors was exogenously shocked on that basis. The 
+authors found that the ensuing model greatly underestimated the observed change in composition of farm 
+output in response to the drought. For example, in the context of a 2002-03 drought in the Murray-Darling 
+Basin in which total water usage in the Basin dropped by 29%, the model predicted modest declines in 
+rice output and water use. However, in practice, water usage for rice production dropped by 70% during 
+this drought! The subsequent modifications to TERM-H2O aimed to improve on this performance by 
+separating irrigated and dry land activities and allowing for greater factor mobility between them (Glyn 
+Wittwer 2012). 3. WATER USE IN ENERGY PRODUCTION The role of water in energy production has been attracting considerable attention recently – 
+particularly in the emerging economies where energy demand has been growing most strongly. Consider, 
+for example, the following quote from 2014 by Rachel Kyte, then World Bank Group Vice President and 
+Special Envoy for Climate Change:  " The world's energy and water are inextricably linked. With demand rising for both resources and 
+increasing challenges from climate change, water scarcity can threaten the long-term viability of 
+energy projects and hinder development " . 9 The accompanying report notes that  " In the past five years, more than 50% of the world's power 
+utility and energy companies have experienced water-related business impacts. At least two-thirds 
+indicate that water is a substantive risk to business operations. "  In India, South Africa, Australia and the 
+United States, power plants have recently experienced shut-downs due to water shortages for cooling 
+purposes. IEA (2012) describes the main uses of water for energy production. Panel A in Figure 10 shows the 
+ranges in water use and consumption for different technologies used in  " source-to-carrier "  primary energy 
+production, including withdrawal and consumption for extraction, processing and transport. The panel 
+clearly shows that water use in gas production is substantially lower than for other fossil fuels. Panel B 
+provides ranges for estimated withdrawal and consumption for electricity generation (excluding water use 
+for producing the input fuel). This panel shows how cooling technologies are essential for understanding 
+water use in electricity generation. 9 www.worldbank.org/en/news/press-release/2014/01/20/water-shortages-energy-production-worldwide ENV/WKP(2016)11 32 Figure 10. 
+Water for energy production Panel A. Water use for primary energy Panel B. Water for electricity generation by cooling technology Source: IEA (2012), Figure 17.3 (panel A) and 17.4 (panel B) While water is increasingly used in the extraction of fossil fuels, its main use remains in electricity 
+production. Hydropower is the most obvious application of water to generate electricity. However, much 
+of the water used to generate hydropower passes through the system and remains available for 
+downstream use and so it has long been thought that this source of power is not consumptive in nature. 
+Meldrum et al. (2013) study the life cycle water requirement of a variety of power generation Conventional gas Coal Shale gas Refined oil (conventional)* Refined oil (oil sands)** Gas-to-liquids Coal-to-liquids Refined oil (EOR)*** Lignocellulosic ethanol**** Palm oil biodiesel Rapeseed biodiesel Soybean biodiesel Corn ethanol Sugarcane ethanol <1 
+10 1 
+10 2 
+10 3 
+10 4 
+10 5 
+10 6 
+10 7 
+litres per toe Withdrawal 
+Consumption Wind Solar PV CSP* Withdrawal 
+Consumption Geothermal** Gas CCGT Gas CCGT Gas CCGT (CCS) Coal IGCC Coal IGCC (CCS) Fossil steam Fossil steam (CCS) Nuclear Gas CCGT Fossil steam Nuclear Gas CCGT Fossil steam Nuclear <1 
+10 1 
+10 2 
+10 3 
+10 4 
+10 5 
+10 6 
+litres per MWh Once-through Cooling 
+pond 
+Cooling tower Dry Other/none ENV/WKP(2016)11 33 technologies. They conclude that:  " water used for cooling of thermoelectric power plants dominates the 
+life cycle water use in most cases; the coal, natural gas, and nuclear fuel cycles require substantial water 
+per megawatt-hour in most cases; and, a substantial proportion of life cycle water use per megawatt-hour 
+is required for the manufacturing and construction of concentrating solar, geothermal, photovoltaic, and 
+wind power facilities. On the basis of the best available evidence for the evaluated technologies, total life 
+cycle water use appears lowest for electricity generated by photovoltaics and wind, and highest for 
+thermoelectric generation technologies. "  Therefore, attention is focused here on water for cooling in 
+thermoelectric power generation – with a particular emphasis on the emerging markets where most of 
+these new power plants are being constructed. Water use in hydropower production will also be 
+considered (for obvious reasons). Finally, water use for the growth and processing of biofuels has also 
+recently received increased attention. Each of these topics will be tackled in turn. 3.1. Water use for hydropower production The revelation that hydropower production can, in some cases, result in a significant water footprint 
+has only recently gained traction. Indeed, in the 2011 World Congress of the International Hydropower 
+Association, a special session was devoted to the question:  " Does hydropower consume water? "  (M. M. 
+Mekonnen and Hoekstra 2011). The key point is that hydro-electric dams hold water in a reservoir from 
+which water subsequently evaporates. The rate of evaporation depends on the temperature, moisture 
+content of the air and a variety of other factors which can vary significantly by location and climate. In 
+their study, Mekonnen and Hoekstra (2011) use the Penman-Monteith equation to predict evaporation 
+losses for 35 hydropower facilities around the world. They find an average water 'footprint' of hydro 
+power generation of 68 cubic meters/GJ of power generated. However, this varies greatly depending on 
+the size of the reservoir surface, relative to installed capacity. The smallest footprint is 0.3 cubic 
+meters/GJ in Colombia, and the largest is 846 cubic meters/GJ in Ghana. Overall, the 35 plants studied, 
+which account for just 8% of global capacity, have a water footprint of 90 Giga-cubic meters/year, which 
+is a very significant use of water. This is also a use which is unlikely to adjust in response to water 
+scarcity – short of dismantling the reservoir. Of course in those cases where the reservoir is also being 
+used for recreation, water supply or flood control, it is not appropriate to 'charge' the hydropower 
+generation with all the attendant evaporation. In short, this is a dimension of water usage which is more 
+nuanced than conveyed by simple calculation of evaporative losses. Additional work will be required to 
+make a proper assessment of this aspect of water consumption by the power sector. Implications for CGE modelling: Expansion of hydro-power in the future will depend on a host of 
+factors, including, suitable sites for such plants, the cost of fossil fuels and conventional power generated 
+based on fossil fuels, and, perhaps most significantly, environmental considerations. Construction of a 
+new hydro-power facility is inherently a 'lumpy' decision, with large elements of irreversibility. For this 
+reason, hydro-power is likely to be scenario-driven – as opposed to a continuously variable response to 
+future developments in energy prices. From the point of view of water scarcity and economic growth, it is 
+critical to factor in the potential losses from evaporation under future scenarios involving significant 
+additions to (or subtractions from) hydro-power. Such estimates could be computed endogenously using 
+the Penman-Monteith equation, as in Mekonnen and Hoekstra (2011), provided the underlying 
+biophysical data are available, or, more practically, one could map any new facilities to the set of 35 
+facilities for which such calculations have already been done in order to get an idea of how this will likely 
+affect water availability downstream from the facility. 3.2. Water consumption by conventional power plants Rapid economic growth in many developing countries is contributing to significant growth in the 
+demand for electricity, so this source of water demand is projected to greatly increase in the coming 
+decades. And it is mainly with the construction of new facilities that opportunities for significant water ENV/WKP(2016)11 34 conservation arise. Therefore, the focus here is on emerging markets. Mitra and Bhattacharya (2012) 
+project that conventional power generation could boost its claim on total utilisable water in India from 4% 
+in 2010 to 20% in 2050. Since it is the choice of technique for new power plants which offers the greatest 
+scope for improved water use efficiency (once the plant is built, there is little scope for modification), this 
+section focuses on water consumption by conventional power plants in those emerging markets where 
+rapid growth in demand and increasing water scarcity appear to be setting the stage for a perfect storm. India presents a particularly interesting case since it has been growing relatively rapidly and it is 
+destined to become the most populous country in the world (UN Population Division 2013). In response 
+to this rapid growth, India is expected to add considerably to its capacity for producing electric power in 
+the coming decades. This is important, due to the near irreversibility of conventional power generation 
+technologies. If India chooses a water efficient path for its new power generation capacity, this could 
+greatly reduce future water requirements in this sector. Bhattacharya and Bijon (2013) estimate that 
+simply by switching from the open loop wet cooling systems favoured historically to a more efficient, 
+closed loop system, India could reduce its requirements from 20% to just 7.5% of total utilisable water. 
+These potential water savings are a concrete manifestation of the potential for capital-water substitution of 
+the sort discussed in the overview section of this report. By investing more in the new technology, very 
+significant water savings can be achieved. However, these large gains are only economical if they are 
+designed in when the plant is built. About two-thirds of the water use by a typical coal-fired thermal power plant in India is for cooling 
+purposes (Bhattacharya and Bijon 2013). The remaining uses for water include: ash-handling (25%) and 
+service and potable water (5%), together with a few residual uses. Focusing on water for cooling, turn to 
+Figure 10, taken from Bhattacharya and Bijon (2013), which outlines the cooling technologies available 
+to those investing in electric power generation capacity in India today. As those authors point out, new 
+open loop (once-through) cooling technologies, which return the water to its source following its use as a 
+coolant, have been banned since 1999. So, while some are still in use, this is no longer an option for new 
+plants. Of the closed loop systems, there are two main alternatives: wet and dry cooling. The wet cooling 
+technology circulates water in a cooling tower where evaporation occurs, resulting in cooling of the 
+circulated water. The dry cooling systems rely on air circulation to cool the water so that they avoid the 
+evaporative losses associated with the wet cooling system. This results in very large reductions in water 
+requirements. Figure 11. 
+Electric power generation cooling technologies available in India Source: Bhattacharya and Bijon (2013), Figure 14 Implications for CGE modelling: In order to capture the key aspects of water use in electric power 
+generation described above, there are two critical requirements in a CGE model. The first is a distinction 
+between old and new capital – often described as a 'putty-clay' model. In the case of the existing power Natural draft Cooling 
+technologies Open loop 
+Closed loop Wet cooling 
+Dry cooling 
+Hybrid 
+system Induced 
+draft 
+Direct 
+Indirect 
+Natural draft 
+Induced 
+draft ENV/WKP(2016)11 35 plant infrastructure, there is little that can be done to conserve water use. However, for new power plants, 
+modest increases in capital expenditures can result in significant water savings, as one moves from open 
+to closed loop systems and from wet to dry cooling technologies. Using the estimates taken from 
+Bhattacharya and Bijon (2013), Figure 11 is created which shows a marginal cost of abatement schedule 
+to which a CGE model could readily be calibrated. This schedule passes through two points (wet cooling 
+and dry cooling), exhibits the desired convex structure, and could include an asymptote reflecting the 
+physical limits on water conservation in such a power plant. Given the cost shares of capital and water in the initial data base, one can choose the elasticity of 
+substitution between capital and water to mirror this abatement cost curve. (This is most readily achieved 
+by simulating the CES function in 'partial equilibrium' mode, i.e. as a cost minimisation problem, with 
+output level and input prices fixed. See Golub et al. (2009) for examples in the context of GHG 
+mitigation costs.) In this way, as water becomes scarce, the model will capture endogenous switching to 
+greater water use efficiency. Of course, at the plant level this is a discrete choice and therefore will not 
+resemble Figure 11. However, the continuum of possibilities shown in Figure 11 is more appropriate 
+given the distribution of power plants in India – some using the old technologies and some using the new 
+technologies. It is also likely that any adoption will not occur all at once. Indeed, this technology choice is 
+really only possible when new plants are being built. Given the shape of the curve in Figure 11, it appears 
+that very substantial gains in water use efficiency are available at modest cost in the electric power sector 
+in India. For this reason, trend projections based on current water intensities are surely overly pessimistic 
+and not very useful for serious economic analysis. Figure 12. 
+Marginal cost of water conservation in the electric power sector in India Source: Authors' construction, based on data from Bhattacharya and Bijon (2013) ENV/WKP(2016)11 36 3.3. Water for biofuels The most important contribution of water to the production of biofuels is through the production of 
+the feedstock. Gerbens-Leenes et al. (2009) explore the water footprint of biofuels for transportation 
+under the IEA's Alternative Policy Scenario. By current standards, this looks like a high-end scenario, 
+with 11% of global energy consumption in 2030 supplied by bioenergy. Bioenthanol and biodiesel 
+dominate the IEA projections, with USA and Brazil leading ethanol consumption in 2030, followed by 
+China and then Germany. Biodiesel consumption is led by Malaysia, followed by USA, France and 
+China, in that order. Overall, this scenario appears to be more indicative of the biofuels boom years of 
+2006 – 2011 than of the current era, which is characterised by waning interest in biofuels in the EU and 
+the USA where mandates are being rolled back in light of flat prices for fossil fuels and growing 
+environmental concerns about biofuels. Nonetheless, the calculations by Geerbens-Leenes et al. (2009) 
+are instructive, and, given the right combination of high oil prices and climate regulation, this scenario 
+could once again become likely. Based on this IEA scenario, the authors find that biofuels could boost 
+their blue water footprint from 0.5% of available blue water worldwide to 5.5% of available water by 
+2030. This tenfold increase is quite striking and reflects a strong utilisation of irrigation assumed by the 
+authors. 3.4. Implications for CGE modelling Unlike the study by Geerbens-Leenes et al. (2009), global CGE models offer the possibility to 
+endogenise production, consumption and trade in biofuels. If future oil prices remain flat, and biofuel 
+mandates are reduced, then the amount of feedstock required for biofuels in 2030 may be very modest. 
+This, in turn, will reduce the blue water footprint of biofuels. Similarly, by endogenising the choice of 
+technique for production of the feedstocks, a CGE model can allow the extent of irrigation to be 
+determined by the model as a function of future water scarcity, as well as competition for land with food 
+crops. Therefore, to capture the water footprint of biofuels, the main requirement is to do a good job 
+modelling crop production, including the irrigation choice, as well as the competition between biofuels 
+and petroleum in the transportation sector which will ultimately determine the penetration of biofuels in 
+this sector. 4. RESIDENTIAL DEMAND FOR WATER When compared to other sectors, the residential demand for water in industrialised countries is 
+relatively well understood. This is due in large part to the ready availability of data on quantity consumed 
+and pricing of water from public utilities. Water use by households is highly seasonal, with outdoor water 
+requirements peaking in the summer, and during the times of day/week, when household members are at 
+home (Parker and Wilby 2013). So the challenge, as with electric utilities, is to design a system to meet 
+these peak demands. 4.1. Residential Demand in Industrialised Economies Residential demand for water can be broken into indoor and outdoor demand. Outdoor demand for 
+water is quite sensitive to the type of landscape in place, and there is often great scope for reducing this 
+type of water use, as currently observed in California. The three most important end uses of indoor water ENV/WKP(2016)11 37 are toilets, showers and washers (Mayer and DeOreo 1999) and some studies focus specifically on these 
+end uses. Lee et al. (2011) examine the impact of water conservation practices in Miami-Dade county on 
+these and other household end uses of water and find that this program, which focused on getting high 
+efficiency appliances into households had a very significant impact on household water consumption. 
+This suggests that the price elasticity of demand for household water consumption is likely significant – 
+as households appear to have considerable scope for achieving water conservation, given sufficient 
+economic incentive. Due to the high level of aggregation in CGE models, this kind of summary measure 
+of price response will be more useful than end-use specific information. Therefore, it is useful to review 
+the evidence on the price elasticity of demand for water in residential use. There are now a large number of published econometric studies of the price elasticity of demand for 
+water in residential use. Griffin (2006) summarises the results of these studies in the following histogram, 
+which reports the number of estimates falling within each range. (He first eliminates the outliers.) The 
+average of these estimates is -0.38, with a most likely range between -0.35 and -0.45. Griffin also 
+distinguishes between short and long run responses – the latter factoring in households' capital stock 
+response to sustained price changes. After examining the literature, he suggests adding 0.2 to 0.3 points to 
+the elasticity to account for these long run changes. This gives a long run (capital stock fully adjusted) 
+household price elasticity of demand for water of -0.55 to -0.75. Figure 13. 
+Distribution of estimates of residential price elasticity of demand for water (number of 
+estimates falling within a given interval) Source: Griffin (2006) 4.2. Residential Demand in Developing Economies While residential water demand in the industrialised countries is reasonably well understood, the 
+same cannot be said of household water demand in the developing countries. This is due to the fact that, 
+in low income countries, households have access to multiple sources of water, including tap water, wells, 
+water vendors, tanker trucks, rainwater and surface water collected from streams, etc. (Nauges and 
+Whittington 2012). Thus it is unclear what price the household actually pays for the water (much of the 
+cost may be attributable to labour) and the quantity consumed is also much more difficult to measure than 
+in the industrialised countries. Nauges and Whittington (2012) suggest dividing consumers in developing countries into three broad 
+groups for purposes of demand analysis. The first group comprises the emerging middle class and upper 
+income urban residents, who have, or will soon have, access to indoor tap water and therefore are likely to ENV/WKP(2016)11 38 be moving in the direction of industrialised country demands. The second group comprises the slum 
+dwellers who have inadequate water and sewerage services and obtain their water from a variety of 
+sources. In this case, it may be a long time before they have access to municipal water services and so 
+public sector pricing of water is likely to have less impact on them. Key factors in their consumption 
+decisions will likely be the opportunity cost of their time, as well as the price charged by private water 
+vendors. The third group are the rural poor, who are generally underserved and also often the object of 
+misguided, large scale water projects which are costly and deliver services which rural households often 
+don't want and can't maintain (Nauges and Whittington 2012). While estimation of water demand in the context of developing countries is extremely challenging, 
+Nauges and Whittington (2012) conclude their survey by suggesting that  " most estimates of own-price 
+elasticity of water from private connections are in the ranges from -0.3 to -0.6, close to what is usually 
+reported for industrialised countries "  (p.264). Those authors conclude their survey by highlighting the 
+need to understand the potential role of dual use networks – one network for drinking water and one for 
+low-quality uses. 4.3. Implications for CGE modelling In principle, it is relatively straightforward to incorporate existing estimates of the price elasticity of 
+the residential demand for water into a CGE model. To do so, one needs a functional form with sufficient 
+flexibility to accommodate this information. The Constant Difference in Elasticities expenditure function 
+is one such option (Hanoch 1975). In this case one would like to calibrate the model to match the long run 
+price elasticity of demand if the goal was to undertake long run growth analysis. The CDE functional 
+form has been successfully employed in the GTAP model over the past two decades (Hertel 1997). As an alternative, or perhaps in addition to the specification of a household consumption response to 
+water prices, it could be useful to treat water consumption as part of a household production function. In 
+this case, residential consumers would invest in household appliances – with attendant implications for 
+energy and water use efficiency, and then consume the services supplied by this capital stock. In the 
+context of a putty-clay model, such a specification would allow for incorporation of the distinction 
+between short and long run demand responses to water price changes highlighted by Griffin. In the short 
+run there would be limited substitutability between water and other consumption items, but in the long 
+run appliance choice (household capital stock replacement) would have a more profound impact on water 
+conservation. Another important lesson from this review is the potential value of disaggregating households in 
+developing countries. As Nauges and Whittington (2012) point out, rural and urban households have very 
+different water consumption requirements and the supply of that water has quite different characteristics. 
+Therefore, as demographic change occurs, and the mix of rural and urban households evolves, so too, will 
+the characteristics of aggregate residential demand for water. Breaking out the third group (slum dwellers) 
+would likely be more challenging. Another possibility would be to have a separate module outside of the 
+CGE model which can be used to develop long term projections of household water use and provide an 
+overall summary measure of price response for use in the CGE model. Once the model solution is 
+obtained, one could return to the water consumption module to deduce the impact on rural and urban 
+households. ENV/WKP(2016)11 39 5. COMMERCIAL AND INDUSTRIAL DEMAND FOR WATER 5.1. Commercial water demand As noted by Griffin (2006), industrial and commercial water demand is much less intensively studied 
+than residential demand. In the case of commercial demand, while these establishments generally obtain 
+their water from a public utility, the heterogeneity of operations makes estimation of demand difficult in 
+this case. By way of example, Kim and McCuen (1979) highlight the importance of gross store area, 
+length of display windows and drinking fountains in predicting commercial water use. This is a level of 
+detail that is not available to global CGE modellers. Furthermore, even this detailed study did not include 
+estimates of price response. Yet, the rapid growth of the service sector means that it will become 
+increasingly important in overall water use and so its economic behaviour in the face of water scarcity 
+will become increasingly significant. Lacking further information, it seems most reasonable to adapt price 
+elasticities of demand from residential use, as many of the same appliances will be important in 
+commercial use. 5.2. Industrial water demand In the case of industrial demand, the challenge lies in the fact that factories are often 'self-supplied', 
+investing in their own infrastructure to access surface or ground water for use in their production 
+processes. Therefore, water use is not monitored, and the relevant price for the water consumed is 
+unobserved. In addition, much of the industrial demand is used for cooling purposes, so that the water 
+flows through the facility and is potentially available for other, downstream uses. Thus it is common in 
+global simulation models to omit the price responsiveness of industrial water demand altogether, as in the 
+IMPACT-WATER model (Mark W. Rosegrant et al. 2008). When it comes to consumptive uses, many different production processes rely on some form of 
+steam. Masanet and Walker (2013) investigate in detail the opportunities for reducing steam requirements 
+– which has the great advantage of also reducing energy requirements (since energy is required to convert 
+water to steam) – in the major steam-using sectors of the manufacturing economy: chemicals, paper, 
+petroleum refining and food production. They find ample opportunities for harvesting 'low-hanging fruit' 
+and significantly reducing energy and water usage in these sectors through more efficient use of steam in 
+manufacturing. What these more efficient engineering processes imply for price responsiveness of the sector is a 
+more challenging question. The approach to demand analysis in the case of industrial use is often through 
+mathematical programming of the industrial operation (Griffin 2006). Such studies may or may not report 
+the implied price elasticity of demand. Griffin (2006) has compiled the following table for industrial and 
+commercial price elasticities of demand, based on the work of Renzetti (2002a). For purposes of CGE 
+modelling, the most appealing estimates are those undertaken at the two-digit SIC level which range from 
+-0.15 to -0.59 (see also Renzetti (1992)). 5.3. Implications for CGE modelling It is relatively straightforward to 'nest' water in a CES production function in order to elicit a given, 
+output-constant demand response to water prices. A key question is: how should this nesting be done? In 
+many cases conservation of industrial water also results in conservation of energy, suggesting that for 
+some industries these two inputs might be bundled together. And much like energy conservation, 
+improved water efficiency is typically obtained through capital investments. Therefore, nesting water with 
+capital, much as is currently done in energy-oriented CGE models makes sense. Furthermore, allowing 
+some differentiation between short run (clay) and long run (putty) responses would seem appropriate. ENV/WKP(2016)11 40 6. ENVIRONMENTAL DEMANDS It is widely recognised in the water modelling literature that environmental uses of water are of 
+critical importance and that outcomes such as biodiversity, depend not only on the total volume of water, 
+but also on the timing and magnitude of high and low flow events (Bell et al. 2014). These can include 
+both in-stream uses, as well as out-of-stream diversion of water into wetlands. However, the portion of 
+river flow to be set aside for environmental requirements varies greatly across studies, ranging from 10% 
+in the case of IMPACT-WATER (Mark W. Rosegrant and The IMPACT Development Team 2012) to as 
+much as 50% in the IWMI analysis of Smakhtin et al. (2004). The latter team of authors argue that  " the 
+services that freshwater ecosystems provide to humans … are worth trillions of US dollars annually " . 
+They go on to estimate the global distribution of Ecological Water Requirements (EWR) as a percentage 
+of long term mean annual river flow, and this is reproduced in Figure 13. They acknowledge that this 
+calculation is extremely simplistic and that much more information must be brought to bear before 
+measures which can inform management decisions are brought to bear at global scale. Implications for CGE Modelling: From a CGE modelling perspective, it would be attractive to move 
+beyond the current approach in which some, apparently arbitrary, percentage of stream flow is set aside as 
+an environmental reserve. A natural way to begin to incorporate the trade-off between environmental 
+quality and the consumption of other goods and services would be to bring these environmental services 
+into the utility function. One approach, taken by Tsigas et al. (2001) involves specifying a total 
+endowment of environmental quality (in this case, that obtained from maximum stream flow) and then 
+accounting for the use of some of this environmental good (stream flow) for other purposes. What 
+remains is 'consumed' by households as an in-stream use of the water. In the initial equilibrium, this in-
+stream use may not be priced – but rather provided by the government as part of its public services. This 
+specification allows for explicit competition between environmental and commercial uses of water and 
+captures the welfare benefits of improved environmental quality as some of the water is left in-stream for 
+environmental 'consumption' by households. However, the implementation challenge for such extensions 
+is to properly parameterise the utility function. Further empirical work will be required before such 
+approaches will be widely accepted. ENV/WKP(2016)11 41 Figure 14. 
+Ecological water requirements as a percentage of long term mean annual river flow Source: Smaktin et al. (2004) 7. WATER SUPPLY AND ALLOCATION 7.1. Reuse of water Water is rarely fully consumed in its various uses. Rather, some of the water withdrawn for a 
+particular use is released and becomes a candidate for re-cycling and reuse. Seckler et al. (1998) conclude 
+their report on the future of water supply and demand by suggesting that water reuse may be one of the 
+most important sources of water supply in the coming decades. One of the main barriers to water reuse is 
+pollution, which can build up rapidly as water is recycled. Therefore, the authors emphasise (p. 18) that 
+ " pollution control is one of the most basic ways of increasing water supply " . In contrast, they find that, at 
+the time of their writing (1998), most international data sets  " simply assumed that once water is 
+withdrawn it is lost to further use " . This clearly leads to an understatement of water availability. Luckman et al. (2014) take account of water reuse in their analysis of water shortages in Israel. Their 
+modelling of reuse suggests a useful way forward for incorporating this aspect of water into a global CGE 
+model. A first step is that, rather than having just one type of water, one must distinguish multiple types, 
+of which only one is freshwater. The other types relate to joint products of water-using sectors. Thus the 
+residential sector might produce a type of effluent which, after suitable processing, might be reused as 
+potable water, or perhaps water suitable for irrigation. Given their research on Israel, those authors also 
+consider seawater as an input to the desalinisation industry, which, in turn produces potable water. They 
+also include brackish groundwater in their model, which is suitable for some uses. In short, adding more 
+types of water to reflect these differing qualities and allowing sectors to draw on, and add to, these 
+different water resources, as appropriate, results in a much richer treatment of the resource. Luckman et 
+al. (2014) find that the intensities of use of these different types of water vary greatly across sectors, and, 
+in many cases, they substitute in use. Thus when freshwater supplies are restricted, there is some potential 
+for shifting to other types of water, albeit at higher cost. In their study, they consider the impacts of ENV/WKP(2016)11 42 reducing freshwater availability by 50%, with desalinisation as one option for bridging some of the 
+ensuing shortfall. Due to its high cost, the provision of desalinisation in this case does little to mitigate the 
+negative outcomes of the water shortfall. 7.2. Economy-wide water Supply As previously noted, in the IMPACT-WATER model, surface water availability is determined by 
+runoff within the river basin, as well as inflow from the upstream basins (Rosegrant et al., 2012). In 
+deference to environmental, ecological and navigational needs, only a portion of this total surface water 
+flow is available to agricultural, residential, commercial and industrial demands. Groundwater availability 
+is dictated exogenously based on historic pumping rates and potential groundwater sources and recharge 
+rates. A storage model is used to smooth out water consumption at monthly duration. How should water 
+supply be handled in the context of a global CGE model? A first question is that of regional detail. How much is required? Clearly more detail is better, as 
+acute water shortages tend to be seasonal and local. But at some point the costs of disaggregation exceed 
+the benefits. Figure 14 taken from Liu et al. (2014) sheds some useful light on this question. This maps 
+the world's major river basins and colour codes them according to projected water scarcity for irrigation 
+in 2030. These results are taken from the IMPACT-WATER model (Mark W. Rosegrant et al. 2013) in 
+which irrigation is the residual claimant on water use, so this index of water availability is a good 
+indicator of overall water scarcity in the river basin. The first point to note is that water scarcity is not a 
+global phenomenon; rather, it is concentrated in certain regions. Furthermore, these regions do not 
+necessarily coincide with national boundaries. In China, for example, the northeast shows significant 
+water scarcity, but the Southeast does not. Similarly, the impacts in South Asia are also markedly 
+different within the sub-regional boundaries. In short, it appears to be quite important that water supplies 
+be modelled at the river basin level, as opposed to the national scale, as might normally be done in a 
+global CGE model. Figure 15. 
+Projected adequacy of water for irrigation in 2030, based on simulations of the IMPACT-WATER 
+model Source: Authors calculations, based on Rosegrant et al. (2013) ENV/WKP(2016)11 43 A second question which arises in the context of CGE modelling of water scarcity and economic 
+growth is whether or not to model the hydrological processes underpinning water supply. Since 
+'unassisted' water naturally flows downhill, a 'flow routing model' is required to understand how 
+different users are spatially connected with supplies. However, it is common in economic models to use 
+the 'tank modelling' approach in which routing is ignored (Bell et al. 2014). In our opinion, this is better 
+left outside the model, with hydrological experts producing estimates of water availability at the river 
+basin level. Of course, these estimates will depend to some degree on growth rates in the global economy, 
+and these assumptions should be synchronised between the two models. Once overall water availability at the river basin level has been determined, there remains the 
+question of how this water gets supplied to users. Residential, commercial, and, to some extent industrial 
+users in the typical industrialised economy will obtain their water from a municipal utility. The municipal 
+supply of water to these sectors can be modelled via a production function of the usual sort. The cost 
+shares for this activity should be available from the national input-output table or social accounting 
+matrix. Valuing the water input into this public utility will be a challenge, and will ultimately require an 
+assumption about the price of water in the region. This 'raw water' input may come from either surface 
+water or ground water and its overall availability will be derived from the hydrological model. A further challenge for CGE models is how to spatially allocate the non-agricultural water uses. 
+Distributing manufacturing and service activities across river basins globally would present a major 
+challenge. Therefore, it is probably easiest to simply require that non-agricultural demands at the river 
+basin scale move in fixed proportion to national activity levels, so these can be viewed as inputs into the 
+single, national production function. Finally, there is the question of how to model ground water and surface water supplies. Diao et al. 
+(2008) seek to model the conjunctive use to ground and surface water supplies in the context of a CGE 
+model of the Moroccan economy. They point out that ground water has a clear buffering value when 
+surface water supplies are uncertain and that it is important to incorporate both ground and surface water 
+as distinct sources of water supply into any economy-wide analysis. In the context of a recursive-dynamic analysis, the supply of surface water to agriculture will depend 
+on pre-existing investments in reservoirs, canals and delivery systems which can be reflected with the 
+presence of a fixed factor in the supply function describing the transformation of raw water into irrigated 
+water. Groundwater supplies are largely dependent on energy costs, which will increase as the depth of 
+groundwater wells increases. The supply of groundwater to agricultural irrigation can be modelled using a 
+production function which combines capital, labour and energy with the ground water endowment. As 
+this endowment is drawn down, the effect on costs can be simulated as non-water, input-using adverse 
+technical change, so that to deliver the same amount of irrigation, more inputs are required. The stock of 
+groundwater will be a function of pumping as well as the rate of recharge. Calculation of the latter will 
+require use of a hydrological model and will therefore need to be done outside the CGE model. Given the 
+differing characteristics of water supplied from surface and ground sources, and in the absence of a more 
+elaborate model of conjunctive use, it is appealing to treat these two sources of water as imperfect 
+substitutes in the irrigation production function, as proposed by Sue-Wing and Lanzi (2014). 7.3. Allocation across sectors In the physical science literature, research related to the themes of water availability and allocation 
+aspects usually leans heavily on hydrological modelling (e.g. the LPJmL model by Gerten et al. (2004), 
+CLIRUN-II by Strzepek et al. (2011) and WGHM by Döll et al. (2003)) or water management models 
+(e.g. GCWM by Siebert and Döll (2010) and IWSM by Zhu et al. (2013)). The common interest shared 
+by this community is the quantity (and sometimes quality) of water resource. The economic literature, ENV/WKP(2016)11 44 however, provides a different perspective that focuses more on the value of water. In many ways the 
+modelling of water demands supplies is no more challenging than many of the other demand and supply 
+relationships in the economy. The real challenge in modelling water has to do with determining its 
+allocation across uses. As pointed out by Olmstead (2013) water is not typically allocated through 
+markets. Even in OECD countries, a wide diversity of water allocation regimes are applied (OECD, 
+2015b). This poses a challenge for modellers. For example, in the IMPACT-WATER model (Rosegrant et 
+al., 2012), water is allocated in a sequential fashion, with residential needs satisfied first, followed by 
+industrial and livestock demands. Irrigation needs are treated as a residual claimant on available water. 
+This seems most appropriate in the short-to medium term. Olmstead (2013) emphasises the importance of thinking carefully about how the institutions 
+governing water allocations will respond to water scarcity. And for this, some knowledge of the 
+underlying institutions and associated allocation rules is required. She identifies the following 
+institutional adaptations which could be beneficial in the context of increasing water shortages: legal 
+changes to water rights regimes, water banking, leasing and marketing, negotiated transfers, investment in 
+infrastructure for storage (transfer across time) and transport (transfers across space) of water, and last, 
+but not least --water pricing. Such institutional changes become more likely over the long run. From a policy perspective, water variability may be an even more relevant driver of the link with 
+economic growth than absolute scarcity (OECD, 2015c). This also affects the perspective on policy issues 
+ranging from infrastructure design to water allocation regimes; OECD (2015b) provides a useful health 
+checklist on this topic. Where water is allocated on the basis of historical rights and political influence, very large price 
+differentials can emerge across sectors. Olmstead (2013) notes that water prices in the neighbourhood of 
+Tucson, Arizona vary from USD 27/acre-foot for agriculture to as much as USD 3,200/acre-foot in urban 
+uses. While some of this can be explained by the nature and quality of the product being delivered, most 
+of this hundred-fold difference is a function of institutions which do not allocate water based on economic 
+criteria. In discussion of the treatment of water in Integrated Assessment Models (IAMs), she suggests 
+undertaking a sort of 'bounding analysis' wherein one set of simulations is conducted assuming no 
+change in allocation rules, while another might assume perfect adaptation. Of course, given the size of 
+these distortions, one suspects that the impact of reforming the institutions leading to these perverse 
+allocation rules will have a much larger impact than will the anticipated water scarcity itself. The prospect of water scarcity creating incentives for the reform of water allocation rules and 
+institutions is an intriguing prospect when it comes to the impact of water scarcity on economic growth. 
+Olmstead (2013) suggests that  " while water prices, on the whole, do not seem to be higher in more arid 
+regions, water marketing is more prevalent in arid regions. In a Coasian sense, the mere existence of the 
+potential gains from trading water creates pressure for trade to occur, so long as the property rights are 
+clearly assigned. "  In Chile, Australia and the Western US, water trading has evolved in direct response to 
+scarcity (Olmstead 2013). The National Water Code established in Chile in 1981 separated water rights 
+from land rights and allowed the water rights to be traded. The response has been significant in the north-
+Central region (Bauer 2004). In Australia, water trading was introduced over the course of three decades, 
+beginning in 1983 with South Australia. This appears to have generated positive economic responses in 
+the form of increased 'value per drop' through more efficient technologies and a shift to higher value 
+crops (Bjornlund and McKay 2002). The idea that agriculture is likely to be the sector relinquishing water in the presence of future 
+scarcity is further underscored in the study by McKinsey and Company which compiled a marginal cost 
+of water availability schedule for the Indian economy. This is portrayed in Figure 15 which identifies 
+water conservation measures in agriculture, industry and residential/commercial uses, along with potential 
+supply-enhancing measures which could help to close the projected gap between water requirements and ENV/WKP(2016)11 45 available supplies in 2030. The first thing to note is the predominance of agricultural conservation 
+measures at the lower end of this cost curve. Indeed, one-third of the projected deficit in 2030 comprises 
+'no regrets' policies – changes in behaviour which will actually save money! These include the 
+introduction of no-till farming, reducing over-irrigation and optimising the use of fertiliser on irrigated 
+fields. About two-thirds of the gap can be closed with agricultural adaptations with modest cost (less than 
+USD 0.02/cubic meter, such as drip irrigation, and improved management of irrigated crops. In order to 
+fully close the projected gap of more than 700 billion cubic meters in 2030, some supply measures are 
+envisioned, including improving infrastructure in the 'last mile' of delivery and the development of small 
+scale supply infrastructure. Conservation measures in municipal and domestic use are far more costly and 
+therefore unlikely to come into the optimal mix of policies. Figure 16. 
+Cost of increasing water availability in India in 2030 through conservation and supply 
+considerations Source: Reproduced from McKinsey & Co. (2009) Of course, any time water is withdrawn from agriculture, there will likely be adverse rural impacts, 
+unless households and communities are compensated for the loss of these implicit subsidies. In their 
+analysis of intersectoral water competition in South Africa, Hassan and Thurlow (2011) find that a policy 
+scenario in which water is allowed to move to higher value uses in the urban, industrial and domestic 
+sectors reduces rural incomes and employment – particularly for the poorest households. Clearly such 
+reforms must be accompanied by some form of compensation, decoupled from water use, if adverse 
+income distributional consequences are to be avoided. 7.4. Implications for CGE Modelling Given the dominant role of irrigation in total water withdrawals in the arid regions of the world, and 
+given the extremely low price charged for this water in most cases, it seems logical that agriculture is 
+likely to absorb a large share of future water deficits. This suggests a baseline modelling strategy akin to 
+that of the IMPACT-WATER group in which non-agricultural water use is determined based on projected 
+economic growth and municipal water pricing policies. After running the hydrological model to 
+determine availability at the river basin level, agriculture might be forced to adjust to any ensuing ENV/WKP(2016)11 46 scarcity. This baseline scenario could be contrasted with an efficient allocation scenario in which the price 
+of raw water is equated across sectors. There are several important issues which a global CGE analysis is likely to have great difficulty in 
+addressing. One of these has to do with return flows. Industrial water is often discharged into streams and 
+rivers. Irrigation water not lost through evapotranspiration may recharge aquifers or add to surface water 
+availability. Proper analysis of these return flows requires considerable spatial detail. And subsequent use 
+of these return flows may require water treatment, in which case one needs to worry about water quality, 
+not just quantity. Studies which ignore the potential for recycling of water, invariably underestimate water 
+supply. Luckman et al. (2014) make a good start at dealing with reuse by differentiating between seven 
+different types of water, some of which are naturally occurring endowments, some of which are outputs 
+and some of which are by-products of individual sectors. Of course, finding the data to underpin such 
+analysis of reuse at the global scale is likely to be difficult, as pointed out by Seckler et al. (1998). Another aspect of global water scarcity which is extremely important, but also challenging to come 
+to grips with in a standard CGE model, is that of trans-boundary river basins. DeStefano et al. (2010) 
+identify 16 'at risk' river basins which are likely to pose particular problems in the coming decades due to 
+expected increases in hydrological variability and poor institutions governing international flows of water. 
+Ten of these are in Africa – a region already torn by strife. Analysing these flows and the resulting 
+tensions would be a valuable contribution, but may best be done in a regional model which combines 
+hydrological, climatic and economic dimensions of the problem. 8. CONCLUSIONS AND RESEARCH PRIORITIES 8.1. Summary of Findings The purpose of this background paper has been to survey the literature bearing on various 
+dimensions of water scarcity and economic growth, with an eye to the incorporation of future water 
+scarcity into a global CGE model such as the OECD's ENV-Linkages model. The evidence that links 
+water scarcity to a slow-down of the long term rate of national economic growth is still relatively scarce. 
+At local scale, water shortages can have a devastating impact – particularly in the near term, with power 
+outages, retirement of irrigated crop land and unemployment. These localised impacts suggest the need 
+for greater disaggregation than is usually the case in global CGE models. The minimum relevant scale 
+would appear to be the river basin. Implementation of a global CGE model with water demand and supply 
+fleshed out at the level of river basins will be a significant undertaking. However, some progress has been 
+made in this regard (Liu et al., 2014) and there is a great deal of existing data and modelling work outside 
+the CGE community which can form the foundation for such studies (e.g., Rosegrant et al. 2013). As society looks ahead to a world of increasing water scarcity, a key factor will be the scope for 
+society to conserve water: (a) by increasing efficiency in existing uses (e.g. water-efficient appliances), 
+(b) by substituting away from water intensive production activities (e.g., shifting from irrigated to rainfed 
+cropping) and (c) by substituting away from water intensive consumption goods and services (e.g., green 
+lawns). The overall capacity of the economy to substitute increasingly abundant physical and human 
+capital for scarce water, is captured by the elasticity of substitution between these two inputs, s . If 
+technology and preferences result in a value of 1 
+  , then as water becomes more scarce, the associated ENV/WKP(2016)11 47 economic rents will claim a larger and larger share of GDP. Eventually this could become a significant 
+drag on the economy. In the literature review provided here, it appears that, at the level of individual 
+sectors, this relatively inelastic response to water scarcity is indeed prevalent. However, it remains to be 
+seen what scope there is for the economy to substitute more aggressively away from water intensive 
+activities and consumption goods. Quantifying this potential should be part of the research agenda 
+undertaken with the kind of global CGE model discussed in this report. Having flagged the potential for water scarcity to become a brake on economic growth, it should also 
+be pointed out that water use is by no means destined to grow in proportion to population and/or output. 
+Indeed, in reviewing the literature on water demand, the ample opportunities for conserving water across 
+the board are striking, including in the electric power sector, the production of industrial steam, residential 
+consumption, and irrigated agriculture. In our opinion, the main reason why such substitution has not 
+been more widespread to date is due to the absence of economic incentives for conservation. In many uses 
+around the world, water remains virtually free. And where a pricing structure does exist, it varies widely 
+across sectors. Indeed, one could argue that the inter-sectoral price differential for water (100x in some 
+places) represents one of the most extreme misallocations of a resource in the world economy today. The presence of this large inter-sectoral distortion heightens the need for general equilibrium 
+analysis. Not only does the CGE approach offer estimates of the direct gains from reducing this distortion, 
+but it also captures how this distortion interacts with other shocks to the economy. Indeed, it is entirely 
+possible that, in a world of increasing water scarcity, water surplus regions could suffer efficiency losses 
+as a result of the interplay between these distortions and international price changes. The presence of these large factor market distortions is a tribute to the power of the vested interests 
+which control existing water rights. And their resilience over time is evidence of significant political 
+power. However, as water scarcity becomes more severe, it is possible that these vested interests will be 
+overtaken by the broader national interest, and a more economically efficient allocation of water will 
+emerge. In this sense, the looming water crisis could actually become a growth opportunity, since 
+reallocating water to higher value uses could bring significant aggregate benefits. 8.2. Research Agenda As is clear from this report, modelling the impacts of water scarcity in a global, CGE framework is 
+not for the faint of heart! This raises the legitimate question: Recognising that one cannot do everything at 
+the outset, what are the top priorities? Firstly, it is essential to break out water from the other inputs in the CGE model. It is difficult to talk 
+about water scarcity if this is treated as a latent factor of production, the impact of which is only felt 
+through changes in productivity, as has been done in some of the earlier studies. Secondly, given the importance of reuse in the total supply picture, it would appear that treating 
+water as both an input and an output is warranted. Other than in the municipal water utility sector, the 
+water output will typically be a by-product, and, in order for it to be reused, some further processing is 
+required. Thirdly, as soon as one seeks to break out an input in the social accounting matrix underpinning a 
+CGE model, it becomes necessary to value the flow, which takes us into the realm of water pricing and 
+the value of the marginal product of water in different uses. As identified in her recent review, Olmstead 
+(2013) highlights this as a central challenge to those currently working in this area. Such a data set on 
+global water prices, by sector, would be an enormously important public good, and the OECD is well-
+positioned to champion such an effort. Indeed, the OECD already undertakes similar exercises for ENV/WKP(2016)11 48 agricultural subsidies (e.g, OECD, 2016a) and the IEA does so for energy prices and subsidies. Such an 
+activity would pair nicely with the development of a global CGE model which can utilise these data to 
+shed light on the interplay between future water scarcity, the allocation of resources across sectors and 
+countries, and long run economic growth. Fourthly, once a data set is assembled, the minimalist model will need to differentiate between the 
+various classes of water uses identified above. Given its prominence in overall water withdrawals, as well 
+as its critical role in accommodating future scarcity in water availability, the irrigated cropping sector 
+demands special attention. Here, differentiation of irrigated and rainfed activities will be essential if the 
+model is to capture the full potential for water conversation through altering the mix of rainfed and 
+irrigated agriculture. Residential, commercial, industrial and electric power generation demands can be 
+handled in a relatively straightforward manner, with limited short run substitution possibilities, but 
+significant long run substitution in the context of new, more water-efficient capital stocks. In the context 
+of electricity generation, in addition to water consumption in the cooling processes, it will also be 
+important to recognise the evaporative losses which accompany hydropower generation. At the outset, 
+treatment of environmental demands will likely follow the literature and simply reserve a portion of in-
+stream flows for these uses. Finally, the impact of water scarcity on economic growth will depend critically on the allocation 
+rules chosen for dealing with scarcity. Therefore, the model should be designed in such a way as to permit 
+maximum flexibility in the choice of different approaches to water allocation. These might include a 
+cascading set of priorities, as in the IMPACT-WATER model, sub-markets wherein certain sectors 
+compete for residual water supply, as well as a full-blown market for water at the level of individual river 
+basins. Being able to analyse the distributional and efficiency impacts of alternative approaches to water 
+allocation will allow such a model to play an important role in future debates about water scarcity and 
+economic growth. ENV/WKP(2016)11 49 REFERENCES Ahmed, S.A., Hertel, T., Lubowski, R., (2008), Calibration of a Land Cover Supply Function Using 
+Transition Probabilities (GTAP Research Memorandum No. 14). Center for Global Trade Analysis, 
+Department of Agricultural Economics, Purdue University, West Lafayette, Indiana, USA. Alexandratos, N., Bruinsma, J., (2012), World agriculture towards 2030/2050 (The 2012 Revision). Anderson, N.M. and D.A. Sumner (2016), "Which California Foods You Consume Makes Little Impact on 
+Drought-Relevant Water Usage.", ARE Update 19(3):5-8. University of California Giannini 
+Foundation of Agricultural Economics. 
+http://s.giannini.ucop.edu/uploads/giannini_public/f3/91/f39155ce-574f-43f8-9a23-
+6068128e4180/v19n3_2.pdf. Arnell, N.W., (2004), Climate change and global water resources: SRES emissions and socio-economic 
+scenarios. Glob. Environ. Change, Climate Change 14, 31–52. 
+https://dx.doi.org/10.1016/j.gloenvcha.2003.10.006. Baker, J.E., (2011), The impact of including water constraints on food production within a CGE 
+framework. Massachusetts Institute of Technology. Barbier, E.B., (2004), Water and Economic Growth. Econ. Rec. 80, 1–16. http://dx.doi.org/10.1111/j.1475-
+4932.2004.00121.x. Bauer, C.J., (2004), Results of Chilean water markets: Empirical research since 1990. Water Resour. Res. 
+40, W09S06. http://dx.doi.org/10.1029/2003WR002838. Bell, A., Zhu, T., Xie, H., Ringler, C., (2014), Climate–water interactions—Challenges for improved 
+representation in integrated assessment models. Energy Econ. 
+http://dx.doi.org/10.1016/j.eneco.2013.12.016. Berrittella, M., Hoekstra, A.Y., Rehdanz, K., Roson, R., Tol, R.S.J., (2007), The economic impact of 
+restricted water supply: A computable general equilibrium analysis. Water Res. 41, 1799–1813. 
+http://dx.doi.org/10.1016/j.watres.2007.01.010. Betts, R.A., Cox, P.M., Lee, S.E., Woodward, F.I., (1997), Contrasting physiological and structural 
+vegetation feedbacks in climate change simulations. Nature 387, 796–799. 
+http://dx.doi.org/10.1038/42924. Bhattacharya, A., Bijon, M., (2013), Water Availability for Sustainable Energy Policy: Assessing cases in 
+South and South East Asia. IGES Research Report 2013-01. Bjornlund, H., McKay, J., (2002), Aspects of water markets for developing countries: experiences from 
+Australia, Chile, and the US. Environ. Dev. Econ. 7, 769–795. 
+http://dx.doi.org/10.1017/S1355770X02000463. ENV/WKP(2016)11 50 Bruinsma, J., (2009), The resource outlook to 2050. By how much do land, water use and crop yields need 
+to increase by 2050?, in: FAO Expert Meeting on How to Feed the World in 2050. Food and 
+Agriculture Organisation of the UN, Rome, Italy. Burke, J., Villholth, K., (2007), Groundwater: a global assessment of scale and significance, in: Molden, D. 
+(Ed.), Water for Food, Water for Life. Earthscan and International Water Management Institute, 
+London and Colombo, pp. 395–423. Calzadilla, A., Rehdanz, K., Tol, R.S.J., (2011), The GTAP-W model: Accounting for water use in 
+agriculture (No. 1745). Kiel Working Papers. Chao, B.F., Wu, Y.H., Li, Y.S., (2008), Impact of Artificial Reservoir Water Impoundment on Global Sea 
+Level. Science 320, 212–214. http://dx.doi.org/10.1126/science.1154580. Darwin, R., Tsigas, M.E., Lewandrowski, J., Raneses, A., (1995), World agriculture and climate change: 
+economic adaptations. United States Department of Agriculture, Economic Research Service. De Fraiture, C., Wichelns, D., Rockstrom, J., Kemp-Benedict, E., Eriyagama, N., Gordon, L.J., Hanjra, 
+M.A., Hoogeveen, J., Huber-Lee, A., Karlberg, L., (2007), Looking ahead to 2050: scenarios of 
+alternative investment approaches. De Stefano, L., Edwards, P., De Silva, L., Wolf, A.T., (2010), Tracking cooperation and conflict in 
+international basins: historic and recent trends. Water Policy 12, 871–884. Decaluwe, B., Patry, A., Savard, L., (1999), When water is no longer heaven sent: Comparative pricing 
+analysis in a AGE model. Cah. Trav. 99. Diao, X., Dinar, A., Roe, T., Tsur, Y., (2008), A general equilibrium analysis of conjunctive ground water 
+and surface water use with an application to Morocco. Agric. Econ. 38, 117–135. Dixon, P.B., Rimmer, M.T., Wittwer, G., (2011), Saving the Southern Murray-Darling Basin: The 
+Economic Effects of a Buyback of Irrigation Water*. Econ. Rec. 87, 153–168. 
+http://dx.doi.org/10.1111/j.1475-4932.2010.00691.x. Döll, P., (2002), Impact of Climate Change and Variability on Irrigation Requirements: A Global 
+Perspective. Clim. Change 54, 269–293. http://dx.doi.org/10.1023/A:1016124032231. Döll, P., and Flörke, M., (2005), Global-Scale Estimation of Diffuse Groundwater Recharge. Hydrology 
+Paper 3. Frankfurt University, Insitute of Physical Geography, Germany. Döll, P., Hoffmann-Dobrev, H., Portmann, F.T., Siebert, S., Eicker, A., Rodell, M., Strassberg, G., 
+Scanlon, B.R., (2012), Impact of water withdrawals from groundwater and surface water on 
+continental water storage variations. J. Geodyn. 59–60, 143–156. 
+http://dx.doi.org/10.1016/j.jog.2011.05.001. Dudu, H., Chumi, S., (2008), Economics of Irrigation Water Management: A Literature Survey with Focus 
+on Partial and General Equilibrium Models (SSRN Scholarly Paper No. ID 1106504). Social 
+Science Research Network, Rochester, NY. Evenson, R.E., Gollin, D., (2003), Assessing the Impact of the Green Revolution, 1960 to 2000. Science 
+300, 758–762. http://dx.doi.org/10.1126/science.1078710. ENV/WKP(2016)11 51 Faures, J.-M., Svendsen, M., Turral, H., Berkhoff, J., Bhattarai, M., Caliz, A.M., Darghouth, S., Doukkali, 
+M.R., El-Kady, M., Facon, T., (2007), Reinventing irrigation. Fereres, E., Soriano, M.A., (2007), Deficit irrigation for reducing agricultural water use. J. Exp. Bot. 58, 
+147–159. http://dx.doi.org/10.1093/jxb/erl165. Fischer, G., Tubiello, F.N., van Velthuizen, H., Wiberg, D.A., (2007), Climate change impacts on 
+irrigation water requirements: Effects of mitigation, 1990–2080. Technol. Forecast. Soc. Change, 
+Greenhouse Gases -Integrated Assessment 74, 1083–1107. 
+http://dx.doi.org/10.1016/j.techfore.2006.05.021. Fisher, A.C., Rubio, S.J., (1997), Adjusting to Climate Change: Implications of Increased Variability and 
+Asymmetric Adjustment Costs for Investment in Water Reserves. J. Environ. Econ. Manag. 34, 
+207–227. http://dx.doi.org/10.1006/jeem.1997.1011. Foster, S.S., Perry, C.J., (2010), Improving groundwater resource accounting in irrigated areas: a 
+prerequisite for promoting sustainable use. Hydrogeol. J. 18, 291–294. Füssel, H.-M., Heinke, J., Popp, A., Gerten, D., (2012), Climate Change and Water Supply, in: Edenhofer, 
+O., Wallacher, J., Lotze-Campen, H., Reder, M., Knopf, B., Müller, J. (Eds.), Climate Change, 
+Justice and Sustainability. Springer Netherlands, pp. 19–32. Gerbens-Leenes, W., Hoekstra, A.Y., Meer, T.H. van der, (2009), The water footprint of bioenergy. Proc. 
+Natl. Acad. Sci. 106, 10219–10223. http://dx.doi.org/10.1073/pnas.0812619106. Glyn Wittwer, (2012), Economic modeling of water the Australian CGE experience. Springer, Dordrecht ; 
+New York. Golub, A., Hertel, T.W., Lee, H.-L., Rose, S., Sohngen, B., (2009), The opportunity cost of land use and 
+the global potential for greenhouse gas mitigation in agriculture and forestry. Resour. Energy Econ. 
+31, 299–319. http://dx.doi.org/10.1016/j.reseneeco.2009.04.007. Gómez, C.M., Tirado, D., Rey-Maquieira, J., (2004), Water exchanges versus water works: Insights from a 
+computable general equilibrium model for the Balearic Islands. Water Resour. Res. 40, n/a–n/a. 
+http://dx.doi.org/10.1029/2004WR003235. Griffin, R.C., (2006), Water Resource Economics: The Analysis of Scarcity, Policies, and Projects (MIT 
+Press Books). The MIT Press. Gruere, G. (2015), "A Californian enigma: Record-high agricultural revenues during the most severe 
+drought in history", OECD Insights, OECD, Paris. http://oecdinsights.org/2015/12/09/a-californian-
+enigma-record-high-agricultural-revenues-during-the-most-severe-drought-in-history/ Gurgel, A., Reilly, J.M., Paltsev, S., (2007), Potential Land Use Implications of a Global Biofuels Industry. 
+J. Agric. Food Ind. Organ. 5, 1–36. http://dx.doi.org/10.2202/1542-0485.1202. Hanjra, M.A., Ferede, T., Gutta, D.G., (2009), Reducing poverty in sub-Saharan Africa through 
+investments in water and other priorities. Agric. Water Manag. 96, 1062–1070. 
+http://dx.doi.org/10.1016/j.agwat.2009.03.001. Hanoch, G., (1975), Production and demand models with direct or indirect implicit additivity. Econom. J. 
+Econom. Soc. 395–419. ENV/WKP(2016)11 52 Hassan, R., Thurlow, J., (2011), Macro–micro feedback links of water management in South Africa: CGE 
+analyses of selected policy regimes. Agric. Econ. 42, 235–247. http://dx.doi.org/10.1111/j.1574-
+0862.2010.00511.x. Hertel, T., McDougall, R., Narayanan, B., Aguiar, A., (2014), Chapter 14 Behavioral Parameters [WWW 
+Document]. Cent. Glob. Trade Anal. www.gtap.agecon.purdue.edu/databases/v8/v8_doco.asp. Hertel, T.W., (1997), Global Trade Analysis: Modeling and Applications. Cambridge University Press, 
+New York. Hertel, T.W., Rose, S., Tol, R.S., (2009), Land use in computable general equilibrium models. Econ. Anal. 
+Land Use Glob. Clim. Change Policy 1. Huang, Q., Rozelle, S., Lohmar, B., Huang, J., Wang, J., (2006), Irrigation, agricultural performance and 
+poverty reduction in China. Food Policy 31, 30–52. http://dx.doi.org/10.1016/j.foodpol.2005.06.004. Huff, K., Hertel, T., (2001), Decomposing Welfare Changes in GTAP [WWW Document]. GTAP Tech. 
+Pap. No 05. www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=308. Hussain, I., Hanjra, M.A., (2003), Does irrigation water matter for rural poverty alleviation? Evidence 
+from South and South-East Asia. Water Policy 5, 429–442. International Energy Agency (IEA), (2012), World Energy Outlook. IEA, Paris. Kim, J.R., McCuen, R.H., (1979), Factors for Predicting Commercial Water Use1. JAWRA J. Am. Water 
+Resour. Assoc. 15, 1073–1080. http://dx.doi.org/10.1111/j.1752-1688.1979.tb01085.x. Kucharik, C.J., Ramankutty, N., (2005), Trends and Variability in U.S. Corn Yields Over the Twentieth 
+Century. Earth Interact. 9, 1–29. Leblanc, M.J., Favreau, G., Massuel, S., Tweed, S.O., Loireau, M., Cappelaere, B., (2008), Land clearance 
+and hydrological change in the Sahel: SW Niger. Glob. Planet. Change 61, 135–150. 
+http://dx.doi.org/10.1016/j.gloplacha.2007.08.011. Lee, M., Tansel, B., Balbin, M., (2011), Influence of residential water use efficiency measures on 
+household water demand: A four year longitudinal study. Resour. Conserv. Recycl. 56, 1–6. 
+http://dx.doi.org/10.1016/j.resconrec.2011.08.006. Liu, J., Hertel, T.W., Taheripour, F., Zhu, T., Ringler, C., (2014b), International trade buffers the impact of 
+future irrigation shortfalls. Glob. Environ. Change 29, 22–31. 
+http://dx.doi.org/10.1016/j.gloenvcha.2014.07.010. Lobell, D.B., Roberts, M.J., Schlenker, W., Braun, N., Little, B.B., Rejesus, R.M., Hammer, G.L., (2014), 
+Greater Sensitivity to Drought Accompanies Maize Yield Increase in the U.S. Midwest. Science 
+344, 516–519. http://dx.doi.org/10.1126/science.1251423. Luckmann, J., Grethe, H., McDonald, S., Orlov, A., Siddig, K., (2014), An integrated economic model of 
+multiple types and uses of water. Water Resour. Res. 50, 3875–3892. 
+http://dx.doi.org/10.1002/2013WR014750. Masanet, E., Walker, M.E., (2013), Energy-water efficiency and U.S. industrial steam. AIChE J. 59, 2268– 
+2274. http://dx.doi.org/10.1002/aic.14148. ENV/WKP(2016)11 53 Mayer, P.W., DeOreo, W.B., (1999), Residential end uses of water. American Water Works Association. Medellin-Azuara, J., et al. (2015), "Agricultural Irrigation in This Drought: Where is the Water and Where 
+Is It Going?", Agricultural and Resource Economics Update, Vol. 18, N. 5, p. 5-6, Giannini 
+Foundation of Agricultural Economics. 
+http://s.giannini.ucop.edu/uploads/giannini_public/80/57/8057fac7-0b5e-4d14-8fd3-
+9d7c6d36e9a4/v18n5_g9jdezd.pdf. McDougall, R., (2003), A New Regional Household Demand System for GTAP. GTAP Tech. Pap. McKinsey & Co, (2009), Charting Our Water Future: Economic frameworks to inform decision-making. 
+2030 Water Resources Group: McKinsey & Co. Mekonnen, M.M., Hoekstra, A.Y., (2012), A Global Assessment of the Water Footprint of Farm Animal 
+Products. Ecosystems 15, 401–415. http://dx.doi.org/10.1007/s10021-011-9517-8. Mekonnen, M.M., Hoekstra, A.Y., (2011), The water footprint of electricity from hydropower. Hydrol 
+Earth Syst Sci Discuss 8, 8355–8372. http://dx.doi.org/10.5194/hessd-8-8355-2011. Meldrum, J., Nettles-Anderson, S., Heath, G., Macknick, J., (2013), Life cycle water use for electricity 
+generation: a review and harmonization of literature estimates. Environ. Res. Lett. 8, 015031. 
+http://dx.doi.org/10.1088/1748-9326/8/1/015031. Mendelsohn, R., Dinar, A., (2003), Climate, Water, and Agriculture. Land Econ. 79, 328–341. 
+http://dx.doi.org/10.2307/3147020. Milly, P.C.D., Dunne, K.A., Vecchia, A.V., (2005), Global pattern of trends in streamflow and water 
+availability in a changing climate. Nature 438, 347–350. http://dx.doi.org/10.1038/nature04312. Molden, D., (2007), Water for Food, Water for Life: A Comprehensive Assessment of Water Management 
+in Agriculture. Earthscan. Molden, D., Oweis, T., Steduto, P., Bindraban, P., Hanjra, M.A., Kijne, J., (2010), Improving agricultural 
+water productivity: Between optimism and caution. Agric. Water Manag. 97, 528–535. 
+http://dx.doi.org/10.1016/j.agwat.2009.03.023. Molden, D., Oweis, T.Y., Pasquale, S., Kijne, J.W., Hanjra, M.A., Bindraban, P.S., Bouman, B.A.M., 
+Cook, S., Erenstein, O., Farahani, H., (2007), Pathways for increasing agricultural water 
+productivity. Mukherji, A., Facon, T., (2009), Revitalizing Asia's irrigation: to sustainable meet tomorrow's food needs. 
+Revital. Asias Irrig. Sustain. Meet Tomorrows Food Needs. Namara, R.E., Hanjra, M.A., Gina E. Castillo, Ravnborg, H.M., Smith, L., Van Koppen, B., (2010), 
+Agricultural water management and poverty linkages. Agric. Water Manag., Comprehensive 
+Assessment of Water Management in Agriculture 97, 520–527. 
+http://dx.doi.org/10.1016/j.agwat.2009.05.007. Nauges, C., Whittington, D., (2012), Estimation of Water Demand in Developing Countries [WWW 
+Document]. http://elibrary.worldbank.org/doi/abs/10.1093/wbro/lkp016?journalCode=wbro, 
+http://elibrary.worldbank.org/doi/abs/10.1093/wbro/lkp016?journalCode=wbro (accessed 2.19.14). ENV/WKP(2016)11 54 OECD (2016a), Agricultural Policy Monitoring and Evaluation 2016, OECD Publishing, Paris, 
+http://dx.doi.org/10.1787/agr_pol-2016-en. OECD (2016b), Mitigating Droughts and Floods in Agriculture: Policy Lessons and Approaches, OECD 
+Studies on Water, OECD Publishing, Paris, http://dx.doi.org/10.1787/9789264246744-en. OECD (2015a), Drying wells, Rising stakes: Towards Sustainable Agricultural Groundwater Use, OECD 
+Studies on Water, OECD Publishing, Paris, http://dx.doi/10.1787/978926423870-en. OECD (2015b), Water Resources Allocation: Sharing Risks and Opportunities, OECD Studies on Water, 
+OECD Publishing, Paris, http://dx.doi.org/10.1787/9789264229631-en. OECD (2015c), Water and Innovation for Green Growth: Policy Perspectives, OECD Publishing, Paris. OECD (2014), Climate Change, Water and Agriculture: Towards Resilient Systems, OECD Studies on 
+Water, OECD Publishing, Paris, http://dx.doi.org/10.1787/9789264209138-en. OECD (2013), OECD Compendium of Agri-environmental Indicators, OECD Publishing, Paris, 
+http://dx.doi.org/10.1787/9789264186217-en. OECD (2012), OECD Environmental Outlook to 2050: The Consequences of Inaction, OECD Publishing, 
+Paris, http://dx.doi.org/10.1787/9789264122246. OECD (2010), Sustainable Management of Water Resources in Agriculture, OECD Studies on Water, 
+OECD Publishing, Paris, http://dx.doi.org/10.1787/9789264083578-en. Olmstead, S.M., (2013), Climate change adaptation and water resource management: A review of the 
+literature. Energy Econ. http://dx.doi.org/10.1016/j.eneco.2013.09.005. Parker, J.M., Wilby, R.L., (2013), Quantifying Household Water Demand: A Review of Theory and 
+Practice in the UK -Springer. Water Resour. Manag. 27, 981–1011. Pavelic, P., Patankar, U., Acharya, S., Jella, K., Gumma, M.K., (2012), Role of groundwater in buffering 
+irrigation production against climate variability at the basin scale in South-West India. Agric. Water 
+Manag. 103, 78–87. http://dx.doi.org/10.1016/j.agwat.2011.10.019. Peterson, D., Dwyer, G., Appels, D., Fry, J.M., (2004), Modelling Water Trade in the Southern Murray-
+Darling Basin Staff Working Paper. Ponce, R., Bosello, F., Giupponi, C., (2012), Integrating Water Resources into Computable General 
+Equilibrium Models -A Survey. Fondazione Eni Enrico Mattei Work. Pap. Ramankutty, N., Evan, A.T., Monfreda, C., Foley, J.A., (2008), Farming the planet: 1. Geographic 
+distribution of global agricultural lands in the year 2000. Glob. Biogeochem. Cycles 22, GB1003. 
+http://dx.doi.org/10.1029/2007GB002952. Renzetti, S., (1992), Estimating the Structure of Industrial Water Demands: The Case of Canadian 
+Manufacturing. Land Econ. 68, 396–404. http://dx.doi.org/10.2307/3146696. Rosegrant, M.W., Cai, X., (2002), Global Water Demand and Supply Projections. Water Int. 27, 170–182. 
+http://dx.doi.org/10.1080/02508060208686990. ENV/WKP(2016)11 55 Rosegrant, M.W., Cai, X., Cline, S.A., (2002), World water and food to 2025: dealing with scarcity. Rosegrant, M.W., Ringler, C., Msangi, S., Sulser, T.B., Zhu, T., Cline, S.A., (2008), International Model 
+for Policy Analysis of Agricultural Commodities and Trade (IMPACT): Model Description. Rosegrant, M.W., Ringler, C., Zhu, T., Tokgoz, S., Bhandary, P., (2013), Water and food in the 
+bioeconomy: Challenges and opportunities for development. Agric. Econ. 1–12. 
+http://dx.doi.org/10.1111/agec.12058. Rosegrant, M.W., The IMPACT Development Team, (2012), International model for policy analysis of 
+agricultural commodities and trade (IMPACT) model description. Sands, R., Kim, M.-K., (2008), Modeling the Competition for Land: Methods and Application to Climate 
+Policy [WWW Document]. GTAP Work. Pap. No 45. 
+www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=2606. Sands, R.D., Leimbach, M., (2003), Modeling Agriculture and Land Use in an Integrated Assessment 
+Framework. Clim. Change 56, 185–210. http://dx.doi.org/10.1023/A:1021344614845. Seckler, D., Amarasinghe, U., Molden, D., de Silva, R., Barker, R., (1998), World Water Demand and 
+Supply, 1990 to 2025: Scenarios and Issues. Siebert, S., Burke, J., Faures, J.M., Frenken, K., Hoogeveen, J., Döll, P., Portmann, F.T., (2010), 
+Groundwater use for irrigation – a global inventory. Hydrol Earth Syst Sci Discuss 7, 3977–4021. 
+http://dx.doi.org/10.5194/hessd-7-3977-2010. Smakhtin, V.U., Revenga, C., Doll, P., (2004), Taking into account environmental water requirements in 
+global-scale water resources assessments. Smith, L.E.D., (2004), Assessment of the contribution of irrigation to poverty reduction and sustainable 
+livelihoods. Int. J. Water Resour. Dev. 20, 243–257. 
+http://dx.doi.org/10.1080/0790062042000206084. Strzepek, K., Boehlert, B., (2010), Competition for water for the food system. Sue Wing, I. and E. Lanzi (2014), "Integrated Assessment of Climate Change Impacts: Conceptual 
+Frameworks, Modelling Approaches and Research Needs", OECD Environment Working Papers, 
+No. 66, OECD Publishing, Paris, http://dx.doi.org/10.1787/5jz2qcjsrvzx-en. Svendsen, M., Ewing, M., Msangi, S., (2009), Measuring irrigation performance in Africa. IFPRI -
+Discuss. Pap. vi + 42 pp. Taheripour, F., Hertel, T., Liu, J., (2013a), Introducing water by river basin into the GTAP-BIO model: 
+GTAP-BIO-W [WWW Document]. GTAP Work. Pap. No 77. 
+www.gtap.agecon.purdue.edu/resources/res_display.asp?RecordID=4304. Taheripour, F., Hurt, C., Tyner, W.E., (2013b), Livestock industry in transition: Economic, demographic, 
+and biofuel drivers. Anim. Front. 3, 38–46. http://dx.doi.org/10.2527/af.2013-0013. Taylor, R.G., Scanlon, B., Döll, P., Rodell, M., van Beek, R., Wada, Y., Longuevergne, L., Leblanc, M., 
+Famiglietti, J.S., Edmunds, M., Konikow, L., Green, T.R., Chen, J., Taniguchi, M., Bierkens, 
+M.F.P., MacDonald, A., Fan, Y., Maxwell, R.M., Yechieli, Y., Gurdak, J.J., Allen, D.M., ENV/WKP(2016)11 56 Shamsudduha, M., Hiscock, K., Yeh, P.J.-F., Holman, I., Treidel, H., (2012), Ground water and 
+climate change. Nat. Clim. Change 3, 322–329. http://dx.doi.org/10.1038/nclimate1744. Tsigas, M.E., Gray, D., Hertel, T.W., Krissoff, B., (2001), Environmental consequences of trade 
+liberalization in the Western Hemisphere, in: The Sustainability of Long-Term Growth: 
+Socioeconomic and Ecological Perspectives. Edward Elgar Publishing, Cheltenham. Turral, H., Svendsen, M., Faures, J.M., (2010), Investing in irrigation: Reviewing the past and looking to 
+the future. Agric. Water Manag. 97, 551–560. http://dx.doi.org/10.1016/j.agwat.2009.07.012. UN Population Division, (2013), World Population Prospects: The 2012 Revision. Population Division of 
+the Department of Economic and Social Affairs of the United Nations Secretariat, New York , USA. Van Heerden, J.H., Blignaut, J., Horridge, M., (2008), Integrated water and economic modelling of the 
+impacts of water market instruments on the South African economy. Ecol. Econ. 66, 105–116. 
+http://dx.doi.org/10.1016/j.ecolecon.2007.11.011. Wada, Y., Wisser, D., Eisner, S., Flörke, M., Gerten, D., Haddeland, I., Hanasaki, N., Masaki, Y., 
+Portmann, F.T., Stacke, T., Tessler, Z., Schewe, J., (2013), Multimodel projections and uncertainties 
+of irrigation water demand under climate change. Geophys. Res. Lett. 40, 4626–4632. 
+http://dx.doi.org/10.1002/grl.50686. Wichelns, D. (2010), "An Economic Analysis of the Virtual Water Concept in relation to the Agri-food 
+Sector", in OECD , Sustainable Management of Water Resources in Agriculture, OECD Publishing, 
+Paris, http://dx.doi.org/10.1787/9789264083578-8-en. 

@@ -1,0 +1,2906 @@
+Please cite this paper as: Bartolini, D., S. Stossberg and H. Blöchliger (2016),  " Fiscal 
+Decentralisation and Regional Disparities " , OECD Economics 
+Department Working Papers, No. 1330, OECD Publishing, 
+Paris. 
+http://dx.doi.org/10.1787/5jlpq7v3j237-en OECD Economics Department Working 
+Papers No. 1330 Fiscal Decentralisation and 
+Regional Disparities David Bartolini, Sibylle Stossberg, 
+Hansjörg Blöchliger JEL Classification: H71, H77, R11 Unclassified ECO/WKP(2016)54 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 23-Sep-2016 
+___________________________________________________________________________________________ 
+_____________ 
+English -Or. English ECONOMICS DEPARTMENT FISCAL DECENTRALISATION AND REGIONAL DISPARITIES ECONOMICS DEPARTMENT WORKING PAPERS No. 1330 By David Bartolini, Sibylle Stossberg and Hansjörg Blöchliger OECD Working Papers should not be reported as representing the official views of the OECD or of its member 
+countries. The opinions expressed and arguments employed are those of the author(s). Authorised for publication by Christian Kastrop, Director, Policy Studies Branch, Economics Department. All Economics Department Working Papers are available at www.oecd.org/eco/workingpapers JT03401144 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. ECO/WKP(2016)54 
+Unclassified English -Or. English ECO/WKP(2016)54 2 OECD Working Papers should not be reported as representing the official views of the 
+OECD or of its member countries. The opinions expressed and arguments employed are 
+those of the author(s). Working Papers describe preliminary results or research in progress by the author(s) and 
+are published to stimulate discussion on a broad range of issues on which the OECD works. Comments on Working Papers are welcomed, and may be sent to OECD Economics 
+Department, 2 rue André Pascal, 75775 Paris Cedex 16, France, or by e-mail to 
+eco.contact@oecd.org. All 
+Economics 
+Department 
+Working 
+Papers 
+are 
+available 
+at 
+www.oecd.org/eco/workingpapers. The statistical data for Israel are supplied by and under the responsibility of the relevant 
+Israeli authorities. The use of such data by the OECD is without prejudice to the status of the 
+Golan Heights, East Jerusalem and Israeli settlements in the West Bank under the terms of 
+international law. Latvia was not an OECD Member at the time of preparation of this publication. Accordingly, 
+Latvia does not appear in the list of OECD Members and is not included in the zone 
+aggregates. © OECD (2016) 
+You can copy, download or print OECD content for your own use, and you can include 
+excerpts from OECD publications, databases and multimedia products in your own 
+documents, presentations, blogs, websites and teaching materials, provided that suitable 
+acknowledgment of OECD as source and copyright owner is given. All requests for 
+commercial use and translation rights should be submitted to rights@oecd.org ECO/WKP(2016)54 3 ABSTRACT Fiscal Decentralisation and Regional Disparities Fiscal decentralisation can lead to a more efficient provision of local public goods and services and 
+promote a better match between policies and citizens' preferences. At the same time, however, there are 
+concerns about whether all regions will gain from more autonomy. Decentralisation may not lift all boats, 
+with  " poor "  regions losing competitiveness with respect to better endowed ones, thus increasing regional 
+disparities. The present work investigates the relationship between fiscal decentralisation and regional 
+inequality within countries. Particular attention is paid to the different channels through which 
+decentralisation can affect disparities: taxing powers, spending autonomy and the vertical fiscal imbalance. 
+The empirical analysis, which is conducted on a sample of 30 OECD countries for the period 1995-2011, 
+suggests that a balanced fiscal structure, where local spending is mainly financed by local taxation, reduces 
+regional disparities, by providing an incentive to better use local resources and implement policies that 
+favour economic development. Keywords: Fiscal decentralisation, regional inequality, panel data JEL Classification: H71; H77; R11 ***** RESUME Décentralisation budgétaire et disparités régionales Si la décentralisation budgétaire peut permettre d'améliorer l'efficience de la fourniture des biens et 
+services publics locaux et promouvoir une meilleure adéquation entre les politiques publiques et les 
+préférences des citoyens, la question de savoir si toutes les régions peuvent tirer parti d'une plus grande 
+autonomie est source de préoccupation. Il est possible que la décentralisation ne profite pas à toutes les 
+régions, et qu'elle se traduise, pour les régions « pauvres » par une perte de compétitivité par rapport à 
+d'autres mieux dotées, exacerbant ainsi les disparités régionales. Les travaux en cours consistent en une 
+analyse du lien entre la décentralisation budgétaire et les inégalités régionales au sein des pays. Une 
+attention particulière y est accordée aux différents vecteurs par lesquels la décentralisation peut influer sur 
+les disparités : compétences en matière fiscale, autonomie au niveau des dépenses et déséquilibre 
+budgétaire vertical. Cette analyse empirique menée à partir d'un échantillon de 30 pays de l'OCDE sur la 
+période 1995-2011, tend à démontrer qu'une structure budgétaire équilibrée, dans laquelle les dépenses 
+locales sont financées essentiellement par la fiscalité locale, a pour effet de réduire les disparités 
+régionales, car elle incite à une meilleure utilisation des ressources locales et à la mise en oeuvre de 
+politiques qui favorisent le développement économique. Mots-clés : décentralisation budgétaire, inégalités régionales, données de panel Classification JEL : H71 ; H77 ; R11 ECO/WKP(2016)54 4 TABLE OF CONTENTS FISCAL DECENTRALISATION AND REGIONAL DISPARITIES ........................................................... 6 1. Introduction and main findings ................................................................................................................ 6 
+2. Fiscal decentralisation and regional inequality ........................................................................................ 7 
+2.1. Theoretical framework ...................................................................................................................... 7 
+2.2. Evidence from empirical studies ....................................................................................................... 8 
+2.3. Channels from decentralisation to disparities.................................................................................... 9 
+3. Empirical set-up ..................................................................................................................................... 10 
+3.1. Measurement issues: Indicators for regional inequality and fiscal decentralisation ....................... 10 
+3.2. Some stylised facts .......................................................................................................................... 16 
+3.3. The econometric model and the data ............................................................................................... 20 
+4. Estimation results ................................................................................................................................... 23 
+4.1. Baseline results ................................................................................................................................ 23 
+4.2. Extending the baseline model .......................................................................................................... 25 
+4.3. Robustness checks ........................................................................................................................... 28 
+5. Further analysis ...................................................................................................................................... 30 
+5.1. The effect of decentralisation on percentile ratios .......................................................................... 30 
+5.2. Catching-up or slowing down? ........................................................................................................ 31 
+5.3. Differences in productivity seem to determine regional disparities ................................................ 33 BIBLIOGRAPHY ......................................................................................................................................... 35 APPENDIX A ............................................................................................................................................... 38 A1. List of independent variables .............................................................................................................. 38 
+A2. Geographic Concentration Index ........................................................................................................ 39 
+A3. Bi-variate correlation matrix among the variables used in the econometric model ............................ 39 
+A4. SCG expenditure share and vertical fiscal imbalance ......................................................................... 41 
+A5. Gini index of regional disparities ........................................................................................................ 42 
+A6. Correlation between SCG tax share and SCG spending on economic affairs..................................... 44 
+A7. Dynamic specification of the baseline model ..................................................................................... 44 APPENDIX B ................................................................................................................................................ 46 Tables 1. 
+Number and size of OECD TL2 regions, by country ..................................................................... 12 
+2. 
+Decomposition of inequality within and between countries .......................................................... 17 
+3. 
+Descriptive statistics of main variables of interest ......................................................................... 21 
+4. 
+Summary statistics: Control variables ............................................................................................ 22 
+5. 
+Estimation results: Baseline model ................................................................................................ 23 
+6. 
+Estimation results: Refined measures of fiscal decentralisation .................................................... 26 
+7. 
+Institutional quality, expenditure decentralisation and regional disparity ..................................... 27 
+8. 
+Instrumental variable results confirm the baseline model .............................................................. 28 ECO/WKP(2016)54 5 9. 
+Decentralisation and percentile ratios: 75/25 and 90/10 ................................................................ 30 
+10. 
+Impact of decentralisation on top and bottom 25th percentile ....................................................... 33 
+A.1. Correlation matrix .......................................................................................................................... 40 
+A.2. Spending and vertical fiscal imbalance, FE and IV estimation...................................................... 41 
+A.3. Estimation results, interaction SCG expenditure share and fiscal vertical imbalance ................... 42 
+A.4. Estimation results, GINI index ....................................................................................................... 43 
+A.5. Estimation results of the dynamic specification of the model ....................................................... 45 
+B.1. Review of the empirical literature on the link between fiscal decentralisation 
+and regional disparity ..................................................................................................................... 46 Figures 1. 
+From fiscal autonomy to regional inequality ................................................................................. 10 
+2. 
+Levels and trend in regional inequality .......................................................................................... 14 
+3. 
+Regional inequality is decreasing between but increasing within countries .................................. 16 
+4. 
+Regional disparities in GDP per capita .......................................................................................... 17 
+5. 
+Patterns of regional inequality and GDP per capita ....................................................................... 18 
+6. 
+Tax decentralisation is associated with lower disparities, the vertical imbalance 
+with higher ones ............................................................................................................................. 19 
+7. 
+Vertical fiscal imbalance: Level and evolution .............................................................................. 20 
+8. 
+Differences in productivity drive regional disparities .................................................................... 34 
+A.1. Positive correlation between spending on economic affairs and SCG tax revenue share .............. 44 Boxes Box 1. The OECD regional classification .................................................................................................. 12 
+Box 2. The challenge of measuring fiscal decentralisation........................................................................ 15 ECO/WKP(2016)54 6 FISCAL DECENTRALISATION AND REGIONAL DISPARITIES By David Bartolini, Sibylle Stossberg and Hansjörg Blöchliger 1 1. Introduction and main findings 1. 
+Differences in GDP per capita across OECD countries have decreased over the past twenty years. 
+This process of economic convergence, however, masks increasing disparities within most countries. The 
+average level of inter-regional disparities in per capita GDP is currently above the level of cross-country 
+disparities. At the same time, many countries underwent far-reaching reforms to their intergovernmental 
+fiscal frameworks, such as the devolution of new responsibilities in education, health care or economic 
+affairs, and the assignment of additional taxing powers. Views differ sharply about whether fiscal 
+federalism reforms will further deepen regional disparities or, on the contrary might help regions converge. 
+While some point out that decentralisation provides jurisdictions with the incentives and the capacity for 
+growth-oriented policy, thereby fostering convergence, others point out that devolution could exacerbate 
+differences in regional competitiveness. 2. 
+An important element of this debate is the source of revenue used by sub-national governments to 
+finance local spending. There are two main sources: own resources and transfers from other levels of 
+government. Own resources (such as local taxation and fees for services) provide the local government 
+with a strong incentive to enlarge the tax base, becoming more competitive and more efficient in the use of 
+resources, which enhances regional growth but not necessarily convergence. Transfers tend to equalise the 
+fiscal capacity of regions, thus allowing common standards of public goods across the country, but provide 
+little incentive for lagging regions to catch up with the frontier – especially if the gains in terms of 
+increased tax base are captured by the central government. 3. 
+This paper sheds light on the role played by intergovernmental fiscal frameworks in shaping 
+regional economic development. The main findings are: 1. 
+Hansjörg Blöchliger and David Bartolini are in the Economics Department and the Public Governance and 
+Territorial Development Directorate of the OECD and Sibylle Stossberg is with the German Federal 
+Ministry of Finance (Bundesministerium der Finanzen). At the time of writing this paper, David Bartolini 
+was with the Economics Department and Sibylle Stossberg was on leave from the Ministry. The authors 
+are grateful to Monica Brezzi, Jose Enrique Garcilazo, Luiz de Mello and Joaquim Oliveira-Martins 
+(Public Governance and Territorial Development Directorate), Peter Hoeller, Christian Kastrop, Jean-Luc 
+Schneider and Eckhard Wurzel (Economics Department) as well as the delegates of the OECD Fiscal 
+Network for comments on earlier drafts. Special thanks go to Celia Rutkoski for assistance in preparing 
+this document. This paper is part of an OECD project on fiscal decentralisation and inequality. The other 
+papers include an OECD Economic Policy Paper (Blöchliger, Bartolini and Stossberg, 2016) that 
+summarises the whole project, a working paper on fiscal decentralisation and income inequality (Stossberg, 
+Bartolini and Blöchliger, 2016) and a working paper on the evolution of regional disparities (Arnold and 
+Blöchliger, 2016). ECO/WKP(2016)54 7  Tax and revenue decentralisation, measured by the share of sub-central government (SCG) tax 
+(or revenue) on total tax (or revenue), tend to reduce regional disparities; for instance, a 10 
+percentage point increase in revenue decentralisation reduces regional disparities by 11% (or 4 
+basis points of the coefficient of variation). The reduction of regional disparities seems to be 
+driven by the responsibility to raise tax revenue as shown by the significant impact of two 
+indicators of tax autonomy: the Regional Authority Index (RAI) and the OECD tax autonomy 
+index.  By contrast, the vertical fiscal imbalance – an indicator of the share of spending not financed 
+through own resources – is associated with larger regional disparities. The estimation results of 
+the impact of the vertical fiscal imbalance support the hypothesis that the reduction of regional 
+disparities passes through the incentive to raise own resources to finance sub-central spending.  The disparity-reducing effect is particularly strong at the extremes of the distribution, i.e. for the 
+richest and poorest jurisdictions. The ratio between the top 10 th percentile and the bottom 10 th 
+percentile of the distribution of regional per capita GDP is most affected by fiscal 
+decentralisation.  The impact of revenue decentralisation on the incentive to activate regional sources of growth is 
+confirmed by the results of a growth regression conducted on the top and bottom 25 th percentile 
+of the distribution of regional per capita GDP within countries. The positive impact of tax 
+decentralisation on GDP per capita growth is stronger in lagging regions, where there is more 
+scope for activating or using local resources more efficiently, than in leading regions. 4. 
+These results suggest that decentralisation should be implemented in a balanced way, with sub-
+central spending largely covered by own (tax) revenue. Transfers from the central government, are 
+beneficial to the extent that they do not counteract the incentive to raise tax revenues. Indeed, while central 
+government transfers may be necessary – in the short run – to achieve national common standards of sub-
+central public goods and services, the analysis shows that a trade-off exists with the incentives necessary to 
+foster regional conversion. 5. 
+The rest of the paper is organised as follows. Section 2 describes the theoretical framework and 
+the existing empirical evidence on the relationship between fiscal decentralisation and regional disparities, 
+and also includes a discussion of the main channels through which fiscal decentralisation affects regional 
+disparities; next, Section 3, provides a discussion of the methodology used to measure regional inequality 
+and fiscal decentralisation, and a description of the empirical strategy; Section 4, describes the estimation 
+results, and provides a discussion of their robustness; finally, Section 5, extends the analysis by 
+considering the impact of fiscal decentralisation on percentile ratios and on the growth rate of high and low 
+income regions. 2. Fiscal decentralisation and regional inequality 2.1. Theoretical framework 6. 
+Intergovernmental fiscal frameworks – the allocation of responsibilities and resources across 
+government levels – are part of the institutional set-up affecting regional convergence or divergence. The 
+predominant view is that fiscal decentralisation, while increasing the efficiency of sub-central public 
+finances, may induce greater regional disparities (Besley and Ghatak, 2003). A larger role of sub-central 
+governments induces a better match of policies with citizens' preferences (Oates, 1972), thus increasing 
+efficiency, but it also reduces the scope for central government intra-regional transfers, which aim at ECO/WKP(2016)54 8 reducing regional income differences (Prud'homme, 1995). As such, there are arguments both in favour of 
+an  " equalising "  role of fiscal decentralisation and of a  " diverging "  role.  Proponents of fiscal decentralisation argue that the potential for growth is larger in  " poor "  or 
+lagging regions than in rich regions. Fiscal decentralisation operates through the incentive to 
+better use local resources for growth, for which there should be more scope in lagging regions 
+than in regions that are already at the efficiency frontier (Rodriguez-Posé and Ezcurra, 2010). 
+Through this channel fiscal decentralisation can ignite a virtuous process of regional 
+convergence. Moreover, fiscal decentralisation can help jurisdictions beat the forces of 
+agglomeration: fiscal autonomy represents an essential instrument for peripheral jurisdictions to 
+compete with the gravitational pull of agglomerations (Baldwin and Krugman, 2004)  Sceptics of fiscal decentralisation argue that only well-endowed regions would benefit from fiscal 
+decentralisation, thus increasing regional disparities. In particular, the playing field is considered 
+uneven with important differences in institutional capacity (financial capacity and competence of 
+the local administration) and in socioeconomic endowments (productivity, infrastructure, etc.) 
+(Rodriguez-Posé and Gill, 2005). Furthermore, competition for mobile factors of production is 
+likely to lead to a  " race to the bottom "  with inefficiently low tax rates, thus accentuating the 
+problems of less well-endowed regions (Wilson, 2015). Finally, even if tax competition leads to 
+an efficient allocation of resources, as in the voting-with-your-feet model of Tiebout (1956), 
+regional disparities may increase. 2.2. Evidence from empirical studies 7. 
+The empirical literature has only recently started to investigate the links between fiscal 
+decentralisation and regional disparities. One of the first contributions is Shankar and Shah (2003) who 
+propose a comprehensive discussion of the methodology and investigate the relationship between regional 
+disparities and federal countries, suggesting that federal countries cope better with regional inequality than 
+unitary countries because policies are less interventionist and focus on promoting factor mobility and 
+minimum standards across the federation. A more direct investigation of the link is conducted by 
+Rodriguez-Posé and Gill (2004). They compare national trends in fiscal decentralisation and regional 
+disparities for the period 1980-2000, finding that decentralisation increases disparities because it fosters 
+agglomeration effects. These studies, however, were all conducted with cross-section methodologies, thus 
+the time dimension was not considered. 8. 
+Lessmann (2006) considers both a cross-section and a panel of 17 OECD countries over the 
+period 1980-2001. The author considers an econometric model where the coefficient of variation of 
+regional per capita GDP is regressed on several indicators of fiscal decentralisation (separately 
+considered), and a set of national characteristics that are supposed to affect regional inequality. The results 
+of both the OLS estimation and the fixed effect estimation show that all indicators of fiscal decentralisation 
+significantly reduce regional disparities. These results are confirmed by Lessman (2009), who conducts a 
+similar analysis in a sample of 23 OECD countries for the period 1982-2000, and by Ezcurra and Pascual 
+(2008) who restrict the analysis to a panel of 12 EU countries and to expenditure decentralisation. 9. 
+The abovementioned results may depend on the type of countries considered, i.e. developed 
+countries. Rodriguez-Pose and Ezcurra (2010) conjecture that the impact of fiscal decentralisation depends 
+on the level of economic development. Using a panel of 26 countries (19 high income and 7 low income), 
+they find that political and expenditure decentralisation reduces regional disparities only in high income 
+countries, while considerably increasing them in low income countries. Lessman (2012) confirms the 
+importance of the level of economic development using a panel of 54 countries over the period 1980-2009. ECO/WKP(2016)54 9 The author finds that the interaction between fiscal decentralisation and level of national GDP per capita 
+has a negative impact on regional disparities, suggesting an important conditioning role of GDP per capita. 10. 
+Finally, Kyriacou et al. (2013) tests the hypothesis that the quality of government rather than the 
+level of development mediates the relationship between fiscal decentralisation and regional disparities. The 
+authors use an unbalanced panel of 24 OECD countries over the period 1984-2006, showing that 
+decentralisation reduces disparities in high government quality settings, but increases disparities in low 
+government quality settings. Thus, they conclude that the different response of high and low income 
+countries is driven by differences in the quality of the government. 11. 
+Although the empirical evidence seems to support the idea that fiscal decentralisation reduces 
+regional inequality, there is not much investigation into the channels that drive this result. The present 
+work addresses this issue by explicitly considering the channels through which spending is financed 
+(vertical fiscal imbalance) in a panel that covers also the time after the financial crisis. 2.3. Channels from decentralisation to disparities 12. 
+The present work argues that the crucial channel through which decentralisation affects regional 
+development and convergence is the incentive to increase own (tax) revenue. A balanced fiscal structure 
+implies that most of local spending is financed by own revenues, thus providing a strong incentive to create 
+and expand such revenue sources. Blöchliger and Pinero-Campos (2011) argue that equalisation transfers 
+reduce fiscal disparities in the short term, but may reduce development incentives in the long run. The 
+importance of a balanced fiscal structure is investigated also by Goerl and Seiferling (2014). They show 
+that decentralisation may reduce household income inequality but it needs to satisfy additional conditions, 
+among which a balanced distribution of expenditure and taxation at the local level. 13. 
+The source of financing of local spending makes a difference in terms of the incentive to raise the 
+tax base. While transfers are unrelated (or negatively related) to economic performance, own resources 
+depend on the regional economy. Thus local policy makers have a strong incentive to use available 
+resources and to put in place business-friendly policies. In the case of large transfers there is no need to 
+expand the tax base in order to provide services to citizens; in fact, any increase in the regional tax base is 
+ " appropriated "  by the central government. 14. 
+There are mainly two channels through which local governments can expand their tax base:  Competition: competing for resources – people, firms or financial resources – with other regions;  A better use of existing resources: activating an endogenous process of development, which 
+exploits sources of development, through the implementation of business-friendly regional 
+policies and the more efficient use of untapped sources of development – e.g. human capital, 
+local labour force, local amenities, etc. 15. 
+Figure 1 provides a graphical representation of these two channels. The first channel may lead to 
+either increasing or decreasing inequality, while the second channel would likely lead to regional 
+convergence. The importance of the second channel lies in the idea that lagging regions may have 
+ " inactive "  resources, so that policy can have a higher marginal impact in those regions than in the better-
+performing ones, thus leading to a reduction in regional disparities (Rodriguez-Pose and Ezcurra, 2010). ECO/WKP(2016)54 10 Figure 1. From fiscal autonomy to regional inequality Note: The links between boxes represent unidirectional causal relationships, going from left to right. 16. 
+There is some evidence that spending decisions of SCGs may depend on the size of the vertical 
+fiscal imbalance. Data show a positive correlation between sub-central tax revenue and the share of SCG 
+spending on economic activities (see Figure A.1, in the appendix). Recent studies have shown that tax 
+decentralisation enhances local growth-enhancing investments (Fredriksen, 2013; Kappeler et al., 2013), 
+thus shifting local spending towards more investment in infrastructure and education. Improving the 
+transparency and efficiency of the regulatory framework is also important to attract investments from 
+outside the region and mobilise local resources. 3. Empirical set-up 17. 
+This section provides a discussion of the measurement issues encountered when considering 
+regional inequality and fiscal decentralisation. Next, some stylised facts about the level and trend of 
+regional inequality are provided. Finally, the econometric model is laid out. 3.1. Measurement issues: Indicators for regional inequality and fiscal decentralisation 3.1.1 Measuring regional inequality 18. 
+The analysis focuses on regions defined according to the OECD Territorial Level 2 (TL2) 
+typology (Box 1). The TL2 regional level represents a partition of the national territory, which is small 
+enough to investigate internal geographical differences, and, at the same time, sufficiently large to avoid 
+strong effects of cross-border commuting. OECD countries display large variations in terms of the number 
+of TL2 regions and their size, ranging from 2 regions in Ireland to 51 in the United States, and from an 
+average population of 0.7 million inhabitants in Norway to 12.8 million in Japan (Table 1). ECO/WKP(2016)54 11 19. 
+Regional disparities – or regional inequality – are measured in terms of regional GDP per capita, 
+defined in terms of constant USD. Taking the value of GDP in terms of purchasing power parity (PPP) 
+allows an international comparison of the level of GDP between regions belonging to different countries. 2 20. 
+Regional GDP can be defined according to either the production or the income approach; it is not 
+possible to use the expenditure approach because of the absence of data on imports and exports between 
+regions. In practice, most countries use the production approach, but for non-market activities, such as 
+general government and the health industry, the income approach is used. Regional GDP includes the 
+ " gross product "  of the public administration as a whole, which consists of both sub-central and national 
+government bodies for the share allocated to the region (European Union, 2013). 21. 
+This definition implies that production or income is allocated to the region where the production 
+unit is located. As a consequence, commuting for work-related reasons may affect regional GDP per 
+capita, as people producing the GDP in one region may reside in another region, thus inflating the figures 
+of GDP per capita. The geographical unit of analysis (TL2 regions), however, is large enough to contain 
+most workers commuting within its borders. 2. 
+Ideally a price index for each region should be constructed, as there are regional differences in purchasing 
+power within the same country – 1 euro in Paris does not buy the same as 1 euro in Bordeaux. 
+Unfortunately, for most countries there are no regional price indices. In Canada, where regional price 
+indices are available, accounting for regional differences in PPPs would reduce the level of regional 
+disparities by at least 15% (Albouy, 2005). ECO/WKP(2016)54 12 Box 1. The OECD regional classification In any analytical study conducted at the sub-national level, defining the territorial unit is of prime importance. The 
+OECD classification is based on two territorial levels. The higher level (Territorial Level 2 – TL2) consists of 335  " large 
+regions " , while the lower level (Territorial Level 3 – TL3) is composed of 1 679  " small regions " . Each TL3 region is 
+contained within a TL2 region. All regions are defined within national borders and usually – but not always -correspond 
+to administrative jurisdictions. This classification – which, for European countries, is largely consistent with the Eurostat 
+classification – helps compare regions at the same territorial level. Table 1. Number and size of OECD TL2 regions, by country Number of 
+OECD TL2 
+regions Average 
+surface area 
+(square km) Average 
+population 
+size (2011), 
+millions 
+AUS 
+8 
+962 919 
+2.79 
+AUT 
+9 
+9 158 
+0.93 
+BEL 
+3 
+10 108 
+3.67 
+CAN 
+13 
+699 501 
+2.64 
+CHE 
+7 
+5 714 
+1.12 
+CHL 
+15 
+49 350 
+1.15 
+CZE 
+8 
+9 654 
+1.31 
+DEU 
+16 
+22 320 
+5.11 
+DNK 
+5 
+8 592 
+1.11 
+ESP 
+19 
+26 408 
+2.43 
+FIN 
+5 
+60 779 
+1.07 
+FRA 
+22 
+24 726 
+2.87 
+GBR 
+12 
+20 209 
+5.21 
+GRC 
+4 
+32 706 
+2.83 
+HUN 
+7 
+13 290 
+1.43 
+IRL 
+2 
+34 197 
+2.28 
+ITA 
+21 
+14 053 
+2.89 
+JPN 
+10 
+37 353 
+12.80 
+KOR 
+7 
+16 269 
+7.11 
+MEX 
+32 
+61 227 
+3.61 
+NLD 
+4 
+8 439 
+4.16 
+NOR 
+7 
+43 639 
+0.70 
+NZL 
+2 
+132 472 
+2.20 
+POL 
+16 
+19 542 
+2.41 
+PRT 
+7 
+13 173 
+1.51 
+SVK 
+4 
+12 259 
+1.35 
+SVN 
+2 
+10 069 
+1.02 
+SWE 
+8 
+51 289 
+1.18 
+TUR 
+26 
+29 600 
+2.83 
+USA 
+51 
+179 646 
+6.06 Source: 
+OECD (2009), How 
+Regions 
+Grow: 
+Trends 
+and 
+Analysis, 
+OECD 
+Publishing, 
+Paris, 
+DOI: http://dx.doi.org/10.1787/9789264039469-en; and OECD (2015), Sub-national Governments in OECD Countries: Key Data, 
+(brochure), http://dx.doi.org/10.1787/region-data-en. 22. 
+Regional disparities could also be measured in terms of household income per head. This 
+measure considers all the sources of revenues received by a resident in a region, including social welfare 
+payments. It is an indicator of the fiscal capacity and when considered in terms of disposable income a 
+measure of the well-being of citizens. It is not the best indicator for the current analysis, however, because 
+it includes social security payments. As noted by Lessmann (2006), this may create a bias when studying ECO/WKP(2016)54 13 the impact of fiscal decentralisation on regional disparities as one policy may influence the other. For this 
+reason, and for comparability with the existing literature, regional GDP per capita is used for measuring 
+regional disparities. 23. 
+Once the geographical scope and the unit of measure are defined, a statistical indicator, which 
+synthesises the information on the distribution of regional GDPs needs to be chosen. The most common 
+indicator is the coefficient of variation (COV). It is a normalised version of the standard deviation, as 
+shown in the equation below, where í µí± is the number of regions, í µí± í µí± is per capita GDP of region i, and í µí¼ is 
+the unweighted mean of regional per capita GDPs. í µí° ¶í µí±í µí± = √ 1 
+í µí± 
+∑ (í µí± í µí± − í µí¼) 2 í µí± 
+í µí±=1 í µí¼ 
+= 
+í µí¼ 
+í µí±í µí±í µí±í µí± 24. 
+The COV requires a distribution with (1) a mean different from zero and (2) that all values are 
+positive. Both conditions are met by the use of GDP per capita. The interpretation of the value is in terms 
+of percentages with respect to the mean value. For instance, COV=0.03 means that the dispersion of the 
+distribution of regional GDPs is 3% of the mean. 25. 
+The main advantage of this measure is that it is mean independent, so that it can be easily 
+compared across countries. For instance, the COV is independent of the level of GDP, so that countries 
+with a different level of GDP can be consistently compared. This is an advantage over other inequality 
+measures such as the GINI coefficient and the Theil index, which are affected by the size of the 
+distribution and the unit of measure. Furthermore, the COV satisfies the Pigou-Dalton principle (roughly, a 
+transfer from a richer to a poorer region should unambiguously reduce the degree of inequality). 26. 
+There are, however, two possible sources of concern, when using this indicator. Firstly it is not 
+invariant to the number of regions in the country, as it assumes values in the range [0, √í µí± − 1]; secondly, 
+it does not take into account the size of the regions, i.e. the disparity is not weighed for the share of the 
+population living in each region. 27. 
+Some authors (for instance, Lessmann (2006) and Ezcurra and Pascual (2008)) use a population 
+weighted version of the COV (wCOV) to control for the distribution of the population over the regions, so 
+that the index would reflect less the disparities arising from less populated regions. í µí±¤í µí° ¶í µí±í µí± = √∑ [(í µí± í µí± − í µí¼ í µí± ) 
+2  *  í µí± í µí± ] í µí± 
+í µí±=1 í µí¼ í µí± The right term under the square root, í µí± í µí± , represents the population share of region i with respect to the 
+national population, and í µí¼ í µí± represents the national mean per capita GDP. The population weight reduces 
+the importance of less populous regions, so that the index will show a low level of variation even though 
+some regions are much poorer than the rest, as long as their population is negligible with respect to the 
+country's population. 28. 
+This analysis is based on the unweighted COV. Apart from the highlighted benefits of using the 
+COV, there are other motives that justify this choice. First, if the analysis aims at measuring economic 
+development and regional disparities, there is no reason to give larger regions a higher weight. Second, 
+using population weights has the drawback of understating disparities between urban and rural regions, 
+where the latter are (by definition) less populated (Spiezia, 2003). And third, the empirical analysis is ECO/WKP(2016)54 14 conducted with country fixed effects, so that the differences arising because of a different number of 
+regions should not bias the results. 29. 
+Figure 2 shows the level of regional inequality, measured by the COV in 1995, along with the 
+change in the indicator of inequality between 1995 and 2011. The plot shows substantial differences in the 
+level of the COV among countries and substantial differences also with respect to its evolution. 3 The plot 
+suggests that countries with a low COV in 1995 have seen their regional disparities increase in the 1995-
+2011 period, while countries with a high COV in 1995 have experienced a reduction in regional disparities. Figure 2. Level and trend in regional inequality 
+Selected OECD countries, 1995-2011 Note: The selection of OECD countries was based on data availability for the year 1995. Source: Calculations based on OECD (2016), "Regional economy", OECD Regional Statistics (database) 
+DOI: http://dx.doi.org/10.1787/region-data-en. 3.1.2. Measuring fiscal decentralisation 30. 
+Fiscal decentralisation is a complex phenomenon, which comprises several dimensions (Box 2). 
+Measuring the degree of decentralisation of a country is an attempt to summarise in a numerical indicator 
+the vertical and horizontal fiscal relationships between different levels of government. It is important to 
+account for both the quantitative (as appears in the budgets of sub-national government) aspects of 
+decentralisation and the qualitative aspects, such as the actual autonomy and capacity to conduct public 
+policies. 31. 
+Of particular interest for the present work is the actual mix of revenue and expenditure 
+decentralisation. OECD countries all present a share of local spending that is larger than the share of local 
+revenues, leading to a so-called vertical fiscal imbalance. The theoretical framework presented in section 2 
+highlights the importance of financing expenditure with own taxes in order to provide the incentive to 
+implement growth-enhancing policies. 3. 
+See the appendix for country details. ECO/WKP(2016)54 15 Box 2. The challenge of measuring fiscal decentralisation The common measure to assess fiscal decentralisation is the share of resources assigned to SCGs. Spending, 
+revenue or tax ratios drawn from the OECD National Accounts or OECD Revenue Statistics allow measuring one 
+aspect of the extent of sub-central fiscal powers. These ratios, however, only poorly measure the true fiscal discretion 
+that SCGs enjoy in practice. On the revenue side, central government may limit tax autonomy, i.e. the ability to set tax 
+bases and/or rates, while on the expenditure side, central government regulation may strongly influence SCG 
+spending, thereby reducing discretion in setting policy. In some countries, the transfer of financial responsibility hardly 
+reflects more than a change in accounting, as essential regulatory power remains at the central level. The traditional 
+decentralisation ratios are therefore often inadequate, which becomes apparent once they are used to test how fiscal 
+frameworks affect outcomes such as economic growth, efficiency in the provision of services or citizen's satisfaction. In 
+recent years, the OECD Fiscal Network has worked on new indicators, focusing on sub-central tax autonomy or on 
+sub-central spending power, to complement and improve decentralisation statistics (Kim, Lotz and Blöchliger, 2013). Since intergovernmental fiscal frameworks have many dimensions and since it is difficult to judge ex ante, which 
+indicator best reflects the relationship between decentralisation and regional disparities, the various empirical analyses 
+presented in this paper use a wide array of indicators. The following four decentralisation indicators are used 
+alternatively and, in order to avoid multicollinearity, one by one (sequentially) in otherwise identical equations:  Spending decentralisation (the ratio of sub-central to general government spending);  Revenue decentralisation (the ratio of sub-central own revenue to general government revenue);  Tax revenue decentralisation (the ratio of sub-central tax revenue to general government tax revenue);  Tax autonomy (the ratio of taxes over which SCGs have some base or rate-setting autonomy to general government tax revenue), taken from the OECD Fiscal Decentralisation database. One additional indicators is used:  Fiscal authority, an indicator which accounts for the degree of authority of local governments in setting rates and bases of local taxes. The indicator assumes values from 0 (no authority) to 5 (high authority). This 
+indicator is part of a set of regional authority indexes (RAI) aimed at measuring the political, administrative, 
+and fiscal authority of sub-national governments. Despite this agnostic view about the relevance and reliability of the various indicators, there is a priori evidence 
+that some of them are better than others in reflecting true sub-central fiscal policy autonomy. Revenue shares appear 
+to better reflect fiscal and regulatory power than spending shares, because sub-central spending is often financed by 
+large transfers with many regulatory strings attached. Institutional indicators that encompass several dimensions of 
+policy making are probably best in providing insights into SCGs' actual power. Since institutional indicators provide a 
+richer picture of the policy framework than simple spending and revenue ratios, they provide a better basis for specific 
+policy guidance. Examples for institutional indicators are the Fiscal Network's tax autonomy indicators or the spending 
+power indicators, the latter being available for a few countries only and the fiscal authority index produced within the 
+regional authority project (RAI). Source: Blöchliger, H. (2013), "Decentralisation and Economic Growth -Part 1: How Fiscal Federalism Affects Long-Term 
+Development", 
+OECD 
+Working 
+Papers 
+on 
+Fiscal 
+Federalism, 
+No. 
+14, 
+OECD 
+Publishing, 
+Paris. 
+DOI: http://dx.doi.org/10.1787/5k4559gx1q8r-en 32. 
+For these reasons, not one but several indicators of fiscal decentralisation are considered. The 
+most reliable indicator for the empirical analysis are the OECD indicators of tax, revenue and expenditure 
+decentralisation, all expressed as share of local with respect to total values (Box 2). The indicator 
+measuring the vertical fiscal imbalance is determined as 1 minus the ratio between local revenues and local 
+expenditure. Although these (quantitative) indicators may overestimate the actual level of fiscal 
+decentralisation, they are used in the present study (as well as in most of the academic works), because 
+they are available for most OECD countries over more than twenty years. In order to check for this 
+shortcoming of the quantitative indicators, two measure of the actual degree of autonomy are considered: 
+the OECD tax autonomy indicator and the fiscal authority index produced within the Regional Authority 
+project (Hooghe et al., 2015). ECO/WKP(2016)54 16 3.2. Some stylised facts 3.2.1. Regional inequality 33. 
+Regional disparities have slowly risen over the past 15 years. Across the OECD the differences in 
+sub-central GDP per capita, as measured by the coefficient of variation, rose from 0.26 to 0.28 between 
+1996 and 2013. Most strikingly, rising disparities within OECD countries were accompanied by an even 
+more pronounced decline in disparities between these countries. Put in other words, countries are 
+converging, while regions are diverging. Only recently have inter-regional disparities begun to shrink 
+again. Figure 3. Regional inequality is decreasing between but increasing within countries Note: The indicator OECD within is the coefficient of variation of regional GDP per capita within each country, averaged over the 
+OECD countries available in our sample; the indicator OECD between is the coefficient of variation of national GDP per capita 
+between those countries. The sample includes 26 OECD countries; among the current member countries the following are excluded: 
+Luxembourg and Estonia because of the presence of only one TL2 region; Iceland, Israel, Mexico, Norway, Switzerland, and Turkey 
+for lack of regional data for the whole period considered. 
+Source: Calculations based on data from OECD National Accounts and OECD (2016), "Regional economy", OECD Regional 
+Statistics (database), DOI: http://dx.doi.org/10.1787/region-data-en. 34. 
+A similar trend of increasing within country regional disparity emerges also with the use of other 
+indicators of variation. As mentioned in section 3.1, the Theil index is not suitable for cross-country 
+comparisons because it is subject to changes when the composition of the sample, i.e. number of regions, 
+changes. However, it has the advantage of being decomposable into the within and between components of 
+inequality. This allows assessing how much of the inequality in regional per capita GDP is due to 
+differences between countries and how much to differences within countries. 35. 
+Table 2 shows an increase in regional inequality from 0.102 points in 1995 to 0.148 in 2011. The 
+decomposition of the index shows that the component of regional inequality explained by within country 
+disparities has increased from 42.16% in 1995 to a peak of 53.91 in 2007 – thus showing an increasing 
+trend before the global financial crisis – and declining to around 48% by 2011. Garcilazo and Oliveira 
+Martins (2013) find a similar trend using the Gini coefficient as the measure of national and regional 
+disparities, for the period 1995-2005. In particular, they observe a reduction of the Gini index between 
+OECD countries, and an increase of the Gini index of regional GDP within countries. Despite the general ECO/WKP(2016)54 17 increasing trend, there are large cross-country differences, and disparities in 2011 are unrelated with their 
+evolution between 1995 and 2011 (Figure 4). Table 2. Decomposition of inequality within and between countries Year 
+Theil 
+Within 
+Between 
+1995 
+0.102 
+42.16% 
+57.84% 
+2007 
+0.128 
+53.91% 
+45.31% 
+2011 
+0.148 
+47.97% 
+52.03% Note: The Theil index is calculated considering the GDP per capita of each region as unit of analysis, therefore the second column 
+displays the inequality arising from differences in GDP per capita among the TL2 regions in the sample. The Theil index is 
+decomposed in inequality arising because of regional differences within the same country (third column), and differences arising 
+because of differences between countries (the last column). Source: OECD (2016), "Regional economy", OECD Regional Statistics (database), DOI: http://dx.doi.org/10.1787/region-data-en. Figure 4. Regional disparities in GDP per capita 
+Coefficient of variation of regional output, 1995 and 2011 Note: Canada, Ireland, and Slovak Republic initial value 1996; Denmark and Norway initial value 1997; New Zealand and Turkey 
+initial value 2000; Japan initial value 2001 and final value 2010; Switzerland initial value 2008. Source: OECD calculations based on data from OECD (2016), "Regional economy", OECD Regional Statistics (database), 
+DOI: http://dx.doi.org/10.1787/region-data-en. 36. 
+Figure 5 shows that regional disparities are smaller for high income countries, suggesting that 
+OECD countries lie on the right-hand side of the bell-shaped relationship similar to the Kuznets curve. 
+Williamson (1965) conjectured that regional inequality may follow the same inverted-U relationship as 
+income inequality with regional disparities increasing in the first stage of development and then gradually 
+declining as the economic benefits of national growth spread to all regions. ECO/WKP(2016)54 18 Figure 5. Patterns of regional inequality and GDP per capita Level of disparities and GDP per capita Note: Per capita GDP is expressed in constant PPP USD (2005). Source: OECD (2016), "Regional economy", OECD Regional Statistics (database), DOI: http://dx.doi.org/10.1787/region-data-en. 3.2.2. Fiscal decentralisation and regional inequality 37. 
+The theoretical framework developed in section 2 indicates that one of the main channels through 
+which fiscal decentralisation affects regional inequality is the incentive that tax decentralisation provides to 
+improve the competitiveness of the region, by competing for external resources and by activating internal 
+resources. A preliminary analysis of the data confirms this thesis. Figure 6 presents two plots in which 
+regional inequality is related to tax autonomy (left panel) and to the vertical fiscal imbalance (in the right 
+panel). The bi-variate association between regional inequality and tax autonomy is indeed negative, 
+confirming the hypothesis that more budgetary responsibilities are associated with less regional inequality. 
+Similarly, the bi-variate relationship between regional inequality and the fiscal vertical imbalance supports 
+the thesis that local spending not financed by own taxation leads to increasing regional disparities. ECO/WKP(2016)54 19 Figure 6. Tax decentralisation is associated with lower disparities, the vertical imbalance with higher ones 
+Bivariate correlations with the regional GDP coefficient of variation, 
+1995-2011 
+a) Tax autonomy 
+b) Vertical fiscal imbalance Note: The sample covers 20 OECD countries (19 in the case of tax autonomy). Each point reflects one country in one year. The lines 
+indicate the results of a bivariate OLS regression. Variables are normalised using the respective country means to net out differences 
+between countries that are persistent over time (country fixed effect). Source: OECD (2016), "Regional economy", OECD Regional Statistics (database), DOI: http://dx.doi.org/10.1787/region-data-en; 
+OECD Fiscal Decentralisation Database, www.oecd.org/tax/federalism/oecdfiscaldecentralisationdatabase.htm; OECD Secretariat 
+calculations. 38. 
+Sub-central spending and revenues are mostly unbalanced, and the vertical fiscal imbalance has 
+not decreased between 1995 and 2011. As Figure 7 shows, the share of local expenditure is higher than the 
+share of local revenues for all OECD countries. Some countries like Iceland and the United States are 
+closer to matching local revenues and local spending, while other countries, like Mexico and the 
+Netherlands, have a much higher share of local expenditure than local revenue. In countries were the 
+vertical fiscal imbalance is large, most public goods and services provided are financed through transfers 
+from other levels of government and thus unrelated to the tax base. ECO/WKP(2016)54 20 Figure 7. Vertical fiscal imbalance: Level and evolution Spending is more decentralised than revenue 
+Fiscal vertical imbalances are growing Note: The left panel is based on 2014 data. The right panel presents the development of the average vertical fiscal imbalance among 
+the OECD countries in the sample. p25 represents the lower 25 th percentile of the distribution, and p75 the highest 25 th percentile of 
+the distribution. Source: OECD Fiscal Decentralisation Database, www.oecd.org/tax/federalism/oecdfiscaldecentralisationdatabase.htm. 3.3. The econometric model and the data 39. 
+The empirical analysis is conducted on an unbalanced panel of 30 OECD countries over the 
+period 1995-2011. The time period is constrained by the availability of regional data on per capita GDP. 
+The period considered, however, spans over more than 15 years allowing for a sufficient time variation to 
+capture changes in regional disparities and economic phenomena, such as the great moderation era and the 
+following global financial crisis. The dependent variable is the coefficient of variation of regional GDP per 
+capita expressed in constant PPP USD. The explanatory variables consist of a set of fiscal decentralisation 
+indicators, and a set of control variables that reflect country's characteristics supposed to affect regional 
+disparities. The estimations also include country fixed effects to account for all unobserved factors that 
+may affect regional inequality other than the control variables, and time dummies to account for common 
+shocks, like the recent global financial crisis. 40. 
+The econometric model consists of variables at the country level. Regional statistics are only 
+used to construct an indicator of regional disparities for each country and every year. The following 
+equation was estimated, where the subscript i indicates the country, and t refers to the year, í µí±¦ í µí±í µí±¡ = í µí»¼ + βí µí°¹í µí°· í µí±í µí±¡ + γí µí± í µí±í µí±¡ + í µí¼ í µí± + í µí»¿ í µí±¡ + í µí¼ í µí±í µí±¡ FD corresponds to the different measures of decentralisation. In some regressions two measures of 
+decentralisation are considered at the same time, but in general measures of decentralisation are considered 
+one at a time, to avoid problems of multicollinearity. 4 The matrix X represents a set of control variables 
+which includes socioeconomic variables, territorial indicators, and public finance indicators. 4. 
+Table A.1 in the appendix presents the matrix of bi-lateral correlations between the variables. It shows that 
+the correlation between the fiscal decentralisation indicators is quite high. By contrast, the correlation 
+between the other explanatory variables is not large. ECO/WKP(2016)54 21 41. 
+Fiscal decentralisation is measured by three budgetary indicators, the tax, revenue, and 
+expenditure share, and two indicators of fiscal power, the tax autonomy indicator and the Regional 
+Authority Index (Box 2). As expected the variation between countries is higher than the variation within 
+the same country, but there is still some variation within the same country. Table 3 presents the descriptive 
+statistics of the coefficient of variation, the local tax share, the local expenditure share and the local 
+revenue share, which show the standard deviation across countries (between) and over time in each country 
+(within). Table 3. Descriptive statistics of the main variables of interest Variable 
+Mean 
+Standard 
+deviation 
+Min 
+Max 
+Observation COV of regional 
+GDP per capita Overall 
+0.357 
+0.268 
+0.017 
+1.547 
+N = 545 
+Between 
+0.271 
+0.076 
+1.233 
+n = 35 
+Within 
+0.065 
+-0.275 
+0.672 
+T = 15.6 SCG tax share Overall 
+0.152 
+0.129 
+0.008 
+0.495 
+N = 700 
+Between 
+0.127 
+0.013 
+0.472 
+n = 30 
+Within 
+0.028 
+0.043 
+0.343 
+T = 23.3 SCG 
+expenditure 
+share Overall 
+0.343 
+0.148 
+0.049 
+0.683 
+N = 440 
+Between 
+0.145 
+0.056 
+0.633 
+n = 25 
+Within 
+0.035 
+0.168 
+0.499 
+T = 17.6 SCG revenue 
+share Overall 
+0.215 
+0.141 
+0.025 
+0.555 
+N = 440 
+Between 
+0.134 
+0.028 
+0.534 
+n = 25 
+Within 
+0.016 
+0.149 
+0.279 
+T = 17.6 Note: The total variation (overall) can be decomposed into variation across countries (between) and over time variation for each 
+country (within); time invariant regressors have a within standard error equal to zero; and country invariant regressors have a 
+between standard error equal to zero. The min and max columns provide information on the minimum and maximum values of the 
+overall observations (by country and time), between observations (by country), and within observations (over time). The column 
+ " observations "  provides information on the total number of country-time observations N, the number of countries n, and the number of 
+periods T (this figure is not an integer because the panel in unbalanced). 42. 
+The set of control variables includes the level of GDP per capita and its squared value, supposing 
+the level of regional disparity follows an inverted U-shaped relationship with the level of development. 
+Spatial inequality has been associated to the process of economic development by Williamson (1965), 
+which applied Kutznets's income relationship to geographical inequality. Accordingly, the level of 
+regional disparity should rise in the first phase of development, because shocks and some natural factors of 
+production are geographically located, and then the diffusion of the development process should reduce 
+inequality following an inverted U-relationship. 43. 
+Other economic variables that can affect regional disparities are human and physical capital 
+investment, testing the hypothesis of a negative relationship between the national level of human and 
+physical capital and regional disparities. The share of national valued added in the manufacturing sector is 
+also included, as activities linked to the manufacturing sector are less concentrated in metropolitan areas 
+than the service sectors. Therefore an economy with a high share of manufacturing is expected to display 
+lower regional disparities than an economy mainly based on services. The New Economic Geography 
+literature emphasises the role of trade and globalisation for economic development and regional industrial 
+specialisation (Fujita et al., 1999). Scholars in this field maintain that opening national markets puts 
+regions in direct competition with foreign regions, thus allowing access to more markets. In view of these 
+considerations trade openness measured as the sum of exports and imports divided by national GDP is 
+included. ECO/WKP(2016)54 22 44. 
+Territorial variables can also affect regional inequality. The distribution of people and firms over 
+the national territory may determine the emergence of agglomeration economies in some areas. The 
+concentration of people and firms is beneficial to economic development as it increases productivity, 
+although the impact on regional disparities is ambiguous (OECD, 2014). If economic activities are 
+concentrated in a few regions, the gap with other regions would tend to increase. By contrast, within each 
+region the concentration of factors of production in few locations may decrease regional disparities. In 
+order to account for agglomeration effects, two indicators are included in the analysis: the share of the 
+population living in urban areas, and the degree of geographical concentration of the population. The latter 
+index is of particular importance as it captures the total concentration of a country's population in each 
+region with respect to the regional surface area. 45. 
+Finally, an indicator of the size of the public sector is also considered. Countries with a larger 
+public sector may be better able to tackle regional disparities (Rodriguez-Pose and Ezcurra, 2010), 
+although it might also induce greater corruption (Tanzi, 1998), thus raising regional inequality. 46. 
+Table 4 presents summary statistics of the main control variables, while a full list of all the 
+explanatory variables is presented in Section A1 of Appendix A. Table 4. Summary statistics: Control variables Variable 
+Mean 
+Standard 
+deviation 
+Min 
+Max 
+Observations GDP per capita Overall 
+26107.83 
+15344.02 
+2764.158 67806.75 
+N = 768 
+Between 
+15135.25 
+3377.612 59251.91 
+n = 33 
+Within 
+3875.608 
+9382.709 38749.51 
+T = 23.3 Human capital 
+(education) Overall 
+2.994 
+0.594 
+1.444 
+3.836 
+N = 875 
+Between 
+0.587 
+1.550 
+3.750 
+n = 35 
+Within 
+0.136 
+2.447 
+3.393 
+T = 25 Gross capital 
+formation Overall 
+23.799 
+5.196 
+11.766 
+49.285 
+N = 834 
+Between 
+4.294 
+18.264 
+41.575 
+n = 35 
+Within 
+2.994 
+12.501 
+36.675 
+T = 23.8 Trade openness Overall 
+0.753744 
+0.368 
+0.159 
+2.027 
+N = 740 
+Between 
+0.340 
+0.243 
+1.518 
+n = 30 
+Within 
+0.153 
+0.079 
+1.284 
+T = 24. 7 
+Share of value 
+added in 
+manufacturing Overall 
+18.6416 
+5.300 
+7.133 
+33.970 
+N = 727 
+Between 
+4.981 
+9.505 
+32.537 
+n = 34 
+Within 
+2.053 
+12.060 
+27.311 
+T = 21.4 Urbanisation Overall 
+72.27191 
+14.049 
+25.547 
+97.776 
+N = 839 
+Between 
+13.989 
+28.405 
+97.159 
+n = 35 
+Within 
+2.619 
+60.016 
+86.742 
+T = 24 Population Overall 
+4.44E+07 
+6.00E+07 
+1982603 
+3.16E+08 
+N = 774 
+Between 
+6.14E+07 
+2007991 
+2.85E+08 
+n = 33 
+Within 
+5172394 
+8995861 
+7.55E+07 
+T = 23.5 Population 
+concentration Overall 
+0.329485 
+0.139 
+0.051 
+0.644 
+N = 727 
+Between 
+0.143 
+0.060 
+0.638 
+n = 35 
+Within 
+0.007 
+0.298 
+0.369 
+T = 20.8 Public debt Overall 
+58.10342 
+31.468 
+6.495 
+195.993 
+N = 457 
+Between 
+32.184 
+8.516 
+164.213 
+n = 32 
+Within 
+12.387 
+33.218 
+126.042 
+T = 14. 3 Government 
+expenditure Overall 
+7.91705 
+36.082 
+0.149 
+387.258 
+N = 440 
+Between 
+76.045 
+0.222 
+374.520 
+n = 25 
+Within 
+5.898 
+-42.629 
+47.451 
+T = 17.6 Note: The total variation (overall) standard error can be decomposed into variation across countries (between) and over time variation 
+for each country (within); time invariant regressors have a within standard error equal to zero; and country invariant regressors have a 
+between standard error equal to zero. The min and max columns provide information on the minimum and maximum values of the 
+overall observations (by country and time), between observations (by country), and within observations (over time). The column 
+ " observations "  provides information on the total number of country-time observations N, the number of countries n, and the number of 
+periods T (this figure is not an integer because the panel in unbalanced). ECO/WKP(2016)54 23 4. Estimation results 47. 
+The econometric model is estimated using a fixed effect estimator (FE) with clustered standard 
+errors and time dummies. The analysis is first conducted on a baseline model, where three different 
+indicators of fiscal decentralisation are considered, as well as an indicator of the vertical fiscal imbalance. 
+The model is then extended with the inclusion of indicators of local tax autonomy, specific local taxes, and 
+specific expenditure functions. A final section discusses the robustness of the estimation results. 4.1. Baseline results 48. 
+The results of the FE estimation of the baseline model are presented in Table 5. Table 5. Estimation results: Baseline model Dependent variable: coefficient of variation of regional GDP per capita 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) SCG revenue share -0.322 
+(0.195) SCG tax share -0.278* 
+(0.145) SCG expenditure share 0.158** 
+(0.0615) 0.0877 
+(0.0834) Vertical fiscal imbalance 0.100 
+(0.0749) 0.127** 
+(0.0591) GDP per capita 1.88e-05*** 
+(5.03e-06) 1.76e-05*** 
+(4.38e-06) 1.44e-05*** 
+(4.52e-06) 1.41e-05*** 
+(4.58e-06) 1.51e-05*** 
+(5.17e-06) (GDP per capita) 2 -2.07e-10*** 
+(6.29e-11) -1.91e-10*** 
+(5.75e-11) -1.28e-10** 
+(5.67e-11) -1.24e-10* 
+(6.07e-11) -1.44e-10* 
+(7.01e-11) Human capital 0.0945 
+(0.0966) 0.0987 
+(0.106) 0.0914 
+(0.103) 0.124 
+(0.0995) 0.120 
+(0.0995) Gross capital formation -0.00362** 
+(0.00138) -0.00388** 
+(0.00136) -0.00488*** 
+(0.00138) -0.00491*** 
+(0.00137) -0.00453*** 
+(0.00150) Trade openness 0.0555 
+(0.0437) 0.0563 
+(0.0442) 0.0597 
+(0.0460) 0.0491 
+(0.0469) 0.0473 
+(0.0463) Share of national VA 
+in manufacturing -0.00476** 
+(0.00202) -0.00481** 
+(0.00201) -0.00509** 
+(0.00211) -0.00464** 
+(0.00218) -0.00436** 
+(0.00208) Urbanisation -0.00261 
+(0.00209) -0.00220 
+(0.00187) -0.00256 
+(0.00185) -0.00323 
+(0.00216) -0.00323 
+(0.00220) Population 3.13e-09*** 
+(5.51e-10) 3.20e-09*** 
+(7.04e-10) 2.18e-09** 
+(8.25e-10) 1.96e-09** 
+(8.47e-10) 2.02e-09** 
+(8.74e-10) Population concentration -0.0165 
+(0.0103) -0.0143 
+(0.0100) -0.0232** 
+(0.0104) -0.0264** 
+(0.0111) -0.0246** 
+(0.0111) Public debt -4.62e-06 
+(0.000399) -2.40e-06 
+(0.000384) 0.000235 
+(0.000390) 0.000213 
+(0.000381) 0.000122 
+(0.000407) Public expenditure 0.00129*** 
+(0.000352) 0.00139*** 
+(0.000348) 0.00165*** 
+(0.000382) 0.00170*** 
+(0.000385) 0.00160*** 
+(0.000353) Constant 0.297 
+(0.294) 0.191 
+(0.319) 0.480 
+(0.415) 0.504 
+(0.341) 0.465 
+(0.333) Observations 274 
+274 
+274 
+274 
+274 R-squared 0.558 
+0.560 
+0.557 
+0.571 
+0.566 Number of countries 20 
+20 
+20 
+20 
+20 Note: Robust standard errors in parentheses, *** p<0.01, ** p<0.05, * p<0.1. The regression also includes year dummies. ECO/WKP(2016)54 24 49. 
+The analysis considers the three main indicators of fiscal decentralisation separately in the first 
+three columns, expenditure decentralisation and the vertical fiscal imbalance together in column 4, and the 
+impact of the vertical fiscal imbalance in column 5. The estimation results show that both tax 
+decentralisation and revenue decentralisation reduce regional disparities, although only the tax share is 
+statistically significant. These results are in line with the theoretical framework, suggesting that the more 
+the SCG budget is funded by revenues coming from the local economy the higher the incentive to promote 
+regional growth. Moreover the question arises, whether revenue decentralisation benefits lagging regions 
+more than high income regions. Answering this question will be the focus of section 5.2. 50. 
+The evidence on the spending side shows that expenditure decentralisation and the vertical fiscal 
+imbalance have both a statistically significant and positive sign when estimated separately, but when taken 
+together they have no longer a significant impact on regional disparity. In fact, the estimation results of an 
+instrumental variable model (Table 8) shows that only the coefficient associated with the vertical fiscal 
+imbalance is statistically significant. This suggests that the vertical fiscal imbalance rather than expenditure 
+decentralisation affects regional disparities. Furthermore, weak 5 evidence is provided also by the 
+estimation of a model in which expenditure decentralisation and its interaction with the vertical fiscal 
+imbalance are considered (Table A3). The estimation results show that when the interaction term is 
+considered the coefficient associated with expenditure decentralisation is negative, but not statistically 
+significant, while the coefficient of the interaction term is positive and statistically significant. 51. 
+The control variables have the expected sign. 6 In particular, economic development, measured by 
+the country's GDP per capita and its square, displays a statistically significant concave relationship with 
+regional disparities. The coefficient associated with the level of GDP per capita is positive while the square 
+is negative, providing evidence for an increasing and concave relationship of regional disparities with the 
+economic development of a country. The coefficient associated with physical capital formation is negative 
+and significant, suggesting that investment (even aggregated at the country level) tends to reduce regional 
+disparities. Also the share of manufacturing value added significantly reduces regional disparities, as 
+manufacturing activities tend to be less geographically concentrated than those of the service sector. Trade 
+openness tends to increase disparities, but is not statistically significant in most cases. Population size 
+increases regional disparities, as it is a proxy for the size of the country and larger countries tend to display 
+wider regional disparities. By contrast, the more the population is geographically concentrated the lower 
+are regional disparities, suggesting a positive effect of agglomeration forces. Finally, the size of 
+government, measured by total government expenditure as a ratio of GDP, tends to increase regional 
+disparities. This is contrary to the widespread view that a bigger government (more public spending) 
+should reduce inequality between regions. 52. 
+The message stemming from the analysis is that the way decentralisation is achieved, matters for 
+regional disparities. For instance, an increase of 10 percentage points in the share of SCG revenues is 
+associated with a reduction of regional disparities by 4 basis points of the COV, or an 11% decrease if the 
+COV is evaluated at the mean value (0.36). Similarly a reduction of 10 percentage points of the fiscal 
+vertical imbalance is associated with a reduction of regional disparities by 1 basis point of the COV, or a 
+4% decrease. Clearly a reduction of the vertical fiscal imbalance can be achieved also in case of an 
+increase of sub-central spending, as long as it is matched by a greater increase in sub-central revenues. 5. 
+Those results are weak because the model is estimated without country and time fixed effects. 6. 
+Although not reported, a specification of the baseline model with the level of unemployment among the 
+control variables was also estimated. The associated coefficient, however, is never statistically significant 
+and does not change the estimated coefficients of the other explanatory variables. ECO/WKP(2016)54 25 4.2. Extending the baseline model 53. 
+The results of the baseline model are confirmed by the inclusion of some indicators of the degree 
+of autonomy in taxation and the inclusion of specific taxes and expenditure functions. Table 5 presents the 
+results of the estimation of the baseline model with these indicators. The impact of fiscal autonomy on 
+regional inequality is negative and statistically significant. In particular, both measures of autonomy (fiscal 
+authority from the RAI dataset, and tax autonomy from the OECD Fiscal network dataset) confirm the 
+importance of local taxation for reducing regional inequality. 54. 
+This result suggests that providing local governments with fiscal autonomy does not increase 
+disparities, as suggested by part of the economic literature. It rather provides an incentive to increase the 
+tax base by attracting more firms and people and implementing business friendly policies. 55. 
+A finer distinction of the type of local tax does not add much to the analysis. Table 6 (column 3 
+and 4) shows that both local income and property taxes reduce regional inequality, although not 
+statistically significant. Likewise, the distinction of local spending into social welfare spending and 
+education related spending does not provide any further insight. Table 6 (column 5 and 6) shows that the 
+coefficient associated with social welfare spending is positive as well as the coefficient associated with 
+education spending – the latter is not statistically significant, though. Overall the impact of national GDP 
+per capita (and its square value) on regional disparities is the same as in the baseline model, confirming the 
+inverted-U relationship. ECO/WKP(2016)54 26 Table 6. Estimation results: Refined measures of fiscal decentralisation Dependent variable: coefficient of variation of regional GDP per capita 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) Fiscal autonomy 
+-0.0121*** 
+(0.00369) Tax autonomy 
+-0.00558** 
+(0.00225) Local income tax 
+-0.0101 
+(0.103) Property tax 
+-0.0116 
+(0.00737) Local welfare spending 
+0.173* 
+(0.0970) Local education spending 
+0.0165 
+(0.0727) GDP per capita 
+2.22e-05*** 
+1.40e-05** 
+1.69e-05*** 
+1.54e-05*** 
+1.74e-05*** 
+1.83e-05*** 
+(4.37e-06) 
+(6.18e-06) 
+(4.81e-06) 
+(5.19e-06) 
+(4.93e-06) 
+(5.38e-06) 
+(GDP per capita) 2 
+-2.24e-10*** 
+-1.61e-10** 
+-1.78e-10*** 
+-1.60e-10** 
+-1.71e-10** 
+-1.94e-10*** 
+(5.73e-11) 
+(6.62e-11) 
+(5.71e-11) 
+(5.74e-11) 
+(6.43e-11) 
+(6.30e-11) 
+Human capital 
+0.118 
+0.0784 
+0.0627 
+0.0965 
+0.0659 
+0.0526 
+(0.0987) 
+(0.154) 
+(0.106) 
+(0.0999) 
+(0.105) 
+(0.105) 
+Capital formation 
+-0.00400** 
+-0.00348** 
+-0.00398** 
+-0.00451** 
+-0.00460*** 
+-0.00399** 
+(0.00146) 
+(0.00164) 
+(0.00152) 
+(0.00164) 
+(0.00134) 
+(0.00145) 
+Trade openness 
+0.0713* 
+0.0241 
+0.0619 
+0.0697 
+0.0328 
+0.0428 
+(0.0359) 
+(0.0592) 
+(0.0439) 
+(0.0413) 
+(0.0408) 
+(0.0416) 
+VA of manufacturing 
+-0.00471** 
+-0.00239 
+-0.00481* 
+-0.00482* 
+-0.00455** 
+-0.00444* 
+(0.00199) 
+(0.00179) 
+(0.00238) 
+(0.00248) 
+(0.00206) 
+(0.00227) 
+Urbanisation 
+-0.00204 
+0.000264 
+-0.00217 
+-0.00243 
+-0.00240 
+-0.00251 
+(0.00202) 
+(0.00187) 
+(0.00194) 
+(0.00188) 
+(0.00192) 
+(0.00190) 
+Population 
+3.60e-09*** 
+3.33e-09*** 
+2.48e-09*** 
+3.26e-09*** 
+2.69e-09*** 
+2.77e-09** 
+(8.26e-10) 
+(1.16e-09) 
+(8.45e-10) 
+(9.70e-10) 
+(8.39e-10) 
+(9.95e-10) 
+Population concentration 
+-0.0162 
+0.00978 
+-0.0167 
+-0.0181* 
+-0.0237** 
+-0.0190* 
+(0.0115) 
+(0.0190) 
+(0.00990) 
+(0.00909) 
+(0.0101) 
+(0.00997) 
+Public debt 
+0.000168 
+0.000117 
+3.92e-05 
+-1.00e-05 
+0.000129 
+1.83e-05 
+(0.000415) 
+(0.000448) 
+(0.000412) 
+(0.000406) 
+(0.000379) 
+(0.000411) 
+Public expenditure 
+0.00124*** 
+0.000525 
+0.00139*** 
+0.00138*** 
+0.00176*** 
+0.00152*** 
+(0.000280) 
+(0.00112) 
+(0.000344) 
+(0.000293) 
+(0.000416) 
+(0.000330) 
+Constant 
+0.00438 
+-0.530 
+0.371 
+0.355 
+0.565 
+0.493 
+(0.261) 
+(0.986) 
+(0.404) 
+(0.424) 
+(0.357) 
+(0.409) Observations 
+255 
+175 
+274 
+274 
+259 
+259 
+R-squared 
+0.586 
+0.390 
+0.539 
+0.559 
+0.593 
+0.580 
+Number of countries 
+20 
+19 
+20 
+20 
+18 
+18 Note: Robust standard errors in parentheses, *** p<0.01, ** p<0.05, * p<0.1. The regression also includes year dummies. 56. 
+Some studies have shown that the impact of fiscal decentralisation on regional disparities may 
+differ in rich and poor countries (e.g., Lessmann, 2009). In order to control for this possibility a separate 
+model has been estimated. 7 The results however show no statistically significance difference of the impact 7. 
+Estimation results of a model with the fiscal decentralisation variables interacted with some of the control 
+variables (including the GDP per capita) are available upon request. ECO/WKP(2016)54 27 of Fiscal decentralisation in countries with different level of GDP; that is, the interaction term is not 
+significantly different from zero. This might be due to the focus on OECD countries, which reduces the 
+differences in terms of GDP per capita. 57. 
+In order to account for institutional quality the baseline model is extended with indicators which 
+capture different aspects of institutional quality. These are perception-based indicators collected by the 
+World Bank within the project  " Worldwide Governance Indicators – WGI "  (Kaufmann et al., 2010). The 
+indicators are supposed to capture the way in which public expenditure is managed at the local level. Three 
+indicators are considered: corruption, rule of law and government effectiveness. The first two indicators 
+capture the  " respect "  of citizens and public officials of the institutions and norms that govern economic 
+activities. The level of corruption is a main candidate for a negative impact of expenditure decentralisation 
+on regional inequality (Tanzi, 1996). Government effectiveness is supposed to capture the quality of public 
+services. A composite indicator of institutional quality (quality) is constructed by taking the arithmetic 
+mean of the three indicators. 58. 
+Table 7 shows that the most important indicator is corruption, which tends to increase regional 
+disparities. The other institutional variables as well as the respective interaction terms are not significant. 
+Interestingly, when corruption is included in the analysis the coefficient of expenditure decentralisation 
+becomes negative, although no longer statistical significant. Overall, the non-significance of most of the 
+indicators of government quality suggests that the impact of fiscal decentralisation on regional inequality is 
+largely independent of the quality of the government in OECD countries. The low statistical significance of 
+the estimated coefficient can also be due to one of the major caveats of using these perception-based 
+indicators: the lack of consistency over time, due to the change in the composition of the indicators 
+(Furceri and Mourougane, 2010). Table 7. Institutional quality, expenditure decentralisation and regional disparities VARIABLES 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+SCG expenditure 
+share 0.0943 
+(0.0689) -0.247 
+(0.199) 0.144** 
+(0.0598) -0.515 
+(0.388) 0.119* 
+(0.0640) -0.0973 
+(0.221) 0.135** 
+(0.0613) -0.438 
+(0.336) Corruption 
+0.0254 
+(0.0190) 0.0896** 
+(0.0400) 
+Interaction: SCG 
+exp. and corruption -0.206* 
+(0.110) Rule of law 
+0.0199 
+(0.0243) -0.0976 
+(0.0757) 
+Interaction: SCG 
+exp. and rule of law 0.392* 
+(0.221) 
+Government 
+effectiveness 0.0335 
+(0.0213) -0.0150 
+(0.0561) 
+Interaction: SCG 
+exp. and gov. 
+effectiveness 0.137 
+(0.140) Quality 
+0.00899 
+(0.0247) -0.110 
+(0.073) Constant 
+0.496 
+(0.503) 0.647 
+(0.433) 0.413 
+(0.465) 0.605 
+(0.441) 0.476 
+(0.402) 0.591 
+(0.343) 0.490 
+(0.434) 0.750** 
+(0.354) 
+Observations 
+218 
+218 
+218 
+218 
+218 
+218 
+218 
+218 
+R-squared 
+0.540 
+0.559 
+0.530 
+0.555 
+0.547 
+0.553 
+0.527 
+0.552 
+Number of countries 
+20 
+20 
+20 
+20 
+20 
+20 
+20 
+20 Note: Robust standard errors in parentheses; *** p<0.01, ** p<0.05, * p<0.1.The same set of control variables as in the baseline 
+model are used, including the time and country effects. ECO/WKP(2016)54 28 4.3. Robustness checks 59. 
+The results of the analysis might suffer from a problem of reverse causality. The econometric 
+model assumes that the level of decentralisation within a country affects the level of regional disparities. 
+However, it could be argued that disparities may trigger a process of decentralisation, as persistent 
+inequality between regions may lead to political movements that advocate more independence. In order to 
+test for endogeneity, the previous econometric analysis is replicated using an instrumental variable 
+approach, where the lagged values of the fiscal decentralisation indicators are used as instruments. The 
+idea is that current levels of regional inequality should not affect past levels of decentralisation, so that the 
+correlation found in the analysis should go from decentralisation to regional inequality. 60. 
+The estimation results shown in Table 8 confirm the main results of the baseline model. All 
+coefficients maintain the same sign and statistical significance is actually increased for most of the 
+coefficients. Column 3, in particular, shows that when expenditure decentralisation is estimated along with 
+the vertical fiscal imbalance only the latter is statistically significant. Table 8. Instrumental variable results confirm the baseline model VARIABLES (1) 
+1 and 2-
+year lag (2) 
+1 and 2-
+year lag (3) 
+2 and 3-
+year lag (4) 
+1 and 2-
+year lag (5) 
+1 and 2-
+year lag (6) 
+2 and 3-
+year lag (7) 
+2 and 3-
+year lag (8) 
+1-year 
+lag SCG revenue share -0.433*** 
+(0.140) SCG expenditure share 0.238*** 
+(0.0692) 0.142 
+(0.113) 0.206*** 
+(0.0693) SCG tax share -1.904*** 
+(0.707) -0.235** 
+(0.107) Vertical fiscal imbalance 0.254** 
+(0.0988) 0.284*** 
+(0.0849) Fiscal authority -0.0221*** 
+(0.00527) Tax autonomy -0.005*** 
+(0.00184) Underidentification test: 
+Kleibergen-Paap rk LM 
+statistics (pvalue) 0.0000 
+0.0005 
+0.0001 
+0.0181 
+0.0000 
+0.0000 
+0.0217 
+0.0000 Weak identification test: F-stat 57.264 
+10.263 
+7.623 
+4.429 
+11.946 
+12.832 
+17.314 
+251.824 Stock-Yogo: Critical value 
+10% 19.93 
+19.23 
+16.87 
+19.93 
+16.87 
+19.23 
+19.23 
+16.38 Critical value 15% 11.59 
+11.59 
+9.93 
+11.59 
+9.93 
+11.59 
+11.59 
+8.96 Overidentification test: Hansen 
+J-Statistics (p-value) 0.4436 
+0.1533 
+0.5534 
+0.6315 
+0.4043 
+0.5144 
+0.1363 Observations 252 
+252 
+238 
+252 
+252 
+238 
+254 
+159 R-squared 0.562 
+0.548 
+0.517 
+-0.413 
+0.556 
+0.536 
+0.562 
+0.369 Number of countries 20 
+20 
+20 
+20 
+20 
+20 
+20 
+19 Note: 2SLS estimation; the regression includes all the control variables as well as time dummies; fiscal decentralisation variables are 
+instrumented with their 1, 2, and 3 year lagged values. The choice of the number of instruments and the lags is based on a test of the 
+quality of the instruments. Robust standard errors in parentheses, *** p<0.01, ** p<0.05, * p<0.1. 61. 
+The estimation results for the impact of the vertical fiscal imbalance may also suffer from a 
+particular variant of reverse causality. Countries that are characterised by higher disparities may put in 
+place a larger transfer scheme from the central government to the lagging regions. Hence, the effect of the 
+vertical fiscal imbalance would just be the result of the initial high level of regional disparities. This ECO/WKP(2016)54 29 concern, however, is partly accounted for by the nature of the fixed effect estimator. The estimated 
+coefficient is not just the result of a cross-country comparison, but mainly of within country (i.e., over 
+time) comparison. In this sense, the estimated coefficients reflect also the change over time of the 
+variables, thus suggesting that, regardless of the initial level of regional disparities, an increase of the 
+vertical fiscal imbalance does increase regional disparities. Nevertheless, as a further robustness check, the 
+impact of regional disparities on transfers is estimated – i.e., transfers are treated as the dependent variable, 
+while regional disparities are included among the explanatory variables. This regression analysis shows 
+that regional disparities have no statistically significant impact on transfers, thus supporting the hypothesis 
+that the vertical fiscal imbalance does increase regional disparities. 8 62. 
+The estimation results are also robust to a different indicator of economic performance, GDP per 
+worker. This indicator captures labour productivity and better reflects the economic potential of the region. 
+Productivity was not used in the baseline model because data are available for a limited number of years 
+and countries. The estimation results show that revenue decentralisation reduces between region 
+differences in labour productivity. 63. 
+The results of the baseline model may be affected by the particular time period considered (1995-
+2011). This period is characterised by an initial phase of generalised economic expansion which 
+culminated with the outburst of the global financial crisis in 2007, leading to the subsequent period of 
+recession and subdued recovery. In order to control for this possible bias, the econometric model is 
+estimated over two sub-periods: pre-crisis (1995-2008) and post-crisis (2008-2011). The estimation results 
+provide similar figures for the two sub-periods, suggesting that the crisis hardly changed the link between 
+fiscal decentralisation and regional disparities (results are available upon request). 64. 
+Regional disparities display some degree of persistence over time. This may create some 
+problems of autocorrelation. In order to assess this problem, the Woolridge test for autocorrelation in panel 
+data was conducted (Woolridge, 2002). It shows that there is not a big problem as the null hypothesis of 
+absence of autocorrelation can be accepted at the 5% significant level. Nevertheless, a dynamic 
+specification of the baseline model is estimated, where the one year lag of the dependent variable is 
+included among the explanatory variables. The estimation strategy is based on the corrected Least Square 
+Dummy Variable (LSDVC) estimator proposed by Bruno (2005). This estimator can be used in the 
+presence of an unbalanced panel with a small number of individuals (i.e. countries in this case). The 
+estimation results confirm the baseline model. Although most of the variables lose significance, which is 
+captured by the coefficient of the lagged dependent variable, the coefficient associated with revenue 
+decentralisation is still negative and significant at the 10% level (Table A.5 in the appendix). 65. 
+A single country, which experienced a large change in either fiscal decentralisation or regional 
+disparity or both, may drive the estimation results. In order to rule out this possibility, the estimation of the 
+baseline model has been conducted with the exclusion of one country at a time. The baseline results were 
+confirmed. 66. 
+Finally, the estimation results could be affected by the type of indicator used to measure regional 
+disparity. As argued in the text, the coefficient of variation is the most common indicator used in this type 
+of analysis. As a robustness check, the Gini index of within countries disparities is used as the dependent 
+variable. The estimation results reported in Table A.4 in the appendix confirm the results of the baseline 
+model, suggesting that the results are not driven by the choice of the statistical indicator summarising the 
+distribution of regional output. Furthermore, the baseline model is also estimated using the weighted 
+coefficient of variation as measure of regional disparity – i.e., the coefficient of variation is calculated 8. 
+Detailed estimation results are available upon request. ECO/WKP(2016)54 30 taking into account the population size of each region, so that GDP per capita of the most populous regions 
+has a higher weight than the GDP per capita of scarcely populated regions. The main results remain valid. 5. Further analysis 67. 
+The analysis so far has shown the importance of tax decentralisation and a balanced fiscal 
+structure for regional convergence but did not focus on whether the reduction of inequality is due to a 
+catching up process which sees relatively poorer regions improving their economic situation, or because of 
+the decline of relatively rich regions. In order to shed light on this issue, the empirical analysis is replicated 
+using as dependent variable various percentile ratios. Furthermore, a growth regression is conducted on 
+various percentile ratios of the distribution of regional per capita GDP, in order to assess whether the 
+impact of decentralisation is stronger in richer or poorer regions. 5.1. The effect of decentralisation on percentile ratios 68. 
+Table 9 reports the FE estimation of two econometric models in which the dependent variable is 
+the 75/25 percentile ratio and the 90/10 percentile ration, respectively. These indicators capture the effect 
+of fiscal decentralisation on the top and the bottom of the distribution of regional GDP within each 
+country. Table 9. Decentralisation and percentile ratios: 75/25 and 90/10 Ratio 75/25 
+Ratio 90/10 SCG tax share 
+-0.144 
+(0.370) -0.964 
+(0.684) SCG expenditure share 
+0.0556 
+(0.158) 0.358 
+(0.236) SCG revenue share 
+-0.715* 
+(0.408) -1.663* 
+(0.944) Vertical fiscal imbalance 
+0.237* 
+(0.116) 0.445 
+(0.284) Fiscal authority 
+-0.0197 
+(0.0144) -0.0428** 
+(0.0190) Tax autonomy 
+-0.00215 
+(0.00802) -0.0241*** 
+(0.00797) Property tax 
+-0.0159 
+(0.0207) -0.0581** 
+(0.0274) SCG Income tax share 
+0.121 
+(0.244) 0.0492 
+(0.449) Note: Coefficients are derived from multi-variate regressions linking the coefficient of variation of regional GDP per capita in a country 
+to the decentralisation indicators and a set of control variables. Decentralisation indicators are inserted sequentially in the equations. 
+The analysis includes all the control variables as in the baseline model. Property tax refers to the share with respect to total tax 
+revenues. 69. 
+As shown in Table 9, the estimation results are similar to the baseline model, with the indicators 
+of tax and revenue decentralisation reducing the ratio between the top and the bottom of the distribution. 
+Interestingly, the magnitude of the effect is greater for the 90/10 percentile ratio, hinting at a bigger effect 
+of decentralisation on the extremes of the regional per capita GDP distribution. 70. 
+Overall these results suggest that the reduction of regional disparities is guided by either a strong 
+positive effect on the lagging regions or a depressing effect on the top-performing regions. In other words, ECO/WKP(2016)54 31 the reduction of disparities can be the result of a catching up process or a relative decline in the 
+performance of the top regions. An example of the latter phenomenon is provided by countries badly 
+affected by the global financial crisis and the subsequent great recession (like Greece), where the reduction 
+of regional disparities is probably driven by the drop in GDP experienced by the capital region. 5.2. Catching-up or slowing down? 71. 
+The empirical analysis conducted so far suggests that revenue decentralisation reduces regional 
+disparities. It is still not clear, however, what part of the regional distribution is most affected by 
+decentralisation, and in which way. A reduction of regional disparities is consistent with both a negative 
+performance of regions with the highest GDP per capita (top regions), or a positive performance of the 
+regions with the lowest GDP per capita (bottom regions). In both cases, within countries regional 
+disparities would decrease. 72. 
+In order to shed some light on this important issue, the analysis shifts from regional disparities to 
+regional convergence. In order to assess whether within country convergence comes from the catching up 
+of low income regions or from the bad performance of income rich regions, a separate sample of rich and 
+poor regions is constructed. These two samples are constructed by taking the regional GDP per capita level 
+of the top and bottom 25 th percentile of the distribution of regional outcome within each country. In other 
+words, the original dataset is split into a sub-sample consisting of the top performing regions within each 
+country and a sub-sample of the lagging regions within each country. 73. 
+The empirical strategy consists in estimating the impact of fiscal decentralisation on the 
+economic growth of the two sets of regions, separately. The econometric model is represented by the 
+following equation: ln í µí±¦ í µí±í µí±¡ − ln í µí±¦ í µí±í µí±¡−1 = í µí± + í µí»½ 1 í µí°¹í µí°· í µí±(í µí±¡−1) + í µí»½ 2 ln í µí±¦ í µí±í µí±¡−1 + í µí»½ 3 í µí± í µí±í µí±¡ + í µí»¼ í µí± + í µí»¾ í µí±¡ + í µí¼ í µí±í µí±¡ where ln í µí±¦ í µí±í µí±¡ represents the natural log of per capita GDP of the top (bottom) 25 th percentile in country i at 
+time t; í µí°¹í µí°· í µí±í µí±¡ represents fiscal decentralisation indicators for country i at time t-1; í µí± í µí±í µí±¡ is a set of control 
+variables – similar to the baseline model; í µí»¼ í µí± and í µí»¾ í µí±¡ represent country and time fixed effects; í µí¼ í µí±í µí±¡ is the error 
+term. 74. 
+The left hand side of the econometric equation represents the growth rate of the top (bottom) per 
+capita GDP in each country for the period 1995-2011. This is supposed to be affected by the lagged value 
+of GDP per capita (ln í µí±¦ í µí±í µí±¡−1 ), and the lagged value of fiscal decentralisation measures. The coefficient í µí»½ 2 
+accounts for the catching up hypothesis originated from Solow's growth model, that is low income 
+countries (regions in our case) should growth faster than high income ones. In the current empirical 
+specification this parameter accounts for between country convergence among the richest (poorest) regions 
+in each country. 75. 
+The focus of the analysis is on the estimation of í µí»½ 1 under the two distinct sets of regional GDP 
+levels. If the channels through which fiscal decentralisation reduces within countries regional disparity is 
+greater incentive for low income regions to use their resources, we would expect í µí»½ 1 to be larger for the 
+bottom 25 th percentile than for the top income regions. 76. 
+Since the econometric estimate includes the lagged value of GDP as explanatory variables, the 
+estimation of this model incurs a problem of serial correlation of the error term. For this reason GDP is 
+instrumented with its 2 and 3 year lagged values (Acemoglu et al., 2006). The instrumental variable two 
+stage least square (IV 2SLS) estimation results are reported in Table 10. ECO/WKP(2016)54 32 77. 
+The estimation results show that the one year lagged value of subnational tax share positively 
+affects the growth rate of both set of regions; however, it is larger in magnitude and statistical significance 
+for the bottom regions. The coefficient of revenue decentralisation is never significant, while the 
+coefficient associated with sub-central fiscal authority is positive and highly significant only for the bottom 
+25 th percentile regions. 78. 
+As regards expenditure decentralisation, the estimated impact on the regional growth rate is 
+positive for both sets of regions. The magnitude of the estimated coefficients, however, reveals that the 
+positive impact on economic growth is larger in the high income regions than in the bottom ones. This 
+provides some evidence for a role of expenditure decentralisation in increasing regional disparities. 79. 
+In line with the theoretical framework (section 2), this result provides evidence that lagging 
+regions can benefit more than richer regions from tax decentralisation. The responsibility to raise tax 
+revenue in order to finance local spending provides a strong incentive to attract resources and activate local 
+ones. However, while the first channel (competing for resources) should work in the same way in top and 
+bottom income regions, the second channel (activating unused resources) is likely to produce a higher 
+marginal benefit in lagging regions where the scope for activating resources is larger. ECO/WKP(2016)54 33 Table 10. Impact of decentralisation on the top and bottom 25 
+th percentile Dependent variable: 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) 
+gb 
+gb 
+gb 
+gb 
+gt 
+gt 
+gt 
+gt L.lnbottom (instrumented) 
+-0.172*** 
+-0.171*** 
+-0.193*** 
+-0.210*** (0.0453) 
+(0.0460) 
+(0.0497) 
+(0.0724) L.lntop (instrumented) 
+-0.140*** 
+-0.140*** 
+-0.150*** 
+-0.138** (0.0403) 
+(0.0408) 
+(0.0413) 
+(0.0634) L.Tax share 
+0.137* 
+0.0769 (0.0751) 
+(0.0778) L.Expediture share 
+0.00188 
+0.0274 
+0.0692 
+0.0857* (0.0578) 
+(0.0595) 
+(0.0526) 
+(0.0508) L.Revenue share 
+-0.00926 
+-0.0196 (0.0978) 
+(0.108) L.Fiscal authority 
+0.0112*** (0.00392) L.Tax autonomy 
+0.00168 
+0.00220 (0.00160) 
+(0.00174) ln Education 
+-0.287** 
+-0.217* 
+-0.203 
+-0.541** 
+-0.707*** 
+-0.665*** 
+-0.664*** 
+-0.862** (0.125) 
+(0.122) 
+(0.134) 
+(0.215) 
+(0.194) 
+(0.185) 
+(0.180) 
+(0.399) ln Gross capital formation 
+0.106*** 
+0.109*** 
+0.106*** 
+0.122*** 
+0.103*** 
+0.105*** 
+0.115*** 
+0.105*** (0.0242) 
+(0.0245) 
+(0.0245) 
+(0.0339) 
+(0.0252) 
+(0.0260) 
+(0.0247) 
+(0.0329) ln Population 
+-0.385*** 
+-0.323*** 
+-0.393*** 
+-0.293** 
+-0.0704 
+-0.0325 
+-0.0944 
+0.142 (0.0997) 
+(0.0965) 
+(0.0858) 
+(0.120) 
+(0.112) 
+(0.110) 
+(0.0992) 
+(0.184) ln Population concentration 
+-0.301* 
+-0.256 
+-0.641*** 
+-0.0223 
+0.00333 
+0.0288 
+0.0445 
+0.153 (0.182) 
+(0.171) 
+(0.195) 
+(0.267) 
+(0.231) 
+(0.230) 
+(0.224) 
+(0.377) ln Debt 
+0.0176 
+0.0190 
+-0.00141 
+0.00545 
+0.0401*** 
+0.0412*** 
+0.0356*** 
+0.00895 (0.0114) 
+(0.0117) 
+(0.0124) 
+(0.0181) 
+(0.0138) 
+(0.0145) 
+(0.0133) 
+(0.0196) Government size 
+0.000300 
+0.000329 
+0.000625 
+-0.000705 
+0.000145 
+0.000160 
+7.05e-05 
+-0.000428 (0.000388) (0.000398) (0.000384) (0.000949) (0.000644) (0.000637) (0.000635) 
+(0.00192) Underidentification (p-value) 
+0.0000 
+0.0000 
+0.0000 
+0.0000 
+0.0000 
+0.0000 
+0.0000 
+0.0000 Weak identification (F-Stat) 
+194.62 
+193.96 
+129.12 
+71.32 
+371.56 
+373.72 
+345.81 
+119.08 Stock-Yogo critical value 10% 
+19.93 
+19.93 
+19.93 
+19.93 
+19.93 
+19.93 
+19.93 
+19.93 Overidentification: (p-value) 
+0.7638 
+0.7421 
+0.5533 
+0.8240 
+0.5769 
+0.5925 
+0.4714 
+0.4467 Observations 
+250 
+250 
+231 
+171 
+250 
+250 
+251 
+171 R-squared 
+0.612 
+0.607 
+0.648 
+0.682 
+0.520 
+0.519 
+0.528 
+0.540 Number of countries 
+21 
+21 
+21 
+20 
+21 
+21 
+21 
+20 Note: Robust standard errors in parentheses. *** p<0.01, ** p<0.05, * p<0.1. The dependent variable in models 1-4 is the growth rate 
+of the bottom 25 th percentile of the distribution of regional per capita GDP (gb); the dependent variable of the models 5-8 is the growth 
+rate of the top 25 th percentile of the distribution of regional per capita GDP (gt). Lnbottom and Lntop represent the bottom 25 th and top 
+25 th GDP per capita in natural logs; the notation  " L.variable name "  represents the variable lagged value. 5.3. Differences in productivity seem to determine regional disparities 80. 
+Regional GDP per capita can be decomposed into three factors: GDP per worker; the 
+employment rate and the activity rate. This factor decomposition reveals that the main driver of differences 
+in regional GDP per capita is differences in productivity (Figure 8). Employment and activity rates are 
+much more evenly distributed, suggesting that productivity is the main determinant of differences in GDP 
+per capita (OECD, 2015). Exceptions to this pattern are Italy and Spain, where employment differs widely 
+across regions, and Japan, where the active population is concentrated in few jurisdictions. More work is 
+necessary to determine, how fiscal decentralisation affects each channel. ECO/WKP(2016)54 34 Figure 8. Differences in productivity drive regional disparities Coefficient of variation of each factor, contribution to total variation, 2010 Note: The variation of regional GDP per capita is decomposed into the contributions of labour productivity (GDP per worker), labour 
+resource utilisation (those employed as a share of the active working population) and the activity rate (per cent of the active working 
+population in total population). Since the relationship between GDP and its components is multiplicative, the variability of each 
+component does not exactly add up to the variability of GDP per capita. Source: 
+Estimates 
+based 
+on 
+OECD 
+(2016), 
+"Regional 
+economy", 
+OECD 
+Regional 
+Statistics 
+(database) 
+DOI: http://dx.doi.org/10.1787/region-data-en. ECO/WKP(2016)54 35 BIBLIOGRAPHY Acemoglu, D., Johnson, S. and J.A. Robinson (2005),  " Institutions as a Fundamental Cause of Long-Run 
+Growth " , in Aghion, F. and S. Darlauf (eds) Handbook of Economic Growth, Elsevier, North 
+Holland. Arnold, F. and H. Blöchliger (2016),  " Regional GDP in OECD Countries: How Has Inequality Developed 
+over Time? " , OECD Economics Department Working Papers, No. 1329, OECD Publishing, Paris. Baldwin, R. and P. Krugman (2004),  " Agglomeration, Integration and Tax Harmonisation " , European 
+Economic Review, Vol. 48, pp. 1-23. Barro, R. and X. Sala-i-Martin (1991),  " Convergence Across States and Regions " , Brookings Papers on 
+Economic Activity, No. 1. Barro, R. and X. Sala-i-Martin (1995), Economic Growth, McGraw-Hill: New York. Bartolini, D. and R. Santolini (2012),  " Political Yardstick Competition Among Italian Municipalities on 
+Spending Decisions " , Annals of Regional Science, Vol. 49(1), pp. 213-235. Bruno, G. (2005),  " Estimation and Inference in Dynamic Unbalanced Panel-data Models with a Small 
+Number of Individuals " , Stata Journal, Vol. 5(4), pp. 473-500. Bell M.E., R.D. Ebel, K. Kaiser and J. Rojchaichaninthorn (2006),  " Measuring Fiscal Decentralization: a 
+New Perspective " , World Bank. Besley, T. and M. Ghatak (2003),  " Incentives, Choice, and Accountability in the Provision of Public 
+Services " , Oxford Review of Economic Policy, Vol. 19, pp. 235-249. Blöchliger, H., D. Bartolini and S. Stossberg (2016),  " Does Fiscal Decentralisation Foster Regional 
+Convergence? " , OECD Economic Policy Paper, No. 17, OECD Publishing, Paris. 
+DOI: http://dx.doi.org/10.1787/5jlr3c1vcqmr-en Blöchliger, H. and J. Pinero Campos (2011), "Tax Competition Between Sub-Central 
+Governments",OECD Working Papers on Fiscal Federalism, No. 13, OECD Publishing, Paris. 
+DOI: http://dx.doi.org/10.1787/5k97b1120t6b-en Blöchliger, H. and B. Égert (2013), "Decentralisation and Economic Growth -Part 2: The Impact on 
+Economic Activity, Productivity and Investment", OECD Working Papers on Fiscal Federalism, 
+No. 15, OECD Publishing, Paris. 
+DOI: http://dx.doi.org/10.1787/5k4559gp7pzw-en Broadway, R. and A. Shah (2009), Fiscal Federalism. Principles and Practice of Multiorder Governance, 
+Cambridge University Press. Ezcurra, R. and P. Pascual (2008),  " Fiscal Decentralization and Regional Disparities: Evidence from 
+Several European Union Countries " , Environment and Planning A, Vol. 40, pp. 1185-1201. ECO/WKP(2016)54 36 Ezcurra, R and A. Rodríguez-Pose (2014), "Government Quality and Spatial Inequality: a Cross-Country 
+Analysis", Environment and Planning A, Vol. 46(7), pp. 1732 – 1753. Fredriksen, K. (2013), "Decentralisation and Economic Growth -Part 3: Decentralisation, Infrastructure 
+Investment and Educational Performance", OECD Working Papers on Fiscal Federalism, No. 16, 
+OECD Publishing, Paris. DOI: http://dx.doi.org/10.1787/5k4559gg7wlw-en Fujita, M., P. Krugman and A. Venables (1999), The Spatial Economy, The MIT Press. Garcilazo, E. and J. Oliveira Martins (2013), "The Contribution of Regions to Aggregate Growth in the 
+OECD", OECD Regional Development Working Papers, No. 2013/28, OECD Publishing, Paris. 
+DOI: http://dx.doi.org/10.1787/5k3tt0zzp932-en Goerl, C. and M. Seiferling (2014),  " Income Inequality, Fiscal Decentralization and Transfer 
+Dependency " , IMF Working Paper, No. 64. Eyraud, L. and L. Lusinyan (2011),  " Decentralizing Spending More than Revenue: Does it Hurt Fiscal 
+Performance? " , IMF Working paper, No. 226. European Union (2013), Manual on Regional Accounts Methods, Eurostat Manuals and Guidelines, 2013 
+edition, ISSN 2315-0815, DOI: 10.2785/33649. Furceri, D. and A. Mourougane (2010),  " Structural Indicators: A Critical Review " , OECD Journal: 
+Economic Studies, Issue 1, pp. 1-34. Hooghe, L., G. Marks, A.H. Schakel, C.S. Osterkatz, S. Niedzwiecki and S. Shair-Rosenfield (2015), A 
+Postfunctionalist Theory of Governance. Volume I: Measuring Regional Authority, Oxford 
+University Press, Oxford. Islam, N. (2003),  " What Have We Learnt from the Convergence Debate? " , Journal of Economic Survey, 
+Vol. 17(3), pp. 309-362. Kappeler, A., A. Sollé-Ollé, A. Stephan and T. Välilä (2013),  " Does Fiscal Decentralization Foster 
+Regional Investment in Productive Infrastructures? " , European Journal of Political Economy, 
+Vol. 31, pp. 15-25. Kaufmann, D., A. Kraay and M. Mastruzzi (2010), "The Worldwide Governance Indicators: A Summary 
+of Methodology, Data and Analytical Issues", World Bank Policy Research Working Paper, 
+No. 5430. Kyriacou, A., L. Muinelo-Gallo and O. Roca-Sagalés (2015),  " Fiscal Decentralization and Regional 
+Disparities: The Importance of Good Governance " , Papers in Regional Science, Vol. 94(1), pp. 
+89-107. Laffont, J.J. and D. Martimort (2002), The Theory of Incentives. The Principal-Agent Model, Princeton 
+University Press. Lessmann, C. (2006),  " Fiscal Decentralization and Regional Disparity: A Panel Data Approach for OECD 
+Countries " , IFO Working Paper, No. 25. Lessmann, C. (2009),  " Fiscal Decentralisation and Regional Disparity: Evidence from Cross-Section and 
+Panel Data " , Environment and Planning A, Vol. 41, pp. 2455-2473. Lessmann, C. (2014),  " Spatial Inequality and Development – Is There an Inverted-U Relationship? " , 
+Journal of Development Economics, Vol. 106, pp. 35-51. ECO/WKP(2016)54 37 Milanovic, B. (2011),  " A Short History of Global Inequality: the Past Two Centuries " , Explorations in 
+Economic History, Vol. 48(4), pp. 494-506. Milanovic, B. (2015),  " Global Inequality of Opportunity: How much of our Income is Determined by 
+where We Live? " , Review of Economics and Statistics, Vol. 97(2), pp. 452-460. North, D. C. (1990), Institutions, Institutional Change and Economic Performance, Cambridge University 
+Press. OECD (2009), How Regions Grow: Trends and Analysis, OECD Publishing, Paris. 
+DOI: http://dx.doi.org/10.1787/9789264039469-en. OECD (2011), OECD Regional Outlook 2011: Building Resilient Regions for Stronger Economies, OECD 
+Publishing, Paris. 
+DOI: http://dx.doi.org/10.1787/9789264120983-en. OECD (2012), Promoting Growth in All Regions, OECD Publishing, Paris. 
+DOI: http://dx.doi.org/10.1787/9789264174634-en. OECD (2014), How's Life in Your Region? Measuring Regional and Local Well-being for Policy Making, 
+OECD Publishing, Paris. 
+DOI: http://dx.doi.org/10.1787/9789264217416-en. Rodriguez-Posé, A. and N. Gill (2004),  " Is there a Global Link Between Regional Disparities and 
+Devolution? " , Environment and Planning A, Vol. 36, pp. 2097-2117. Rodriguez-Posé, A. and R. Ezcurra (2010),  " Does Decentralization Matter for Regional Disparities? A 
+Cross-Country Analysis " , Journal of Economic Geography, Vol. 10, pp. 619-644. Sala-i-Martin, X. (1996),  " Regional Cohesion: Evidence and Theories of Regional Growth and 
+Convergence " , European Economic Review, Vol. 40, pp. 1325-1352. Shankar, R. and A. Shah (2003),  " Bridging the Economic Divide Within Countries: A Scorecard on the 
+Performance of Regional Policies in Reducing Regional Income Disparities " , World Development, 
+Vol. 31(8), pp. 1421-1441. Spiezia, V. (2003),  " Measuring Regional Economies " , OECD Statistics Brief, No.6, OECD Publishing, 
+Paris. https://www.oecd.org/std/15918996.pdf Stossberg, S., D. Bartolini and H. Blöchliger (2016),  " Fiscal Decentralisation and Income Inequality: 
+Empirical Evidence from OECD Countries " , OECD Economics Department Working Papers, 
+No. 1331, OECD Publishing, Paris. Ter-Minassian, T. (2015),  " Promoting Responsible and Sustainable Fiscal Decentralization " , in Ahmad, E. 
+and G. Brosio (eds), Handbook of Multilevel Finance, Edward Elgar Publishing. Williamson, J. (1965),  " Regional Inequality and the Process of National Development: a Description of 
+Partners " , Economic Development and Cultural Change, Vol. 13(4), pp. 3-45. Wilson, J. D. (2015),  " Tax Competition in a Federal Setting " , in Ahmad, E. and G. Brosio (eds), Handbook 
+of Multilevel Finance, Edward Elgar Publishing. Wooldridge, J. M. (2002), Econometric Analysis of Cross Section and Panel Data, MIT Press, Cambridge, 
+MA. ECO/WKP(2016)54 38 APPENDIX A A1. List of independent variables Fiscal decentralisation indicators SCG tax share: Ratio of sub-central government tax revenue in total tax revenue (Source: Fiscal 
+Decentralisation database). SCG revenue share: Ratio of sub-central government revenues (including taxes) in total revenues (Source: 
+Fiscal Decentralisation database). SCG expenditure share: Ratio of sub-central government spending over total spending of the public sector 
+(Source: Fiscal Decentralisation database). Vertical fiscal imbalance: Indicator calculated as (1 − í µí±í µí° ¶í µí°º í µí±í µí°¸í µí± 
+í µí±í µí° ¶í µí°º í µí°¸í µí±í µí± ), where SCG REV represents the amount of revenues at the sub-central level, and SCG EXP represents the amount of spending at the sub-central level 
+(Source: Fiscal Decentralisation database). Tax autonomy: Ratio of tax revenue over which SCGs have some autonomy in setting the base and/or rate 
+over total tax revenue. Since observations are only available for 1995, 2002, 2005, 2008 and 2011, a panel 
+variable has been created by interpolation (Source: OECD Fiscal Decentralisation Database). Fiscal authority: Indicator of the regional authority in setting tax rates and bases independently from the 
+central government. It goes from 0 (no fiscal power) to 4 (regional government can set both the rate and 
+the base of at least one major tax). Data are from the Regional Authority Index database which aggregates 
+annual scores from 231 regional government/tiers in 65 countries for the period 1950-2010. The indicator 
+is for the national level, obtained by the aggregation of regional scores, weighted by the regional 
+population (Hooghe et al. 2015). Local income tax ratio: Ratio of sub-central income tax revenue in total income tax revenue, covering 35 
+OECD countries for the period 1990-2010 (Source: OECD Tax Revenue Statistics). Property tax ratio: Ratio between the revenue from property taxation and the total tax revenue (Source: 
+OECD Tax Revenue Statistics). This indicator is included because in most OECD countries the property 
+tax is mainly a sub-central government tax, which although not always under the complete authority of the 
+sub-central government, it does contribute substantially to the local budget. Local welfare spending, local education spending: Ratio of the sub-central spending to the total spending 
+in the respective COFOG spending area (Source: OECD COFOG Database (SNA 93)). Data cover 24 
+OECD countries for the period 1995-2012. Control variables GDP per capita: National GDP per capita measured in constant PPP USD (base year 2005) (Source: 
+OECD National Accounts database) Human capital: Indicator based on the average years of schooling by country (Source: OECD Analytical 
+Database). ECO/WKP(2016)54 39 Gross capital formation: Annual gross capital formation as share of GDP (Source: World Bank WDI 
+database). Trade openness: Sum of the value of exports and imports of goods and services divided by the country's 
+GDP (Source: OECD Analytical Database). Share of VA in manufacturing: Value added in the manufacturing sector as share of national GDP (Source: 
+World Bank WDI database). Urbanisation: Share of urban population over total population. Urban population refers to people living in 
+urban areas as defined by national statistical offices. It is calculated using World Bank population 
+estimates and urban ratios from the United Nations World Urbanization Prospects (World Bank WDI 
+database). Population concentration: See Section A2 below. Public debt: Central government debt as a share of GDP (Source: World Bank WDI database). Government expenditure: Consolidated government expenditure as a share of GDP (Source: OECD Fiscal 
+Decentralisation database) A2. Geographic Concentration Index 81. 
+The index of geographic concentration of the population for a country with N regions is 
+calculated as the following expression: ∑ |í µí± í µí± − í µí± í µí± | í µí± 
+í µí±=1 2 where p represents the population share of region i with respect to the country's population; a represents 
+the surface area of region i with respect to the total surface of the country. For each region the indicator 
+takes the absolute value of the difference between the two shares and sums over all regions. Data are from 
+the OECD Regions and Cities database. 82. 
+The indicator is based on the idea that an evenly (not concentrated) distribution of a country's 
+population over the territory is achieved when the regional share of population and surface area coincide. 
+In this case the index has value zero. By contrast, when the regional population share is larger than the 
+surface area, the indicator assumes values greater than zero. The numerator is divided by two as for any 
+region in which the population share is higher than the surface area share there must be a  " complementary "  
+region with the exact opposite condition. A3. Bi-variate correlation matrix among the variables used in the econometric model 83. 
+Table A.1 shows that the different indicators of fiscal decentralisation are correlated, thus 
+supporting the choice of presenting results in which they are used in isolation. The correlation matrix also 
+shows that the pair-wise correlations between the other explanatory variables are not large. ECO/WKP(2016)54 40 Table A.1. Correlation matrix COV 
+Tax dec 
+Rev 
+dec Exp 
+dec V. fiscal 
+imbalance 
+GDP_pc 
+Human 
+capital Capital 
+formation Trade 
+openness 
+VA_manu 
+Population 
+Urbanisation 
+Pop 
+concentration Public 
+debt Public 
+expenditure COV 
+1 
+Tax dec 
+-0.1536 
+1 
+Rev dec 
+-0.0409 
+0.9515 
+1 
+Exp dec 
+-0.1042 
+0.7633 
+0.7753 
+1 
+V. fiscal imbalance 
+0.1439 
+-0.698 
+-0.7265 
+-0.2211 
+1 
+GDP_pc 
+-0.3462 
+0.4663 
+0.3825 
+0.6075 
+-0.0219 
+1 
+Human capital 
+-0.0447 
+0.5016 
+0.5505 
+0.6077 
+-0.1733 
+0.4623 
+1 
+Capital formation 
+0.27 
+-0.3082 
+-0.171 
+-0.1858 
+0.0229 
+-0.4747 
+-0.3223 
+1 
+Trade openness 
+0.4578 
+-0.3826 
+-0.3367 
+-0.0455 
+0.4797 
+-0.1075 
+-0.1538 
+0.3468 
+1 
+VA_manu 
+0.2698 
+-0.1002 
+-0.0065 
+-0.0866 
+-0.1597 
+-0.334 
+-0.1155 
+0.4875 
+0.3428 
+1 
+Population 
+0.1049 
+0.4199 
+0.5121 
+0.2503 
+-0.3276 
+0.2475 
+0.3508 
+-0.2862 
+-0.5263 
+-0.3007 
+1 
+Urbanisation 
+-0.0632 
+0.4068 
+0.413 
+0.5637 
+-0.1436 
+0.4833 
+0.5795 
+-0.3326 
+-0.0862 
+-0.3368 
+0.105 
+1 
+Pop concentration 
+-0.3244 
+0.6067 
+0.5567 
+0.3593 
+-0.4824 
+0.3636 
+0.2164 
+-0.3118 
+-0.4613 
+-0.2565 
+0.292 
+0.3859 
+1 
+Public debt 
+0.0569 
+-0.071 
+-0.1523 
+-0.1956 
+0.1278 
+0.0236 
+-0.2784 
+-0.4436 
+-0.1788 
+-0.3603 
+0.1 
+0.1246 
+0.0907 
+1 
+Public expenditure 
+0.195 
+-0.1549 
+-0.1183 
+-0.1294 
+0.0961 
+-0.4851 
+-0.0321 
+0.1538 
+0.3101 
+0.2097 
+-0.1252 
+-0.1586 
+-0.1584 
+0.0468 
+1 ECO/WKP(2016)54 41 A4. SCG expenditure share and vertical fiscal imbalance 84. 
+The impact of spending decentralisation on regional disparities seems to be driven by the way in 
+which such expenditure are financed. Table A.2 (column 4) shows that when estimating a 2SLS 
+instrumental variable model, only the coefficient associated with vertical fiscal imbalance remains 
+significant. Table A.2. Spending and vertical fiscal imbalance, FE and IV estimation VARIABLES 
+(1) 
+(2) 
+(3) 
+(4) 
+IV (2/3-year lag) 
+SCG expenditure share 0.158** 
+0.0877 
+0.142 (0.0615) 
+(0.0834) 
+(0.113) Vertical fiscal imbalance 0.127** 
+0.100 
+0.254** (0.0591) 
+(0.0749) 
+(0.0988) GDP per capita 1.44e-05*** 
+1.51e-05*** 
+1.41e-05*** 
+4.41e-06 (4.52e-06) 
+(5.17e-06) 
+(4.58e-06) 
+(4.58e-06) GDP per capita (square) -1.28e-10** 
+-1.44e-10* 
+-1.24e-10* 
+0 (5.67e-11) 
+(7.01e-11) 
+(6.07e-11) 
+(6.43e-11) Human capital 0.0914 
+0.120 
+0.124 
+0.140** (0.103) 
+(0.0995) 
+(0.0995) 
+(0.0553) Gross capital formation -0.00488*** 
+-0.00453*** 
+-0.00491*** 
+-0.00430*** (0.00138) 
+(0.00150) 
+(0.00137) 
+(0.00101) Trade openness 0.0597 
+0.0473 
+0.0491 
+0.0465 (0.0460) 
+(0.0463) 
+(0.0469) 
+(0.0312) Share of VA in manufacturing -0.00509** 
+-0.00436** 
+-0.00464** 
+-0.00485*** (0.00211) 
+(0.00208) 
+(0.00218) 
+(0.00147) Urbanisation -0.00256 
+-0.00323 
+-0.00323 
+-0.00441*** (0.00185) 
+(0.00220) 
+(0.00216) 
+(0.00104) Population 2.18e-09** 
+2.02e-09** 
+1.96e-09** 
+8.52e-10 (8.25e-10) 
+(8.74e-10) 
+(8.47e-10) 
+(6.90e-10) Population concentration -0.0232** 
+-0.0246** 
+-0.0264** 
+-0.0376*** (0.0104) 
+(0.0111) 
+(0.0111) 
+(0.00835) Public debt (share of GDP) 0.000235 
+0.000122 
+0.000213 
+0.000737*** (0.000390) 
+(0.000407) 
+(0.000381) 
+(0.000251) Public spending (share of GDP) 0.00165*** 
+0.00160*** 
+0.00170*** 
+0.00212*** (0.000382) 
+(0.000353) 
+(0.000385) 
+(0.000349) Constant 0.480 
+0.465 
+0.504 (0.415) 
+(0.333) 
+(0.341) Observations 274 
+274 
+274 
+238 R-squared 0.557 
+0.566 
+0.571 
+0.517 Number of countries 20 
+20 
+20 
+20 Note: The first three columns are the estimation of the baseline model with fixed effect and time dummies; the forth column 
+presents the estimation results of the 2SLS IV estimation of the baseline model, where 2 and 3 year lag of the SCG expenditure 
+share and of the vertical fiscal imbalance are used. Standard errors in parentheses; *** p<0.01, ** p<0.05, * p<0.1. 85. 
+The relationship between spending and the vertical fiscal imbalance can also be investigated with 
+the creation of an interaction term. The sign of this indicator would show the importance of financing 
+additional local expenditure with local revenues. Table A.3 presents the results of FE estimation, without 
+year fixed effects and robust standard errors. If year fixed effects and robust standard errors are considered 
+the coefficients are no longer statistically significant, although still with the same sign. ECO/WKP(2016)54 42 Table A.3. Estimation results, interaction SCG expenditure share and vertical fiscal imbalance VARIABLES 
+(1) 
+g_cv (2) 
+g_cv SCG expenditure share 0.0877 
+-0.00678 (0.0567) 
+(0.0971) Fiscal vertical imbalance 0.100*** (0.0374) Interaction term 0.193** (0.0974) GDP_per capita 1.41e-05*** 
+1.52e-05*** (3.64e-06) 
+(3.69e-06) (GDP per capita) 2 -1.24e-10*** 
+-1.37e-10*** (0) 
+(0) Human capital 0.124*** 
+0.111** (0.0473) 
+(0.0472) Gross capital formation -0.00491*** 
+-0.00475*** (0.000977) 
+(0.000986) Trade openness 0.0491* 
+0.0502* (0.0293) 
+(0.0296) Share VA in manufacturing -0.00464*** 
+-0.00474*** (0.00142) 
+(0.00143) Urbanisation -0.00323*** 
+-0.00291*** (0.00112) 
+(0.00111) Population 1.96e-09*** 
+1.96e-09** (7.52e-10) 
+(7.61e-10) Population concentration -0.0264*** 
+-0.0232*** (0.00586) 
+(0.00578) Public debt 0.000213 
+0.000245 (0.000187) 
+(0.000189) Government expenditures (share of GDP) 0.00170*** 
+0.00164*** (0.000279) 
+(0.000281) Constant 0.504* 
+0.453 (0.276) 
+(0.278) Observations 274 
+274 R-squared 0.571 
+0.565 Number of countries 20 
+20 A5. Gini index of regional disparities 86. 
+The dependent variable is the Gini index of regional GDP per capita within each country, rather 
+than the coefficient of variation. The impact of the baseline model is estimated with a FE estimator, 
+including year fixed effects, and robust standard errors. ECO/WKP(2016)54 43 Table A.4. Estimation results, Gini index VARIABLES 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) 
+(8) Gini 
+Gini 
+Gini 
+Gini 
+Gini 
+Gini 
+Gini 
+Gini 
+tax_share 
+-0.0997 (0.0706) exp_share 
+0.0453* 
+0.0541** (0.0245) 
+(0.0209) rev_share 
+-0.140 
+-0.153* (0.0827) 
+(0.0807) f_aut 
+-0.00525** (0.00185) i_tax_aut 
+-0.00219** (0.000912) property_tax 
+-0.00412 (0.00257) income_tax_local 
+0.000184 (0.0450) gdp_pc 
+6.74e-06*** 
+5.80e-06*** 
+7.35e-06*** 
+6.59e-06*** 
+8.32e-06*** 
+5.31e-06** 
+6.02e-06*** 
+6.50e-06*** (1.55e-06) 
+(1.68e-06) 
+(1.65e-06) 
+(1.49e-06) 
+(1.50e-06) 
+(2.46e-06) 
+(1.91e-06) 
+(1.68e-06) gdp_pc2 
+-7.60e-11*** 
+-5.69e-11** 
+-8.37e-11*** 
+-6.82e-11*** 
+-8.91e-11*** 
+-6.67e-11** 
+-6.50e-11*** 
+-7.08e-11*** (0) 
+(0) 
+(0) 
+(0) 
+(0) 
+(0) 
+(0) 
+(0) H 
+0.0276 
+0.0233 
+0.0286 
+0.0394 
+0.0366 
+0.0111 
+0.0275 
+0.0153 (0.0412) 
+(0.0398) 
+(0.0361) 
+(0.0369) 
+(0.0373) 
+(0.0664) 
+(0.0384) 
+(0.0403) gcap 
+-0.00175*** 
+-0.00205*** 
+-0.00163*** 
+-0.00192*** 
+-0.00182*** 
+-0.00144* 
+-0.00198*** 
+-0.00179*** (0.000447) 
+(0.000464) 
+(0.000445) 
+(0.000453) 
+(0.000519) 
+(0.000704) 
+(0.000522) 
+(0.000486) trade 
+0.0212 
+0.0226 
+0.0204 
+0.0194 
+0.0266 
+0.0145 
+0.0260 
+0.0233 (0.0180) 
+(0.0188) 
+(0.0176) 
+(0.0187) 
+(0.0160) 
+(0.0237) 
+(0.0172) 
+(0.0180) VA_manu 
+-0.00224** 
+-0.00231** 
+-0.00222** 
+-0.00234*** 
+-0.00235** 
+-0.00129* 
+-0.00223* 
+-0.00221* (0.000906) 
+(0.000938) 
+(0.000884) 
+(0.000775) 
+(0.000895) 
+(0.000709) 
+(0.00107) 
+(0.00107) pop 
+1.39e-09*** 
+1.07e-09*** 
+1.43e-09*** 
+1.36e-09*** 
+1.31e-09*** 
+1.46e-09*** 
+1.47e-09*** 
+1.14e-09*** (3.15e-10) 
+(3.18e-10) 
+(2.39e-10) 
+(2.07e-10) 
+(2.77e-10) 
+(4.78e-10) 
+(3.59e-10) 
+(3.45e-10) urb 
+-0.000599 
+-0.000697 
+-0.000778 
+-0.000932 
+-0.000484 
+6.15e-05 
+-0.000677 
+-0.000583 (0.000665) 
+(0.000671) 
+(0.000774) 
+(0.000730) 
+(0.000710) 
+(0.000746) 
+(0.000725) 
+(0.000705) pop_con100 
+-0.00480 
+-0.00755* 
+-0.00556 
+-0.00764* 
+-0.00516 
+0.00693 
+-0.00619* 
+-0.00579 (0.00389) 
+(0.00400) 
+(0.00402) 
+(0.00415) 
+(0.00425) 
+(0.00822) 
+(0.00356) 
+(0.00346) debt 
+-8.44e-05 
+-1.21e-05 
+-8.83e-05 
+-2.30e-05 
+-3.26e-05 
+-3.88e-05 
+-8.48e-05 
+-6.83e-05 (0.000143) 
+(0.000147) 
+(0.000149) 
+(0.000146) 
+(0.000159) 
+(0.000166) 
+(0.000151) 
+(0.000153) exp_tot_gdp 
+0.000501*** 0.000579*** 
+0.000459*** 
+0.000544*** 
+0.000416*** 
+-2.37e-05 
+0.000501*** 
+0.000505*** (0.000137) 
+(0.000151) 
+(0.000138) 
+(0.000154) 
+(0.000116) 
+(0.000461) 
+(0.000118) 
+(0.000131) Constant 
+0.101 
+0.190 
+0.132 
+0.163 
+0.0295 
+-0.200 
+0.152 
+0.162 (0.131) 
+(0.154) 
+(0.111) 
+(0.101) 
+(0.107) 
+(0.430) 
+(0.155) 
+(0.152) Observations 
+272 
+272 
+272 
+272 
+255 
+175 
+272 
+272 
+R-squared 
+0.509 
+0.501 
+0.515 
+0.530 
+0.532 
+0.351 
+0.508 
+0.490 
+Number of c_id 
+20 
+20 
+20 
+20 
+20 
+19 
+20 
+20 Note: Robust standard errors in parentheses; *** p<0.01, ** p<0.05, * p<0.1 ECO/WKP(2016)54 44 A6. Correlation between SCG tax share and SCG spending on economic affairs 87. 
+The importance of the financing channel for SCG spending is highlighted by the chart in 
+Figure A.1, where the SCG share of tax revenue is plotted against the SCG share of spending in economic 
+related affairs. Figure A.1. Positive correlation between spending on economic affairs and SCG tax revenue share 1995-2011 Note: Values are shares of local with respect to total taxes or spending. Each dot represents one country in a specific year. Source: Own elaboration on data from OECD national accounts database and OECD Fiscal Decentralisation Database, 
+http://www.oecd.org/tax/federalism/oecdfiscaldecentralisationdatabase.htm. A7. Dynamic specification of the baseline model 88. 
+Table A.5 presents the results of the estimation of a dynamic model, where the lagged dependent 
+variable is included among the explanatory variables. This model specification takes into account that the 
+value of regional disparities is persistent over time, i.e. the value in a given year is mainly determined by 
+the value in the previous year. 89. 
+The results of the estimation show that the main variables of interest maintain the same sign 
+although they tend to lose statistical significance. This is because most of the yearly change (about 70%) is 
+explained by the lagged value of the same indicator. The only statistically significant coefficient is the 
+impact of revenue decentralisation, suggesting that the main impact on regional disparity is determined by 
+the decentralisation of revenue to the sub-national level. ECO/WKP(2016)54 45 Table A.5. Estimation results of the dynamic specification of the model Dependent variable: COV of GDP per capita (1) 
+(2) 
+(3) 
+(4) 
+(5) 
+(6) 
+(7) COV GDPpc (lagged) 
+0.756*** 
+0.745*** 
+0.766*** 
+0.755*** 
+0.744*** 
+0.747*** 
+0.743*** (0.0535) 
+(0.0592) 
+(0.0629) 
+(0.0618) 
+(0.0665) 
+(0.0604) 
+(0.0655) SNG tax share 
+-0.0350 (0.0823) SNG revenue share 
+-0.137* 
+-0.138* 
+-0.142 
+-0.162* (0.0774) 
+(0.0734) 
+(0.103) 
+(0.0910) SNG expenditure share 
+-0.00789 
+0.00392 
+0.0148 (0.0466) 
+(0.0467) 
+(0.0545) Vertical fiscal imbalance 
+0.0202 
+-0.00328 
+-0.0115 (0.0253) 
+(0.0340) 
+(0.0395) GDP per capita 
+1.63e-06 
+2.84e-06 
+1.50e-06 
+1.17e-06 
+2.78e-06 
+2.91e-06 
+2.90e-06 (3.05e-06) 
+(3.05e-06) 
+(2.94e-06) 
+(3.03e-06) 
+(2.96e-06) 
+(2.93e-06) 
+(2.93e-06) (GDP per capita) 2 
+0 
+0 
+0 
+0 
+0 
+0 
+0 0 
+0 
+0 
+0 
+0 
+0 
+0 Human capital 
+-0.0101 
+-0.00128 
+-0.0145 
+-0.00739 
+-0.00100 
+-0.00181 
+-0.00191 (0.0289) 
+(0.0287) 
+(0.0268) 
+(0.0285) 
+(0.0290) 
+(0.0293) 
+(0.0292) Gross capital formation 
+-0.000355 
+-0.000316 
+-0.000309 
+-0.000361 
+-0.000328 
+-0.000302 
+-0.000355 (0.000395) 
+(0.000408) 
+(0.000441) 
+(0.000402) 
+(0.000457) 
+(0.000418) 
+(0.000475) Trade openness 
+0.00674 
+0.00174 
+0.00841 
+0.00677 
+0.00161 
+0.00171 
+0.00122 (0.0164) 
+(0.0162) 
+(0.0156) 
+(0.0159) 
+(0.0162) 
+(0.0162) 
+(0.0159) Share VA in manufacturing 
+-0.00191* 
+-0.00184 
+-0.00194* 
+-0.00180 
+-0.00184 
+-0.00185 
+-0.00190* (0.00114) 
+(0.00114) 
+(0.00114) 
+(0.00116) 
+(0.00114) 
+(0.00118) 
+(0.00116) Urbanisation 
+-0.000725 
+-0.000903 
+-0.000655 
+-0.000921 
+-0.000928 
+-0.000867 
+-0.000907 (0.000896) 
+(0.000854) 
+(0.00101) 
+(0.000906) 
+(0.000981) 
+(0.000931) 
+(0.000979) Population 
+7.46e-11 
+2.45e-10 
+0 
+-9.00e-11 
+2.39e-10 
+2.67e-10 
+3.04e-10 (6.16e-10) 
+(6.41e-10) 
+(6.21e-10) 
+(5.98e-10) 
+(6.61e-10) 
+(6.90e-10) 
+(6.46e-10) Population concentration 
+-0.00660* 
+-0.00720** 
+-0.00628 
+-0.00837** 
+-0.00738* 
+-0.00692 
+-0.00703 (0.00363) 
+(0.00337) 
+(0.00406) 
+(0.00371) 
+(0.00396) 
+(0.00429) 
+(0.00436) Public Debt (share GDP) 
+-4.65e-06 
+-2.09e-05 
+-7.93e-06 
+2.07e-05 
+-1.54e-05 
+-2.45e-05 
+-1.31e-05 (0.000133) 
+(0.000134) 
+(0.000158) 
+(0.000136) 
+(0.000161) 
+(0.000145) 
+(0.000161) Public Spending (share GDP) 
+0.000334** 
+0.000319** 
+0.000299 
+0.000362** 
+0.000326* 
+0.000309* 
+0.000319 (0.000156) 
+(0.000155) 
+(0.000192) 
+(0.000175) 
+(0.000198) 
+(0.000187) 
+(0.000203) Observations 
+260 
+260 
+260 
+260 
+260 
+260 
+260 Number of c_id 
+20 
+20 
+20 
+20 
+20 
+20 
+20 Note: Results of LSDVC dynamic regression using bias correction Arellano and Bond estimator; bootstrapped standard error (20 
+iterations) Standard errors in parentheses, *** p<0.01, ** p<0.05, * p<0.1. ECO/WKP(2016)54 46 APPENDIX B Table B.1. Review of the empirical literature on the link between fiscal decentralisation and regional disparity Paper/Study 
+(in chronological order) Country and 
+time coverage Estimation 
+method Fiscal 
+decentralisation 
+indicators Inequality/ 
+disparity 
+measure Control variables 
+Effect 
+Results Shankar and Shah (2003) 
+ " Bridging the economic 
+divide within countries: a 
+scorecard on the 
+performance of regional 
+policies in reducing 
+regional income 
+disparities "  22 countries, 
+1996, 1997,1998 Cross section 
+(OLS) Considers federal vs 
+unitary countries Population weighed 
+coefficient of 
+variation of GDP pc Log of population, 
+developing dummy -
+Being a federal country is 
+associated with lower 
+regional disparity Lessmann (2006)  " Fiscal 
+decentralisation and 
+regional disparity: a panel 
+data approach for OECD 
+countries 17 OECD 
+countries, 
+1980-2001 Cross section 
+(OLS), Panel 
+estimated 
+with FE 
+estimator SCG expenditure share, 
+SCG revenue share, 
+SCG tax share, and tax 
+autonomy Coefficient of 
+variation, weighed 
+coefficient of 
+variation, and 
+adjusted Gini of 
+regional GDP pc GDP per capita, Gini of 
+regional population, 
+urbanisation, trade 
+openness. Share of social 
+security expenditure on 
+total government 
+expenditures, 
+unemployment rate, share 
+of employment in 
+agriculture -
+All measures of fiscal 
+decentralisation reduce 
+regional disparity, both in the 
+cross-section and the panel 
+model Ezcurra and Pascual 
+(2008)  " Fiscal 
+decentralization and 
+regional disparities: 
+evidence from several 
+European Union 
+countries "  12 EU countries, 
+1980-1999 Panel FE 
+Sub-central expenditure 
+share Population-
+weighted 
+coefficient of 
+variation of regional 
+GDP pc GDP pc, square of GDP 
+p/c, trade openness, 
+population density, degree 
+of productive 
+specialization, EU 
+structural funds -
+The devolution of fiscal 
+power to subnational 
+governments is negatively 
+correlated with the level of 
+regional inequality. Lessmann (2009),  " Fiscal 
+decentralisation and 
+regional disparity: 
+evidence from cross-
+section and panel data "  23 OECD 
+countries, 
+1982-2000 Cross 
+section, panel 
+fixed effects, 
+and diff-GMM SCG expenditure share, 
+SCG revenue share, 
+SCG tax share, and tax 
+autonomy Coefficient of 
+variation of regional 
+GDP pc GDP per capita, Gini of 
+regional population, 
+urbanisation, trade 
+openness, Share of social 
+security expenditure on 
+total government 
+expenditures, 
+unemployment rate, share 
+of employment in 
+agriculture -
+All measure of fiscal 
+decentralisation reduce 
+regional disparity. ECO/WKP(2016)54 47 Table B.1. Review of the empirical literature on the link between fiscal decentralisation and regional disparity (cont.) Paper/Study 
+(in chronological order) Country and 
+time coverage Estimation 
+method Fiscal 
+decentralisation 
+indicators Inequality/ 
+disparity 
+measure Control variables 
+Effect 
+Results Rodríguez-Pose and 
+Ezcurra (2009)  " Does 
+decentralization matter for 
+regional disparities? A 
+cross-country analysis "  26 countries 
+(19 developed, 
+7 developing), 
+1990-2005 IV, robust 
+variance 
+matrix 
+estimator Subnational share in 
+total government 
+expenditure, Schneider's 
+1996 political 
+decentralization index Population-
+weighted 
+coefficient of 
+variation of GDP 
+per capita GDP pc, population, trade 
+openness, presence of 
+transition economies, 
+share of total public 
+expenditure in GDP +/-
+In high income countries, 
+weak negative link between 
+fiscal and political 
+decentralization and regional 
+disparities; 
+in low income countries, 
+positive and statistically 
+significant link 
+Lessmann (2012) 
+ " Regional inequality and 
+decentralization: an 
+empirical analysis "  54 countries 
+(all stages of 
+development), 
+1980-2009 Cross 
+sectional 
+(OLS), panel 
+analysis 
+(fixed / 
+random 
+effects), 
+2SLS IV Fiscal indicators: 
+Expenditure, revenue, 
+tax shares of SCGs, 
+vertical imbalance. 
+Political indicators: 
+mainly those provided by 
+Treisman (2008). Share 
+of SC government in 
+total government 
+employment -weighted 
+coefficient of 
+variation of regional 
+GDP pc Interaction of fiscal 
+decentralisation with GDP 
+per capita, and Log GDP 
+pc and its square, number 
+of regions used to 
+calculate inequality 
+measures, geographic size 
+of country, unemployment, 
+trade openness, 
+ethnolinguistic 
+fractionalization, urban 
+population share and -
+Political and fiscal 
+decentralization both have a 
+negative effect on regional 
+inequalities. Decentralization 
+increases regional inequality 
+in less-developed countries, 
+whereas decentralization 
+contributes to lower 
+inequalities in highly 
+developed countries. Kyriacou et al. (2013) 
+ " Fiscal decentralization 
+and regional disparities: 
+The importance of good 
+governance "  24 OECD 
+countries, 
+1984-2006 FGLS 
+estimator, 
+SUR weights: 
+two stage 
+FGLS Subnational revenue as 
+a percentage of 
+consolidated general 
+government revenue Population-
+weighted 
+coefficient of 
+variation of regional 
+GDP pc Government quality 
+(corruption, law and order, 
+bureaucratic quality), real 
+GDP pc, public and private 
+investment, current public 
+spending, openness, 
+human capital 
+endowments, presence of 
+transition economies, 
+presence of segregated 
+ethnic groups +/-
+Controlling for government 
+quality reduces the 
+economic impact of fiscal 
+decentralisation on regional 
+disparities. Fiscal 
+decentralisation reduces 
+regional disparities in high 
+government quality countries 
+and widens disparities in low 
+government quality 
+countries. 

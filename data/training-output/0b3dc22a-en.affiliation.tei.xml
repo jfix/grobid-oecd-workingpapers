@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="laboratory">Organisation de Coopération et de Développement Économiques Organisation for Economic Co-operation and Development</orgName>
+							<orgName type="department">ENVIRONMENT DIRECTORATE</orgName>
+							<orgName type="laboratory">Authorised for publication by Simon Upton, Director, Environment Directorate. JEL Classification: F35</orgName>,
+							<address>
+								<addrLine>G22, H84, O19</addrLine>,
+								<region>Q54.</region>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

@@ -1,0 +1,121 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="5km8zdcp7j41-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>OECD DEVELOPMENT CENTRE<lb/> FISCAL POLICY IN LATIN AMERICA:<lb/> COUNTERCYCLICAL<lb/> AND SUSTAINABLE AT LAST?<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>by<lb/> Christian Daude, Ángel Melguizo and Alejandro Neut<lb/></docAuthor>
+	</byline>
+
+	<note type="other">Research area:<lb/> Latin American Economic Outlook<lb/></note>
+
+	<date>July 2010<lb/></date>
+
+	<byline>
+	<docAuthor>CENTRE DE<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>DÉVELOPPEMENT<lb/> CENTRE<lb/> DEVELOPMENT<lb/></affiliation>
+	</byline>
+
+	<docTitle>
+	<titlePart>Working Paper No. 291<lb/></titlePart>
+	</docTitle>
+
+	<note type="other">Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/> 2<lb/></note>
+
+	<note type="copyright">© OECD 2010<lb/></note>
+
+	<note type="other">DEVELOPMENT CENTRE<lb/> WORKING PAPERS<lb/> This series of working papers is intended to disseminate the Development Centre&apos;s<lb/> research findings rapidly among specialists in the field concerned. These papers are generally<lb/> available in the original English or French, with a summary in the other language.<lb/> Comments on this paper would be welcome and should be sent to the OECD<lb/> Development Centre,</note>
+
+	<address>2 rue André Pascal, 75775 PARIS CEDEX 16, France;</address>
+
+	<div type="abstract">or to<lb/> dev.contact@oecd.org. Documents may be downloaded from: http://www.oecd.org/dev/wp or<lb/> obtained via e-mail (dev.contact@oecd.org).<lb/></div>
+
+	<docTitle>
+	<titlePart>THE OPINIONS EXPRESSED AND ARGUMENTS EMPLOYED IN THIS DOCUMENT ARE THE SOLE RESPONSIBILITY OF THE AUTHORS<lb/> AND DO NOT NECESSARILY REFLECT THOSE OF THE OECD OR OF THE GOVERNMENTS OF ITS MEMBER COUNTRIES<lb/></titlePart>
+	</docTitle>
+
+	<note type="copyright">©OECD (2010)<lb/> Applications for permission to reproduce or translate all or part of this document should be sent to<lb/> rights@oecd.org<lb/></note>
+
+	<docTitle>
+	<titlePart>CENTRE DE DÉVELOPPEMENT<lb/> DOCUMENTS DE TRAVAIL<lb/></titlePart>
+	</docTitle>
+
+	<p type="introduction">Cette série de documents de travail a pour but de diffuser rapidement auprès des<lb/> spécialistes dans les domaines concernés les résultats des travaux de recherche du Centre de<lb/> développement. Ces documents ne sont disponibles que dans leur langue originale, anglais ou<lb/> français ; un résumé du document est rédigé dans l&apos;autre langue.<lb/> Tout commentaire relatif à ce document peut être adressé au Centre de développement<lb/> de l&apos;OCDE,</p>
+
+	<address>2 rue André Pascal, 75775 PARIS CEDEX 16, France;</address>
+
+	<div type="abstract">ou à dev.contact@oecd.org. Les<lb/> documents peuvent être téléchargés à partir de: http://www.oecd.org/dev/wp ou obtenus via le<lb/> mél (dev.contact@oecd.org)</div>
+
+	<note type="degree">.<lb/> LES IDÉES EXPRIMÉES ET LES ARGUMENTS AVANCÉS DANS CE DOCUMENT SONT CEUX DES AUTEURS ET NE REFLÈTENT PAS<lb/> NÉCESSAIREMENT CEUX DE L&apos;OCDE OU DES GOUVERNEMENTS DE SES PAYS MEMBRES<lb/></note>
+
+	<p type="introduction">©OCDE (2010)<lb/> Les demandes d&apos;autorisation de reproduction ou de traduction de tout ou partie de ce document devront<lb/> être envoyées à rights@oecd.org<lb/> OECD Development Centre Working Paper No. 291<lb/> DEV/DOC(2010)8<lb/> OECD 2010<lb/> 3<lb/> TABLE OF CONTENTS<lb/> ACKNOWLEDGEMENTS .......................................................................................................................... 4<lb/> PREFACE ...................................................................................................................................................... 5<lb/> RÉSUMÉ ........................................................................................................................................................ 6<lb/> ABSTRACT ................................................................................................................................................... 7<lb/> I. INTRODUCTION ..................................................................................................................................... 8<lb/> II. CYCLICALLY ADJUSTED BUDGET BALANCES IN LATIN AMERICA ................................... 10<lb/> III. ESTIMATION OF OUTPUT GAP ..................................................................................................... 31<lb/> IV. CONCLUSIONS AND POLICY IMPLICATIONS .......................................................................... 36<lb/> APPENDIX .................................................................................................................................................. 37<lb/> REFERENCES ............................................................................................................................................. 45<lb/> OTHER TITLES IN THE SERIES/ AUTRES TITRES DANS LA SÉRIE .............................................. 47<lb/></p>
+
+	<note type="other">Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/> 4<lb/></note>
+
+	<note type="copyright">© OECD 2010<lb/></note>
+
+	<docTitle>
+	<titlePart>ACKNOWLEDGEMENTS<lb/></titlePart>
+	</docTitle>
+
+	<note type="other">This paper was prepared for the 12th Banca d&apos;Italia Workshop on Fiscal Policy: Lessons from<lb/> the Crisis, Perugia 25-27 March 2010. We would like to thank the comments by participants, as<lb/> well as participants at the ECLAC XXII Seminario regional de política fiscal, Santiago de Chile<lb/></note>
+
+	<date>26-29 January 2010,</date>
+
+	<docTitle>
+	<titlePart>the IDB Meeting of Budget Officials in Lima, 5-7 May 2010, and the IDB&apos;s<lb/> seminar on Preconditions for Establishing Fiscal Rules Based on Structural Balances in Washington<lb/></titlePart>
+	</docTitle>
+
+	<date>DC, 28-29 June 2010.<lb/></date>
+
+	<note type="other">Comments and discussion by Eduardo Fernández-Arias, Davide Furceri, Gustavo García,<lb/> Martin Larch, Mario Marcel, Ricardo Martner, Teresa Ter-Minassian, and Helmut Reisen were<lb/> particularly helpful. We would like to thank</note>
+
+	<byline>
+	<docAuthor>Christophe André, Alberto Barreix, Bert Brys,<lb/> Barbara Castelletti, Hamlet Gutierrez and Ricardo Martner</docAuthor>
+	</byline>
+
+	<p type="introduction">, as well as officials from the<lb/> Ministries of Finance of Chile and Uruguay for providing some of the data. Gwenn Parent<lb/> provided excellent research assistance.<lb/> Financial support from the Fundación Internacional y para Iberoamérica de<lb/> Administración y Políticas Públicas (FIIAPP) and the Spanish Agency for International<lb/> Development Cooperation (AECID) are gratefully acknowledged. The views expressed herein<lb/> are the sole responsibility of the authors and do not necessarily reflect the opinions of their<lb/> institution.<lb/> OECD Development Centre Working Paper No. 291<lb/> DEV/DOC(2010)8<lb/> OECD 2010<lb/> 5<lb/> PREFACE<lb/> Many analysts suggested that Latin America has faced the crisis in a much better<lb/> macroeconomic position that in the past. Budgets balances were positive, debt-to-GDP ratios<lb/> were low, and monetary policy was more credible thanks to low inflation and well-anchored<lb/> expectations. Moreover, in contrast with the past, some of the countries in the region were able to<lb/> enact fiscal stimulus packages comparable to those of OECD countries. Is Latin America&apos;s new<lb/> resilience a permanent change? Some questions may require time to be responded, such as the<lb/> effectiveness of counter-cyclical fiscal impulses. But some may be responded right now,<lb/> particularly the cyclical or structural nature of recent fiscal improvements.<lb/> This paper by Christian Daude, Ángel Melguizo and Alejandro Neut, economists of the<lb/> OECD Development Centre, contributes to this relevant debate: fiscal solvency is a precondition<lb/> for sustainable development policies, and the ability to have a counter-cyclical policy is an<lb/> important tool to support the poor and vulnerable during downturns. The paper analyses fiscal<lb/> policy in the main economies in Latin America during the last two decades. It uses the OECD<lb/> methodology to measure structural balances, but it also takes into account the central role that<lb/> commodities play in several countries in the region. All in all, underneath the observed positive<lb/> indicators, the analysis of cyclically-adjusted balances and debt sustainability confirms that most<lb/> countries were in better position before the crisis. However, tax automatic stabilisers in Latin<lb/> America are still small, around half the OECD average. Concerning discretionary fiscal impulses,<lb/> they continue to be broadly pro-cyclical, but in some countries policy response to the last cycle<lb/> has been more stabilising. Finally, the authors document a great degree of uncertainty<lb/> concerning output gap estimates in Latin America which – combined with wide commodity<lb/> cycles – add an extra layer of complexity for policy makers in the region.<lb/></p>
+
+	<note type="other">This paper is elaborated within the Fiscal pillar of the LAC-OECD Initiative &quot; Fiscal<lb/> Policy: Improving Taxation and Public Expenditure &quot; , a joint project of the Centre for Tax Policy<lb/> and Administration and the Development Centre, supported by Spain, Chile and Mexico. We<lb/> hope that this working paper will contribute to a better informed debate on fiscal policy, helping<lb/> ultimately to improve the wellbeing of the people in Latin America.<lb/></note>
+
+	<byline>
+	<docAuthor>Mario Pezzini<lb/> Director<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>OECD Development Centre<lb/></affiliation>
+	</byline>
+
+	<date>July 2010<lb/></date>
+
+	<note type="other">Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/> 6<lb/></note>
+
+	<note type="copyright">© OECD 2010<lb/></note>
+
+	<p type="introduction">RÉSUMÉ<lb/> Cette étude analyse la politique budgétaire dans huit économies d&apos;Amérique Latine, à<lb/> partir du début des années 1990 et jusqu&apos;à 2009. Nous étudions les estimations des composantes<lb/> structurelles et cyclique des recettes publiques en l&apos;Argentine, le Brésil, le Chili, la Colombie, le<lb/> Costa Rica, le Méxique, le Pérou et l&apos;Uruguay, en utilisant la méthodologie de l&apos;OCDE, et en<lb/> ajoutant l&apos;effet des prix des matières premières, qui ont un impact significatif sur le solde<lb/> budgétaire en Amérique Latine. A partir de ces résultats, l&apos;étude évalue l&apos;ampleur des<lb/> stabilisateurs automatiques, et l&apos;stabilisation de la politique budgétaire discrétionnaire.<lb/> Finalement, nous soulignons l&apos;incertitude de l&apos;estimation de l&apos;écart de production en raison des<lb/> larges chocs cycliques, temporaires et permanents dans plusieurs économies d&apos;Amérique Latine.<lb/> Classification JEL: E62; H30; H60<lb/></p>
+
+	<keyword>Mots clé: Politique budgétaire, cycle économique, finances publiques<lb/></keyword>
+
+	<note type="other">OECD Development Centre Working Paper No. 291<lb/> DEV/DOC(2010)8<lb/> OECD 2010<lb/> 7<lb/></note>
+
+	<div type="abstract">ABSTRACT<lb/> This paper analyses fiscal policy for several economies in Latin America, from the early<lb/> nineties to the 2009 crisis. We present original estimates of cyclically-adjusted public revenues for<lb/> Argentina, Brazil, Chile, Colombia, Costa Rica, Mexico, Peru and Uruguay implementing the<lb/> standardised OECD methodology and extending it to include commodity cycles, which have a<lb/> direct and significant effect on the fiscal balance of several Latin American countries. Based on<lb/> these estimates, we evaluate the size of automatic tax stabilisers and the cyclicality of<lb/> discretionary fiscal policy. Additionally, we highlight the uncertainty stemming from the<lb/> estimation of the output gap, due to large and simultaneous cyclical, temporary and permanent<lb/> shocks in several Latin American economies.<lb/> JEL Classification: E62; H30; H60<lb/></div>
+
+	<keyword>Keywords: fiscal policy, business cycle, public finances<lb/></keyword>
+
+	<note type="other">Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/> 8<lb/></note>
+
+	<note type="copyright">© OECD 2010</note>
+
+		</front>
+	</text>
+</tei>

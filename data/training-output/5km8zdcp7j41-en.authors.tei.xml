@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+by
+							<lb/>
+								 <forename>Christian</forename>
+								<surname>Daude</surname>,
+							</persName>
+							<persName>
+								 <forename>Ángel</forename>
+								<surname>Melguizo</surname> and
+							</persName>
+							<persName>
+								 <forename>Alejandro</forename>
+								 <surname>Neut</surname>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>CENTRE</forename>
+								 <surname>DE</surname>
+							</persName>
+							<persName>
+								 <forename>Christophe</forename>
+								<surname>André</surname>,
+							</persName>
+							<persName>
+								 <forename>Alberto</forename>
+								 <surname>Barreix</surname> ,
+							</persName>
+							<persName>
+								<forename>Bert</forename>
+								 <surname>Brys</surname> ,
+							<lb/>
+							</persName>
+							<persName>
+								<forename>Barbara</forename>
+								 <surname>Castelletti</surname> ,
+							</persName>
+							<persName>
+								<forename>Hamlet</forename>
+								 <surname>Gutierrez</surname>and
+							</persName>
+							<persName>
+								 <forename>Ricardo</forename>
+								<surname>Martner</surname>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Mario</forename>
+								 <middlename>Pezzini</middlename>
+							<lb/>
+								 <surname>Director</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

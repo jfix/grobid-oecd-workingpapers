@@ -1,0 +1,974 @@
+Please cite this paper as: Coricelli, F. and A. Wörgötter (2012),  " Structural Change and 
+the Current Account: The Case of Germany " , OECD 
+Economics Department Working Papers, No. 940, OECD 
+Publishing, Paris. 
+http://dx.doi.org/10.1787/5k9gsh6tpz0s-en OECD Economics Department Working 
+Papers No. 940 Structural Change and the 
+Current Account THE CASE OF GERMANY Fabrizio Coricelli, Andreas Wörgötter JEL Classification: E21, E22, F32, F41, G18, H23, 
+H55, K20, K31, O40 Unclassified ECO/WKP(2012)17 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 03-Feb-2012 
+___________________________________________________________________________________________ 
+English -Or. English ECONOMICS DEPARTMENT STRUCTURAL CHANGE AND THE CURRENT ACCOUNT: THE CASE OF GERMANY ECONOMICS DEPARTMENT WORKING PAPERS No. 940 By Fabrizio Coricelli and Andreas Wörgötter All Economics Department Working Papers are available through the OECD Internet website at 
+www.oecd.org/eco/workingpapers JT03315330 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. ECO/WKP(2012)17 
+Unclassified English -Or. English Cancels & replaces the same document of 27 January 2012 ECO/WKP(2012)17 2 ABSTRACT/RÉSUMÉ Structural change and the current account: the case of Germany Using empirical evidence from panel analysis of current account dynamics and of bilateral trade balances, the 
+paper argues that the large German current account surplus during the 2000s can be explained by an increasing gap 
+between productivity growth in manufacturing vis-à-vis services. Such a gap is due not only to improvements in the 
+manufacturing sector but also to a significant slowdown of productivity growth in services. Therefore, despite the 
+success in export markets, the German surplus may signal long-run weaknesses associated with constraints on service 
+sector productivity growth and the inability of productivity growth in manufacturing to create positive spill-over 
+effects on services. Persistence of barriers to liberalisation in services as well as the dominant type of technological 
+progress in manufacturing, based on improving the efficiency of existing products, may partly explain these 
+phenomena. A key factor behind these sectoral differences is the education system, which relies on highly specialised 
+vocational schools, generating high returns for on the job training and creating incentives for efficiency gains in 
+existing products and sectors. The paper concludes that there is room for comprehensive structural policies consistent 
+with an equilibrium reduction in the current account surplus, accompanied by higher and more balanced growth. JEL Classification: E21; E22; F32; F41; G18; H23; H55; K20; K31; O40 
+Keywords: Germany; productivity growth differences; manufacturing; services; current account * * * * * Réformes structurelles et balance courante : le cas de l'Allemagne À partir des données factuelles issues de l'analyse des graphiques de l'évolution de la balance courante et de la 
+balance des échanges bilatéraux, cette étude montre que l'excédent de la balance courante allemande provient de 
+l'écart grandissant entre la croissance de la productivité dans le secteur manufacturier et dans celui des services. Ce 
+décalage s'explique, d'une part, par les améliorations apportées à l'industrie manufacturière, et, d'autre part, par le 
+ralentissement marqué de la hausse de la productivité dans les services. En ce sens, malgré les performances de 
+l'Allemagne en matière d'exportation, l'excédent de sa balance courante peut présager de certaines faiblesses sur le 
+long terme ; le secteur des services pâtit d'une productivité bridée et ne bénéficie pas non plus de la hausse de la 
+productivité du secteur manufacturier. L'explication de ce phénomène réside en partie dans la persistance de barrières 
+à la libéralisation des services. En outre, le modèle de progrès technologique dominant dans l'industrie 
+manufacturière allemande, axé sur l'amélioration de l'efficacité des produits existants, ne génère pas d'effet 
+multiplicateur sur le secteur des services, contrairement à ce qui a été observé aux États-Unis. L'origine de ces 
+disparités sectorielles est notamment à rechercher du côté d'un système éducatif qui repose sur des écoles 
+professionnelles très spécialisées, très efficaces pour ce qui concerne la formation pratique, incitant à développer des 
+gains d'efficacité pour les produits et les secteurs existants. La segmentation de l'éducation fait écho à la sectorisation 
+de la réglementation ; elle freine l'adoption des innovations radicales et des nouveaux produits, qui relève d'une 
+éducation plus généraliste, et crée de faibles barrières à l'entrée sur un marché intérieur caractérisé par son ampleur. 
+L'étude conclut qu'il est possible de mettre en place des politiques structurelles globales compatibles avec une 
+réduction de l'excédent de la balance courante, s'accompagnant d'une croissance plus forte et plus équilibrée. Classification JEL: E21; E22; F32; F41; G18; H23; H55; K20; K31; O40 
+Mots clés: Allemagne ; écarts de croissance de la productivité ; secteur manufacturier ; secteur des services ; balance 
+courante © OECD (2012) 
+You can copy, download or print OECD content for your own use, and you can include excerpts from OECD 
+publications, databases and multimedia products in your own documents, presentations, blogs, websites and teaching 
+materials, provided that suitable acknowledgment of OECD as source and copyright owner is given. All requests for 
+commercial use and translation rights should be submitted to rights@oecd.org. ECO/WKP(2012)17 3 TABLE OF CONTENTS 1. Introduction .............................................................................................................................................. 5 
+2. Stylized facts and the macro picture ........................................................................................................ 8 
+2.1. What happened in the 2000s? Identifying the shocks ....................................................................... 9 
+2.2. The current account and growth in Germany .................................................................................. 11 
+3. Structural determinants of the current account: dynamics of manufacturing and service sectors ......... 12 
+3.1. Structural change in an inter-temporal model ................................................................................. 12 
+3.2. Evidence on sectoral dynamics in Germany ................................................................................... 14 
+4. Empirical analysis .................................................................................................................................. 16 
+4.1. Determinants of the current account balance: A Panel analysis ...................................................... 16 
+4.2. Bilateral trade balances ................................................................................................................... 17 
+4.3. Time series for Germany ................................................................................................................. 21 
+4.4. Interpreting the results ..................................................................................................................... 23 
+5. Concluding remarks and suggestions for future research ...................................................................... 25 Bibliogr aphy ................................................................................................................................................. 26 Tables 1. Productivity and the current account, panel (long run) .......................................................................... 17 
+2. Productivity and the current account, panel (short run) ......................................................................... 17 
+3. Productivity and bilateral trade balance (long run) ................................................................................ 18 
+4. Productivity and bilateral trade balance (short run) ............................................................................... 19 
+5. Productivity and bilateral trade balance (long run) ................................................................................ 20 
+6. Productivity, labour market reform and trade balance (short run) ......................................................... 20 
+7. Productivity and the current account, Germany 1971-2007 (long run) ................................................. 21 
+8. Productivity and the current account, Germany 1972-2007 (short run) ................................................ 22 Figures 1. Germany: Current account balance, savings and investment, % of GDP ................................................ 8 
+2. Germany: National and household savings, % of disposable income ..................................................... 9 
+3. Germany: Labour share in total Value Added ....................................................................................... 10 
+4. Germany: Current account balance and GDP growth ............................................................................ 11 
+5. Sectoral labour reallocation and productivity shocks ............................................................................ 13 
+6a. Germany: Share of manufacturing in total VA and TFP...................................................................... 14 
+6b. United States: Share of manufacturing in total VA and TFP ............................................................... 14 
+7. Germany: TFP in manufacturing and service ........................................................................................ 15 
+8. Germany: Sectoral labour productivity, a longer view,1970-2007 ........................................................ 15 
+9. Germany: Current account balance, % of GDP, 1971-2007 .................................................................. 22 
+10. Germany: Change in current account balance, 1971-2007 .................................................................. 23 
+11. Contribution of IT Investment to VA growth ...................................................................................... 24 ECO/WKP(2012)17 4 ECO/WKP(2012)17 5 Structural change and the current account: the case of Germany 1 By Fabrizio Coricelli 2 and Andreas Wörgötter 3 1. Introduction Global imbalances in the form of large current account deficits/surpluses are at the center of the 
+international policy debate 4 According to recent studies (see for instance Cheung et al., 2010), the German surplus in the period 
+2004-08 cannot be explained on the basis of a traditional model referring to typical determinants of the 
+current account (e.g. demographics, growth rates, macroeconomic policies). . Although the China-US mirror imbalances are those that have attracted more 
+attention, developments in the euro area have raised the issue of sustainability of the monetary union in a 
+context of large imbalances. Large deficits in the so-called periphery of the euro area are mirrored by the 
+large surplus of Germany. Although the accumulation of surpluses with respect to peripheral euro area 
+countries has been a relevant aspect of the increased German surplus during the 2000s, non-euro area 
+countries account for a large proportion of the German surplus too. For instance, in the sample of OECD 
+countries, the trade surplus with respect to Greece, Portugal and Spain accounts for about 10% of the sum 
+of all surplus positions of Germany with OECD countries, whereas the UK and the US each account for 
+more than 12%. However, before jumping to the conclusion that the surplus requires policy interventions 
+one should establish that the surplus is the result of distortions and not an equilibrium phenomenon. Two different interpretations of the same phenomenon have been advanced: one claiming that the 
+surplus reflects the competitiveness of the German industry in world markets 5 ; the other, asserting that the 
+increase in net exports reflects the compression of domestic demand due to high domestic savings 
+associated with precautionary reasons 6 1. 
+The content of this paper does not necessarily reflect positions of the OECD Secretariat or the OECD and 
+its member countries. The authors gratefully acknowledge in-depth discussions with Isabell Koske, 
+Felix Hüfner and Caroline Klein. Any remaining errors are the sole responsibility of the authors. Efficient 
+research and statistical assistance was provided by Margaret Morgan. Secretarial assistance by 
+Josiane Gutierrez and Pascal Halim is gratefully acknowledged. . In fact, both interpretations share the view that reforms in the 
+labour market ensured wage moderation, labour market flexibility (part-time and temporary jobs) and a 2. 
+Paris School of Economics-Université Paris 1 and CEPR. 3. 
+OECD, Economics Department and University of Technology, Vienna 4. 
+Naude (2011) argues that  " The main lesson is perhaps a rather simple one -the world cannot have 
+globalization, financial deregulation and a 'non-system' in its global financial architecture (GFA) at the 
+same time; Bracht (2011) documents the efforts of G20 leaders to address global imbalances and OECD 
+(2011) explores the options how to get most out of international capital flows. 5. 
+For Sinn (2006) the German export boom is a pathology because of high wages in Germany. 6. 
+Hüfner and Koske (2010) have found that determinants of household savings rates in Germany and other 
+G7 differ significantly. In addition, and in remarkable difference to other countries, the German saving rate 
+fluctuates much less over time -and thus its increase since 2000 can hardly explain the rise in the current 
+account surplus. ECO/WKP(2012)17 6 consequent increase in profits and competitiveness of German firms. Moreover, the same labour market 
+reforms might have increased job insecurity and uncertainty among workers, with a consequent increase in 
+precautionary savings and thus compressing consumption (Bertola and Lo Prete, 2011). Although both views find prima facie empirical support, with the competitiveness view supported by 
+the rapid increase in productivity in the German manufacturing industry and the precautionary savings 
+view supported by the sizable increase in national savings, a closer look at the data suggests a more 
+nuanced interpretation. On the productivity front, it is remarkable that the increase in productivity in 
+manufacturing has been accompanied by stagnant productivity in the service sector, which is in striking 
+contrast with the US. More generally, the positive results on exports are related to the so-called "intensive margin", with an 
+increase in exports in existing products rather than in new products. Among EU countries, Germany has 
+the largest share of export growth due to the intensive margin, and the lowest from new products, as shown 
+in Cheptea et al. (2010). Moreover, productivity growth has been achieved with a contribution of technologically intensive 
+investments that is still well below the levels of countries like the US. Furthermore, the bulk of Germany's 
+export share gains was achieved in technologically low market segments (Cheptea et al., 2010). In 
+summary, despite the positive signs of increased competitiveness there are some signals of potential longer 
+term weaknesses. Regarding the precautionary savings view, the evidence is weak as the increase in savings took place 
+not in the household sector but in the corporate sector 7 In this paper, we follow a different approach from those outlined above and we will focus on the 
+relative role of "supply side" factors and factors associated with the potential role of labour market 
+reforms. We argue that the puzzling surplus in the current account of Germany in the 2000s can be 
+explained by an increasing gap between productivity growth in manufacturing vis-à-vis the service sector. . The channel of transmission from reforms, 
+especially in the labour market, and the current account is therefore different from the one envisioned in 
+the precautionary savings approach. Corporate savings have been boosted by labour market reforms, 
+leading to a sizable redistribution of income from wages to profits and thus a consequent reduction of 
+propensity to consume, which is usually much higher for wage income than for profits. In Germany the relative productivity of manufacturing took off together with the preparations for 
+eastern enlargement of the European Union around the mid-nineties. The progressive elimination of 
+barriers for trade and investment, but not labour, generated incentives to outsource only parts of 
+manufacturing activity. It was mainly activities with a bias in favour of low and high skill requirements 
+which were relocated, while activities requiring medium skills remained in the country, generating scope 
+for long term employment relationships, on the job training and incremental productivity increasing 
+innovation. With a high specialisation in vocational training the labour force with medium skills may have 
+benefited more from eastern enlargement and found attractive work opportunities in the manufacturing 
+sector. Such a gap is due not only to improvements in the manufacturing sector but also to a significant 
+slowdown of productivity growth in services. This could have something to do with the observation that 
+technologies in the services sectors of Germany are biased in favour of low skilled workers with unstable 
+employment relationships and little scope for on the job training, while the emergence of new firms and 7. 
+See Hüfner and Koske (2010). ECO/WKP(2012)17 7 radical innovation is hampered by restrictive product market regulation and the prevalence of a banking 
+system that favours financing of existing firms relative to start-ups with no track record. Of course, the 
+solution to the problem would not be to reduce productivity growth in manufacturing but to significantly 
+boost productivity in services. 8 Looking at structural factors rather than short term macro variables reveals that there is room for 
+structural policies consistent with an equilibrium reduction in the current account surplus accompanied by 
+higher growth going hand in hand with the services sector becoming more attractive for investments and 
+employment than currently perceived. We argue in the paper that the CA surplus is both the symptom of 
+increased productivity in the manufacturing sector and stagnant productivity in the service sector. We do 
+not have to resort to a  " wage compression "  argument, because all elements of our reasoning refer to market 
+responses and incentives. In this respect, the closest paper to ours is the work by Cova et al. (2009) that uses a multi-region 
+DSGE model and simulate the effects of the actual total factor productivity (TFP) dynamics in both 
+tradable and non-tradable sectors on the current account of the US, euro area and Japan. Their results 
+attribute the large current account deficit of the US to the surge in TFP in the service sector in the US, 
+relative to the other areas. This pickup of service sector productivity is possibly a consequence of the faster 
+diffusion of information and communication technologies in the US. Reasons for this difference could stem 
+from regulatory differences, which provide more protection for incumbents in Europe and Japan. Moreover, a deeper analysis of the sectoral dynamics of productivity and its relation to potential 
+distortions is warranted. Such analysis should also focus on the peculiar education system prevailing in 
+Germany, a system that is sticking out with its bias in favour of specialised vocational schools and skill 
+creation in the manufacturing sectors. Such educational system can explain to a great extent the success of 
+the German economy, a success that may not be sustainable in a world of rapid technological change and 
+rapid innovation both in manufacturing and service sectors. To emphasize our contribution and maximize the comparability with the existing literature, we extend 
+empirical models recently estimated for OECD countries to include the productivity of manufacturing and 
+service sectors and the role of labour market reforms. Our empirical analysis is based on three different 
+samples and methods. The first is based on a panel of OECD countries for the period 1960-2007. The 
+second is based on the analysis of the bilateral trade balance of Germany with OECD countries. For 
+comparability with the first approach we use the same set of variables, which are in this case the relative 
+values of Germany with the partner countries. Such bilateral approach adds a new dimension and 
+robustness to the relevance of specific variables, especially those relating to structural factors and to policy 
+reforms. Indeed, such approach has been followed in recent work on the impact of reforms on the trade 
+balance for euro area countries (Berger and Nitsch, 2010). Finally, we estimate the same model for the 
+time series for Germany for the period 1970-2007. This last analysis is more tentative as the number of 
+observations is more limited and the information on the relative behaviour with respect to other OECD 
+countries is not taken into account. However, we use these estimates as a robustness check of the other 
+analyses, as we find that the main results apply also to the time series for Germany. The paper is structured as follows. Section 2 summarizes the main stylized facts concerning the 
+dynamics of the German current account in the last three decades. A longer time period has been chosen in 
+order to allow us also the application of time series methods, although this inevitably risks working with 8. 
+Simulations reported in Arnold and Wörgötter (2011) suggest that aligning product market regulation in 
+Germany with the three least regulated economies would boost overall labour productivity by about 10% 
+over a period of 10 years. ECO/WKP(2012)17 8 data breaks around the time of unification. Section 3 discusses the role of structural factors, namely the 
+different productivity growth in manufacturing and services, as determinants of the dynamics of the current 
+account in simple two-sector inter-temporal models. Section 4 summarizes the descriptive evidence on 
+sectoral productivity growth in Germany and more generally on the sectoral output dynamics in Germany. 
+Section 5 contains our econometric analysis. Section 6 concludes. 2. Stylized facts and the macro picture Figure 1 shows the remarkable surge in the German current account surplus that took place during the 
+2000s. Focusing on long term trends, it is interesting to note that this surge, and the previous one that 
+occurred in the 1980s, were both associated with a simultaneous increase in savings and a decline in the 
+investment rate. However, in both occasions, swings in savings played the dominant role, with the 
+investment rate displaying a secular decline since 1980, that in fact came to halt at the beginning of the 
+2000s. 9 Figure 1. Germany: Current account balance, savings and investment, % of GDP Furthermore, at least based on current observations, the crisis of 2009 brought about only a 
+moderate decline in the surplus. Source: IMF, WEO Database, 2011. Furthermore, recent developments in the current account hide an even stronger gap between private 
+savings and investments. Indeed, the reduction in the current account observed in 2009-10 is entirely due 
+to the budget deficit increase associated with the output fall induced by the global crisis. By contrast, the 
+private savings-investment gap increased in 2009-10. It is worth noting that the increase in private savings is fully explained by the increase in enterprise 
+savings, as households savings have remained broadly constant during the 2000s (Figure 2). This suggests 
+that the current account dynamics cannot be explained by simple inter-temporal behaviour of consumers. 
+Moreover, as the household savings rate is rather stable, there seems also little evidence of precautionary 
+savings by households in response to higher uncertainty induced by reforms, especially in the labour 
+market. 9. 
+See Hüfner and Koske (2010) for a description of German household savings, which is surprisingly stable 
+relative to other G7 countries. -5 0 5 10 15 20 25 30 1980 
+1981 
+1982 
+1983 
+1984 
+1985 
+1986 
+1987 
+1988 
+1989 
+1990 
+1991 
+1992 
+1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 Investment Current account Savings ECO/WKP(2012)17 9 Figure 2. Germany: National and household savings, % of disposable income Source: OECD. These observations motivate our analysis, which focuses on structural forces associated with the 
+relative dynamics of manufacturing and service sectors. The increased savings of enterprises are linked to a 
+significant change in income distribution that has seen the share of labour income declining during the 
+2000s, a decline sharper than the trend decline observed since the 1970s. The increased savings by 
+enterprises have been partly invested abroad, which is consistent with the increasing current account 
+surplus. The unbalanced growth of productivity, concentrated in manufacturing, may be linked with lack of 
+domestic investment opportunities for the increased corporate savings. Indeed, higher productivity in 
+manufacturing has been sustained by delocalization of manufacturing in emerging Europe, which has left 
+higher value added production phases in Germany 10 2.1. What happened in the 2000s? Identifying the shocks . Furthermore, differently from other European 
+countries, Germany has delocalized capital intensive activities, rather than labour intensive processes, with 
+a consequent reduction of capital/labour ratios at home. Thus, a high return to investment in services 
+sectors combined with regulatory entry barriers brought about slow growth in services. Indeed, 
+Christopoulou and Vermeulen (2010) observe high mark-ups for services in the euro area, hinting at low 
+competition in comparison with the US. Moreover, mark-ups in services sectors relative to manufacturing 
+in Germany are among the highest in the euro area. On the other hand, mark-ups in manufacturing have 
+fallen over time between the seventies and early two thousands. What types of shocks can be associated with the sharp inversion of tendency in the CA displayed in 
+Figure 1? Three elements are traditionally identified. i) The post-German unification shock. In the 2000s there is indeed a reversal of the behaviour 
+associated to the unification of the previous decade. Following unification the initial increase in real wages 
+due to the jump of wages in east Germany and a mainly publicly financed construction boom, damaged 10. 
+Herzer (2011) finds a positive relation long run relationship between FDI and total factor productivity for 
+the economy as a whole. 0 5 10 15 20 25 30 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 National savings Hosehold savings ECO/WKP(2012)17 10 competitiveness of the German export sector, which put downward pressure on wages, restoring 
+competitiveness of German exports. ii) Pension and labour market reform. Reforms increasing flexibility in 
+the labour market, bringing long-term benefit recipients back into the labour market and tightening future 
+conditions for pension transfers might have increased uncertainty and thus induced precautionary savings 
+on the part of German households. However, it is also conceivable that labour market and pension reforms 
+-if turning out to be successful and boosting employment -reduce uncertainty and prevent precautionary 
+savings. iii) A third factor, less of a shock, but rather an external opportunity, can be defined as 
+globalization plus enlargement of EU to new member states. Demand for capital intensive sectors (machinery, automobile) from emerging markets, China 
+in primis, in addition to opportunities for investing in new EU members, have boosted both exports and 
+foreign investments. The latter phenomenon is associated to the so-called Bazaar economy view (Sinn, 
+2006). FDI in capital intensive sectors and in production of intermediate goods for such sectors is 
+consistent with both an increase in value added in exporting companies and with a reduction in the capital-
+labour ratio in the domestic economy, with a corresponding downward pressure on real wages. Income distribution in favour of profits increased the overall propensity to save. Wage moderation 
+improved cost competitiveness especially vis-à-vis euro area partners. Overall, it appears that labour 
+market reforms benefitted more manufacturing than services, not the least because demand for the 
+domestic sector was constrained by low income growth 11 Figure 3 illustrates how in the 2000s the labour share in total value added fell well below the secular 
+downward trend. . Therefore, despite some progress, there is still 
+room for productivity-enhancing reforms in the service sector, without damaging the successful German 
+export sector. Figure 3. Germany: Labour share in total Value Added Source: EUKlems. 11. 
+This does not mean that by reverse argumentation higher wage growth would have been better for the 
+German economy. The outcome is driven by market forces under given constraints of the external 
+environment (expansionary) and the regulatory environment for the domestic economy (restrictive). 0.56 0.58 0.6 0.62 0.64 0.66 0.68 0.7 0.72 0.74 1970 
+1971 
+1972 
+1973 
+1974 
+1975 
+1976 
+1977 
+1978 
+1979 
+1980 
+1981 
+1982 
+1983 
+1984 
+1985 
+1986 
+1987 
+1988 
+1989 
+1990 
+1991 
+1992 
+1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 ECO/WKP(2012)17 11 Summing up, there were several factors that boosted manufacturing production and productivity, most 
+importantly the combination of a expansionary external environment with a restoration of competitiveness, 
+supported by labour market reforms. However, such boost was not extended to the service sector, which 
+suffered from the unification aftermath consolidation of public finances, as well as suppressed dynamism. 2.2. The current account and growth in Germany Looking at the behaviour of the German current account in connection with the rate of growth of GDP 
+(Figure 4), it emerges that there exists a weak but positive correlation, namely the current account 
+improves as the growth rate increases. One notable exception is the unification boom in the early nineties, 
+which led to a sharp reduction of the current account surplus. Figure 4. Germany: Current account balance and GDP growth Source: IMF, WEO Database, 2011. Generally, the relationship between overall growth rate and the current account is not easy to 
+disentangle. The above picture seems consistent with empirical evidence that shows that growth causes 
+savings rather than the opposite and, moreover, that in advanced economies savings do not cause 
+investments. As a result, the current account may improve during periods of higher growth (the 1980s and 
+2000s before the crisis in Germany as shown in Figure 5). These views are consistent with the presence of 
+inertia in consumption, linked for instance to habit formation. In addition, economic integration with lower 
+per capita income countries implies capital outflows from richer countries. In principle, this may be 
+consistent with standard inter-temporal models of the current account with no habit formation in 
+consumption. Forward looking consumers anticipate future growth, reducing savings today to smooth 
+consumption. When growth materializes there is no increase in consumption and thus a surplus in the 
+current account. However, attributing such ability to anticipate future trends to consumers appears not fully 
+realistic. Summing up, it appears that standard models of current account determinants that include only 
+aggregate output growth are not capable of explaining the large increase in the German CA surplus during 
+the 2000s: these models imply a large unexplained component (see Cheung et al., 2010). Building on our observation that in Germany the domestic sector does not equally benefit from the 
+success of the export sector, we extend those models to include the relative behaviour of manufacturing 
+and services as a possible channel to explain CA developments. -6 -4 -2 0 2 4 6 8 10 1980 
+1982 
+1984 
+1986 
+1988 
+1990 
+1992 
+1994 
+1996 
+1998 
+2000 
+2002 
+2004 
+2006 
+2008 
+2010 CA/GDP GDP growth ECO/WKP(2012)17 12 3. Structural determinants of the current account: dynamics of manufacturing and service sectors We indeed find evidence that the current account improves when productivity growth is concentrated 
+in manufacturing, whereas the current account deteriorates when productivity improvements occur 
+predominantly in services. As this result is not obvious in the context of standard inter-temporal models, in 
+the next section we briefly discuss under what conditions such outcome arises in standard models. 
+Following a large part of the empirical literature, we make the strong assumption that non-tradable sector 
+coincides with services, although we are aware that an increasing share of services is tradable. 
+Nevertheless, our analysis goes through as long as manufacturing is relatively more tradable than services. 3.1. Structural change in an inter-temporal model In a standard inter-temporal model, the effects of an increase in total factor productivity in services 
+produces ambiguous results on the current account. Fournier and Koske (2010) simulate a macroeconomic 
+model to study the impact on the current account of various productivity shocks. The effects crucially 
+depend on assumptions on the relative value of the inter-temporal elasticity of substitution and the 
+intra-temporal elasticity of substitution between tradable and non-tradable goods. Specifically, if the 
+intra-temporal elasticity of substitution between tradable and non-tradable goods is smaller than the inter-
+temporal elasticity of substitution, the current account deteriorates as a result of an increase in total factor 
+productivity in non-tradable sectors. Indeed, such assumption implies that consumption of tradable goods 
+increases as consumption on non-tradable goods increases. An increase in total factor productivity in the 
+non-tradable sector, leading to increased output and thus consumption of non-tradable goods, is thus 
+accompanied by a parallel increase in consumption of tradable goods. Ostry and Reinhart (1992) find for developing and emerging economies a larger intra-temporal 
+elasticity of substitution relative to the inter-temporal elasticity of substitution. This result, however, seems 
+less relevant for advanced economies. The inter-temporal elasticity of substitution can be associated with 
+the development of financial markets, which is higher in more advanced economies. The final effect on the 
+current account depends on the dynamics of output in the tradable sector. If one assumes free mobility of 
+labour across sectors, the increase in TFP in non tradable sectors may cause a shift of labour from tradable 
+to non-tradable sectors, producing a reduction in employment and output in the tradable sector. This effect 
+reinforces the consumption effect, leading to a worsening of the current account. Figure 5 describes such a process of reallocation induced by an increase in TFP in the non-tradable 
+sector. Employment in tradables can be read from right to left, whereas employment in non-tradables from 
+left to right. The x-axis measures the total labour force. The downward sloping curves describe the 
+marginal product of labour in the two sector, thus the wage rate expressed in units of tradable goods. The 
+increase in TFP in non-tradable produces an initial upward shift of the marginal product locus in 
+non-tradables from A to B. However, this curve shifts down to the curve C as the real exchange rate 
+depreciates as a result of the growth in TFP in non tradables. However, the decline in the real exchange 
+rate is less than proportional to the increase in productivity. The final equilibrium is at point E′, which 
+implies an increase in employment in the non-tradable sector and a fall in employment in the tradable 
+sector. ECO/WKP(2012)17 13 Figure 5. Sectoral labour reallocation and productivity shocks From this reallocation of labour across sectors the effect on consumption, output and the current 
+account follows. Higher employment in non-tradables implies higher consumption of non-tradables. From 
+our maintained assumptions on the elasticity of substitution, both inter-temporal and between tradable and 
+non-tradable goods, we obtain that domestic consumption of tradables increases as well. At the same time, 
+the reallocation of labour away from tradable sectors implies a decline of output in the tradable sector. 
+Therefore, in response to an increase in TFP in non-tradables consumption of tradables increases whereas 
+output of tradables falls, producing a worsening of the current account. An additional characteristic of Germany is that it has a positive net foreign asset position. This implies 
+that, irrespective of the assumption on intra-temporal and inter-temporal elasticity of substitution, a 
+positive shock to TFP in non tradable sector induces a deterioration of the current account (see Vegh, 
+2011). Summing up, structural changes in the economy have a significant influence on the behaviour of the 
+current account. Asymmetric changes in productivity across sectors, for a given overall rate of growth of 
+the economy, may imply different paths of the current account. For the case of Germany, we argue that the 
+analysis of relative productivity of tradable versus non-tradable sectors may offer an explanation of the 
+puzzling dynamics of the German current account, characterized by a surge in the current account surplus 
+during the 2000s. Under the assumption listed above, such surplus may have its origin in the rapid growth 
+in productivity in manufacturing sectors, coupled with stagnant productivity in the service sector. 
+Furthermore, the unbalanced productivity growth in favour of manufacturing is accompanied by an 
+increase in the share of employment and value added of that sector in the total economy. The relative expansion of the manufacturing sector suggests that innovation in manufacturing does not 
+create positive externalities on growth in service activities. This is likely to be due to the type of innovation 
+occurring in manufacturing, associated with a "learning-by-doing" process with incremental innovation 
+that has little positive spill-over effects on growth of services. To support this view, next section provides 
+some descriptive evidence on the dynamics of productivity, output and employment in the different sectors 
+in Germany. ECO/WKP(2012)17 14 3.2. Evidence on sectoral dynamics in Germany A first striking observation on the dynamics of sectoral productivity growth in Germany arises from a 
+comparison with the US. Figure 6 reports the behaviour of TFP in the manufacturing sector and the share 
+of manufacturing in total value added for Germany and the US. The contrast is remarkable. During the 
+1990s the pattern in Germany 12 Figure 6a. Germany: Share of manufacturing in total VA and TFP is similar to the one in the US, with a declining share of manufacturing in 
+total value added accompanied by increasing TFP in manufacturing. The 2000s mark a sudden shift in this 
+trend, with the share of manufacturing stabilizing, and in fact slightly increasing, during an acceleration of 
+the increase in TFP in the manufacturing sectors. Figure 6b. United States: Share of manufacturing in total VA and TFP Source: EUKlems. 12. 
+The negative slope for Germany is exaggerated by phasing out unsustainable manufacturing activities in 
+eastern Germany after unification. 0.20 0.21 0.22 0.23 0.24 0.25 0.26 0.27 0.28 80.0 90.0 100.0 110.0 120.0 130.0 140.0 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 Share of manufacturing TFP level in manufacturing 0.00 0.02 0.04 0.06 0.08 0.10 0.12 0.14 0.16 0.18 0.20 80.00 90.00 100.00 110.00 120.00 130.00 140.00 150.00 160.00 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 TFP manufacturing Share of manufacturing ECO/WKP(2012)17 15 We now turn to the behaviour of productivity in manufacturing versus the service sectors. Figure 7 
+shows that starting at the end of the 1990s TFP growth has been stagnant in the service sector whereas it 
+has accelerated in the manufacturing sector. Figure 7. Germany: TFP in manufacturing and service Source: EUKlems. A similar picture arises when looking at labour productivity (real value added per hour worked), 
+although labour productivity in services tends to grow faster than TFP during the 2000s. For both 
+indicators, the 2000s mark a sizable decline in the trend growth of productivity in services. Figure 8. Germany: Sectoral labour productivity, a longer view -1970-2007 Source: EUKlems. 80.0 90.0 100.0 110.0 120.0 130.0 140.0 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 Manufacturing Services (VA weighted) 0.0 20.0 40.0 60.0 80.0 100.0 120.0 140.0 160.0 1970 
+1972 
+1974 
+1976 
+1978 
+1980 
+1982 
+1984 
+1986 
+1988 
+1990 
+1992 
+1994 
+1996 
+1998 
+2000 
+2002 
+2004 
+2006 Manufacturing Services ECO/WKP(2012)17 16 These are the stylized facts that our empirical analysis takes into account in explaining the dynamics 
+of the current account, which seems to be unexplained by standard models and recent empirical analysis. 
+Accordingly, our empirical analysis, which focuses on the relationship between the relative growth in total 
+factor productivity in manufacturing versus service sectors and the current account balance, is presented in 
+the following section. 4. Empirical analysis We implement an empirical model of the current account that adds to traditional variables the relative 
+productivity growth of manufacturing vs. services. We isolate the effect of the relative productivity for a 
+given overall growth rate. First, we analyze the determinants of the current account balance in a panel of 
+OECD countries over the period 1970-2007 and then we restrict the analysis to Germany. 4.1. Determinants of the current account balance: A Panel analysis We extend the model by Clovis et al. (2010) to incorporate the productivity in manufacturing and 
+services. Our presumption is that TFP in the service sector has a negative impact on the current account, 
+whereas TFP in manufacturing exerts a positive impact on the current account. In order to emphasize the role of relative productivity in manufacturing and services, we take the 
+model estimated by Clovis et al. (2010) and simply add a relative productivity variable. The estimation is 
+based on an error correction model. Our sample is smaller than the one estimated by Clovis et al. because 
+of data availability for TFP. We use the Klems database for the estimates of TFP, which is obtained from a 
+growth accounting framework, adjusting for the quality of both labour and capital (capital is differentiated 
+between ICT and non-ICT). Our prior is that relative productivity exerts a long-run effect rather than a short-run effect, as it rests 
+on reallocation of labour across sectors. We first replicate the Clovis et al. (2010) approach, with some 
+differences, namely we: i) do not consider lagged independent variables, given the yearly frequency of the 
+data and the error correction specification, and ii) variables are not measured in terms of deviation from 
+sample means, as the presence of time effects should take into account external common shocks. 
+Demographic factors, terms of trade, the real interest rate, budget balance and overall per capita growth 
+rates enter the model. We follow the error-correction approach used by Clovis et al. and refer to their work 
+for the statistical tests on the appropriateness of the model. As shown in Table 1 and Table 2 results are 
+broadly in line with Clovis et al. (2010). Column 1 refers to a replication of their estimates with the same 
+specification, but the above described differences, Column 2 adds the relative productivity variable and 
+column 3 provides the estimates achieved by Clovis et al. All coefficients have the same signs and 
+comparable magnitudes as in Clovis et al. (2010). In addition, the speed of adjustment is also almost 
+identical to the one in Clovis et al. The only notable differences are that in our estimation the change in real GDP per capita is significant 
+only in the short run, whereas in Clovis et al. it is significant and with a negative sign both in the short run 
+and in the long run. Furthermore, in our estimation the real interest rate is significant and with positive sign 
+both in the short and in the long run, whereas in Clovis et al. it is significant only in the short run and with 
+a negative sign. The positive sign seems more in line with both inter-temporal theories or with the view 
+that higher real interest rates are associated with tighter monetary policy and thus with more restraint on 
+domestic demand. Nevertheless, it is likely that the real interest rate captures as well some of the effects of 
+the real GDP per capita variable. Finally, in our estimation the budget balance has a significant impact both 
+in the long run and in the short run, whereas in Clovis et al. it is significant only in the short run. We then 
+add relative TFP, as ratio of the level of TFP in manufacturing with respect to services to the estimated 
+equation. Note that the relative level of productivity is relevant for the level of the current account, as the ECO/WKP(2012)17 17 effect we try to emphasize is linked to the supply side and then it reflects the shift in production across the 
+two sectors. When added to the model, relative total factor productivity in manufacturing versus services appears 
+highly significant, especially in the long run. Therefore, we find empirical support for the view advanced, 
+according to which the current account improves when productivity changes more rapidly in 
+manufacturing rather than in the service sector. Table 1. Productivity and the current account, panel (long run) Dependent variable: Current account, balance/GDP 
+1 
+2 
+3 
+Productivity 
+Relative TFP 
+0.031*** 
+Control variables 
+Demography 
+Dependency ratio old 
+-0.359 
+0.004 
+-0.680*** 
+Dependency ratio young 
+0.300*** 
+0.370*** 
+0.259*** 
+Change in working age population -1.763*** 
+-0.746* 
+-4.550*** 
+Macroeconomic 
+Change in GDP per capita 
+-0.074 
+-0.017 
+-1.497*** 
+Budget balance/GDP 
+0.262*** 
+0.083 
+0.008 
+Change in terms of trade 
+0.166*** 
+0.089* 
+0.490*** 
+Real interest rate 
+0.171*** 
+0.105 
+0.002 
+Country effects 
+yes 
+yes 
+Period effects 
+yes 
+yes 
+Number of obs. 
+723 
+434 
+R 2 
+0.67 
+0.69 Table 2. Productivity and the current account, panel (short run) Dependent variable: Change in current account balance/GDP 
+Model 
+1 
+2 
+3 
+Productivity 
+D(1) Relative TFP 
+0.009 
+Error correction (-1) 
+-0.214*** 
+-0.265*** 
+-0.210*** 
+Control variables 
+Demography 
+D(1) Dependency ratio old 
+0.334 
+0.930* 
+D(1) Dependency ratio young 
+-0.531** 
+-1.198*** 
+-0.742*** 
+D(1) Change in working age population 
+-1.981*** 
+-0.077* 
+-1.100*** 
+Macroeconomic 
+D(1) Change in GDP per capita 
+-0.076** 
+-0.136*** 
+-0.234 
+D(1) Budget balance/GDP 
+0.105** 
+0.049 
+0.114 
+D(1) Change in terms of trade 
+0.115*** 
+0.081*** 
+0.135 
+D(1) Real interest rate 
+0.055* 
+0.082 
+-0.143 
+Country effects 
+yes 
+yes 
+Period effects 
+yes 
+yes 
+Number of obs. 
+723 
+434 
+R 2 
+0.26 
+0.28 4.2. Bilateral trade balances The dynamics of the German current account is often linked to a switch to surplus with respect to 
+advanced economies and in particular to euro area countries. It may thus be useful to extend the previous 
+analysis to bilateral positions of Germany with respect to OECD partners. In such bilateral analysis, the 
+position of Germany is determined by the relative value of the determinants of the current account balance 
+(trade balance in the bilateral analysis). The bilateral indicators take into account changes in the partner 
+countries and thus add an interesting perspective to the dynamics of the trade balance. ECO/WKP(2012)17 18 We essentially replicate the model used in the panel analysis and extend it to the behaviour of bilateral 
+trade balances of Germany. As in Berger and Nitsch (2010), we focus on the bilateral trade balance, 
+measured as a ratio of total trade. The results of the bilateral analysis broadly confirm those for the panel analysis (Tables 3 and 4). 
+Relative productivity in manufacturing vs. services within countries remains highly significant. Relative 
+productivity growth between countries (change in GDP per capita) is now significant, and negative, both in 
+the long and in the short run. Relative real interest rate between countries has also a significant and positive 
+effect on the trade balance, both in the short and in the long run, whereas the relative budget balance is not 
+significant anymore. Table 3. Productivity and bilateral trade balance (long run) Dependent variable: Bilateral trade balance 
+Productivity and reform variable 
+Relative TFP 
+0.166*** 
+Control variables 
+Demography 
+Dependency ratio old 
+-0.018*** 
+Dependency ratio young 
+-0.006 
+Change in working age population 
+-1.447 
+Macroeconomic 
+Change in GDP per capita 
+-0.555** 
+Budget balance/GDP 
+-0.002 
+Change in terms of trade 
+-0.162 
+Real interest rate 
+1.296*** 
+Country effects 
+yes 
+Period effects 
+yes 
+Number of obs. 
+260 
+R 2 
+0.92 ECO/WKP(2012)17 19 Table 4. Productivity and bilateral trade balance (short run) Dependent variable: D(1) Bilateral trade balance 
+Productivity and reform variable 
+D(1) Relative TFP 
+0.080 
+Control variables 
+Demography 
+D(1) Dependency ratio old 
+0.005 
+D(1) Dependency ratio young 
+-0.059*** 
+D(1) Change in working age population 
+0.363 
+Macroeconomic 
+D(1) GDP per capita 
+-0.491 
+D(1) Budget balance/GDP 
+-0.000 
+D(1) Change in terms of trade 
+0.470*** 
+D(1) Real interest rate 
+1.589*** 
+Country effects 
+yes 
+Period effects 
+yes 
+Number of obs. 
+251 
+R 2 
+0.340 Our results offer a complementary view to that proposed by Berger and Nitsch (2010) who focused on 
+the impact of reforms on bilateral trade balances. Their results indicate that structural reforms, both in 
+labour and goods markets, induce an improvement in the current account, a result found by Bertola and 
+Lo Prete (2011) for labour market reform. 4.2.1. The role of labour market reform We extend the previous model by adding an indicator of labour market restrictions, in line with the 
+approach suggested by Bertola and Lo Prete (2011). Different from their approach, we consider 
+simultaneously the role of labour market reform and the productivity variables, both at the aggregate level 
+and in relation to the relative productivity of manufacturing vs. service sectors. Bertola and Lo Prete 
+exclude productivity variables by arguing that those will have an impact on labour market reform. 
+Although it is conceivable that labour market reforms are associated with the state of the overall economy, 
+in a political economy framework in which reforms are done in specific states of the economy (good times 
+or bad times?). However, we believe that the dynamics of productivity is unlikely to have large effects on 
+labour market reforms. Furthermore, even if one believes that the overall state of the economy, and thus 
+aggregate productivity, may have an impact on labour market reforms, there is no reason for having an 
+effect of relative productivity in manufacturing and service sectors on labour market reform. Finally, 
+considering simultaneously labour market reform and productivity variables permits to isolate the 
+"uncertainty" effect of labour market reform from its potential effect on productivity. ECO/WKP(2012)17 20 Table 5. Productivity and bilateral trade balance (long run) Dependent variable: Bilateral trade balance (long run) Productivity and reform variable 
+Relative TFP 
+0.216*** 
+Employment protection 
+-0.040** 
+Control variables 
+Demography 
+Dependency ratio old 
+-0.016*** 
+Dependency ratio young 
+-0.011*** 
+Change in working age population 
+-3.270*** 
+Macroeconomic 
+Change in GDP per capita 
+-0.064** 
+Budget balance/GDP 
+-0.000 
+Change in terms of trade 
+0.473* 
+D(1) Real interest rate 
+0.644*** 
+Country effects 
+Yes 
+Period effects 
+Yes 
+Number of obs. 
+251 
+R 2 
+0.923 Table 6. Productivity, labour market reform and trade balance(short run) Dependent variable: Change in bilateral trade balance/Total 
+trade Productivity and reform variable 
+D(1) Relative TFP 
+0.080 
+D(1) Employment protection 
+-0.022 
+Error correction (-1) 
+-0.371*** 
+Control variables 
+Demography 
+D(1) Dependency ratio old 
+0.000 
+D(1) Dependency ratio young 
+-0.057*** 
+D(1) Change in working age population 
+0.092 
+Macroeconomic 
+D(1) GDP per capita 
+-0.491** 
+D(1) Budget balance/GDP 
+-0.000 
+D(1) Change in terms of trade 
+0.470*** 
+D(1) Real interest rate 
+1.589*** 
+Country effects 
+yes 
+Period effects 
+yes 
+Number of obs. 
+251 
+R 2 
+0.340 The results confirm the view advanced by Bertola and Lo Prete (2010) as labour market reform 
+induces an improvement in the current account (Tables 5 and 6, recall that higher EPL means more labour 
+market restrictions). Interestingly, such a view is also consistent with Berger et al. (2010), who also use 
+bilateral trade balances but for a sample of euro area countries, although their interpretation rests on higher 
+efficiency, hence competitiveness, of the reforming country, leading to an improvement in the current 
+account. Our interpretation is consistent with both an effect on increased savings and with efficiency gains. 
+Indeed, we argue that labour market reform has led to a sizable increase in profits and a shift in income 
+distribution in favour of profits, with a consequent reduction of propensity to consume. Indeed, as shown 
+before, savings have increased largely because of an increase in corporate rather than household savings. Interestingly, even considering the role of labour market reform, relative productivity in 
+manufacturing vs. services plays a significant role as a long run determinant of the current account. This 
+provides further support to our view based on structural factors in explaining the surge in the German ECO/WKP(2012)17 21 current account. In other words, labour market reforms have been accompanied by a rapid increase in 
+productivity in manufacturing but not in services. 4.3. Time series for Germany We next apply the same model to time series data for Germany over the period 1971-2007. The 
+assumption of equal coefficients on productivity in manufacturing and services that worked in the panel 
+sample does not seem to apply to the time series for Germany. Therefore, we introduce separately 
+productivity in the two sectors. Furthermore, as TFP data from Klems are available only since 1991, we 
+use labour productivity, which nevertheless is highly correlated with TFP. We contrast our specification 
+with one in which the sectoral productivities are absent and are replaced by the standard rate of growth of 
+per capita GDP. Results are reported in Tables 7 and 8. Figures 9 and 10 display the behaviour of the CA in levels, in 
+changes and the predicted value of both the level and the change of CA according to our model and the one 
+without sectoral productivities. Table 7. Productivity and the current account, Germany 1971-2007 (long run) Dependant variable: Current account balance/GDP Model 
+1 
+2 
+Productivity 
+TFP in services 
+-0.19** 
+TFP in manufacturing 
+-0.04 
+Control variables 
+Demography 
+Dependency ratio old 
+0.91*** 
+0.77** 
+Dependency ratio young 
+0.03 
+-0.71** 
+Change in working age population 
+0.28 
+-3.35*** 
+Macroeconomic 
+Change in GDP per capita 
+0.07 
+Budget balance/GDP 
+0.39** 
+0.32* 
+Change in terms of trade 
+0.086* 
+0.08 
+Real interest rate 
+-0.19** 
+0.97*** 
+Number of obs. 
+37 
+37 
+R 2 
+0.51 
+0.77 ECO/WKP(2012)17 22 Table 8. Productivity and the current account, Germany 1972-2007 (short run) Dependant variable: Change in current account balance/GDP Model 
+1 
+2 
+Productivity 
+D(1) TFP in services 
+0.010 
+D(1) TFP in manufacturing 
+0.200 
+Error correction (-1) 
+-0.153 
+-0.510*** 
+Control variables 
+Demography 
+D(1) Dependency ratio old 
+0.900 
+0.570 
+D D(1) Dependency ratio young 
+-0.481 
+0.080 
+D(1) Change in working age population 
+-1.153 
+0.200 
+Macroeconomic 
+D(1) Change in GDP per capita 
+0.090 
+D(1) Budget balance/GDP 
+0.134 
+0.090** 
+D(1) Change in terms of trade 
+0.086* 
+-0.670 
+D(1) Real interest rate 
+0.149 
+-0.240 
+Number of obs. 
+36 
+36 
+R 2 
+0.32 
+0.51 Results are weaker than those obtained in the panel analysis, both for the sample of OECD countries 
+and for the bilateral trade balances of Germany with OECD countries. Therefore, we take the results as 
+purely suggestive. Nevertheless, it is remarkable that both for the level and the changes the introduction of 
+sectoral productivities sharply reduces the magnitude of the generally unexplained behaviour of the 
+German current account during the 1990 and 2000s. Therefore, if one takes into account the peculiar 
+relative productivity behaviour of manufacturing and service sectors, the puzzle of the large current 
+account surplus of the 2000s can be actually explained. In contrast with the result for the panel analysis on OECD countries, the analysis of the German time 
+series also highlights that higher growth rates tends to be associated with an improvement of the current 
+account, unless the growth is concentrated in the service sector. Figure 9. Germany: Current account balance, % of GDP 1971-2007 ECO/WKP(2012)17 23 Figure 10. Germany: Change in the current account balance, 1971-2007 4.4. Interpreting the results The empirical analysis has emphasized the role of TFP growth in manufacturing relative to services as 
+a channel for reducing imbalances in the current account and, at the same time, broadening the scope of the 
+growth of output in the German economy. However, such results could actually reveal some additional and 
+deeper issues. First, the dynamics of productivity and of job creation in the two sectors are inter-dependent. Indeed, 
+we conjecture that the above pattern of productivity dynamics is related to a general lack of dynamism in 
+the German economy, as indicated by the low rate of trend growth. Second, in Germany there are no 
+evident signs of positive spillover effects of productivity growth in manufacturing on productivity growth 
+and employment creation in services. An interesting perspective can be gained by looking at the contribution of IT capital to the growth of 
+value added. Contrasting Germany to the US, Figure 11 illustrates these contributions for the total 
+economy, manufacturing and the service sectors for the 1990s and the 2000s. In both periods Germany is 
+outpaced in all sectors. This lag is extremely significant as it may indicate the inability to absorb 
+innovation, usually embodied in IT capital. In summary, despite the success in export markets, the 
+performance of Germany in the area of innovation and IT investments appears unsatisfactory. In addition, 
+export growth in Germany comes predominantly from the so-called "intensive margin". As shown earlier 
+the contribution of the intensive margin, namely the increase in exports linked to existing products, is by 
+far the largest of all the OECD countries. Consequently, despite a sharp increase in profits as a share of 
+GDP, investment dynamics in Germany has been very moderate. ECO/WKP(2012)17 24 Figure 11a. Contribution of IT Investment to VA growth, 1991-99 Figure 11b. Contribution of IT Investment to VA growth, 2000-07 Source: EUKlems. As mentioned above, this may be due to the bias in the education system in favour of specialised 
+vocational training as opposed to general education (on this see Krueger and Krishna, 2004), and possibly 
+to a lack of finance for innovative activities. A system of specialised vocational schools creates a bias for 
+manufacturing sectors and incremental innovation. Contributing to exceptionally low youth 
+unemployment, this system is very popular among German parents who see their youngsters steered 
+towards a safe workplace nearby in an otherwise unstable environment 13 Structural reforms are needed to foster radical innovation, introduction of new products and thus to 
+increase the dynamism of the economy and reach a higher trend growth trajectory. To exploit these forces, 
+significant changes are required, in particular concerning the completion of the European Union internal 
+market, but also in the education system and in financial markets. An education system biased towards 
+vocational schools is perfect for optimally exploiting the comparative advantages of an existing economic 
+structure, but not conducive to the type of innovation and dynamism we alluded to before. . As it has been recently 
+underlined for the case of the US, expanding ICT investments and in general introduction of high tech 
+innovations implies large multipliers for job creation in services (Moretti, 2010). 13. 
+Germany, Austria and Switzerland offer a very successful school-to-work transition in form of 
+ " apprenticeships " . The curriculum of such arrangements is designed in close co-operation with employers 
+and social partners, reflecting local labour demand needs. More details can be found in OECD (2010). 0 0.5 1 1.5 2 2.5 TOTAL INDUSTRIES MANUFACTURING WHOLESALE AND 
+RETAIL TRADE 
+HOTELS AND 
+RESTAURANTS 
+TRANSPORT, 
+STORAGE AND 
+COMMUNICATION FINANCE, 
+INSURANCE, REAL 
+ESTATE AND 
+BUSINESS SERVICES COMMUNITY SOCIAL 
+AND PERSONAL 
+SERVICES Germany 0 0.2 0.4 0.6 0.8 1 1.2 TOTAL INDUSTRIES 
+MANUFACTURING 
+WHOLESALE AND 
+RETAIL TRADE 
+HOTELS AND 
+RESTAURANTS 
+TRANSPORT, STORAGE 
+AND COMMUNICATION 
+FINANCE, INSURANCE, 
+REAL ESTATE AND 
+BUSINESS SERVICES COMMUNITY SOCIAL 
+AND PERSONAL 
+SERVICES US Germany ECO/WKP(2012)17 25 Similarly, a financial sector based on traditional banking and on debt secured by collateral is well 
+designed for the financing needs of firms with a good track record, but not well suited to support 
+dynamism and finance new entry as bank debt heavily relies on relationship banking and thus is biased 
+towards existing activities. In fact, we argue that the current productivity growth in manufacturing, based on incremental 
+innovation and increased efficiency, mainly through a learning-by-doing mechanism, is hardly sustainable 
+because it lacks the sources of long run improvements linked to the introduction of new products, entry of 
+new firms. In the jargon of trade economists, Germany has expanded its manufacturing production and 
+exports through the "intensive" margin, producing more of the existing products, and improving them at 
+the margin. Therefore, the forces that may lead to a boost to productivity in the service sector would help 
+improve also the spillover from productivity increases in the manufacturing sector to employment creation 
+in the services sector. 14 5. Concluding remarks and suggestions for future research In this paper we focused on a largely unexplored channel for explaining the recent surge of the current 
+account surplus in Germany, namely the acceleration in productivity in manufacturing sectors combined 
+with stagnant productivity in the service sector. Furthermore, in the US, accelerating productivity in 
+manufacturing sectors has been generally accompanied by a decline of the weight of manufacturing in total 
+value added. In contrast, in Germany the acceleration in productivity growth in manufacturing sectors went 
+hand in hand with a stable share of manufacturing in total value added. We argued that this phenomenon 
+reflects two interrelated aspects, not necessarily positive for the sustainability of the rate of growth of the 
+German economy. First, the type of technological progress in manufacturing is based on improving the efficiency of 
+existing technologies and the attractiveness of existing products, consolidating the traditional specialization 
+of the German economy. Such efficiency gains do not generate multiplier effects on the service sectors, in 
+contrast with what has been observed in the US. Specifically, the role of ICT investments has been limited 
+or at least delayed both in manufacturing and service sectors. The second aspect is the lack of dynamism in 
+the service sector and the lack of creation of high quality-high wage jobs in services. In summary, as these aspects relate to the surge in the current account surplus, such surplus may 
+reflect some weaknesses of the German model rather than only its strength in export competitiveness. We 
+conjecture that one key factor behind these weaknesses is the segmented education system, which relies on 
+vocational schools, with the consequence of creating incentives for efficiency gains in existing products 
+and sectors and of creating barriers for absorbing radical innovation and new products, which tend to 
+require a more general education. These observations indicate that a useful research and policy agenda is to focus on the role of the 
+education system for the process of innovation, its typology and the spillover effects across sectors. This 
+research can also shed light on the implications of such patterns of innovation and productivity growth for 
+job creation and spillover effects in job creation across manufacturing and service sectors. In this paper we have provided some evidence that these issues may be relevant for understanding the 
+puzzling behaviour of the German current account. Such understanding may also be useful to frame the 
+policy debate on the interpretation of the large German current account surplus. 14. 
+Bosma, Stam and Schutjens (2011) find that productivity in services is driven by new entries, which re-
+enforces the importance of removing entry barriers in services sectors. ECO/WKP(2012)17 26 Bibliogr aphy Arnold, J. and A. Wörgötter (2011), "Structural reforms and the benefits of the enlarged EU internal 
+market: still much to be gained", Applied Economics Letters, Vol. 18(13), pp. 1231-1235. Berger, H. and V. Nitsch (2010), "The Euro's effect on trade imbalances", IMF Working Papers, 
+WP/10/226. Blanchard, O. (2007) "Current account deficits in rich countries", NBER Working Papers, 12925. Bosma, N., E. Stam and V. Schutjens (2011),  " Creative destruction and regional productivity growth: 
+evidence from the Dutch manufacturing and services industries " , Small Business Economics, Vol. 
+36, pp 401–418. Bracht (2011),  " 2011 G20 Plans and Preparations " , G20 Research Group, University of Toronto, 
+www.g20.utoronto.ca/g20plans/g20plans110905.pdf. Chakraborty, S. and R. Dekle (2008), "Can international productivity differences explain US current 
+account deficits?", NBER WP. Cheptea, A., L. Fontagné and S. Zignago (2010), "European export performance", CEPII WP, 2010-12. Cheung, C., D. Furceri and E. Rusticelli (2010), "Structural and cyclical factors behind current account 
+balances", OECD Economics Department Working Papers, No. 775. Christopoulou, R. and Ph. Vermeulen (2010),  " Markups in the Euro area and the US over the period 1981– 
+2004: a comparison of 50 sectors " , Empiricial Economics, online first, 
+www.springerlink.com/content/mw1458t396628132/fulltext.pdf. Clovis K., I. Koske and I. Wanner (2010), "The Impact of Structural Policies on Saving, Investment and 
+Current Accounts", OECD Economics Department Working Papers, No. 815. Cova, P., M. Pisani, N. Batini and A. Rebucci (2009),  " Global imbalances: The role of non-tradable total 
+factor productivity in advanced economies", IMF Working Papers, WP/09/63. Dekle, R., J. Eaton and S. Kortum (2008), "Global rebalancing with gravity: Measuring the burden of 
+adjustment", NBER Working Papers, 13846. Fournier, J. and I. Koske (2010), "A Simple Model of the Relationship Between Productivity, Saving and 
+the Current Account", OECD Economics Department Working Papers, No. 816. Herzer, D. (2011),  " Outward FDI, Total Factor Productivity and Domestic Output: Evidence from 
+Germany " , International Economic Journal, DOI:10.1080/10168737.2010.538430. Hüfner, F. and I. Koske (2010),  " Explaining Household Saving Rates in G7 Countries: implications for 
+Germany " , OECD Economics Department Working Papers, No. 754. ECO/WKP(2012)17 27 Koske, I. and A. Wörgötter (2010), "Germany's Growth Potential, Structural Reforms and Global 
+Imbalances", OECD Economics Department Working Papers, No. 780. Krueger, D. and K.B. Khumar, (2004), "Skill-specific rather than general education: A reason for 
+US-Europe growth differences?", Journal of Economic Growth, 9:167-207. Moretti, E. (2010), "Local multipliers", American Economic Review, May. Naude, W. (2011) "Global Finance after the Crisis: Reform Imperatives and Vested Interests". Global 
+Economy Journal, Vol. 11, Iss. 2, Article 6, DOI: 10.2202/1524-5861.1729, available at 
+www.bepress.com/gej/vol11/iss2/6. Obstfeld, M. and K. Rogoff (1996), Foundations of international macroeconomics, MIT Press. OECD (2010), Off to a Good Start? Jobs for Youth, OECD, Paris. OECD (2011),  " Getting the most out of international capital flows " , OECD Economics Department Policy 
+Notes, No. 6. Ostry, J. and C. Reinhart (1992), "Private savings and terms of trade shocks: Evidence from developing 
+countries", IMF Staff Papers, 39(3):495-517. Sinn, H.W. (2006), "The pathological export boom and the bazaar effect: How to solve the German 
+puzzle", CESIFO Working Papers, No. 1708. Vegh, C. (2011), Open economy macroeconomics in developing countries, MIT Press, forthcoming. ECO/WKP(2012)17 28 WORKING PAPERS The full series of Economics Department Working Papers can be consulted at www.oecd.org/eco/workingpapers/ 939. Reforming education in England 
+(January 2012) by Henrik Braconier 938. The nature of financial and real business cycles: The great moderation and banking sector pro-
+cyclicality 
+(January 2012) by Balázs Égert and Douglas Sutherland 937. Fiscal consolidation 
+Part 6. What are the best policy instruments for fiscal consolidation? 
+(January 2012) by Robert P. Hagemann 936. Fiscal consolidation 
+Part 5. What factors determine the success of consolidation efforts? 
+(January 2012) by Margit Molnar 935. Fiscal consolidation 
+Part 4. Case studies of large fiscal consolidation episodes 
+(January 2012) by Hansjörg Blöchliger, Dae-Ho Song and Douglas Sutherland 934. Fiscal consolidation 
+Part 3. Long-run projections and fiscal gap calculations 
+(January 2012) by Rossana Merola and Douglas Sutherland 933. Fiscal consolidation 
+Part 2. Fiscal multipliers and fiscal consolidations 
+(forthcoming) by Ray Barrell, Dawn Holland and Ian Hurst 932. Fiscal consolidation 
+Part 1. How much is needed and how to reduce debt to a prudent level? 
+(January 2012) by Douglas Sutherland, Peter Hoeller and Rossana Merola 931. Less income inequality and more growth – Are they compatible? 
+Part 8. The drivers of labour income inequality – A review of the recent literature 
+(forthcoming) by Rafal Kierzenkowski and Isabell Koske 930. Less income inequality and more growth – Are they compatible? 
+Part 7. The drivers of labour earnings inequality – An analysis based on conditional and 
+unconditional quantile regressions 
+(January 2012) by Jean-Marc Fournier and Isabell Koske 929. Less income inequality and more growth – Are they compatible? 
+Part 6. The distribution of wealth 
+(January 2012) by Kaja Bonesmo Fredriksen 928. Less income inequality and more growth – Are they compatible? 
+Part 5. Poverty in OECD countries 
+(January 2012) by Mauro Pisu ECO/WKP(2012)17 29 927. Less income inequality and more growth – Are they compatible? 
+Part 4. Top incomes 
+(January 2012) by Peter Hoeller 926. Less income inequality and more growth – Are they compatible? 
+Part 3. Income redistribution via taxes and transfers across OECD countries 
+(January 2012) by Isabelle Joumard, Mauro Pisu and Debbie Bloch 925. Less income inequality and more growth – Are they compatible? 
+Part 2. The distribution of labour income 
+(January 2012) by Isabell Koske, Jean-Marc Fournier and Isabelle Wanner 924. Less income inequality and more growth – Are they compatible? 
+Part 1. Mapping income inequality across the OECD 
+(January 2012) by Peter Hoeller, Isabelle Joumard, Mauro Pisu and Debbie Bloch 923. Current issues in managing government debt and assets 
+(December 2011) by Eckhard Wurzel and Lukasz Rawdanowicz 922. Public spending efficiency in the Czech Republic: fiscal policy framework and the main spending 
+areas of pensions and healthcare 
+(December 2011) by Zuzana Smidova 921. Exploring determinants of subjective wellbeing in OECD countries – evidence from the World 
+Value Survey 
+(December 2011) by Sarah Fleche, Conal Smith and Piritta Sorsa 920. Russia: progress in structural reform and framework conditions 
+(December 2011) by Yana Vaziakova, Geoff Barnard and Tatiana Lysenko 919. Explaining the interest-rate-growth differential underlying government debt dynamics 
+(December 2011) by David Turner and Francesca Spinelli 918. Reassessing the NAIRUs after the crisis 
+(December 2011) by Stéphanie Guichard and Elena Rusticelli 917. Employment protection legislation and plant-level productivity in India 
+(December 2011) by Sean Dougherty, Verónica Frisancho Robles and Kala Krishna 916. Systemically important banks and capital regulation challenge 
+(December 2011) by Patrick Slovik 915. Improving educational outcomes in Slovenia 
+(December 2011) by Mehmet Eris 914. Addressing challenges in the energy sector in Israel 
+(December 2011) by Philip Hemmings 913. Issues in private sector finance in Israel 
+(December 2011) by Philip Hemmings 

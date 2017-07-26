@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Susan</forename>
+								 <surname>Stone</surname>,
+							</persName>
+							<persName>
+								 <forename>Ricardo</forename>
+								 <surname>Cavazos Cepeda</surname>,
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Anna</forename>
+								<surname>Jankowska</surname>
+							<lb/> by
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Susan</forename>
+								<middlename>F</middlename> .
+								<surname>Stone</surname> ,
+							</persName>
+							<persName>
+								<forename>Ricardo</forename>
+								 <surname>Cavazos</surname>and
+							</persName>
+							<persName>
+								 <forename>Anna</forename>
+								 <surname>Jankowska</surname>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>OECD</forename>
+								 <surname>Secretariat</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

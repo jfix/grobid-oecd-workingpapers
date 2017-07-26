@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="7a1f7b89-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">Corporate Partnership<lb/> Board<lb/></note>
+
+	<docTitle>
+	<titlePart>CPB<lb/></titlePart>
+	</docTitle>
+
+	<note type="other">About the International Transport Forum<lb/> The International Transport Forum at the OECD is an intergovernmental organisation with 57 member<lb/> countries. It acts as a think tank for transport policy and organises the Annual Summit of transport<lb/> ministers. ITF is the only global body that covers all transport modes. It is administratively integrated with<lb/> the OECD, yet politically autonomous.<lb/></note>
+
+	<p type="introduction">ITF works for transport policies that improve peoples&apos; lives. Our mission is to foster a deeper understanding<lb/> of the role of transport in economic growth, environmental sustainability and social inclusion and to raise<lb/> the public profile of transport policy.<lb/> ITF organises global dialogue for better transport. We act as a platform for discussion and pre-negotiation<lb/> of policy issues across all transport modes. We analyse trends, share knowledge and promote exchange<lb/> among transport decision makers and civil society. ITF&apos;s Annual Summit is the world&apos;s largest gathering of<lb/> transport ministers and the leading global platform for dialogue on transport policy.<lb/> Our member countries are:</p>
+
+	<address>Albania, Argentina, Armenia, Australia, Austria, Azerbaijan, Belarus, Belgium,<lb/> Bosnia and Herzegovina, Bulgaria, Canada, Chile, China (People&apos;s Republic of), Croatia, Czech Republic,<lb/> Denmark, Estonia, Finland, France, Former Yugoslav Republic of Macedonia, Georgia, Germany, Greece,<lb/> Hungary, Iceland, India, Ireland, Israel, Italy, Japan, Korea, Latvia, Liechtenstein, Lithuania, Luxembourg,<lb/> Malta, Mexico, Republic of Moldova, Montenegro, Morocco, Netherlands, New Zealand, Norway, Poland,<lb/> Portugal, Romania, Russian Federation, Serbia, Slovak Republic, Slovenia, Spain, Sweden, Switzerland,<lb/></address>
+
+	<p type="introduction">Turkey, Ukraine, United Kingdom and United States.<lb/> Disclaimer<lb/> Funding for this work has been provided by the ITF Corporate Partnership Board. This report is published under the responsibility<lb/> of the Secretary-General of the ITF. It has not been subject to the scrutiny of ITF or OECD member countries, and does not<lb/> necessarily reflect their official views or those of the members of the Corporate Partnership Board.<lb/> www.itf-oecd.org<lb/> Foreword<lb/> The work for this report was carried out in the context of a project initiated and funded by the International<lb/> Transport Forum&apos;s Corporate Partnership Board (CPB). CPB projects are designed to enrich policy discussion<lb/> with a business perspective. They are launched in areas where CPB member companies identify an<lb/> emerging issue in transport policy or an innovation challenge to the transport system. Led by the ITF, work<lb/> is carried out in a collaborative fashion in working groups consisting of CPB member companies, external<lb/> experts and ITF staff.<lb/> Many thanks to the members of the Corporate Partnership Board companies involved in this work: Ford,<lb/> Google, PTV Group, Transdev, Uber.<lb/> The report draws conclusions from a workshop held in San Francisco on 21 November 2016. Many thanks to<lb/> The City Innovate Foundation and Superpublic for hosting the workshop at their headquarters in City<lb/> Innovate Foundation. Special thanks to Kamran Saddique, Founder &amp; Executive</p>
+
+	<note type="other">Director of Superpublic;<lb/> Gert Christen, Chief Operating Officer, Superpublic; and Garrett Brinker, Policy Innovation Lead,<lb/> Superpublic for their invaluable assistance.<lb/> Participants of the workshop included:<lb/> Jameson Auten, Kansas City, Missouri Area -Chief, Regional Service Delivery and Innovation Division -<lb/>Kansas City Area Transportation Authority, USA<lb/> Zak Accuardi, Program lead, New Mobility, Transit Center, New York, USA<lb/> Garrett Brinker, Policy Innovation Lead, City Innovate Foundation, San Francisco, USA<lb/> Andrea Broaddus, Future Mobility Research, Bosch, USA<lb/> Emily Castor, Director, Public Policy, Lyft, USA<lb/> Gert Christen, Chief Operating Officer, City Innovate Foundation, San Francisco, USA<lb/></note>
+
+	<byline>
+	<docAuthor>Carlos Cruz-Casas, Assistant Director,</docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Department of Transportation and Public Works, Miami-Dade County,<lb/></affiliation>
+	</byline>
+
+	<note type="other">USA<lb/> Mariko Davidson, Civic Innovation &amp; Partnerships Strategist, Microsoft, USA<lb/> Colin Hughes, Director of National Policy &amp; Project Evaluation, Institute for Transport and Development<lb/> Policy, USA<lb/></note>
+
+	<byline>
+	<docAuthor>Michael Hurwitz, Director</docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>of Transport Innovation,</affiliation>
+	</byline>
+
+	<address>Transport for London, UK<lb/></address>
+
+	<byline>
+	<affiliation>Scott Mauvais, Director, Technology &amp; Civic Innovation,</affiliation>
+	</byline>
+
+	<address>Microsoft, USA<lb/></address>
+
+	<byline>
+	<docAuthor>Jon McBride, Operations Director, Bridj, USA<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Jerome Pourbaix, International Public Transport Association (UITP),</affiliation>
+	</byline>
+
+	<address>France<lb/></address>
+
+	<byline>
+	<docAuthor>Maria Rautavirta,</docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Deputy Director of Data Unit, Finnish Ministry of Transport and Communications, Finland<lb/></affiliation>
+	</byline>
+
+	<byline>
+	<docAuthor>Seleta Reynolds, General Manager, Los Angeles</docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Department of Transport, USA<lb/></affiliation>
+	</byline>
+
+	<byline>
+	<docAuthor>Bruce Schaller, Schaller Consulting, USA<lb/> Susan Shaheen, Director,</docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Innovative Mobility Research, Transportation Sustainability Research Center,<lb/></affiliation>
+	</byline>
+
+	<address>Berkeley, USA<lb/></address>
+
+	<note type="other">Paige Tsai, Transportation Policy and Research, Uber, USA<lb/> Michael Uribe, Regional Vice President, Zipcar, USA<lb/> Qianyan Xie, Smart Mobility -Asia Pacific Lead, Ford Motor Company, USA<lb/> The principal author of this report was Philippe Crist of the International Transport Forum. Special thanks to<lb/> Ann Frye for her insightful and valuable input and comments, particularly on the aspects concerning<lb/> mobility for the ageing. Many thanks to Liv Gudmundson for copy-editing.<lb/> The project was co-ordinated by Philippe Crist and Sharon Masterson of the International Transport Forum.<lb/> TABLE OF CONTENTS – 5<lb/> SHAPING THE RELATIONSHIP BETWEEN PUBLIC TRANSPORT AND INNOVATIVE MOBILITY – © OECD/ITF 2017</note>
+
+		</front>
+	</text>
+</tei>

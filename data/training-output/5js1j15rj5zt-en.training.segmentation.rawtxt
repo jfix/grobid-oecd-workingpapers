@@ -1,0 +1,1773 @@
+Please cite this paper as: Molnar, M. and T. Chalaux (2015),  " Recent trends in 
+productivity in China: shift-share analysis of labour productivity 
+growth and the evolution of the productivity gap " , OECD 
+Economics Department Working Papers, No. 1221, OECD 
+Publishing, Paris. 
+http://dx.doi.org/10.1787/5js1j15rj5zt-en OECD Economics Department Working 
+Papers No. 1221 Recent trends in 
+productivity in China SHIFT-SHARE ANALYSIS OF LABOUR 
+PRODUCTIVITY GROWTH AND THE EVOLUTION 
+OF THE PRODUCTIVITY GAP Margit Molnar, Thomas Chalaux JEL Classification: D24, J24 Unclassified ECO/WKP(2015)39 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 22-May-2015 
+___________________________________________________________________________________________ 
+_____________ 
+English -Or. English ECONOMICS DEPARTMENT RECENT TRENDS IN PRODUCTIVITY IN CHINA -SHIFT-SHARE ANALYSIS OF LABOUR 
+PRODUCTIVITY GROWTH AND THE EVOLUTION OF THE PRODUCTIVITY GAP ECONOMICS DEPARTMENT WORKING PAPERS No. 1221 By Margit Molnar and Thomas Chalaux OECD Working Papers should not be reported as representing the official views of the OECD or of its member 
+countries. The opinions expressed and arguments employed are those of the author(s). Authorised for publication by Robert Ford, Deputy Director, Country Studies Branch, Economics Department. All OECD Economics Department Working Papers are available at www.oecd.org/eco/workingpapers JT03377014 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. ECO/WKP(2015)39 
+Unclassified English -Or. English ECO/WKP(2015)39 2 OECD Working Papers should not be reported as representing the official views of the OECD or of its 
+member countries. The opinions expressed and arguments employed are those of the author(s). Working Papers describe preliminary results or research in progress by the author(s) and are published to 
+stimulate discussion on a broad range of issues on which the OECD works. Comments on Working Papers are welcomed, and may be sent to the Economics Department, OECD, 
+2 rue André-Pascal, 75775 Paris Cedex 16, France, or by e-mail to eco.contact@oecd.org. This document and any map included herein are without prejudice to the status of or sovereignty over any 
+territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city 
+or area. The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli authorities. 
+The use of such data by the OECD is without prejudice to the status of the Golan Heights, East Jerusalem 
+and Israeli settlements in the West Bank under the terms of international law. © OECD (2015) 
+You can copy, download or print OECD content for your own use, and you can include excerpts from OECD 
+publications, databases and multimedia products in your own documents, presentations, blogs, websites and 
+teaching materials, provided that suitable acknowledgment of OECD as source and copyright owner is given. All 
+requests for commercial use and translation rights should be submitted to rights@oecd.org ECO/WKP(2015)39 3 ABSTRACT/RÉSUMÉ Recent trends in productivity in China – shift-share analysis of labour productivity growth and the evolution 
+of the productivity gap The Chinese economy has been undergoing fundamental structural changes since the start of reforms in 1978. 
+An increasing number of farmers first got engaged in off-farm activities and then started to migrate to cities in the 
+1990s in search of jobs. Such movement of labour from less to more productive jobs boosted overall labour 
+productivity and growth. Agglomeration and scale economies further pushed up productivity. While the productivity 
+gains from internal migration will diminish gradually over time, urbanisation is likely to remain an important source 
+of productivity growth in the coming decade or so. This paper first decomposes labour productivity growth over 2000-11 into a within-industry, a shift and a cross 
+effect in a number of countries and compares China with other countries over this period. This shift-share analysis 
+also allows a comparison of within-sector productivity gains across a large number of sectors and countries. Labour productivity alongside total factor productivity is also discussed from the perspective of its gap with the 
+United States and growth rate over 2000-11 and in comparison with other BRIICS economies. In this analysis, 
+manufacturing and service industries are looked at separately. This Working Paper relates to the 2015 OECD Economic Survey of China www.oecd.org/eco/surveys/economic-survey-china.htm JEL classification: J24, D24. 
+Keywords: labour productivity, total factor productivity, China, BRIIC economies, productivity gap, manufacturing, 
+services. ****************************** 
+Évolution récente de la productivité en Chine – analyse structurelle-résiduelle des gains de productivité du 
+travail et évolution de l'écart de productivité L'économie chinoise connaît des mutations structurelles majeures depuis le début du processus de réforme, en 
+1978. Un nombre croissant d'exploitants agricoles commencèrent à cette époque à exercer une activité en dehors de 
+leur exploitation, puis migrèrent vers les villes dans les années 90, à la recherche d'un travail. De tels mouvements de 
+main-d'oeuvre, quittant des emplois peu productifs pour des emplois qui l'étaient davantage, ont stimulé la 
+productivité globale du travail et la croissance. Les économies d'agglomération et d'échelle ont constitué à leur tour 
+une nouvelle source de gains de productivité. Si les gains liés aux migrations intérieures vont diminuer au fil du 
+temps, l'urbanisation va probablement demeurer une source majeure d'amélioration de la productivité dans la 
+décennie à venir. Ce document de travail décompose les gains de productivité pour la période 2000-11 en fonction de l'effet 
+intrasectoriel, des variations de parts et de l'effet transversal, et compare la Chine à d'autres pays pour la même 
+période. Cette analyse structurelle-résiduelle permet également de comparer la composante intrasectorielle des gains 
+de productivité sur un grand nombre de secteurs et de pays. La productivité de la main-d'oeuvre et la productivité globale des facteurs sont également analysées du point de 
+vue de leur écart avec les États-Unis et du taux de croissance entre 2000 et 2011, et en comparaison avec d'autres 
+pays BRIICS. L'industrie et les services sont considérés séparément dans cette analyse. Ce document de travail se rapporte à l'Étude économique de la Chine, OCDE, 2015 www.oecd.org/fr/eco/etudes/etude-economique-chine.htm Classification JEL : J24, D24. 
+Mots-clés : productivité du travail, productivité globale des facteurs, Chine, pays BRIICS, écart de productivité, 
+industrie, services. ECO/WKP(2015)39 4 TABLE OF CONTENTS RECENT TRENDS IN PRODUCTIVITY IN CHINA – SHIFT-SHARE ANALYSIS OF LABOUR 
+PRODUCTIVITY GROWTH AND THE EVOLUTION OF THE PRODUCTIVITY GAP ....................... 5 Shift-share analysis of labour productivity growth ...................................................................................... 5 
+Labour productivity growth in China mainly stems from within-industry growth .................................. 7 
+Estimation of labour and total factor productivity at the sector level ........................................................ 12 BIBLIOGRAPHY ......................................................................................................................................... 14 Tables 1. Shift-share analysis of labour productivity growth per person 2000-11 ............................................... 8 
+2 Within-industry effects by industry 2000-11 ...................................................................................... 11 Figures 1. Labour productivity growth is mainly explained by within-sector growth ........................................... 8 
+2. China's productivity gap with the United States is large but catching up is fast ................................. 13 ECO/WKP(2015)39 5 RECENT TRENDS IN PRODUCTIVITY IN CHINA – SHIFT-SHARE ANALYSIS OF LABOUR 
+PRODUCTIVITY GROWTH AND THE EVOLUTION 
+OF THE PRODUCTIVITY GAP By Margit Molnar and Thomas Chalaux 1 1. 
+The Chinese economy has been undergoing fundamental structural changes since the start of 
+reforms in 1978. An increasing number of farmers first got engaged in off-farm activities and then started 
+to migrate to cities in the 1990s in search of jobs. Such movement of labour from less to more productive 
+jobs boosted overall labour productivity and growth. Agglomeration and scale economies further pushed 
+up productivity. While the productivity gains from internal migration will diminish gradually over time, 
+urbanisation is likely to remain an important source of productivity growth in the coming decade or so. 2. 
+This paper first decomposes labour productivity growth over 2000-11 into a within-industry, a 
+shift and a cross effect in a number of countries and compares China with other countries over this period. 
+This shift-share analysis also allows a comparison of within-sector productivity gains across a large 
+number of sectors and countries. 3. 
+Labour productivity alongside total factor productivity is also discussed from the perspective of 
+its gap with the United States and growth rate over 2000-11 and in comparison with other BRIICS 
+economies. In this analysis, manufacturing and service industries are looked at separately. Shift-share analysis of labour productivity growth 4. 
+The productivity-decomposition analysis is based on the shift-share analysis described in EC 
+(2003), which decomposes aggregate changes in labour productivity into an intra-industry, a shift and an 
+interaction effect.  The within-sector effect measures the impact of productivity growth within each sector on total 
+economy productivity growth, assuming that sector labour shares are unchanged.  The shift effect measures the impact on total economy productivity resulting from the movement 
+of labour between sectors, assuming that the level of productivity in each sector is unchanged.  The cross-term effect measures the change in both labour share and productivity in each sector 
+and accounts for the impact of labour re-allocation between sectors with varying productivity 
+growth rates. If the sign of the cross-term effect is positive, it indicates that the within-industry 1. 
+Margit Molnar heads the China desk and Thomas Chalaux is a research assistant in the OECD Economics 
+Department. This paper was originally produced as a background document for the 2015 OECD Economic 
+Survey of China published in March 2015 under the authority of the Economic and Development Review 
+Committee (EDRC). The authors thank Alvaro Pereira, Robert Ford, Vincent Koen, Ben Westmore, Molly 
+Lesher as well as officials from the Chinese government for valuable comments on earlier drafts, and 
+Nadine Dufour for editorial assistance. ECO/WKP(2015)39 6 and shift-effects are complementary, that is, productivity growth is positive in expanding 
+industries and negative in contracting industries. Conversely, if the cross-term effect is negative, 
+it indicates that the within-industry and shift effects are substitutes, that is, productivity growth is 
+positive in contracting industries and negative in expanding industries. 5. 
+A major caveat of shift-share analysis is its sensitivity to industry detail i.e. the number of 
+industrial sectors used for the analysis. If the number of sectors is too few, a large part of cross-sectoral 
+shifts will be unaccounted for and will appear as within-industry productivity growth. This may lead to 
+ignoring significant structural transformations. Therefore, a large number of sectors is preferable. For 
+international comparisons of the effects, there may be a trade-off between the number of countries and the 
+number of sectors included in the analysis. For each individual industry i labour productivity is defined as output (Y) divided by labour input (L): it it 
+it L Y 
+LP   
+  
+ i it 
+i it 
+t t 
+t L 
+Y 
+L Y 
+LP 
+/ When expressed in nominal terms, labour productivity can be written as a weighted sum of the within-
+industry productivity values:   t 
+t it 
+it 
+t L L 
+LP 
+LP This gives, in difference terms: ) 
+( 
+) 
+( 
+) 
+( 
+) 
+( 1 
+1 1 t t 
+i i 
+i 
+i it 
+t it 
+it 
+t it 
+it 
+t L L 
+LP 
+L L 
+LP 
+L L 
+LP LP  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  Dividing by LPt-1 to get the growth (percentage change) and rearranging the terms:  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+       
+ 
+i 
+i 
+i 
+t it 
+it 
+t 
+t it t it t it t it it it t t L L 
+LP 
+LP 
+L L 
+L L 
+LP LP 
+Y Y 
+LP LP 
+LP LP 
+) 
+( 
+) 
+( 
+1 
+) 
+( 1 
+1 1 1 1 1 1 1 
+1 6. 
+The first component is the within-industry effect, i.e., the sum of industry productivity growth 
+rates, weighted by the initial (nominal) output shares. 7. 
+The second component is the shift effect, i.e. the sum of changes in input shares, weighted by the 
+relative productivity level (i.e. the ratio of industry productivity to average productivity). This effect could 
+also be written and decomposed as the sum of industry labour input growth rates, weighted by initial 
+output shares, minus total labour input growth. 8. 
+The sign of the residual (interaction) component is usually negative (in the economy there is a 
+majority of industries where the productivity change and the labour input change have opposite signs). It 
+may, however, be positive when beneficial restructuring of the economy occurs (in this case, most of the 
+industries enjoying productivity growth are at the same time attracting more resources). ECO/WKP(2015)39 7 9. 
+The decomposition described above would strictly hold only in the case of (discrete) percentage 
+changes. The logarithmic approximation (used throughout the study) entails an error of magnitude often 
+comparable to the interaction effect. We have, however, defined the within-industry effect and the shift 
+effect analogously to the discrete case. A corresponding decomposition for the continuous time case can be 
+found in Nordhaus (2002), who has also shown that when 'old-fashioned' price index methods are used 
+(i.e. not the Törnqvist method), one should add to the decomposition an additional term accounting for the 
+drift in prices. Labour productivity growth in China mainly stems from within-industry growth 10. 
+Decomposition of labour productivity changes into those resulting from shifts among sectors and 
+those resulting from increases in productivity in individual sectors sheds light on these trends (Figure 1). 
+Within-sector productivity gains have been the major driver of labour productivity in China, owing to a 
+large extent to its strategy of tapping global knowledge through inward foreign direct investment as well as 
+by acquiring new technology through mergers and acquisitions and other means (Girma et al., 2014). 
+Productivity gains resulting from the movement of labour from less productive to more productive sectors 
+(the so-called  " shift effect " ) were relatively large explaining about 2 percentage points of labour 
+productivity growth in the past decade, which indicates a healthy process of restructuring. These results are 
+not out of line with the literature using the same method, though the time periods for which the shift effect 
+is estimated differ. Robertson and Ye (2014) found smaller effects of labour reallocation, though they use a 
+growth accounting framework with a Cobb-Douglas production function and human capital adjusted for 
+rural-urban differences. ECO/WKP(2015)39 8 Figure 1. Labour productivity growth is mainly explained by within-sector growth Decomposition of labour productivity growth 2000-11 Source: Authors' calculation using the WIOD and OECD National Accounts databases. 11. 
+In OECD countries, within-sector productivity increases largely explain overall productivity 
+developments and, in general, the within-industry effect is the largest for most non-OECD economies as 
+well. In the longer term, once the catching-up mechanism through shifting employment to higher 
+productivity sectors is exhausted, generating productivity gains within industries becomes the major source 
+of productivity growth. As it assumes no changes in employment shares of industries, a within-sector term 
+that is smaller than aggregate productivity growth may suggest that industries with higher productivity 
+growth have increased their share in total employment (Table 1). This is observed in most economies such 
+as Brazil, China, India, Indonesia, Korea and the Russian Federation. 12. 
+The cross-term – measuring correlations in an economy between productivity and employment 
+changes – reveals that among the countries examined here, none has complementary within-industry and 
+shift effects (Table 1). More specifically, in none of the economies examined here is productivity growth 
+positive in expanding industries and negative in contracting industries. This effect is particularly large in 
+Indonesia, Greece and some Baltic States, indicating that productivity gains are reaped in contracting 
+rather than expanding industries. Table 1. Shift-share analysis of labour productivity growth per person 2000-11 Average change 
+Within-sector effect 
+Shift effect 
+Cross effect -4 
+-2 
+0 
+2 
+4 
+6 
+8 
+10 
+12 
+14 CHN 
+SVK 
+CZE 
+EST 
+POL 
+IDN 
+JPN 
+IND 
+AUS 
+HUN 
+SWE 
+KOR 
+IRL 
+AUT 
+FIN 
+NLD 
+ESP 
+FRA 
+PRT 
+SVN 
+DEU 
+BEL 
+RUS 
+DNK 
+GRC 
+LUX 
+ITA 
+BRA 
+USA 
+GBR 
+MEX Within-sector effect 
+Shift effect 
+Cross effect ECO/WKP(2015)39 9 CHN 
+11.5 
+9.9 
+1.7 
+-0.1 
+SVK 
+10.1 
+10.7 
+-0.1 
+-0.5 
+CZE 
+9.7 
+9.4 
+0.3 
+0.0 
+EST 
+6.8 
+7.5 
+0.8 
+-1.6 
+POL 
+6.7 
+5.4 
+1.7 
+-0.5 
+IDN 
+5.5 
+4.7 
+2.0 
+-1.2 
+JPN 
+5.3 
+5.3 
+0.1 
+-0.1 
+IND 
+5.1 
+3.7 
+1.6 
+-0.3 
+AUS 
+4.9 
+4.8 
+0.4 
+-0.2 
+HUN 
+4.7 
+4.0 
+1.4 
+-0.7 
+SWE 
+4.4 
+4.6 
+0.0 
+-0.2 
+KOR 
+4.3 
+4.0 
+0.5 
+-0.3 
+IRL 
+4.2 
+4.2 
+0.3 
+-0.4 
+AUT 
+4.0 
+4.0 
+0.1 
+-0.2 
+FIN 
+3.8 
+4.1 
+-0.2 
+-0.1 
+NLD 
+3.7 
+4.2 
+-0.3 
+-0.1 
+ESP 
+3.7 
+3.4 
+0.5 
+-0.2 
+FRA 
+3.7 
+3.7 
+0.0 
+-0.1 
+PRT 
+3.7 
+3.3 
+0.4 
+-0.1 
+SVN 
+3.4 
+2.7 
+0.9 
+-0.2 
+DEU 
+3.4 
+3.4 
+0.0 
+-0.1 
+BEL 
+3.3 
+3.4 
+0.0 
+-0.1 
+RUS 
+3.3 
+2.8 
+0.6 
+-0.1 
+DNK 
+3.2 
+3.4 
+0.1 
+-0.2 
+GRC 
+2.8 
+3.1 
+1.0 
+-1.3 
+LUX 
+2.6 
+2.1 
+0.7 
+-0.2 
+ITA 
+2.3 
+2.3 
+0.0 
+-0.1 
+BRA 
+2.0 
+1.7 
+0.5 
+-0.1 
+USA 
+1.9 
+2.1 
+-0.2 
+-0.1 
+GBR 
+1.1 
+1.1 
+0.0 
+0.0 
+MEX 
+-2.0 
+-2.7 
+0.9 
+-0.3 Note: Results are based on 35 sectors including agriculture, mining, 14 manufacturing and 19 service industries in 32 economies. 
+Productivity is measured by value added at constant prices per person employed. The within-sector effect measures the impact of 
+productivity growth within each sector on total economy productivity growth, assuming that labour shares are unchanged. The shift 
+effect measures the impact on total economy productivity resulting from the movement of labour between sectors, assuming that the 
+level of productivity in each sector is unchanged. The cross-term effect measures the change in both labour share and productivity in 
+each sector and accounts for the impact of labour re-allocation between sectors with varying productivity growth rates. Source: Authors' calculation using the WIOD and OECD National Accounts databases. 13. 
+During the past decade, non-manufacturing industries have been driving within-industry 
+productivity gains in the BRIIC economies (except for South Africa, for which no comparable data are 
+available). In addition to agriculture, which led productivity gains among the 35 industries used in the 
+analyses for Brazil, China and Indonesia, several modern service industries were major engines of 
+productivity growth (Table 2). Wholesale trade was the strongest driver in the Russian Federation, the 
+second strongest in China and the third in Indonesia, while retail trade was the second most important in 
+India. The contribution to productivity growth by the telecommunications industry was significant in India 
+and Indonesia, reflecting the ICT revolution in those economies. Focusing on a different period (1980-
+2008), another study shows that Brazil India and the Russian Federation display high within-sector 
+productivity growth in services, while China's productivity growth is high in manufacturing 
+(Chansomphou and Ichihashi, 2013). 14. 
+Major productivity growth engines among manufacturing industries differed widely across the 
+BRIIC economies, with basic metals and food and beverages leading the manufacturing sector in China, 
+food and beverages and automobiles in Indonesia, refinery activities in India and machinery in the Russian 
+Federation. In Brazil, although the chemicals industry contributed most to within-industry productivity 
+growth among manufacturing industries, its individual contribution as well as overall within-industry ECO/WKP(2015)39 10 productivity growth was relatively low. Moreover, many manufacturing industries registered negative 
+contributions to within-industry productivity growth over 2000-11. 15. 
+Analysis across provinces shows that Hunan and Hainan experienced the largest structural 
+change over 2000-11 and Fujian, Guangdong and Shandong the least (Wu et al., 2014). This analysis 
+focuses on 20 manufacturing industries and calculates the coefficient of structural change, which correlates 
+the share of each sector in each region between 2000 and 2011. Industrial structural patterns can also be 
+traced by estimating the index of dissimilarity of industrial structures across regions. Yunnan, Chongqing 
+and Jilin have the highest values, indicating high levels of dissimilarity with the national average. 16. 
+In a similar vein to this technical background paper, Wu et al. (2014) decompose the productivity 
+gap across regions into a structural, regional and allocative efficiency component. The structural or 
+industry-mix factor measures the effect of the productivity differential due to the difference between a 
+region's industrial structure and the national average; the regional or productivity-differential factor 
+measures the difference between regional and national average productivity in each sector and the 
+allocative efficiency component (i.e. the analogue of the cross-term effect in the shift-share analysis in this 
+paper), measures the relation between the two other components, being positive if the region is specialised 
+in industries with above national-average productivity. From the nine regions with positive productivity 
+gaps relative to the national average, only Tianjin, Beijing and Jilin achieved allocative efficiency (the 
+cross term is positive, i.e. these regions are specialised in industries that have productivity above the 
+national average). Although Shanghai has an even greater positive productivity gap than any other 
+province or municipality, it is not specialised in industries with productivity above the national average, 
+indicating allocative inefficiency. ECO/WKP(2015)39 11 Table 2. Within-industry effects by industry 2000-11 Note: List of sectors: 15t16 Food, beverages and tobacco, 17t18 Textiles and garments,19 Leather and footwear, 20 Wood and cork, 21t22 Pulp, paper, printing and publishing, 23 
+Coke, refined petroleum and nuclear fuel, 24 Chemicals and chemical products, 25 Rubber and plastics, 26 Other non-metallic minerals, 27t28 Basic metals and fabricated metals, 29 
+Machinery, nec, 30t33 Electrical and optical equipment, 34t35 Transport equipment, 36t37 Manufacturing nec; recycling, 50 Sale, maintenance and repair of motor vehicles and 
+motorcycles; retail sale of fuel, 51 Wholesale trade and commission trade, except of motor vehicles and motorcycles, 52 Retail trade, except of motor vehicles and motorcycles; repair of 
+household goods, 60 Other inland transport, 6 Other water transport, 62 Other air transport, 63 Other supporting and auxiliary transport activities; activities of travel agencies, 64 Post 
+and telecommunications, 70 Real estate activities, 71t74 Renting of machinery and equipment and other business activities, AtB Agriculture, hunting, forestry and fishing, C Mining and 
+quarrying, E Electricity, gas and water supply, F Construction, H Hotels and restaurants, J Financial intermediation, L Public administration and defence; compulsory social security, M 
+Education, N Health and social work, O Other community, social and personal services, P Private households with employed persons and TOT Total industries. Empty cells indicate 
+unavailability of data. Sectors 50 (sale, maintenance and repair of motor vehicles and motorcycles and retail sale of fuel) and P (private households with employed persons) are missing 
+from the Chinese accounts in the WIOD database. Source: Authors' calculations based on the WIOD and OECD National Account databases. 15t16 17t18 
+19 
+20 
+21t22 
+23 
+24 
+25 
+26 
+27t28 
+29 
+30t33 34t35 36t37 
+50 
+51 
+52 
+60 
+61 
+62 
+63 
+64 
+70 
+71t74 
+AtB 
+C 
+E 
+F 
+H 
+J 
+L 
+M 
+N 
+O 
+P 
+TOT 
+Slovak Republic 0.34 
+0.16 
+0.02 
+0.18 
+0.20 
+0.08 
+0.22 
+0.20 
+0.22 
+0.59 
+0.51 
+0.93 
+0.73 
+0.20 
+0.06 
+0.80 
+0.54 
+0.19 
+-0.01 
+0.01 
+-0.04 
+0.30 
+0.26 
+0.50 
+0.83 
+0.06 
+0.29 
+0.67 
+0.00 
+0.28 
+0.77 
+0.30 
+0.09 
+0.27 
+10.75 
+China 
+0.42 
+0.26 
+0.04 
+0.06 
+0.08 
+0.12 
+0.38 
+0.11 
+0.26 
+0.66 
+0.28 
+0.35 
+0.21 
+0.11 
+0.70 
+0.19 
+0.27 
+0.18 
+0.00 
+0.11 
+0.28 
+0.26 
+0.42 
+0.94 
+0.56 
+0.35 
+0.49 
+0.16 
+0.41 
+0.44 
+0.36 
+0.18 
+0.24 
+9.88 
+Czech Republic 0.21 
+0.16 
+0.01 
+0.11 
+0.13 
+0.01 
+0.13 
+0.35 
+0.24 
+0.25 
+0.50 
+0.58 
+0.82 
+0.13 
+0.25 
+0.93 
+0.38 
+0.53 
+0.00 
+0.05 
+0.03 
+0.29 
+0.32 
+0.60 
+0.24 
+0.09 
+0.36 
+0.36 
+0.01 
+0.37 
+0.33 
+0.37 
+0.15 
+0.15 
+0.00 
+9.43 
+Estonia 
+0.28 
+0.15 
+0.02 
+0.28 
+0.15 
+0.01 
+0.10 
+0.04 
+0.08 
+0.20 
+0.12 
+0.33 
+0.16 
+0.16 
+0.22 
+0.58 
+0.28 
+0.18 
+0.08 
+0.16 
+0.27 
+0.49 
+0.60 
+0.40 
+0.32 
+0.14 
+0.34 
+0.27 
+0.11 
+0.45 
+0.19 
+0.11 
+0.04 
+0.20 
+7.52 
+Poland 
+0.33 
+0.07 
+0.01 
+0.05 
+0.10 
+0.11 
+0.14 
+0.11 
+0.11 
+0.19 
+0.16 
+0.11 
+0.13 
+0.08 
+0.20 
+0.46 
+0.45 
+0.14 
+0.01 
+0.01 
+0.05 
+0.21 
+0.17 
+0.27 
+0.45 
+0.07 
+0.22 
+0.24 
+0.02 
+0.36 
+-0.03 
+0.11 
+0.22 
+0.05 
+0.02 
+5.42 
+Japan 
+0.10 
+0.01 
+0.00 
+0.00 
+0.07 
+0.05 
+0.12 
+0.05 
+0.03 
+0.18 
+0.29 
+0.64 
+0.20 
+0.01 
+0.05 
+0.31 
+0.19 
+0.12 
+0.05 
+0.01 
+0.03 
+0.15 
+0.54 
+0.45 
+0.08 
+0.00 
+0.19 
+0.17 
+0.12 
+0.25 
+0.30 
+0.06 
+0.24 
+0.17 
+5.26 
+Australia 
+0.07 
+0.00 
+0.01 
+0.01 
+0.08 
+0.00 
+0.04 
+0.03 
+0.07 
+0.17 
+0.05 
+0.03 
+0.08 
+0.02 
+0.26 
+0.32 
+0.25 
+0.11 
+0.01 
+0.03 
+0.02 
+0.22 
+0.45 
+0.39 
+0.44 
+-0.14 -0.04 
+0.40 
+0.09 
+0.52 
+0.11 
+0.13 
+0.32 
+0.19 
+4.77 
+Indonesia 
+0.72 
+0.01 
+0.01 
+-0.02 -0.03 -0.16 
+0.12 
+0.04 
+0.01 
+-0.02 
+0.04 
+0.18 
+0.22 
+0.05 
+0.61 
+0.31 
+0.14 
+-0.01 
+0.10 
+0.06 
+0.59 
+-0.16 
+0.07 
+0.72 
+0.26 
+0.08 
+0.33 
+-0.09 
+0.02 
+0.17 
+0.06 
+0.01 
+0.26 
+4.69 
+Sweden 
+0.09 
+0.01 
+0.00 
+0.05 
+0.14 
+0.09 
+0.22 
+0.03 
+0.03 
+0.09 
+0.19 
+0.52 
+0.22 
+0.03 
+0.09 
+0.35 
+0.23 
+0.06 
+0.03 
+0.04 
+0.05 
+0.25 
+0.08 
+0.42 
+0.13 
+0.02 
+0.03 
+0.06 
+0.01 
+0.22 
+0.15 
+0.08 
+0.38 
+0.16 
+0.00 
+4.58 
+Ireland 
+0.56 
+0.02 
+0.01 
+0.02 
+0.45 
+0.02 
+0.82 
+0.04 
+0.04 
+0.05 
+0.04 
+0.22 
+0.04 
+0.02 
+0.03 
+0.26 
+0.17 
+-0.02 
+0.00 
+0.00 
+0.00 
+0.16 
+-0.17 
+0.74 
+0.06 
+0.03 
+0.25 
+-0.24 
+0.07 
+0.48 
+0.00 
+0.08 
+-0.03 
+0.00 
+0.00 
+4.22 
+Netherlands 
+0.14 
+0.01 
+0.00 
+0.01 
+0.10 
+0.21 
+0.21 
+0.02 
+0.02 
+0.09 
+0.10 
+0.05 
+0.05 
+0.02 
+0.03 
+0.60 
+0.11 
+0.08 
+0.02 
+0.02 
+0.07 
+0.23 
+0.21 
+0.26 
+0.12 
+0.10 
+0.09 
+0.12 
+0.00 
+0.42 
+0.26 
+0.08 
+0.25 
+0.06 
+0.02 
+4.21 
+Canada 
+0.13 
+0.02 
+0.00 
+0.06 
+0.13 
+0.00 
+0.07 
+0.05 
+0.03 
+0.11 
+0.05 
+0.02 
+0.09 
+0.05 
+0.03 
+0.37 
+0.31 
+0.13 
+0.01 
+0.02 
+0.03 
+0.13 
+0.24 
+0.36 
+0.15 
+0.02 
+0.08 
+0.18 
+0.10 
+0.23 
+0.30 
+0.17 
+0.25 
+0.20 
+0.01 
+4.13 
+Finland 
+0.12 
+0.02 
+0.00 
+0.06 
+0.27 
+0.04 
+0.12 
+0.04 
+0.03 
+0.15 
+0.20 
+0.72 
+0.02 
+0.02 
+0.06 
+0.23 
+0.14 
+0.05 
+0.00 
+0.03 
+0.05 
+0.36 
+0.25 
+0.12 
+0.21 
+0.02 
+0.11 
+0.15 
+0.06 
+0.07 
+0.11 
+0.07 
+0.12 
+0.06 
+0.00 
+4.07 
+Austria 
+0.10 
+0.02 
+0.00 
+0.03 
+0.15 
+0.14 
+0.12 
+0.03 
+0.04 
+0.13 
+0.14 
+0.13 
+0.10 
+0.06 
+0.01 
+0.26 
+0.16 
+0.06 
+0.00 
+-0.02 
+0.05 
+0.20 
+0.19 
+0.30 
+0.06 
+0.02 
+0.11 
+0.22 
+0.09 
+0.59 
+0.16 
+0.17 
+0.11 
+0.09 
+0.00 
+4.04 
+Korea 
+0.05 
+0.12 
+0.01 
+0.00 
+0.04 
+0.01 
+0.15 
+0.02 
+0.07 
+0.10 
+0.17 
+1.24 
+0.27 
+0.01 
+0.02 
+0.16 
+0.20 
+0.08 
+0.04 
+0.00 
+0.02 
+0.12 
+0.05 
+-0.12 
+0.21 
+0.01 
+0.23 
+-0.01 
+0.06 
+0.31 
+0.28 
+0.07 
+-0.07 
+0.02 
+3.97 
+Hungary 
+-0.02 
+0.04 
+0.01 
+0.03 
+0.06 
+-0.27 
+0.12 
+0.09 
+0.07 
+0.12 
+0.44 
+0.36 
+0.12 
+0.03 
+0.12 
+-0.01 
+0.22 
+0.13 
+0.01 
+0.00 
+0.06 
+0.22 
+0.25 
+0.15 
+0.52 
+0.04 
+0.00 
+0.10 
+-0.02 
+0.09 
+0.42 
+0.18 
+0.09 
+0.18 
+3.96 
+France 
+0.06 
+0.04 
+0.00 
+0.01 
+0.05 
+0.01 
+0.07 
+0.07 
+0.02 
+0.06 
+0.08 
+0.17 
+0.05 
+0.01 
+0.02 
+0.16 
+0.22 
+0.10 
+0.02 
+0.03 
+0.07 
+0.16 
+0.49 
+0.57 
+0.11 
+0.00 
+0.05 
+0.06 
+0.03 
+0.21 
+0.24 
+0.13 
+0.23 
+0.10 
+0.01 
+3.71 
+India 
+0.09 
+-0.04 -0.01 
+0.00 
+0.01 
+0.25 
+0.13 
+0.02 
+0.00 
+0.09 
+0.13 
+0.10 
+0.11 
+-0.02 
+0.01 
+0.21 
+0.55 
+0.26 
+0.00 
+0.01 
+0.01 
+0.36 
+-0.47 
+0.10 
+0.30 
+0.14 
+0.09 
+0.13 
+0.04 
+0.36 
+0.59 
+0.05 
+0.02 
+0.11 
+0.00 
+3.71 
+Germany 
+0.04 
+0.03 
+0.00 
+0.02 
+0.08 
+0.01 
+0.19 
+0.08 
+0.04 
+0.11 
+0.13 
+0.33 
+0.28 
+0.02 
+0.07 
+0.27 
+0.13 
+0.01 
+0.03 
+0.00 
+0.06 
+0.11 
+0.45 
+0.03 
+0.02 
+0.01 
+0.06 
+0.11 
+0.01 
+0.14 
+0.26 
+0.03 
+0.25 
+0.06 
+0.01 
+3.45 
+Belgium 
+0.15 
+0.04 
+0.00 
+0.02 
+0.10 
+0.09 
+0.15 
+0.06 
+0.04 
+0.10 
+0.04 
+0.05 
+0.05 
+0.03 
+0.04 
+0.27 
+0.15 
+0.09 
+0.00 
+0.02 
+0.05 
+0.17 
+0.16 
+0.36 
+0.06 
+0.01 
+0.08 
+0.19 
+0.03 
+0.32 
+0.22 
+0.10 
+0.08 
+0.05 
+0.01 
+3.38 
+Spain 
+0.08 
+0.03 
+0.01 
+0.02 
+0.06 
+-0.02 
+0.07 
+0.03 
+0.06 
+0.11 
+0.05 
+0.05 
+0.06 
+0.04 
+0.06 
+0.12 
+0.21 
+0.05 
+0.00 
+0.00 
+0.01 
+0.18 
+-0.10 
+0.14 
+0.19 
+0.00 
+0.08 
+0.66 
+0.10 
+0.34 
+0.26 
+0.15 
+0.12 
+0.13 
+3.36 
+Denmark 
+0.02 
+0.01 
+0.00 
+0.01 
+0.09 
+-0.01 
+0.13 
+0.04 
+0.02 
+0.05 
+0.08 
+0.16 
+0.02 
+0.04 
+0.05 
+0.29 
+0.12 
+0.05 
+0.01 
+0.14 
+0.07 
+0.15 
+0.15 
+0.25 
+0.16 
+0.05 
+0.06 
+0.04 
+-0.01 
+0.42 
+0.16 
+0.13 
+0.41 
+0.01 
+0.00 
+3.36 
+Portugal 
+0.15 
+0.11 
+0.02 
+0.04 
+0.09 
+0.00 
+0.04 
+0.03 
+0.08 
+0.10 
+0.05 
+0.09 
+0.05 
+0.03 
+0.11 
+0.16 
+0.14 
+0.12 
+0.01 
+0.03 
+0.09 
+0.18 
+0.15 
+-0.04 
+0.11 
+0.01 
+0.23 
+0.11 
+0.12 
+0.40 
+0.26 
+0.09 
+0.07 
+0.09 
+0.03 
+3.34 
+Greece 
+-0.08 
+0.01 
+0.01 
+0.01 
+0.04 
+0.07 
+0.07 
+0.00 
+0.02 
+0.06 
+0.04 
+-0.01 
+0.00 
+-0.01 
+0.15 
+0.13 
+0.34 
+-0.01 
+0.54 
+0.13 
+0.06 
+0.32 
+-0.08 -0.12 
+0.20 
+0.01 
+0.16 
+0.01 
+0.30 
+0.08 
+0.05 
+0.29 
+0.09 
+0.15 
+0.02 
+3.06 
+Russian Federation0.07 
+0.00 
+0.00 
+0.02 
+0.03 
+-0.01 
+0.06 
+0.01 
+0.04 
+0.09 
+0.17 
+0.05 
+-0.07 -0.08 
+0.06 
+0.94 
+0.15 
+0.21 
+0.01 
+0.02 
+0.01 
+0.16 
+0.32 
+0.18 
+-0.06 
+0.24 
+-0.02 
+0.11 
+-0.01 
+0.25 
+-0.08 -0.02 -0.05 
+0.00 
+2.80 
+Slovenia 
+0.06 
+0.09 
+0.03 
+0.05 
+0.13 
+-0.01 
+0.26 
+0.05 
+0.03 
+0.28 
+0.16 
+0.27 
+0.07 
+0.05 
+0.03 
+0.24 
+0.09 
+0.08 
+0.02 
+0.02 
+0.10 
+0.12 
+-0.24 -0.07 
+0.07 
+0.05 
+0.09 
+-0.04 
+0.01 
+0.32 
+0.13 
+0.07 
+0.05 
+-0.01 
+0.00 
+2.65 
+Italy 
+0.04 
+0.03 
+0.01 
+0.01 
+0.03 
+0.00 
+0.03 
+0.02 
+0.03 
+0.09 
+0.07 
+0.06 
+0.00 
+0.02 
+0.05 
+0.10 
+0.09 
+0.16 
+0.00 
+0.00 
+0.02 
+0.21 
+0.19 
+-0.02 
+0.08 
+0.00 
+0.08 
+0.07 
+0.01 
+0.22 
+0.26 
+0.16 
+0.14 
+0.00 
+0.02 
+2.29 
+United States 
+0.02 
+0.01 
+0.00 
+0.01 
+0.03 
+0.02 
+0.03 
+0.01 
+0.01 
+0.00 
+0.10 
+0.28 
+0.04 
+0.06 
+0.06 
+0.27 
+0.21 
+0.01 
+0.02 
+0.02 
+0.01 
+0.17 
+0.14 
+0.29 
+0.03 
+-0.02 
+0.00 
+-0.09 
+0.01 
+0.26 
+0.02 
+-0.01 
+0.08 
+0.03 
+0.00 
+2.15 
+Luxembourg 
+-0.03 
+0.02 
+0.00 
+0.02 
+0.05 
+0.05 
+0.04 
+0.03 
+0.01 
+0.03 
+0.00 
+0.00 
+-0.07 
+0.32 
+0.15 
+0.17 
+0.00 
+0.05 
+0.01 
+0.13 
+0.12 
+0.40 
+-0.03 
+0.00 
+0.05 
+0.07 
+-0.04 
+0.33 
+0.12 
+0.06 
+0.04 
+0.01 
+0.00 
+2.12 
+Brazil 
+0.05 
+0.01 
+0.00 
+0.01 
+0.07 
+0.03 
+0.11 
+0.00 
+0.01 
+0.01 
+0.04 
+0.01 
+0.06 
+0.03 
+-0.02 
+0.12 
+0.13 
+-0.10 -0.02 -0.02 -0.05 
+0.02 
+0.19 
+0.03 
+0.43 
+0.07 
+0.15 
+0.01 
+0.08 
+0.30 
+-0.03 -0.09 
+0.01 
+0.04 
+1.69 
+United Kingdom 0.05 
+0.02 
+0.00 
+0.01 
+0.04 
+0.00 
+0.05 
+0.02 
+0.02 
+0.05 
+0.06 
+0.06 
+0.05 
+0.02 
+0.04 
+0.09 
+0.11 
+0.04 
+0.00 
+0.01 
+0.03 
+0.12 
+-0.16 
+0.28 
+0.01 
+-0.05 
+0.07 
+-0.03 
+0.02 
+0.15 
+0.01 
+-0.07 
+0.03 
+-0.03 
+0.00 
+1.13 
+Mexico 
+-0.12 -0.05 -0.01 
+0.00 
+-0.02 -0.02 -0.04 -0.01 -0.01 -0.02 
+0.00 
+-0.06 -0.02 -0.02 -0.01 -0.06 -0.08 -0.11 
+0.00 
+0.00 
+-0.01 
+0.10 
+-0.61 -0.42 -0.04 -0.34 
+0.06 
+-0.26 -0.11 
+0.18 
+-0.20 -0.21 -0.12 -0.05 -0.01 -2.70 ECO/WKP(2015)39 12 Estimation of labour and total factor productivity at the sector level 17. 
+Labour productivity is defined as value added per employee. The TFP estimation is based on a 
+panel of 32 countries (including mostly OECD countries and the BRIICS, without South Africa) for 16 
+manufacturing and 19 service sectors classified according to the United Nations ISIC Rev. 3 system for the 
+years 2000-11. The source of the data is the World Input Output Database (WIOD) and the OECD 
+National Accounts database. The estimation follows the same method as OECD (2014). 18. 
+The estimation is based on a standard Cobb-Douglas production function with technological 
+coefficients í µí»¼ for physical capital and í µí»½ for labour: í µí± í µí±,í µí±,í µí±¡ = í µí°´íµí°´í µí±,í µí±,í µí±¡ (í µí°¾ í µí±,í µí±,í µí±¡ ) í µí»¼ (í µí°¿ í µí±,í µí±,í µí±¡ ) í µí»½ (1) where Y, A, K and L are: real value added, total factor productivity, real capital stock and number of 
+employees, respectively. Real values are calculated using country-and industry-specific price deflators 
+(with the base year of 2002). The nominal data is converted into US dollars using year-average exchange 
+rates from the WIOD database. Aggregate TFP for manufacturing and services is weighted by value added. 19. 
+The capital stock is not directly available and is therefore constructed based on investment data 
+using the perpetual inventory approach. The initial capital í µí°¾ 0 is defined as follows (country and industry 
+subscripts are omitted): í µí°¾ 0 = 
+í µí°¼ 0 
+í µí± + í µí»¿ 
+(2) í µí°¼ 0 represents real gross fixed capital formation for a given industry in 1995, í µí± the average growth rate of 
+investment between 1995 and 2002 and í µí»¿ the depreciation rate of physical capital (set to 8%). 
+20. 
+Having determined the initial capital stock í µí°¾ 0 , capital stock can be calculated for all subsequent 
+years, as follows: í µí°¾ í µí±¡ = (1 − í µí»¿)  *  í µí°¾ í µí±¡−1 + í µí°¼ í µí±¡−1 (3) 21. 
+The following log-linearised production function is estimated for all sectors and countries at the 
+same time (where smaller case letters stand for values in logarithmic form): í µí±¦ í µí±,í µí±,í µí±¡ = í µí»¼í µí± í µí±,í µí±,í µí±¡ + í µí»½í µí± í µí±,í µí±,í µí±¡ + í µí¼ í µí± + í µí¼ í µí± + í µí¼ í µí±¡ + í µí¼ í µí±,í µí±,í µí±¡ (4) 22. 
+The log-linearised TFP estimates are defined as follows: í µí±í µí±í µí°¹í µí± í µí±,í µí±,í µí±¡ = í µí¼ í µí± + í µí¼ í µí± + í µí¼ í µí±¡ + í µí¼ í µí±,í µí±,í µí±¡ (5) where í µí¼ í µí± stands for the country-specific technological factor, í µí¼ í µí± for the sector-specific technology factor 
+which does not vary across countries, í µí¼ í µí±¡ for the time-dependent factor constant across countries and 
+sectors. í µí¼ í µí±,í µí±,í µí±¡ is the residual of the regression and varies across sectors, countries and time. 23. 
+China fares relatively well in TFP and labour productivity levels, both in manufacturing and 
+services compared with the other BRIICS economies, even though the gap with the United States is still 
+sizeable (Figure 2.). Moreover, China's gap is wider than Brazil's both in labour and total factor 
+productivity and both in manufacturing and services. The Russian Federation's gap is also slightly smaller 
+than China's in services, though China has been catching up over the 2000s very rapidly. Indonesia fares 
+best in manufacturing TFP, although its gap with the US increased over 2000-11. India is weak in 
+manufacturing and its catching up is not impressive either (Joumard et al., 2014). ECO/WKP(2015)39 13 24. 
+The estimation period in this study (2000-11) includes the global financial crisis, during which 
+manufacturing industries were particularly hit. The inclusion of this period, however, does not appear to 
+affect the results, which are similar to those obtained earlier for 2000-08 (OECD, 2014). Figure 2. China's productivity gap with the United States is large but catching up is fast Source: Authors' calculation using the WIOD and OECD National Accounts databases. 0 2 4 6 8 10 12 14 16 18 IND 
+RUS 
+IDN 
+CHN 
+BRA % A. Manufacturing Labour productivity as percentage of US level in 2000 
+Labour productivity as percentage of US level in 2011 0 10 20 30 40 50 60 IND 
+RUS 
+CHN 
+BRA 
+IDN % C. Manufacturing TFP as percentage of US level in 2000 
+TFP as percentage of US level in 2011 0 10 20 30 40 50 IDN 
+IND 
+CHN 
+RUS 
+BRA % D. Services TFP as percentage of US level in 2000 
+TFP as percentage of US level in 2011 0 2 4 6 8 10 12 14 16 IND 
+IDN 
+CHN 
+RUS 
+BRA % B. Services Labour productivity as percentage of US level in 2000 
+Labour productivity as percentage of US level in 2011 -2 0 2 4 6 8 10 12 -2 0 2 4 6 8 10 12 BRA 
+RUS 
+IDN 
+IND 
+CHN % 
+% E. Average annual growth, 2000-11 Manufacturing labour productivity 
+Services labour productivity 
+Manufacturing TFP 
+Services TFP ECO/WKP(2015)39 14 BIBLIOGRAPHY Chansomphou, V. and M. Ichihashi (2013),  " Structural Change, Labour Productivity Growth and 
+Convergence of BRIC Economies " , IDEC Development Discussion Policy Papers, Vol. 3(5). European Commission (2003), The EU Economy: 2003 Review, European Economy, No. 6. Girma, S., Y. Gong, H. Görg and S. Lancheros (2014),  " Estimating Direct and Indirect Effects of Foreign 
+Direct Investment on Firm Productivity in the Presence of Interactions between Firms " , IZA 
+Discussion Papers, No. 8509. Joumard, I., U. Sila and H. Morgavi (2014),  " Challenges and Opportunities of India's Manufacturing 
+Sector " , OECD Economics Department Working Papers, No. 1183. Nordhaus, W. (2002), Alternative Methods for Measuring Productivity Growth Including Approaches 
+When Output is Measured with Chain Indexes, 
+http://www.econ.yale.edu/~nordhaus/homepage/welf_062402.pdf. OECD (2014), Perspectives on Global Development – Boosting Productivity to Meet the Middle-Income 
+Challenge, OECD Publishing, Paris. Robertson, P. E. and L. Ye (2014),  " Misallocation and Growth: A Re-evaluation of the Gains from Labour 
+Reallocation in China " , available at 
+http://www.buseco.monash.edu.au/eco/research/conferences/monash-phd-conference-2014/ye-
+wa.pdf accessed on January 4, 2015. Wu, Y., N. Ma and X. Guo (2014),  " Growth, Structural Change and Productivity Gaps in China's 
+Industrial Sector " , in Song, L., R. Garnaut and F. Cai (eds.), Deepening Reform for China's Long-
+term Growth, Australian National University Press, Canberra. ECO/WKP(2015)39 15 WORKING PAPERS The full series of Economics Department Working Papers can be consulted at www.oecd.org/eco/workingpapers 1220. 
+Assessing China's skills gap and inequalities in education 
+(May 2015) by Margit Molnar, Boqing Wang and Ruidong Gao 1219. 
+Providing the right skills to all in China – from  " made in China "  to  " created in China 
+(May 2015) by Margit Molnar and Vincent Koen 1218. 
+Agricultural reforms and bridging the gap for rural China 
+(May 2015) by Ben Westmore 1217. 
+A snapshot of China's service sector (May 2015) by Margit Molnar and Wei Wang 1216. 
+Does the post-crisis weakness of global trade solely reflect weak demand? 
+(May 2015) by Patrice Ollivaud and Cyrille Schwellnus 1215. 
+Estonia: raising productivity and benefitting more from openness 
+(May 2015) by Andreas Kappeler 1214. 
+Estonia: making the most of human capital 
+(May 2015) by Andrés Fuentes Hutfilter 1213. 
+The Czech labour market: documenting structural change and remaining challenges 
+(May 2015) by Sónia Araújo and Petr Malecek 1212. 
+Reforming the Slovak public sector 
+(April 2015) by Lilas Demmou and Robert Price 1211. 
+Spurring growth in lagging regions in the Slovak Republic 
+(April 2015) by Lilas Demmou, Gabriel Machlica and Martin Haluš 1210. 
+Skill mismatch and public policy in OECD countries 
+(April 2015) by Müge Adalet McGowan and Dan Andrews 1209. 
+Labour market mismatch and labour productivity: evidence from PIAAC data 
+(April 2015) by Müge Adalet McGowan and Dan Andrews 1208. 
+Maintaining an efficient and equitable housing market in Belgium 
+(April 2015) by Sanne Zwart 1207. 
+Determinants of the low female labour force participation in India 
+(April 2015) by Piritta Sorsa, Jan Mares, Mathilde Didier, Caio Guimaraes, Marie Rabate, 
+Gen Tang and Annamaria Tuske ECO/WKP(2015)39 16 1206. 
+Strengthening skill use and school-to-work transitions in the Czech Republic 
+(April 2015) by Sónia Araújo and Petr Malecek 1205. 
+Reforming the tax on immovable property: taking care of the unloved 
+(April 2015) by Hansjörg Blöchliger 1204. 
+Taxation and investment in Colombia 
+(April 2015) by Sarah Perret and Bert Brys 1203. 
+Efficiency and contestability in the Colombian banking system 
+(April 2015) by Christian Daude and Julien Pascal 1202. 
+Fiscal decentralisation in Colombia: new evidence regarding sustainability, risk sharing and 
+ " fiscal fatigue "  
+(April 2015) by Guillaume Bousquet, Christian Daude and Christine de la Maisonneuve 1201. 
+Effects of economic policies on microeconomic stability 
+(April 2015) by Boris Cournède, Paula Garda and Volker Ziemann 1200. 
+The 2013 update of the OECD's database on product market regulation – policy insights for 
+OECD and non-OECD countries 
+(April 2015) by Isabell Koske, Isabelle Wanner, Rosamaria Bitetti and Omar Barbiero 1199. 
+Improving taxes and transfers in Australia 
+(April 2015) by Philip Hemmings and Annamaria Tuske 1198. 
+Federal-state relations in Australia 
+(April 2015) by Vassiliki Koutsogeorgopoulou and Annamaria Tuske 1197. 
+Sharing the fruits of growth with all Mexicans 
+(April 2015) by Eduardo Olaberriá and Valéry Dugain 1196. 
+What makes Mexicans happy? 
+(April 2015) by Valéry Dugain and Eduardo Olaberriá 1195. 
+Improving the labour market integration of immigrants in Belgium 
+(March 2015) by Álvaro Pina, Vincent Corluy and Gerlinde Verbist 1194. 
+Raising the potential of the domestically oriented sector in Germany 
+(March 2015) by André Eid and Andrés Hutfilter 1193. 
+Improving transport infrastructure in Russia 
+(March 2015) by Alexander Kolik, Artur Radziwill and Natalia Turdyeva 1192. 
+Improving the business climate in Russia 
+(March 2015) by Arthur Radziwill and Yana Vaziakova 1191. 
+Determinants of female entrepreneurship in India 
+(March 2015) by Arnaud Daymard 

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">ENS Cachan</orgName>,
+							<address>
+								<addrLine>Département d&apos;économie et de gestion</addrLine>,
+							</address>
+							<orgName type="institution">École Polytechnique</orgName>,
+							<address>
+								<settlement>Cachan</settlement>,
+								<country>France</country>
+							</address>
+							<orgName type="laboratory">ENS Cachan, Département d&apos;économie et de gestion École Polytechnique Institut Universitaire de France Cachan</orgName>
+							<address>
+								<country>France</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

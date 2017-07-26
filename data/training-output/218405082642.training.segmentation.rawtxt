@@ -1,0 +1,1837 @@
+Please cite this paper as: Guellec, D., C. Martinez and M. Pluvia Zuniga (2009),  " Pre-
+Emptive Patenting: Securing Market Exclusion and Freedom 
+of Operation " , OECD Science, Technology and Industry 
+Working Papers, 2009/08, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/218405082642 OECD Science, Technology and Industry 
+Working Papers 2009/08 Pre-Emptive Patenting SECURING MARKET EXCLUSION AND FREEDOM 
+OF OPERATION Dominique Guellec, Catalina Martinez, 
+Maria Pluvia Zuniga JEL Classification: C25, C51, K41, L00, L20 Unclassified DSTI/DOC(2009)8 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 09-Dec-2009 
+___________________________________________________________________________________________ 
+English text only DIRECTORATE FOR SCIENCE, TECHNOLOGY AND INDUSTRY PRE-EMPTIVE PATENTING: SECURING MARKET EXCLUSION AND FREEDOM OF 
+OPERATION STI WORKING PAPER 2009/8 
+Statistical Analysis of Science, Technology and Industry Dominique Guellec, Catalina Martinez and Pluvia Zuniga JT03275947 Document complet disponible sur OLIS dans son format d'origine 
+Complete document available on OLIS in its original format DSTI/DOC(2009)8 
+Unclassified English text only DSTI/DOC(2009)8 2 STI Working Paper Series The Working Paper series of the OECD Directorate for Science, Technology and Industry is designed 
+to make available to a wider readership selected studies prepared by staff in the Directorate or by outside 
+consultants working on OECD projects. The papers included in the series cover a broad range of issues, of 
+both a technical and policy-analytical nature, in the areas of work of the DSTI. The Working Papers are 
+generally available only in their original language – English or French – with a summary in the other. Comments on the papers are invited, and should be sent to the Directorate for Science, Technology 
+and Industry, OECD, 2 rue André-Pascal, 75775 Paris Cedex 16, France. The opinions expressed in these papers are the sole responsibility of the author(s) and do not 
+necessarily reflect those of the OECD or of the governments of its member countries. www.oecd.org/sti/working-papers OECD/OCDE, 2009 
+Applications for permission to reproduce or translate all or part of this material should be made to: 
+OECD Publications, 2 rue André-Pascal, 75775 Paris, Cedex 16, France; e-mail: rights@oecd.org DSTI/DOC(2009)8 3 PRE-EMPTIVE PATENTING: SECURING MARKET EXCLUSION AND FREEDOM OF OPERATION 
+♣ Dominique Guellec 1 , Catalina Martinez 2 and Pluvia Zuniga 3 1 Directorate for Science, Technology and Industry, OECD 
+2, Rue André Pascal, 75775 Paris CEDEX 16 
+Tel: (33) 1 45 24 94 39. Fax: (33) 1 44 30 62 58 
+2 Institute of Public Goods and Policies, IPP-CSIC 
+Albasanz, 26-28, E-28037 Madrid, Tel: (34) 91 602 25 43 
+3 Independent consultant, 1300 New York Avenue, Washington, D.C. 
+Tel: (1) 202 623 1558. Fax: (1) 202 312 4041 ABSTRACT We investigate statistically the characteristics, functioning and incidence of pre-emptive patenting, 
+defined as patent filings whose main effect is to hamper the grant of other patents. Patent applications can 
+be used to prevent the grant of exclusive rights on markets and technologies to others in order to ensure 
+freedom of operation to their holder or keep patent-less competitors out of the market. Combining data 
+from examination outcomes and prior art at the European Patent Office (EPO), we develop a methodology 
+to identify pre-emptive patent applications. We find evidence of pre-emption associated to patent 
+applications cited as compromising patentability while being deemed non inventive. Furthermore, amongst 
+them, those which are withdrawn by the applicant have the strongest pre-emptive power. The coincidence 
+of low inventiveness and high pre-emptive impact supports the idea that some of these patents may be 
+strategically designed by their applicants to block patenting by others. Keywords: Patents, citations, pre-emptive patenting, blocking patents, 
+offensive and defensive patenting. JEL-classification: C25, C51, K41, L00, L20 ♣ We thank seminar audiences at the Université de Paris 1-CES, Université de Paris 2-ERMES, University 
+College Dublin, Universitat Autònoma de Barcelona and participants at the EPIP 2007 conference (Lund, 
+20-21 September 2007), the 3rd ZEW conference on the economics of innovation and patenting 
+(Mannheim, June 13-14 2008), and the Conference Knowledge for Growth: European Strategies in the 
+Global Economy (Toulouse, 7-9 July 2008) for their comments. The views expressed in the paper are those 
+of the authors and do not necessarily reflect those of the OECD (Organisation for Economic Co-operation 
+and Development) nor of the CSIC (Consejo Superior de Investigaciones Cientificas). We thank Stéphane 
+Maraut for his aid in the creation of the specific database of patent indicators needed for this research. DSTI/DOC(2009)8 4 BREVETS PRÉEMPTIFS: S'ASSURER L'EXCLUSIVITÉ DU MARCHÉ ET LA LIBERTÉ DE MANOEUVRE 
+♣ Dominique Guellec 1 , Catalina Martinez 2 et Pluvia Zuniga 3 1 Direction de la science, de la technologie et de l'industrie, OCDE 
+2, rue André Pascal, 75775 Paris CEDEX 16 
+Tél: (33) 1 45 24 94 39. Fax: (33) 1 44 30 62 58 
+2 Institute of Public Goods and Policies, IPP-CSIC 
+Albasanz, 26-28, E-28037 Madrid, Tél: (34) 91 602 25 43 
+3 Independant consultant, 1300 New York Avenue, Washington, D.C. 
+Tél: (1) 202 623 1558. Fax: (1) 202 312 4041 RESUMÉ Nous analysons statistiquement les caractéristiques, le fonctionnement et les effets des brevets 
+préemptifs, définis comme des (demandes de) brevets dont l'effet principal est d'empêcher la délivrance 
+d'autres brevets. Les demandes de brevets peuvent être utilisées pour empêcher la délivrance de droits 
+exclusifs à d'autres parties sur des marchés et des technologies en vue d'assurer la liberté de manoeuvre à 
+leur titulaire ou de maintenir des compétiteurs sans brevets à l'écart du marché. Combinant des données du 
+résultat de l'examen et de l'art antérieur de l'Office Européen des Brevets (OEB), nous développons une 
+méthodologie qui identifie les demandes préemptives de brevets. Nous trouvons des évidences de 
+préemption pour des demandes de brevets citées comme compromettant la brevetabilité d'autres demandes 
+alors qu'elles ne sont pas elles-mêmes jugés inventifs. De plus parmi elles, celles qui sont abandonnées par 
+le demandeur lui-même ont le pouvoir préemptif le plus fort. La coïncidence de faible inventivité et de 
+pouvoir préemptif fort suggère que certaines de ces demandes de brevets sont stratégiquement conçues par 
+leur titulaire en vue de bloquer la prise de brevet par d'autres. ♣ Nous remercions les participants à Université de Paris 1-CES, Université de Paris 2-ERMES, University 
+College Dublin, Universitat Autònoma de Barcelona et les participants à la conférence EPIP 2007 (Lund, 
+20-21 Septembre 2007), 3rd ZEW conference on the economics of innovation and patenting (Mannheim, 
+juin 13-14 2008), et la conférence Knowledge for Growth: European Strategies in the Global Economy 
+(Toulouse, 7-9 juillet 2008) pour leurs commentaires. Les opinions exprimées sont celles des auteurs et ne 
+reflètent pas nécessairement celles de l'OCDE (Organisation de coopération et de développement 
+économiques) ni de la CSIC (Consejo Superior de Investigaciones Cientificas). Nous remercions Stéphane 
+Maraut pour son assistance dans la création de la base de données spécifique d'indicateurs de brevets 
+utilisée pour cette recherche. DSTI/DOC(2009)8 5 TABLE OF CONTENTS 1. INTRODUCTION ............................................................................................................................... 6 2. BACKGROUND ................................................................................................................................. 7 2.1. 
+Pre-emptive patenting ................................................................................................................. 7 2.2. 
+Withdrawing pre-emptive patent filings ..................................................................................... 9 3. DATA ................................................................................................................................................ 11 4. EMPIRICAL EXAMINATION ......................................................................................................... 12 4.1. 
+The model ................................................................................................................................. 13 4.2. 
+Results ....................................................................................................................................... 14 5. THE PROFILE OF PRE-EMPTIVE PATENT FILINGS ................................................................. 16 5.1. 
+The model ................................................................................................................................. 18 5.2. 
+Results ....................................................................................................................................... 19 6. CONCLUSION .................................................................................................................................. 22 BIBLIOGRAPHY ......................................................................................................................................... 24 ANNEX 1: INFORMATION FROM PATENT REFERENCES ................................................................. 27 ANNEX 2 ..................................................................................................................................................... 29 DSTI/DOC(2009)8 6 1. 
+INTRODUCTION The traditional role of patents is to provide their holder with an exclusionary power on the use of a 
+particular invention. As evidenced in different business surveys, certain patents, instead, are filed by firms 
+in order to prevent others to obtain this power (Cohen et al., 2002; Duguet and Kabla, 1999; Blind et al., 
+2006). The use of patents aimed at preventing other parties to obtain a patent on a related invention points 
+to the central role of patents in the technology and market strategy of firms. In this paper we aim at identifying patent applications which are used to pre-empt others from getting 
+their patents granted. We evaluate the idea that generating prior art through the patent system may act as a 
+barrier to entry into a technology field for potential or actual rivals. Patent applications can be used as 
+defensive strategic mechanisms to prevent the grant of exclusive rights on markets and technologies to 
+others while ensuring freedom of operation to their applicants (De Rassenfosse and Guellec, 2009). 
+Applicants may file patents at the periphery of an important invention with the single purpose of limiting 
+patenting of related inventions by others. There is a strategic motivation to disclose inventions for the 
+simple reason that it generates prior art: it makes knowledge advances public and not patentable, limiting 
+the possibilities for rivals to patent inventions related to the disclosed information. Theory explains that 
+disclosure extends the patent race (Baker and Mezzetti, 2005; Bar, 2006) which raises the costs of 
+competing (making some firms get out of the race) but allows firms to gain time until a breakthrough 
+discovery is made. It can then be attractive for both leaders and follower companies and will depend on 
+specific circumstances; how far the lagging firm is in the race; the asymmetry between firms in investment 
+costs, etc. We hypothesise that if pre-emption of patenting of related inventions by others is the main 
+purpose, disclosure through the simple publication of a patent application can be enough to fulfil this 
+objective. Applicants would file patent applications  " defensively "  to make sure they are generating visible 
+prior art, which is likely to compromise the novelty of other applications, and may subsequently abandon 
+the patent process once the goal is achieved. Withdrawn applications can thus be characterised as mainly 
+defensive, as they endow their owner with no exclusive right per se (as no patent is granted) but are 
+depriving their competitors of a legal means to limit freedom of operation on the market. The increasing patenting activity worldwide (it has more than doubled in the United States and in 
+Europe since the mid-1990s) suggests that businesses are devoting more resources to protect their 
+intellectual property with patents or to defend themselves against the patents of others. In this setting, pre-
+emptive patenting strategies would be both an outcome and a factor of the increasing number of patent 
+applications: they are partly a reaction to the growing number of applications which might hamper the 
+freedom to operate of businesses, and they contribute themselves to the patents  " arms race "  by triggering 
+in turn reactions of competitors. 1 Even if the patentee does not himself plan to pursue patent protection (get 
+a grant), defensive patenting can be an important instrument to ensure market exclusion and preserve 
+freedom to operate and thereby appropriation of economic returns from actual patented inventions. We provide new empirical evidence on the functioning and characteristics of pre-emptive patents, 
+understood as patents that are filed to hamper the patentability of other inventions. There are several 
+motivations underlying this investigation. First of all, there is ample anecdotal and survey evidence 
+pointing to the existence of strategic blocking but few statistical analyses at the patent level have been done 
+to date to explore these issues. The empirical examination of pre-emptive patenting is important to the 
+extent that these strategies are fundamentally conceived to ensure and/or preserve market exclusion which 
+is the first reason to patent. Second, research on the role of withdrawals as pre-emptive mechanisms hardly 1 The effect of this kind of patents on the overall quality of the patent system is however not clear: on the 
+one hand, they can help maintain the quality of granted patents, when they hamper the patentability of bad 
+applications; on the other hand, they may be of relatively low quality themselves. DSTI/DOC(2009)8 7 exists. A common assumption in survey studies is that strategic purposes are associated to patents that are 
+granted, that is, applicants always finalise the patenting process. This paper will show that this is not 
+necessarily the case, as having a grant is not always needed in order to hamper the grant of other patents. 
+Lastly, statistical evidence of the importance of this type of patents in total patenting activity (i.e. over time 
+and across technologies), their functioning and characteristics is almost nonexistent. This paper attempts to 
+fill these gaps. Combining data from prior art and examination outcomes, we develop a methodology to identify 
+patent filings consistent with pre-emption motivations. Patent data can be helpful in shedding light on the 
+strategic behaviour by applicants and the use of the patent system and is therefore complementary to 
+anecdotal evidence and survey-based studies. We analyse search and examination outcomes of patent 
+applications filed to the European Patent Office (EPO) between 1990 and 2000 and relate them to the 
+different categories assigned by examiners in the search reports to determine patentability. We exploit the 
+information provided by patent examiners in search reports of prior art, where patent references are 
+labelled as: i) relevant to the state of the art (cited as A), or ii) compromising the patentability of the citing 
+application (cited as X, Y or E). One application can be both cited as i) in certain cases and as ii) in other 
+cases. Based on this information, we investigate the existence of pre-emptive practices in patenting by 
+looking at the influence of patent references on the fate of other (citing) patents and relate this impact to 
+the technical contribution of cited patent references and their administrative status (i.e. pending, 
+withdrawn, granted, refused). The paper is organised as follows. After some background information and a literature survey, we 
+present our empirical model aiming to identify pre-emptive power in cited references. A multinomial 
+model is conducted to identify relations between certain classes of patent references cited in search reports 
+and the likelihood of refusal and withdrawal of their corresponding citing patents. Once the type of 
+references with the strongest  " pre-emptive power "  are identified, we proceed to characterise them by 
+comparing attributes with other types of filings with the aid of probit models. Based on the literature on the 
+value of patents, we compare characteristics of inventions such as scope, research costs (number of 
+inventors), cumulativeness of invention and scientific content. Sector-specific analyses are also conducted 
+for biotechnology-pharmaceuticals and electronics. Lessons and policy implications are discussed at the 
+end. 2. 
+BACKGROUND 2.1. 
+Pre-emptive patenting Defensive patenting is used by firms to secure freedom to operate while at the same serves to exclude 
+others from markets (De Rassenfosse and Guellec, 2009). 2 It can be used by a firm to prevent an invention 
+related to one of its own inventions from being patented by a rival. Defensive patents are essentially 
+conceived to keep others off a specific technology by reducing their expected profit from investing in it 
+(raising entry barriers). To pre-empt the entry of others into a technology field (and market) a firm wishing 
+to protect some patented core invention may also patent  " substitutes "  to foreclose that possibility to rivals 
+(e.g. chemicals and pharmaceuticals). A firm can indeed try to prevent attacks through building patent 
+fences to protect a specific core technology, filing a number of patents to protect closely related and even 2 While there is no agreed definition of strategic (in contrast to traditional) patenting, most experts recognise 
+two main orientations, offensive and defensive (Arundel and Patel, 2003; Shapiro, 2006). Offensive 
+patenting is conceived to threaten, attack and weaken others. It can be used to prevent competitors from 
+using a technology or to restrain their freedom to operate by filing patents at the margin of their areas of 
+activity (covering incremental innovations on its periphery). Hence offensive patents can serve to leverage 
+opportunistic licensing deals or advantageous settlement conditions from litigation threats (Shapiro, 2006), 
+a practice known as the business core of the so-called  " patent trolls " . DSTI/DOC(2009)8 8 overlapping inventions. In some cases, the firm may have no intention of commercialising those inventions 
+and aims exclusively at pre-empting entry. The motivation for pre-emptive patenting has been analysed in the theoretical economic literature. 
+When entry into an industry can only take place through the invention and patenting of a substitute for a 
+monopolist´s product, Gilbert and Newbery (1982) show that it is rational for the incumbent, under certain 
+conditions, to pre-empt entry of potential competitors by patenting the substitute and letting the patent 
+sleep (by neither producing the protected invention nor licensing the patent) when it is not profitable to 
+produce both the original product and the substitute. Patenting a substitute technology would always be 
+valuable to the incumbent because it preserves monopoly profits, which typically exceed the duopoly 
+profits that the incumbent would obtain with entry. 3 Empirical studies investigating the strategic uses of patents are often based on qualitative information 
+(company declaration of uses) coming from business surveys, where strategic motives, such as blocking 
+competitors and preventing suits, are usually amongst the top motivations to patent, right after the 
+traditional motive of protecting inventions from imitations. According to the Carnegie Mellon Survey 
+results in the United States and Japan, the prevention of rivals from patenting related inventions, which 
+they call patent blocking, is found to be the most pervasive motive for patenting after the prevention of 
+imitation for 82% of United States and 93% of Japanese respondents (Cohen et al., 2002). 4 Accordingly, 
+defensive patenting is motivated notably when inventions held by different owners are related ( " economic 
+complements " ); that is, when, to create a single commercialisable product, separately patentable inventions 
+need to be combined, which is commonly the case in complex product industries. 5 In such cases, holding a 
+patent on one of these elements can block the acquisition of exclusive property rights over the 
+commercialisable invention as a whole. Using information from the US Carnegie Mellon survey, Ceccagnoli (2008) shows that pre-emption 
+-declared by companies as the motivation to patent -tends to improve remarkably the appropriability of 
+returns to R&D (especially for incumbents with strong market power and facing high threats of entry), as 
+evidenced by the positive impact on the stock market valuation of a firm's R&D assets. Hence investors 
+price the reinforced value of assets when market power is protected with entry foreclosure, consistently 
+with the theoretical predictions of Gilbert and Newbery. 3 By the same logic, in the absence of ex-ante market power there would be no incentive to pre-empt for 
+incumbents because profits with pre-emption, net of R&D and patenting costs, would always be negative. 
+For the pre-emption threat to be credible, the incumbent needs to commit the R&D needed to develop the 
+innovation even if it is profitable not to employ the innovation once produced. Another basic result from 
+the pre-emptive patenting model of Gilbert and Newbery is that the more drastic the underlying innovation 
+on which the R&D competition is based, the lower the incentives for and the profits with pre-emptive 
+patenting. 4 In France, Duguet and Kabla (1998) find that securing technological room to manoeuvre is the decisive 
+driving force behind strategic patenting. Defensive blocking and improving negotiation positions were 
+named by 62% of all enterprises as reasons for patenting. In Germany, Blind et al. (2006) find that 
+defensive blockage of competitors (i.e. securing own technological flexibility) is deemed important for 
+72% of companies, while offensive blockage of competitors (i.e. hindering competitors from technological 
+developments) is deemed important by 69%. 5 In the US semiconductor industry, Hall and Ziedonis (2001) report evidence that the surge in the patent 
+propensities of firms since early 1980s (since the  " pro-patent" shift) was mainly driven by the aggressive 
+defensive patenting activities of large-scale manufacturing firms as well as the increased reliance on 
+patents by entrants. DSTI/DOC(2009)8 9 Alternatively, some researchers have started to rely on information contained in patent documents, 
+such as filing procedures and citations, to investigate strategic behaviour in patenting. 6 Some studies use 
+citation categories in EPO search reports, notably those compromising patentability of new inventions (X, 
+Y and E citations) to infer  " blocking strategies "  by applicants. Harhoff et al., (2008) propose measures of 
+ " mutually blocking "  patent strategies between companies based on the identity of the applicants of  " critical 
+references " , that is,  " classified as limiting the patentability of the invention to be patented " . 7 Grimpe and 
+Hussinger (2008) evaluate the  " blocking potential "  of patent portfolios based on the number of conflicting 
+forward citations they received and find that the deal value of a target in merger and acquisitions in Europe 
+increases with the blocking potential of its patent portfolio. Our study pertains to the latter lines of research, relying on information contained in patent documents 
+to infer strategic applicant behaviour. We differentiate from them in looking at the examination resolutions 
+and the characteristics of the (patent) prior art to infer pre-emption motivations. We look in particular at 
+the technical contribution and legal status of cited patent references, aspects whose combined analysis has 
+so far been neglected. 2.2. 
+Withdrawing pre-emptive patent filings An important distinction between offensive and defensive patents is that the latter do not need to be 
+legally strong to fulfil their pre-emptive role – they just need to disclose the relevant information. 8 
+Defensive patents do not need to be granted, as the uncertainty created by their filing and disclosure may 
+serve their objectives without it being necessary to assert them in court. When this is the case, defensive 
+patenting can be compared with other types of disclosures such as publishing inventions using commercial 
+disclosure services or specialised journals. 9 However, patents differ from other means traditionally used for defensive disclosures in a number of 
+important aspects: i) using patent filings to disclose inventions keeps the possibility open for the applicant 
+to seek patent protection on outcomes from forward or parallel research (if patentability criteria are 
+accomplished), whereas defensive publishing (i.e. journals, Internet) destroys the novelty of an invention 
+and thus prevents patenting (or raises the patentability threshold) for all, including its inventor; ii) the 
+patent applicant can use the  " pending patent "  condition to his advantage from the moment of filing 6 Graham and Mowery (2004) find evidence on the strategic use of patent application procedures by 
+applicants in the United States through the system of continuation applications. Other studies suggest that 
+challenging the validity of patents in opposition procedures at EPO or re-examination procedures at 
+USPTO is not only related to value but also to strategic motivations (see Harhoff and Hall, 2002; for the 
+case of comestics). Harhoff and Reitzig (2004) use categories of patent references in their model 
+explaining the likelihood of EPO opposition in the pharmaceutical and biotechnology fields, finding that if 
+the validity of patents granted had been questioned by the examiner (by including conflicting references in 
+their search report), third parties have more ground to challenge them through the opposition system. They 
+concluded that the likelihood of opposition increases with patent value and is particularly frequent in areas 
+with strong patenting activity and with high technical or market uncertainty. 7 Page 15 in Harhoff et al., (2008). 8 Offensive blocking aims to ensure or strengthen the control of the blocking party over a technical field, 
+which can happen through various channels. If the blocking patent is granted, it gives exclusionary power 
+to its holder, hence direct control, as well as enforceability in the face of potential infringements or to 
+leverage licensing agreements. 9 Two examples of commercial defensive publishing services are www.researchdisclosure.com and 
+www.ip.com. They present themselves as a low-cost alternative to patents for disclosing prior art with the 
+aim to prevent others from patenting the same invention. In turn, the IBM Journal of Technical 
+Disclosures, published between 1958 and 1998, is one example of a journal issued by a firm to disclose its 
+own inventions. DSTI/DOC(2009)8 10 (e.g. trying to signal that he has a large likelihood of getting a grant and may thus be able to claim damages 
+in the future if there is infringement); iii) patent applications are the most visible type of prior art to patent 
+examiners; iv) patent filings have an incontestable time stamp; v) the contribution to prior art is made when 
+the application is published, usually 18 months after filing, frequently long before its examination is 
+completed or even started, and irrespective of the application being withdrawn or pursued to the end (the 
+applicant can withdraw or abandon the patent application); vi) EPO and PCT (Patent Co-operation Treaty) 
+filing fees represent a very small share of the full costs associated with getting patent protection (at EPO 
+the lion's share corresponds to the cost of validating protection at the national level after granting); 
+vii) drafting claims in a patent application may be a more effective way to define the scope of an invention 
+in legal terms than its description in a journal; and lastly, viii) drafting a patent is usually more costly than 
+describing a technical disclosure; it requires a combination of technical and legal expertise at a cost which 
+needs to be incurred in addition to patent filing fees and other related costs. Recent theoretical studies have shown that defensive publishing may be used by firms to extend the 
+patent race because it can help gain time by raising the patentability threshold and thus delay patent filings 
+until further research is done (Baker and Mezzetti, 2005; Bar, 2006). For a firm trailing behind, a longer 
+race might offer an opportunity to catch up, while for a leading firm, extending the race raises the costs of 
+competing, which will in certain circumstances discourage the laggard from racing so aggressively (Baker 
+and Mezzetti, 2005). In particular, a firm that holds a patent over a core technology may find it worthwhile 
+to publish in order to enjoy the stream of payoffs from that patent for a longer period of time. 10 Yet the 
+empirical evidence on these propositions or on the importance of these practices in firms' patenting 
+strategies is hardly existent. Henkel and Pangerl (2008) in one of the few existing empirical studies of defensive disclosures, based 
+on interviews to German firms, show that defensive publishing, understood as an  " insurance against being 
+excluded from use of the respective technology " , is widely practiced through a variety of methods 
+including the patent system (firms use specialised internet providers, peer-reviewed journals or public 
+notice boards, etc.). Eleven companies out of 37 (30% of their sample), most of them large ones, claimed 
+to practice defensive publications systematically by filing patent applications (i.e. applying for a national 
+patent and then letting the application lapse, so that it is deemed withdrawn by the patent office). One of 
+the largest German firms interviewed recognised that it published defensively about 30% of its inventions 
+using the patent system this way. There are several economic advantages associated with withdrawals as a means for defensive 
+patenting compared to other forms of strategic patenting such as offensive patents – which are more likely 
+to be granted. Withdrawals may imply a less costly strategy to deter entry by others into patenting: 
+applicants can withdraw the patent application once the goal of generating prior art is achieved (without 
+incurring all the costs required to continue the patent process). 11 In addition, the level of R&D investment 
+needed to make the pre-emption threat credible may be lower than when the objective is to get a grant, as 10 When the firms bear different investment costs, the low cost firm may gain from publishing if by 
+prolonging the race it drives the high cost firm out of the race (Bar, 2006). This also demonstrates that a 
+lagging firm may have stronger incentives to disclose to prevent the leader from having the patent, the 
+farther it is in a race and the closer the rival is to winning. 11 A recent survey shows that more than half of the costs of a European patent (56% of EUR 31 580 for a 
+Euro-direct patent) are related to validation, translation, national fees and costs associated with getting 
+protection in the designated European states once the patent has been granted at EPO (Roland Berger 
+Market Research, 2005; van Pottelsberghe and François 2008). DSTI/DOC(2009)8 11 the filing can be done earlier in the process, when the invention is not yet mature, or be done simply by 
+repackaging prior art. 12 Naturally, a significant number of withdrawals correspond to filings that do not embody sufficient 
+novelty to be deemed patentable in the view of the applicant or the EPO, possibly after a communication 
+from the examiner about the high likelihood of refusal. Induced withdrawals or anticipated refusals occur 
+for up to 23% of all applications at the EPO (Stevnsborg and Van Pottelsberghe, 2007). In fact, Lazaridis 
+and Van Pottelsbergue (2006) show that up to 54% of withdrawals at the EPO may be considered as 
+induced by the work of examiners (i.e. withdrawals that occur just after the search report or after the 
+communication that takes place during the substantial examination process) and can be then interpreted as 
+anticipated refusals. There is recent statistical evidence that withdrawals are associated with defensive purposes (amongst 
+other reasons). The EPO Applicant Panel Survey 2007 report contains a small section on the reasons for 
+withdrawals where telecommunications, followed by civil engineering and thermodynamics, appear as the 
+fields where the defensive component is more widespread (during 2006, 99% of applicants in 
+telecommunications and 32% in civil engineering and thermodynamics who had withdrawn filings, 
+declared that 21-50% of their withdrawals were done defensively). 13 In contrast, biotechnology and 
+chemicals are the fields where defensive withdrawals are more frequent, but the practice is concentrated in 
+fewer firms (8% of applicants in biotechnology, pure and applied organic chemistry and polymers with 
+defensive withdrawals during 2006 report that 51-80% of their withdrawals were defensive). 14 3. 
+DATA We analyse patent filings at the EPO over the period 1990-2000 and, combining information on 
+examination outcomes and cited prior art, develop a methodology to identify pre-emptive patent filings 
+(i.e. having the capacity to hamper the grant of other patents). We investigate whether pre-emptive effects 
+can be related to the patent references (backward citations) found in the search reports of patent 
+applications. Our main source is the EPO Worldwide Patent Statistical Database (PATSTAT) April 2007 edition. 
+Information on citations, application authority, country of origin of the applicant and (earliest) priority 12 On the contrary, strategic patents with an offensive content -as they would more concern patents aiming at 
+putting obstacles to others in order to raise profitable opportunities or force technology exchanges (a tax 
+over other inventions), might imply the following conditions are credible: the applicant can afford the 
+(high) costs of patenting and is capable of supporting the costs until the granting; the applicant has 
+ " credible "  R&D capabilities to continue research, and even more important; the applicant has proven 
+resources (and experience) in assuming litigation and transaction costs. 13 In the European Applicant Panel Survey (2007) the reasons for withdrawal listed are: not complying with 
+formal requirements, not achieving patentability criteria, e.g. novelty, non-obviousness and industrial 
+applicability (i.e. discouraging search report written by EPO, negative communications sent out by EPO 
+during substantive examination), reduction of the scope of the invention required by the EPO (which 
+translates into less economic expectations), disclosure of new prior art during the substantive examination 
+of the file, defense through disclosure, fading perceived economic importance of the invention and other 
+reasons. The most frequent reasons for withdrawal are: not complying with formal requirements, 
+discouraging search report written by the EPO, and negative communications sent out by the EPO during 
+substantive examination. 14 The document does not report total percentages of withdrawn filings by motivation. The results of the EPO 
+Applicant Panel Survey 2007 on Future Filings (European Patent Office, 2008), addressed to a 
+representative sample of applicants having filed patents at EPO in 2006, and can be found at www.epo.org. 
+Results referred to here can be found in Tables 95 and 96, pp.106-107. DSTI/DOC(2009)8 12 years comes from PATSTAT. Other EPO sources have been used to draw information on the main IPC 
+class (first one listed). Information on refusals and withdrawals, not included in PATSTAT, was extracted 
+from other EPO sources and includes up-to-date information, as of May 2007, on the status of published 
+European Patent (EP) filings before that date. 15 The search reports for direct EPO applications and for international applications filed at EPO to 
+follow the PCT route at WIPO are a very rich source of information about potentially conflicting 
+interactions between patents and the motivations of patent holders. They provide information on the state 
+of the art relevant for the patentability of the patent application. The fact that guidelines explicitly require 
+examiners to be objective and selective in the documents referenced in their prior art search, makes search 
+reports even more suitable to monitor state of the art that affects the patentability of new inventions, 
+distinguishing between conflicting and relevant prior art (Michel and Bettels, 2001; Webb et al., 2005). Patent examiners classify relevant prior art in order to characterise the novelty and inventive step of 
+the claimed invention. Citation categories X, Y and E designate prior patent art that compromises the 
+novelty and patentability of new applications, whereas citation category A corresponds to patent references 
+that are relevant to the state of the art (see Annex 1 for more information). Patent references cited under the 
+X citation category would be the most important ones to invalidate the novelty or inventiveness of one or 
+more claims within a patent application. If the search report of an application includes a patent reference 
+categorised as X associated to a particular claim or claims, it means that the application does not meet the 
+requirements of novelty or inventive step with respect to that claim or claims. After receiving the search 
+report, the applicant could withdraw the application in view of an anticipated refusal, or revise those claims 
+in an attempt to obtain patent protection for other parts of the invention, or proceed with the application 
+without changing anything, hoping for a grant regardless of the unfavourable prior art search report. 4. 
+EMPIRICAL EXAMINATION We consider that pre-empted applications would be filings for which patent protection has been 
+refused by the patent office or which are directly withdrawn by applicants before a decision is reached at 
+the office. We would expect them to have more patent citations indicating conflicting prior art than granted 
+patents, but the question is whether those citations are conflicting because they represent a relevant 
+contribution to the art and thus  " naturally "  block further filings, or because they were strategically 
+designed to limit patentability in a specific field. We make a distinction between the following four categories of patent applications based on their full 
+history of forward citations: the non-cited (do not appear as a reference in any later filing at EPO); the 
+'Pure-X' patent references (cited only as conflicting, i.e. in the X, Y or E category), the 'Pure-A' patent 
+references (cited only as state of the art, i.e. in the A category) and the 'X&A' patent references (cited both 
+as conflicting and state of the art in subsequent filings). Our category of interest is Pure-X, that is, 
+applications cited for compromising (partially or completely) the patentability of other applications, which 
+have never been cited as a reference to the general state of the art. It is therefore likely that their 
+contribution to the state of the art is not commensurate to their ability to prevent patenting by others. We 
+investigate the relative capacity of Pure-X cited applications to hamper the grant of other patents by 
+looking at the procedural outcome of their citing applications. We also examine whether their pre-emptive 
+power changes depending on their own procedural status: withdrawn, refused, granted or pending. As 15 EPO applications filed during that period but with no patent references in their search reports (because 
+their search report only included non-patent literature references or their search report has not been issued 
+yet, for example) or which were still pending by May 2007 (no examination decision taken at the EPO yet, 
+no withdrawal by the applicant either) are excluded from our analysis. As we are interested in specific 
+types of conflicting and state-of-the-art references, applications lacking patent references are excluded. DSTI/DOC(2009)8 13 mentioned above, we expect some filings that are withdrawn (and more likely within pure-X applications) 
+to be associated with pre-emptive filing strategies of applicants, that is, filing patents solely for defensive 
+purposes. Two points need to be mentioned concerning our methodology and results. First, the  " most powerful 
+pre-emptive patents "  are not necessarily observed (or easily observed) with the aid of patent data as they 
+will simply deter further patenting by other firms in the surrounding protected area. It is of course more 
+difficult to interpret the absence of patents in a given area than to interpret the information provided by 
+actual patent filings, and we only do the latter in this study. Further understanding is needed of the nature 
+of these patents and how to identify them. In this study, we focus on tractable patent filings that might aim 
+at pre-empting the patentability of other patent applications, based on the search reports provided by patent 
+examiners. Second, we would like to control for the nature itself of the invention regarding its quality (but 
+given the nature of data and the definition of categories of analysis, the inclusion of variables such as 
+forward citation would introduce redundancy in the models; e.g. see Lanjouw and Schankerman, 2001; 
+Harhoff et al., 1999); or other variables signalling technological importance such as patent family size 
+(Putnam, 1996), and account for other patent characteristics such as broadness of the invention; 
+e.g. number of claims (Lerner, 1994), etc. We should recall that given that some of these variables are frequently a result of the examination 
+(e.g. granted patents have a minimum threshold of quality as they accomplish the requirement of novelty 
+and inventive step), we are confronted with simultaneity between outcomes of examination and 
+characteristics of patents. Further, neither a theoretical framework nor an empirical structural model 
+linking all these variables exists to date; given the complexity of such a process. We are focusing here on 
+the information contained in the search reports (prior art), which is rather an exogenous factor (and we 
+control for technology classes, filing years and country of residence of the applicant). Yet our dummy 
+variables on the types of patent references will inevitably absorb effects related to other characteristics of 
+the application such as novelty. 4.1. 
+The model In order to identify the patent applications with the strongest pre-emptive power, we relate the fate of 
+a patent application to the characteristics of the patent references cited in its search report, controlling for 
+other aspects of the citing patent application, such as country of residence of applicants, technology field 
+and filing year. The possible outcomes of a patent application to the EPO with filing years 1990-2000 16 , are defined 
+as a categorical dependent variable j: j= 16 Although some withdrawals can be considered as anticipated refusals; as long as the decision to abandon 
+the patenting process depends on the applicant, we decide to keep it as an outcome separated from refusals. 1 if the patent application is granted 
+2 if the patent application is withdrawn 
+3 if the patent application is refused DSTI/DOC(2009)8 14 If the error terms are independent and identically Gumbel distributed, with location parameter 0 and 
+scale parameter x, the probability that a given patent application results in outcome j is given by: ∑ = + = 
+= 2 1 1 ) 
+| 
+Pr( k x x i 
+i j 
+x j 
+x e e 
+x 
+j 
+Y β β The multinomial logit model can only be justified under the IIA (Independence of Irrelevant 
+Alternatives) assumption (see Greene, 2003); the errors in the random utility model are assumed to be 
+independent across choices. 17 In other words, the ratio of the probabilities of any two alternatives is 
+independent from the choice set. Hausman and McFadden propose a way to test whether the IIA 
+assumption holds. 4.2. 
+Results In our sample of 425 582 non-pending citing EPO applications with filing years 1990-2000, 29% of 
+the filings contain at least one X patent reference, 21% at least two Y patent references (since they need to 
+be cited in combination with other patents, by definition), whereas 71% of applications report A patent 
+references. According to our groupings based on the whole history of forward citations, 19% of 
+applications cite patent references of the pure-X group and 34% patent references of the X&A group under 
+the X category. The most frequent type of patent references consists of X&A patent references cited as A, 
+by 46% of the filings, followed by the pure-A, cited by 38%. Summary statistics are given in Table A1 in 
+Annex 2. Table 1 provides the results for the different multinomial models. Two groups of factors are 
+considered and their influence tested on the fate of citing patent applications (granted, refusal and 
+withdrawal, with granted as the reference outcome) in two multinomial logit models: i) forward citation 
+profiles of patent references; and ii) forward citation profiles and procedural status of the patent references 
+(granted, withdrawn, refused, pending). All the independent variables are dummies referring to the fact of 
+the citing application having (or not) that type of backward citation in its search report. 18 We control for 
+technology fields (seven dummies designating technology areas as defined in the OST-INPI/FhG-ISI 
+nomenclature, 2 nd revision; the reference being class 7, construction-consumer goods), filing years of the 
+citing patents 1990-2000 (reference being 1990) and country of residence of the first applicant of the citing 
+patent (nine country dummies: US, JP, DE, FR, UK, CH, AU, CA and other countries; reference Canada). 
+The Small-Hsiao test indicates that the assumption of Independence of Irrelevant Alternatives has not been 
+violated (the null hypothesis of IIA cannot be rejected). 19 17 The IIA means first that the odds ratio above does not shift when alternative choices are added. Second, 
+when there is a nominal variable that is not really a choice, the IIA assumption says that there are no 
+factors affecting the probability that an observation falls into one category that: a) are left unexplained in 
+the model of this outcome, and b) also influence the chances that an observation ends up in a different 
+category. 18 We have evaluated the model using the number of references belonging to each of those citation groups. 
+The results are similar to those obtained with dummy variables. 19 The results of the Small-Hsiao test are: omitted outcome withdrawal: χ2 (29)=29.913 with 
+P>χ 2 =0.418; omitted outcome refusal: χ2 (29)=25.170 with P>χ 2 =0.669. DSTI/DOC(2009)8 15 In a first model (MNL Model 1 in Table 1: citation profile) we break down patent references into 
+different groups according to their forward citation history. 20 Thus, depending on how they are cited 
+elsewhere, we distinguish four groups: X/Y/E patent references of the pure-X group, X/Y/E patent 
+references of the X&A group, A patent references of the X&A group and A patent references of the pure-A 
+group. Absent strategic concerns, we would expect conflicting references which have been cited as 
+relevant state of the art in the search reports of other patent applications to have a stronger pre-emptive 
+power (e.g. provoking more withdrawals or refusals) than patents which are only cited as conflicting but do 
+not appear to be relevant to the state of the art. However, the results of this model contradict such 
+expectation, showing clearly that pure-X patent references have a stronger pre-emptive power than their 
+counterparts, and by far. More precisely, the probability of withdrawal of a patent application increases by 
+almost 8% when it cites at least one pure-X patent reference (probability of refusal increases 0.08%), 
+whereas citing as X a patent which has been elsewhere cited as A increases the probability of withdrawal 
+by almost 4%. The likelihood of withdrawal for applications with pure-X references is twice as large as 
+that of applications with patent references belonging to the X&A group. Patent references of the A 
+category, either when they have been cited as X elsewhere or when they have always been cited as A 
+(pure-A), diminish the probability of withdrawal of their corresponding citing applications. In a second model (MNL Model 2 in Table 1: citation profile and procedural status) we test the 
+influence of the procedural status of the three different groups of patent references used in the first model. 
+As mentioned earlier, without strategic filings we would expect granted patent references to be associated 
+with a higher likelihood of refusals or withdrawals (with respect to grants) of other patent applications than 
+withdrawn or refused patent references, or even pending ones, however, estimates indicate that by and 
+large the patent references with the strongest pre-emptive power are those withdrawn and belonging to the 
+pure-X group of patent references. Paradoxically, the probability of withdrawal increases almost 12% for 
+applications having withdrawn patent references of the pure-X group. Further, their impact is significantly 
+different from the impact of pure-X granted patent references; and significantly different from the pure-X 
+refused. 21 Overall, pure-X patent references have a positive influence on the probability of withdrawal of 
+their corresponding citing patent applications, compared to their grant, regardless of their status. 22 
+Interestingly, withdrawal seems to confer a  " pre-emptive "  trait to other classes of patent references too, as 
+withdrawn patent references under the A category also have a positive impact on the probability of 20 We first investigated whether specific types of references are associated individually more strongly with 
+citing outcomes. Not surprisingly, estimated marginal effects showed that conflicting references (X, Y and 
+E) and state-of-the-art citations (A) have a different incidence on the likelihood of a patent application 
+being eventually granted. Having at least one patent reference in a conflicting category increases 
+significantly the probability of withdrawal (more than 3% for Y and more than 6% for X and E), whereas it 
+is reduced by almost 4% when the patent application has at least one A patent reference, all else equal. 
+These results are consistent with the findings of Schneider (2007) showing that withdrawals are more likely 
+to occur when there exists conflicting prior art. Results of this regression are available upon request. 21 The χ 2 tests for equality of coefficients are significant at 1%: 450.59 for the former and 19.08, for the latter 
+comparison. 22 The coefficient of pending Pure-X references is not significantly different from the coefficients of 
+withdrawn Pure-X and refused Pure-X. DSTI/DOC(2009)8 16 withdrawal. This main finding holds when we conduct the analysis for two periods (patents being filed 
+during the period 1990-1995 and patents being filed during the period 1996-2000). 23 5. 
+THE PROFILE OF PRE-EMPTIVE PATENT FILINGS Let us now characterise those patent applications having the strongest pre-emptive power (Pure-X 
+withdrawn) as compared with other applications. First, they have increased over time roughly at the same 
+pace as total EPO filings (the share of Pure-X withdrawn has remained at about 3-4% between 1990 and 
+2000), which represents a substantial increase given that EPO filings have grown considerably in the past 
+years. 
+24 Their increase has been in contrast to a decrease in the number of total cited applications and total 
+withdrawn applications among the cited. The share of Pure-X withdrawn with respect to all cited has 
+passed from 7% in 1990 to 13% in 2000, whereas the share with respect to all withdrawn references has 
+increased from 26% to 51%. Figure 1. Growth of Pure-X withdrawn patent references Filing years 1990-2000 Source: PATSTAT, April 2007. 23 The strong pre-emptive power of pending pure-X patent references disappears when we consider filing 
+years 1990-1995 for the citing patents. The results of estimating Model 2 on cited status by sub-periods 
+(1990-1995 and 1996-2000) with the objective to isolate the influence of truncation due to pending citing 
+applications and pending patent references not only confirm the characterisation of pure-X withdrawn as 
+the category of patent references with the strongest pre-emptive power, but they also discard the influence 
+of pending patent references (of any category) finding it non-significant for the 1990-1995 period. We also 
+tested the influence of self-references, finding that the increase in the probability of withdrawal (with 
+respect to grant) for applications citing Pure-X patent references is roughly the same for both for self and 
+non-self references. 24 Applications appearing as withdrawn in our database could have been pending at the time the application 
+citing them was evaluated since records are continuously updated if legal status changes. The average 
+pendency time for examination (time between filing and grant) at the EPO was around 40.6 months in 2005 
+and decreasing with respect to previous years (1.9% with respect to 2004, see OECD 2009). Pending status 
+can be associated to several factors: growing complexity and volume of applications, increasing workload 
+at the patent office, strategic delay for request of examination (Van Zeebroeck et al., 2009; Harhoff and 
+Wagner, 2006). DSTI/DOC(2009)8 17 Table 1. Multinominal logit model on outcomes of EPO non-pending citing patent applications with respect to 
+types of cited patent references 
+Filing years of citing patent applications: 1990-2000 
+MNL 1 
+MNL 2 
+Citation profile 
+Citation profile and procedural status 
+Patent references 
+Refusal 
+Withdrawal 
+Refusal 
+Withdrawal 
+Marginal 
+Effect (S.E.) 
+Marginal 
+Effect (S.E.) 
+Marginal 
+Effect (S.E.) 
+Marginal 
+Effect (S.E.) X/Y/E of Pure-X 
+0.0008 
+(0.0007) 
+0.0741 *** (0.0021) 
+X/Y/E of X&A 
+-0.0012 * 
+(0.0006) 
+0.0388 *** (0.0018) 
+A of X&A 
+-0.0017 *** (0.0006) 
+-0.0351 *** (0.0017) 
+A of Pure-A 
+0.0001 
+(0.0006) 
+-0.0178 *** (0.0017) 
+X/Y/E of Pure-X granted 
+0.0005 
+(0.0008) 
+0.0358 *** (0.0023) 
+X/Y/E of Pure-X withdrawn 
+-0.0017 
+(0.0011) 
+0.1194 *** (0.0033) 
+X/Y/E of Pure-X refused 
+0.0176 *** (0.0033) 
+0.0746 *** (0.0079) 
+X/Y/E of Pure-X pending 
+0.0054 
+(0.0070) 
+0.0967 *** (0.0143) 
+X/Y/E of X&A granted 
+-0.0026 *** (0.0006) 
+0.0114 *** (0.0018) 
+X/Y/E of X&A withdrawn 
+0.0022 ** 
+(0.0009) 
+0.0770 *** (0.0027) 
+X/Y/E of X&A refused 
+0.0068 *** (0.0021) 
+0.0589 *** (0.0056) 
+X/Y/E of X&A pending 
+-0.0039 
+(0.0036) 
+0.0483 *** (0.0093) 
+A of X&A granted 
+-0.0026 *** (0.0006) -0.0505 *** (0.0016) 
+A of X&A withdrawn 
+0.0018 ** 
+(0.0008) 
+0.0134 *** (0.0024) 
+A of X&A refused 
+0.0029 * 
+(0.0017) 
+0.0037 
+(0.0048) 
+A of X&A pending 
+0.0014 
+(0.0043) 
+0.0055 
+(0.0092) 
+A of Pure-A granted 
+-0.0007 
+(0.0006) -0.0370 *** (0.0017) 
+A of Pure-A withdrawn 
+0.0020 ** 
+(0.0009) 
+0.0242 *** (0.0024) 
+A of Pure-A refused 
+0.0031 
+(0.0019) 
+0.0112 
+(0.0053) 
+A of Pure-A pending 
+0.0016 
+(0.0078) 
+0.0196 
+(0.0158) 
+Applicant countries 
+Yes 
+Yes 
+Yes 
+Yes 
+Filing years 
+Yes 
+Yes 
+Yes 
+Yes 
+Technology classes 
+Yes 
+Yes 
+Yes 
+Yes 
+Observations 
+425582 
+425582 
+Wald χ 2 
+20802.02 
+22782.58 
+Log pseudolikelihood 
+-314673.89 
+-313540.99 Note: (S.E.) stands for standard errors. Base outcome is  " granted " . Marginal effects of dummy variables are for discrete changes from 0 to 1 (all 
+independent variables are dummies). 'Pure X' are filings which have only been cited (up to end 2006) as either X, Y or E; 'X and A' are filings 
+which have been cited as X, Y or E and A; and 'Pure A' are filings which have only been cited as A. Robust standard errors in parentheses (S.E.). * 
+significant at 10%; ** significant at 5%; *** significant at 1%. We argue that the relative growth of pure-X withdrawn references may be partly due to a more 
+intensive use of patent filings strategically for defensive purposes. If it were a matter of quality only; if 
+these patent references had a stronger pre-emptive power, it means that something else other than their 
+technical content is at play, for instance their strategic positioning (in a patent portfolio; c.f. building a 
+picket fence around key inventions) or the way they are drafted. Do they correspond to more costly 
+inventions? Do they have stronger links with scientific knowledge? Are they narrower in scope? Are they 
+filed by firms with large or small patent portfolios? According to the literature (e.g. Gilbert and Newbery, 
+1982), we would expect Pure-X withdrawn applications to more likely be incremental and low-cost 
+inventions (aiming to protect or defend a given technology territory or an important breakthrough 
+invention already protected by patents). As regards the scope of the patent application, we may find DSTI/DOC(2009)8 18 different profiles, as the blocking of others may happen with both narrow and broad patents. 25 Broader 
+patents with a pre-emption motivation are deemed to generate pollution in the state of the art and therefore 
+confusion in the determination of novelty, whilst narrow patents may be designed to block a specific 
+competing invention. On the size of the patent portfolio of patent applicants, using company data on 
+patenting motivations by European companies (EPO Applicant Panel Survey), De Rassenffosse and 
+Guellec (2009) consistently find that companies declaring patenting in order to preserve freedom to operate 
+(defensive) hold larger patent application portfolios but of lower levels of quality (average family size). In 
+addition, in line with this rationale of defence, Lanjouw and Schankermann (2001) provide evidence that a 
+larger patent portfolio increases applicants' defence against opposition as it opens new settlement options 
+(e.g. licensing). We expect then that business applicants having large patent portfolios would tend to have 
+more strategic patents with defensive motivations: these companies would have more experience in 
+managing and drafting patent rights, would be more knowledgeable of the surroundings of their 
+technological territory (specialisation). 5.1. 
+The model Using probit models, we intend to identify the characteristics of inventions by comparing our pre-
+emptive categories with the rest of patents. Our sample corresponds to all applications filed by business 
+applicants in the period 1990-2000 and cited up to end 2006 in non-pending applications as of May 2007. 
+Recall that for identifying the category of pure-x withdrawn cited applications, we use all forward citations 
+accounted until the last year available in our data (2006). Hence filings made in 2000 have at least six 
+years to be referenced in the search reports of new patent applications. 26 As explanatory variables, we first include under the heading  " scope and cost "  the number of claims, 
+number of IPC classes (at the four-digit level) and the number of inventors (approximating costs of 
+inventions), respectively. Second, under the heading  " cumulativeness " , we include the number of 
+backward patent citations (which indicates cumulativeness of technology) and science linkages (i.e. share 
+of non patent literature references in all the backward citations of a patent application), which could 
+indicate more basic research, as well as the intensity of self patent references (i.e. share of self patent 
+references in all backward patent citations). Further, under the heading  " applicant's portfolio, we include 
+two variables regarding patenting activity by business applicants: the portfolio size (number of patent 
+applications accumulated by the end of the previous year) and a dummy controlling for  " first time "  
+patentees. 27 The dummy on  " first time "  patentees intends to capture the lack of experience in patenting 
+which might be associated with a higher rate of abandon (and anticipated rejection). As already mentioned, 
+some of the other variables already control for  " quality' attributes of inventions (notably number of 
+inventors, science linkage, cumulatively, etc.). Finally, we control for the impact of having the first 
+applicant residence in the United States, Japan, Germany, France, United Kingdom, Canada, Australia, 
+Switzerland and any other country (the reference category being Canada); and to control for differences 
+across technology fields, we rely on the broad technology classes correspondence with IPC classes 
+developed by OST-INPI/FhG and look at patent applications filed in electronics, instruments, chemicals-
+materials, pharmaceuticals-biotech, industrial processes, machines-mechanics-transport and construction-25 For the selection of patent applications filed by business applicants we have relied on data provided by the 
+OECD on EP patent applications by type of applicant (institutional affiliation as defined in the Frascati 
+Manual) based on the algorithm developed by van Looy et al., (2006) for Eurostat. 26 We have conducted the same probit regressions reported in this section breaking up the period of analysis 
+to patents being filed during 1990-1995 and 1996-2000 and the results are quite similar. Results are 
+available upon request. 27 For the construction of patent portfolios we have relied on a preliminary version of the OECD Harmonised 
+Names of Applicants database (HAN), kindly provided by Grid Thoma. DSTI/DOC(2009)8 19 consumer products (the latter being the category of reference). As for filing years, we consider the period 
+1990-2000 and take 1990 as the year of reference. We conduct two probit models to estimate: i) the likelihood of being a Pure-X withdrawn patent 
+reference against other references (cited in non-pending applications), and ii) the likelihood of being a 
+Pure-X withdrawn patent reference against all other references being withdrawn not categorised as Pure-X. 
+Table A2 in Annex 2 provides summary statistics for the samples of analysis. Results of the probit models 
+are set out in Table 2. In order to go further into the understanding of pre-emption and characteristics of 
+(very) defensive filings, we report regressions for chemicals-materials and biotechnology-pharma. 5.2. 
+Results In a first regression (Probit Model 1 in Table 2: Pure-X withdrawn v. other patent references), 
+we compare the factors affecting the likelihood of being cited as Pure-X and being withdrawn with respect 
+to any other cited patents. Patents being cited as conflicting (to others) and being abandoned have 
+significantly less numbers of claims, less numbers of inventors, and they have significantly more patent 
+references (in total), a stronger scientific content and a higher self-citation rate than other patent 
+applications. This evidence suggests that pre-emptive patent applications may cover  " repackaging "  
+inventions: inventions which are mainly a remix of existing art (more backward citations, both from the 
+patent and non patent literature) done at low cost (less inventors). Fewer inventors in a patent is associated 
+in the literature with lower cost patented inventions (Gambardella et al., 2005) whereas a higher number of 
+backward patent citations might be indicating a stronger cumulative (or inter-dependence) of the 
+technology. The coincidence of low inventiveness and high pre-emptive impact supports the idea that some 
+of these patents may be designed defensively by their applicants to strategically block patenting by others. 
+Further, the United States and the United Kingdom are more frequently a source of this type of patent 
+filings which could reflect either a business strategy or a patent attorney's strategy. 28 The results for pharma-biotech and chemicals-materials (which are the only technological fields in the 
+first regression for all technologies with positive and significant marginal effects) differ, between them and 
+from those obtained for all technologies, indicating that pre-emptive patenting works differently across 
+technology areas. In terms of characteristics of the invention, compared to the regression in the total 
+sample, only the number of patent references, and the science linkage matters for both chemicals and 
+pharma (there is no association with respect to the scope of the invention in terms of number of claims or 
+its complexity in terms of number of inventors). Although the model on the total sample shows no 
+association with the size of the patent portfolio of applicants, there is a significant impact in pharma-
+biotech and chemicals-materials (compared to construction–consumer products, 5% and 1% higher 
+probability respectively). This might reflect the higher value of individual patents in these fields (and 
+notably in pharma-biotech) than in other fields: this higher value justifies the use of (costly) defensive 
+patenting strategies for protecting high value patents or preventing competitors obtaining patent protection. 
+Pure-X withdrawn are also more likely to be self-references than other types of references in both fields, 
+which is probably linked to the result that the likelihood of this type of defensive patents increases with the 
+size of the patent portfolio (although the effect is quite small). Hence in these two technology areas, 
+business applicants with large patenting portfolios would be more frequently involved in strategic 
+patenting of a defensive nature through the use of withdrawals. Specifically in pharma-biotech, and 28 Interestingly, the investigation of the determinants of unused blocking patents (in the sense of aiming at 
+blocking competitors) based on PATVAL shows that compared to unused sleeping patents, the probability 
+of being in the former group increases for patents whose owner is a company with a United States parent. 
+In terms of technology effects, patents aiming at blocking are more likely to be found in chemicals and 
+pharmaceuticals (given the conditional probability of  " unused "  patents; see European Commission, 
+Evaluating the knowledge economy, Technical report, 2006). DSTI/DOC(2009)8 20 contrary to the average patent and to patents in chemicals-materials, broader patents in terms of IPC are 
+more likely to have pre-emptive effects (compared to the rest of patent filings). To take account of the fact that among the Pure-X withdrawn there are patents which might not be 
+strategic but simply poor quality patents, in a second regression (Probit Model 2 in Table 2: Pure-X 
+withdrawn v. other withdrawn patent references) we attempt to isolate the characteristics due to poor 
+quality in Pure-X withdrawals from the characteristics that might be more related to pre-emption (strategic 
+motivation) by comparing Pure-X withdrawn to other withdrawals (not being cited in this category). The 
+results are quite interesting: controlling for the different attributes reflecting quality (for which we expect 
+no significant differences between the two groups of patents: there is no significant difference in terms of 
+claims nor in science linkage or number of inventors), the Pure-X withdrawn still report a significantly 
+lower number of IPC classes, have more scientific content and tend to be filed by firms with larger patent 
+portfolios. Thus, they are intrinsically narrower, possibly because they target very specific domains or 
+specific rivals, they also build more intensively over existing knowledge codified in non patent literature 
+(scientific linkage) and are more likely to come from large patentees than other types of withdrawals. 
+Patents with a high science content may raise barriers in forward research as they may be disclosing very 
+embryonic or very general research that may block further or parallel developments of technology 
+(e.g. given the generality of research, cross-technologies effects of knowledge, or the patenting of 
+inventions that serve as instruments of research in different domains, etc.). The fact that the 'first patentee' 
+effect is not significant in this model (but was in the first probit) shows that first-time patentees tend to 
+withdraw due to lack of experience rather than strategic behaviour, as it is associated with all types of 
+withdrawals, be they pure X or not. This is consistent with previous studies on the factors affecting the 
+probability of withdrawal, which has been found to be higher for small-and medium-sized companies and 
+independent inventors, who might more frequently lack experience in drafting patents and estimating the 
+economic value of inventions (Iversen and Kaloudis, 2006; Sterlacchini and Schettino, 2008). We find important differences in the second regression for all technologies and the individual ones for 
+chemicals and pharma-biotech (again, those technological fields with positive and significant marginal 
+effects in the second regression for all technologies). In particular, whereas in the main regression the 
+number of IPC classes and the portfolio size of the applicant had significant marginal effects (negative for 
+IPC classes and positive for the portfolio size), both of them lose significance in the individual technology 
+regressions. On the other hand, the positive and significant effect of science linkage is only present in 
+pharma, whereas the positive and significant effect of self-patent references intensity only appears in 
+pharma-biotech. The only significant characteristics distinguishing pure-X withdrawals from the rest of 
+abandoned patent filings in the field of chemicals-materials are, first, that they have significantly less 
+patent references and, second, that these are more likely to be self-references. In turn, the distinctive trait 
+between pure-x withdrawals and other withdrawn references in pharma-biotechnology is that they have 
+significantly more references, both from patent and non-patent literature (a sign of an incremental and 
+generic nature) and that they are less likely to be filed by first time patentees. The latter could be 
+considered as another indication of their strategic nature as one would expect defensive strategies of this 
+kind to be used by more experienced patentees. DSTI/DOC(2009)8 21 Table 2. The probit model on the likelihood of pre-emptive filings Patent references with filing years 1990-2000 cited in non-pending patents (marginal effects) PROBIT 1: 'Pure-X withdrawn' v other patent 
+references PROBIT 2: 'Pure-X withdrawn v. other 
+withdrawn patent references All Chemicals-
+materials Pharma-
+biotechnology 
+All Chemicals-
+materials Pharma-
+biotechnology 
+Scope, cost and scientific content: 
+Number of claims (log) 
+-0.002* 
+0.002 
+-0.001 
+0.004 
+-0.000 
+0.005 
+(0.001) 
+(0.003) 
+(0.006) 
+(0.004) 
+(0.009) 
+(0.016) 
+Number of IPC (log) 
+-0.003 
+-0.003 
+0.035*** 
+-0.016*** 
+-0.014 
+0.037 
+(0.002) 
+(0.004) 
+(0.009) 
+(0.006) 
+(0.014) 
+(0.024) 
+Number of inventors (log) 
+-0.008*** 
+-0.002 
+-0.013 
+-0.006 
+0.004 
+-0.020 
+(0.001) 
+(0.004) 
+(0.008) 
+(0.005) 
+(0.012) 
+(0.022) 
+Science linkage 
+0.032*** 
+0.027*** 
+0.134*** 
+0.027** 
+0.019 
+0.173*** 
+(0.003) 
+(0.007) 
+(0.014) 
+(0.011) 
+(0.025) 
+(0.037) 
+Cumulativeness: 
+Number of patent references (log) 
+0.008*** 
+0.008** 
+0.016** 
+0.006 
+-0.019* 
+0.037* 
+(0.001) 
+(0.003) 
+(0.008) 
+(0.005) 
+(0.011) 
+(0.020) 
+Self patent references intensity 
+0.017*** 
+0.035*** 
+0.051*** 
+0.048*** 
+0.095*** 
+0.074 
+(0.004) 
+(0.007) 
+(0.018) 
+(0.013) 
+(0.024) 
+(0.048) 
+Applicant´s portfolio: 
+Portfolio size (log) 
+-0.000 
+0.003*** 
+0.005*** 
+0.002* 
+0.002 
+0.002 
+(0.000) 
+(0.001) 
+(0.002) 
+(0.001) 
+(0.003) 
+(0.004) 
+First time patentee (dummy) 
+0.014*** 
+0.027*** 
+-0.013 
+0.000 
+0.010 
+-0.057* 
+(0.002) 
+(0.009) 
+(0.012) 
+(0.008) 
+(0.025) 
+(0.034) 
+Country, technology, filing years: 
+US applicant 
+0.022*** 
+0.014 
+0.031 
+0.005 
+-0.049 
+0.023 
+Japan applicant 
+-0.005 
+-0.018 
+-0.007 
+0.040* 
+-0.036 
+0.059 
+Germany applicant 
+-0.005 
+-0.019 
+-0.028 
+0.014 
+-0.079 
+-0.016 
+France applicant 
+-0.016*** 
+-0.030** 
+-0.083*** 
+-0.002 
+-0.117** 
+-0.028 
+UK applicant 
+0.022*** 
+0.018 
+0.003 
+0.037 
+-0.014 
+0.039 
+Australia applicant 
+0.015 
+0.0 
+-0.057 
+0.012 
+-0.003 
+-0.112 
+Switzerland applicant 
+-0.004 
+-0.009 
+-0.051** 
+0.016 
+-0.051 
+-0.021 
+Other countries applicant 
+0.003 
+-0.011 
+-0.018 
+0.010 
+-0.074 
+0.008 
+Electronics 
+-0.007** 
+-0.039*** 
+Instruments 
+-0.005* 
+-0.017* 
+Chemicals-materials 
+0.014*** 
+0.059*** 
+Pharmaceuticals-biotech 
+0.054*** 
+0.168*** 
+Industrial processes 
+-0.014*** 
+-0.014 
+Machines, mechanics, transport 
+-0.022*** 
+-0.037*** 
+Filing year 1991 
+-0.007*** 
+-0.012** 
+-0.019 
+-0.000 
+0.005 
+-0.046 
+Filing year 1992 
+-0.000 
+-0.005 
+0.010 
+0.019** 
+0.016 
+0.007 
+Filing year 1993 
+-0.006** 
+-0.015*** 
+-0.006 
+0.014 
+0.008 
+-0.037 
+Filing year 1994 
+-0.001 
+-0.006 
+0.044*** 
+0.038*** 
+0.067*** 
+0.043 
+Filing year 1995 
+0.004 
+-0.002 
+0.037** 
+0.053*** 
+0.098*** 
+0.022 
+Filing year 1996 
+0.011*** 
+0.006 
+0.026 
+0.074*** 
+0.123*** 
+0.032 
+Filing year 1997 
+0.027*** 
+0.020*** 
+0.088*** 
+0.099*** 
+0.126*** 
+0.111*** 
+Filing year 1998 
+0.049*** 
+0.030*** 
+0.114*** 
+0.151*** 
+0.162*** 
+0.093** 
+Filing year 1999 
+0.061*** 
+0.061*** 
+0.120*** 
+0.181*** 
+0.218*** 
+0.169*** 
+Filing year 2000 
+0.082*** 
+0.100*** 
+0.169*** 
+0.250*** 
+0.295*** 
+0.307*** 
+Observations 
+196781 
+37792 
+10947 
+47925 
+9319 
+3348 
+Wald 2 
+2958.65 
+424.26 
+463.64 
+1563.26 
+250.61 
+142.56 
+Pseudo R 2 
+0.0291 
+0.0197 
+0.0575 
+0.0270 
+0.0210 
+0.0325 Log Pseudo likelihood 
+-49989.191 
+-10868.46 
+-4277.1516 -
+28495.044 
+-5901.4803 
+-2241.354 Note: Marginal effects for dummy variables are for discrete changes from 0 to 1.'Pure X' are filings which have only been cited (up to 
+end 2006) as either X, Y or E; 'X and A' are filings which have been cited as X, Y or E and A; and 'Pure A' are filings which have only 
+been cited as A. Robust standard errors in parentheses. * significant at 10%; ** significant at 5%; *** significant at 1%. DSTI/DOC(2009)8 22 There are several ways to improve this analysis. Controlling for the date of withdrawal and national 
+validations should provide useful additional insight, however information on validations of EPO-granted 
+patents in all EPC member states was not yet available in PATSTAT at the time of writing. Neither was 
+information on dates of withdrawals for EPO applications. However, one should pay attention to the fact 
+that seeking patent protection can go through different administrative routes (national, international, etc). 
+In addition, it is obvious that an early withdrawal at EPO reduces, by definition, the possibility of 
+extending the patent in other countries. Care should be taken in considering the status of patents which 
+have initially been granted by national offices and that have proceeded to a second stage for regional 
+protection (obviously those patents might be less likely to be defensive). Our group of Pure-X withdrawals includes a very small share of patents that were granted and later 
+withdrawn (5%). Those few patent filings may refer to applications that were deemed to be exploited and 
+were eventually found unworkable economically and/or were intended to  " offense "  other patents (having a 
+grant could leverage opportunities for cross-licensing and is required for litigation). Hence, given that 
+applications of this type are few in our sample there is a weak indication that the patent filings identified as 
+ " very pre-emptive "  intended to finalise the patent process and their association to very  " defensive "  
+purposes is thus appropriate. 6. 
+CONCLUSION There is compelling survey evidence that some firms use patents to prevent competitors from 
+patenting. Pre-emptive patenting has a double benefit. By creating prior art and raising uncertainty, it 
+prevents the grant of market exclusivity rights to others while providing freedom of operation to its 
+applicant. For these purposes the publication of a filing can suffice. There is however limited empirical 
+evidence on how this phenomenon works. This paper provides evidence on pre-empting patenting using a 
+statistical approach at the patent level to address such questions. Our findings show that pre-emption of patenting by others can occur by filing patents with a minor 
+technical contribution to the art. The filing of patent applications containing trivial inventions to create 
+prior art contributes to raising uncertainty and the patentability threshold for competing inventions. 
+Furthermore, our investigation shows that companies file patents to pre-empt competitors from obtaining 
+patent protection in specific technologies or markets without necessarily aiming at getting protection 
+themselves. This novel finding, namely the investigation of the role of withdrawals as pre-emptive 
+instruments, sheds further light on the complex uses of patents for strategic purposes. Hence this 
+investigation helps broaden the analysis of patents as strategic instruments and provides empirical 
+statistical evidence compatible with the pre-empting patenting view stressed in the literature. Consistent 
+with some studies, our findings shows that these withdrawn patent filings are often not very inventive 
+(i.e. lower number of inventors) and may be repackaging existing art at low cost (i.e. more patent and 
+non-patent literature cited in their search reports). Hence the coincidence of low technical quality and high 
+pre-emptive power supports the idea that some of these applications are designed specifically by their 
+applicants to block strategically competitors. This evidence confirms that, as instruments for defence, 
+pre-emptive patents contribute to expand the flood of patenting. There are positive and negative sides to pre-emptive patent filings. Patents can be viewed as a social 
+contract between the patent owner and society, where the price to be paid by the patentee in return for 
+exclusivity is the disclosure of the invention. In the cases we have analysed in this paper, however, 
+applicants see the disclosure of inventions through the patent system not as a cost, but as a benefit. 
+Preventing others from patenting with patent filings that are later withdrawn can result in a patent-free area 
+and possibly an effective means to  " cut through the patent thicket "  in some fields. Hence defensive patents 
+can be very valuable instruments as they allow a patent holder to preserve market exclusion and 
+exploitation of his actual patented technology. DSTI/DOC(2009)8 23 Yet pre-emptive patenting has a direct impact on the working of the patent system. Pre-empting 
+filings contribute to a kind of arms race and feed patent inflation. Some activity in defensive patenting 
+constitutes an answer to potential offensive patenting. Increasing the backlog of patent offices with filings 
+of dubious technical quality to prevent the grant of other patent applications is nevertheless far from being 
+an efficient way to improve the functioning of the patent system. For patent offices, handling examination 
+periods and reducing pendency of applications under examination is becoming a critical issue. Our results 
+draw attention to pending applications which are influencing examination of others and are abandoned by 
+their applicant. Proposals have been made regarding the implementation of a purifying mechanism for 
+filings, like the proposition of increasing application fees which could be reimbursed after grant; or the 
+imposition of penalties or rejection of very complex filings (confusing draft of claims). Lastly, our results call for further research on the effects of pre-emptive patents on firms and markets. 
+First, their effects on R&D investments by companies and innovation are not clear: how do companies 
+react to the foreclosure of entry into patenting? Does their technological trajectory change by re-directing 
+R&D to other fields? Are pre-empting companies innovating more? Second, what are the results in product 
+markets? These are our next lines of investigation. DSTI/DOC(2009)8 24 BIBLIOGRAPHY Bar, T. (2006),  " Defensive publications in an R&D race " , Journal of Economics and Management 
+Strategy, 15, Spring, 229-254. Baker, S. and C. Mezzetti (2005),  " Disclosure as a Strategy in the Patent Race " , Journal of Law and 
+Economics, 48, 173-194. Blind, K., J. Edler, R. Frietsch, and U. Schmoch (2006),  " Motives to Patent: Evidence from Germany " , 
+Research Policy 35, 5, 655-672. Ceccagnoli, C. (2008),  " Appropriability, Pre-emption and Firm Performance " , Strategic Management 
+Journal, forthcoming. Cohen, W., A. Goto, A. Nagata, R. Nelson and J. Walsh (2002),  " R&D Spillovers, Patents and the 
+Incentives to Innovate in Japan and the United States " , Research Policy 31, 8-9, 1349-1367. Duguet, E. and I. Kabla (1998),  " Appropriation Strategy and the Motivations to Use the Patent System: An 
+Econometric Analysis at the Firm Level in French Manufacturing " , Annales d'Economie et de 
+Statistique 49/50, 289–327. European Commission (2006),  " Evaluating the Knowledge Economy " , technical report. European Patent Office (2008), Applicant Panel Survey 2007 of Intentions for Filing Patent Applications 
+at the European Patent Office and other Offices, EPO, Munich, 2008, available at www.epo.org. Gambardella, A., D. Harhoff and B. Verspagen, (2005),  " The Value of Patents " , mimeo. Gilbert, R. and D. Newbery (1982),  " Preemptive Patenting and the Persistence of Monopoly " , The 
+American Economic Review, 72, 3, 514-526. Graham, S., B.H. Hall, D. Harhoff and D. C. Mowery (2003),  " Post-Issue Patent Quality Control: A 
+Comparative Study of US Patent Re-Examinations and European Patent Oppositions " , published in 
+W. M. Cohen and S. A. Merrill (eds.), Patents in the Knowledge-Based Economy, The National 
+Academies Press, Washington, D.C., 74-119. Graham, S. and D. Mowery (2004),  " Submarines in Software? Continuations in US Software Patenting in 
+the 1980s and the 1990s " , Economics of Innovation and New Technologies, 13, 5, 443-456. Greene, W. (2003), Econometric Analysis, Prentice Hall, New Jersey. Grimpe C. and K. Hussinger (2008),  " Pre-empting Technology Competition through Firm Acquisitions " , 
+Economics Letters 100, 2, 189-191. DSTI/DOC(2009)8 25 Guellec, D., B. van Pottelsberghe de la Potterie and N. van Zeebroeck (2007),  " Patent as a Market 
+Instrument " , Chapter 4 in The Economics of the European Patent System, eds., D. Guellec and 
+B. van Pottelsberghe de la Potterie, Oxford University Press. Hall, B.H. and R.H. Ziedonis (2001),  " The Patent Paradox Revisited: An Empirical Study of Patenting in 
+the US Semiconductor Industry 1979-1995 " , Rand Journal of Economics 32, 1, 101-128. Harhoff, D. and B.H. Hall (2003),  " Intellectual Property Strategy in the Global Cosmetics Industry " , 
+Unpublished Manuscript, University of Munich. Harhoff, D., F. Narin, F.M. Scherer and K. Vopel (1999).  " Citation Frequency and The Value of Patented 
+Inventions " , The Review of Economics and Statistics, MIT Press, 81, 3, 511-515. Harhoff, D. and M. Reitzig (2004),  " Determinants of Opposition against EPO Patent Grants – The Case of 
+Biotechnology and Pharmaceuticals " , International Journal of Industrial Organisation, 22, 443-480. Harhoff, D., G. von Graevenitz and S. Wagner (2008),  " Incidence and Growth of Patent Thickets – The 
+Impact of Technological Opportunities and Complexity " , CEPR discussion paper, No 6900. Henkel, J. and S. Pangerl (2008),  " Alternatives to the Patent Arms Race: An Empirical Study of Defensive 
+Publishing " , mimeo, Technische Universitat Munchen, May 2008, available at 
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=981444. Iversen, E. and A. Kaloudis (2006),  " IP-Valuation as a Tool to Sustain Innovation " , STEP report series, 
+199615, The Step Group, Studies in Technology, Innovation and Innovation Policy. Lanjouw, J.O. and Mark Schankerman (2001),  " Characteristics of Patent Litigation: A Window on 
+Competition " , The Rand Journal of Economics, 32, 1, 129-51. Lazaridis G. and B. van Pottelsberghe de la Potterie (2006),  " The Rigour of EPO´s Patentability Criteria: 
+An Insight into the 'Induced Withdrawls " , EPO and CEB Working Paper CEB 06-018, RS, 
+Brussels: Université Libre de Bruxelles, Solvay Business School, Centre Emile Bernheim (CEB). Lerner, J., (1994),  " The Importance of Patent Scope: An Empirical Analysis " , RAND Journal of 
+Economics 25, 2, 319–333. Michel, J. and B. Bettels (2001),  " Patent Citation Analysis " , Scientometrics, 51, 1, 185-201. OECD (2009), OECD Patent Statistics Manual, OECD, Paris. Putnam, J. (1996),  " The Value of International Patent Rights " , Ph.D. Thesis, Yale University. De Rassenfosse, G. and D. Guellec (2009),  " Quality versus Quantity: Strategic Interactions and the Patent 
+Inflation " , presentation at the EPIP Conference held in Bologna in September 2009. Schneider, C. (2007),  " The Determinants of Patent Application Outcomes – Does Experience Matter? " , 
+CEBR discussion paper 2007/12, Center for Economic and Business Research, Copenhagen 
+Business School. Shapiro (2006),  " Injunctions, Hold Up and Patent Royalties " , working paper available at: 
+http://works.bepress.com/carl_shapiro/10. DSTI/DOC(2009)8 26 Sterlacchini, A. and F. Schetttino (2008),  " Determinants of Patent Withdrawals: Evidence from a Sample 
+of Italian Applications with the EPO " , MPRA paper 7765, University Library of Munich, Germany. Stevnsborg, N. and B. van Pottelsberghe de la Potterie (2007),  " Patenting Procedures and Filing Strategies 
+at the EPO " , Chapter 6 in The Economics of the European Patent System, eds. D. Guellec and B. van 
+Pottelsberghe de la Potterie, Oxford University Press. Van Looy, B., M. du Plessis and T. Magerman (2006),  " Data Production Methods for Harmonised Patent 
+Indicators: Assignee Sector Allocation " , EUROSTAT working paper and studies, Luxembourg. Van Pottelsberghe de la Potterie, B. and D. François (2006),  " The Cost Factor in Patent Systems " , CEPR 
+Discussion Paper 5944. Van Zeebroeck, N., B. van Pottelsberghe de la Potterie and D. Guellec (2009),  " Claiming More: The 
+Increased Voluminosity of Patent Applications and its Determinants " , Research Policy, 
+38(6), pp.1006-1020. Webb, C., H. Dernis, D. Harhoff and K. Hoisl (2005),  " Analysing European and International Patent 
+Citations: A Set of EPO Patent Database Building Blocks " , OECD Science, Technology and 
+Industry Working Paper 2005/9, Directorate for Science, Technology and Industry, OECD, Paris. DSTI/DOC(2009)8 27 ANNEX 1: INFORMATION FROM PATENT REFERENCES Patent examiners classify relevant prior art in order to characterise the novelty and inventive step of 
+the claimed invention. This categorisation is our point of reference to identify and evaluate the pre-emptive 
+power of patent references. Citation categories X, Y and E apply to prior patent filings compromising the 
+novelty and patentability of new applications, whereas citation category A corresponds to patent references 
+that are relevant to the state of the art (see Table 1). The system of citation categories is generally only 
+used by the EPO and by PCT international search authorities (ISA). 
+29 Other large patent offices, such as 
+the USPTO, use it in their international preliminary search reports when they act as ISA, but not for their 
+internal examination procedures. Table A1. Citation categories in EPO and PCT search reports Category 
+Meaning X 
+Particularly relevant documents when taken alone (a claimed invention cannot be considered 
+novel or cannot be considered to involve an inventive step) Y 
+Particularly relevant documents if combined with one or more other documents of the same 
+category such a combination being obvious to a person skilled in the art E 
+Potentially conflicting documents – any patent document bearing a filing or priority date earlier 
+than the filing date of the application searched but published later than that date, and the content 
+of which would constitute prior art 
+A 
+Documents defining the general state of the art (but not belonging to X or Y) Source: European Patent Office, Guidelines for Examination in the EPO (2007). Patent references cited under the X citation category would be the most important ones to invalidate 
+the novelty or inventiveness of one or more claims within a patent application. If the search report of an 
+application includes a patent reference categorised as X associated to a particular claim or claims, it means 
+that the application does not meet the requirements of novelty or inventive step with respect to that claim 
+or claims. After receiving the search report, the applicant could withdraw the application in view of an 
+anticipated refusal, or revise those claims in an attempt to obtain patent protection for other parts of the 
+invention, or proceed with the application without changing anything, hoping to get a grant regardless of 
+the unfavourable prior art search report. Type E references are equivalent to type X references, the only 
+difference between them is a question of time, with E references referring to patent filings which have been 
+published after the filing of the application for which the prior art search report is being undertaken. Type 
+Y patent references, when taken together or in conjunction with other references, may have the same 29 The PCT is an international patent law treaty that provides the possibility to seek patent rights in a large 
+number of countries (contracting states of the treaty) by filing a single international application (PCT 
+application) with a single patent office (receiving office). PCT applications do not result in the issuance of 
+ " international patents " . The decision on whether to grant or reject patent rights rests with national or 
+regional patent offices. PCT applications are administered by the World Intellectual Property Organization 
+(WIPO). DSTI/DOC(2009)8 28 effect, but less directly so. 30 In turn, type A references merely provide technical background information. 
+See Annex 1 for more details about the definition of our sample of EP patent filings. We have restricted our analysis to patents with search reports prepared by EPO examiners (for EPO 
+direct and PCT filings at EPO) to ensure homogeneity of criteria for identifying conflicting citations. 
+31 In 
+order to have information on the procedural status of the cited application, we have replaced non-EP patent 
+citations by their EP-equivalents (if they do not have an EP-equivalent, they are excluded) and limited our 
+econometric study to EP to EP citations and to EP to non-EP citations whenever the non-EP application 
+cited had an EP equivalent. In the latter case we considered the citation category assigned to the non-EP 
+application cited originally, but considered the procedural status and main IPC class of its equivalent filing 
+at EPO. We combined, avoiding duplications, EPO citations (X, Y, E or A) from EPO and PCT search 
+reports for completeness. The EPO-direct and PCT search reports of each patent application tend to be 
+done by the same examiner at EPO who then does not usually compile all references in a single document, 
+so that a full list of references is best obtained by combining citations from the PCT and EPO reports (see 
+Webb et al., 2005). 30 The decision to grant or reject a patent application is taken on the basis of the references given to prior art 
+reflecting not  " the complete profile of prior art "  but  " the closest and most relevant prior art "  (see EPO 
+guidelines for examiners): One X or two Y are enough to invalidate at least one claim, possibly more. 31 As said earlier, other patent offices use citation categories to prepare international preliminary search 
+reports when acting as ISA (International Search Authority), but not for their internal examination 
+processes, so EPO search reports are the only ones permitting this kind of analysis. It remains a task for 
+further research to estimate and quantify the pre-emptive activity associated to non-EP patents. At the EPO, 
+referencing seeks to use the earliest and most easily available  " incarnation "  of an invention, preferably in 
+the language of the applicant (see OECD, 2009). However, a patent (application or grant) can be cited as a 
+national publication or international/regional, or as one of its equivalents (in a patent family; e.g. a filing 
+with same priority at the EPO, USPTO, JPO). DSTI/DOC(2009)8 29 ANNEX 2 Table A1. Summary statistics multinominal logit models: Citing non-pending Filing years 1990-2000 Patent references All Non-
+pending 
+Granted 
+Withdrawn 
+Refused 
+Mean 
+Mean 
+Mean 
+Mean 
+X 
+0.29 
+0.26 
+0.35 
+0.28 
+Y 
+0.21 
+0.19 
+0.23 
+0.21 
+E 
+0.02 
+0.02 
+0.02 
+0.02 
+A 
+0.71 
+0.74 
+0.64 
+0.71 
+X/Y/E of Pure-X 
+0.19 
+0.16 
+0.24 
+0.18 
+X/Y/E of X&A 
+0.34 
+0.32 
+0.39 
+0.35 
+A of X&A 
+0.46 
+0.48 
+0.41 
+0.46 
+A of Pure-A 
+0.38 
+0.39 
+0.34 
+0.38 
+X/Y/E of Pure-X granted 
+0.13 
+0.12 
+0.15 
+0.12 
+X/Y/E of Pure-X withdrawn 
+0.06 
+0.05 
+0.09 
+0.06 
+X/Y/E of Pure-X refused 
+0.01 
+0.01 
+0.01 
+0.02 
+X/Y/E of Pure-X pending 
+0.00 
+0.00 
+0.00 
+0.00 
+X/Y/E of X&A granted 
+0.26 
+0.25 
+0.28 
+0.26 
+X/Y/E of X&A withdrawn 
+0.09 
+0.08 
+0.12 
+0.10 
+X/Y/E of X&A refused 
+0.02 
+0.02 
+0.02 
+0.02 
+X/Y/E of X&A pending 
+0.01 
+0.01 
+0.01 
+0.00 
+A of X&A granted 
+0.36 
+0.39 
+0.31 
+0.35 
+A of X&A withdrawn 
+0.12 
+0.11 
+0.12 
+0.13 
+A of X&A refused 
+0.02 
+0.02 
+0.02 
+0.03 
+A of X&A pending 
+0.01 
+0.01 
+0.01 
+0.00 
+A of Pure-A granted 
+0.28 
+0.30 
+0.24 
+0.27 
+A of Pure-A withdrawn 
+0.11 
+0.11 
+0.12 
+0.12 
+A of Pure-A refused 
+0.02 
+0.02 
+0.02 
+0.02 
+A of Pure-A pending 
+0.00 
+0.00 
+0.00 
+0.00 
+US applicant 
+0.31 
+0.27 
+0.38 
+0.39 
+Japan applicant 
+0.18 
+0.20 
+0.13 
+0.15 
+Germany applicant 
+0.19 
+0.21 
+0.16 
+0.16 
+France applicant 
+0.07 
+0.08 
+0.06 
+0.07 
+UK applicant 
+0.05 
+0.04 
+0.05 
+0.06 
+Australia applicant 
+0.01 
+0.00 
+0.01 
+0.01 
+Canada applicant 
+0.01 
+0.01 
+0.01 
+0.01 
+Switzerland applicant 
+0.03 
+0.04 
+0.03 
+0.03 
+Other countries applicant 
+0.15 
+0.15 
+0.16 
+0.14 
+Electronics 
+0.23 
+0.21 
+0.25 
+0.24 
+Instruments 
+0.17 
+0.17 
+0.18 
+0.17 
+Chemicals-materials 
+0.18 
+0.19 
+0.18 
+0.22 
+Pharmaceuticals-biotech 
+0.06 
+0.05 
+0.08 
+0.06 
+Industrial processes 
+0.19 
+0.20 
+0.17 
+0.18 
+Machines, mechanics, transport 
+0.10 
+0.11 
+0.08 
+0.09 
+Construction-consumer products 
+0.06 
+0.06 
+0.07 
+0.05 
+Filing year 1990 
+0.07 
+0.08 
+0.07 
+0.10 
+Filing year 1991 
+0.08 
+0.08 
+0.06 
+0.10 
+Filing year 1992 
+0.08 
+0.09 
+0.07 
+0.11 
+Filing year 1993 
+0.09 
+0.09 
+0.07 
+0.12 
+Filing year 1994 
+0.09 
+0.09 
+0.08 
+0.11 
+Filing year 1995 
+0.09 
+0.10 
+0.08 
+0.11 
+Filing year 1996 
+0.10 
+0.10 
+0.09 
+0.11 
+Filing year 1997 
+0.10 
+0.10 
+0.11 
+0.09 
+Filing year 1998 
+0.11 
+0.10 
+0.12 
+0.07 
+Filing year 1999 
+0.10 
+0.09 
+0.12 
+0.04 
+Filing year 2000 
+0.09 
+0.08 
+0.12 
+0.03 
+Number of observations 
+425582 
+274207 
+136440 
+14935 DSTI/DOC(2009)8 30 Table A2. Summary statistics probit models: Pure-X withdrawn v. Other references Patent references with filing years 1990-2000 cited in non-pending patents up to end 2006 Pure-X withdrawn 
+Other patent references not Pure-X withdrawn 
+Other withdrawn patent references not Pure-X 
+Mean 
+Std. Dev 
+Min 
+Max 
+Mean 
+Std. Dev 
+Min 
+Max 
+Mean 
+Std. Dev 
+Min 
+Max 
+Number of claims 14.873 
+11.201 
+0 
+196 
+13.892 
+10.685 
+0 
+395 
+14.393 
+11.394 
+0 
+327 Number of IPC classes 2.095 
+1.277 
+1 
+11 
+2.004 
+1.177 
+1 
+16 
+2.020 
+1.174 
+1 
+12 Number of inventors 2.545 
+1.768 
+1 
+20 
+2.528 
+1.742 
+1 
+32 
+2.425 
+1.705 
+1 
+28 Number of patent references 4.365 
+2.904 
+0 
+43 
+4.404 
+2.722 
+0 
+50 
+4.322 
+2.914 
+0 
+45 Science linkage 0.178 
+0.253 
+0 
+1 
+0.145 
+0.224 
+0 
+1 
+0.164 
+0.245 
+0 
+1 Self patent reference intensity 0.067 
+0.170 
+0 
+1 
+0.061 
+0.159 
+0 
+1 
+0.059 
+0.158 
+0 
+1 Patent portfolio 1076.153 
+2285.001 
+0 
+17558 
+1064.889 
+2215.649 
+0 
+17558 
+1092.805 
+2284.229 
+0 
+17558 First time patentee 0.129 
+0.335 
+0 
+1 
+0.109 
+0.311 
+0 
+1 
+0.140 
+0.347 
+0 
+1 US applicant 0.435 
+0.496 
+0 
+1 
+0.337 
+0.473 
+0 
+1 
+0.444 
+0.497 
+0 
+1 Japan applicant 0.164 
+0.370 
+0 
+1 
+0.204 
+0.403 
+0 
+1 
+0.148 
+0.355 
+0 
+1 Germany applicant 0.142 
+0.349 
+0 
+1 
+0.183 
+0.386 
+0 
+1 
+0.144 
+0.351 
+0 
+1 France applicant 0.040 
+0.197 
+0 
+1 
+0.060 
+0.237 
+0 
+1 
+0.045 
+0.208 
+0 
+1 UK applicant 0.057 
+0.232 
+0 
+1 
+0.044 
+0.205 
+0 
+1 
+0.053 
+0.224 
+0 
+1 Australia applicant 0.004 
+0.067 
+0 
+1 
+0.004 
+0.060 
+0 
+1 
+0.005 
+0.069 
+0 
+1 Canada applicant 0.010 
+0.101 
+0 
+1 
+0.010 
+0.098 
+0 
+1 
+0.010 
+0.099 
+0 
+1 Switzerland applicant 0.028 
+0.165 
+0 
+1 
+0.034 
+0.181 
+0 
+1 
+0.028 
+0.165 
+0 
+1 Other countries applicant 0.120 
+0.325 
+0 
+1 
+0.125 
+0.331 
+0 
+1 
+0.123 
+0.329 
+0 
+1 Electronics 0.227 
+0.419 
+0 
+1 
+0.241 
+0.428 
+0 
+1 
+0.278 
+0.448 
+0 
+1 Instruments 0.155 
+0.361 
+0 
+1 
+0.161 
+0.367 
+0 
+1 
+0.171 
+0.377 
+0 
+1 Chemicals-materials 0.226 
+0.418 
+0 
+1 
+0.189 
+0.392 
+0 
+1 
+0.180 
+0.384 
+0 
+1 Pharmaceuticals-biotech 0.117 
+0.321 
+0 
+1 
+0.054 
+0.226 
+0 
+1 
+0.056 
+0.231 
+0 
+1 Industrial processes 0.148 
+0.355 
+0 
+1 
+0.191 
+0.393 
+0 
+1 
+0.168 
+0.373 
+0 
+1 Machines, mechanics, transport 0.071 
+0.257 
+0 
+1 
+0.106 
+0.308 
+0 
+1 
+0.086 
+0.281 
+0 
+1 Construction-consumer products 0.057 
+0.232 
+0 
+1 
+0.058 
+0.233 
+0 
+1 
+0.061 
+0.239 
+0 
+1 Filing year 1990 0.120 
+0.325 
+0 
+1 
+0.140 
+0.347 
+0 
+1 
+0.157 
+0.364 
+0 
+1 Filing year 1991 0.102 
+0.302 
+0 
+1 
+0.125 
+0.331 
+0 
+1 
+0.132 
+0.338 
+0 
+1 Filing year 1992 0.105 
+0.307 
+0 
+1 
+0.121 
+0.326 
+0 
+1 
+0.124 
+0.329 
+0 
+1 Filing year 1993 0.088 
+0.283 
+0 
+1 
+0.113 
+0.316 
+0 
+1 
+0.106 
+0.307 
+0 
+1 Filing year 1994 0.089 
+0.285 
+0 
+1 
+0.106 
+0.308 
+0 
+1 
+0.096 
+0.295 
+0 
+1 Filing year 1995 0.090 
+0.286 
+0 
+1 
+0.099 
+0.299 
+0 
+1 
+0.091 
+0.288 
+0 
+1 Filing year 1996 0.090 
+0.287 
+0 
+1 
+0.090 
+0.286 
+0 
+1 
+0.084 
+0.278 
+0 
+1 Filing year 1997 0.098 
+0.297 
+0 
+1 
+0.079 
+0.270 
+0 
+1 
+0.081 
+0.272 
+0 
+1 Filing year 1998 0.095 
+0.294 
+0 
+1 
+0.061 
+0.239 
+0 
+1 
+0.064 
+0.245 
+0 
+1 Filing year 1999 0.070 
+0.255 
+0 
+1 
+0.041 
+0.198 
+0 
+1 
+0.042 
+0.200 
+0 
+1 Filing year 2000 0.053 
+0.224 
+0 
+1 
+0.025 
+0.157 
+0 
+1 
+0.023 
+0.151 
+0 
+1 Number of observations 
+15377 
+188881 36062 

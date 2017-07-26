@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="226023512638"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>DSTI/DOC(2009)4<lb/> TOWARDS HARMONISED BILATERAL TRADE DATA FOR INTER-COUNTRY<lb/> INPUT-OUTPUT ANALYSES: STATISTICAL ISSUES *<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Dong Guo, Colin Webb and Norihiko Yamano<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Economic Analysis and Statistics Division<lb/> Directorate for Science, Technology and Industry (DSTI), OECD<lb/></affiliation>
+	</byline>
+
+	<email>colin.webb@oecd.org<lb/> norihiko.yamano@oecd.org<lb/></email>
+
+	<div type="abstract">ABSTRACT<lb/> Understanding the increasingly complex structures of international trade is an important concern for<lb/> policy makers, as deepening economic integration is characterised by the growing trade in intermediate<lb/> goods and services between countries. Analyses based on international input-output tables can help address<lb/> trade-related policy issues as well as providing other insights into the socio-economic and environmental<lb/> impacts of globalisation. To link national input-output tables in order to carry out interdependent analyses<lb/> across countries requires a consistent set of harmonised international bilateral trade data that ideally<lb/> reflects recent output by the economic activities in question. This paper discusses the challenges faced<lb/> when attempting to construct appropriate bilateral trade matrices using annual data collected by the OECD<lb/> and United Nations, as well as national sources. While the main focus is on the increasing presence of<lb/> &quot; re-exports &quot; in reported exports of goods data, this paper also addresses some other statistical and data<lb/> issues that need to be considered, such as treatment of confidential (or &quot; unallocated &quot; ) trade in goods; trade<lb/> in secondhand goods, scrap metal and other waste; differences in trade statistics across international<lb/> statistical agencies; and the additional problems encountered when converting product-based trade data to<lb/> industry-based classifications. Issues concerning Balance of Payments data, the main source for trade in<lb/> services, are also addressed. *<lb/></div>
+
+	<p type="introduction">A draft of this paper was presented to OECD&apos;s Working Party on International Trade in Goods and Trade<lb/> in Services Statistics (WPTGS) organised by OECD in September 2008 (www.oecd.org/std/its/wptgs2008).<lb/> The authors would like to thank the participants of this meeting. Also, special thanks go to William Cave<lb/> and Luke Bergmann for their insightful and thorough comments. The views in this paper are our own and<lb/> not necessarily those of the OECD. All remaining errors are our own.<lb/></p>
+
+	<idno>DSTI/DOC(2009)4<lb/></idno>
+
+	<note type="other">4<lb/></note>
+
+	<docTitle>
+	<titlePart>VERS DES DONNÉES HARMONISÉES SUR LES ÉCHANGES BILATÉRAUX<lb/> POUR L&apos;ANALYSE INTERNATIONALE DES ENTRÉES-SORTIES:<lb/> PROBLÈMES STATISTIQUES *<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Dong Guo, Colin Webb et Norihiko Yamano<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Division des analyses économiques et des statistiques<lb/> Direction de la science, de la technologie et de l&apos;industrie (DSTI), OCDE<lb/></affiliation>
+	</byline>
+
+	<email>colin.webb@oecd.org<lb/> norihiko.yamano@oecd.org<lb/></email>
+
+	<p type="introduction">RÉSUMÉ<lb/> Comprendre les structures de plus en plus complexes du commerce international constitue un enjeu<lb/> important pour les responsables de l&apos;action publique, dans la mesure où le renforcement de l&apos;intégration<lb/> économique se caractérise par des échanges croissants de services ainsi que de biens intermédiaires entre<lb/> pays. Les analyses réalisées à partir de tableaux d&apos;entrées-sorties internationaux peuvent apporter des<lb/> éléments de réponse aux questions de politique publique liées aux échanges, et fournir d&apos;autres<lb/> enseignements sur les répercussions socioéconomiques et environnementales de la mondialisation. Pour<lb/> analyser les relations d&apos;interdépendance entre pays, il est nécessaire de coupler les tableaux<lb/> d&apos;entrées-sorties nationaux; pour ce faire, il faut disposer d&apos;un ensemble de données harmonisées<lb/> cohérentes portant sur les échanges internationaux et correspondant, dans l&apos;idéal, à la production récente<lb/> des activités économiques. Ce document examine les difficultés rencontrées pour construire des tableaux<lb/> de commerce bilatéral adéquats, à partir des bases de données annuelles sur le commerce international<lb/> gérées par l&apos;OCDE et les Nations Unies, ou d&apos;informations provenant de sources nationales. Ce papier<lb/> traite principalement de la présence croissante des « réexportations » dans les exportations de<lb/> marchandises recensées et il soulève également d&apos;autres problèmes statistiques, ou liés aux données, dont il<lb/> faut tenir compte. Il s&apos;agit notamment des différences de données du commerce entre les divers organismes<lb/> statistiques internationaux, du traitement des échanges des biens confidentiels (ou « non attribués »), du<lb/> commerce des biens d&apos;occasion, de débris de métaux et autres déchets, ainsi que des problèmes liés à la<lb/> conversion des données d&apos;échange par produit en données sectorielles. Ce document traite aussi des<lb/> problèmes liés aux échanges de services provenant de la Balance des Paiements. *<lb/> Une version préliminaire de ce papier a été présentée au Groupe de Travail de l&apos;OCDE sur les Statistiques<lb/> du Commerce International des Marchandises et des Services (WPTGS) organisé par l&apos;OCDE en<lb/> septembre 2008 (www.oecd.org/std/its/wptgs2008). Les auteurs souhaitent remercier les participants de<lb/> cette réunion. Ils adressent également des remerciements particuliers à William Cave et Luke Bergmann<lb/> pour la perspicacité et la précision de leurs commentaires. Les points de vue exprimés dans ce rapport<lb/> n&apos;engagent que les auteurs et ne reflètent pas ceux de l&apos;OCDE. Toute information erronée est imputable<lb/> aux auteurs.<lb/> DSTI/DOC(2009)4<lb/> DSTI/DOC(2009)4<lb/> DSTI/DOC(2009)4</p>
+
+		</front>
+	</text>
+</tei>

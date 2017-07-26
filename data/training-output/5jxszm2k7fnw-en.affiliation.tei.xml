@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="department">D40</orgName>,
+							<address>
+								<postCode>F10</postCode>,
+								<postCode>K20</postCode>,
+								<postCode>G21</postCode>,
+								<postCode>G24</postCode>,
+								<postCode>G33</postCode>,
+								<postCode>H25</postCode>,
+								<postCode>L11</postCode>,
+								<postCode>L12</postCode>,
+								<postCode>L25</postCode>,
+								<postCode>L50</postCode>
+							</address>
+							<orgName type="laboratory">Classification JEL : D21</orgName>,
+							<address>
+								<addrLine>D40, F10, K20, G21, G24, G33, H25, L11</addrLine>,
+								<postCode>L12</postCode>,
+								<postCode>L25</postCode>,
+								<postCode>L50</postCode>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

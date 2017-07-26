@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+by
+								 <forename>Nana</forename>
+								 <surname>Boateng</surname> (CABRI),
+							</persName>
+							<persName>
+								 <forename>Marie</forename>
+								 <middlename>Castaing</middlename>
+								 <surname>Gachassin</surname>
+							</persName>
+							<persName>
+								 <forename>Emilie</forename>
+								 <surname>Gay</surname> (CABRI) and
+							</persName>
+							<persName>
+								 <forename>Laura</forename>
+								 <surname>Recuero-Virto</surname> (
+							</persName>
+							<persName>
+								<forename>OECD</forename>
+							<lb/>
+								 <surname>Tomé</surname>and
+							</persName>
+							<persName>
+								 <surname>Príncipe</surname> ,
+								<forename>Sierra</forename>
+							</persName>
+							<persName>
+								 <surname>Leone</surname> ,
+								<roleName>Republic of Sudan ,Tunisia</roleName> and
+								 <forename>Zimbabwe</forename> .
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

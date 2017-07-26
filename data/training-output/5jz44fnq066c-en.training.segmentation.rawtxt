@@ -1,0 +1,1850 @@
+Please cite this paper as: OECD (2014),  " New Approaches to Spectrum Management " , 
+OECD Digital Economy Papers, No. 235, OECD Publishing, 
+Paris. 
+http://dx.doi.org/10.1787/5jz44fnq066c-en OECD Digital Economy Papers No. 235 New Approaches to 
+Spectrum Management OECD NEW APPROACHES TO SPECTRUM MANAGEMENT 2 OECD DIGITAL ECONOMY PAPERS FOREWORD The OECD Working Party on Communication Infrastructures and Services Policy (CISP) discussed 
+this document in June 2013 and agreed to recommend it for declassification to the Committee for 
+Information, Computer and Communications Policy (ICCP). The ICCP Committee approved the report in 
+January 2014. The document was prepared by Mr. Agustin Diaz-Pines and Mr. Hajime Oiso of the OECD's 
+Directorate for Science, Technology and Industry. Note to Delegations: 
+This document is also available on OLIS under reference code 
+DSTI/ICCP/CISP(2013)1/FINAL © OECD/OCDE 2014 Applications for permission to reproduce or translate all or part of this material should be made to: 
+OECD Publications, 2 rue André-Pascal, 75775 Paris, Cedex 16, France; e-mail: rights@oecd.org NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 3 TABLE OF CONTENTS FOREWORD ................................................................................................................................................... 2 LIST OF ACRONYMS ................................................................................................................................... 4 NEW APPROACHES TO SPECTRUM MANAGEMENT ........................................................................... 6 MAIN POINTS ............................................................................................................................................ 6 
+INTRODUCTION: SPECTRUM AND THE INTERNET ECONOMY .................................................... 8 
+THE ECONOMIC VALUE OF SPECTRUM ............................................................................................. 9 
+Economic welfare ................................................................................................................................... 11 
+Economic contribution ........................................................................................................................... 12 
+Productivity increase .............................................................................................................................. 12 
+ECONOMIC IMPLICATIONS OF SPECTRUM HARMONISATION .................................................. 13 
+Spectrum harmonisation: A desirable goal with many hurdles .............................................................. 14 
+The role of the industry .......................................................................................................................... 15 
+An example: the 700 MHz band............................................................................................................. 16 
+Regional vs. global harmonisation ......................................................................................................... 20 
+SHARED USE OF SPECTRUM: DIFFERENT MANAGEMENT APPROACHES............................... 20 
+An additional way to maximise spectrum efficiency ............................................................................. 20 
+Which licensing regime? ........................................................................................................................ 21 
+Authorised shared access/licensed shared access ................................................................................... 23 
+New spectrum technologies.................................................................................................................... 25 
+The definition of  " incumbent users "  ...................................................................................................... 27 
+An earlier version of shared access – TV White Spaces ........................................................................ 31 
+Two-or three-tiered access .................................................................................................................... 32 
+Harmful interference and receiver regulation......................................................................................... 33 
+Management opportunities and choices ................................................................................................. 34 
+INCENTIVE AUCTIONS ......................................................................................................................... 34 
+Spectrum auction theory and incentive auctions .................................................................................... 35 
+The repacking process ............................................................................................................................ 38 
+Alternative instruments to release broadcasting spectrum ..................................................................... 38 NOTES .......................................................................................................................................................... 41 REFERENCES .............................................................................................................................................. 42 ANNEX: STUDIES RELATED TO SPECTRUM VALUATION ............................................................... 47 NEW APPROACHES TO SPECTRUM MANAGEMENT 4 OECD DIGITAL ECONOMY PAPERS LIST OF ACRONYMS 2G 
+Second generation of mobile telecommunications technology (e.g. GSM) 
+3G 
+Third generation of mobile telecommunications technology (e.g. UMTS, CDMA2000) 3GPP 
+3rd Generation Partnership Project 
+ACMA 
+Australian Communications and Media Authority AFCS 
+Automatic Flight Control System AHCIET Ibero-American Association of Centers of Research and Telecommunications 
+Enterprises (La Asociación Iberoamericana de Centros de Investigación y Empresas de 
+Telecomunicaciones) 
+AIP 
+Administrative Incentive Pricing AMTA 
+Australian Mobile Telecommunications Association 
+APT 
+Asia-Pacific Tele-community ARNS 
+Aeronautical Radio Navigation Service ASA 
+Authorised Shared Access 
+AWG 
+Asia-Pacific Tele-community Wireless Group BEREC/RSPG 
+Radio Spectrum Policy Group, the Body of European Regulators for Electronic 
+Communications 
+BIS 
+Department for Business, Innovation and Skills (the United Kingdom) 
+CDMA2000 
+3G standard using code division multiple access (CDMA) CEPT 
+Conference of European Postal and Telecommunications administrations 
+CEPT WGFM CEPT Working Group on Frequency management CITEL 
+Inter-American Telecommunications Commission CPC 
+Cognitive Pilot Channel 
+CR 
+Cognitive Radio System CUS 
+Collective Use of Spectrum 
+DAA 
+Detect-and-Avoid DCMS 
+Department for Culture, Media and Sport (the United Kingdom) 
+DECT 
+Digital Enhanced Cordless Telecommunications DVB-T2 
+Digital Video Broadcasting – Second Generation Terrestrial DySPAN 
+IEEE's Dynamic Spectrum Access Networks committee 
+ECC 
+CEPT's Electronic Communications Committee ETSI 
+European Telecommunications Standards Institute 
+FCC 
+Federal Communications Commission (United States) FDD 
+Frequency Division Duplex FP7 
+7th Framework Programme of the European Commission 
+GAA 
+General Authorised Access GDP 
+Gross Domestic Product 
+GSM 
+Global System for Mobile communications GSMA 
+GSM Association 
+HEVC 
+High Efficiency Video Coding ICT 
+Information and Communications Technology ISO 
+International Organization for Standardisation 
+ITU 
+International Telecommunication Union NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 5 ITU-R 
+ITU Radio-communication Sector ITU-T 
+ITU Telecommunication Standardisation Sector 
+LSA 
+Licensed Shared Access LTE 
+Long Term Evolution, a technical standard of mobile telecommunications technology, 
+also commercially referred to as 4G 
+M2M 
+Machine-to-machine communications 
+MIC 
+Ministry of Internal Affairs and Communications, Japan MNO 
+Mobile Network Operator MPEG4 
+A standard for coded representation of digital audio and video and related data, 
+developed by the Moving Picture Experts Group of ISO/IEC 
+NPRM 
+Notice for Proposed Rulemaking NSN 
+Nokia Siemens Networks NTIA 
+National Telecommunications and Information Administration, the United States 
+Department of Commerce 
+OET 
+Office of Engineering and Technology, FCC, the United States PCAST 
+The President's Council of Economic Advisors in Science and Technology, the United 
+States 
+PMSE 
+Programme Making and Special Events Applications PPDR 
+Public Protection and Disaster Relief 
+QoS 
+Quality of service RFID 
+Radiofrequency identification 
+RLAN DFS 
+Radio Local Area Networks Dynamic Frequency Selection RLS 
+Radiolocation Service RRS 
+Reconfigurable Radio Systems 
+RSPG 
+See BEREC/RSPG RSPP 
+European Radio Spectrum Policy Programme 
+SAB 
+Services ancillary to broadcasting SAP 
+Services ancillary to programme making 
+SAS 
+Spectrum Access System SDR 
+Software defined radio SME 
+Small and Medium Enterprises 
+TDD 
+Time Division Duplex UHF 
+Ultra high frequency, the range between 300 MHz and 3 GHz 
+UMTS 
+The Universal Mobile Telecommunications System (a technical standard of 3G) UWB DFS 
+Ultra-wide band Dynamic Frequency Selection VHF 
+Very high frequency, the range of 30 MHz -300 MHz 
+WAPECS 
+Wireless Access Policy for Electronic Communications Services Wi-Fi 
+WLAN standards family 
+WLAN 
+Wireless Local Access Networks WRC-12 
+World Radiocommunications Conference – 2012 edition 
+WSD 
+White Space Devices NEW APPROACHES TO SPECTRUM MANAGEMENT 6 OECD DIGITAL ECONOMY PAPERS NEW APPROACHES TO SPECTRUM MANAGEMENT MAIN POINTS Today, spectrum, more than ever, is identified by policy makers as a key asset to support growth in 
+the Digital Economy. This report provides information and analysis on new approaches to radiofrequency 
+spectrum management in OECD countries. The remarkable growth in the use of smartphones and other 
+wireless devices, experienced in recent years, has increased demands on the radio spectrum throughout the 
+OECD area. This is why authorities are seeking to maximise the spectrum resources made available for 
+wireless communication services and to increase the efficiencies made in their use. The best way to ascertain the economic value of spectrum for wireless communication providers is to 
+examine new approaches to spectrum management, including the adoption of market mechanisms, such as 
+through the conduct of open and transparent auction procedures. Nonetheless, policy makers need to take 
+into account a range of considerations related to overall economic, social benefits, as well as the 
+preservation of critical government services derived from the use of spectrum, and these may not easily be 
+determined by market prices. Virtually all sectors of the economy, from education to health care or SME 
+productivity, could benefit from more widely available and efficient wireless broadband services. These 
+areas increasingly use unlicensed spectrum through a variety of existing applications, such as Wireless 
+Local Area Networks (WLAN, broadly called and thereinafter referred to as  " Wi-Fi networks " ), short 
+range devices, and so forth. License-exempt (or unlicensed) spectrum is itself a market allocation mechanism, with no entry price 
+attached but instead conditions of shared use set by administrations. This approach has proven its merits 
+for a number of applications, such as Wi-Fi and these benefits may not have been achieved if traditional 
+approaches and practices to the allocation and authorisation of such spectrum had been followed. 1 The 
+challenge, therefore, is to make greater use of the efficiencies that market mechanisms can bring across 
+both licensed and unlicensed spectrum including, where technically feasible, greater shared use. The 
+enormous success of Wi-Fi networks underscores that licensed-exempt spectrum can be used extensively, 
+in combination with shared and exclusive uses. Spectrum harmonisation at the global level is a desirable long-term goal that has the potential to 
+enhance economies of scale for network deployment and device manufacturing. This general objective 
+needs to be set against other spectrum management goals such as band harmonisation at the regional level, 
+the promotion of spectrum trading and flexibility for all players to adopt innovative technological solutions 
+and the protection of critical government services. It also needs to take into account other constraints such 
+as international frequency co-ordination, interference mitigation and the current uses made of spectrum. The emergence of new technologies such as cognitive radio and geolocation databases enables the 
+implementation of new spectrum licensing frameworks, based on the licensed or unlicensed shared use of 
+spectrum. The new approaches proposed for spectrum sharing aim at maximising spectrum efficiency by 
+allowing a third-party to use underutilised spectrum resources held by government and commercial users 
+or by other stakeholders that do not fully exploit their spectrum capacity. Spectrum sharing through 
+enhanced mechanisms may become the norm, not the exception, in the near future. Spectrum inventories offer opportunities for identifying spectrum supply, assessing its demand and 
+consulting with all stakeholders on the different proposals. This could assist, together with technical 
+studies, in identifying candidate bands for sharing and assessing the feasibility of deployment scenarios for 
+new entrants. In that respect, spectrum inventories could be used by policy makers, following a cost-
+benefit analysis, in the process towards publishing rules for spectrum use. In particular, they can assist in NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 7 highlighting underutilisation of spectrum and thus, in enabling shared use. Policy makers also need to 
+tackle the existing challenges such as effective authorisation procedures that limit third party access to 
+those instances where spectrum is underutilised, improved mitigation techniques for harmful interference 
+and limited disruption of existing services. Incentive auctions, for example, are an innovative approach to transfer spectrum resources from less 
+to more valuable uses through market mechanisms. Several factors may be critical to their success in the 
+long term, such as having a sufficient amount of broadcasters willing to release spectrum or the flexibility 
+to undertake the repacking process to achieve sufficiently harmonised band plans. Other countries may also 
+face several constraints to conduct an incentive auction, such as the need for a regionally co-ordinated 
+approach and incumbent spectrum uses. Recent technology developments may also contribute to the same 
+goal by achieving greater spectrum efficiency for broadcasting services. NEW APPROACHES TO SPECTRUM MANAGEMENT 8 OECD DIGITAL ECONOMY PAPERS INTRODUCTION: SPECTRUM AND THE INTERNET ECONOMY The unprecedented increase in the take up of smartphones and other wireless devices is leading many 
+to reassess the amount of radio frequency spectrum that will be required to support future growth in the 
+Internet economy. This is critical, as it will underpin the ability of OECD countries to ensure competitive 
+communication markets, which will in turn drive the innovation necessary to meet broader economic and 
+social development. The challenge before policy makers is how to make more spectrum available for 
+space-based and terrestrial wireless communication services to meet current and future demand and, at the 
+same time, achieve a more efficient use of this resource. Current developments in mobile technologies have expanded the applications of wireless broadband 
+services which could, in some cases, serve as a substitute for fixed broadband (being complementary in 
+most scenarios). Relevant examples are in rural or sparsely populated areas but also in providing 
+competition to traditional telecommunication services as well as in the provision of new services, including 
+in areas such as machine-to-machine communications. All national broadband plans in OECD countries have as a key feature the use of wireless 
+technologies to complement fixed networks and as such put an emphasis on the availability of spectrum 
+resources (OECD, 2011). The European Spectrum Policy Programme (RSPP), for example, includes the 
+action of ensuring that at least 1 200 MHz, of the radio spectrum are identified (including spectrum for 
+which this has already been done) to address the increasing demand for wireless data traffic and that the 
+need for additional harmonised spectrum bands is assessed. In 2007, an ITU-R report (ITU, 2012) 
+estimated that between 1 280 MHz and 1 720 MHz of spectrum would be required to meet the demands of 
+mobile broadband applications and services by 2020. The spectrum requirements to meet the demand need 
+to be updated using the revised methodology provided by Recommendation ITU-R M.1768-1(ITU, 2013). 
+Countries' needs for additional spectrum vary. The report also indicates that some countries require more 
+than the 1 720 MHz of spectrum, that other countries require less than the 1 280 MHz, while other 
+countries do not need any additional spectrum for these services. This report first puts into perspective the need for improved spectrum policies and why this is critical 
+for the Internet economy. It does so by compiling recent studies that have been undertaken in the area of 
+spectrum valuation. As the main rationale behind the reassessment of spectrum management is to facilitate 
+spectrum reallocation, from less to more valuable use, the report provides an overview of some methods 
+used to estimate the economic value of spectrum and, more broadly, its implications on the overall 
+economy. The new approaches to spectrum management addressed in this report largely fall under two 
+broad categories of initiatives: those targeted at making more spectrum resources available for wireless 
+communication services, primarily mobile broadband; and those aimed at maximising spectrum efficiency. 
+Broadly, three types of efficiency could be considered: dynamic (i.e. enables the use of the most innovative 
+services), allocative (assigns spectrum to the undertakings that value it most) and productive (i.e. reduces 
+production costs of radio-communication services). In practice, the decision making process would need to 
+take into account all three types of efficiency and, in some cases, reach trade-offs between them. Further harmonisation of spectrum has been at the heart of international co-operation, and 
+negotiations on this issue are on-going in international fora, including the relevant regional organisations. 
+Furthermore, spectrum harmonisation makes economies of scale possible, which brings down the cost of 
+deploying networks and manufacturing wireless devices, as well as facilitating roaming services and the 
+mitigation of harmful cross-border interference. This plays a pivotal role in enabling the use of additional 
+spectrum resources for communication services and in promoting spectrum efficiency in current or future 
+spectrum bands used for those services. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 9 The increased sharing of spectrum could greatly enhance spectrum efficiency for certain services. 
+Spectrum can be shared by different users, at different times, codes or geographical locations. This would, 
+however, necessitate innovative licensing models that could depart from the two main licensing schemes 
+that have been extremely successful to date: license-exempt and individual exclusive licenses. The new 
+approaches include light-licensing models or individual licensing under certain sharing conditions that can 
+allow spectrum utilisation while the incumbent user -an entity having preferential rights of use -is not 
+utilising the spectrum. Other spectrum sharing models are already in place, and the permanent innovation 
+in spectrum sharing scenarios provides additional opportunities for greater spectrum sharing which needs 
+to overcome the reluctance from incumbents to share spectrum resources currently used for critical 
+applications, such as national defence and security, transportation systems, safety-of-life and safety-of-
+flight. Maximising spectrum resources for wireless communications and promoting its efficient use, needs to 
+rely on a set of policy principles, such as transparency, flexibility, competition, and so forth. Spectrum 
+auctions have been effectively deployed for two decades and have assisted in the allocation of spectrum 
+through making greater use of the market. In that respect, incentive auctions constitute an innovative 
+approach that has been proposed by the United States Federal Communications Commission as a voluntary, 
+market-based tool to transfer spectrum resources from broadcasters to communication providers. It can 
+play a crucial role in driving spectrum resources from less to more valuable uses, according to the 
+valuation criteria of different administrations. When assessing the value of allocating spectrum bands to 
+different services, policy makers need to take into account broader societal values, such as media plurality 
+and cultural diversity. They should also assess the impact of spectrum management on the industry's 
+competition trends. THE ECONOMIC VALUE OF SPECTRUM A question that arises when policy makers consider the radio spectrum is its valuation in terms of the 
+contributions its exploitation makes to economic and social development. Will, for example, the use of a 
+part of the spectrum for one communication service over another provide greater value to an economy and 
+better meet public policy objectives? One approach to determining the value of spectrum is to sell the right 
+to make use of part of the radio spectrum, such as via an auction, or by introducing a mechanism to enable 
+an existing rights holder to trade that resource. This enables the market to play a role in determining the 
+fiscal value of spectrum and assist in assessing the economic valuation of any transition from one use to 
+another. A market assessment of the valuation of a part of the radio spectrum will take into account many 
+factors including the existence of any distortions contained in processes used for assignment. From the 
+perspective of a communication service provider, the economic value of spectrum is associated with the 
+revenues and financial returns achieved through the use of these resources. This can, in turn, be a function 
+of factors such as regulatory conditions, competition, spectrum rights, technological development, 
+propagation characteristics, assessed demand for services and so forth, as highlighted in the joint 
+BEREC/RSPG report (BEREC/RSPG, 2012). The Radio Spectrum Policy Group (RSPG) has also 
+launched a public consultation on licensed shared access (RSPG, 2012). A non-exhaustive list of studies 
+that estimate spectrum value is provided in the Annex to this report. Apart from market valuations, authorities take a further broad range of objectives into consideration 
+when establishing spectrum policy. Some of these uses of the radio spectrum are potentially measurable in 
+terms of valuation including by the use of market mechanisms. While it has been noted, such as in the joint 
+BEREC/RSPG report, that market prices are only one factor to be taken into account in an overall 
+macroeconomic assessment, market mechanisms can provide a valuable and transparent tool to be 
+considered in developing spectrum policy. Virtually all sectors of the economy, from education to health NEW APPROACHES TO SPECTRUM MANAGEMENT 10 OECD DIGITAL ECONOMY PAPERS care or SME productivity, could benefit from more widely available and efficient wireless broadband 
+services. Making sufficient spectrum available to support these requirements, therefore, is a priority for all 
+policy makers while taking into account factors such as the continuity of services critical for economies 
+and societies, such as use by defence and emergency services, as well as existing commitments. This 
+section examines and provides an overview on measuring practices of spectrum values that can be 
+quantified while reflecting broader economic and social development. 2 The economic valuation of the radio spectrum is challenging due to its inherent complexity, 
+dependency on market conditions, data scarcity and forecast techniques, even though efforts have been 
+made to value parts of the spectrum related to specific uses. In the United Kingdom, for example, the 
+Department for Business, Innovation and Skills (BIS) and the Department for Culture, Media and Sport 
+(DCMS) published a report, in 2012, which estimated the economic value of spectrum allocated to public 
+communication services (e.g. mobile services, television broadcasting and so forth). The report concluded 
+that public mobile communications generated a value of USD 48.7 billion in 2011, while the largest 
+economic value derived from other services was USD 12.4 billion, which was produced by television 
+broadcasting (BIS and DCMS, 2012). Some studies attempt to assign broader considerations in any valuation of the use of a part of the radio 
+spectrum. An exercise conducted by the Australian Mobile Telecommunications Association (AMTA), for 
+example, provided an indication of the importance of spectrum to the economy and society, without 
+valuing the spectrum as such. It not only predicted a total economic value (USD 14.5 billion for 2011-12), 
+through the use of spectrum, but also indicated what would be the benefits in terms of employment, 
+i.e. how many jobs would be added to the industry by the position it advocated (AMTA and Deloitte, 2013). 
+This study made the case for additional spectrum to be made available for mobile broadband, by showing 
+the social impact of mobile technologies and their importance to business. There are many studies that take a position on certain approaches to spectrum management and then 
+endeavour to associate a value to pursuing that course of action. One undertaken on behalf of Microsoft 
+looked at the economic value of license-exempt spectrum. It estimated that the unlicensed Wi-Fi use 
+provided a consumer surplus of between USD 52 billion to USD 99 billion per annum globally, by 
+enhancing the value of fixed broadband connections (Thanki, 2012). This study further estimated a further 
+value of between USD 560 billion to USD 870 billion per annum in 2020 for machine-to-machine 
+communications (M2M) using Wi-Fi. This approach endeavoured to assess the value of the spectrum 
+allocated to a specific industry rather than the spectrum size actually allocated in the field. Other studies focus on the incremental economic value from making a specific spectrum bandwidth 
+available for use by certain industries. In the case of mobile communication this could, for example, be the 
+economic value of the digital dividend (e.g. the 700 MHz band in some regions). In 2010, the GSM 
+Association reported an estimated economic value of USD 28.2 billion and USD 4.5 billion in the Asia-
+Pacific region for the 698-806 MHz band under two scenarios (GSMA and Boston Consulting Group, 
+2010). These were the allocations for mobile broadband service and to broadcasting services, including the 
+estimated implications on job creation and government tax revenues. The GSMA has conducted similar 
+exercises for the Asia-Pacific region with assumption of harmonisation (GSMA and Boston Consulting 
+Group, 2012) and also for Latin America, reporting a much higher value generated from mobile services 
+than from broadcasting in those regions (GSMA/AHCIET, 2011). In addition, a GSMA report assessed the 
+incremental benefits from sharing spectrum in the 2.3 GHz and the 3.5 GHz band in the European Union 
+and the United States, considering licensed shared access for mobile network operators (GSMA, Deloitte 
+and Real Wireless, 2014). NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 11 If an analysis is based on the economic welfare gains, for use of spectrum by different sectors, in 
+terms of their percentage contribution to GDP, for a given country or region, the estimations can, of course, 
+vary. These can, for example, range from 0.03% (AMTA, 2009) to 2.04% (GSMA/Plum Consulting, 2013) 
+per annum if used for mobile services, and from 0.05% (GSMA/AHCIET, 2011) to 0.93% (MPA and 
+JIMCA, 2012) if used for broadcasting purposes. The differences between those results can be partly 
+attributed to the variety of market situations in different countries or regions, and also to differences in 
+methodology or in the concept of economic value itself. From this perspective, it can be noted that 
+different concepts of economic value may be used by different studies or even within the same report. In 
+that respect, there seem to be at least three broad categories of approaches taken to measure the value: 
+economic welfare, economic contribution, and productivity increase, as illustrated below. Economic welfare The economic welfare approach is based on classical microeconomic theory that seeks to estimate the 
+sum of economic surplus gained by consumers, producers and governments. This is often called  " social 
+welfare "  despite only including surpluses accrued in markets and measured in monetary terms. This report 
+refers to this as  " economic welfare "  to underline that it does not fully address social value. Economic 
+welfare is usually composed of consumer and producer surplus. The former is a measure of the difference 
+between each user's willingness to pay for a specific service and its actual price. Accordingly, producer 
+surplus accounts for the gap between the price paid and the lowest price at which the seller would be 
+willing to sell (typically the marginal production cost). The sum of producer and consumer surpluses 
+provides the overall benefit from a service provided in the market, such as for mobile communication 
+service and broadcasting. From the perspective of telecommunication policy, this approach is particularly meaningful in that it 
+includes both the benefits from lower prices and of additional subscribers of a given service that requires 
+spectrum, while at the same time reflecting the providers' benefit related to their profits. As economic 
+welfare is measured and estimated only for a specific single market, additional work will be required if 
+policy makers wish to take into account external benefits. These benefits could, for example, be those in 
+related markets (e.g. accrued in the mobile applications market as a result of a larger mobile 
+communication market) or for the whole economy (e.g. increased growth or productivity rates as a result of 
+mobile service provision). This is why welfare gains restricted to a specific market could widely differ 
+from the overall welfare gain. In practical terms, assessing consumer surplus requires an estimation of consumers' willingness to 
+pay, or consumer demand. Given that consumer surplus is the difference between this number and the 
+actual price paid, it would be unrealistic to ask consumers about their willingness to pay directly. Hence, 
+some techniques have been developed to enable estimates to be made. The BIS/DCMS study in United 
+Kingdom tackled this challenge by assuming a linear consumer demand curve and estimating a  " choke 
+price " , at which no consumer would subscribe, that being a demand equal to zero. Although this type of 
+estimation still requires survey-based research on consumers to find out the choke price, in addition to 
+information on actual prices paid and quantities provided (e.g. subscription numbers) it may represent a 
+viable method to measure consumer surplus. Some approaches do not aim at measuring the economic value of spectrum but at estimating consumer 
+surplus in telecommunications markets. A further approach is one that estimates the lower bound for a 
+consumer's willingness to pay by assuming that anyone who adopts a service (e.g. broadband), at a given 
+point in time, would be willing to pay the same subscription price in subsequent years. If communication 
+prices decrease over time, the sum of these price differences would provide an estimation of consumer 
+surplus. NEW APPROACHES TO SPECTRUM MANAGEMENT 12 OECD DIGITAL ECONOMY PAPERS Producer surplus can be estimated from data on revenues and costs incurred by communication 
+providers. Costs are, however, challenging to estimate for several reasons. First, future costs in response to 
+future increases of demand are challenging to predict, given the existence of fixed costs spread across 
+several functions or areas of firms, or even across different services. The United Kingdom study used 
+Analysis Mason's internal databases in addition to the operators' annual reports to estimate their costs. 
+Other studies do not measure producer surplus and, instead, adopt a different approach, such as assessing 
+consumer surplus only. Notwithstanding this, the report carried out for the United Kingdom, noted that 
+over 80% of economic welfare came from consumer surplus both for mobile communications and 
+broadcasting. If authorities are unable to estimate the producer surplus, other indicators may be used as a 
+reference, such as revenues or spectrum market prices. Economic contribution A further approach to spectrum valuation aims to measure the total value added to the economy in the 
+course of industrial production processes or an industry's value chain. The strength of this approach is that 
+it can provide very clear and concrete figures showing how much value, as a result of service provision, 
+can be translated to a percentage of GDP and partly delivered to employees. One of the approaches to measure GDP is the aggregated value added of the different industries of an 
+economy. This can also take into account the indirect contribution to an economy realised by other 
+industries. If a mobile operator purchases equipment, for example to expand its coverage as a result of a 
+spectrum allocation, the demand for that equipment increases and is conducive to an additional value 
+added in equipment sales. This is in addition to the value added from mobile service provision. Similar 
+contributions from third party services provided by a mobile network can be also counted to capture a 
+broader scope of the economic impact of the mobile ecosystem. On the other hand, this approach does not 
+cover benefits for consumers except for a very indirect effect of income increase brought about by the 
+service provision (if such an effect is estimated), so there is a risk that low subscription numbers and high 
+prices may be identified as a positive outcome. A further and relevant consideration is the substantial 
+effects on the whole economy caused by productivity increases over time. To sum up, the economic contribution approach is attractive if policy makers wish to stimulate the 
+economy and increase GDP by activating unused capacity, of an economy, through spectrum allocation. 
+Finally, though unlikely in the OECD area, it has been suggested that the total value added measured by 
+this approach may not be related to living standards when there is little capacity (such as unused labour or 
+capital) available in an economy. From a practical point of view, this approach provides a fairly simple estimation method as it utilises 
+input-output tables that are usually available for most countries. These record the inputs and outputs of 
+specific sectors of the economy. Nonetheless, when estimating indirect effects on other industries in 
+addition to direct effects, it is necessary to identify which industries provided intermediate inputs for the 
+use of the spectrum that enables the communication service. This information gathering process may need 
+co-operation from mobile service providers as it may require additional information or assumptions. 
+Challenges are also expected if the approach intends to include value added from third party services. Productivity increase A further approach would consist of measuring growth as a result of the adoption of services using 
+spectrum resources, in that the use of these services leads to a larger economic output (GDP), capital and 
+labour being equal. For example, an employee may deliver a higher output by using his time more 
+effectively by using mobile communications. A company may replace some computers with smartphones 
+and thus reduce the capital stock devoted to purchasing computers. The difference from the contribution NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 13 approach noted above is that the productivity approach attempts to estimate external effects on GDP 
+growth that would be realised in the long-term. Although productivity does not affect consumers directly, 
+lower service prices enabled by the use of spectrum may increase adoption of services and increase a 
+firm's productivity. This would in turn boost income per capita, which could eventually benefit consumers 
+in a competitive market. This approach may, however, be the most challenging to assess among the three proposed in this 
+section. In Australia, a study estimated the value derived from productivity increases by using a private 
+data source and an internal economic model with several assumptions and scenarios (AMTA and Deloitte, 
+2013). Studies undertaken by the GSMA for the Asia-Pacific region predicted productivity improvements 
+by estimating future Internet adoption rates and their impact on agriculture, services and manufacturing 
+sectors. These methodologies may entail some complexities and can be difficult to replicate with only 
+publicly available information. Over recent years, there has been extensive research on the effects of ICTs on productivity. By way of 
+example, an OECD review of existing literature concluded that the productivity effect is not only 
+significant but also increasing over time (Kretschmer, 2012). One such study, undertaken by Gruber and 
+Koutroumpis in 2010, estimated that mobile communications contributed 0.39% per annum to GDP growth 
+in the OECD area (Gruber and Koutroumpis, 2010). Nevertheless, a study undertaken in the United States 
+lists a number of references that provide estimates on the macroeconomic performance caused by ICT 
+adoption, by also pointing out that it may be premature to ascertain the productivity effects of wireless 
+broadband services (Sosa and van Audenrode, 2011). ECONOMIC IMPLICATIONS OF SPECTRUM HARMONISATION The harmonisation of spectrum bands has significant economic implications for policy makers to 
+consider. While the choices made by individual countries go beyond the scope of this report, there are 
+economic implications resulting from those choices. Spectrum harmonisation is a desirable goal for all types of radio communication services that 
+increases economies of scale for equipment and simplifies assignment procedures. Nevertheless, spectrum 
+harmonisation may be at odds with other policy objectives, such as favouring flexibility by, for example, 
+promoting spectrum trading, or taking due account of specific domestic circumstances (e.g. historical band 
+allocations and incumbent uses) in relation to spectrum planning and management. Innovation in wireless 
+technologies may also be, to some extent, limited by a lack of flexibility in  " band plans "  and technical 
+conditions. On the other hand, these conditions may be strongly desirable to achieve economies of scale 
+and certainty for investment for all players. For example, the opportunities for flexibility originally 
+proposed by the European Commission (WAPECS approach) in the 2.6 GHz band in Europe have not been 
+implemented, as market players preferred to adopt the stable CEPT harmonised band plan which they 
+thought would provide a higher certainty for their investment. Even though new wireless technologies, such as LTE, allow a more flexible use of the different 
+spectrum bands, compared to 2G (GSM) or 3G (UMTS and CDMA2000) technologies, which avoid 
+spectrum fragmentation, the importance of harmonisation is increasingly significant. According to the 
+GSMA's Wireless Intelligence, by 2015 there will be 200 live LTE networks, deployed over 38 different 
+spectrum frequency combinations. 3 This will raise device interoperability issues and may result in 
+spectrum fragmentation. It could reduce the benefits of economies of scale and increase equipment costs, 
+which may result in end-users in certain areas being excluded from the most recent developments in 
+wireless technologies. Moreover, consumers and businesses benefit from cross-country roaming when 
+travelling or doing business abroad. As such, further harmonisation is desirable with notable economic NEW APPROACHES TO SPECTRUM MANAGEMENT 14 OECD DIGITAL ECONOMY PAPERS benefits. For a business this could be, for example, in better improving the management of a fleet. Globally, 
+policy makers could identify one or more candidate bands for global interoperability. A very recent example of these concerns, triggered by the strategy of some device manufacturers, is 
+the inability of users in many European and Asian countries to use LTE services on some iPhone devices. 
+This is because, for some devices, the iPhone's LTE connectivity does not cover the 800 MHz and 2.6 
+GHz bands, used for LTE in many European countries. Moreover, Apple has manufactured three different 
+iPhone models, supporting different bands, which could make carrier switching and international roaming 
+more challenging. Other leading device manufacturers made a different choice and supported the European 
+800 MHz and 2.6 GHz harmonised bands for LTE, which have the advantage of being relatively wide. Spectrum harmonisation: A desirable goal with many hurdles No one denies, of course, the benefits of spectrum harmonisation. Few would argue against existing 
+incentives to achieve economies of scale and simplify device manufacturing. Nonetheless, there are many 
+different obstacles to changing current spectrum uses. These can be, for example, the costs in migration of 
+incumbent systems that may be challenging to move in related policy areas such as national defence and 
+security, transportation systems or navigation tools. Spectrum harmonisation is fully related to the spectrum management approach chosen. For example, 
+allowing spectrum trading (e.g. rights of use) and more autonomous management of spectrum by assignees 
+could potentially be counterproductive for spectrum harmonisation in the medium or long term, as band 
+segmentation plans for licensed spectrum would not be harmonised. Nevertheless, some argue that 
+allowing market forces to work more efficiently could potentially help achieve band harmonisation more 
+rapidly, while others say that harmonisation, when technical parameters are kept to a minimum, should not 
+prevent flexibility. Spectrum trading, increased shared use of spectrum and technology neutrality may not 
+necessarily lead to spectrum harmonisation and economies of scale for equipment, but quite the contrary. 
+Historical band assignments may also be a challenge towards greater harmonisation. Harmonising spectrum at a regional or global level usually includes the following tasks: i) 
+reaching agreements on the lower and upper edge of band covered; ii) 
+guard band definition or, generally speaking, the band's segmentation; iii) the technology and duplexing techniques that may be used in each of the segments/blocks 
+of the bands (e.g. FDD, TDD); iv) arrangements to provide interference protection from adjacent blocks or bands; v) 
+re-allocation and re-planning of existing users and services; vi) channelling; vii) other technical conditions judged necessary to allow service operation in a given band, 
+including sharing conditions, and so forth. These measures aimed at harmonisation are important in that they provide certainty for equipment 
+makers and operators to foresee and assess forthcoming investment. They also facilitate the role of 
+spectrum administrations in co-ordinating frequencies with neighbouring countries and undertake spectrum 
+planning on a long-term basis. Nevertheless, harmonisation measures can involve a high degree of NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 15 complexity, as the introduction of harmonised conditions and procedures need to be co-ordinated among 
+the different countries, usually under a common time schedule. Some believe harmonisation measures could preclude further technological innovations in a band or, 
+more broadly, flexible use of spectrum. Flexibility – enabled by limited harmonisation – may have some 
+advantages as well. For instance, in markets where there is more demand for wireless broadband services, 
+carriers may be able to deploy their own solutions and technologies and maximise capacity or delivery 
+times in these areas. At the same time, there could be more freedom for new technologies to be tested 
+and/or adopted than would be the case when observing harmonised technical conditions and band plans. 
+There seems to be, however, a relatively general consensus that the benefits of harmonisation offset those 
+of flexibility. Spectrum harmonisation is not only important for the provision of commercial communication services, 
+including radio and television broadcasting. It also plays a key role in the provision of public services, such as 
+emergency services (designated as PPDR -Public Protection and Disaster Relief -by the ITU or in Europe or 
+Public Safety in the United States). These are an example of broader societal benefits resulting from 
+harmonised spectrum (WIK-Consult, 2010). For example, recent requests for harmonisation of emergency 
+services in the United States or the European Union area confirm this assessment. Some degree of 
+harmonised spectrum would enable enhanced interaction between emergency agencies in neighbouring 
+countries, using interoperable bands and procedures that enable roaming, for tasks such as natural disaster 
+responses. As for other spectrum uses, it would also enhance economies of scale for equipment used in the 
+provision of emergency services. Common radiofrequency spectrum will advance international aid during 
+disasters and major events. International and regional harmonisation will improve interoperability among first 
+responders and drive suitable devices and standards dedicated to broadband PPDR. The role of the industry Standardisation plays a key role in addressing technology constraints on band harmonisation. 
+International standards bodies such as the ETSI, IEEE, ISO, ITU-T or 3GPP respond to requests from 
+industry and develop standards for radiocommunications. The ability of these bodies to respond quickly to 
+these requests clearly determines the way forward regarding the use of common band plans and technical 
+requirements for emerging technologies or in discussions for harmonising certain spectrum bands. In addition to standardisation, mobile operators and equipment manufacturers may clearly benefit 
+from increased band harmonisation. According to the GSMA, the additional manufacturing costs due to 
+spectrum fragmentation amount to USD 15 per device for a production of 8 million units, USD 1.5 for 80 
+million and USD 0.15 for 800 million devices, subject to certain assumptions (GSMA, 2007). There are, 
+however, several precisions to be made in this respect. In some cases, industry-driven harmonisation may 
+be based on economies of scale that may not be spectrum efficient, or at least in some countries or regions. 
+For example, if a given band segmentation plan is flexible enough for equipment makers to achieve 
+economies of scale it may rather involve some efficiency losses in some regions, which may be justified by 
+lower equipment costs. A different, related issue is the timing of deployments in a given band, which may impose serious 
+restrictions on equipment manufacturers and operators when accommodating future band segmentations or 
+technical requirements. If early deployments in a given band have involved important investments in 
+designing, developing and testing equipment, there may be a strong opposition if further technical 
+proposals are not fully compatible with the initial deployment. Interoperability issues may also have 
+important implications in addition to economies of scale, as policy makers may want to improve consumer 
+switching or guarantee that smaller providers have a fair choice of equipment possibilities. An example for 
+this is the 700 MHz interoperability issues in the United States, described below. NEW APPROACHES TO SPECTRUM MANAGEMENT 16 OECD DIGITAL ECONOMY PAPERS Finally, the industry clearly has a prominent role in putting forward proposals for harmonising bands 
+on a regional or global level. Industry players may first seek to harmonise neighbouring bands of those 
+already used for mobile communications, as this may impose lighter constraints on developing new 
+equipment. These bands also facilitate new deployments for mobile communications and enable easier 
+sharing or upgrading of existing sites. Equipment manufacturers also face limitations in the number of 
+lower frequency bands (under 1 GHz) that a single device can support. An example: The 700 MHz band The 700 MHz band may be the most telling example of harmonisation efforts leading to a series of 
+band segmentation standards. This is because it is perceived to address many of the future requirements for 
+wireless broadband spectrum. The 700 MHz band was at the heart of the discussions at the International 
+Telecommunications Union's (ITU) World Radiocommunications Conference (WRC-12) and will be 
+prominent at the upcoming WRC-15. Known as the  " digital dividend "  band in many countries (e.g. 
+Australia, Mexico and the United States), and the second  " digital dividend "  in Europe, it has been targeted 
+for future mobile communications use. Its favourable propagation characteristics make it ideal for 
+extending coverage in rural areas and increasing indoor reception while reducing investment in mobile 
+network deployments, as fewer base stations are needed to cover a given area. Different regions and/or countries of the world have proposed different band plans for the digital 
+dividend in the 700 MHz and/or 800 MHz bands (Figure 1). While countries from the European 
+Conference for Postal and Telecommunications Administrations (CEPT) have allocated the 790-862 MHz 
+band for mobile communication (digital dividend), the Asia-Pacific Telecommunity (APT) designed a 
+different band plan for the 700 MHz band (698-806 MHz). The Inter-American Telecommunications 
+Commission (CITEL) adopted a recommendation for CITEL administrations that wish to deploy 
+broadband networks to meet PPDR needs in the 700 MHz band, and consider the bands 703-748/758-803 
+MHz and 758-768/788-798 MHz. The WRC-12 allocated the 700 MHz band for mobile use, on a co-
+primary basis, effective after the WRC-2015 in Region 1, so that it could either be allocated to 
+broadcasting or mobile communication services (in Region 1 the 790-862 MHz band had been identified 
+for IMT-2000 at the WRC-07). At the next WRC (WRC-2015), the ITU will have to decide on the lower 
+edge of this allocation, currently at 694 MHz for Region 1. The ITU has also proposed different 
+segmentation plans for the 700 MHz band in its Recommendation ITU-R M.1036, namely proposing five 
+alternatives (A1 to A5). In view of these alternatives, different regions have chosen different segmentation 
+plans (e.g. CEPT for the 800 MHz band, APT and CITEL for the 700 MHz band). Figure 1. Digital dividend band plans (700 MHz/800 MHz) Source: GSMA, Digital Dividend Toolkit. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 17 At the March 2013 meeting of the CEPT's Electronic Communications Committee, a number of 
+countries voiced calls to consider studies on a long-term vision for the UHF broadcasting band. 4 This has 
+been prompted by the WRC-15 agenda Item 1.1 (additional spectrum allocations to the mobile service to 
+facilitate the development of terrestrial mobile broadband), which has discussed proposals for the ITU-R to 
+consider a further mobile allocation in the 470-694 MHz spectrum. Current work at the CEPT includes 
+studies to support the development of a long-term vision of the UHF band in Europe. This would take into 
+account broadcasting spectrum needs, wireless broadband and other applications such as PMSE, and issues 
+surrounding the efficiency of the European approach to the UHF band. 5 Mexico has been one the countries that has adopted the APT band plan for 700 MHz after evaluating 
+the different possibilities, such as being more aligned with that of the United States and Canada or the 
+possibility of achieving larger economies of scale (COFETEL, 2012). Bearing in mind the discussions that 
+are being held in the United States and Canada regarding the band's interoperability and, especially, the 
+larger uplink and downlink bands of the segmentation plan proposed by the APT, Mexico has decided to 
+go forward with the APT band plan. The significant development of LTE technologies in Asian markets, 
+such as China, where most of the world's population lives, is likely to enhance the economies of scale of 
+device makers and lower the end price of devices for those countries adopting this plan. The Mexican regulator, Cofetel, has undertaken technical studies to estimate the time required to 
+deploy a wireless network using the APT and the United States band plans, drawing the conclusion that the 
+time required for deployment would be at least 1.5 times longer if using the United States band plan, initial 
+investment would be 5.6 times higher and mobile carriers would need to deploy 4.5 times more radio 
+stations. Nevertheless, given that the United States and Mexico share a land border, required co-ordination 
+needs to take place to address potential harmful interference between emissions in border areas of both 
+countries. Based on the benefits of the APT band plan, together with the co-ordination costs for the United 
+States/Mexico border, Mexico has decided that the APT plan remains the preferable option. A further challenge that countries face when assessing the use of the 700 MHz for mobile 
+communications services is the bandwidth needed by broadcasting services, even though the technological 
+evolution of broadcasting standards (e.g. DVB-T2, MPEG4, HEVC) or increased multiplexing rations may 
+partly address these concerns. Another challenge may be other incumbent users of this band in some 
+countries, such as programme making and special events applications (PMSE). More generally, a number of issues need to be considered when governments design band plans and 
+technical conditions for a given band (Box 1). Economies of scale arising from regional and global 
+standards are an important criterion, but they have to be balanced against other constraints, such as 
+possible interference with other services in neighbouring bands, international co-ordination of frequencies 
+between neighbouring countries and existing allocations or deployments in a given country. For the latter 
+case, the existence of public emergency services deployed in a certain band, which are costly to migrate, 
+may be a strong reason for a country to prefer one band plan over another. NEW APPROACHES TO SPECTRUM MANAGEMENT 18 OECD DIGITAL ECONOMY PAPERS Box 1. Australia's 700 MHz band harmonisation In June 2010, the Australian Government announced that it would release 126 MHz of broadcasting spectrum 
+between 694 MHz and 820 MHz as a digital dividend. Subsequent to this decision, the Australian Communications 
+and Media Authority (ACMA) commenced preparing the spectrum for sale. A critical part of this work was to decide 
+the fundamental band plan upon which the new spectrum licences would be based. As a technology-taker with a 
+comparatively small population, harmonisation is a key driver in Australia's international spectrum engagements. In considering the optimal band plan for Australia, the ACMA identified a number of priorities, including: selecting a 
+band plan that would maximise efficiency and utility of the spectrum -with a key objective being the ability of the 
+frequency arrangements to provide for channels of up to 20 MHz (desirable for Long Term Evolution (LTE) 
+technology), as well as realisation of the benefits of economies of scale and roaming through spectrum harmonisation. The ACMA considered these priorities against existing digital dividend band plans. While the United States digital 
+dividend (698–806 MHz) frequency range largely aligns with Australia's, the United States 700 MHz band plan did 
+not meet Australia's objective of providing channels up to 20 MHz or maximise efficiency to the extent desired by 
+Australia (because of its interleaved small blocks of spectrum, requiring more guard bands than a single contiguous 
+block and making handset design more complex). The European band plan was also considered, but was found to be 
+unsuitable for Australia as there is only a partial overlap (790–820 MHz) between the European and Australian digital 
+dividend frequency ranges. For the first time, a specific Asia-Pacific harmonised digital dividend band plan was considered. Australia, led by the 
+ACMA, was a key driver in this undertaking, working with other Region Three countries within the Asia-Pacific 
+Telecommunity Wireless Group (AWG) to develop the band plans. There are two Asia-Pacific Telecommunity (APT) 700 MHz plans, one for Frequency Division Duplex (FDD) 
+technologies and one for Time Division Duplex (TDD) technologies. The APT band plans were refined over a period 
+of two years, during which time numerous related studies were conducted (including band edge studies), before being 
+finally agreed in September 2011. Both band plans have been adopted as part of the LTE standard by the international 
+3rd Generation Partnership Project (3GPP) and maximise efficient use of the spectrum. Australia has adopted the FDD version of the APT band plan, which identifies two 45 MHz segments of paired 
+spectrum within 703–803 MHz, optimised for mobile broadband. It offers the opportunity for significant economies 
+of scale, enabling cheaper devices and international roaming benefits. APT FDD 700 MHz plan The ACMA has been working to promote the APT band plan throughout Region 2 and Region 3, with a large number 
+of countries across the Asia–Pacific region now committed to, or seriously considering, its adoption. Currently, some 
+20 countries including Australia, India, Indonesia, Japan, Korea, Malaysia, New Zealand, Pakistan, Papua New 
+Guinea and Singapore, have announced adoption of the plan or variants of it that will retain much, if not all, of the 
+harmonisation benefits. Other APT countries such as Cambodia and Thailand are all also actively considering the 
+adoption of the APT band plan. Outside of the APT community, major interest in the APT plan has been shown by 
+African and Middle Eastern countries. Numerous Latin American countries have adopted, or indicated an intention to 
+adopt, the plan including Brazil, Chile, Colombia, Costa Rica, Ecuador, Mexico, Guam, Panama, Peru and 
+Venezuela. The plan also has the potential to influence consideration on the use of the 700 MHz band for mobile in 
+ITU Region 1, which includes Europe, Africa, the Middle East and Russia. This issue is agenda item 1.2 for the 2015 
+World Radiocommunications Conference. The APT 700 MHz band plan has the opportunity to be the most highly harmonised band for mobile broadband 
+internationally and offers the potential for markets of several hundreds of millions of subscribers. The resulting 
+economies of scale for APT band plan-compliant devices are expected to be substantial, with corresponding economic 
+and consumer benefits. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 19 An example of the complexities of achieving a harmonised band at the national level and the 
+associated interoperability requirements is the 700 MHz band in the United States (Box 2). Box 2. Cost and benefits of a harmonised band at national level In 2012, the FCC sought comment on the possibility of promoting interoperability in the lower 700 MHz band (FCC, 
+2012). According to the United States band plan, the 700 MHz band is comprised of 108 MHz of spectrum: 70 MHz 
+of commercial, non-guard band spectrum, 24 MHz of public safety spectrum, 10 MHz of spectrum to be reallocated 
+for public safety use, and 4 MHz of guard band spectrum. The lower 700 MHz spectrum band contains 48 MHz of 
+spectrum, divided into five spectrum blocks (A to E). In turn, the 3GPP has developed standards for LTE in the lower 
+700 MHz band, namely in two different 3GPP operating band classes in order to address interference issues (A block 
+is adjacent to the television channel 51, and exclusion zones in the uplink are adjacent to potential high power uses in 
+the E block on the downlink): Band Class 12 and Band Class 17. Band Class 12 covers the lower A, B and C blocks, 
+and is held by Verizon and small carriers. Band class 17 covers the lower B and C blocks, where AT&T has a 
+significant spectrum holding. A number of lower A block licensees argued that, as a consequence of economies of 
+scale, equipment makers had little incentive to provide equipment for them to operate in these bands. They also 
+argued that there was no technical reason, from an interference perspective, for the existence of Band Class 17. The 
+supporters of Band Class 17 filtering argued that it was needed to tackle potential interference with TV Channel 51 
+and high power E block operations. In particular, the proponents of interoperability in the lower 700 MHz bands seek to freeze the distribution of any 
+equipment not capable of accommodating all band plans in the lower 700 MHz band (hence those supporting Band 
+Class 17 only would be banned from the market), so that all devices operating in this band would be interoperable, in 
+the sense that they would all operate on all the lower 700 MHz spectrum blocks. The main opponents to the 
+interoperability obligation, AT&T and Verizon, as well as device manufacturers such as Qualcomm and the 
+manufacturers association TIA, argued that interoperability does not fix the interference problem, that it could delay 
+the deployment process and increase device cost. They also argued that requiring interoperability would have 
+undermined future investment in 3GPP standards, and that the current standards are technologically sound. On 10 September 2013, a number of the principal wireless providers licensed in the band, along with the Competitive 
+Carriers Association, announced a voluntary industry solution that would resolve the lack of interoperability in the 
+Lower 700 MHz band. On 25 October 2013, the FCC adopted an order that took steps to implement the industry 
+solution, based on its finding that the voluntary agreement would serve the public interest by encouraging the efficient 
+use of spectrum and enabling consumers to enjoy the benefits of greater competition. The Commission's order 
+addressed interference concerns raised in the proceeding by modifying the technical rules for the D and E blocks, so 
+as to remove the likelihood of harm caused by attendant power levels while continuing to allow high-value uses of 
+these blocks. The order concluded that interference from adjacent channel 51 operations was unlikely to disturb B 
+and C block operations and was not an impediment to interoperability. The order proposed to modify AT&T's B and 
+C block licenses to incorporate AT&T's commitments to help achieve lower 700 MHz interoperability and made 
+changes to construction requirements and deadlines for A, B. and E block licensees. While this issue was resolved by a complicated, multi-part voluntary agreement that provides for interoperability, the 
+episode nonetheless clearly illustrates the complexities of achieving device interoperability, as well as the technical 
+and economic and country-and band-specificity of the issues. Lack of interoperability can slow device production 
+and reduce economies of scale, while leaving the smaller carriers with fewer device options to choose, which 
+eventually harm consumers. NEW APPROACHES TO SPECTRUM MANAGEMENT 20 OECD DIGITAL ECONOMY PAPERS Regional vs. global harmonisation Spectrum harmonisation may take place at the global (e.g. ITU) or the regional level (e.g. CEPT, 
+APT/CITEL, the European Union), in addition to band harmonisation within a country (which may be 
+important for larger countries) or bilateral talks to ensure spectrum compatibility across borders. All three 
+levels impose constraints on the whole process. For example, some regions, such as the European Union 
+area or, more broadly, the CEPT, may pursue regional harmonisation plans so that interference mitigation 
+is facilitated by ensuring that all countries in that region undertake spectrum transition at the same time. Regional economic unions, such as the European Union, may have broader economic objectives such 
+as pursuing a single market, which would be significantly favoured by harmonised band plans. In this 
+respect, the European Union and the CEPT work closely to assist each other in bringing forward greater 
+harmonisation in Europe. For example, the CEPT received the mandate from the European Commission to 
+develop technical conditions for the use of the 700 MHz band by wireless broadband and emergency 
+services, which will have to be ready for 2015. In particular, CEPT was mandated to develop a preferred 
+technical arrangement and to identify common and minimal (least restrictive) technical conditions for 
+wireless broadband use in this band, subject to a precise definition of the lower band edge, to avoid 
+interference in adjacent bands (in compliance with the harmonised conditions for the 800 MHz), and to 
+facilitate cross-border co-ordination. In order to guarantee broader policy goals such as the accomplishment of the single market, some 
+bands are harmonised at the European level by the European Commission (assisted by the CEPT), to allow 
+for a co-ordinated approach in terms of technical conditions and migration paths. Even though this may 
+delay migration to new uses in some countries, the above-mentioned benefits prevail and support regional 
+spectrum harmonisation in some cases. As noted above, there is currently no clear globally agreed policy 
+as to favouring regional over global harmonisation, even though global harmonisation is a long-term 
+desirable goal and regional and national harmonisation a suboptimal outcome. Advancing regional harmonisation may also help leverage a higher bargaining power in international 
+negotiations. As some have noted (NTIA, 2008) the adoption of globally harmonised bands may be an 
+option for some countries, notably the largest economies, while a must for others. Despite larger countries 
+having this possibility, increased recognition of the benefits of band harmonisation is taking place 
+worldwide. In the United States, the PCAST report notes, for example, that this country should make 
+international harmonisation of spectrum allocations to wireless broadband, particularly in bands used or 
+planned to be used for mobile broadband communications, a key element of its future position at WRC-15 
+and in bilateral and regional discussions with its own neighbours, Mexico and Canada. Despite this rising trend, band harmonisation negotiations and migration are lengthy processes, which 
+may take many years to negotiate, develop and implement, and that need to consider many of the existing 
+constraints such as incumbent uses, interference from neighbouring bands and international co-ordination. SHARED USE OF SPECTRUM: DIFFERENT MANAGEMENT APPROACHES An additional way to maximise spectrum efficiency This report examines a number of ways to increase the amount of spectrum resources available for 
+communication services and related uses, including by increasing its efficiency. In that respect, spectrum 
+sharing seeks to better exploit a part of this resource that may be underutilised or with innovative 
+approaches could be exploited to a greater extent. Spectrum sharing is already being used in some cases 
+and is constantly innovating. To accomplish this goal there is a need to examine regulatory instruments that 
+may not have been fully exploited to date and that may address some of the current challenges associated NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 21 with the increasing demand for spectrum. Shared use of spectrum, whether license-exempt or licensed, is 
+already widely utilised in some circumstances (e.g. Wi-Fi networks, wireless microphones, private mobile 
+radio, fixed service), but there is a growing advocacy for such opportunities to cover some specific bands 
+that are now used for other services and to raise the awareness of policy makers on the opportunities 
+created by spectrum sharing. An element in these discussions is, however, whether spectrum sharing is authorised in a license-
+exempt or licensed environment (including through light licensing), as both approaches have pros and cons. 
+Traditionally, mobile operators have argued for a fully licensed, exclusive use of spectrum as a basis to 
+underpin their business models and provide legal certainty. On the other hand, in the area of proximity 
+networks, the benefits of license-exempt use (i.e. general authorisation in some jurisdictions) have proved a 
+tremendous success enabling applications such as Wi-Fi, Bluetooth and wireless microphones (Benkler, 
+2012). Mobile operators themselves widely use Wi-Fi offloading techniques to optimise the performance 
+of their networks (OECD, 2013, WIK-Consult, 2013). Wi-Fi is now embedded in all smartphones and 
+tablets. The established practice is that indoor coverage in mobile networks is provided through outdoor base 
+stations (macro cells) but the fundamental problem is that most mobile broadband capacity is consumed 
+indoors and/or within the local area. This suggests that some frequencies could be shared to provide indoor 
+capacity at the local area level, for example through femto-cells. This requires network sharing 
+management, and thus the use of a combination of different types of spectrum licensing approaches 
+simultaneously. Whatever approach is favoured, this report starts from the assumption that careful spectrum 
+inventories could be undertaken in order to assess possible spectrum supply to accommodate new 
+applications and, against policy goals, the possibilities of shared use in each of the bands, in light of current 
+uses. This assessment can be based on different scenarios depending on the applications that require access 
+to the spectrum. Authorised shared access/licensed shared access (ASA/LSA), as defined in this section 
+may become an increasing opportunity to accommodate new spectrum capacity needs, provided that a 
+balanced approach and sufficient certainty are provided for all stakeholders involved. 6 Another very 
+important benefit from spectrum inventories is a clear picture of the extent to which spectrum resources are 
+being actually utilised, which could highlight opportunities for sharing. The practical implementation of 
+spectrum inventories needs to be carefully assessed, as they can become relatively complex and involve 
+onerous implications for regulators and licensees. In any event, a detailed implementation plan and a cost-
+benefit analysis could be undertaken. In this new environment, rights and obligations of each type of spectrum user could be clearly defined. 
+First, the new licensing environment (or license-exempt) must be backed by spectrum compatibility 
+evidence and scenario-based analysis of the possible licensing frameworks. In addition, any possible 
+implementation of shared use of spectrum may have to be aligned with other spectrum policy goals, such 
+as spectrum harmonisation of bands at a regional, or even global level, to enhance economies of scale. In 
+that respect, for example, opening a band for license-exempt use may undermine efforts to clear and 
+harmonise a given band for exclusive licensed use. Which licensing regime? Beyond the overarching principles to which spectrum policy should adhere, such as observing, to the 
+extent possible, technological and service neutrality, ensuring the highest degree of legal certainty for 
+market players and other stakeholders, or providing transparent, clear conditions for the use of spectrum 
+resources, the reality is that spectrum licensing schemes do not always achieve these goals. Clearly, history 
+and legacy regulation play a role as does regulatory inertia or resistance to change. The overall situation NEW APPROACHES TO SPECTRUM MANAGEMENT 22 OECD DIGITAL ECONOMY PAPERS becomes increasingly complex as spectrum is a strategic asset for governments, with far-reaching 
+implications on national security, defence and the provision of basic public services, such as emergency 
+assistance. Nonetheless, spectrum regimes in OECD countries evolve and adapt to new technologies as 
+well as the need to accommodate market mechanisms to promote the more efficient use of spectrum. Traditionally, the role of government in spectrum management can be categorised into three major 
+approaches: i) command and control; ii) market mechanisms; and iii) license exemption. As a matter of 
+fact, these three approaches are not mutually exclusive, nor are their designations fully accurate or 
+mutually exclusive, but they serve the purpose of a broad categorisation of recent spectrum management. 
+For example, license exemption is subject to complying with some regulations, i.e. on transmitter and 
+receiver power limits, whereby individual licensing schemes do incorporate some market mechanisms, 
+such as trading of rights of use. Market mechanisms include spectrum trading, which plays a significant 
+role in the United States wireless market but has not been very successful elsewhere to date, especially in 
+Europe (with some exceptions such as the trade of rights of use in the 3.5 GHz band by operators and local 
+authorities in France). The Electronic Communications Committee of the CEPT provides a different categorisation of these 
+approaches, based on the licensing schemes, focusing on the requirements of the authorisations/licenses 
+granted for the use of spectrum (Table 1). Table 1. Regulatory options towards spectrum licensing Individual authorisation 
+(Individual rights of use) General authorisation 
+(No individual rights of use) Individual license 
+Light licensing 
+License exempt Individual frequency 
+planning / co-ordination 
+Traditional procedure for 
+issuing licenses Individual frequency 
+planning / co-ordination 
+Simplified procedure 
+compared to traditional 
+procedure for issuing 
+licenses 
+With limitations in the 
+number of users No individual frequency 
+planning / co-ordination 
+Registration and/or 
+notification 
+No limitations in the 
+number of users nor need 
+for co-ordination No individual frequency 
+planning / co-ordination 
+No registration nor 
+Notification Source: OECD, based on ECO (ECC Report 132) Policy makers are recommended to not only pursue one option towards maximising the amount of 
+spectrum available for communications and its efficiency. This report encourages them to advance 
+initiatives in different areas, while ensuring consistency. One of these approaches is the shared use of 
+spectrum, whereby several users may have access to the same spectrum resources, on a license-exempt 
+(unlicensed) or licensed basis. There are several approaches between a pure  " command and control "  model, i.e. a traditional 
+licensing scheme, and license-exempt use of spectrum. Unlicensed bands also involve requirements, such 
+as standard compliance, as the devices may not cause harmful interference nor request protection against 
+interference. Wi-Fi technologies in the 2.4 GHz (band designated for industrial, scientific and medical -
+ISM-use) and 5 GHz bands and applications in the 800/900 MHz band, are the most significant example 
+of unlicensed bands. Wireless microphones, radiofrequency identification (RFID) systems, medical 
+equipment, or smart grid communications make use of license-exempt spectrum. The development and use 
+of Wi-Fi is one of the most successful examples of the use of unlicensed and shared spectrum. Today, it is 
+not only used by millions of users around the world it is playing an increasing role in areas such as NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 23 offloading mobile traffic on to fixed networks (Comscore, 2012). 7 In Australia, this type of regulation for 
+spectrum is referred to as  " class licensed spectrum " . Many have wondered to what extent unlicensed bands suffer congestion or diminishing quality of 
+service. A consultancy report undertaken for Ofcom in 2009 found that the majority of problems 
+experienced by Wi-Fi users in the 2.4 GHz band were not spectrum-related, but mostly due to 
+configuration issues or problems with the wired Internet (MASS Consultants Limited, 2009). The report 
+said, however, that some inner city locations, such as in central London, exhibited signs of congestion and 
+interference, which they said was expected to increase. Wi-Fi in the 5 GHz band is less condensed and has 
+much more bandwidth, enabling non-overlapping channels and higher throughput. According to the Radio Spectrum Policy Group (RSPG),  " Collective Use of Spectrum (CUS) allows 
+an unlimited number of independent users and devices to access spectrum in the same range of designated 
+CUS frequencies at the same time and in a particular geographic area under a well-defined set of 
+conditions. "  A well-known example of successful CUS implementation is the 863-870 MHz band in 
+Europe, used by remote control devices, wireless microphones, hearing aids, RFID, audio transceivers, 
+alarms, etc. As opposed to ASA/LSA, CUS does not grant exclusive access to spectrum nor provide 
+interference protection from other users (RSPG, 2011). Authorised shared access/licensed shared access Even though a systematic approach towards maximising spectrum availability for wireless broadband 
+would suggest targeting bands used for public purposes (defence, aeronautical, and so forth), clearing these 
+may entail significant costs and long transitions. In 2010, for example, the President of the United States 
+issued a Presidential Memorandum entitled  " Unleashing the Wireless Broadband Revolution "  requiring 
+that the Federal Government make available 500 MHz of federal or non-federal spectrum for both mobile 
+and fixed wireless broadband use by commercial users within a decade (United States White House, 2010). 
+In March 2012, the National Telecommunications and Information Administration (NTIA) concluded that 
+clearing just one 95 MHz band by relocating existing Federal users to other parts of the spectrum would 
+take 10 years, cost some USD 18 billion, and cause significant disruption to incumbent users (NTIA, 2012). In 2011, against this background, an industry consortium put forward a new framework to share 
+spectrum based on the concept of licensed or authorised shared access. Qualcomm and Nokia Siemens 
+Networks (NSN) propose a concept, Authorised Shared Access (ASA), a framework to share spectrum 
+between a limited numbers of users. Under this concept, the existing spectrum user(s) ( " the incumbent(s) " ) 
+would share spectrum with one or several licensed ASA users ( " ASA licensee(s) " ) in accordance with a set 
+of pre-defined conditions. These conditions may be static (e.g. specific exclusion zone or time allowed for operation) or dynamic 
+(e.g. geographic/time sharing, on-demand authorisation by ASA licensees or on-demand restrictions 
+imposed by incumbents). Dynamic implementation of ASA takes advantage of the recent advances in 
+geolocation and database technologies, allowing spectrum sharing on a frequency, location and time 
+sharing basis. However, in the case of the incumbent(s) imposing restrictions, a system for updating, 
+maintaining and providing the access conditions would first need to be established. The CEPT is 
+contributing to the harmonisation of the 2.3, 3.4-3.6 and 3.6-3.8 GHz bands for IMT and IMT-Advanced 
+systems, covering various scenarios. 8 According to the proposed ASA arrangement, band sharing would not be static and it would probably 
+involve some compensation to the incumbent user in exchange for some quality of service (QoS). An ASA 
+approach could benefit from dynamic assignment of channels, which could lead to a higher degree of 
+spectrum utilisation. ASA also differs from the emerging  " white space "  model in that the channel NEW APPROACHES TO SPECTRUM MANAGEMENT 24 OECD DIGITAL ECONOMY PAPERS borrowers would be limited in number, licensed and subject to sharing rules included in their rights of use. 
+Under white space devices (WSD) rules, there are no negotiations with incumbents and the number of 
+opportunistic users is unlimited and their identities unknown, which for some increases concerns about 
+possible interference and the practicality of tackling them. Another possible advantage of ASA is that it is 
+implemented at the network level without any impact on devices, thus avoiding lengthy processes relating 
+to device development. This facilitates a faster time to market and the achievement of economies of scale. In Europe, shared and collective use of spectrum is widespread, including shared use for civil and 
+military applications. In 2012 the European Commission has issued a Communication on  " Promoting the 
+shared use of radio spectrum resources in the internal market " . The CEPT and the RSPG, are considering 
+the refined regulatory approach of ASA, the so-called  " Licensed Shared Access "  (LSA).  " Licensed shared 
+access "  (LSA) aims to foster the potential to share spectrum, not only limited to the IMT bands, in a 
+harmonised manner under a licensed regime. According to the RSPG definition, LSA is as  " a regulatory 
+approach aiming to facilitate the introduction of radio communication systems operated by a limited 
+number of licensees under an individual licensing regime in a frequency band already assigned or 
+expected to be assigned to one or more incumbent users. Under the LSA approach, the additional users are 
+authorised to use the spectrum (or part of the spectrum) in accordance with sharing rules included in their 
+rights of use of spectrum, thereby allowing all the authorised users, including incumbents, to provide a 
+certain Quality of Service (QoS) " , (RSPG, 2013). Hence, over the CUS, the LSA gives some rights to a 
+new user. The concept still needs to be put into practice. The 2.3-2.4 GHz band is under consideration by 
+the CEPT, which is currently developing regulatory provisions based on LSA. LSA aims to facilitate the 
+introduction of new users requiring certain QoS in a frequency band, while ensuring the long-term 
+incumbent use. In the United States, two reports from the President's Council of Economic Advisors in Science and 
+Technology (PCAST) and from the National Telecommunications and Information Administration (NTIA) 
+have been major drivers towards the increased shared use of spectrum. The PCAST report  " Realizing the 
+full potential of government-held spectrum to spur economic growth "  found that clearing and reallocation 
+of Federal spectrum is not sustainable due to high cost, lengthy implementation and possible disruption. It 
+sets as a priority the recommendation that the United States Secretary of Commerce immediately identifies 
+1 000 MHz of Federal spectrum in which to implement the new architecture and thereby create the first 
+shared-use spectrum superhighways, thereby advancing the President's directive from 2010. The report 
+strongly highlights that the norm for spectrum use should be sharing, not exclusivity. Moreover, spectrum 
+management should focus on avoiding fragmentation, by specifying  " large frequency bands that can 
+accommodate a wide variety of compatible uses and new technologies that are more efficient with larger 
+blocks of spectrum. "  It draws attention to the fact that spectrum, in the United States, is largely fragmented 
+which prevents the use of these larger bands in that country. The recommendations represent a change 
+from previous approaches and are not supported by all players in the wireless industry. As mentioned in 
+the section on spectrum harmonisation, this situation is rooted in historical reasons and in a higher degree 
+of flexibility in spectrum allocations in that country. The PCAST report recommends that policies enabling commercial access to Federal spectrum be 
+based primarily on their potential benefits for innovation and growth in wireless devices, services and 
+associated markets, treating direct revenue considerations as secondary. More specifically, recom-
+mendation 7.1 of the PCAST report recommends that the Federal Communications Commission (FCC), 
+together with the NTIA, start the process to modify the rules to allow  " general authorised access "  devices 
+to operate in two bands in the NTIA Fast Track list, specifically the 3 550-3 650 MHz (radar) band and 
+another to be determined by the NTIA and FCC. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 25 In a similar framework to that of ASA, the FCC has put forward a Notice for Proposed Rulemaking 
+(NRPM) to allow shared use of spectrum in the 3.5 GHz band, in line with the PCAST recommendation. 
+The NPRM proposes a scheme for shared use of spectrum and small cells, and seeks comment on the 
+possible arrangements for implementation. The FCC proposes a multi-tiered shared access model, by 
+means of a spectrum access system (SAS) with a dynamic database managing the new  " Citizens 
+Broadband Service " . This service is aimed at tackling capacity shortages. The initial proposed model has 
+three tiers of service: i) Incumbent Access, ii) Priority Access; and iii) General Authorised Access (GAA). 
+It could be noted that the proposed three-tiered access model departs from ASA's two-tiered proposal and 
+allows for a third type of user. The Incumbent Access tier would only consist of authorised federal users of the band, which would be 
+protected from harmful interference. Other users would not be permitted to operate in areas designated for 
+incumbent use. The Priority Access tier would include small cell use by certain users (priority users), 
+which could deliver a certain quality of service to specific locations. As it stands now, the proposal only 
+includes hospital, state and local government as explicit users of this access tier. Priority users would be 
+obliged to register and would be entitled to protection for interference. Finally, the General Authorised 
+Access tier would be assigned to the general public on a best-effort, non-interfering basis, without any 
+entitlement to protection from interference, within designated geographic areas. Residential and business 
+users, as well as service providers, would fall within this access tier. GAA users would also need to register. A further option proposed by the FCC is to extend the band use for GAA use to the 3 650-3 700 MHz 
+band, currently used by wireless Internet service providers on a non-exclusive basis. If implemented, these 
+users would switch from non-exclusive licenses to the license-by-the-rule framework proposed. This holds 
+significant potential for small cell application, in particular regarding geographic sharing, especially in 
+those cases where long distance reach is not critical. Figure 2. FCC's proposed sharing scheme for the 3.5 GHz band Source: FCC, NPRM, 12 December 2012. New spectrum technologies The development of new technologies, such as cognitive radio techniques – beacons, geolocation 
+databases, sensing, and so forth – have allowed the establishment of communications when the channels 
+are available. In 1999, Mitola and Maguire proposed the first software defined radio (SDR) architecture, 
+which consisted of a pair of data converters, providing the maximum flexibility and programmability 
+through the digital processing block (Mitola and Maguire, 1999). What they called  " radio etiquette "  is the NEW APPROACHES TO SPECTRUM MANAGEMENT 26 OECD DIGITAL ECONOMY PAPERS set of radiofrequency bands, protocols, and spatial and temporal patterns that moderate the use of the radio 
+spectrum, thus becoming an excellent platform for providing cognitive radio. The International Telecommunications Union has provided definitions for these new technologies, in 
+order to provide some clarity in the use of these terms (ITU, 2012): Software Defined radio (SDR):  " A radio transmitter and/or receiver employing a technology that 
+allows the RF operating parameters including, but not limited to, frequency range, modulation 
+type, or output power to be set or altered by software, excluding changes to operating 
+parameters which occur during the normal pre-installed and predetermined operation of a radio 
+according to a system specification or standard. "  Cognitive Radio System (CR):  " A radio system employing technology that allows the system: to 
+obtain knowledge of its operational and geographical environment, established policies and its 
+internal state; to dynamically and autonomously adjust its operational parameters and protocols 
+according to its obtained knowledge in order to achieve predefined objectives; and to learn from 
+the results obtained. "  There are various techniques possible to get information about the radio environment, for example 
+sensing, cognitive pilot channel (CPC), or databases. There are also the so-called pre-cognitive 
+technologies, such as Ultra-wide band Dynamic Frequency Selection (UWB DFS), Detect-and-Avoid 
+(DAA) or RLAN DFS (used for radio local area networks). By using DFS, the equipment will search for a 
+different free channel as soon as it detects that the requested channel is occupied. 9 These techniques are 
+used, for example, in the 5 GHz operation of Wi-Fi, as there is some interference from radar systems in 
+that band. The CEPT's Electronic Communications Committee (ECC) has been studying ASA/LSA since 2011. 
+In October 2012, the CEPT Working Group on Frequency management (CEPT WGFM) decided to further 
+develop the necessary regulatory framework to enable ASA/LSA. It established two project teams (FM52 
+and FM53) to study, respectively: i) the 2.3-2.4 GHz band toward a draft ECC Decision and 
+Reconfigurable Radio Systems (RRS); and ii) Licensed Shared Access (LSA) toward an ECC Report on 
+general conditions and band-specific conditions for the implementation of the LSA, establishing the 
+relevant interaction with ETSI. The ECC Report 205 on LSA is now published and under public 
+consultation and the ECC decision on the 2.3-2.4 GHz bank in its final stage (ECC, 2013). Finally the 
+ETSI RRS Technical Body has developed a System Reference Document for mobile broadband in the 2.3-
+2.4 GHz band under the LSA regime with the objective of developing expected usage scenarios, technical 
+characteristics/frequency arrangements and regulatory provisions related to compliance.  " Spectrum holes " , also known as  " white spaces " , are sub-bands of the radio spectrum that are 
+underutilised at a particular instant of time and specific geographic location. A wireless device may 
+identify spectrum holes in three ways: i) by consulting databases which contain information on the 
+availability of spectrum holes in its local neighbourhood; or ii) by sensing the radio spectrum in its local 
+neighbourhood in an unsupervised manner; or iii) by using beacons. The beacon approach requires the 
+transmission from some appropriate infrastructure of a signal providing information on the availability of 
+spectrum holes at the location of the device. In 2009, Ofcom concluded, based on responses received from 
+a consultation, that the beacon approach was the least appropriate and did not merit further investigation 
+for taking advantage of unused interleaved spectrum (white spaces). Ofcom also concluded that the use of 
+databases was the most promising approach, possibly to be complemented in the future with sensing by the 
+wireless device. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 27 Cognitive radio systems are being standardised at all levels, including at the ITU's Working Party 1B, 
+various IEEE's 802 working groups (definitions at 802.11 and 802.22 and components at 802.19, 802.21 
+and 802.22). Moreover, the IEEE's DySPAN standards committee, whose predecessor is the IEEE P1900 
+is developing standards for radio spectrum management with a focus on improved use of spectrum. The 
+ETSI's Reconfigurable Radio Systems (RSS) Technical Committee (TC) is also active in the field. The 
+CEPT's Electronic Communications Committee (ECC) is actively working in cognitive radio issues, by 
+means of the SE43 group, devoted to the discussion of white spaces devices, the Project Team FM, which 
+discusses white spaces and licensed shared access issues, as well as a correspondence group on cognitive 
+radio. In addition, many of the projects of the 7th Framework Programme of the European Commission 
+(FP7) address the research topic  " cognitive radio " . At present, equipment enabled to select the most interference-free operating frequency is widely 
+available. The trend towards dynamic spectrum use means that spectrum allocation policies may need a 
+major overhaul to take into account the implications of these technologies and to increase spectrum 
+efficiency. In the midst of rapid technological evolution, spectrum management could also facilitate the transition 
+of the use of spectrum from less to more valuable applications. In this regard,  " light licensing "  schemes or 
+the proposed ASA/LSA approaches may contribute to this goal, in a context where spectrum trading may 
+be too costly, uncertain to implement or not accepted by the market. On the other hand, when spectrum is 
+available or can be cleared in a reasonable timeframe, many mobile network operators clearly prefer 
+individual licensing schemes, which would make it easier to guarantee certain quality of service. For 
+example, ASA proponents argue that this model involves a full set of rights and obligations for the licensee, 
+guaranteeing legal certainty and quality of service while ensuring protection against interference for the 
+incumbent. MNOs have, however, strongly relied on unlicensed Wi-Fi spectrum to undertake Wi-Fi off-
+loading, which shows the benefits of unlicensed spectrum as a complement to individual licensing and a 
+potential driver for innovation. What spectrum managers are now considering is whether ASA/LSA schemes could add a 
+supplementary licensing scheme, which would complement the existing two, i.e. exclusive licensed and 
+licensed-exempt. On the one hand, it would facilitate monitoring and congestion management, as it would 
+require licensing and the number of licenses would be limited. On the other hand, it would allow for 
+sufficient flexibility in using vacant spectrum resources in the time or space domains. Some mobile network operators have argued that LSA could be applied to frequency bands that could 
+not otherwise be exploited for commercial purposes in the short term (e.g. band clearing/refarming is not 
+possible in the short term). The definition of  " incumbent users "  Spectrum is, of course, allocated to many public users. This includes areas such as emergency 
+services, aeronautical use, the military and so forth, which essentially provide public goods that are 
+challenging to value in financial terms. Nascent schemes to value spectrum used by the public sector are 
+positive steps towards achieving a more efficient use of spectrum. In particular, administrative incentive 
+pricing (AIP), implemented in Canada and in the United Kingdom, provides an effective tool for public 
+users to value their spectrum holdings and an incentive for them to improve efficiency. A recurrent concept used by the proponents of ASA/LSA approaches is that of  " incumbent " . Under 
+the LSA framework,  " an incumbent is a current holder of spectrum rights of use " . Some industry 
+stakeholders, e.g. Qualcomm/Nokia, GSMA, argue for a definition of an  " incumbent "  spectrum holder or 
+users as an entity that has been awarded spectrum resources as a result of a non-competitive tendering NEW APPROACHES TO SPECTRUM MANAGEMENT 28 OECD DIGITAL ECONOMY PAPERS process (i.e. government users). A mobile network operator proposed the definition of  " a current holder of 
+spectrum rights for non-commercial purposes or governmental use " . According to the former views, 
+mobile network operators would be excluded as they have been authorised to use spectrum based on an 
+open auction, beauty contest or first come first served procedure. In the view of these proponents, the use 
+of bands under ASA could be binary by nature, thus only allowing use by the incumbent or, should the 
+band remain unused at a particular point in time or at a geographical location, only be used by MNOs. This departs from some of the proposed approaches such as the FCC's NPRM for the 3.5 GHz band, 
+the Communication of the European Commission on  " Promoting the shared use of radio spectrum 
+resources in the internal market " , and the recent regulation for the 1 900 MHz band enforced in the 
+Netherlands in 2013, where 5 MHz of spectrum in the 1800 MHz (GSM) band were opened for license-
+exempt, low power use by femtocell base stations (private GSM networks to achieve indoor and outdoor 
+coverage). The Netherlands had tested the regulation on a trial-basis for three years with a smaller 
+spectrum band (part of the DECT-guard band) and organisations had to register their use. After three years, 3 000 organisations had deployed their own base stations, which was seen as a 
+success and a sign of strong market demand. To stimulate this use, the government opened up extra 
+spectrum and removed the registration requirement. Using this solution, companies can save money on 
+their calling costs, by handling in-company calls and external calls and routing it via the fixed network. 
+Hospitals use this solution, because it offers better indoor coverage than DECT cordless phones. Event 
+locations, like stadiums and exposition centres, use it to separate the mobile telephony of their personnel 
+from that of the visitors, so that the personnel are not affected by an overloaded network during an event. 
+Other uses of the spectrum might be for mobile networks to deploy their femtocells as well as for users on 
+the edge of network coverage (e.g. rural areas) to provide indoor coverage using self-provisioned 
+equipment. Using the approach adopted by The Netherlands, a country with among the highest population density 
+in the OECD area, may be beneficial for other countries including those with sparsely populated areas on 
+the edge of network coverage. Users at a location, such as on a farm, but with rooftop coverage through an 
+external antenna might be able to use less expensive femtocells to provide service inside a residence or in a 
+surrounding building or location. While such solutions are sometimes made available by MNOs the 
+equipment is sometimes sold at significantly higher prices than likely to be the case if this market was open 
+to competitive supply as in the case in some countries. The femtocell approach has also been used in Japan (see Box 3), with varying requirements in relation 
+to the freedom of consumers to install devices of their choice. Overall, it seems that relaxing the 
+requirements for customers to install small cells or femtocells may promote a wider adoption. These two 
+examples from heavily populated countries are telling in that no apparent disruption of services has 
+happened resulting from these light-licensing approaches, showing that these devices could be used more 
+widely. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 29 Box 3. Femtocells and spectrum policy in Japan In Japan, in April 2008, the Ministry of Internal Affairs and Communications (MIC) decided on a policy aimed at 
+flexible and simple installation and operation of femtocells, by reviewing and clarifying relevant rules including the 
+radio law. The new approach recognised that femtocells could be used to improve coverage in small areas that receive 
+weak or non-existent signals, such as inside a building. Femtocells were considered to be able to contribute to expansion of coverage inside buildings and underground areas, 
+such as in tunnels, where mobile operators had faced challenges to install radio base stations by themselves, through 
+their dedicated lines. However, the law and rules were out of date, in this regard, because they only allowed licensees 
+of spectrum (i.e. mobile operators) to operate base stations including femtocells, thus hindering deployment of new 
+equipment that could be easily controlled by users without any expertise. Amendment to the law was enacted in May 2008 and came into force in October 2008. Relevant administrative rules 
+were also reviewed and modified accordingly. The main points of these modifications are as follows: @BULLET Small base stations, such as femtocells installed inside buildings, were allowed to be licensed collectively for 
+each region, instead of individual licenses required for each such station before the amendment. @BULLET Femtocells and repeaters (amplifiers) were allowed to be operated by non-qualified users who are not licensees of 
+spectrum, without surveillance of qualified technicians. @BULLET Technological conditions such as power limitations that femtocells should meet were established. @BULLET Application formats for collective licenses of femtocells and repeaters were simplified. As a result, the three major mobile operators, NTT DoCoMo, KDDI au and Softbank mobile, began to provide their 
+users with femtocells from 2009 or 2010. These femtocells are connected to fixed broadband access lines to provide 
+additional coverage in the immediate area. KDDI also started to install repeaters that expanded coverage, by 
+amplifying radio waves inside buildings identified as repeaters, when more appropriate by follow-up examination. 
+When these services were taken up, only NTT DoCoMo required users to pay additional cost although it was a small 
+amount (JPY 315 = USD 3.20) although the service was suspended in September 2012. Instead, NTT currently 
+commits to installing a femtocell as a method to improve public coverage wherever found to be necessary, as a result 
+of a visit and examination to a user's premises following notification of a weak indoor signal. For the other two mobile operators, femtocell installation and operation has been free of charge from the outset except 
+for electricity cost and the fixed broadband charge. It is also provided in response to user's notification of a weak 
+signal and a follow-up examination. NTT DoCoMo has recently developed  " Xi femtocell "  that supports LTE in 
+addition to 3G and started to deploy it in December 2012. Source: http://warp.ndl.go.jp/info:ndljp/pid/3196220/www.soumu.go.jp/menu_news/s-news/2008/080417_2.html 
+http://warp.ndl.go.jp/info:ndljp/pid/3196220/www.soumu.go.jp/menu_news/s-news/2008/080709_6.html NEW APPROACHES TO SPECTRUM MANAGEMENT 30 OECD DIGITAL ECONOMY PAPERS In addition to the above-mentioned bands, the following bands (Table 2) are being targeted for a 
+possible implementation of LSA/ASA approaches. Table 2. Possible spectrum bands for ASA/LSA Band 
+Region/area 
+Current use 1 675-1 710 MHz 
+United States, 
+Europe Meteorological aids service and 
+meteorological satellite service. 1 755-1 780 MHz 
+United States Federal systems (fixed microwave 
+communications, military tactical radio 
+relay, air combat training, video links, 
+telemetry, control links, etc.) 2 300-2 400 MHz (2.3 GHz) 
+Europe (CEPT) Defence/telemetry, radiolocation, 
+services ancillary to broadcasting 
+(SAB/SAP). 3 550-3 650 MHz (3.5 GHz) 
+United States Radiolocation Service (RLS) and the 
+Aeronautical Radio Navigation Service 
+(ARNS) (ground-based) 3 400–3 600 and 3 600-3 800 MHz 
+All regions 
+Global identification for 3GPP E-UTRA An issue that can arise in debates surrounding policies promoting the sharing of spectrum is the final 
+definition of incumbent users. To date, this has been clearly targeted at government spectrum holders or, as 
+ASA proponents favour, to spectrum holdings that were not granted through open, competitive tendering 
+processes. Nonetheless, some may want to further increase the scope for sharing, by including spectrum 
+holdings of mobile operators that may be underutilised. There are two major considerations in that respect. 
+First, operators may already do so if they so wish by reaching agreements on infrastructure sharing with 
+other mobile operators, which include spectrum. In principle there may not, therefore, be any need for 
+additional action. Second, spectrum trading has been made possible in an increasing number of markets, 
+although it does not seem to be playing a significant role in most of them. According to a recent survey 
+from the ECC/CEPT (ECC, 2011), some ten CEPT countries still maintain restrictions on spectrum trading, 
+for example on trade in frequency, time or geography, even though the European Union regulatory 
+framework allows these arrangements. Moreover, in CEPT countries where spectrum trading is possible, it 
+has not developed, which may indicate a lack of interest on the part of market players or, more generally, a 
+general need for more spectrum resources. Nonetheless, in a significant number of recent financial 
+transactions between operators such as take-overs or merger bids, access to spectrum is increasingly cited 
+as a major consideration. While noting the existing constraints in some countries, if spectrum sharing gains momentum in other 
+OECD countries, private spectrum licensees – as opposed to government holders -may become more 
+interested in this type of transaction. There will, of course, have to be a win-win arrangement, in terms of a 
+fair remuneration for the party accepting to share its licensed spectrum resources or a clear case for 
+spectrum underutilisation, backed by an independent assessment, or both. Nonetheless, governments may 
+be more and more inclined to move towards these approaches if other initiatives, such as clearing and 
+allocating new bands on an exclusive basis, do not bear fruit or present long-standing and costly barriers 
+for clearance and allocation to new services. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 31 In light of the existing constraints for spectrum trading, another possibility may be that mobile 
+operators are subject to some degree of obligation to share their underutilised spectrum resources, under 
+certain conditions, which would increase spectrum efficiency. Such conditions would need to be developed 
+in those countries that decide to pursue this approach, but they could rely on existing requirements for 
+operators to achieve an acceptable efficiency in the use of spectrum resources, in order to avoid litigation. 
+Spectrum inventories could be used to identify underutilisation of spectrum resources and, therefore, 
+greater opportunities for sharing, bearing in mind the inventories' practical implementation issues and 
+associated costs. An earlier version of shared access – TV White Spaces Box 4 shows some of the current examples of trials of television white space devices: Box 4. Current situation of Television White Spaces in selected OECD countries United States: The Federal Communication Commission's rules permit unlicensed radio devices to transmit on white 
+space spectrum bands used by the broadcast television service (i.e. 54-72 MHz, 76-88 MHz, 470-608 MHz and 614-
+698 MHz). In order to protect television broadcast and other licensed services operating in these bands, the rules 
+require the TV white space devices to obtain a list of channels available for their operation. On 1 March 2013, the 
+Commission's Office of Engineering and Technology (OET) authorised approved television white space database 
+systems to provide service to unlicensed radio devices that operate in these spectrum bands. United Kingdom: Ofcom has been investigating possible use of white space spectrum since 2007. It preliminarily 
+proposed license-exempt access, taking into account geolocation information provided by databases to location-aware 
+white space wireless devices. As a result, Ofcom believes that license exempt devices could be authorised to use 
+television white spaces, provided they operated in specific frequencies and at specific powers communicated to them 
+by a TV white space data base (see Figure), in order to avoid harmful interference with television services operating 
+in these bands. On 26 April 2013 Ofcom announced plans for a pilot of innovative 'white space' technology in the 
+United Kingdom and invited industry to take part in the pilot, which is intended to take place in the autumn. The 
+locations for the trial will be chosen once trial participants have been identified. Following a successful completion of 
+the pilot, Ofcom anticipates that the technology could be fully rolled out during 2014, enabling the use of white space 
+devices across the country. The Cambridge White Space Consortium: This Consortium designed a trial to assist Ofcom in its proposals for a 
+license-exempt access to white space spectrum and to provide information on potential application in this band. Some 
+of the experiments focus on the protection requirements for existing devices, the elements needed in the geo-location 
+database, including reference geometries, coupling factors and protection ratios. They also address the presence of 
+PMSE (Programme Making and Special Events) devices in white space spectrum. The Consortium brings together 
+over 300 companies. In April 2013, Ofcom announced plans for another pilot, with a view to rolling out white space 
+devices technology across the United Kingdom during 2014. 
+…/… NEW APPROACHES TO SPECTRUM MANAGEMENT 32 OECD DIGITAL ECONOMY PAPERS Other pilot projects have been launched in some countries (e.g. Germany, Slovak Republic). White spaces could help 
+alleviate the lack of license-exempt spectrum in some regions or bands (e.g. small unlicensed 868 MHz bands in 
+Europe) and help release spectrum resources for a variety of uses, such as rural broadband, Wi-Fi networks with 
+extended reach or M2M communications. Sources: Ofcom (2012), TVWS Consultation; Cambridge TV White Spaces Trial,  " A Summary of the Technical Findings " , 
+www.cambridgewireless.co.uk/docs/Cambridge%20White%20Spaces%20Trial%20-%20technical%20findings-
+with%20higher%20res%20pics.pdf Policy makers have been examining the possibility of using spectrum segments between active 
+television broadcasting stations in a given area and time ( " interleaved spectrum " ) for wireless data 
+applications. As discussed, in this report, this is not the only approach that is being sought to increase the 
+efficiency of spectrum use, as initiatives such as administrative incentive pricing, incentive auctions and 
+other ways for sharing spectrum are also attracting considerable attention. Nonetheless, the televisions 
+white spaces discussion has been going on for some time, although the availability of devices and actual 
+uptake are still extremely limited. Current provisions on Television White Spaces in the United Kingdom and the United States enable a 
+more flexible use of spectrum, under some conditions, although the approach departs from the proposed 
+ASA/LSA model in that it does not always oblige users of white spaces to register while operating in the 
+band, however the devices have to provide their technical details and their location to the databases. In 
+addition to the United Kingdom and the United States, some other countries have already engaged in 
+consultations regarding white space devices. In 2011, Canada consulted on white spaces and in New 
+Zealand the Radio Spectrum Policy and Planning group is planning to carry out a white space spectrum 
+feasibility to investigate the amount of spectrum available for white space use. In some European countries, 
+such as Denmark, France and Germany, white space spectrum in the UHF band is used for Programme 
+Making and Special Event (PMSE) applications. A practical implementation of the use of white space is yet to be introduced on a widespread basis. 
+The first white space device approval took place in December 2011 in the United States (Agility Data 
+Radio – KTS Wireless), and the first commercial white space broadband network was launched in 
+Wilmington, North Carolina in January 2012. For the time being, however, these deployments remain 
+anecdotal and limited to single communities and take up of the service is very limited. 10 Moreover, it 
+should be noted that in the European Union the regulatory framework for radio equipment largely differs 
+from the rest of the world and involves ad-hoc measures. Despite the necessary precaution for ensuring 
+smooth functioning of existing services, white space spectrum initiatives provide for a flexible license-
+exempt framework to increase spectrum efficiency, in contrast with license-based schemes suggested under 
+LSA/ASA. Two-or three-tiered access In the United States, the PCAST report recommended, when referring to shared use of Federal 
+spectrum, that a three-tier approach be chosen, as opposed to the two-tiered alternative put forward by the 
+proponents of ASA. Its reasoning stems from the principle that all non-interfering uses should be permitted 
+in order to maximise utilisation of spectrum bands where the Federal government is the primary user. Ideally, the newly proposed framework for shared use of spectrum should try to accommodate a 
+variety of approaches, possible applications and business models. While mobile carriers have expressed 
+their preference for a licensed framework based on exclusivity, which enables them to provide quality of 
+service and certainty for their investment, these desirable characteristics could eventually be made 
+compatible with a wider variety of approaches. For example, spectrum resources (at a specific location, at a NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 33 particular time) that remain underutilised could be authorised for general authorised access, taking into 
+account the clearing costs should that band be licensed for exclusive use at a later stage. In that respect, many note the overwhelming success of unlicensed spectrum applications. By way of 
+example, it is often argued that the inferior characteristics of the unlicensed 900 MHz spectrum band in 
+Europe in relation to the United States have imposed a severe burden on the European smart-grid industry. 
+Only 15% of European smart-grid transmitters are wireless (87% in the United States), and those that are 
+wireless use mobile communications, which may entail a higher cost. Some of the proposals for spectrum sharing, such as the FCC's 3.5 GHz NPRM, suggest that 
+databases already developed for white spaces could provide a functional basis and evolve to accommodate 
+a two-or three-tiered spectrum sharing scheme, subject to the inclusion of a set of new parameters. 
+Whether these databases should be administered by a regulator/authority or by an authorised third-party 
+administration is a different discussion, but any foreseen implementation of spectrum sharing could 
+consider and test these implementation issues before they become operational. Any proposed framework for spectrum sharing could be subject to extensive public consultation, 
+which identifies potential, interested parties. Mobile operators seem to have a strong preference for 
+exclusive licensing or priority access to government spectrum where no or little sharing with third-party 
+players takes place. Even though this approach has proven successful in recent years, approaches 
+encouraging the inclusion of third parties may be accommodated in current spectrum holdings. Harmful interference and receiver regulation One of the technical challenges arising from a new environment where sharing is the rule and not the 
+exception, is the issue of interference, in particular harmful interference. The complexity in a shared 
+environment is that harmful interference may need to be defined on an ad-hoc basis, namely for each band 
+and service provided over this band, being potentially complemented by some degree of receiver 
+regulation/specification in terms of interference. It can be noted that increased needs for sharing and low interference levels may in themselves be 
+contradictory. In other words, interference levels could potentially increase if more sharing occurs. The 
+issue to discern in this environment is whether, and to what extent, increased levels of interference may not 
+disrupt operations of existing users, while potentially accommodating new ones. The ITU-R's radio regulations have established three different types of interference, when referring to 
+international frequency co-ordination between administrations: i)  " permissible " : which complies with 
+quantitative and sharing criteria established by the regulation, ii)  " accepted " : interference at a higher level 
+than  " permissible " , but which has been agreed upon between two or more administrations, and 
+iii)  " harmful " : which endangers the functioning of a radionavigation services or of other safety services or 
+seriously degrades, obstructs, or repeatedly interrupts a radiocommunication service. 11 According to the PCAST report, much could be done to adapt the current regulatory approach to 
+increase the attention paid to the ability of receivers to operate under a certain degree of interference. The 
+argument made is that poor receivers or, more widely, lack of awareness of the conditions in which 
+receivers can operate, adds considerable uncertainty to potential shared use of spectrum. It is, therefore, 
+necessary to complement existing transmitter regulation with some degree of receiver regulation, which 
+would clearly state the technical parameters for receivers necessary to qualify/certify their operation within 
+an accepted interference environment. NEW APPROACHES TO SPECTRUM MANAGEMENT 34 OECD DIGITAL ECONOMY PAPERS In the transition towards a spectrum management framework where significantly more sharing occurs, 
+it may no longer make sense for regulation to solely focus on transmission. It is becoming increasingly 
+important to consider receiver performance in addition to radio transmitters and may also be necessary to 
+consider incentives to promote more resilient and efficient radio devices. It would avoid the need to 
+mandate that receivers be built, sold, or operated with specific performance characteristics; and it could 
+incentivise incumbent spectrum users to improve receivers to more efficiently use spectrum. As more 
+spectrum is made available for mobile broadband services, it is becoming more important that all wireless 
+licensees and users understand the radio frequency environment and that entrants understand interference 
+rights and responsibilities before engaging in significant investments. Management opportunities and choices Spectrum sharing, under unlicensed or light-license schemes, is a clear opportunity to increase the 
+efficiency in its use, by making underutilised spectrum resources available to other uses. This new 
+approach, however, has to be backed by sound technical examination in areas such as interference 
+mitigation assessments and through feasibility studies. Given the relatively limited experience in spectrum sharing arrangements, broad consultation is 
+needed to identify potentially interested stakeholders and general awareness of the possibilities spectrum 
+sharing enables. In particular, spectrum inventories and databases could help identify sharing opportunities, 
+by providing information about spectrum utilisation. Given the potential for harmful interference and the 
+impact of possible disruption of current systems, in-depth studies for certain bands remain indispensable, 
+for a clear light-licensing/authorisation framework to be established. In particular, the maintenance and 
+operations of spectrum sharing databases appear to be crucial for these beneficial sharing opportunities to 
+be taken to fruition. Policy makers need to address a number of areas, and reassess them in view of the new situation and 
+the general trend towards increased sharing. A clear candidate for this reassessment is receiver regulation, 
+whereby governments may need to establish requirements for certain bands to increase legal certainty for 
+potential spectrum sharing schemes. INCENTIVE AUCTIONS This report examines a number of approaches to increase the availability and use of spectrum in more 
+efficient ways. This is critical if greater use is to be made of wireless broadband services and the benefits 
+that they can bring for economic and social development. Over the past two decades, policy makers have 
+made greater use of the market for spectrum allocation through tools such as auctions. Further market-
+based mechanisms, such as spectrum trading, have also played an important role in some countries. Given 
+the growing demand for spectrum and its finite nature the greater use of tools such as trading may help 
+better align supply and demand. The best-known example of increasing the availability of spectrum is the 
+possibility to transition some spectrum allocated to broadcasting to alternative uses that are more valued by 
+the market, notably wireless broadband services. Voluntary market-based tools have a number of 
+significant advantages as they can avoid some of the major challenges related to changing spectrum use: 
+the issue of migrating existing users, legal certainty for incumbent spectrum holders and the legal 
+instrument used to encourage or mandate that spectrum holders relinquish such resources. In 2010, the United States National Broadband Plan introduced the idea of conducting incentive 
+auctions, as a tool to help meet that country's spectrum requirements. The FCC, acting on this plan, has 
+proposed to conduct such auctions. The underlying mechanism is that spectrum holders (typically 
+broadcasters) voluntarily agree to relinquish spectrum resources at a given price. Simultaneously, potential 
+bidders, e.g. communication operators, propose a certain price for these resources. The process of running NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 35 any auction for spectrum can be relatively complex and an incentive auction is no exception. The process 
+observes a two-sided nature of buyer and seller but is perhaps most distinguishable, from a traditional 
+auction of spectrum, in that the FCC is not the  " seller "  but rather acts to facilitate the process as might an 
+auctioneer and perform related notary tasks. The related tasks include reallocating the licenses of 
+broadcasters that have relinquished bands or repacking spectrum resources to build lots that make 
+economic sense. Incentive auctions of spectrum constitute a relatively novel approach in the global arena 
+and still need to be tested and undertaken but, if successfully implemented, could certainly provide a useful 
+new tool for reallocating spectrum for mobile communication services. Spectrum auction theory and incentive auctions Nowadays, auctioning spectrum is a common practice in OECD countries. Commencing in the early 
+1990s, in New Zealand and the United States, more and more countries have chosen auctions to assign 
+spectrum for communication services. Over time the design of auctions has been improved and sometimes 
+made more complex in relation to meeting perceived challenges (e.g. potential collusion) or obtaining 
+desired outcomes, e.g. increased competition (Porter and Smith, 2006). One such innovation has been, for 
+example, the transition from auctioning single or small groups of licenses to grouping them in order to 
+maximise the visibility for participants, so that they could adjust their bids accordingly. Nonetheless, the 
+most beneficial advantages of auctions have been their transparency, for all stakeholders, in arriving at 
+explainable outcomes and using the market's knowledge to arrive at a better appreciation of the value of 
+spectrum. In recent years, some countries such as Australia, Austria, Denmark, Ireland, the Netherlands, 
+Switzerland and the United Kingdom have followed the combinatorial clock auction approach. The format 
+allows bidders to express their willingness to pay across the range of packages of the lots that are of 
+interest to them and it treats bids for packages of lots as inseparable (i.e. a bidder cannot win only a sub-
+part of a package it bids on, it either wins a package in its entirety or not at all). This is a type of ascending 
+auction and can include an open phase of bidding to help price and outcome discovery and a 
+supplementary single round of bidding to complement the bids of the open phase, with specific rules that 
+promote bidding in accordance with true preferences. Like all market mechanisms, it requires careful 
+design, tailored to the circumstances, and it allows for the resolution of a range of issues in the auction. For 
+example, a combinatorial clock auction does not require pre-defined licences with specified amounts of 
+spectrum for each licence and one licence per winner. The format can also determine the band plan for the 
+spectrum on offer, if there is uncertainty as to how much spectrum should go to two or more competing 
+types of uses (e.g. terrestrial mobile vs. satellite use). The format also lends itself to using generic lots, 
+i.e. lots that are in a category of similar blocks of spectrum, but not tied to specific frequencies. With 
+generic lots, the auction first deals with the key question of who wins how much spectrum in the different 
+category, and moves in a subsequent phase to the secondary question of what exact frequencies the winners 
+will receive. As noted above, in the case of incentive auctions, combining the sale and purchase of spectrum in the 
+same market process raises challenges of complexity for the auctioneer and participants. As a result, some 
+have proposed that using generic lots for an incentive auction could help in managing complexity. For 
+example, for its upcoming incentive auction of 600 MHz spectrum, the FCC has proposed auctioning 
+generic blocks to avoid the complexity, delay, and computational burden that bidding on specific licenses 
+would create. Ofcom, the regulator in the United Kingdom, in its call for inputs on future use of the 
+700 MHz band has considered whether an incentive auction could allow market participants to determine 
+whether release of a band may happen earlier than a backstop date, with sellers setting out minimum 
+payments they would need to receive in order to vacate the band earlier while new users express their 
+willingness to pay for earlier access. 12 This approach, while including a fixed deadline for the 
+implementation of changes (and, in this case, also fixing the amount of spectrum to be released), offers NEW APPROACHES TO SPECTRUM MANAGEMENT 36 OECD DIGITAL ECONOMY PAPERS scope for market optimisation of the release date, although Ofcom recognises that there is a question as to 
+whether an appropriate incentive auction can be designed in the context of future use of the 700 MHz band. There may be forms of incentive auctions which could avoid having to define a band plan prior to the 
+auction itself (though incentive auctions do not rule out having pre-defined band plans). If so, this could 
+allow regulators to avoid the complex process of defining a band plan, and allow more flexibility. However, 
+in some cases there are benefits to an internationally-harmonised band plan, which would be foregone if 
+band plans were dependent on the outcomes of national incentive auctions. Moreover, spectrum auctions play a key role in shaping wireless markets, and therefore deserve a 
+careful examination from competition authorities. In fact, spectrum is a key asset for wireless competition. 
+Today, it is common to see a fair amount of attention from regulators to spectrum holdings from operators 
+that request to merge and to undertake spectrum transactions in secondary markets. This is the case even 
+though secondary markets are generally not yet well developed in most OECD countries. A common 
+measure in spectrum auctions is the imposition of spectrum caps, which limit the maximum amount of 
+spectrum that the largest players may bid for (input restrictions). In its 4G auction of 2013, the United 
+Kingdom also used outcome restrictions, or spectrum floors, to ensure that, subject to demand in the 
+auction, its outcome would be consistent with competition policy objectives for the mobile sector. Another 
+possibility is to impose a bidding cap for a specific auction, in that players are not allowed to bid for more 
+than a given amount of spectrum in that auction, regardless of other criteria such as their size or their 
+current spectrum holdings. Box 3. FCC's incentive auctions Background: In its 2010 National Broadband Plan, the Federal Communications Commission ( " FCC " ) proposed incentive 
+auctions as one means to facilitate economically beneficial reallocation of spectrum. The plan describes an incentive 
+auction as a voluntary, market-based means of repurposing spectrum by encouraging existing broadcast television 
+licensees to voluntarily relinquish spectrum usage rights in exchange for a share of the proceeds from an auction of 
+new licenses to use the repurposed spectrum. This process brings market forces to bear on many of the most 
+important decisions about spectrum reallocation, e.g., how much spectrum and in what markets should spectrum be 
+reallocated. In early 2012, the United States Congress authorised the FCC to conduct incentive auctions, with the first 
+auction to be of broadcast television spectrum. Congress further directed that certain net proceeds from the broadcast 
+incentive auction are to be deposited in a Public Safety Trust Fund to fund a national first responder network, state 
+and local public safety grants, and public safety research, and the balance is to be used for deficit reduction. In 
+October 2012, the FCC launched a rulemaking proceeding to hold the world's first incentive auction. The propagation characteristics of spectrum in the UHF bands (e.g., further reach and better penetration 
+through buildings than higher frequencies and, therefore, the need for fewer transmitters to cover the same area), 
+which are allocated to broadcast television, also make spectrum in these bands especially well-suited for mobile 
+broadband uses. The particular suitability of UHF spectrum for mobile broadband is why the incentive auction 
+process holds such promise. Through the incentive auction, a portion of the spectrum currently occupied by broadcast 
+television licensees will be made available for mobile broadband. The FCC will use its unique authority to replace the 
+broadcast licenses that it reclaims in the reverse auction with flexible use licenses for the cleared spectrum that may 
+cover large geographic areas that were previously occupied by numerous individual stations (see figure below with 
+broadcast television spectrum in the United States). Without the FCC's authority and co-ordination, the creation of 
+such licenses suitable for deploying mobile broadband service nationwide would be impossible. …/… NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 37 Source: FCC. Auction Design: The incentive auction itself will actually be comprised of two separate but interdependent auctions: i) a 
+reverse auction, which will determine the price at which broadcasters will voluntarily relinquish their spectrum usage 
+rights; and ii) a forward auction, which will determine the price that companies are willing to pay for flexible use of 
+wireless licenses. The lynchpin joining the reverse and the forward auctions is the  " repacking "  process. Repacking 
+involves reorganising and assigning channels to the remaining broadcast television stations in order to create 
+contiguous blocks of cleared spectrum suitable for flexible use. However, the FCC must take great care in the 
+repacking process because the United States Congress requires the FCC to make all reasonable efforts to preserve the 
+ " coverage area "  and  " population served "  of the television stations involved. In order to be successful, each of the components must work together. Ultimately, the reverse auction 
+requires information about how much bidders are willing to pay for spectrum licenses in the forward auction; and the 
+forward auction requires information regarding what spectrum rights were tendered in the reverse auction, and at 
+what price; and each of these depend on efficiently repacking the remaining broadcasters. The actual implementation, 
+while it will be thoroughly explained and illustrated in technical documents and rules, is designed to place the 
+complex elements  " under the hood, "  with an aim to make participation as straight-forward and easy as possible from 
+the bidder's perspective. In the reverse auction, broadcasters would have at least four options: i) do not participate in the auction and 
+stay on the air on the same or another channel in the same band, as determined in the repacking process; ii) participate 
+and bid to give up all rights to their channel and go off the air; iii) participate and bid to give up all rights to their 
+channel but share a channel with another broadcaster after the auction; or iv) participate and bid to give up all rights 
+to their channel but move from UHF to VHF and remain on the air. All options are designed to help make the 
+auction accessible to the widest possible range of broadcaster participants. The forward auction piece of the incentive auction will differ from the typical spectrum auction because, 
+unlike typical spectrum auctions, the number and locations of licenses available in the forward auction will depend 
+upon the results of the reverse auction. The FCC is considering innovative new approaches to auction design to 
+manage this interrelationship and integrate the different auction components. Furthermore, unlike other band plans, the final structure of the 600 MHz band plan will depend on the results 
+of the reverse auction. Therefore, rather than a fixed, predetermined band plan, the FCC proposes to adopt a band 
+plan that accommodates varying amounts of available wireless spectrum. The FCC is also considering using bidding 
+for  " generic "  spectrum blocks, which can then be translated into specific licenses at the end of the auction. This 
+practice, common in European spectrum auctions, would be expected to speed up the forward auction, reducing the 
+cost of bidder participation. Conclusion: The incentive auction will present a significant financial opportunity for broadcasters who wish to relinquish 
+spectrum rights, while also allowing other broadcasters to remain on the air and continue providing the public with 
+local, free over-the-air television service. At the same time, the spectrum reclaimed through the auction will promote 
+economic growth; increase the speed, capacity and ubiquity of mobile broadband service; and accelerate the 
+smartphone and tablet-led mobile revolution, benefitting consumers and businesses throughout the country. The FCC 
+intends to conduct the broadcast incentive auction in 2014. NEW APPROACHES TO SPECTRUM MANAGEMENT 38 OECD DIGITAL ECONOMY PAPERS The repacking process The repacking process in an incentive auction, together with the rules for broadcasters to release 
+spectrum, forms the basis for the future band segmentation plan and determines the amount of spectrum 
+that will be freed in the process. The proposed auction design contains a number of features, such as 
+generic bidding and simultaneous ascending bidding, which address some of the challenges identified by 
+the FCC in previous auctions. At first glance however, it is the repacking process that seems, at the same 
+time, more innovative and challenging. As the firms assisting with the incentive auction process have noted 
+in their discussion documents filed to the FCC proceedings, the final amount of spectrum that will be freed 
+depends not only on the willingness of broadcasters to relinquish their spectrum rights, but also on how the 
+remaining channels will be rearranged. Repacking involves the complex engineering and auction design challenge of assigning channels to 
+the broadcast television stations that remain on the air after the incentive auction in order to clear 
+contiguous blocks of spectrum suitable for flexible use. How the FCC conducts the repacking will have a 
+significant impact on its ability to repurpose spectrum in the incentive auction (Milgrom et al., 2012). In considering which channels can be assigned to which television stations, the FCC recognises that 
+television stations can cause harmful interference to each other if they are assigned to the same or adjacent 
+television channels. The legislation authorising the incentive auction requires that in repacking, the FCC 
+ " make all reasonable efforts to preserve […] the coverage area and population served of each broadcast 
+television licensee […] "  (FCC, 2012b). The FCC is developing methodologies and implementing software 
+to integrate the repacking function into the auction design such that real-time evaluations of technical 
+feasibility for assigning channels to broadcasters can be made in a manner that meets the statutory 
+requirements. Alternative instruments to release broadcasting spectrum Undoubtedly, the main strengths of incentive auctions are that they are voluntary and market-based. 
+Once policy makers agree that more spectrum resources need to be freed up and dedicated to mobile 
+broadband use, they need to make a decision about the right procedure to fulfil this objective. At the same 
+time they need to bear in mind the existing constraints, such as the impact on current services, the 
+migration timeframe, expected costs and so forth. They can consider alternatives such as spectrum sharing, 
+increasing incentives for secondary markets or mandating the release of broadcasting spectrum but 
+recognise that they may involve a less consensual approach. Promoting spectrum trading in secondary markets may constitute a reasonable alternative to incentive 
+auctions. Some have noted the existing barriers to spectrum trading, such as the conditions imposed on 
+spectrum licensees, lengthy transaction delays or the lack of information about possible spectrum 
+transaction (Mayo and Wallsten, 2011). Conducting auctions in a centralised manner is believed to have a 
+number of advantages over secondary trading, as having an authority conducting auctions removes the 
+challenge of multi-party co-ordination (Kwerel et al., 2012), especially with regard to the repacking 
+process, as spectrum could be freed by forming a meaningful group that can be optimised for mobile 
+broadband use. As noted above, a number of countries in the European Union still keep restrictions on 
+spectrum trading and, where it is permitted, it has not yet been widely used. Another factor that may play a 
+role is the overall shortage of spectrum resources for mobile operators, which may drive industry players to 
+acquire spectrum through mergers, as opposed to secondary markets, being subject to scrutiny from 
+competition authorities, under the assumption that most carriers would not be willing to sell their rights on 
+secondary markets. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 39 In light of these concerns, measures favouring spectrum trading, such as establishing clear and 
+detailed rules, with clearly defined rights and obligations, publishing available information about tradable 
+spectrum or minimising administrative overheads, may certainly help develop more efficient secondary 
+markets (OECD, 2005). Except for its potential effect on spectrum harmonisation, nothing prevents policy 
+makers from further promoting spectrum trading, so these measures could be regarded as a complement 
+rather than a substitute of other means of increasing spectrum efficiency. Regarding broadcasting spectrum, 
+there are currently regulatory barriers that prevent spectrum transfers for uses other than those reflected in 
+license conditions, as service neutrality is the exception rather than the rule. Another, more straightforward approach is simply mandating the migration from broadcasting to 
+wireless communication uses, as has been done for the release of the digital dividend in many OECD 
+countries. While  " mandating "  is a fairly general term, open to many variations, to some extent it carries the 
+character of non-voluntariness, which would imply that broadcasters do not have the choice of staying in 
+their current channels. This  " compulsory "  approach would not necessarily mean that broadcasters are forced 
+to cease their activities as they are likely to have several alternatives to continue their business. Moving to 
+lower bands (e.g. VHF), switching to wired distribution of channels where fixed broadband networks are 
+available, accepting more interference or simply willing to share spectrum in a digital multiplex may be 
+among the available options. Moreover, improved coding and transmission techniques allow for lower 
+bandwidth and thus some channels would be freed only by technology upgrading. Of course, the pros and 
+cons of each of these alternatives would depend on the amount of spectrum to be released. In many OECD countries, such as Spain, the clearance of the digital dividend band (the 800 MHz 
+band in that country) was conducted on a  " compulsory "  basis, but it did not result in any broadcaster being 
+unable to continue its service. Instead, new channels were introduced as a result of spectrum efficiency 
+gains arising from the transition to digital technology. This may be harder to achieve for lower 
+broadcasting bands, although the introduction of new technologies such as MPEG4, DVB-T2 or, in the 
+near future, HEVC in broadcasting may offer an opportunity to achieve further spectrum efficiency. The pros and cons of a  " voluntary "  versus  " non-voluntary "  approach would need to be assessed for 
+each OECD country. That would include the possibility of mandating migration in view of factors such as 
+the duration of broadcasting licenses, the authority of spectrum regulators to relinquish these rights or the 
+overall spectrum band allocation in that country, especially with regard to the possibility of migrating 
+broadcasters to other spectrum bands. The availability of high-speed fixed lines alternatives will, of course, 
+be an important consideration when assessing the different possibilities. Implementing incentive auctions raises a number of legal and practical issues, in particular whether 
+regulators have the necessary legal powers to undertake incentive auctions or whether pre-existing 
+conditions (e.g. existing rights to use spectrum) lend themselves to this sort of market mechanism. There 
+may also be issues resulting from the time elapsed between any incentive auction and the starting of new 
+licences. In short, the issue is whether countries other than the United States could undertake an incentive 
+auction and to what extent it would deliver satisfactory results. Several factors may play a role in that 
+respect, such as the spectrum harmonisation issues and the powers of regulators to undertake incentive 
+auctions. An intermediate approach is to let the market participants decide on the timing of the release of 
+the band, for which they would express their preferences. This approach, while keeping its  " compulsory 
+character "  would allow for a higher degree of flexibility (Ofcom, 2013). A potential problem of using incentive auctions in the European Union as an authorisation and re-
+allocation mechanism is that it may deliver different results in different countries (member states). 
+Incentive auctions in the European Union area could therefore, some suggest, lead to spectrum fragmenta-
+tion and the subsequent loss of economies of scale for network deployment and device manufacturing, 
+compared to the current situation (i.e. national awards of internationally-harmonised bands). In practice, NEW APPROACHES TO SPECTRUM MANAGEMENT 40 OECD DIGITAL ECONOMY PAPERS the scope for incentive auctions to lead to fragmentation will depend on what is to be determined in the 
+auction. For example, there is greater risk of fragmentation if the band plan is dependent on the auction 
+outcome. Another option would be to have incentive auctions which awarded spectrum across the 
+European Union. However, some countries of the European Union argue that harmonised rules at the 
+European level would have the risk of being too inflexible and that countries which wished to release 
+spectrum ahead of the international timetable would be held back from doing so, leading to a delay in 
+delivering benefits to manufacturers, operators and consumers in those countries. Late adopters, they argue, 
+would not be able to benefit from the lessons learned from the initial auctions. These challenges are, of 
+course, not exclusive to incentive auctions and are frequently raised as arguments against certain aspects of 
+spectrum harmonisation. Having said that, one of the goals of the European Union's Radio Spectrum Policy Programme (RSPP) 
+is the harmonisation of technical conditions for spectrum use at the regional (European) level. An 
+intermediate approach would be setting minimum thresholds for relinquishing spectrum rights or by 
+adopting additional measures in those countries where spectrum use by broadcasters is more intense, such 
+as subsidies for migrating broadcasters, which could facilitate European-wide harmonisation. Finally, the FCC's incentive auction proceedings incorporate some provisions related to unlicensed 
+use of spectrum, such as keeping the possibility of using unlicensed devices in guard bands or allowing the 
+use of white space devices, even though the available spectrum for these applications may be reduced as a 
+result of higher concentration of broadcasters in the lower UHF bands after the auction. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 41 NOTES 1 The terms  " license-exempt "  and  " unlicensed "  will be used without distinction in the report. 2 The joint BEREC/RSPG report considers it most appropriate to study in detail the following WAPECS 
+bands: 790-862 MHz (800 MHz band), 880-915 MHz / 925-960 MHz (900 MHz band), 1710-1785 MHz / 
+1805-1880 MHz (1800 MHz band), 1900-1980 MHz / 2010-2025 MHz / 2110-2170 MHz (2 GHz band), 
+2500-2690 MHz (2.6 GHz band), 3.4-3.8 GHz (3.6 GHz band). Wireless Access Policy for Electronic Communications Services (WAPECS) is the term coined by the 
+European Commission for transmission platforms used for radio access to electronic communications 
+services, regardless of the bands in which they operate or the technology they use. 3 Wireless Intelligence predicts that there will be 38 different spectrum frequency combinations used in LTE 
+deployments by 2015, a fragmented scenario fuelled by ongoing spectrum auctions, licence renewals and 
+re-farming initiatives across a wide range of frequency bands. 
+https://wirelessintelligence.com/analysis/2011/12/global-lte-network-forecasts-and-assumptions-one-year-
+on/312/ 4 The ECC has agreed a roadmap for carrying out all the necessary studies to define harmonised technical 
+conditions that may be used for wireless broadband in the frequency band 694-790 MHz. The ECC has 
+also launched initial discussion to support the development of a long-term vision for the whole UHF band 
+in Europe focusing primarily on technical issues, but also addressing economic, social and regulatory 
+aspects.www.cept.org/ecc/news/ecc-meeting-(bratislava,-slovak-republic)-5th-8th-march. 5 TG6 chairman contribution to the first TG6 meeting (Copenhagen, 7-9 October 2013, information 
+document n°6). 6 This report explains the differences and similarities of the proposed LSA and ASA frameworks. It should 
+be noted, however, that the LSA discussion in more relevant in Europe, while the discussions surrounding 
+ASA may prevail outside Europe. 7 AT&T infographic notes massive Wi-Fi use growth on mobile devices, SlashGear, www.slashgear.com/att-
+infographic-notes-massive-wi-fi-use-growth-on-mobile-devices-22167040/ ; 
+www.comscore.com/Insights/Press_Releases/2012/4/iPhones_Have_Significantly_Higher_Rates_of_Wi-
+Fi_Utilisation. 8 These scenarios include macro-, micro-and femtocells. The approach under development includes a 
+relevant Block Edge Mask (BEM) for each frequency arrangement under consideration, the proposed 
+options for the frequency arrangement in 3.4-3.6 GHz, a TDD frequency arrangement in 3.6-3.8 GHz, and 
+key principles related to the co-ordination between mobile and fixed communication network stations and 
+the fixed-satellite service (FSS) Earth stations to be implemented at national level in order to ensure 
+co-ordination between these systems. This improved harmonised framework will ensure greater 
+opportunities for usage of IMT systems under licensed frameworks (as it is currently the case in the band, 
+where the spectrum is still largely available due to the lack of market demand). CEPT is also working on 
+the 2.3 GHz band (www.cept.org/ecc/groups/ecc/wg-fm/fm-52). 9 www.ictregulationtoolkit.org/en/Document.3902.pdf. 10 www.ktswireless.com/fcc-chairman-genachowski-announces-approval-of-first-television-white-spaces-
+database-and-device/. 11 Article 1 of the ITU-R's Radioregulations. 12 http://stakeholders.ofcom.org.uk/binaries/consultations/700mhz-cfi/summary/UHF_SI_call_for_inputs.pdf. NEW APPROACHES TO SPECTRUM MANAGEMENT 42 OECD DIGITAL ECONOMY PAPERS REFERENCES Australian Mobile Telecommunication Association (AMTA),  " Spectrum Value Partners and Venture 
+Consulting (2009), Optimal split for the digital dividend spectrum in Australia " , 
+www.amta.org.au/files/SVP.Report.Executive.Summary.pdf. Australian Mobile Telecommunications Association (AMTA) and Deloitte Access Economics (2013), 
+ " Mobile nation: The economic and social impacts of mobile technology " , 
+www.amta.org.au/pages/State.of.the.Industry.Reports. Bazelon, C. (2011),  " The Economic Basis of Spectrum Value: Pairing AWS-3 with the 1755 MHz Band is 
+More Valuable than Pairing it with Frequencies from the 1690 MHz Band " , 
+www.brattle.com/_documents/UploadLibrary/Upload938.pdf. Benkler, Y. (2012),  " Open wireless v. licensed spectrum: evidence from market adoption " , Harvard 
+Journal of Law & Technology, volume 26, Number 1, Fall 2012. Body of European Regulators for Electronic Communications (BEREC) and Radio Spectrum Policy Group 
+(RSPG) (2012),  " Report on exploring the economic and social value of radio spectrum for certain 
+electronic communications services with respect to the frequency assignment procedures " , 
+http://berec.europa.eu/eng/document_register/subject_matter/berec/reports/61-joint-berecrspg-
+report-on-exploring-the-economic-and-social-value-of-radio-spectrum-for-certain-electronic-
+communications-services-with-respect-to-the-frequency-assignment-procedures. Comisión Federal de Telecomunicaciones (COFETEL, Mexico), 2012,  " Acuerdo mediante el cual el pleno 
+de la comisión federal de telecomunicaciones recomienda que los Estados Unidos Mexicanos adopte 
+la opción de segmentación A5 para la banda de frecuencias 698-806 MHz (banda 700), incluida en 
+la recomendación UIT-R M.1036, en el ámbito de sus atribuciones respecto a los usos futuros de la 
+banda. "  www.cft.gob.mx:8080/portal/wp-content/uploads/2012/10/Acuerdo-Banda-700MHz.pdf. Cramton, P. (2013),  " Spectrum Auction Design " , Review of Industrial Organization, 42:2, forthcoming, 
+March 2013. www.cramton.umd.edu/papers2005-2009/cramton-spectrum-auction-design.pdf. CTIA-The Wireless Association and Roger Entner (2008),  " The Increasingly Important Impact of 
+Wireless Broadband Technology and Services on the U.S. Economy " , 
+http://files.ctia.org/pdf/Final_OvumEconomicImpact_Report_5_21_08.pdf. Department for Business, Innovation and Skills (BIS), Department for Culture, Media and Sport (DCMS) 
+and Analysis Mason (2012),  " Impact of radio spectrum on the UK economy and factors influencing 
+future spectrum demand " , www.analysysmason.com/About-Us/News/Insight/Economic-value-of-
+spectrum-Jan2013/#.UbhPiNLVBYR. Department of Broadband Communications and the Digital Economy and Plum Consulting (2011), 
+ " Valuation of public mobile spectrum at 825-845 MHz and 870-890 MHz " , 
+www.dbcde.gov.au/__data/assets/pdf_file/0013/144220/Plum-Consulting-Valuation-of-public-
+mobile-spectrum-at-825-845-MHz-and-870-890-MHz.pdf. Electronic Communication Committee (ECC) within the European Conference of Postal and 
+Telecommunications Administrations (CEPT) (2009),  " Light licensing, Licence-exempt and 
+Commons " , ECC Report 132, www.erodocdb.dk/docs/doc98/official/Pdf/ECCRep132.pdf. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 43 Electronic Communication Committee (ECC) within the European Conference of Postal and 
+Telecommunications Administrations (CEPT) (2011),  " Description of Practices relative to Trading 
+of Spectrum Rights of Use "  ECC Report 169, 
+www.erodocdb.dk/docs/doc98/official/pdf/ECCRep169.pdf. Electronic Communication Committee (ECC) within the European Conference of Postal and 
+Telecommunications Administrations (CEPT) (2014),  " Licensed Shared Access (LSA) "  ECC Report 
+205, www.erodocdb.dk/Docs/doc98/official/pdf/ECCREP205.PDF. European Telecommunications Standards Institute (ETSI) (2013),  " Electromagnetic compatibility and 
+Radio spectrum Matters (ERM); System Reference document (SRdoc); Mobile broadband services 
+in the 2 300 MHz – 2 400 MHz frequency band under Licensed Shared Access regime " . European Telecommunications Standards Institute (ETSI) (2013a),  " ETSI Technical Report (draft) – 
+Reconfigurable Radio Systems (RRS) System Reference Document (SRDoc) on Mobile Broadband 
+Services in the 2 300-2 400 MHz Frequency Band under Licensed Shared Access Regime " . Federal Communications Commission (FCC) (2012), Notice of Proposed Rulemaking In the Matter of 
+Promoting Interoperability in the 700 MHz Commercial Spectrum, 21 March 2012. 
+http://transition.fcc.gov/Daily_Releases/Daily_Business/2012/db0321/FCC-12-31A1.pdf FCC (2012a), Notice of Proposed Rulemaking and Order in the matter of amendment of the Commission's 
+rules with regard to commercial operations in the 3550-3650 MHz band, 12 December 2012. 
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-12-148A1.pdf FCC (2012b), Notice of Propose Rule Making in the matter of Expanding the Economic and Innovation 
+Opportunities of Spectrum Through Incentive Auctions, 2 October 2012. 
+www.fcc.gov/document/broadcast-television-spectrum-incentive-auction-nprm. Forge, S., R. Horvitz, and C. Blackman, (2012),  " Perspectives on the value of shared spectrum access " , 
+Final Report for the European Commission, February 2012. http://ec.europa.eu/digital-
+agenda/sites/digital-agenda/files/scf_study_shared_spectrum_access_20120210.pdf. Gruber, H. and P. Koutroumpis (2010),  " Mobile Telecommunications and the Impact on Economic 
+Development " . Draft for Fifty-Second Economic CEPR Policy Panel, 
+www.cepr.org/meets/wkcn/9/979/papers/Gruber_Koutroumpis.pdf. GSM Association (GSMA), (2007),  " The advantages of common frequency bands for mobile handset 
+production – technical note " , GSM Association White Paper, 2007. GSM Association (2013), Public Policy Position,  " Licensed share access (LSA) and Authorised Shared 
+Access (ASA) " , www.gsma.com/spectrum/wp-content/uploads/2013/04/GSMA-Policy-Position-on-
+LSA-ASA.pdf. GSM Association (GSMA) and Boston Consulting Group (2010),  " Socio-economic impact of allocating 
+700 MHz band to mobile in Asia Pacific " , www.gsma.com/spectrum/socio-economic-impact-of-
+allocating-700-mhz-band-to-mobile-in-asia-pacific-2. GSM Association (GSMA) and Boston Consulting Group (2012),  " The Economic Benefits of Early 
+Harmonisation of the Digital Dividend Spectrum and the Cost of Fragmentation in Asia " , 
+www.gsma.com/spectrum/the-economic-benefits-of-early-harmonisation-of-the-digital-dividend-
+spectrum-and-the-cost-of-fragmentation-in-asia. GSM Association (GSMA), Asociación Iberoamericana de Centros de Investigación y Empresas de 
+Telecomunicaciones (AHCIET) and Telecom Advisory Services (2011),  " Economic Benefits of the 
+Digital Dividend for Latin America " , www.gsma.com/latinamerica/economic-benefits-of-the-
+digital-dividend-for-latin-america. NEW APPROACHES TO SPECTRUM MANAGEMENT 44 OECD DIGITAL ECONOMY PAPERS GSM Association (GSMA), Deloitte and Real Wireless (2014),  " The Impact of Licensed Shared Use of 
+Spectrum " , www.gsma.com/spectrum/the-impact-of-licensed-shared-use-of-spectrum/ GSM Association (GSMA) and Plum Consulting (2013),  " Valuing the use of spectrum in the EU " , 
+www.gsma.com/spectrum/valuing-the-use-of-spectrum-in-the-eu. Haykin, S., D.J. Thomson, and J.H. Reed, (2009),  " Spectrum Sensing for Cognitive Radio " , Vol. 97, No. 5, 
+May 2009, Proceedings of the IEEE. InfoCom Research (2007),  " An analysis on ripple effect of mobile phone services on the Japanese 
+economy " , www.icr.co.jp/press/press20070824_bunseki.pdf (in Japanese). International Telecommunications Union (ITU), (2013), ITU-R Recommendation ITU-R M.1768-1, 
+www.itu.int/rec/R-REC-M.1768-1-201304-I/fr. International Telecommunications Union (ITU), (2012a), ITU-R Recommendation ITU-R M.1036. 
+www.itu.int/rec/R-REC-M.1036-4-201203-I/en. International Telecommunications Union (ITU), (2012b), ITU-R Recommendation ITU-R M.2078, 
+www.itu.int/pub/R-REP-M.2078. International Telecommunications Union (ITU), Radio Regulations (2012c), www.itu.int/pub/R-REG-RR-
+2012. International Telecommunications Union (ITU), Report SM.2152 (2009), www.itu.int/pub/R-REP-
+SM.2152-2009. Kretschmer, T. (2012),  " Information and Communication Technologies and Productivity Growth: A 
+Survey of the Literature " , OECD Digital Economy Papers, No. 195, OECD Publishing. 
+http://dx.doi.org/10.1787/5k9bh3jllgs7-en. Kwerel, E., P. LaFontaine, and M. Schwartz, (2012),  " Economics at the FCC, 2011-2012: Spectrum 
+Incentive Auctions, Universal Service and Intercarrier Compensation Reform, and Mergers " , 
+Review of Industrial Organization, Springer, vol. 41(4), pages 271-302, December 2012. 
+http://ideas.repec.org/a/kap/revind/v41y2012i4p271-302.html. Mass Consultants Limited (2009),  " Estimating the Utilisation of Key Licence-Exempt Spectrum Bands " , 
+Final Report, Issue 3, April 2009, http://stakeholders.ofcom.org.uk/binaries/research/technology-
+research/wfiutilisation.pdf. Mayo, J. W. and S.J. Wallsten, (2011),  " Secondary Spectrum Markets as Complements to Incentive 
+Auctions " , from the Selected Works of Scott J. Wallsten, 
+http://works.bepress.com/cgi/viewcontent.cgi?article=1127&context=scott_wallsten. Milgrom, P., L. Ausubel, J. Levin, and I Segal, (2012),  " Incentive Auction Rules Option and Discussion " , 
+Submitted by Auctionomics and Power Auctions 12 September, 2012. 
+http://transition.fcc.gov/Daily_Releases/Daily_Business/2012/db1002/FCC-12-118A2.pdf. Mitola III and G. Q. Maguire Jr.,  " Cognitive radio: making software radios more personal, "  IEEE Personal 
+Communications, vol. 6, no. 4, pp. 13–18, 1999. Motion Picture Association (MPA), International Motion Picture Copyright Association, Inc. (JIMCA), 
+and Mitsubushi Research Institute, inc. (2012),  " An investigation on economic effect of Japanese 
+film industry and television broadcasting industry " . 
+www.jimca.co.jp/research_statistics/reports/2012_economic_contribution_japan.pdf (in Japanese). National Telecommunication and Information Administration (NTIA), 2008,  " Spectrum Policy For The 
+21st Century, Improving International Spectrum Management Policies And Framework " , March 
+2008. www.ntia.doc.gov/files/ntia/publications/federalstrategicspectrumplan2008.pdf. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 45 National Telecommunication and Information Administration (NTIA), 2012  " An Assessment of the 
+Viability of Accommodating Wireless Broadband in the 1755-1850 MHz Band " , 27 March 2012 
+www.ntia.doc.gov/report/2012/assessment-viability-accommodating-wireless-broadband-1755-1850 
+-mhz-band. Ofcom, DotEcon amd Aetha (2012),  " Spectrum value of 800MHz, 1800MHz and 2.6GHz " , 
+http://stakeholders.ofcom.org.uk/binaries/consultations/award-800mhz/statement/spectrum-value.pdf. Ofcom (2009),  " Digital dividend: cognitive access. Statement on licence-exempting cognitive devices 
+using interleaved spectrum " . 
+http://stakeholders.ofcom.org.uk/binaries/consultations/cognitive/statement/statement.pdf. Ofcom (2013),  " Future use of the 700 MHz band. Implementing Ofcom's UHF strategy " , Securing long 
+term benefits from scarce spectrum resources " , Consultation published 24 April 2013. 
+http://stakeholders.ofcom.org.uk/binaries/consultations/700mhz-
+cfi/summary/UHF_SI_call_for_inputs.pdf. OECD (2005), "Secondary Markets for Spectrum: Policy Issues", OECD Digital Economy Papers, No. 95, 
+OECD Publishing.doi: 10.1787/232354100386 OECD (2011), "National Broadband Plans", OECD Digital Economy Papers, No. 181, OECD Publishing. 
+doi: 10.1787/5kg9sr5fmqwd-en OECD (2013), OECD Communications Outlook 2013, OECD Publishing. 
+doi: 10.1787/comms_outlook-2013-en Porter, D. and V.L. Smith, (2006),  " FCC License Experiment Design: A 12-year Experiment " , Journal of 
+Law, Economics & Policy 63-80 (2006), http://iep.gmu.edu/fcc-license-experiment-design-a-12-
+year-experiment/. Radio Spectrum Policy Group (2010),  " RSPG Report on Cognitive Technologies " , 
+http://rspg.ec.europa.eu/_documents/documents/meeting/rspg21/rspg10_306_cognitivetechnologi 
+es_report_0421.pdf. Radio Spectrum Policy Group (2011),  " RSPG Report on Collective Use of Spectrum " , 
+http://rspg.ec.europa.eu/_documents/documents/meeting/rspg26/rspg11_392_report_CUS_other_ap 
+proaches_final.pdf. Radio Spectrum Policy Group (2012), RSPG12-424  " RSPG Draft request for Opinion on increasing 
+opportunities for shared use of spectrum " , 23 May 2012. https://circabc.europa.eu/sd/d/d4171a34-
+3b5f-42be-90cd-52e8ee3104b0/RSPG12-424%20-
+%20Draft%20Request%20for%20Opinion%20Licensed%20Shared%20Access(pre_meet_ver).pdf. Radio Spectrum Policy Group (2013),  " RSPG opinion on licensed shared access " , RSPG13-538. 
+https://circabc.europa.eu/d/d/workspace/SpacesStore/3958ecef-c25e-4e4f-8e3b-
+469d1db6bc07/RSPG13-538_RSPG-Opinion-on-LSA%20.pdf. Sosa, D. W. and M. van Audenrode, (2011),  " Private Sector Investment and Employment Impacts of 
+Reassigning Spectrum to Mobile Broadband in the United States " , http://mobilefuture.org/wp-
+content/uploads/2013/03/mobile.future-publication-spectrum-impact-study.pdf. Thanki, R. (2012),  " The Economic Significance of Licence-Exempt Spectrum to the Future of the Internet " , 
+http://download.microsoft.com/download/A/6/1/A61A8BE8-FD55-480B-A06F-
+F8AC65479C58/Economic%20Impact%20of%20License%20Exempt%20Spectrum%20-
+%20Richard%20Thanki.pdf. NEW APPROACHES TO SPECTRUM MANAGEMENT 46 OECD DIGITAL ECONOMY PAPERS United States President's Council of Economic Advisors on Science and Technology (2012),  " Report To 
+The President, Realizing The Full Potential Annual Report On Cover Title Hereof Government-Held 
+Spectrum to Spur Economic Growth Enforcement " , July 2012, 
+www.whitehouse.gov/sites/default/files/microsites/ostp/pcast_spectrum_report_final_july_20_2012. 
+pdf. United States White House (2010),  " Presidential Memorandum: Unleashing the Wireless Broadband 
+Revolution " , Memorandum for the Heads of Executive Departments and Agencies, 
+www.whitehouse.gov/the-press-office/presidential-memorandum-unleashing-wireless-broadband-re 
+volution. WIK-Consult (2010),  " Final Full Public Report Study on behalf of the German Federal Ministry of 
+Economics and Technology (BMWi), 'PPDR Spectrum Harmonisation in Germany, Europe and 
+Globally'' www.bmwi.de/English/Redaktion/Pdf/ppdr-spectrum-harmonisation-germany-europe-
+globally,property=pdf,bereich=bmwi2012,sprache=en,rwb=true.pdf. WIK-Consult (2013),  " Study on Impact of traffic off-loading and related technological trends on th 
+demand for wireless broadband spectrum " , Final Report, A study prepared for the European 
+Commission DG Communications Networks, Content and Technology. 
+http://bookshop.europa.eu/en/study-on-impact-of-traffic-off-loading-and-related-technological-
+trends-on-the-demand-for-wireless-broadband-spectrum-pbKK0113239/. Yücek, T. and H. Arslan, (2009),  " A survey of spectrum sensing algorithms for cognitive radio 
+applications " , IEEE communications surveys & tutorials, vol. 11, no. 1, 1 st quarter 2009. 
+http://xanthippi.ceid.upatras.gr/courses/mobile/2009_10/cognitive.pdf. NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 47 ANNEX: STUDIES RELATED TO SPECTRUM VALUATION Pub 
+. 
+year Measured 
+country or 
+region Author/funder 
+Measured Industry Value 
+(USD value in 
+parenthesis) Concept of economic value Annual 
+value % 
+of GDP 
+in 2011 (1) 
+Estimated Total Value of Spectrum allocated to specific industry or technology 2013 
+Australia Australian Mobile 
+Telecommunications 
+Association, 
+Deloitte Access 
+Economics Mobile 
+telecommunications AUD 14.0661(14.5) 
+billion including 
+AUD 4.9027(5.0) 
+billion in net present 
+value (NPV) for 
+earnings of 
+employees and 56972 
+FTE in 2011-12 Direct and indirect economic 
+contribution 
+0.48% NPV AUD 11.8(12.2) 
+billion for 2012-25 
+Productivity increase 
+0.09% 2012 
+United 
+Kingdom Department for 
+Business, Innovation 
+and Skills (BIS) and 
+the Department for 
+Culture, Media and 
+Sport (DCMS) 
+Analysis mason Public mobile 
+communications GBP 30.2(48.7) 
+billion in 2011 Economic welfare (consumer 
+surplus + producer surplus) 1.99% Wi-Fi 
+GBP 1.8(2.9) billion 
+in 2011 
+0.12% TV broadcasting 
+GBP 7.7(12.4) billion 
+in 2011 
+0.51% Radio broadcasting 
+GBP 3.1(5) billion in 
+2011 
+0.20% Microwave links 
+GBP 3.3(5.3) billion 
+in 2011 
+0.22% Satellite links 
+GBP 3.6(5.8) billion 
+in 2011 
+0.24% Private mobile radio 
+GBP 2.3(1.9) billion 
+in 2011 
+0.08% 2008 
+United 
+States CTIA-The Wireless 
+Association 
+Roger Entner, Ovum Mobile wireless services, 
+including both of voice 
+and broadband USD 185 billion in 
+2005 
+Productivity increase 
+1.47% (2) 2012 
+Japan The Motion Picture 
+Association (MPA) 
+and Japan and 
+International Motion 
+Picture Copyright 
+Association, inc. 
+(JIMCA) 
+Mitsubushi Research 
+Institute, inc. Broadcasting industries JPY 4.35 trillion(54.5 
+billion) and 119.32 
+thousands 
+employments from 
+broadcasting 
+industries including 
+TV program 
+production and 
+distribution in 2011 Direct and indirect economic 
+contribution 
+0.93% 2007 
+Japan 
+InfoCom Research, 
+Inc. Mobile industries 
+including handset and 
+mobile e-commerce JPY 8.5 trillion(73.1 
+billion) and 617.23 
+thousands 
+employments in 2006 Direct and indirect economic 
+contribution 
+1.68% (3) 2010 
+World Gruber and 
+Koutroumpis, funded 
+by CEPR (Center for 
+Economic Policy 
+Research) Mobile 
+telecommunications 0.39% of contribution 
+to annual GDP 
+growth in the OECD 
+area Productivity increase 0.39% 
+(OECD 
+area) 2012 
+World 
+Thanki, R., funded by 
+Microsoft 
+Wi-Fi USD 52 to 99 billion 
+each year 
+Consumer surplus 
+0.14% USD 250 billion each 
+year 
+Operator's cost saving 
+0.36% USD 560 to 870 
+billion a year in 2020 Loss of economic value from 
+the absence of license-exempt 
+spectrum in terms of internet 
+of things 0.89% (4) NEW APPROACHES TO SPECTRUM MANAGEMENT 48 OECD DIGITAL ECONOMY PAPERS Estimated Incremental Value of Digital Dividend (700MHz) or other additional spectrum 2009 
+Australia Australian Mobile 
+Telecommunication 
+Association 
+Spectrum Value 
+Partners, Venture 
+Consulting Mobile broadband by 
+UHF NPV AUD 7(5.9) 
+billion when 80 MHz 
+allocated, and 10(8.4) 
+billion when 
+120MHz allocated, 
+for 2008-28 Economic welfare (consumer 
+surplus + producer surplus) 
+0.089% (5) 2011 
+Australia Department of 
+Broadband 
+Communications and 
+the Digital Economy 
+Plum Consulting 3G service by 825-
+845MHz and 870-
+890MHz (800MHz 
+band) AUD 
+0.5(0.5)/MHz/pop to 
+AUD 
+1.2(1.2)/MHz/pop, 
+for 15 years to 2028 Appropriate value of spectrum 
+license, indicated by 
+international evidence 0.012% AUD 
+1.23(1.27)/MHz/pop Final value determined by the 
+Minister in February 2012 and 
+paid by the industry for re-
+issuing the licenses in June 
+2013 0.012% AUD 
+0.97(1.0)/MHz/pop, 
+for 15 years to 2028 Reduction of infrastructure cost 
+of a mobile operator 
+0.009% AUD 
+3.16(3.3)/MHz/pop, 
+for 15 years to 2028 Net present value of total 
+business cashflows of a mobile 
+operator 0.030% 2010 Asia-
+Pacific 
+region 
+(including 
+Australia, 
+Japan, 
+Korea and 
+New 
+Zealand) GSMA 
+Boston Consulting 
+Group Mobile broadband by 
+698-806 MHz band USD 728.8 billion of 
+GDP increase, 2.3 
+million new jobs and 
+USD 131 billion 
+government revenue 
+for 2014-20 
+Productivity increase, new 
+business activity, and telco 
+value chain 0.500 % Broadcasting by 698-
+806 MHz band USD 70.8 billion of 
+GDP increase, less 
+than 100,000 jobs 
+and USD 28 billion 
+government revenue 
+for 2014-20 0.049% 2012 Asia-
+Pacific 
+region 
+(including 
+Australia, 
+Japan, 
+Korea and 
+New 
+Zealand) GSMA 
+Boston Consulting 
+Group Mobile services (IMT) 
+harmonized in 700 MHz USD 1070 billion 
+increase of GDP, 2.7 
+million additional 
+job, USD 182 billion 
+additional 
+government revenue 
+for 2014-20 
+Productivity increase, new 
+business activity, and telco 
+value chain 0.735 % Broadcasting services 
+(DTT) harmonized in 
+700 MHz USD 111 billion 
+increase of GDP, 69 
+000 additional job, 
+USD 39 billion 
+additional 
+government revenue 
+for 2014-20 0.076% 2011 Latin 
+America 
+(including 
+Chile and 
+Mexico) GSMA and AHCIET 
+Telecom Advisory 
+Services, LLC Mobile broadband by 
+digital dividend of 698 – 
+806 MHz (700 MHz) USD 14.808 billion 
+for 2012-20 Economic contribution to the 
+Information and 
+Communication Technologies 
+(ICT) ecosystem 0.196% Broadcasting by 700 
+MHz USD 3.508 billion for 
+2012-20 
+0.046% Mobile broadband by 
+700 MHz USD 3.582 billion 
+and 10738 job 
+creation for 2012-20 Additional revenues for 
+providers and cost-savings for 
+consumers (direct impact) and 
+externalities to other sectors of 
+the economy (indirect impact) 0.047% Broadcasting by 700 
+MHz USD 0.513 billion 
+and 5198 job creation 
+for 2012-20 0.007% Mobile broadband by 
+700 MHz USD 3.420 billion for 
+2012-20 
+Taxes collected on additional 
+sales 0.045% Broadcasting by 700 
+MHz USD 0.818 billion for 
+2012-20 
+0.011% Mobile broadband by 
+700 MHz USD 5.157 billion for 
+2012-20 
+Consumer surplus 0.068% Broadcasting by 700 
+MHz 
+0 
+0.000% (7) NEW APPROACHES TO SPECTRUM MANAGEMENT OECD DIGITAL ECONOMY PAPERS 49 2013 
+European 
+Union GSMA 
+Plum Consulting (8) Mobile services EUR 269(374) billion 
+in 2013, EUR 
+388(539) billion in 
+2023 Consumer surplus 
+2.04% Wireless LANs EUR 15(21) billion 
+in 2013, EUR 23(32) 
+billion in 2023 Consumer surplus 
+0.11% EUR 5(7) billion in 
+2013, EUR 13(18) 
+billion in 2023 Cost saving 
+0.04% Terrestrial broadcasting EUR 48(67) billion 
+in 2013, EUR 25(35) 
+billion in 2023 Consumer surplus 
+0.37% Satellite 
+communications EUR 18(24) billion 
+in 2013, EUR 21(29) 
+billion in 2023 Consumer surplus 
+0.13% Satellite positioning 
+service EUR 12(17) billion 
+to 60(83) billion in 
+2013 Consumer surplus or 
+Productivity increase 
+0.46% Terrestrial fixed links EUR 28(39) billion 
+in 2013, EUR 30(42) 
+billion in 2023 Cost saving 
+0.21% Private Mobile Radio EUR 19(26) billion 
+in 2013, EUR 21(30) 
+billion in 2023 Consumer surplus 
+0.14% Civil aviation services EUR 171(238) billion 
+in 2013, EUR 
+219(304) billion in 
+2023 Consumer surplus 
+1.30% 2014 European 
+Union and 
+United 
+States GSMA 
+Deloitte and real 
+wireless Licensed Shared Access 
+to 100 MHz in 3.5 GHz 
+by mobile network 
+operators in the United 
+States Up to USD 260 
+billion for 2016-30 Direct and indirect economic 
+contribution, including amount 
+from mobile ecosystem 0.13% (4) Up to 146 billion 
+USD for 2018-2030 
+Consumer surplus 
+0.08% (4) Licensed Shared Access 
+to 50 MHz in 2.3 GHz 
+by mobile network 
+operators in the 
+European Union Up to EUR 86(119) 
+billion for 2020-2030 Direct and indirect economic 
+contribution, including amount 
+from mobile ecosystem 0.08% (4) Up to 48(67) billion 
+EUR for 2020-30 
+Consumer surplus 
+0.04% (4) 2012 
+United 
+Kingdom Ofcom 
+DotEcon and Aetha Mobile communications 
+by 800MHz band, 
+1800MHz band, 2.6GHz 
+paired band, or 2.6GHz 
+unpaired band GBP 
+0.011(0.02)/MHz/pop 
+for 2.6GHz unpaired 
+to GBP 
+0.714(1.2)/MHz/pop 
+for 800MHz Market value estimated by 
+international comparison 
+(Benchmarking) 0.006% GBP 50.4(81.3) 
+million for 2x5MHz 
+in 2.6GHz band to 
+GBP 276(445.2) 
+million for 
+2x15MHz in 
+1800MHz 
+band Recommended reserve prices 
+0.002% 2011 
+United 
+States Analysis Group, 
+supported by Mobile 
+Future Mobile broadband by 
+additional 300 MHz USD 230 billion of 
+additional GDP Economic contribution by new 
+capital spending 
+0.305% 2011 
+United 
+States Bazelon, C., The 
+Brattle Group, Inc, 
+sponsored by T-
+Mobile and CTIA Mobile communications 
+by 20 MHz of AWS-3 
+band (1755 -1780 MHz) USD 12 billion when 
+symmetrically paired 
+with 1755-1850 MHz 
+band, USD 3.6 
+billion when unpaired Market value estimated from 
+past auction results (AWS-1 
+auction) 0.008% (9) Note: 1) Compared the upper values listed for each study. Net present value (NPV) and market value estimated for multiple years is converted 
+to annual average that is always same amount by each year's valuation, using discount rate included in the study with exceptions indicated by 
+notes. GDP and exchange rate use 2011 figures unless otherwise noted. 2) GDP uses 2005 figure, 3) GDP and exchange rate uses 2006 
+figures, 4) GDP uses 2018 figure estimated in World Economic Outlook Database of International Monetary Fund (IMF). 5) Assumed 12% of 
+discount rate for conversion. GDP and exchange rate uses 2008 figures. 6)7) A second order effect resulting in more advertising space with 
+potential impact on consumer surplus will be generated, according to the study.8) Additional economic value from M2M is excluded. Annual 
+value of GDP uses estimates for the year of 2013. 9) Assumed infinite length of years and 10% of discount rate for conversion. 

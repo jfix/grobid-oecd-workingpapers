@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">International Energy Agency</orgName>
+							<address>
+								<addrLine>9 rue de la Fédération</addrLine>
+								<postCode>75739</postCode>
+								<settlement>Paris</settlement>
+								<postCode>Cedex 15</postCode>,
+								<country>France</country>
+							</address>
+							<orgName type="department">INFORMATION PAPER</orgName>
+							<orgName type="institution">International Energy</orgName>
+							<address>
+								<addrLine>Agency 9, rue de la Fédération</addrLine>
+								<postCode>75739</postCode>
+								<settlement>Paris</settlement>,
+								<addrLine>Cedex 15</addrLine>,
+								<country>France</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

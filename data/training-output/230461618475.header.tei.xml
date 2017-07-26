@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="230461618475"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">Please cite this paper as:<lb/> OECD (2008), &quot; Internet Address Space: Economic<lb/> Considerations in the Management of IPv4 &quot; , OECD Digital<lb/> Economy Papers, No. 145, OECD Publishing, Paris.<lb/></note>
+
+	<idno>http://dx.doi.org/10.1787/230461618475<lb/></idno>
+
+	<note type="other">OECD Digital Economy Papers No. 145<lb/> Internet Address Space<lb/> ECONOMIC CONSIDERATIONS IN THE<lb/> MANAGEMENT OF IPV4<lb/></note>
+
+	<p type="introduction">OECD<lb/> DSTI/ICCP(2007)20/FINAL<lb/> 2<lb/> FOREWORD<lb/> The report provides an analysis of economic considerations associated with the transition from IPv4<lb/> to IPv6. It provides background analysis supporting the forthcoming ICCP-organised Ministerial-level<lb/> meeting on ―The Future of the Internet Economy‖, to take place in Seoul, Korea on 17-18 June 2008.<lb/> This report was prepared by Ms. Karine Perset of the OECD&apos;s Directorate for Science Technology<lb/> and Industry. It was declassified by the ICCP Committee at its 54 th Session on 5-7 March 2008. It is<lb/> published under the responsibility of the Secretary-General of the OECD.<lb/> This paper has greatly benefited from the expert input of Geoff Huston from APNIC, David Conrad<lb/> from the IANA, Patrick Grossetête from CISCO Systems, Bill Woodcock from Packet Clearing House,<lb/> Marcelo Bagnulo Braun from the University of Madrid, Alain Durand from Comcast, and Vincent Bataille<lb/> from Mulot Déclic, although interpretations, unless otherwise stated, are those of the author.<lb/> DSTI/ICCP(2007)20/FINAL</p>
+
+		</front>
+	</text>
+</tei>

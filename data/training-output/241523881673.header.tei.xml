@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="241523881673"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">ACKNOWLEDGEMENTS<lb/> The authors would like to express their gratitude to Christine Le Thi for providing statistical support,<lb/> as well as to John Martin, Martine Durand, Peter Scherer, Jean-Pierre Garson, Simon Chapple and other<lb/> colleagues for their valuable comments. The authors are also grateful to all the experts who kindly<lb/> accepted to meet with the authors during the OECD secretariat mission in New Zealand and provided very<lb/> valuable information and data.<lb/> The OECD Secretariat thanks the New Zealand Department of Labour for their financial contribution<lb/> and support in organizing and assisting the OECD secretariat mission in New Zealand.<lb/></note>
+
+	<note type="grant">This paper is one in a series of case studies undertaken as part of a project on Health Workforce and<lb/> International Migration. The project was jointly undertaken by the OECD and the World Health<lb/> Organization: one of the co-authors is a WHO official who was seconded to the OECD to work on the<lb/> project. We are grateful to the Swiss authorities for the financial support which supported this secondment.<lb/> The Health Workforce and International Migration project has received direct financial support from<lb/> Australia and Canada, and has benefitted from voluntary contributions in support of the Health Systems<lb/> Performance work programme from other member countries.<lb/> The Health Workforce and International Migration project has been co-financed by a grant provided<lb/> by the Directorate General for Health and Consumer Protection of the European Commission. Nonetheless,<lb/> the views expressed in this report should not be taken to reflect the official position of the European Union.</note>
+
+		</front>
+	</text>
+</tei>

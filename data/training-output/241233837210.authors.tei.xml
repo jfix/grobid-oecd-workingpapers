@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+by
+							<lb/>
+								 <forename>Javier</forename>
+								<surname>Rodríguez</surname>and
+							</persName>
+							<persName>
+								 <forename>Javier</forename>
+								 <surname>Santiso</surname>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>William</forename>
+								 <surname>Barndt</surname> ,
+							</persName>
+							<persName>
+								<forename>Steven</forename>
+								 <surname>Block</surname>,
+							</persName>
+							<persName>
+								 <forename>Fernando</forename>
+								 <surname>Carrillo</surname>,
+							</persName>
+							<persName>
+								 <forename>Guillermo</forename>
+								 <surname>Calvo</surname>,
+							</persName>
+							<persName>
+								 <forename>Alicia</forename>
+								 <surname>García- Herrero</surname> ,
+							</persName>
+							<persName>
+								<forename>Tessa</forename>
+							<lb/>
+								<surname>Hebb</surname>,
+							</persName>
+							<persName>
+								 <forename>Alejandro</forename>
+								 <surname>Izquierdo</surname>,
+							</persName>
+							<persName>
+								<forename>Ethan</forename>
+								 <surname>Kaptsein</surname> ,
+							</persName>
+							<persName>
+								<forename>Alejandro</forename>
+								 <surname>Micco</surname> ,
+							</persName>
+							<persName>
+								<forename>Elías</forename>
+								 <surname>Papaioannou</surname> ,
+							</persName>
+							<persName>
+								<forename>Andrew</forename>
+							<lb/>
+								 <surname>Powell</surname> ,
+							</persName>
+							<persName>
+								<forename>Eduardo</forename>
+								 <surname>Levy -Yeyati</surname>,
+							</persName>
+							<persName>
+								 <forename>Sebastián</forename>
+								 <surname>Saeigh</surname>,
+							</persName>
+							<persName>
+								<forename>Carlos</forename>
+								<surname>Santiso</surname> ,
+							</persName>
+							<persName>
+								 <forename>Ernesto</forename>
+								<surname>Stein</surname> and
+							</persName>
+							<persName>
+								 <forename>Francisco</forename>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

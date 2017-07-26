@@ -1,0 +1,55 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="5jm2hhcjftvh-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">Please cite this paper as:<lb/></note>
+
+	<reference>Brezzi, M. and M. Diaz Ramirez (2016), &quot; Building subjective<lb/></reference>
+
+	<note type="other">well-being indicators at the subnational level: A preliminary<lb/> assessment in OECD regions &quot; , OECD Regional Development<lb/> Working Papers, 2016/03, OECD Publishing, Paris.<lb/></note>
+
+	<ptr type="web">http://dx.doi.org/10.1787/5jm2hhcjftvh-en<lb/></ptr>
+
+	<note type="other">OECD Regional Development Working<lb/> Papers 2016/03<lb/></note>
+
+	<docTitle>
+	<titlePart>Building subjective well-<lb/>being indicators at the<lb/> subnational level<lb/> A PRELIMINARY ASSESSMENT IN OECD<lb/> REGIONS<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Monica Brezzi, Marcos Diaz Ramirez<lb/></docAuthor>
+	</byline>
+
+	<idno>JEL Classification: I31, R11<lb/></idno>
+
+	<p type="introduction">OECD REGIONAL DEVELOPMENT WORKING PAPERS<lb/> This series is designed to make available to a wider readership selected studies on regional development<lb/> issues prepared for use within the OECD. Authorship is usually collective, but principal authors are named.<lb/> The papers are generally available only in their original language English or French with a summary in the<lb/> other if available.<lb/> OECD Working Papers should not be reported as representing the official views of the OECD or of its<lb/> member countries. The opinions expressed and arguments employed are those of the author(s).<lb/> The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli authorities.<lb/> The use of such data by the OECD is without prejudice to the status of the Golan Heights, East Jerusalem<lb/> and Israeli settlements in the West Bank under the terms of international law.<lb/> Working Papers describe preliminary results or research in progress by the author(s) and are published to<lb/> stimulate discussion on a broad range of issues on which the OECD works. Comments on Working Papers<lb/> are welcomed, and may be sent to either gov.contact@oecd.org or the Public Governance and Territorial<lb/> Development Directorate, OECD,</p>
+
+	<address>2 rue André-Pascal, 75775 Paris Cedex 16, France.<lb/></address>
+
+	<byline>
+	<affiliation>Authorised for publication by Rolf Alter, Director, Public Governance and Territorial Development<lb/> Directorate, OECD.<lb/></affiliation>
+	</byline>
+
+	<p type="introduction">-----------------------------------------------------------------------------<lb/>OECD Regional Development Working Papers are published on<lb/> http://www.oecd.org/gov/regional/workingpapers<lb/> -----------------------------------------------------------------------------<lb/>Applications for permission to reproduce or translate all or part of this material should be made to: OECD<lb/> Publishing, rights@oecd.org or by fax 33 1 45 24 99 30.<lb/></p>
+
+	<note type="copyright">© OECD 2016<lb/></note>
+
+	<docTitle>
+	<titlePart>BUILDING SUBJECTIVE WELL-BEING INDICATORS AT THE SUBNATIONAL LEVEL: A<lb/> PRELIMINARY ASSESSMENT IN OECD REGIONS<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Monica Brezzi and Marcos Diaz Ramirez 1<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">Abstract<lb/> This paper provides, for the first time, estimates of subjective well-being variables in 373 OECD<lb/> subnational regions, allowing comparison of various measures of how people experience and evaluate their<lb/> lives within and across all 34 OECD countries. Different weighting strategies as well as several robustness<lb/> checks have been carried out to ensure regional representativeness and to provide reliable indicators. The<lb/> results show that it is possible to obtain robust regional estimates of subjective well-being through the<lb/> Gallup World Poll for the variables satisfaction with life and social support network. These estimates could<lb/> be included in the OECD Regional Well-Being Database to provide two additional well-being dimensions<lb/> measured uniquely with subjective indicators. In addition to these two variables, the paper explores the<lb/> feasibility of other subjective indicators, either from Gallup or the European Statistics on Income and<lb/> Living Standards (EU SILC), which are particularly meaningful when measured at the city or regional<lb/> levels, such as satisfaction with the living environment, satisfaction with commuting time, trust in the<lb/> political system, and feeling of safety in the community. Finally, a regression analysis is performed to give<lb/> an insight of the explanatory power of both individual and regional specific characteristics to self-reported<lb/> life satisfaction. The results show that regional fixed effects capture around 10 percentage points of the<lb/> variation in life satisfaction, of which 30% can be associated to observable regional characteristics such as<lb/> mortality rate and air pollution. Furthermore, life satisfaction tends to be negatively affected not only by<lb/> the individual unemployment status but also by the level of unemployment of the region; in the OECD<lb/> area, everything else equal, being unemployed is associated with 7 percentage points less of life<lb/> satisfaction compared to someone that is employed; whereas, an increase of 1 percentage point in the<lb/> unemployment rate at the regional level is related with 0.4 percentage points less of satisfaction with life as<lb/> a whole.<lb/> JEL classification codes: I31, R11<lb/></div>
+
+	<keyword>Keywords: subjective well-being, regional disparities, access to services, World Gallup Poll,<lb/> European Statistics on Income and Living Conditions.</keyword>
+
+		</front>
+	</text>
+</tei>

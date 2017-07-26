@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">M A K I</orgName> (,
+							<orgName type="department">Development Centre)</orgName>
+							<orgName type="laboratory">Authorised for publication by Mario Pezzini, Director</orgName>,
+							<address>
+								<region>OECD</region>
+							</address>
+							<orgName type="department">Development Centre</orgName>
+							<address>
+								<addrLine>2 rue André Pascal</addrLine>,
+								<postCode>75775</postCode>
+								<settlement>PARIS CEDEX 16</settlement>,
+								<country>France</country> Botswana,
+								<country>Burundi</country>,
+								<addrLine>Cabo Verde</addrLine>,
+								<country>Cameroon</country>,
+								<country>Chad, Democratic Republic of Congo</country>,
+								<country>Djibouti, Gambia</country>,
+								<region>Kenya, Lesotho, Madagascar, Mauritius, Morocco</region>,
+								<country>Namibia, Niger, Rwanda</country>,
+								<region>São</region>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

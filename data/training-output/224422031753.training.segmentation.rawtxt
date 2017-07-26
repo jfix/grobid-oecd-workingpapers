@@ -1,0 +1,3338 @@
+Please cite this paper as: Liapis, P. (2009),  " Extensive Margins in Agriculture " , OECD 
+Food, Agriculture and Fisheries Papers, No. 17, OECD 
+Publishing, Paris. 
+http://dx.doi.org/10.1787/224422031753 OECD Food, Agriculture and Fisheries 
+Papers No. 17 Extensive Margins in 
+Agriculture Pete Liapis JEL Classification: C25, F14, F19, Q17 1 TABLE OF CONTENTS Executive Summary ....................................................................................................................... 2 Introduction ................................................................................................................................ 4 
+How is the intensive and extensive margin measured? .............................................................. 5 
+Cross Sectional Results for the extensive and intensive margins ............................................ 10 
+Results for exports of agricultural products ............................................................................. 12 
+The extensive margin and its contribution to the growth of agricultural exports .................... 20 
+The extensive and intensive margins from gravity-type estimates .......................................... 28 
+Summary and conclusions ....................................................................................................... 33 REFERENCES ............................................................................................................................ 36 Tables Table 1. Results from Hummels and Klenow (2002)............................................................... 12 
+Table 2. Estimates of agricultural exports and intensive and extensive margins ..................... 13 
+Table 3. Estimates of agricultural exports and intensive and extensive margins (GDP) ......... 15 
+Table 4. Alternative extensive margins (GDP) ........................................................................ 17 
+Table 5. Price and quantity components of the intensive margin ............................................ 18 
+Table 6. Breakdown of the Increase in Agricultural Export between the Extensive and Intensive 
+Margin (1996-2006) ................................................................................................................. 23 
+Table 7. Average marginal effects of a change in agricultural exports on the intensive and extensive 
+margin ...................................................................................................................................... 31 
+Table 8. Average marginal effects of a change in agricultural exports at the extensive margin33 Figures Figure 1. Growth in agricultural exports and output per worker ............................................. 21 
+Figure 2. Number of countries and the contribution of the extensive margin to the growth of their 
+exports ...................................................................................................................................... 25 
+Figure 3. Decomposition of the extensive margin ................................................................... 26 
+Figure 4. Decomposition of the extensive margin for various groups of countries ................. 27 2 Executive Summary The purpose of this paper is to provide empirical analysis of the developments and determinants 
+of agricultural trade flows by determining whether the growth in agricultural trade has taken place at 
+the intensive or the extensive margin. This paper presents new work examining the evolution of agro-
+food exports between 1996 and 2006 for 69 countries. The paper addresses the questions: have 
+agricultural exports during this period expanded more through the intensive margin (more exports of 
+established goods to traditional partners) or through the extensive margin (new trade flows in new 
+products and/or to new partners)? At the intensive margin, do richer countries export greater volumes, 
+or do they receive higher prices for their goods? At the extensive margin, are new trade flows the 
+result of an expanded variety of products or the result of exporting established products to more 
+destinations? Trade occurs because the parties that engage in the transaction find it beneficial. On the export 
+side, expanding markets enables the exploitation of comparative advantage, while firms can reduce 
+costs by increasing the scale of their production, improve productivity and increase producer surplus. 
+On the import side, welfare in enhanced through consumption of lower priced goods and through the 
+availability of a larger variety of goods. In this paper, the focus is on the export side of the ledger 
+although the reader should remember that the importer also benefits. Exports can grow as firms export more and/or at higher prices for the products they have been 
+producing to their existing partners (the intensive margin). Exports can also grow through market 
+development as firms export their existing products to new partners or through innovation, developing 
+new products and exporting them either to existing partners or to new markets (the extensive margin). This study assesses the growth in agricultural trade from 1996 to 2006 and decomposes the 
+growth into the extensive and intensive margin. Three approaches are used on disaggregated 
+agricultural trade data for 69 exporting countries to determine the contribution of the margins to 
+growing agricultural exports. One is a cross sectional approach. This utilises a country's bilateral 
+export data at a given point in time and computes its intensive and extensive margin. This approach 
+allows one to answer the question:  " do richer countries export more agricultural products at the 
+intensive or extensive margin? "  In addition, the question of whether agricultural exports of richer 
+countries are higher quality can be ascertained. An alternative approach is more descriptive, using a country's bilateral export data to compare 
+performance in two points in time. By computing the change in exports between the two time periods 
+and decomposing that growth into the two margins, one can answer whether the growth in agricultural 
+exports for any exporter occurred mostly at the extensive or intensive margin. This abstracts from the 
+relative contribution of policy and other factors to that growth. The third approach used in the study is based on estimating a gravity-type equation to explain 
+bilateral exports. This approach explains bilateral trade flows by decomposing the total effect into the 
+extensive margin through explaining the change in trade flows from non-existing to positive flows and 
+the intensive margin by examining the change in flows that are positive throughout. 3 @BULLET From the cross section approach, the study finds that when agricultural value added (AVA) 
+is used to indicate a country's size or export potential, for every 10% increase in AVA, 
+agricultural exports (in 2006) increase by 5%. Most of the additional exports (53%) are at the 
+intensive margin, countries exporting more of the same set of products to existing partners. 
+But, when a country's GDP is used as a measure of its size or export potential, the results 
+suggest that richer countries export more agricultural products and they export more 
+products to more destinations, that is, they have a more diversified export basket with the 
+extensive margin accounting for 55% of their additional agricultural exports (in 2006). This 
+result may be due to the fact that more and more of agricultural exports are in processed 
+products that more closely resemble manufactured products. It also finds that firms in richer 
+countries export higher quality agricultural products obtaining an 18% price premium in 
+2006. @BULLET From the descriptive statistics, when the focus is on how agricultural exports have grown 
+over time, the study finds that the majority of the overall growth in agricultural exports for 
+all sampled countries was at the intensive margin, with firms selling more of their existing 
+goods to their existing partners. But, for 44 out of the 69 countries, the extensive margin 
+contributed more than 50% to the growth in agricultural export over the 1996 to 2006 period. 
+This implies that the extensive margin is important for many countries that are not among the 
+largest exporters. And, many of these exporting countries are developing countries 
+suggesting that they are diversifying their export basket. @BULLET From the gravity-type approach, preliminary results from the study indicate that trade 
+frictions have a larger (absolute value) impact on trade flows than demand factors on both 
+margins. Additional agricultural exports are mostly generated by changes on the intensive 
+margin. Increasing trade flows at the extensive margin is difficult. Although this avenue of 
+export growth is statistically significant its contribution to the overall increase is small. 1. 
+Thus, the importance of the extensive margin to growing agricultural exports depends on the 
+measure used. Nonetheless, all three methods indicate that the extensive margin contributes in various 
+degrees to the growing agricultural exports. This has implications on modelling trade reform. Models 
+that are not capturing this source of growth will underestimate the potential impacts from reform. 2. 
+The preliminary results also highlight the importance of trade resistance or trade costs on the 
+existing trade flows and on the probability of forming new trading relationships. Although the analysis 
+abstracts from the many policy changes that occurred, it seems that there is a large pay-off to policies 
+that can reduce those frictions. In this analysis, distance was used to proxy these trading costs. Further 
+efforts to explicitly include trading costs such as tariffs, standards, informational costs, or 
+infrastructural impediments into the analysis may improve our understanding of their effects on trade 
+flows at the intensive and extensive margins. More detailed analysis at the individual product level 
+may also help illuminate the characteristics of those innovative products that develop (or not) into 
+major trade flows. 4 EXTENSIVE MARGINS IN AGRICULTURAL TRADE Introduction Trade occurs because the parties that engage in the transaction find it beneficial. On the export 
+side, expanding markets enables the exploitation of comparative advantage, while firms can reduce 
+costs by increasing the scale of their production, improve productivity and increase producer surplus. 
+On the import side, welfare is enhanced through consumption of lower priced goods and through the 
+availability of a larger variety of goods. In this paper, the focus is on the export side of the ledger 
+although the reader should remember that the importer also benefits. Firms that are engaged in 
+exporting tend to be larger, more productive and more efficient than firms in the same industry that do 
+not export. By exporting more, firms can become more productive and can realize economies of scale 
+through serving a larger market. But, there is information and other learning costs to exporting as 
+firms have to understand the various destination markets, tailor their products to satisfy local norms, 
+ship over greater distances, and overcome custom and other administrative costs. The benefits are 
+increased profitability for the firms and higher employment and other social benefits for the home 
+country. For the importing countries, additional availability and variety increase consumer welfare. Exports can grow through increasing the volume of products, increasing their price (unit value), 
+or by exporting new products and developing new trading partners. Increasing exports through higher 
+volumes, at the intensive margin, can be an indication that a country is making the most of its 
+comparative advantage and firms in those industries are exploiting economies of scale and are 
+becoming more efficient. A potential downside is that overly relying on a fixed set of export goods 
+may lead to declining export prices from the expanded supply along with increased volatility from 
+exogenous shocks. In this light, a diversified export basket is presumed to minimize the variability of 
+export earnings while reducing the potential for declining terms of trade while encouraging 
+innovation. Creating new or higher quality products and developing new trading partners, can spur 
+productivity and economic growth. This distinction on how exports may grow has only recently 
+received attention in the literature. Most of the gravity-type of analyses estimating bilateral trade flows 
+have overlooked this distinction as estimates are based on data that only includes trade that is taking 
+place indistinguishable whether the data reflect trade in established products with existing partners 
+(the intensive margin) or trade in new products and/or to new partners (the extensive margin). 
+Comparative static and other non-gravity models used to assess effects of trade or other reforms also 
+abstract from the effects of policy reform on export variety. Distinguishing whether export growth is predominantly at the intensive or extensive margin, in 
+addition to providing a better understanding of the dynamics of growth and insights into productivity 
+and innovation, can also provide richer analysis of the benefits or gains from trade liberalisation, 
+giving insights on gains that are missing from conventional models that abstract from this distinction. 
+For example, recent findings by Feenstra and Kee (2007) indicate that Mexico and China have 
+expanded the varieties exported to the US following tariff reductions in the US. Similarly, Debaere 
+and Moshashari (2005) for a wider set of countries also find that their export basket to the US 
+increased following lower US import tariffs. Furthermore, they report that countries differ in the 5 variety of goods they export and also in the range of countries with which they trade. Moreover, the 
+sets of countries and goods change over time and vary more than traditional models would indicate. Whether trade grows at the intensive or extensive margin matters because the welfare 
+implications of policy reform can differ. Expanding exports at the intensive margin can drive down the 
+price of these goods on the world market, worsening a country's terms of trade. In CGE models such 
+as GTAP, these terms of trade effects are significant. If, on the other hand, additional exports are 
+generated through the extensive margin, adverse terms of trade effects may not materialize. Rather 
+than sliding down the demand curve for their goods, growing at the extensive margin implies 
+exporting more goods to more markets and an outward shift in demand. Models not incorporating the 
+extensive margin may underestimate the effects of trade reform. Included in this category are partial or 
+general equilibrium models that are based on the Armington assumption of product differentiation as 
+well as models that assume homogeneous products. Trade in many partial equilibrium models tends 
+not to be modelled explicitly (usually represented as the difference between demand and supply) 
+hence, abstracting from distinctions about product variety and trading partners, two means for trade at 
+the extensive margin. Below, we examine the relative contribution of the intensive and extensive margin to the change 
+in agricultural exports of 69 major exporters. Have their agricultural exports expanded through 
+increases in the volume exported or through providing an expanded set of products to new trading 
+partners during 1996 to 2006? As discussed below, there are alternative approaches to analysing this 
+question. We employ several of them to provide a richer understanding of the relative contribution of 
+each margin to agricultural exports during this period. To our knowledge, this is the first attempt to 
+look at the extensive and intensive margin of agricultural exports for such a large number of 
+agricultural exporters. The next section discusses the different approaches to analysing trade at the extensive and 
+intensive margin. This is followed by a description of the data used, a discussion of the main findings 
+while the last section provides some conclusions. How is the intensive and extensive margin measured? Among the recent trade literature focused on distinguishing the source of trade growth between 
+the extensive and intensive margins, researches have utilised different approaches to address the issue. 
+One approach has focussed on developing measures of the extensive or intensive margins and then 
+assessing how tariffs, other costs to exporting, or economic size, among others, affect this measure. 
+Examples include Brendon and Newfarmer (2007), Debaere and Mostashari (2005), Dennis and 
+Shepherd (2007), Feenstra and Kee (2007), and Hummels and Klenow (2002). Another more 
+descriptive approach compares a country's bilateral exports at two points in time to determine the 
+relative contribution of each margin to the country's export growth. Examples include Brendon and 
+Newfarmer(2007) and Amurgo-Pacheco and Pierola (2008). In another alternative, researchers, rather 
+than measuring the extensive or intensive margin explicitly, employ gravity-type equations but focus 
+on the appearance of new trading relationships. Examples include Felbermayr and Kohler (2006), 
+Helpman, Melitz and Rubinstein (2008), and Amurgo-Pacheco and Pierola (2008). All approaches 
+tend to use highly disaggregated trade data for the empirical implementation of their analysis. Researchers that have examined the intensive and extensive margin by explicitly measuring each 
+margin have used several different measures to calculate the extensive and intensive margin. One of 
+the simplest ways is to define the extensive margin as the simple count of the number of products that 
+a country exports, with the intensive margin as the average exports per product. This is an unweighted 
+measure, treating a product with exports valued at USD one thousand equal to a product with exports 6 valued at USD one million. This measure was used by Debaere and Mostashari (2005) and Dennis and 
+Shepherd (2007) in their analysis of the intensive and extensive margin for the US and EU 
+respectively. Another measure of the extensive margin treats exports of any product to each 
+destination as an observation. The extensive margin is the count of exports of each product and 
+market, while the intensive margin is the exports per product and market combination. This measure 
+also gives equal weight to  " small "  markets and products and  " large "  products and markets. A more sophisticated measure of the extensive margin derived from consumers maximizing their 
+utility, was developed by Feenstra and Kee (2007). This measure was derived from a constant 
+elasticity of substitution (CES) aggregator function. Their margin is a relative measure and is 
+interpreted as the share of total imports of the products exported by any one country. They apply their 
+measure of  " variety "  or extensive margin using US import data at the HS-10 digit level for exports 
+from Mexico and China. They use US import data because it provides greater detail for measuring 
+varieties, but it is not internationally comparable. Hence, the other dimension of the extensive margin, 
+trade with new partners, is missing. For this analysis, in the first part the extensive and intensive margins are measured explicitly and 
+we use simple regression analysis to decompose exports into the intensive and extensive margin. In 
+measuring the intensive and extensive margin, we follow the definition provided by Hummels and 
+Klenow (2002) henceforth HK. The methodology is based on incorporating new varieties into a 
+country's price and quantity index. The price index is effectively lowered when the set of goods 
+expand (HK). Of special interest is the extensive and quality margin. Exporters systematically selling 
+large quantities at high prices may be an indication that these exporters produce higher quality goods. 
+The methodology allows one to answer the question; do richer countries export more agricultural 
+products at the intensive or extensive margin, and do they export higher quality goods? It does not 
+identify the factors that generate these trade flows. HK define the intensive margin for any exporting country j as, where χ j = nominal exports of country j, χ Wis = world exports to country i in product category s, and 
+X jis = the set of products and markets where exports from country j are positive i.e., χ jis > 0 where χ jis 
+are nominal exports of country j to country i in product category s. Essentially, the equation shows that 
+the intensive margin is an indication of the exporting country's share of world exports in those 
+products and markets in which it exports. Note that the information from a country's bilateral exports 
+are summarised into a single measure per exporter. The extensive margin for any exporting country j is defined as, 7 with χ W representing nominal world exports (from all countries to all countries). This is a measure of 
+the fraction of world exports that occur in those products and markets in which country j exports. This 
+definition is similar to that developed by Feenstra and Kee (2007). If a country concentrates all of its 
+exports in a small number of products in a few countries, all other things equal, it will have a higher 
+intensive margin and a lower extensive margin. If that country spreads its exports thinly over many 
+markets, it will have a lower intensive margin and a higher extensive margin. Note that this measure of 
+the extensive margin is a comparison of exports for countries at a point in time. This is a static 
+measure, summarising a country's bilateral exports at a point in time. It indicates the depth and 
+breadth of a country's export profile, but does not reflect the growth of that country's exports over 
+time. The second and third approached differ from the one above by examining the growth of the 
+margins for a given country over time in contrast to a cross country comparison of the margins at a 
+given point in time. The second approach used in this study is more descriptive. After computing a 
+country's export growth between 1996 and 2006, trade flows are decomposed into those flows that are 
+persistent throughout the period, those that have expired or are no longer active and those trade flows 
+that are new at the end period but did not exist in the beginning. Thus, the growth is split into the 
+extensive and intensive margin providing an explicit measure of the relative contribution of each 
+margin to that country's growth. For this purpose, the intensive margin for any country j is defined as 
+the change in country j's exports of existing products (old products) to established trading partners 
+(old partners) minus the cessation of trade in old products (dead or expired products) to current 
+partners. The extensive margin for country j is defined as exports of products that country j had not 
+previously exported (new products) either to new partners (new products, new partners) or to existing 
+partners (new products, old partners) plus exports of existing products to new partners (old products, 
+new partners). Variations of this definition were used by Brenton and Newfarmer (2007) and Amurgo-
+Pacheco and Pierola (2008). This approach, unlike the others, identifies the countries with the largest 
+growth in agricultural exports during the time period and of that growth, how much is at the extensive 
+margin relative to the intensive margin. Additionally, countries are grouped into different categories to 
+discern group differences, if any. The last approach used in this paper is based on research that examines the intensive and 
+extensive margin without measuring them explicitly. Rather, the issue is addressed more generally by 
+specifying a gravity-type equation to explain bilateral trade flows but within the context of a problem 
+of missing or censored data. The point of departure for the extensive margin is that there are trading 
+relationships that, for a variety of reasons are not materialised at one point in time, but which may or 
+may not materialise at a later stage. That is, zero trade in time period one may become positive in 
+period two. The extensive margin in this case is defined in terms of the zero trade flows becoming 
+positive while the intensive margin is in terms of trade that is positive throughout the period. In this 
+approach, bilateral trade flows are explained using a gravity-type equation with zero trade flows 
+explicitly in the data. Researchers that have employed this approach include Amurgo-Pacheco and 
+Pierola (2008), Felbermayr and Kohler (2006), and Helpman, Melitz and Rubinstein (2008). To assess 
+the intensive and extensive margin with this approach we utilise a Tobit and a Probit estimation 
+technique to estimate bilateral exports in the presence of zero trade. 8 Data Bilateral agricultural exports 1 from 1996 to 2006 are from UN COMTRADE accessed through 
+the World Bank's World Trade Integrated Solution (WITS) system. The number of countries reporting 
+their exports varies. In 2006, exports from more than 130 economies were available through this 
+system when we downloaded the data. However, data for each of these countries is not available for all 
+of the variables of importance for the entire period of interest. And, since we are interested in bilateral 
+trade, the resulting database would have been too large for computational purposes. As it is, even with 
+the reduced sample size, we reached the computational limits of our software even though there are 
+countries with missing data for some variables in some years. Our dataset is based on 69 2 of those 
+exporting countries and uses their export data at the most detailed level possible that is internationally 
+compatible, trade at the HS-6 digit level during 1996 to 2006. 3 For any exporting country, the data 
+reports the value (in US dollars) and quantity of each product (at the HS-6 digit level) exported and for 
+each destination. The selected countries were chosen based on their importance in agricultural exports. 
+All countries with at least USD 2 billion in agricultural exports in 2006 were included. This criterion 
+identified 47 economies with agricultural exports above USD 2 billion, and these 47 countries 
+represented about 94% of world's total agricultural exports in 2006. Additional countries with 
+agricultural exports below USD 2 billion that were added to the sample included all remaining OECD 
+members (Finland, Iceland, Norway, and the Slovak Republic), and the remaining countries that are 
+candidates for accession to the OECD, (Estonia, Israel, and Slovenia. Chile and Russia are also 
+included as each had more than USD 2 billion in exports). Because we are interested in how 
+agricultural exports have evolved over time, by necessity, our sample will constitute the largest 
+players. To round out the sample, 8 additional lower middle income countries along with 8 low 
+income countries were chosen to provide a broad geographic representation and to reduce selection 
+bias in terms of income or of being a large agricultural exporting country. Most of the 16 additional 
+countries (that are not large agricultural exporters in an absolute sense), had a comparative advantage 
+in agriculture in the OECD study  " Patterns in Agriculture and Food Trade: 1985-2004 "  (OECD 2007). 
+With the additional countries, the coverage of agricultural exports increased to 97% of world's total in 
+2006 (complete listing of the economies in the sample is in Appendix Table 1). The results presented 
+below based on this sample, therefore, can be considered representative. Because we calculate a price 
+and a quantity index for the analysis, export data with missing quantity units are dropped from the 
+sample. This has a relatively small impact on the overall data that were used. Depending on the year, 
+missing quantity units account for 1% to 3% of the total value of agricultural exports. This bilateral export dataset is uni-directional. That is, it reports exports from country j to 
+importing country i in product category k with j i k indexing all exporters, their trading partners and 
+export basket. A reciprocal trade flow from i to j in product k may or may not exist for any i j k. That 
+is, there are possible trading relationships that have not materialised. In typical export data such as the 
+one we use, these data do not exist. And, until recently, most estimates of trading behaviour have 
+ignored these data. But, given our interest in the extensive and intensive margin, we cannot ignore 
+these  " missing "  data. The analysis of the growth in exports at the extensive margin based on a gravity-
+type equation, depends on assessing how these non-existing trading relationships (the zeros) develop 1 Goods included in this category are products in HS Chapters 1-24 except fish and several other categories 
+in Chapter 29 to 53 as defined in the WTO. 2 In the early years of the analysis, Belgium and Luxembourg reported trade data as a single country. 
+For consistency, their data were aggregated in subsequent years. 3 For any exporter, the data reports all their bilateral exports at the HS-6 digit level (referred to as 
+products or goods in the report). Unfortunately, export data may not be available for each country in 
+each year. 9 into positive trade thus, growing at the extensive margin. Consequently, for this part of the analysis we 
+complete the initial database by generating the  " missing "  data. Because we are dealing with trade at 
+the HS-6 digit level, this greatly expands the dataset which reduces our ability to conduct some of the 
+estimations that are described below. In addition to the export data, we collected data on each exporting country's GDP (measured in 
+current USD or in purchasing power parity exchange rates), each country's total labour force, its 
+agricultural labour force, its agricultural value added (AVA, measured in current USD or as a percent 
+of GDP), its fertilizer use, its arable land (measured as either as a percent of total area or hectares per 
+person), and its agricultural machinery. These data were obtained from the World Bank's World 
+Development Indicators except for agricultural labour force which were obtained from the FAO. 
+Unfortunately, data were not available for all countries and all variables in every year. Finally, data on 
+variables typically found in gravity models such as bilateral distance between country i and j, (one 
+measure of resistance to trade), as well as information on whether they share a common border 
+(contiguity), they have similar language, or shared colonial relationships were obtained from Centre 
+d'Études Prospective et d'Informations Internationals (CEPII). Export data from COMTRADE are reported under different nomenclatures. The harmonised 
+system was chosen because it contains the most disaggregate product detail consistent across all 
+reporters. The original classification started in 1988. But, the system undergoes periodic updating, 
+changing product codes and description, probably to reflect changing product characteristics. This has 
+occurred in 1996, 2002, with the latest in 2007. Given the period of the analysis, (1996-2006), the HS 
+1996 nomenclature is the most appropriate providing a consistent set of data. However, many reporters 
+did not switch to the HS 1996 nomenclature until after 1996. Rather than comingling export data from 
+two different nomenclatures, 1996 export data are based on the HS 1988/92 nomenclature with 
+subsequent years based on HS 1996 nomenclature. 4 The changing nomenclature does not affect the 
+results when the intensive and extensive margins are calculated based on the HK methodology 
+(because they are based on cross sectional analysis). But, it does have implications for the results in 
+the later section which is based on changes over time. Another point to remember about the trade data and the extensive margin is that the classification 
+at the 6-digit level may still be too aggregate to pick-up new products or quality differences and the 
+reader should bear this in mind when interpreting the results. Many countries use a finer 
+disaggregation to characterise their exported goods. 5 Thus, there are products that are traded but are 
+not picked up at the 6-digit level because they fall in categories where some trade is taking place, and 
+as stated above, may be one of the reasons for the changing nomenclature. The newly traded goods 
+that are observed in our dataset are those that shift from an implicit zero to a positive number either 
+because it is a new product or because it has found a new destination. Thus, this level of 
+disaggregation, systematically underestimates the importance of the newly traded goods (Amurgo-
+Pacheco and Pierola). 4 In some cases, countries made the switch even later. In order to maintain a consistent set of reporters 
+for the entire period, their export data were switched to the HS 1996 nomenclature when it became 
+available. 5 These are not used because such detailed data are not available for all countries and the nomenclature 
+is not consistent across countries. 10 Cross sectional results for the extensive and intensive margins Results for all merchandise exports Trade analysts have observed and international trade theory confirms that, ceteris paribus, larger 
+economies trade more than smaller economies. But, this empirical result can be explained via different 
+trade theories. That is, trade theories differ as to how larger economies trade more. One set of theories 
+based on national product differentiation, postulate that larger economies trade larger volumes of a 
+given set of goods while another strand, based on monopolistic competition, postulates that larger 
+economies trade a larger number of goods than smaller economies (HK). The question is, do larger 
+economies trade more at the intensive margin (more of a given set of goods as for example national 
+product differentiation such as Armington), or at the extensive margin (more goods as under 
+monopolistic competition models)? HK address this question for overall trade using data from 1995. In this section we narrow down 
+the same question and focus on whether larger economies export more agricultural products at the 
+intensive or extensive margin. This section draws heavily on the HK methodology. HK utilize detailed 
+(HS-6 digit) UNCOMPTRADE data on exports to compute the margins in Equations 1 and 2 in 1995 
+for 110 exporters to 59 partners to answer this question for total merchandise trade. They verify the 
+robustness of their results using US trade data at the HS-10 digit level. Here we use their methodology 
+to decompose each country's exports into the product of the extensive and intensive margins in order 
+to answer the question: do countries that export more, ship larger volumes of their goods 6 (intensive 
+margin), or do they ship a larger set of goods to more markets (extensive market)? In addition, we 
+decompose the intensive margin into price and quantity components to evaluate whether more exports 
+correspond to more units, or higher priced units. In this section, utilising the definition of the intensive and extensive margin (equations 1 and 2), 
+we answer the question: by how much agricultural exports increase as a result of changes in economic 
+size, labour force or average productivity, and, of this, how much is at the extensive relative to the 
+intensive margin? Furthermore, following HK, we are able to distinguish how much of the growth in 
+the intensive margin for larger economies is due to changes in export prices relative to changes in the 
+quantity exported. Note that this is not an exercise to describe the factors that determine trade, rather 
+to discriminate how exports and margins differ between countries with different levels of income or 
+workers. In order to examine whether at the intensive margin larger economies export more as a result of 
+higher prices or higher quantities, following HK we calculate the Fisher ideal price, (FIEP j ) (and 
+quantity FIEQ j ) index for each exporter j with j = 1,2,..69. These are quality adjusted price and 
+quantity indexes. The essential idea is that a rise in the extensive margin is equivalent to a fall in price 
+(HK). 1/2 * 1/2 6 The terms  " goods "  and  " products "  are used interchangeably in the report and they refer to exported 
+items as described at the HS-6 digit level. 11 where q jis is the quantity of exports of product s from country j to country i, p jis is the price of good s 
+exported from j to i measured by the unit value (= χ jis / q jis ), q wis is the quantity of world exports of 
+product s to country i and p wis is the price of good s in country i from all sources (=χ wis / q wis ). The 
+export price index summarises the extent to which an exporter's prices are high or low relative to other 
+prices in the same partner for the same product. A Fisher ideal quantity index can also be calculated analogously to the price index above, but 
+since the intensive margin is the product of the price index times the quantity index, one can compute 
+the implicit quantity index as, 4) 
+FIEQ j = IM j /FIEP j where FIEQ j is the Fisher Ideal Export Quantity index for country j. Before presenting our results, we replicate HK Table 1 below as a basis for comparison. Each 
+row represents an estimated equation with overall exports, the intensive margin and the extensive 
+margin as the dependent variables. HK relate each margin for total merchandise trade to a country's 
+size, measured by its GDP as well as its components, workers and output per worker. HK used these 
+two specifications to estimate each equation using Ordinary Least Squares (OLS). In the first 
+specification, economic size (Y j ) measured by GDP based on purchasing power parities is regressed 
+against each of the dependent variables with the results given in column one. The second specification 
+includes two independent variables; output per worker (Y j /L j ) and the number of workers (L j ) are used 
+to explain the variation in each dependent variable. Their results are rather good for such a simple 
+model. GDP explains 77% of the variation of a country's overall exports with an elasticity close to 
+one suggesting that an economy twice the size exports twice as much. The variation of the intensive 
+and extensive margins is also rather well explained by GDP explaining more than 60% of the 
+variation. Because OLS is a linear estimator, the coefficients of the intensive and extensive margin 
+sum to the coefficient of overall exports and one can compute the relative contribution of each margin 
+to the total (this is given below the estimated coefficient of each margin). The estimated elasticities 
+suggest that countries that are twice as large export about one-third more at the intensive margin with 
+two-thirds occurring at the extensive margin. That is, of the additional exports of larger countries most 
+of it is through exporting more goods to more countries. 12 Table 1. Results from Hummels and Klenow (2002) Independent 
+Dependent Yj 
+Adjusted R 2 Yj / Lj 
+Lj 
+Adjusted R 2 Overall 
+Exports 1.03 
+0.77 
+1.43 
+0.85 
+0.83 Intensive Margin 
+0.34 33% 0.61 
+0.40 28% 0.31 37% 0.62 Extensive 
+Margin 0.69 67% 0.68 
+1.04 72% 0.54 63% 0.76 Estimates from the second specification indicate that economies with twice the output per worker, 
+but with the same number of workers, export almost 150% more with almost three-fourths coming 
+from the extensive margin. Their results clearly demonstrate the importance of the extensive margin in 
+explaining the larger exports of bigger and more productive countries. Results for exports of agricultural products HK's analysis was based on data for 1995. For our analysis, we attempted to generalise their 
+methodology to take a dynamic view by examining the margins over the 11 year period 1996 to 2006. 
+We pooled the data into a panel for the 69 exporters from 1996 to 2006. Using the same specification 
+as HK but applying them to the agricultural sector, the dependant variables were: a) total agricultural 
+exports, b) intensive margin, and c) extensive margin as given in equations 1 and 2. The explanatory 
+variables were an economy's agricultural value added (AVA j ) measured in USD, and its components, 
+AVA divided by the size of its agricultural labour force (AVA j /AL j ), a measure of average 
+productivity, and the size of the economy's agricultural labour force (AL j ). Unfortunately, the results for the pooled data were insignificant and are not reported. But, for 
+each of the 11 years, estimates based on the cross sectional data were undertaken and these results 
+were robust suggesting that the decomposition of exports into the margins is more appropriate for 
+cross sectional analysis. To avoid clutter, while giving a sense of whether the relationship between the 
+intensive and extensive margin has remained constant over time, results are presented for each of three 
+years, 1996, 2000, and 2005 or 2006 (depending on data availability). These give an indication of 
+whether there has been a change in the magnitude of the estimated parameters over time. 13 Table 2. Estimates of agricultural exports and intensive and extensive margins Independent 
+Dependent AVAj 
+Adjusted R 2 AVAj/ALj 
+ALj 
+Adjusted R 2 1996 
+Overall 
+Agricultural 
+Exports 0.23 *** 0.11 
+0.28 *** 0.20 ** 0.10 Intensive 
+Margin 0.12 ** 52% 0.06 
+0.09 
+32% 0.15 ** 77% 0.06 Extensive 
+Margin 0.11 * 48% 0.04 
+0.19 *** 68% 0.05 
+24% 0.10 2000 
+Overall 
+Agricultural 
+Exports 0.25 *** 0.11 
+0.33 *** 0.18 * 0.13 Intensive 
+Margin 0.15 *** 62% 0.11 
+0.12 ** 37% 0.18 *** 100% 0.11 Extensive 
+Margin 0.10 
+38% 0.02 
+0.21 *** 63% 0.0 
+0% 0.14 2006 
+2005 
+Overall 
+Agricultural 
+Exports 0.53 *** 0.42 
+1.04 *** 0.64 *** 0.65 Intensive 
+Margin 0.28 *** 53% 0.32 
+0.44 *** 42% 0.36 *** 56% 0.36 Extensive 
+Margin 0.25 *** 47% 0.20 
+0.61 *** 58% 0.28 *** 44% 0.69 Table 2 reports the results with rows representing the dependent variables and columns as the 
+explanatory variables for the two estimated specifications. The results for agricultural value added per 
+worker and agricultural labour force are for 2005 because data for agricultural labour force at the time 
+of the analysis were not available for 2006. Comparing our results for 1996 to those from HK for 1995 (Table 1), one notices that our 
+specification explains a smaller proportion of the variation of exports and the margins. Although the 
+coefficient of AVA is positive and significant, AVA does a fairly poor job, explaining only 11% of the 
+variation in agricultural exports. In addition, the response of agricultural exports to changes in AVA 
+(the elasticity) is about a fourth the size reported in HK for GDP and all exports. This implies that a 
+country with twice the agricultural value added exports about 25% more agricultural products. In 
+contrast, HK find that a country with twice the GDP exported twice as much. Similarly, agricultural exports as a function of average agricultural labour productivity 
+(AVA/AL) and total agricultural labour force (AL) perform rather badly explaining only 10% of the 
+variation in agricultural exports in 1996. The results indicate that economies with twice the 
+agricultural output per worker (but with the same overall agricultural labour force) export 28% more 
+while those with twice the agricultural labour force (but with the same average productivity) export 
+20% more. These elasticities are considerably lower from those reported in HK. All variables are in natural logs. AVAj is agricultural value added for exporter j; ALj is total 
+agricultural labor force in exporter j. Percentages describe the contribution of each margin to the 
+overall export elasticity. Results for agricultural value added per worker are for 2005 because data 
+for agricultural labor force not available for 2006 at time of the analysis. * coefficient is significant at the 10% level; ** significant at the 5% level; and *** at the 1% level. 14 Turning our attention to the 1996 results for the extensive and intensive margins, it appears that 
+AVA or AVA/AL and AL are not highly correlated with the margins explaining a small part of the 
+variation. Furthermore, in each of the estimated equations, one of the explanatory variables is 
+statistically insignificant. Again, these results are in stark contrast to HK based on overall labour force 
+and output per worker. Concentrating on the results with AVA as the only explanatory variable (since 
+the other specification has insignificant parameters), they suggest that most (52%) of the additional 
+exporting done by economies with larger AVA occurs on the intensive margin (within each product-
+market category) and 48% on the extensive margin (exporting more products to more countries). 
+Comparing this finding for agricultural exports with those in Table 1 for all products, suggests that 
+large agricultural economies tend to focus on exporting more of the same goods to the same partners 
+in contrast to the pattern for exports in general. The rest of Table 2 reports the results for the years 2000 and 2006(05). The results indicate that 
+the explanatory power of the exogenous variables has improved considerably over the interval. The 
+ability to explain the variation in agricultural exports and each of the two margins has improved 
+relative to 1996, and all of the parameters in each of the estimated equations are significant at the 1% 
+level in 2006. It also appears that economies with larger AVA and AL improved their ability to export 
+agricultural products as the elasticity for each variable more than doubled compared to their 1996 
+values. Thus, in 2006, economies with twice the AVA exported 53% more agricultural products. More 
+than half of the additional exports occurred at the intensive margin (exporting more of the same goods 
+to the same partners) with 47% occurring at the extensive margin (exporting more goods to more 
+partners). Thus, economies with larger agricultural sector (as measured by AVA) and larger 
+agricultural labour force (columns 1 and 4 Table 2) export more of their agricultural goods at the 
+intensive margin which is different from the results for overall exports which are dominated by 
+exporting at the extensive margin. Product innovation and developing new partners seems to be less 
+important to firms in countries with large AVA or AL. However, countries with high agricultural 
+output per worker (average productivity) seem to behave differently. Most (58%) of the additional 
+agricultural exports from countries with larger agricultural output per worker (but with the same 
+overall agricultural labour force) occurs at the extensive margin (exporting more products to more 
+markets). It seems that firms in these countries are more innovative, developing new products and 
+discovering more trading opportunities around the globe. We attempted to expand the model by including additional sector specific variables such as 
+agricultural land supply (absolute as well as a share of the physical size of a country), arable land as a 
+share of agricultural land, fertilizer use, and the number of tractors as additional indicators of an 
+exporting country's ability to produce agricultural goods (and hence expand export supply). These 
+results are not reported because these variables proved to be insignificant in explaining agricultural 
+exports (and the margins). Given the relatively poor performance of the estimated equations reported in Table 2 and 
+reflecting the fact that in recent years agricultural (as defined at the WTO) exports comprise products 
+that are further removed from the farm gate (processed and semi processed products), agricultural 
+specific variables may not (and the results above confirm) represent the best variables to explain 
+agricultural exports. Consequently, the equations were re-estimated using GDP and total labour force 
+as explanatory variables. The results are presented in Table 3. 15 Table 3. Estimates of agricultural exports and intensive and extensive margins (GDP) Independent 
+Dependent GDPj 
+Adjusted R 2 GDPj/Lj 
+Lj 
+Adjusted R 2 1996 
+Overall 
+Agricultural 
+Exports 0.70 *** 0.62 
+13.28 *** 1.13 *** 0.61 Intensive 
+Margin 0.27 *** 38% 0.21 
+2.46 
+18% 0.40 *** 35% 0.21 Extensive 
+Margin 0.43 *** 62% 0.50 
+10.82 *** 82% 0.73 *** 65% 0.60 2000 
+Overall 
+Agricultural 
+Exports 0.70 *** 0.64 
+12.53 *** 1.10 *** 0.61 Intensive 
+Margin 0.25 *** 35% 0.20 
+1.65 
+13% 0.38 *** 34% 0.23 Extensive 
+Margin 0.46 *** 65% 0.51 
+10.88 *** 87% 0.72 *** 66% 0.64 2006 
+Overall 
+Agricultural 
+Exports 0.70 *** 0.62 
+12.52 *** 1.11 *** .59 Intensive 
+Margin 0.32 *** 45% 0.23 
+2.16 *** 17% 0.47 *** 42% .26 Extensive 
+Margin 0.37 *** 55% 0.53 
+9.41 *** 75% 0.61 *** 55% 0.70 An exporting country's GDP seems to explain agricultural exports better than AVA as indicated 
+by much larger adjusted R 2 values in each of the three years. Furthermore, the estimated elasticity is 
+much larger and more stable over time. GDP is also a better explanatory variable with regard to the 
+intensive and extensive margin. Total labour force and output per unit of labour (columns 3 and 4) also 
+perform better than comparable estimations with agricultural labour force and agricultural output per 
+unit of agricultural labour. These results suggest that agricultural trade, as it's increasingly dominated 
+by processed products, is more like trade in manufactured products and is more dependent on general 
+economic variables rather than sector specific. Focusing on the results with GDP as the explanatory variable (Table 3 column 1), the value of 
+agricultural exports for economies with twice the income is 70% more with the results from the 
+extensive and intensive margin indicating that most of the additional exports occur on the extensive 
+margin (more goods to more markets). This is interesting because it is similar to the results from HK 
+but directly opposite to the results presented in Table 2 and in the next sections. These results suggest 
+that firms exporting agricultural products from rich economies without necessarily large agricultural 
+value-added, behave similarly to firms exporting all other products. Or, it may be that agricultural 
+products are not primarily exported by agricultural firms. For example, New Zealand's agricultural 
+goods are highly traded contributing a substantial portion to New Zealand's overall export revenue. 
+But, firm-level data from New Zealand indicate that most of the agricultural products exported from All variables are in natural logs. GDPj is gross domestic product for exporter j measured in 
+purchasing power parities. Lj is total labor force in exporter j. Percentages describe the contribution 
+of each margin to the overall export elasticity. * coefficient is significant at the 10% level; ** significant at the 5% level; and *** at the 1% level. 16 New Zealand are undertaken by firms that are in wholesaling or processing (Fabling and Sanderson 
+(2008). It was mentioned above that there are alternative measures of the extensive margin. How do the 
+various measures illuminate the results? Table 4 reports the results of the various measures of the 
+extensive margin, for a three year interval 1996, 2000, and 2006. The first row for each year 
+reproduces the results for the extensive margin presented in Table 3. This is the count of the 
+combination of exported goods and markets, weighted by their share in world agricultural trade from 
+equation 2. The second row for each year reports the results when the extensive margin is computed as 
+a simple count of the combination of exported goods and markets to which the exporter ships. In terms 
+of equation 2, this equals the number of products in X jis for which x jis is greater than zero. This gives 
+an equal weight to all exported goods and markets regardless of their size. The results indicate that 
+larger economies ship a higher number of products to more markets, and, comparing row 2 to row 1, 
+the number of products-markets rises faster with GDP than the trade-weighted equivalent measure. 
+This finding is robust across time and suggests that firms in larger economies are more likely to export 
+to  " small "  product-markets, a finding consistent with that from HK for all trade. The third row is based on calculations of the extensive margin based on products rather than 
+products and markets. In terms of equation 2, the decomposition based on the set X jis being replaced 
+by the set X js which is the set of products in category s in which x jis is positive for some importers. 
+This metric is based on the set of goods that firms in an economy export and not on the destination, 
+and is weighted by their importance in trade. That is, if two countries export the same number of 
+goods, they will have the same extensive margin in row 3, but if one of them exports to more markets, 
+it will have a higher extensive margin in row 1. The extensive margin defined in terms of products accounts for 13% of the greater volume of 
+exports of larger economies in 1996, dropping to 10% in 2006. Comparing the first and third rows 
+around 30% of the extensive margin comes from exporting more agricultural products, while 70% 
+comes from shipping a given set of goods to additional destinations. The last row for each year in 
+Table 4 defines the extensive margin in terms of a simple count of the number of goods exported (the 
+number of elements in X js ), giving an equal weight to all exported products regardless of their 
+importance in trade. The results show that a country with twice the GDP exports anywhere from 21% 
+to 19% more goods (depending on the year). Comparing rows three and four, the number of goods 
+exported (row 4) rise faster with GDP than the number of products weighted by their importance in 
+trade (row 3), indicating that larger economies are more likely to export goods with  " small "  market 
+share. The results for output per labor and total labour (columns 3 and 4) also reveal that the extensive 
+margin based on simple counts (whether of products and markets or only of products) rises faster than 
+their weighted counterparts suggesting that more productive countries for a given labour force, or 
+those with a larger labour force are more likely to export more products and to more product market 
+combinations that are relatively  " small " . 17 Table 4. Alternative extensive margins (GDP) Independent 
+Dependent GDPj 
+Adjusted R 2 GDPj/Lj 
+Lj 
+Adjusted R 2 1996 
+Weighted 
+products and 
+markets 0.43 *** 62% .50 
+10.82 *** 82% 0.73 *** 65% 0.60 Number of 
+products and 
+markets 0.55 *** 78% .66 
+12.28 *** 92% 0.91 *** 65% .72 Weighted 
+products 0.13 *** 18% .27 
+2.96 *** 22% 0.21 *** 19% .29 Number of 
+products 0.21 *** 30% .44 
+4.62 *** 35% 0.35 *** 31% .47 2000 
+Weighted 
+products 
+markets 0.46 *** 65% 0.51 
+10.88 *** 87% 0.72 *** 66% 0.64 Number of 
+products 
+markets 0.55 *** 76% 65 
+11.45 *** 91% 0.87 *** 79% .70 Weighted 
+products 0.11 *** 16% .15 
+2.93 *** 23% 0.18 *** 16% .19 Number of 
+products 0.20 *** 28% .47 
+4.42 *** 35% 0.32 *** 29% .52 2006 
+Weighted 
+products 
+markets 0.37 *** 55% 0.53 
+9.41 *** 75% 0.61 *** 55% 0.70 Number of 
+products 
+markets 0.55 *** 78% .65 
+11.41 *** 91% 0.91 *** 80% .70 Weighted 
+products 0.10 *** 14% .36 
+2.74 *** 22% 0.17 *** 15% .53 Number of 
+products 0.19 *** 27% .51 
+4.33 *** 36% 0.31 *** 28% .59 The results in Table 4 indicate that the definition of the extensive margin and which explanatory 
+variables are examined go a long way towards determining its relative contribution to agricultural 
+exports. It seems that extensive margins based on the definition that excludes the impact of trading 
+partners (whether or not the measure is weighted by exports) are lower. This indicates that for 
+agricultural exports, discovering new partners may have a larger impact on agricultural exports 
+relative to developing a new product, a finding that is consistent with the finding in the next section. Turning our attention to the intensive margin, are the additional agricultural exports of larger 
+economies of higher quality (do firms from rich countries receive higher prices) or do they export 
+larger volumes? The intensive margin is broken into its price and quantity components and results are 
+reported in Table 5. The results are not very satisfactory explaining very little of the variation in the 
+intensive margin suggesting that variables other than the price and quantity indexes are important in 
+explaining the intensive margin. Nonetheless, focusing on the last year (2006) and with GDP as the All variables are in natural logs. GDPj is gross domestic product for exporter j measured in 
+purchasing power parities. Lj is total labor force in exporter j. Percentages describe the contribution 
+of each margin to the overall export elasticity. * coefficient is significant at the 10% level; ** significant at the 5% level; and *** at the 1% level. 18 explanatory variable (column 1), both components of the intensive margin is statistically significant. 
+The results indicate that within the intensive margin (a country's share of world exports in those 
+products that it exports), countries with twice the GDP export 18% more goods at 15% higher prices. 
+That is, firms from richer economies are obtaining 18% higher prices for their goods compared to 
+firms exporting the same set of goods from other countries, and despite the higher prices, they also 
+export higher volumes. Again focusing on the results for 2006 but for the second specification, the results in Table 5 
+suggest that economies with twice the GDP per worker (but with the same level of total labour force) 
+obtain prices on the world market that are almost five times greater while countries with twice the 
+labour force (but with the same output per worker) receive prices that are 30% higher. On the other 
+hand, the insignificance of the quantity component indicates that the export volumes for economies 
+that are more productive or have a larger labour force are no different from those of other countries. Table 5. Price and quantity components of the intensive margin Independent 
+Dependent GDPj 
+Adjusted R 2 GDPj/Lj 
+Lj 
+Adjusted R 2 1996 
+Price 
+component 0.28 *** .15 
+7.92 *** 0.50 *** .22 Quantity 
+component -0.01 
+-.02 
+-5.36 ** -0.11 
+.06 2000 
+Price 
+component 0.09 
+.02 
+2.41 * 0.14 
+.03 Quantity 
+component 0.16 * .03 
+-0.76 
+0.24 * .08 2006 
+Price 
+component 0.18 *** .12 
+4.90 *** 0.30 *** .18 Quantity 
+component 0.15 ** .03 
+-1.79 
+0.20 
+.12 Subsequent to the drafting of this report, we discovered another article by Hummels and Klenow 
+(2005) addressing the same question as their 2002 article but using a somewhat different methodology 
+to compute the margins and the price and quantity indexes. Although the estimated parameters were 
+somewhat different (the new methodology slightly lowered the share of the extensive margin), the 
+basic conclusion remained intact. Richer countries export more and most of their additional exports 
+are through the intensive margin. And, richer economies export higher volumes at somewhat higher 
+prices. For completeness, we also employed HK's modified methodology to re-estimate the equations on 
+the data for 2006. Here we briefly summarise the results. 7 We find that the estimated parameters with 
+the modified methodology are somewhat different from those reported above, but they all remain 7 Complete results available upon request. All variables are in natural logs. GDPj is gross domestic product for exporter j measured in 
+purchasing power parities. Lj is total labor force in exporter j. Percentages describe the contribution 
+of each margin to the overall export elasticity. * coefficient is significant at the 10% level; ** significant at the 5% level; and *** at the 1% level. 19 highly significant. The modified methodology reduces the contribution of the extensive margin on the 
+additional exports of larger economies. When size is measured by AVA, in 2006, the intensive margin 
+contributes 78% of the additional exports of larger agricultural economies (in contrast to 47% in Table 
+2). When GDP is the measure of economic size, the intensive margin contributes 56% of the additional 
+exports of richer countries (in contrast to 45% in Table 3). The relative contribution of price and 
+quantity to the intensive margin also changes somewhat. With the modified methodology, richer 
+economies export 29% higher quantities (compared to 15%) at 5% higher prices (compared to 18%). 
+These results indicate that the methodology used to calculate the margins plays an important role in 
+determining their relative share to total exports. The modified methodology removed the ambiguity on 
+the relative contribution of the extensive margin based on whether size is measured by AVA or GDP 
+as in both cases, the intensive margin contributes the larger share. This result is more consistent with 
+those presented below. But regardless of the methodology used to generate the results, the extensive 
+margin is a source of export growth and should not be ignored. To summarize the results from this section, agricultural exports seem to respond to the same 
+general overall conditions in an economy as do exports from all other sectors. Agricultural sector 
+specific metrics do not seem to have the same explanatory power and the response of agricultural 
+exports to changes in those variables is smaller. The extensive margin for richer economies is mostly 
+from expanding the number of destinations rather than the number of products. This result is supported 
+by the findings in the next section and is similar to the findings in HK for all merchandize exports. It 
+also seems that after controlling for the level of the labour force, agricultural exports expand 
+considerably faster for the more productive economies, those with higher output per worker. Looking at the three snapshots, 1996, 2000, and 2006, it seems that the importance of the 
+extensive margin for richer countries, although still comprising more than half of their larger exports, 
+has diminished with the intensive margin gaining importance. With the modified methodology from 
+HK(2005), the intensive margin contributes more than half of the additional exports of richer 
+countries. That is, richer economies are exporting more of the same products to their current partners, 
+a result which differs from total merchandise exports. Finally, richer or more productive economies receive higher prices on the world market for the 
+agricultural products they export compared to other countries. The results from this analysis suggest 
+that in 2006, the export volume for countries with twice the income is 15% more (29% with the 
+modified methodology) than other countries and they receive prices that are 18% (5% with the 
+modified methodology) higher. The price premium is even more evident for the intensive margin of 
+countries that are more productive. Even though its importance may have diminished, the extensive margin is a source for growth for 
+agricultural exports. Richer or more productive economies have the breadth to offer most of the 
+agricultural products traded on the world markets, and the depth to reach most destinations. But firms, 
+not countries, trade. The results therefore indicate that firms from larger economies have the 
+wherewithal to develop new products and the distribution skills to get those products to most 
+destinations. These firms are relatively more efficient than firms selling the same products from other 
+countries to sell small consignments to markets that import relatively few goods in small volumes, and 
+they have the development skills to produce and market higher quality goods enabling them to extract 
+higher prices for their products. The results from this section may have implications on how to model agricultural trade. Models 
+that only focus on national product differentiation such as those based on Armington assumptions of 
+product differentiation do not include an extensive margin for export expansion and may understate 
+welfare gains from say additional liberalisation as they miss the gains from exports of new products to 20 new partners (HK). This is a dilemma of these types of models, how to move from zero to positive 
+trade. The extensive margin and its contribution to the growth of agricultural exports The results from the section above decomposed a country's share of world exports into an 
+intensive and extensive margin in an attempt to discern differences between rich and poor countries. 
+This enables one to examine whether the value of exports of larger economies is higher for each good 
+they export (the intensive margin), and within the intensive margin, whether the higher value is due to 
+more volume or higher prices or whether richer countries trade a larger set of goods with more 
+partners (the extensive margin). This provided an indication of an economy's relative export 
+performance at a given point in time. The approach is less well suited (as indicated by the poor results 
+with the panel data) to address questions of the contribution of the extensive margin to the growth in 
+agricultural exports over a given time interval. In this section, using the same set of 69 exporting countries, we provide information on how 
+agricultural exports have changed over the 11-year period, segregating the change into the intensive 
+and extensive margin. Here, rather than computing an indicator variable we utilise each trading 
+relationship for each of the 69 exporters to compute the change in their agricultural exports from 1996 
+to 2006. This abstracts from the reasons for the change such as policy changes, supply shortfalls, or 
+population and income growth. In this section, the intensive margin is calculated by identifying the set 
+of commodities and partners that were exported at the beginning and ending periods and calculating 
+the change in the exported value. The extensive margin is calculated by identifying new products that 
+were exported at the end of the period which were not exported at the beginning regardless of whether 
+these new products were exported to totally new partners or to previously existing partners (new 
+products to new markets or to old markets), plus identifying old products (those that existed in the 
+beginning period) but are exported to new partners in the end. Decomposing the total growth in 
+exports requires an additional category, products that were exported at the beginning of the period but 
+are no longer exported. These disappearing or dead products are included in the intensive margin by 
+Brenton and Newfarmer (2007), whereas they seem to be included in the extensive margin by 
+Amurgo-Pacheco and Pierola (2008), and Felbermayr and Kohler (2006). Since our interest in the 
+extensive margin is the establishment of new trading relationships, we include the disappearing or 
+dead products in the intensive margin. When describing the data we explained why we had to use two different nomenclatures for the 
+export data and stated that it did not make a difference to the results reported above. However, the 
+results in this section are influenced by this choice since we are linking the products that were traded 
+in the beginning period with those traded in the later period. This concordance should not affect the 
+results on overall growth, but probably affects the results for the extensive and intensive margin. As a 
+reminder, we made the decision in order to have a longer time horizon for the most countries in the 
+database. Since all countries in the dataset were treated similarly, the hope is that whatever biases were 
+introduced by the decision, they were not systematic but random across the various reporters and thus 
+not biasing the results in any particular way. Nonetheless, as already mentioned, trade data at the 6-
+digit level probably underestimate the extensive margin. World agricultural exports increased 56% during the 1996 to 2006 period 8 , with 91% of the 
+growth accounted for by the 69 countries in the database. The country with the largest overall increase 
+in agricultural exports was Brazil whose exports increased by around USD 22 billion followed by 8 This is based on total exports excluding exports with missing quantity units. Agricultural exports 
+including data with missing quantities grew slightly higher (57%). 21 Germany with an increase of close to USD 21 billion and Netherlands with an increase of some 
+USD 14 billion. Annex Table 2 contains the list of countries and the growth in their agricultural 
+exports listed in descending order of their overall increase. The table also shows the change in the 
+value of the various margins for each country. Notice that agricultural exports increased by 
+USD 10 billion or more for only seven countries, five of whom are OECD countries, while 26 
+countries saw their agricultural exports expand by less than USD 1 billion. The gross intensive margin 
+reports the results for trade flows for products and partners that existed in both time periods. Germany 
+and the Netherlands had the largest gain in exporting existing products to current partners. For several 
+countries however, this flow was negative. Expired products column shows the value of the trade 
+flows that existed in the beginning period but not at the end. The difference between gross and expired 
+products is the net intensive margin or the intensive margin reported here. The results from section 1 showed a relationship between a country's output per worker and its 
+agricultural exports. Figure 1 below illustrates. This is a scatter diagram showing the change in a 
+country's agricultural exports between 1996 and 2006 mapped against output per worker (average 
+productivity) in 2006. This shows that many of the countries in the sample are bunched around values 
+with low average productivity and relatively small increases in agricultural exports while countries 
+with relatively strong expansion in exports tend to have high average productivity (Brazil seems to be 
+an outlier). Figure 1. Growth in agricultural exports and output per worker bra 
+deu nld esp 
+blx chn 
+can fra 
+ita arg mex 
+aus 
+pol idn 
+aut 
+usa 
+ind 
+nzl 
+dnk 
+mys 
+tha 
+irl 
+chl 
+rus 
+gbr 
+cze 
+swe 
+irn 
+che 
+ukr 
+hun 
+per 
+prt 
+col 
+syr 
+svk 
+ury zaf tur 
+ecu 
+pak pry 
+kaz 
+kor 
+civ 
+egy 
+gha 
+mar 
+jpn 
+cri 
+eth 
+gtm 
+phl 
+grc 
+fin 
+svn 
+est 
+ken 
+nor 
+slv 
+mwi tza mli 
+mdg 
+isr 
+cmr 
+isl 
+ner 
+sgp 0 
+5000000 10000000 15000000 20000000 
+Change in agric exports 1996-2006 0 
+20000 
+40000 
+60000 
+80000 
+100000 
+GDP per worker 22 The sample consists of 29 members of the OECD 9 , one high income non-OECD economy, six 
+least developed economies, and 33 other developing countries. Segregating the sample into the 29 
+OECD countries from the other 40, the OECD countries captured 65% of the additional exports 
+confirming earlier results that richer economies export more. It may also be illuminating to aggregate 
+countries into various groupings to discern commonalities and differences across the various income 
+or other groupings. One possible grouping is to examine whether the agricultural export sector of 
+current members of the OECD are similar to or different from the group of five countries that are on 
+track to become new members (the applicants or APPL) from those five countries with enhanced 
+engagement (EE) the six LDCs and the other developing countries. 10 Agricultural exports for the five applicant countries increased by USD 5.7 billion (2.5% of the 
+total increase) while the five enhanced engagement countries expanded their agricultural exports by 
+USD 44.2 billion (19% of the total), the six LDCs expanded their exports by USD 0.6 billion (0.25%) 
+and the remaining countries expanded their exports by USD 29.6 billion (13% of the total) (Table 6). How is the change in agricultural exports divided between the intensive and extensive margins 
+and does it differ for countries in different groups? Overall, 52% of the growth in agricultural exports 
+is at the intensive margin meaning that the growth has occurred through increased trade in already 
+established relationships. Other researchers examining the growth in overall trade among the intensive 
+and extensive margin confirm that most of the growth is at the intensive margin (Brenton and 
+Newfarmer (2007), Helpman, Melitz and Rubinstein (2008), and Amurgo-Pacheco and Pierola 
+(2008)). But the results also indicate that not an inconsequential 48% of the growth is at the extensive 
+margin, that is, as a result of new trading arrangements, either through new products to established 
+partners or new products to new partners or through established products to new partners. This finding is consistent with some of the findings from the previous section (based on the 
+modified HK (2005) methodology or size based on AVA with the HK (2002) methodology) but 
+somewhat at odds with other findings from the first section where the results indicated that most of 
+the additional agricultural exports of richer (based on GDP) countries are through the extensive 
+margin. These two findings may not be contradictory however. The results in the first section are 
+based on the analysis of whether in a given year additional exports of large countries occur at the 
+extensive or intensive margin. The results from the first section indicate that larger economies have 
+larger extensive margins because they are more likely to export to  " smaller "  economies and in 
+ " smaller "  product categories. In this section, the analysis is based on the total growth in exports 
+between two points in time and then disentangled the contribution of each margin to the total. Exports 
+to  " smaller "  economies in  " smaller "  product categories are not likely to contribute to large increases in 
+exports since they are  " small " . In both cases however, the results indicate that new trading 
+relationships are important as evidenced by the fact that they account for almost half of the growth in 
+agricultural exports. Interestingly, this average result differs considerably among the various countries (Annex 
+Table 2). For many countries, the extensive margin contributes less than half of the growth in their 
+exports. In Mexico's case, the extensive margin contributed only 7% to the overall growth in exports, 
+probably because of Mexico's reliance on exporting to NAFTA partners, Canada and the US. At the 9 Belgium and Luxembourg until 1999 are treated as a single reporter in the trade data. For consistency, 
+their data after 1999 are also aggregated. 10 The grouping of the various countries is indicated in Appendix Table 2. The database also includes 
+Singapore, which is a classified as rich non-OECD country. For this analysis Singapore is grouped 
+with the other developing countries. 23 other extreme, the extensive margin was the only source for growth in many countries, contributing 
+more than 100% of the growth because the value of the trade of their existing trading relationships 
+declined, that is, the intensive margin was negative. For the six LDCs, the growth of their agricultural exports over this time interval came exclusively 
+from the extensive margin (Table 6). Trading new products to new partners added some 
+USD 1.1 billion in new export earnings. But, the intensive margin for the LDCs rather than adding to 
+their export growth, subtracted from it. For this group of countries, the growth at the intensive margin 
+was a negative USD .5 billion meaning that they sold half a billion less of their existing products to 
+their established partners. It seems that firms in these six LDCs have been able to diversify their 
+agricultural export basket offering more products to more partners. The extensive margin is also important to the countries that are applicants for OECD 
+membership, on average contributing almost 70% to their additional exports (Table 6). Again, there is 
+large variation among the countries in this group (Annex Table 2) with Israel on the one extreme with 
+all of its additional exports coming via the extensive margin, and Chile on the other extreme with only 
+47% of her additional exports coming via the extensive margin. The 24 countries that do not belong to 
+any of the groupings also expanded most of their exports through the extensive margin, which is, 
+exporting new products to new partners and/or exporting old products to new partners. As shown in 
+Table 6, on average, 65% of their additional exports were generated by the extensive margin. The data 
+suggest that the exporting firms in the larger developing and least developed countries are pursuing an 
+export diversification strategy, expanding their exports to new markets and enlarging their export 
+basket , that is, by the extensive margin. In contrast, the extensive margin has contributed somewhat smaller portion to the growing 
+agricultural exports of the enhanced engagement countries. Half of their export growth occurred at the 
+extensive margin, trading more goods with more partners and half came through the intensive margin 
+exploiting existing trading relationships. For the OECD countries, the intensive margin is the most 
+important source of growth, accounting for 58% of the growth in agricultural exports. That is, OECD 
+countries were able to increase their exports by exploiting their established trading relationships, with 
+only 42% of their additional exports coming through exporting new goods to new partners. Table 6. Breakdown of the Increase in Agricultural Export between the Extensive and Intensive Margin 
+(1996-2006) Total Increase (USD billion) Extensive (USD billion) Gross 
+Intensive 
+(USD 
+billion) Expired 
+Products 
+(USD 
+billion) Net Intensive (USD billion) Share of 
+Extensive (%) Applicants 
+5.7 
+3.9 
+3.3 
+-1.5 
+1.8 
+69 
+Enhanced 
+Engagement 44.2 
+22.2 
+29.9 
+-7.9 
+22.0 
+50 LDC-6 
+0.6 
+1.1 
+-0.03 
+-0.5 
+-0.5 
+191 
+OECD 
+148.7 
+63.0 
+131.1 
+-45.5 
+85.7 
+42 
+Others 
+29.6 
+19.3 
+18.2 
+-7.9 
+10.3 
+65 Perhaps this result is not surprising, given that enhanced engagement and OECD countries are 
+among the largest exporters of agricultural products, shipping to most destinations thereby exporting 
+most of the products to most of the countries already in 1996. The scope for further market 
+development is more limited for these countries. It may also be the case that many of the newer 
+trading relationships start out on a rather small scale as exporting firms gather market information and 
+expand sales slowly, thus, some of these new trading relationships may not be generating large 
+revenues. 24 Turning our attention to changes in the intensive margin, Table 6 distinguishes between gross 
+intensive margin (change in export value of same products to the same markets which can be positive 
+or negative) and expired (or dead) products (trading relationships that no longer exist in 2006) to 
+calculate the net intensive margin reported above. The results in Table 6 indicate that expired trading 
+relationships are important, subtracting a hefty sum from the total. The data indicate that strictly 
+looking at the value of trade in old products to old destinations (gross intensive margin in Table 6) 
+they contributed some USD 182 billion to additional exports for the countries in the sample. But, 
+disappearing products and markets (the couplet of products and markets that expired after 1996) were 
+valued at more than USD 63 billion leading to the net intensive margin of USD 119 billion. The results confirm that the extensive margin is important, contributing substantially to the 
+overall additional agricultural exports of the countries in our sample. Figure 2 shows the distribution 
+of the extensive margin for the countries in our sample. It shows that the extensive margin for 19 
+countries (out of the 69) generated more than 90% of their additional exports, while it contributed 
+between 70% and 90% of the additional exports for an additional 10 countries. But, for 11 countries, 
+the contribution was less than 30% of the total. Our results here differ from those of Brenton and Newfarmer (2007) and Amurgo-Pacheco and 
+Pierola (2008). Both of these reports find that the extensive margin is of lesser importance than the 
+intensive margin for developing countries. One reason for the differences may be the composition of 
+the sample countries (Brenton and Newfarmer include 99 developing countries). While there is 
+considerable overlap with the country coverage in this report with Amurgo-Pacheco and Pierola 
+(2008) (they examine 24 countries) it is not clear how or whether they account for expired trade in 
+their definition of the margins. As shown in the table above, excluding expired trade when calculating 
+the intensive margin greatly enhances the contribution of the intensive margin to the overall growth. 
+And, if trade that no longer exists is excluded from calculating either margin, summing the two 
+margins will overstate the total change in exports. Since total growth is the sum of the extensive and intensive margin, the flip side is that the 
+intensive margin is of lesser importance in generating additional foreign earnings for a large number of 
+countries. Additional growth is not just the result of exporting more of the same set of goods to the 
+same set of countries. This finding has a positive connotation in terms of evaluating policy reform and 
+welfare enhancements from those reforms. The results suggest that countries with high extensive 
+margins may be less susceptible to declining terms of trade. They are less concerned with the 
+possibility of lower prices in order to expand their exports as their export basket contains new goods 
+or are destined to new markets. The implication is also that developing countries may be more 
+diversified than previously thought. But, it may also mean that there are challenges to develop models 
+that include the extensive margin when attempting to analyse the implications of policy reform. 25 Figure 2. Number of countries and the contribution of the extensive margin to the growth of their exports As mentioned above, the extensive margin refers to establishing new trade flows through 
+developing new products and/or cultivating new trading partners or by expanding the trading 
+relationships with established partners. Within the extensive margin, which particular avenue has been 
+more successful in increasing a county's exports? We have decomposed the extensive margin into four 
+components to address this question. Type 1(NPND) extensive margin involves developing New 
+Products or lowering the trade costs of products that have not been exported previously and marketing 
+them to New Destinations. These are probably the most difficult trade flows for exporting firms in any 
+country to develop since they involve products and markets that are totally new and require upfront 
+investment to identify target consumers in unfamiliar markets. Type 2 (NPOD) extensive margin is 
+similar to Type 1 extensive margin, but the New Products are marketed to familiar destinations (Old 
+Destinations) in the sense that other exporting firms from the country of origin have exported Old 
+Products to these partners in the past. It's not clear a priori the difficulty of establishing these trade 
+flows. Although firms in the exporting country are familiar with the trading partners, the products are 
+new requiring a certain amount of investment in market development and identifying target 
+consumers. Type 3 (OPND) extensive margin involves extending the market reach of established 
+(Old) Products by exporting them to New Destinations. These trade flows are the flipside of Type 2 
+flows. In this case, firms are selling Old Products and presumably have experience in marketing them, 
+but they are targeting unfamiliar, New Destinations. Type 4 (EPTD) extensive margin is similar to the 
+intensive margin in that it involves exports of old products to old destinations (but in order to make the 
+distinction these trade flows at the extensive margin are referred to as Existing Products to Traditional 
+Destinations). The distinction is that the intensive margin refers to trade flows that exist in both time 
+periods, whereas for the extensive margin, these are new trade flows. The trade flows in this 
+classification are new because the product-partner combination did not exist in the past even though 
+the exporter shipped these products to other destinations, and the partners imported other goods from 
+this particular exporter.. Since firms in the exporting country are familiar with the importing market 
+and they have marketed the products in the past to other destinations, these trade flows may be easier 
+to establish. 11 11 Since we do not have access to firm level data and the relative costs of establishing new trade flows, 
+reference to ease or difficulty of marketing various products to various destinations refers to the 
+importance of the flows as revealed in their contribution to the overall extensive margin. 26 Figure 3 reports the value of the extensive margin for all sampled countries from Appendix 
+Table 2, and discriminates the contribution of each type of extensive margin to the total (Annex 
+Table 3 reports the contribution of each type of extensive margin to the overall total for each exporter). 
+This shows that overall growth in trade at the extensive margin totalled USD 110 billion. Of this, new 
+flows with exports of Existing Products to Traditional Destinations (Type 4 EPTD) was the most 
+important while the smallest contribution came from Type 1 (NPND) extensive margin which is 
+establishing totally new trading relationships in both the product space and the destination space. Figure 3. Decomposition of the extensive margin Total 
+Extensive 
+Margin 
+USD 110 
+billion Type 2: 
+(NPOD) USD 
+44.8 billion 
+(41%) Type 1: 
+(NPND) USD 
+0.7 billion 
+(0.7%) Type 3: 
+(OPND) USD 
+6.7 billion 
+(6%) Type 4: new 
+trade flows for 
+(EPTD) USD 
+57.4 billion 
+(52%) NPND: New product, New Destination. NPOD: New product, Old Destination OPND: Old product, New Destination. EPTD: Existing Product, Traditional Destination What is striking about Figure 3 is that developing new trading partners either by exporting old or 
+established products, and even more so through developing new products, seems to be very difficult. 
+Exports through these two nodes generate about 7% of the total extensive margin. Further inquiry is 
+needed to identify reasons for the small contribution to the extensive margin from developing new 
+partners. The results suggest that establishing a beachhead in a new destination is difficult, probably 
+requiring large initial investments in cultivating, promoting, and targeting consumers in an unfamiliar 
+environment. The results from Type 2 extensive margin indicates that the small contribution is not 
+related to problems in marketing new products because when they're offered to established partners, 
+they generate 41% of the extensive margin. And, new trade flows with traditional partners (Type 4) 
+which involves offering products that are new for that partner (expanding the variety of the export 
+basket) in established partners has the largest share. This implies that firms that have established 
+beachheads in other countries are able to utilise their knowledge of the local market to sell more 
+products whether or not those products are New. In contrast, the establishment of new trading 
+relationships with new destinations pose special challenges for firms. These results, coupled with the 
+results of exporting at the intensive margin seem to suggest that once firms from the country of origin 
+are in a market, they can more readily expand exports. In contrast, developing new partners imposes 
+greater challenges. Finally, does the country of origin play a role as to which of the four nodes is the largest 
+contributor new trade flows? Rather than discussing the results for each country (which are available 
+in Annex Table 3), results are provided for various country groupings, and are presented in Figure 4. 27 Figure 4. Decomposition of the extensive margin for various groups of countries NPND: New product, New Destination. NPOD: New product, Old Destination OPND: Old product, New Destination. EPTD: Existing Product, Traditional Destination In Figure 4, reading across a row shows the relative contribution of the various types of new trade 
+flows to the overall extensive margin for the group of countries. Reading down a column indicates the 
+relative importance of the various new trade flows for each group. The results suggest that a firm's 
+country of origin does not play a significant role in the ability of a firm to establish new trading 
+relationships with new partners (Type 1). In all cases, this is the least important generator of new trade 
+flows. New destinations generate relatively small trade for exporting firms whether they're exporting 
+new or old products. Firms located in OECD countries, or countries that are applicants to the OECD, 
+or in countries with enhanced engagement, exporting to new destinations generate 5% or less of the 
+total extensive margin which implies that 95% or more of the extensive margin is through exporting to 
+traditional or old destinations. Interestingly, firms located in the six LDCs or in the other developing 
+countries are relatively more successful in establishing trading relationships with new partners 
+contributing about 17% to the total extensive margin (Type 3 and Type 1). Looking at the new product dimension, Figure 4 suggests that firms located in countries at the 
+opposite extreme of the income scale, OECD and the six LDCs are similar in their ability to market 
+new products, especially to their old destinations, with more than 50% of their exports at the extensive 
+margin generated through this mode (Type 2). Obviously, the magnitude of the trade flows is very 
+different, but it may be interesting to examine what traits enable this phenomenon and why firms 
+located in the other groupings are less successful. But it is new trade with traditional or old partners 
+that generates the most new trade flows for firms regardless of their country of origin. More than 90% 
+of the extensive margin for firms in OECD, applicants for membership to the OECD and enhanced 
+engagement countries is from Type 2 and Type 4 flows, while these flows contribute more than 80% 
+to the extensive margin for the firms in the other two groups. 28 The extensive and intensive margins from gravity-type estimates The process generating the results above is very data intensive and requires lining up the data to 
+identify existing, expiring and new trading relationships, providing an overview on the relative 
+contribution of the margins to the overall growth in agricultural exports. The approach, however, does 
+not examine how or why the trading relationships evolve as they do, nor does it provide any 
+theoretical underpinnings. Why do firms export the set of products and why and how do they maintain 
+existing relationships and how do they develop their new trading partners? As Amurgo-Pacheco and 
+Pierola (2008) point out, the  " new-new "  trade theory attempts to answer this question. Implicit in the analysis of the extensive margin as defined in the section above is that there are 
+zero trade flows that are ignored by the trade data as typically reported. That is, either because a 
+product has not yet been developed or because trade costs are high, potential trading relationships do 
+not materialise. 12 Once the product is developed or trading costs fall however, a previously non 
+existing relationship evolves with positive trade flows. Essentially the question is why do zero trading 
+relationships become positive? This is the crux of the question for those researchers examining the 
+extensive margin without explicitly measuring it. Thus, the trade data is in fact censored with 
+unobserved zero values. 13 Many of the researchers who try to correct the problem with zero trade, start with the theory of 
+the firm, postulating that firms will begin to export once they overcome the costs of entering foreign 
+markets. The formal model is not presented here, since it is well documented elsewhere. Interested 
+readers can consult the original Melitz (2003) article that lays out the framework or many other papers 
+that use the framework, including Helpman Melitz and Rubinstein (2008) or Amurgo-Pacheco and 
+Pierola (2008). One of the strengths of the framework is that although it is based on theory of the firm, 
+it does not require firm-level data for the empirical estimation. Since firm-level data across a large 
+spectrum of countries and time is not readily available, the ability to distil the information using the 
+more readily available trade data is a plus. The basic outcome of the formal model is to derive a 
+gravity-type equation. When estimating the equation, differences among researchers centres on what is 
+the better econometric technique to use while accounting for the zeros. They all conclude that OLS 
+estimates are not appropriate but differ on what method to use. Among the alternatives is the Poisson 
+Pseudo-Maximum-Likelihood, and the Tobit, (both of which handle truncated or censored data), non-
+linear least squares, or two-step Heckman. This includes estimating a Probit function in the first step to 
+determine the probability of a zero trading relationship switching to non-zero while the second step 
+estimates the bilateral trade flow equation conditional on the probability in the first step. We use the Tobit 14 estimation techniques to examine the intensive and extensive margins for 
+agricultural trade. The Tobit is one of the most common estimation techniques used to deal with 12 This abstract from the fact that some of the zero trade flows in the data may not be reported or because 
+some zeros may be missing values. 13 These researchers also tend to criticise conventional estimates of trade flows with the conventional 
+gravity equation because these tend to ignore zero trade flows leading to biased results. Since it's not 
+the purpose of this paper to review alternative specifications or methods for estimating gravity 
+equations, these are not discussed. 14 The Poisson Pseudo-Maximum Likelihood (PPML) technique is another approach to estimating 
+models with censored data. Unlike the Tobit, the PPML generates consistent estimates in the presence 
+of heteroskedasticity (Armugo-Pacheco and Pierola 2008). Given our interest in the intensive and 
+extensive margins, we nevertheless employ the Tobit technique. Results from Armugo-Pacheco and 
+Pierola (2008) indicate this is not a serious problem. 29 censored data. Given our interest in the intensive and extensive margin, the Tobit model was chosen 
+because it gives flexibility to disentangle what happens at both margins at the same time that it takes 
+into account the censoring structure of the data. The advantage of explicitly accounting for the zero 
+trade with the Tobit is that it naturally decomposes trade into the intensive and extensive margin with 
+the intensive margin determined from the part of the distribution with positive trade and the extensive 
+margin determined when the zero switches to non-zero. We also estimate the model with the Probit to 
+estimate the effect of the explanatory variables on the probability of trading (i.e. switching from non-
+trade (zero) to trade) as a robustness check. It should be pointed out that the results here are preliminary. Initially the possibility to include 
+tariff and other policy information in the estimation was explored but it was not successful due to data 
+problems. Although we could identify applied tariffs when there was a trading relationship, this was 
+not possible when there was no trade. Additional data work is needed to identify the appropriate tariff 
+in such cases. Feenstra and Kee (2007), and Debaere and Mostashari (2005) were able to obtain the 
+necessary data because they did not deal with the problem of zero trade while Dennis and Sheperd 
+(2007) were able to obtain the necessary data because, even though they explicitly dealt with zero 
+trade, their dataset included exports from many countries but to only one destination, (the EU). 
+Nonetheless, we present the results as an indication of overall findings and for comparisons with the 
+findings above. To our knowledge, this is the first attempt to apply this method to agricultural trade. For this part of the analysis, we needed to generate a square data matrix, that is, each product 
+from each exporter has potential destination all trading partners. There are more than 200 trading 
+partners in any one year in the dataset. In order to make the dataset somewhat manageable, we restrict 
+the set of partners only to the 69 exporters. Nonetheless, the dataset contains some 35 million records 
+(98% of these are zeros) 15 and is so large, that it was not computationally feasible to pool the data into 
+a panel dataset to estimate the model over the 11 years. Rather, as was the case for Armugo-Pacheco 
+and Pierola (2008) we resorted to estimating one equation for each exporter. But, because of 
+estimation problems we provide results for 53 exporters out of the sample of 69 countries (with 4 of 
+the 53 obtained by bootstrapping 16 ). For 16 exporters the Tobit maximum likelihood function did not 
+converge. Main findings The initial model took into account many of the gravity-type variables such as contiguity, 
+common language and colonial ties. All except the GDP and distance were insignificant in most cases 
+and therefore they were dropped in the final specification. Thus, for each exporter the estimated 
+equation was 15 The magnitude of the zeros in the dataset is an indication of potential trading opportunities that have 
+not materialised. 16 For these four countries (Brazil, Switzerland, the United Kingdom, and South Africa), the model is 
+estimated 100 times using repeated random samples from five importing countries. Point estimates for 
+intensive and extensive margins are obtained as the means of the 100 replications, and the variation 
+around the mean is calculated as the standard deviation of the same replications. 30 Where odit V is the US dollar (current) value of agricultural exports from country o (origin) to country d (destination) of product i (for each 6-digit category) in year t; t d GDP is the GDP in current US dollars of the destination country in year t; od DIST is the distance between country-o and country-d, defined as the simple distance in kilometres between capitals; SD is a sector dummy (HS-2-
+digit), to control for sector factors; CT is a country (importer) dummy (to capture all unobserved or not 
+included bilateral trade costs and factors) and TD a time dummy to control for time variations. As the equation indicates, conforming to the gravity-type specification requires converting the 
+variables into logarithms. This creates problems when the observation is zero. Therefore, as others 
+have done, for example Amurgo-Pacheco and Pierola (2008), we shift all trade values by one unit. 
+This changes the mean by one unit but does not affect the variance. We estimated the model above using the Tobit technique in Stata. The estimated raw coefficients 
+from the Tobit do not have a particularly interesting economic meaning, because they are simply the 
+effect of the independent variable on the  " latent "  (unobservable) dependent variable. These results are 
+not reported. For interested readers they are available upon request. Our interest is in deriving from 
+these parameters the intensive and extensive margin. As reported in Berndt (1991) and in Amurgo-
+Pacheco and Pierola (2008), McDonald and Moffitt (1980) developed a formula to compute marginal 
+effects from the estimated latent variables which have an economic interpretation. Their equation is. 6) ( 
+) 
+( 
+) 
+( 
+) 
+( 
+) 
+( 
+) E | 
+E | , 
+0 
+Pr 
+0 
+Pr 
+0 
+E | , 
+0 i 
+i 
+i 
+i 
+i 
+i 
+i 
+i 
+i 
+i 
+i 
+i 
+i y x 
+y x y 
+y 
+y 
+yxy 
+x 
+x 
+x ∂ 
+∂ 
+> 
+∂ 
+> 
+= 
+> 
++ 
+> 
+∂ 
+∂ 
+∂ For our purposes, the equation shows the total effect on agricultural exports due to a change in say the 
+importing country's GDP. The total effect is decomposed into two factors. The first part of the expression on the right hand 
+side represents the change in the value of expected or average exports for the goods already traded, 
+weighted by the probability that there is already positive trade (the intensive margin). The second part 
+of the expression is the change in the probability of exporting weighted by the expected value of the 
+products that are already traded (the extensive margin). The second part of the expression thus shows 
+the probability of exporting a more diversified basket of goods. The Stata software has a routine that 
+computes each of these marginal effects. The results are reported in Annex Table 4. With a few exceptions, the coefficients are statistically significant (at the 99% confidence level) 
+and have the expected sign (the larger the GDP of the destination country the higher the level of trade 
+and the more diverse the export basket, while for partners that are further apart, trade between them is 
+lower and less diverse). The results also indicate that the marginal effects are higher for the intensive 
+margin than for extensive margin (see Annex Table 4). Comparing our results for agricultural trade to those reported in Amurgo-Pacheco and Pierola 
+(2008) for all trade, it appears that the results are comparable for the set of countries that are common 
+to both studies. The estimated marginal effects at the intensive and extensive margin for GDP and 
+distance in both cases are reasonably close with the marginal effects of GDP and distance on total 
+trade somewhat higher (in absolute value) compared to their effect on agricultural trade. 17 And the 17 This finding is consistent with those reported from the cross section analysis. 31 results from both studies suggest that the intensive margin is much bigger than the extensive margin in 
+almost all cases. This result appears to contradict the results reported in Annex Table 2 and Figure 2 which show 
+that for many countries, the extensive margin is the larger contributor to the expanded agricultural 
+trade. This apparent contradiction may stem from the fact that the results above disaggregated the total 
+change in agricultural exports between the two periods into the intensive and extensive margin 
+whereas the estimated results from the export equation above show the effect of changes in the size of 
+the import market and distance on the intensive and extensive margin. Although consistent with some 
+of the findings from the first section above, the results in this section are not comparable to those 
+results because: 1) those estimates were based on total, not bilateral agricultural trade, 2) we were not 
+able to pool all the exporters together for these results, 3) the results in Table 3 are based on a different 
+definition of the extensive margin, and 4) the estimation ignored trade with zero values As equation 6 above shows, the total effect on trade from a change in an exogenous variable, say 
+the partners GDP, is the sum of two effects (the intensive and extensive margin reported in Annex 
+Table 4). For example, a doubling of the GDP of importing countries increases Argentina's exports by 
+29%. Most of this increase is through Argentina exporting more of its existing agricultural products to 
+existing partners. Only 8% of the additional exports are in new goods and or to new partners. 
+Similarly, reducing transport or other trading frictions proxied by distance by 10% would increase 
+Argentina's exports by 5.5%. Again, most of this additional trade would be through Argentina 
+exporting more of the same set of goods to the same partners (the intensive margin). Only 7% of the 
+additional exports would be through the extensive margin. The results for the remaining countries in 
+Annex Table 4 can be interpreted similarly. Rather than discussing the results for each country individually, aggregated results for groups of 
+countries are discussed to highlight differences, if any, between OECD countries and others. 
+Unfortunately, because results for some of the applicant and LDC countries could not be estimated, 
+grouping the countries as in the previous section is not possible. Rather, we focus on the OECD 
+countries, those in the enhanced engagement group and the rest. The following table presents a 
+summary of the weighted (by the population) average marginal effect (similar results are obtained 
+when the average is weighted by the exporters GDP). Table 7. Average marginal effects of a change in agricultural exports on the intensive and extensive 
+margin (from Tobit estimates) Intensive Margin Extensive Margin Intensive Margin Extensive Margin OECD 
+0.231 
+0.049 
+(0.450) 
+(0.081) Enhanced 
+Engagement 
+0.176 
+0.024 
+(0.294) 
+(0.034) Other 
+0.082 
+0.005 
+(0.292) 
+(0.008) Partners GDP 
+Importer Distance The results in Table 7 show that on average, the intensive margin is larger (absolute value), 
+contributing a larger percentage to the change of a country's exports in each group, and that trade 
+frictions (with distance as a proxy) between partners has a larger impact on trade than demand (with 
+GDP as a proxy). The marginal effects of both explanatory variables are larger for OECD members 
+compared to the other groupings. 18 For firms in the average OECD country, a doubling of the partner's 18 This finding is similar to the finding above that richer countries export more at both margins. 32 GDP leads to a 23% increase in additional exports of products that were already traded and a 5% 
+increase in the variety of the products exported whereas firms in the average enhanced engagement 
+country expand their  " old "  exports about 18% while expanding export varieties by 2%. The remaining 
+countries are on average even less responsive to changes in the income of their trading partner 
+expanding  " old "  exports by only 8% while exports in new products expand by barely 1%. It seems that 
+firms in OECD countries are on average better able to respond to changes in marketing opportunities 
+in export markets both by exporting more of the traditional products and by developing and offering 
+new products to their partners. And, their advantage is much more pronounced on the extensive 
+margin (offering new products) with an average marginal response more than double the response 
+from firms in other countries. But, distance seems to have a bigger (in absolute value) affect on the exports from firms in 
+OECD countries. Firms in OECD countries tend to trade more intensively and offer a larger variety of 
+goods to partners that are closer. The further away a partner is located, the fewer the  " old "  exports and 
+the narrower the product range offered. In contrast, firms in enhanced engagement countries appear to 
+be less bothered by distance as indicated by smaller marginal effects reported in the table. The 
+marginal effect of distance on the intensive margin of agricultural exports is about equal for firms in 
+non-OECD economies. But for firms located in the  " Other "  group of countries, the negative effect of 
+distance is more than 3 times the positive effect of partners GDP. Interestingly, exporting firms, no matter where they are located, seem to be more affected by the 
+costs of getting products to the market, compared to factors that affect the demand for their product. Turning our attention to the extensive margin, the results in Annex Table 4 (for the individual 
+countries) and Table 7 for the various groupings indicates that the effect is very small. And, in most 
+cases, distance is a larger detriment to expanding the variety of goods exported and the number of 
+trading partners. It appears that cost factors as proxied by distance have a larger effect on the 
+probability of converting a non-existing trade flow into a positive one than do demand factors as 
+proxied by GDP. Finally, equation 5 was estimated using the Probit estimation technique in Stata. But, rather than 
+estimating the value of exports, in this case, the dependent variable is whether or not there is trade. 
+That is, the value of trade was converted into a zero one variable taking on the value of one when there 
+is trade for that particular trading partner for that HS-6 digit product. This focuses strictly on the 
+extensive margin as it gives the probability of a zero value switching to positive number (or not), i.e. 
+increase (or not) in diversification. There are more countries included in the results as convergence 
+was a lesser problem with the Probit. The results reported in Annex Table 5 confirm previous findings. 
+The probability that trade increases at the extensive margin, (a non existing trade flow materializing) 
+increases with the partners GDP and decreases with distance. The estimated marginal effects are of 
+similar magnitude and sign as the corresponding Tobit estimation. The marginal effects are mostly 
+statistically significant but the effects are rather small, again consistent with the Tobit results and as 
+was the case for the Tobit, the relative effect of distance is larger (in absolute value) than the income 
+effect. For an easier comparison of the results with the Tobit estimation (Table 7), Table 8 reports the 
+marginal effects (at the sample mean) of the Probit estimation, weighted (by the population) (similar 
+results when the average is weighted by the exporters GDP). Comparing the two tables the results of 
+changes in trade flows at the extensive margin are strikingly similar. Firms in OECD countries have a 
+greater probability of establishing new trading relationships (either through exporting new products 
+agricultural products to new or old markets, or through exporting old products to new markets), 33 compared to firms located in other countries. But, that probability is fairly small and it is even smaller 
+for firms in non-OECD economies. Table 8. Average marginal effects of a change in agricultural exports at the extensive margin (from Probit 
+estimates) Partner GDP 
+Importer Distance OECD 
+0.045 
+(0.087) Enhanced 
+engagement 
+0.022 
+(0.041) Other 
+0.002 
+(0.006) Summary and conclusions Trade occurs because the parties that engage in the transaction find it beneficial. On the import 
+side, welfare is enhanced through consumption of lower priced goods and through the availability of a 
+larger variety of goods. On the export side, expanding markets enables the exploitation of comparative 
+advantage, while firms can reduce costs by increasing the scale of their production and improve 
+productivity. Exports can grow as firms export more and/or at higher prices for the products they have 
+been producing to their existing partners (the intensive margin). Exports can also grow through market 
+development and by exporting existing set of products to new partners and through innovation and 
+exporting new products either to existing or to new partners (the extensive margin). Of course, exports 
+can also diminish as demand for certain products on world markets falls or the goods are replaced by 
+exports from more efficient competitors from other countries. In this paper the evolution of agricultural exports between 1996 and 2006 was examined to 
+ascertain the relative contribution of the extensive and intensive margin. The intensive and extensive 
+margins have been defined differently by various researches. In this exercise, several different 
+definitions have been used to ascertain the effects on trade in agricultural products. The extensive margin has contributed to growing agricultural exports, more for firms located in 
+OECD countries relative to those in other countries. Supply factors are important explanatory 
+variables to export expansion. But, agricultural specific variables such as agricultural value added, the 
+supply of farm labor, average agricultural labor productivity, and the capital intensity of agriculture 
+performed inferior to general economic variables such as GDP, total supply of labor and average labor 
+productivity. This may be a reflection of the time period examined and/or the countries chosen in our 
+sample, although most likely it is a reflection that more and more, agricultural trade is in products that 
+are further removed from the farm gate encompassing more value added and is undertaken by firms 
+that are removed from the agricultural sector. Recent evidence from New Zealand, a country with a 
+substantial share of agricultural goods in its total trade, indicates that this may the case as most of the 
+exports of agricultural goods are by firms outside of the agricultural sector. This may indicate that 
+agricultural trade is similar to trade in other products influenced by general economic conditions rather 
+than sector specific. Using a particular definition of the intensive and extensive margin developed by Hummels and 
+Klenow (2002), which is a relative concept and depends on depth and breadth of an exporting 
+country's product offering and trading partners in a given year, the results suggest that richer 
+economies tend to have more diversified export bundles. In 2006, 55% of the additional exports of 
+richer (based on GDP) countries were through exporting more products to more partners. Firms in 
+larger economies have the capacity to sell to more markets that may not necessarily be very large 34 overall importers, and they can export more products that may not necessarily have very large value, 
+that is, they are able to export relatively small consignments to relatively  " small "  markets. The 
+extensive margin is an even larger contributor to overall exports for economies with a more productive 
+labour force. However the results from this part of the analysis also show that the importance of the 
+extensive margin in agricultural exports has declined over the time period examined. At the intensive 
+margin, the results indicate that not only is the volume of exports larger for richer economies but firms 
+are also able to obtain higher prices, suggesting that they're offering higher quality goods. Firms in 
+countries with higher average productivity or with larger labour force are also able to command higher 
+prices, but the volume exported is not necessarily higher. However, when an economy's size is 
+measured by its AVA, or when the margins are calculated by Hummels and Klenow's (2005) modified 
+methodology, the results indicate that it's the intensive margin that contributes the larger share of the 
+additional exports of larger economies. The descriptive portion of the analysis examined the growth in agricultural exports from 1996 to 
+2006 without attributing the reasons for this growth. The findings indicate that for the countries in the 
+sample, more than one-half of the growth in their exports occurred through the intensive margin. But, 
+for many countries (44 out of 69) in the sample, the extensive margin accounts for more than half of 
+the growth in their exports over this time period. This indicates that the intensive margin was a larger 
+contributor to the growth of the exporting countries with large gains. Most of the countries growing at 
+the extensive margin are non-OECD countries, indicating that developing countries are diversifying 
+their agricultural export profile. Decomposition of the extensive margin indicates that the vast majority 
+of the new exports are from exporting to traditional destinations which implies that establishing 
+trading relationships with new destinations is costly. Only about 7% of the new exports are to new 
+destinations. But, when the change in agricultural exports and the intensive and extensive margins were 
+analyzed by estimating a gravity-type equation while explicitly accounting for zero trade flows, 
+preliminary results suggest that factors affecting the cost of exporting (using distance as a proxy in our 
+case), have a bigger (absolute value) effect on bilateral export flows compared to factors that affect 
+demand (using importing country's GDP as a proxy). We also find that additional agricultural exports 
+are mostly generated by changes on the intensive margin, with the extensive margin providing a 
+statistically significant but economically smaller share. One should remember however that our 
+measure of the extensive margin probably understates its prevalence. Even though we use the most 
+disaggregate trade that is internationally consistent (HS-6), there are probably cases where trade in 
+new products is not picked up at the HS-6 digit level because they fall in categories where some trade 
+is taking place and are classified under existing categories. Looking at the extensive margin, there are boundless trading opportunities waiting to be 
+exploited. For agricultural products, the number of dormant bilateral relationships dwarfs the number 
+of active ones. Although there may be good reasons for the dormant relationships many of which are 
+not explored in this study, policies that reduce trade frictions and expand global income can reduce 
+their prevalence. The fact that the extensive margin is an important source of growing agricultural exports has 
+implications on modeling trade reform. Models that are not capturing this source of growth will 
+underestimate the potentialimpacts. For exporting countries, they may be less vulnerable to 
+deteriorating terms of trade if they're exporting  " new "  products or if they're exporting higher quality 
+products. For importing countries, the welfare gains from an enlarged basket of goods may be 
+understated. 35 The preliminary results also highlight the importance of trade resistance or trade costs on the 
+existing trade flows and on the probability of forming new trading relationships. It seems that there is 
+a large payoff to policies that can reduce those frictions. In this analysis, distance was used to proxy 
+these trading costs. Further efforts to explicitly include trading costs, such as tariffs, standards, 
+information costs or infrastructural impediments into the analysis may improve our understanding of 
+their effects on trade flows at the intensive and extensive margins. More detailed analysis at the 
+individual product level may also help illuminate the characteristics of those innovative products that 
+develop (or not) into major trade flows. 36 REFERENCES Amurgo-Pacheco, Alberto, and Martha Denisse Pierola,  " Patterns of Export Diversification in 
+Developing Countries: Intensive and Extensive Margins, The World Bank International Trade 
+Department, Policy Research Working Paper No. 4473, January 2008. Berndt, Ernst R., The Practice of Econometrics Classic and Contemporary Addison-Wesley Publishing 
+Company, Reading Massachusetts, 1991. Brenton, Paul, and Richard Newfarmer,  " Watching More than the Discovery Channel: Export Cycles 
+and Diversification in Development " , The World Bank International Trade Department, Policy 
+Research Working Paper No. 4302, August 2007. Debaere, Peter and Shalah Mostashari,  " Do Tariffs Matter for the Extensive margin of International 
+Trade? An Empirical Analysis " , Center for Economic Policy Research, Discussion Paper 5260, 
+2005 Dennis, Allen and Ben Shepherd,  " Entry Costs, Barriers to Entry, and Export Diversification in 
+Developing Countries " , The World Bank, Financial and Private Sector Development doing 
+Business and Development Research Group Trade Team. September, 2007. Fabling, Richard and Lynda Sanderson,  " Firm Level Patterns in Merchandise Trade " , Ministry of 
+Economic Development Occasional Paper, 08/03, May 2008. Felbermayr, Gabriel J., and Wilhelm Kohler,  " Exploring the Intensive and Extensive Margins of 
+World Trade " , Review of World Economics, 2006, Vol 142 (4), pp 642-674. Feenstra, Robert C., and Hiau Looi Kee,  " Trade Liberalisation and Export Variety: A Comparison of 
+Mexico and China " , The World Economy (2007), pp 5-21. Helpman, Elhanan, Marc Melitz, and Yona Rubinstein,  " Estimating Trade Flows: Trading Partners 
+and Trading Volumes " , The Quarterly Journal of Economics, Vol CXXIII (2), May 2008, pp 
+441-487. Hummels David and Peter J. Klenow,  " The Variety and Quality of a Nation's Exports " , American 
+Economic Review, (2005), pp 704-723. Hummels David, and Peter J. Klenow,  " The Variety and Quality of a Nation's Trade " , National 
+Bureau of Economic Research, Working Paper No. 8712, January 2002. Melitz, Marc J.,  " The Impact of Trade on Intra-industry Reallocations and Aggregate Industry 
+Productivity, Econometrica, 71(2003), pp 1695-1725. OECD,  " Patterns in Agriculture and Food Trade: 1985 to 2004 " , COM/AGR/TD/WP(2006)58/REV1, 
+November 2007. 37 Annex Table 1. List of countries in sample and their respective values in 2006 Country Total 
+Agricultural 
+Exports Intensive 
+margin Extensive 
+Margin Agricultural Value 
+Added Number of 
+Agricultural Workers 
++ GDP measured at 
+Purchasing Power 
+Parity rates Total labour 
+force 
+Argentina 
+19,765,754 
+0.08067 0.356346702 
+17,059,840,000 
+1,427,000 
+469,006,000,000 
+18,800,000 
+Australia 
+20,323,735 0.084826 0.348454233 19890430000 ** 431,000 
+735,879,000,000 
+10,500,000 
+Austria 
+8,177,589 0.025672 0.463270668 4232682000 * 
+156,000 
+298,521,000,000 
+3,995,948 
+Belgium/Luxembourg 
+29,819,370 0.000426 1.130572184 36087.3 ** 70,000 ** 388,494,886,826 
+4,715,137 
+Brazil 
+36,562,809 0.131922 0.403082554 
+47,306,210,000 
+11,933,000 
+1,694,340,000,000 
+92,700,000 
+Cameroon 
+536,370 0.014179 0.055014439 
+3,387,713,000 
+3,695,000 
+37,964,651,719 
+6,456,319 
+Canada 
+24,768,165 0.095938 0.375468007 14686800000 **** 347,000 
+1,198,650,000,000 
+17,900,000 
+Chile 
+5,870,137 0.036409 0.234485526 5796122000 * 1,019,000 
+214,110,000,000 
+6,588,675 
+China 
+21,820,802 
+0.08484 0.374059715 
+317,745,000,000 
+509,215,000 
+6,091,980,000,000 
+783,000,000 
+Colombia 
+4,730,010 0.034213 0.201064922 
+14,737,260,000 
+3,650,000 
+290,568,000,000 
+22,600,000 
+Costa Rica 
+2,238,515 0.024235 0.134334738 1576816000 * 327,000 
+42,071,358,866 
+2,015,980 
+Cote d'Ivoire 
+2,847,600 0.060759 0.068161083 
+3,662,147,000 
+3,224,000 
+31,207,601,787 
+6,943,999 
+Czech Republic 
+3,398,905 
+0.01471 0.336044022 
+3,458,596,000 
+400,000 
+227,154,000,000 
+5,200,350 
+Denmark 
+14,881,776 0.048428 0.446920204 3978823000 * 90,000 
+194,042,000,000 
+2,837,277 
+Ecuador 
+2,605,787 0.026246 
+0.14439427 
+2,588,163,000 
+1,207,000 
+94,330,268,370 
+6,532,937 
+Egypt 
+1,100,331 0.010403 0.153834765 12539550000 * 8,599,000 
+367,366,000,000 
+23,500,000 
+El Salvador 
+616,621 0.011388 0.078750354 
+1,720,696,000 
+805,000 
+38,987,978,999 
+2,827,107 
+Estonia 
+529,396 0.004575 0.168276101 
+455,931,100 
+73,000 
+25,461,507,871 
+664,249 
+Ethiopia 
+898,736 0.020777 0.062909367 
+5,866,222,000 
+27,528,000 
+49,092,822,421 
+32,400,000 
+Finland 
+1,866,327 0.012362 0.219575165 4792936000 * 113,000 
+173,903,000,000 
+2,658,583 
+France 
+51,298,363 0.155175 0.480786483 41827760000 * 
+705,000 
+1,959,740,000,000 
+27,100,000 
+Germany 
+50,246,365 0.127994 0.570933256 22186300000 * 805,000 
+2,662,510,000,000 
+41,100,000 
+Ghana 
+1,470,562 0.022396 0.095493889 
+4,860,734,000 
+6,245,000 
+28,646,401,240 
+10,000,000 
+Greece 
+4,184,714 0.016812 0.362002517 10480040000 * 707,000 
+349,817,000,000 
+5,196,389 
+Guatemala 
+1,654,860 0.022613 0.106432444 
+8,009,737,000 
+1,929,000 
+67,424,389,117 
+4,195,248 
+Hungary 
+4,323,850 0.020857 0.301507803 
+4,164,433,000 
+431,000 
+183,996,000,000 
+4,199,398 
+Iceland 
+234,421 0.004904 0.069519313 734702300 ** 12,000 
+11,143,326,686 
+178,594 
+India 
+11,192,393 0.042848 0.379892319 
+144,185,400,000 
+280,716,000 
+2,740,070,000,000 
+443,000,000 
+Indonesia 
+9,756,063 0.065886 0.215352622 
+43,457,330,000 
+50,539,000 
+770,479,000,000 
+109,000,000 
+Iran 
+2,743,204 0.041966 0.095067101 19622020000 * 
+6,689,000 
+694,362,000,000 
+28,700,000 
+Ireland 
+10,546,827 0.047814 0.320800672 4090390000 ** 156,000 
+171,862,000,000 
+2,128,945 
+Israel 
+1,215,229 0.008006 0.220764596 n.a. 
+n.a. 
+169,847,000,000 
+2,779,282 
+Italy 
+26,998,083 0.064676 0.607100176 35767940000 * 1,048,000 
+1,709,550,000,000 
+24,400,000 
+Japan 
+2,118,314 0.014017 0.219796346 78276150000 ** 2,042,000 
+4,081,440,000,000 
+66,000,000 
+Kazakhstan 
+1,207,617 0.037025 0.047435184 
+4,865,924,000 
+1,187,000 
+150,511,000,000 
+8,310,707 
+Kenya 
+1,767,507 0.025172 0.102121375 
+5,231,883,000 
+12,714,000 
+53,605,759,769 
+15,900,000 
+Korea Republic 
+2,419,772 0.016378 0.214870832 
+25,632,020,000 
+1,833,000 
+1,113,040,000,000 
+24,600,000 
+Madagascar 
+167,693 0.004095 0.059556395 
+1,381,780,000 
+6,461,000 
+16,821,083,634 
+8,851,910 
+Malawi 
+567,440 0.033667 0.024512578 
+680,835,700 
+4,903,000 
+9,496,238,475 
+6,059,062 
+Malaysia 
+9,847,286 0.053961 0.265403589 
+12,397,970,000 
+1,712,000 
+327,364,000,000 
+11,300,000 
+Mali 
+336,118 0.030896 0.015821734 
+2,014,558,000 
+4,978,000 
+12,664,199,532 
+5,594,687 
+Mexico 
+13,160,836 0.068021 0.281390494 
+29,161,980,000 
+8,509,000 
+1,269,090,000,000 
+43,000,000 
+Morocco 
+1,398,501 0.014799 0.137433342 
+9,527,877,000 
+4,241,000 
+119,398,000,000 
+11,300,000 
+Netherlands 
+53,174,569 0.133601 0.578849938 11422710000 * 214,000 
+597,402,000,000 
+8,666,704 
+New Zealand 
+11,552,018 0.065013 
+0.25842129 4600219000 ***** 170,000 
+106,780,000,000 
+2,185,583 
+Niger 
+52714.64* 
+0.012404 0.006710235 1088782000 *** 5,313,000 *** 8,637,802,555 
+6,135,142 
+Norway 
+790,038 
+0.005 
+0.2137 4165929000 * 93,000 
+233,368,000,000 
+2,541,981 
+Pakistan 
+2,085,130 0.023551 0.128766968 
+24,920,190,000 
+27,701,000 
+375,400,000,000 
+58,500,000 
+Paraguay 
+1,516,673 0.035288 0.062508369 
+1,944,880,000 
+768,000 
+24,267,389,409 
+2,841,266 
+Peru 
+3,141,809 
+0.0199 
+0.2291 
+5,546,407,000 
+3,095,000 
+195,654,000,000 
+13,700,000 
+Philippines 
+2,080,276 0.015459 
+0.19571254 
+15,918,850,000 
+13,086,000 
+271,976,000,000 
+38,300,000 
+Poland 
+9,433,549 0.028303 0.484746065 
+13,528,220,000 
+3,909,000 
+565,699,000,000 
+17,300,000 
+Portugal 
+3,023,404 0.012511 0.351452001 4528790000 * 571,000 
+220,084,000,000 
+5,605,627 
+Russia 
+4,401,519 0.038887 0.164614418 36439180000 * 7,163,000 
+1,868,980,000,000 
+73,300,000 
+Singapore 
+4,144,440 0.022993 0.262146777 
+111,395,500 
+2,000 
+200,467,000,000 
+2,246,924 
+Slovak Republic 
+1,745,869 0.011186 0.226985027 
+1,970,697,000 
+238,000 
+95,573,107,853 
+2,683,576 
+Slovenia 
+665,566 0.004511 0.214591181 756605400 * 12,000 
+48,876,668,195 
+1,037,513 
+South Africa 
+3,814,253 0.015498 0.357927846 
+5,627,872,000 
+1,598,000 
+430,652,000,000 
+19,700,000 
+Spain 
+27,098,716 0.068235 0.577584076 33366500000 * 1,115,000 
+1,264,050,000,000 
+21,000,000 
+Sweden 
+3,895,481 0.016359 0.346308544 3521029000 * 
+129,000 
+310,602,000,000 
+4,688,538 
+Switzerland 
+4,365,954 0.014715 0.431497868 4029257000 *** 141,000 
+278,628,000,000 
+4,196,841 
+Syria 
+1,861,212 0.021668 0.124926612 5918264000 ** 1,690,000 
+81,997,528,115 
+7,871,780 
+Tanzania 
+496,029 
+0.0116 0.062188203 
+5,370,312,000 
+15,802,000 
+39,262,066,954 
+20,000,000 
+Thailand 
+10,403,075 0.041024 0.368805062 
+20,261,840,000 
+20,197,000 
+482,081,000,000 
+36,100,000 
+Turkey 
+5,731,837 0.057764 0.144314544 
+42,838,330,000 
+14,994,000 
+614,258,000,000 
+27,000,000 
+Ukraine 
+4,780,126 0.036071 0.192733032 
+9,009,321,000 
+2,947,000 
+290,654,000,000 
+22,200,000 
+United Kingdom 
+20,093,247 0.052352 0.558198533 19816130000 * 
+485,000 
+2,003,430,000,000 
+30,800,000 
+United States 
+71,189,590 
+0.20989 
+0.49328428 145900000000 ** 2,739,000 
+13,163,900,000,000 
+157,000,000 
+Uruguay 
+2,135,664 0.021301 0.145816532 
+1,743,587,000 
+189,000 
+33,817,488,230 
+1,689,584 * = 2005 
+** = 2004 
+*** = 2003 
+**** = 2002 
+***** = 2001 
++ = Data for number of agricultural workers is 2005 unless otherwise noted 38 Annex Table 2. Additional Agricultural exports by country along with their extensive and intensive 
+margins (1996 to 2006) Country Total Increase 
+(USD million) Percent 
+Increase Gross 
+Intensive 
+Margin (USD 
+million) Expired 
+Products (USD 
+million) Net Intensive 
+Margin 
+(USD million) Extensive 
+Margin 
+(USD million) Extensive 
+Margin 
+Share of 
+Total (%) * Grouping 
+Brazil 
+21 962 
+150 
+12 473 
+-2 915 
+9 558 
+12 404 
+56.48 EE 
+Germany 
+20 925 
+71 
+18 905 
+-2 886 
+16 019 
+4 907 
+23.45 OECD 
+Netherlands 
+14 325 
+37 
+14 409 
+-8 112 
+6 297 
+8 028 
+56.04 OECD 
+Spain 
+12 074 
+80 
+10 843 
+-1 362 
+9 481 
+2 593 
+21.48 OECD 
+Belgium/Luxembourg 
+12 024 
+68 
+10 084 
+-2 311 
+7 773 4 252 35.36 OECD 
+China 
+10 441 
+92 
+8 515 
+-2 346 
+6 169 
+4 272 
+40.91 EE 
+Canada 
+10 147 
+69 
+8 034 
+-919 
+7 115 
+3 032 
+29.88 OECD 
+France 
+9 783 
+24 
+9 980 
+-4 361 
+5 619 
+4 165 
+42.57 OECD 
+Italy 
+9 626 
+55 
+8 248 
+-1 102 
+7 146 
+2 479 
+25.76 OECD 
+Argentina 
+7 649 
+63 
+6 642 
+-2 090 
+4 552 
+3 096 
+40.48 OTH 
+Mexico 
+7 449 
+130 
+7 476 
+-543 
+6 933 
+516 
+6.93 OECD 
+Australia 
+7 415 
+57 
+4 906 
+-1 534 
+3 372 
+4 043 
+54.52 OECD 
+Poland 
+6 781 
+256 
+2 667 
+-397 
+2 271 
+4 511 
+66.52 OECD 
+Indonesia 
+5 586 
+134 
+4 139 
+-736 
+3 404 
+2 183 
+39.08 EE 
+Austria 
+5 468 
+202 
+4 649 
+-231 
+4 418 
+1 050 
+19.20 OECD 
+United States 
+5 279 
+8 
+9 978 
+-10 939 
+-961 
+6 239 
+118.20 OECD 
+India 
+5 182 
+86 
+3 905 
+-1 205 
+2 701 
+2 481 
+47.88 EE 
+New Zealand 
+4 683 
+68 
+3 047 
+-1 225 
+1 822 
+2 861 
+61.10 OECD 
+Denmark 
+4 284 
+40 
+3 442 
+-2 054 
+1 388 
+2 895 
+67.59 OECD 
+Malaysia 
+3 186 
+48 
+2 531 
+-1 075 
+1 456 
+1 730 
+54.30 OTH 
+Thailand 
+3 036 
+41 
+1 444 
+-712 
+732 
+2 304 
+75.89 OTH 
+Ireland 
+2 960 
+39 
+2 361 
+-1 283 
+1 078 
+1 882 
+63.58 OECD 
+Chile 
+2 591 
+79 
+1 665 
+-294 
+1 370 
+1 221 
+47.11 APPL 
+Russia 
+2 540 
+136 
+1 245 
+-739 
+506 
+2 035 
+80.10 APPL 
+United Kingdom 
+2 269 
+13 
+2 398 
+-1 866 
+532 
+1 736 
+76.53 OECD 
+Czech Republic 
+2 142 
+170 
+1 358 
+-254 
+1 104 
+1 038 
+48.44 OECD 
+Sweden 
+1 981 
+103 
+1 049 
+-376 
+673 
+1 308 
+66.04 OECD 
+Iran 
+1 973 
+256 
+1 022 
+-106 
+916 
+1 057 
+53.59 OTH 
+Switzerland 
+1 778 
+69 
+1 445 
+-259 
+1 185 
+593 
+33.34 OECD 
+Ukraine 
+1 673 
+54 
+544 
+-949 
+-406 
+2 078 
+124.24 OTH 
+Hungary 
+1 627 
+60 
+1 117 
+-857 
+260 
+1 367 
+84.00 OECD 
+Peru 
+1 601 
+104 
+1 282 
+-138 
+1 144 
+457 
+28.54 OTH 
+Portugal 
+1 518 
+101 
+947 
+-140 
+808 
+710 
+46.80 OECD 
+Colombia 
+1 515 
+47 
+1 092 
+-225 
+867 
+648 
+42.79 OTH 
+Syria 
+1 330 
+251 
+44 
+-76 
+-32 
+1 363 
+102.43 OTH 
+Slovak Republic 
+1 319 
+308 
+624 
+-92 
+532 
+786 
+59.64 OECD 
+Uruguay 
+1 023 
+92 
+67 
+-114 
+-47 
+1 071 
+104.60 OTH 
+South Africa 
+1 022 
+37 
+856 
+-676 
+180 
+842 
+82.40 EE 
+Turkey 
+1 015 
+22 
+1 963 
+-1 227 
+736 
+279 
+27.45 OECD 
+Ecuador 
+915 
+54 
+818 
+-161 
+657 
+259 
+28.25 OTH 
+Pakistan 
+794 
+62 
+676 
+-105 
+571 
+223 
+28.11 OTH 
+Paraguay 
+713 
+89 
+119 
+-165 
+-46 
+759 
+106.47 OTH 
+Kazakhstan 
+693 
+135 
+586 
+-102 
+484 
+209 
+30.15 OTH 
+Korea Republic 
+625 
+35 
+559 
+-370 
+189 
+436 
+69.77 OECD 
+Kenya 
+613 
+53 
+439 
+-69 
+370 
+243 
+39.62 OTH 
+Cote d'Ivoire 
+578 
+25 
+180 
+-166 
+14 
+564 
+97.63 OTH 
+Egypt 
+569 
+107 
+303 
+-88 
+215 
+353 
+62.12 OTH 
+Ghana 
+527 
+56 
+235 
+-87 
+148 
+379 
+71.87 OTH 
+Morocco 
+482 
+53 
+240 
+-114 
+126 
+356 
+73.86 OTH 
+Japan 
+452 
+27 
+411 
+-97 
+314 
+138 
+30.58 OECD 
+Costa Rica 
+427 
+24 
+312 
+-217 
+95 
+332 
+77.65 OTH 
+Ethiopia 
+404 
+82 
+-260 
+-37 
+-297 
+701 
+173.48 LDC 
+Guatemala 
+397 
+32 
+287 
+-143 
+144 
+254 
+63.88 OTH 
+Philippines 
+331 
+19 
+278 
+-390 
+-112 
+442 
+133.80 OTH 
+Greece 
+303 
+8 
+31 
+-359 
+-328 631 208.27 OECD 
+Finland 
+301 
+19 
+77 
+-230 
+-154 
+455 
+151.01 OECD 
+Slovenia 
+297 
+81 
+68 
+-72 
+-4 
+301 
+101.33 APPL 
+Estonia 
+289 
+120 
+188 
+-114 
+74 
+215 
+74.25 APPL 
+Norway 
+155 
+24 
+141 
+-80 
+61 
+94 
+60.67 OECD 
+El Salvador 
+108 
+21 
+60 
+-63 
+-3 
+111 
+102.90 OTH 
+Malawi 
+94 
+20 
+52 
+-56 
+-4 
+98 
+104.14 LDC 
+Tanzania 
+39 
+9 
+-18 
+-92 
+-109 
+148 
+378.78 LDC 
+Mali 
+28 
+9 
+172 
+-263 
+-91 
+119 
+423.27 LDC 
+Madagascar 
+28 
+20 
+25 
+-20 
+6 
+22 
+79.30 LDC 
+Israel 
+5 
+57 
+133 
+-299 
+-167 
+171 
+3,755.81 APPL 
+Cameroon 
+-5 
+-1 
+-6 
+-68 
+-73 
+68 
+1,306.09 OTH 
+Iceland 
+-7 
+-3 
+-21 
+-12 
+-33 
+26 
+395.33 OECD 
+Niger 
+-21 
+-28 
+-3 
+-22 
+-25 
+5 
+21.94 LDC 
+Singapore 
+-89 
+-2 
+-691 
+-448 
+-1 139 
+1 050 
+1,174.60 OTH 
+Total 
+229 227 
+182 786 
+-63 233 
+119 554 
+109 673 
+47.84 
+APPL = applicant for membership to OECD; EE = countries with enhanced engagement status with the OECD 
+LDC = least developed; OECD = members of the OECD; OTH = all other countries 
+* Extensive margin's share can be greater than 100% when the intensive margin is negative 39 Annex Table 3. Decomposition of the extensive margin Country Type 1 New 
+Products New 
+Destinations Type 2 
+New Products 
+Old 
+Destinations Type 3 
+Old Products 
+New 
+Destinations Type 4 New 
+Trade flows 
+Established 
+Products 
+Traditional 
+Destinations Argentina 
+ARG 
+2 
+198 
+40 
+2 857 
+Australia 
+AUS 
+2 
+2 739 
+53 
+1 248 
+Austria 
+AUT 
+0 
+196 
+34 
+820 
+Belgium/Lux 
+BLX 
+60 
+2 127 
+798 
+1 266 
+Brazil 
+BRA 
+125 
+4 034 
+226 
+8 019 
+Cameroon 
+CMR 
+0 
+6 
+8 
+53 
+Canada 
+CAN 
+1 
+882 
+120 
+2 029 
+Chile 
+CHL 
+1 
+284 
+11 
+925 
+China 
+CHN 
+6 
+1 223 
+22 
+3 021 
+Colombia 
+COL 
+0 
+179 
+31 
+438 
+Costa Rica 
+CRI 
+0 
+174 
+10 
+147 
+Cote d'Ivoire 
+CIV 
+5 
+152 
+190 
+218 
+Czech Repub CZE 
+0 
+208 
+4 
+825 
+Denmark 
+DNK 
+86 
+1 056 
+1 153 
+600 
+Ecuador 
+ECU 
+0 
+83 
+7 
+168 
+Egypt 
+EGY 
+4 
+42 
+25 
+283 
+El Salvador 
+SLV 
+1 
+21 
+34 
+55 
+Estonia 
+EST 
+0 
+79 
+1 
+135 
+Ethiopia 
+ETH 
+8 
+481 
+25 
+187 
+Finland 
+FIN 
+0 
+240 
+10 
+205 
+France 
+FRA 
+4 
+2 760 
+44 
+1 358 
+Germany 
+DEU 
+1 
+3 027 
+11 
+1 869 
+Ghana 
+GHA 
+6 
+24 
+101 
+248 
+Greece 
+GRC 
+0 
+103 
+30 
+497 
+Guatemala 
+GTM 
+0 
+27 
+25 
+202 
+Hungary 
+HUN 
+0 
+495 
+1 
+870 
+Iceland 
+ISL 
+2 
+8 
+2 
+16 
+India 
+IND 
+0 
+811 
+35 
+1 636 
+Indonesia 
+IDN 
+2 
+225 
+208 
+1 748 
+Iran 
+IRN 
+51 
+82 
+678 
+245 
+Ireland 
+IRL 
+3 
+1 331 
+6 
+542 
+Israel 
+ISR 
+0 
+0 
+0 
+0 
+Italy 
+ITA 
+0 
+1 621 
+4 
+854 
+Japan 
+JPN 
+0 
+12 
+9 
+117 
+Kazakhstan 
+KAZ 
+0 
+36 
+48 
+124 
+Kenya 
+KEN 
+0 
+19 
+49 
+175 
+Korea Repub KOR 
+1 
+100 
+37 
+298 
+Madagascar MDG 
+0 
+3 
+2 
+17 
+Malawi 
+MWI 
+0 
+12 
+26 
+60 
+Malaysia 
+MYS 
+0 
+0 
+0 
+0 
+Mali 
+MLI 
+1 
+5 
+85 
+28 
+Mexico 
+MEX 
+0 
+77 
+37 
+401 
+Morocco 
+MAR 
+1 
+88 
+47 
+220 
+Netherlands 
+NLD 
+1 
+6 124 
+4 
+1 899 
+New Zealand NZL 
+36 
+1 951 
+45 
+829 
+Niger 
+NER 
+0 
+0 
+2 
+2 
+Norway 
+NOR 
+0 
+13 
+2 
+79 
+Pakistan 
+PAK 
+0 
+45 
+10 
+169 
+Paraguay 
+PRY 
+9 
+85 
+259 
+406 
+Peru 
+PER 
+4 
+50 
+50 
+353 
+Philippines 
+PHL 
+1 
+173 
+12 
+256 
+Poland 
+POL 
+3 
+1 134 
+78 
+3 295 
+Portugal 
+PRT 
+0 
+87 
+10 
+614 
+Russia 
+RUS 
+0 
+145 
+141 
+1 748 
+Singapore 
+SGP 
+23 
+245 
+367 
+415 
+Slovak Repu 
+SVK 
+0 
+185 
+35 
+566 
+Slovenia 
+SVN 
+0 
+94 
+2 
+205 
+South Africa 
+ZAF 
+0 
+0 
+0 
+0 
+Spain 
+ESP 
+6 
+1 151 
+21 
+1 414 
+Sweden 
+SWE 
+1 
+863 
+10 
+435 
+Switzerland 
+CHE 
+0 
+134 
+6 
+452 
+Syria 
+SYR 
+221 
+509 
+364 
+269 
+Tanzania 
+TZA 
+0 
+26 
+5 
+118 
+Thailand 
+THA 
+1 
+913 
+210 
+1 180 
+Turkey 
+TUR 
+0 
+29 
+4 
+246 
+Ukraine 
+UKR 
+0 
+180 
+162 
+1 736 
+United Kingd GBR 
+0 
+1 209 
+8 
+519 
+United State 
+USA 
+45 
+3 521 
+358 
+2 315 
+Uruguay 
+URY 
+2 
+194 
+86 
+788 
+Total 
+727 
+44 330 
+6 540 
+55 332 USD million 40 Annex Table 4. Tobit Estimation – Marginal effects on the conditional on being uncensored (intensive 
+margin) and on the change in the probability to export positive values (extensive margin), by exporter Exporter 
+Pseudo-R2 
+Bootstrap 
+Intensive Margin Extensive Margin Intensive Margin Extensive Margin 
+Argentina 
+0.269*** 
+0.023*** 
+-0.515*** 
+-0.044*** 
+0.138 
+no 
+Australia 
+0.184*** 
+0.022*** 
+-1.175*** 
+-0.140*** 
+0.184 
+no 
+Austria 
+0.109*** 
+0.015*** 
+-0.250*** 
+-0.036*** 
+0.231 
+no 
+Brazil 
+0.267 (0.185) 
+0.027 (0.025) 
+-0.057 (0.879) 
+-0.005 (0.097) 
+n/a 
+yes 
+Canada 
+0.272*** 
+0.026*** 
+-0.428*** 
+-0.041*** 
+0.146 
+no 
+China 
+0.239*** 
+0.035*** 
+-0.386*** 
+-0.057*** 
+0.152 
+no 
+Colombia 
+0.137*** 
+0.002*** 
+-0.474*** 
+-0.008*** 
+0.202 
+no 
+Costa Rica 
+0.124*** 
+0.001*** 
+-0.550*** 
+-0.003*** 
+0.226 
+no 
+Cote d'Ivoire 
+-0.013 
+0.000*** 
+-0.186 
+0.000*** 
+0.235 
+no 
+Czech Republic 
+0.095*** 
+0.004*** 
+-0.295*** 
+-0.014*** 
+0.248 
+no 
+Denmark 
+0.190*** 
+0.026*** 
+-0.316*** 
+-0.043*** 
+0.166 
+no 
+Egypt 
+0.222*** 
+0.005*** 
+-0.201*** 
+-0.005*** 
+0.155 
+no 
+El Salvador 
+0.106*** 
+0.000*** 
+-0.296*** 
+-0.000*** 
+0.297 
+no 
+Estonia 
+-0.037*** 
+-0.001*** 
+-0.119*** 
+-0.002*** 
+0.271 
+no 
+Finland 
+0.006 
+0.000 
+-0.292*** 
+-0.011*** 
+0.242 
+no 
+France 
+0.322*** 
+0.092*** 
+-0.378*** 
+-0.108*** 
+0.157 
+no 
+Germany 
+0.273*** 
+0.085*** 
+-0.427*** 
+-0.133*** 
+0.166 
+no 
+Ghana 
+0.036** 
+0.000** 
+-0.251*** 
+-0.000*** 
+0.235 
+no 
+Greece 
+0.137*** 
+0.009*** 
+-0.293*** 
+-0.020*** 
+0.179 
+no 
+Guatemala 
+0.100*** 
+0.001*** 
+-0.385*** 
+-0.002*** 
+0.288 
+no 
+Hungary 
+0.095*** 
+0.005*** 
+-0.384*** 
+-0.022*** 
+0.190 
+no 
+Iceland 
+0.030 
+2.7244E-06 
+-0.078*** 
+-0.000*** 
+0.209 
+no 
+India 
+0.105*** 
+0.014*** 
+-0.198*** 
+-0.026*** 
+0.141 
+no 
+Indonesia 
+0.070*** 
+0.005*** 
+-0.487*** 
+-0.034*** 
+0.181 
+no 
+Ireland 
+0.139*** 
+0.007*** 
+-0.535*** 
+-0.025*** 
+0.204 
+no 
+Italy 
+0.291*** 
+0.080*** 
+-0.561*** 
+-0.154*** 
+0.161 
+no 
+Japan 
+0.125*** 
+0.006*** 
+-0.262*** 
+-0.013*** 
+0.220 
+no 
+Madagascar 
+0.022 
+0.000 
+0.015 
+0.000 
+0.276 
+no 
+Malaysia 
+0.136*** 
+0.008*** 
+-0.393*** 
+-0.023*** 
+0.224 
+no 
+Mexico 
+0.133*** 
+0.005*** 
+-0.403*** 
+-0.015*** 
+0.212 
+no 
+Morocco 
+0.046** 
+0.000** 
+-0.147*** 
+-0.001*** 
+0.214 
+no 
+Netherlands 
+0.228*** 
+0.061*** 
+-0.500*** 
+-0.135*** 
+0.144 
+no 
+New Zealand 
+0.156*** 
+0.007*** 
+-0.818*** 
+-0.037*** 
+0.182 
+no 
+Niger 
+0.019 
+0.000*** 
+-0.128 
+0.000*** 
+0.308 
+no 
+Norway 
+0.034** 
+0.001*** 
+-0.316** 
+-0.013*** 
+0.209 
+no 
+Peru 
+0.098*** 
+0.001 
+0.023*** 
+0.000 
+0.175 
+no 
+Philippines 
+0.084*** 
+0.002*** 
+-0.244*** 
+-0.006*** 
+0.200 
+no 
+Poland 
+0.127*** 
+0.005*** 
+-0.419*** 
+-0.016*** 
+0.210 
+no 
+Portugal 
+0.155*** 
+0.007*** 
+-0.391*** 
+-0.017*** 
+0.242 
+no 
+Russia 
+-0.036*** 
+-0.001*** 
+-0.285*** 
+-0.004*** 
+0.217 
+no 
+Singapore 
+0.176*** 
+0.014*** 
+-0.405*** 
+-0.032*** 
+0.231 
+no 
+Slovak Republic 
+0.029** 
+0.000*** 
+-0.152** 
+-0.001*** 
+0.284 
+no 
+Slovenia 
+0.081*** 
+0.001*** 
+-0.143*** 
+-0.001*** 
+0.227 
+no 
+South Africa 
+0.158 (0.210) 
+0.022 (0.035) 
+-0.364 (0.463) 
+-0.051 (0.099) 
+n/a 
+yes 
+Spain 
+0.362*** 
+0.076*** 
+-0.596*** 
+-0.126*** 
+0.155 
+no 
+Sweden 
+0.052*** 
+0.005*** 
+-0.306*** 
+-0.031*** 
+0.222 
+no 
+Switzerland 
+0.148 (0.122) 
+0.019 (0.021) 
+-0.134 (0.163) 
+-0.019 (0.027) 
+n/a 
+yes 
+Thailand 
+0.184*** 
+0.023*** 
+-0.432*** 
+-0.055*** 
+0.174 
+no 
+Turkey 
+0.115*** 
+0.011*** 
+-0.276*** 
+-0.025*** 
+0.175 
+no 
+Ukraine 
+-0.050*** 
+-0.001*** 
+-0.422*** 
+-0.008*** 
+0.206 
+no 
+United Kingdom 
+0.233 (0.226) 
+0.060 (0.064) 
+-0.397 (0.402) 
+-0.103 (0.116) 
+n/a 
+yes 
+United States 
+0.332*** 
+0.081*** 
+-0.596*** 
+-0.146*** 
+0.132 
+no 
+Uruguay 
+0.227*** 
+0.002*** 
+-0.292*** 
+-0.003*** 
+0.172 
+no GDP 
+Distance * significant at 90%; ** significant at 95%; *** significant at 99%. For bootstrapped countries, standard errors of replications in parentheses. Estimation also includes sector and time dummies. 41 Annex Table 5. Probit estimation: Probability of a observing a positive trade flow (extensive margin) Country 
+GDP 
+Distance Pseudo r2 
+Argentina 
+0.022*** -0.044*** 
+0.24 
+Australia 
+0.021*** -0.143*** 
+0.3137 
+Austria 
+0.017*** -0.036*** 
+0.38 
+Brazil 
+0.029*** -0.095*** 
+0.234768 
+Canada 
+0.025*** -0.048*** 
+0.2337 
+Switzerland 
+0.015*** -0.046*** 
+0.313496 
+Chile 
+0.015*** -0.051*** 
+0.259194 
+China 
+0.033*** -0.055*** 
+0.258424 
+Côte d'Ivoire 
+-0.001*** -0.004*** 
+0.286505 
+Colombia 
+0.003*** -0.01*** 
+0.297344 
+Costa Rica 
+0.002*** -0.01*** 
+0.323866 
+Czech Republic 
+0.006*** -0.019*** 
+0.379324 
+Germany 
+0.08*** 
+-0.128*** 
+0.304706 
+Denmark 
+0.025*** -0.043*** 
+0.281428 
+Ecuador 
+0.002*** -0.007*** 
+0.302882 
+Egypt 
+0.008*** -0.007*** 
+0.217961 
+Spain 
+0.072*** -0.132*** 
+0.27371 
+Estonia 
+-0.002*** -0.006*** 
+0.3653 
+Ethiopia 
+0*** 
+-0.001*** 
+0.280967 
+Finland 
+0*** 
+-0.011*** 
+0.37514 
+France 
+0.092*** -0.105*** 
+0.291207 
+United Kingdom 
+0.058*** -0.184*** 
+0.298067 
+Ghana 
+0*** 
+-0.003*** 
+0.294392 
+Greece 
+0.008*** -0.019*** 
+0.276817 
+Guatemala 
+0.001*** -0.005*** 
+0.421694 
+Hungary 
+0.005*** -0.023*** 
+0.301299 
+Indonesia 
+0.004*** -0.033*** 
+0.290725 
+India 
+0.012*** -0.024*** 
+0.233005 
+Ireland 
+0.006*** -0.026*** 
+0.320537 
+Iran, Islamic Republic of 
+-0.001*** -0.001*** 
+0.279164 
+Iceland 
+0*** 
+-0.001*** 
+0.239168 
+Israel 
+0.006*** 0.001*** 
+0.264461 
+Italy 
+0.076*** -0.16*** 
+0.293656 
+Japan 
+0.006*** -0.012*** 
+0.333131 
+Kazakhstan 
+0*** 
+0*** 
+0.411232 
+Kenya 
+0*** 
+-0.002*** 
+0.26574 
+Republic of Korea 
+0.005*** -0.016*** 
+0.330217 
+Morocco 
+0.001*** -0.002*** 
+0.305278 
+Madagascar 
+0*** 
+0*** 
+0.366497 
+Mexico 
+0.007*** -0.024*** 
+0.319352 
+Mali 
+0.001*** -0.002*** 
+0.345614 
+Malawi 
+0*** 
+0*** 
+0.354304 
+Malaysia 
+0.008*** -0.023*** 
+0.35464 
+Niger 
+0*** 
+-0.001*** 
+0.294799 
+Netherlands 
+0.054*** -0.129*** 
+0.264189 
+Norway 
+0.002*** -0.013*** 
+0.307728 
+New Zealand 
+0.007*** -0.038*** 
+0.288047 
+Pakistan 
+0*** 
+0*** 
+0.264838 
+Peru 
+0.003*** 0.002*** 
+0.250405 
+Philippines 
+0.003*** -0.009*** 
+0.290159 
+Poland 
+0.006*** -0.016*** 
+0.353103 
+Portugal 
+0.006*** -0.017*** 
+0.366143 
+Paraguay 
+0.002*** -0.003*** 
+0.264861 
+Russian Federation 
+-0.002** 
+-0.011*** 
+0.318 
+Singapore 
+0.012*** -0.031*** 
+0.3727 
+El Salvador 
+0.001*** -0.002*** 
+0.3904 
+Slovakia 
+0.001 -0.004*** 
+0.4076 
+Slovenia 
+0.003*** -0.005*** 
+0.3027 
+Sweden 
+0.004*** -0.029*** 
+0.3545 
+Thailand 
+0.01*** 
+-0.023*** 
+0.2896 
+Turkey 
+0.01*** 
+-0.023*** 
+0.2896 
+Ukraine 
+-0.002*** -0.01*** 
+0.3042 
+Uruguay 
+0.005*** -0.006*** 
+0.2427 
+United States of America 0.077*** -0.145*** 
+0.2541 
+South Africa 
+0.023*** -0.075*** 
+0.2516 
+Marginal effects calculated at sample means Marginal effects 

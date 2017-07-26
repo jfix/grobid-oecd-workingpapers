@@ -1,0 +1,938 @@
+Please cite this paper as: Yermo, J. (2007),  " Reforming the Valuation and Funding of 
+Pension Promises: Are Occupational Pension Plans Safer? " , 
+OECD Working Papers on Insurance and Private Pensions, 
+No. 13, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/078561284626 OECD Working Papers on Insurance and 
+Private Pensions No. 13 Reforming the Valuation and 
+Funding of Pension 
+Promises ARE OCCUPATIONAL PENSION PLANS SAFER? Juan Yermo JEL Classification: G18, G23, J32 1 REFORMING THE VALUATION AND FUNDING OF PENSION PROMISES: ARE OCCUPATIONAL PENSION PLANS SAFER? Juan Yermo September 2007 OECD WORKING PAPER ON INSURANCE AND PRIVATE PENSIONS No. 13 ——————————————————————————————————————— Financial Affairs Division, Directorate for Financial and Enterprise Affairs 
+Organisation for Economic Co-operation and Development 
+2 Rue André Pascal, Paris 75116, France 
+www.oecd.org/daf/fin/wp 2 ABSTRACT/RÉSUMÉ Reforming the valuation and funding of pension promises: are occupational pension plans safer? This paper assesses current regulatory and accounting developments in the OECD area against their 
+purported goals. It specifically considers the different approaches to valuing pension liabilities and 
+questions the possibility of convergence between funding and business accountants' valuation standards 
+for pension liabilities. It concludes that the trend towards market-based valuation methods in business 
+accounting is not entirely consistent with the parallel exercise undertaken by many pension regulators. 
+Since valuation methods for funding purposes are likely to continue moving towards a market-based 
+model, policymakers should be all the more cautious in setting funding regulations so as to provide 
+sufficient flexibility to pension funds in covering funding deficits while providing incentives to establish 
+funding buffers in good economic times. We also argue that accounting rules and regulatory changes are 
+driving plan design in some OECD countries such as Japan, the Netherlands and the United Kingdom and 
+can lead to procyclical investment behaviour by pension funds. JEL codes: G18, G23, J32 
+Keywords: Pension funds, defined benefit, funding rules, investment, discount rates, accounting, valuation 
+methods, actuarial methods, fair value. 
+***** Réformer l'estimation et le financement des promesses sur les retraites: les plans de retraite 
+professionnels sont-ils plus sûrs ? L'auteur évalue dans ce document les évolutions actuelles des dispositions réglementaires et 
+comptables dans la zone OCDE au regard de leurs objectifs supposés. Il examine plus précisément les 
+différentes méthodes d'évaluation des engagements au titre des retraites, et s'interroge sur la possibilité 
+d'une convergence entre les méthodes d'évaluation de ces engagements utilisées aux fins de financement, 
+d'une part, et celles employées par les comptables d'entreprises, d'autre part. L'auteur parvient à la 
+conclusion que l'évolution de la comptabilité d'entreprise vers des méthodes d'évaluation fondées sur les 
+mécanismes de marché ne concorde par tout à fait avec l'exercice parallèle entrepris par de nombreuses 
+instances de réglementation des retraites. Selon l'auteur, il est probable que les méthodes d'évaluation 
+utilisées aux fins de financement continueront à évoluer vers un modèle fondé sur les mécanismes de 
+marché. Compte tenu de cette tendance, les responsables de l'action publique devraient se montrer 
+extrêmement prudents dans l'élaboration des règles de financement, de manière à laisser aux organismes de 
+retraite des marges de manoeuvre suffisantes pour couvrir leurs déficits de financement, tout en les incitant 
+à constituer des fonds de réserve en période de conjoncture économique favorable. Toujours selon l'auteur, 
+les modifications des dispositions comptables et réglementaires influent sur la conception des plans de 
+retraite dans certains pays de l'OCDE, comme le Japon, les Pays-Bas et le Royaume-Uni, et elles peuvent 
+déboucher sur des comportements d'investissement procycliques de la part des organismes de retraite. JEL codes : G18, G23, J32 
+Mots clés : organismes de retraite, prestation définie, règles de financement, investissement, taux 
+d'actualisation, comptabilité, méthodes d'évaluation, methods actuarielles, juste valeur. Copyright OECD, 2007 Applications for permission to reproduce or translate all, or part of, this material should be made to: 
+Head of Publications Service, OECD, 2 rue André-Pascal, 75775 Paris Cédex 16, France. 3 REFORMING THE VALUATION AND FUNDING OF PENSION PROMISES: ARE 
+OCCUPATIONAL PENSION PLANS SAFER? by Juan Yermo 1 I. Introduction Since 2001, occupational 2 defined benefit (DB) pension plans in OECD countries have experienced 
+an adverse funding situation, that is, a low ratio of assets to liabilities. The decline in funding ratios can be 
+traced to the low interest rate environment and poor equity market returns, together with longer term 
+pressures such as revisions in life expectancy assumptions. 3 Various regulatory initiatives have been 
+undertaken to address these funding gaps, some providing forbearance to plan sponsors, others aiming at 
+improving benefit protection outright. 4 At the same time, new accounting standards have been introduced 
+which aim at shining a bright light on what has been historically a rather obscure but major component of 
+the balance sheet of pension plan sponsors. Policymakers face a difficult dilemma. If funding rules are tightened too much, employers may 
+altogether abandon DB plans. On the other hand, lax funding rules may expose workers to benefit losses if 
+underfunded plans are terminated by insolvent employers. A key question for policymakers (and the 
+actuarial and accounting professions) is to determine whether certain valuation methods used by regulators 
+and accountants may portray a misleading picture of the health of DB plans. In addition, it may be asked 
+why funding ratios were not higher in the good years, like the 1990s, given the possibility of adverse 
+developments in asset values and interest rates. Policymakers need to consider how regulations should be 
+reformed in order to best protect pension promises. Such deliberations should also take into consideration 
+the reform in accounting standards, as shareholders can be a powerful agent of change. This chapter extends the discussion on funding by assessing current regulatory and accounting 
+developments in the OECD area against their purported goals. It specifically considers the different 
+approaches to valuing pension liabilities and questions the possibility of convergence between funding and 
+business accountants' valuation standards for pension liabilities. The main conclusions are as follows:  Valuation methods for funding and business accounting purposes are likely to continue moving 
+towards a market-based model. Given this trend, policymakers should be all the more cautious in 1 The author is principal administrator of the private pensions unit at the OECD. He would like to thank the Delegates 
+to the OECD Working Party on Private Pensions, André Laboul (OECD), Chinu Patel (Watson Wyatt) and 
+Colin Pugh (independent consultant) for their comments on previous versions of this paper. The views 
+expressed are the sole responsibility of the author and do not necessarily reflect those of the OECD or its 
+member countries. 2 According to the OECD pensions taxonomy, an occupational pension plan is linked to an employment relationship 
+between the plan member and the entity that establishes the plan (the plan sponsor). Occupational plans 
+may be established by employers or groups of employers (e.g. industry associations), professional and 
+labour associations (e.g. trade unions). Generally, the plan sponsor is responsible for making contributions 
+under the terms of occupational pension plans, but employees may be also required to contribute. Sponsors 
+may also have administrative or oversight responsibilities for these plans. 3 See, for example, Schich (2005). Funding ratios recovered in 2006 as a result of rising long-term interest rates. 4 See Pugh (2007) in this volume for a description of recent reforms to funding regulations. The OECD 
+Recommendation on Guidelines on Funding and Benefit Security in Occupational Pension Plans is the 
+international standard on these regulatory issues (OECD (2007)). 4 setting funding regulations so as to provide sufficient flexibility to pension funds in covering 
+funding deficits while providing incentives to establish funding buffers in good economic times.  While market-based valuation methods are becoming more prevalent, the measure of the pension 
+liability used for funding rules is likely to differ from that used in business accounting, because 
+of their different objectives. In particular, pension regulators are most concerned with the value 
+of accrued benefits (the accumulated benefit obligation or ABO), ignoring the impact of salary 
+increases. Accounting standards, on the other hand, take salary increases into account in order to 
+develop a measure of liabilities (the projected benefit obligation, or PBO) consistent with the 
+view of the enterprise as an ongoing concern.  The current application of fair value principles 5 to pension accounting standards is the subject of 
+much controversy. There is an ongoing debate about the right measure of liabilities (ABO or 
+PBO), the extent to which pension benefits are a debt of employers or can be adjusted, the 
+appropriate discount rate to be used, and the way to recognise actuarial gains and losses. Given 
+the uncertainty surrounding valuations based on ―mark-to-model‖ principles, accounting 
+disclosures by sponsoring companies should be at least accompanied with information about the 
+assumptions made and a sensitivity analysis. Policymakers should also consider the impact of the 
+volatility created by market-based valuations on companies' balance sheets and income 
+statement. In particular, the removal of the smoothing options currently permitted by 
+international accounting standards could have an adverse impact on DB pension provision, the 
+application of efficient risk management strategies, and could potentially lead to procyclical 
+investment behaviour by pension funds. This chapter is structured as follows. Section I provides a comparison of valuation methods for 
+pension assets and liabilities for both funding and business accounting purposes. There is special focus on 
+selected OECD countries (Denmark, Japan, Netherlands, Sweden, United Kingdom and the United States) 
+that have already or are in the process of moving towards a market-based approach to measuring pension 
+fund liabilities for regulatory funding purposes (insurance purposes in the UK case). Asset valuation 
+methodologies, which have been traditionally market-based but allowed some degree of smoothing, are 
+also moving towards a fair-value model. Market-based valuations have made even greater in-roads in the 
+domain of business accounting, as most OECD countries have implemented some variation of the 
+International Accounting Standards Board's pension standard (IAS 19). Section II describes the recent trends in funding levels and recent regulatory initiatives in this sample 
+of OECD countries. There are substantial differences in many aspects of the regulation, namely what the 
+funding target should be, how quickly funding gaps should be eliminated (the recovery period), and what 
+the maximum funding level may be. These differences can be explained by a variety of factors. In 
+particular, it is argued that the regime of funding rules cannot be discussed in isolation from other policy 
+initiatives that affect benefit security, such as insolvency guarantee funds and priority rights in bankruptcy. 
+Funding rules should also take into consideration the extent to which pension funds have an automatic 
+claim on sponsor contributions from the plan sponsor, the extent to which benefit promises can be cut back 
+(in particular, revaluation and indexation factors), and whether employees may also be asked to make 
+additional contributions to the fund. Section III reviews the aftermath of the funding gaps and these regulatory and accounting initiatives. 
+Changes in valuation standards (for both funding and accounting purposes) and the reform of funding rules 
+are likely to bring about higher funding levels, greater protection of pension rights and greater use of asset-5 Fair value is usually defined as the amount for which an asset could be exchanged, or a liability settled, between 
+knowledgeable, willing parties in an arm's length transaction. 5 liability modelling techniques. At the same time, it is quite possible that these initiatives will push some 
+plan sponsors to terminate their defined benefit plans. The demise of defined benefit plans may not be a 
+problem in itself if new arrangements appear that maintain some of the attractive features of those plans 
+(such as the targeting of salary related benefits via ―protected‖ defined contribution plans). However, in 
+some countries the emerging plan model is of the ―unprotected‖ defined contribution type, which offers 
+members investment choice and correspondingly lays all investment risks on individual members. II. Measuring pension fund assets and liabilities for funding and accounting purposes A transparent, consistent measurement of DB pension fund assets and liabilities is essential to ensure 
+good governance and effective supervision. While pricing pension fund assets is normally straight forward 
+(as long as they are traded in liquid markets), there are different views as to what is the relevant measure of 
+pension fund liabilities as (i) they are not traded in markets, (ii) they have special design characteristics 
+stemming from wage-benefit bargaining which can cause discretionary changes in future (and, in some 
+cases, even accrued) benefits, and (iii) there are no hedging assets that closely match the cashflows of 
+pension funds, which could be used to price their liabilities. Various observers (e.g. Bader and Gold (2003), Exley (2006)) argue that such characteristics are not 
+obstacles to calculating ―market-equivalent‖ values of DB pension funds, applying what is referred to as 
+the fair value principle. Others (e.g. Day (2003), Plantin et al. (2005)) have argued that attempts at 
+―marking to market‖ pension fund liabilities can lead to a narrow focus on the short-term impact of 
+financial decisions, inducing sub-optimal long-term results. While the academic debate on the application 
+of fair valuation principles to pension funds (or indeed banks and insurance companies) is far from closed, 
+there is a general shift towards some form of fair value among pension fund regulators and accounting 
+standard-setters. In most countries, there are at least two statutory measures of liabilities, one designated by the 
+pension regulator for funding purposes 6 and another one used by plan sponsors for business accounting 
+purposes. In addition, some countries like the United Kingdom and the United States require other 
+measures to be calculated for purposes of determining premiums to a guarantee fund (the Pension 
+Protection Fund – PPF – in the United Kingdom and the Pension Benefit Guaranty Corporation – PBGC -
+in the United States). A market measure of the liabilities may also exist in the quoted premia that life 
+insurance companies charge for taking over pension liabilities. This so-called buy-out market has gained 
+importance in the United Kingdom in recent years and has established a fourth measure of pension 
+liabilities. The difference between these measures can be significant. One rating agency, using the PBO measure 
+estimated a shortfall in the United States for the S&P 500 companies of US$140billion (a funding ratio of 
+90.4 percent) in 2005, as against a surplus of some $250billion five years earlier. 7 On the other hand, the 
+PBGC – which uses a measure similar to the ABO to calculate funding ratios – estimated a shortfall for all 
+insured single-employer DB plans of a record US$339billion as of December 2005, for an average funding 
+ratio of 72 percent 8 . The funding deficit in multi-employer plans was over US$170bn, meaning a total 
+funding gap (for single and multi-employer plans) in the country of over US$500bn. 6 Some jurisdictions, such as most Canadian provinces, require a minimum funding valuation and an ongoing funding 
+valuation. This paper discusses only the minimum funding valuation, which is the main concern for 
+regulators. For a description and discussion of ongoing funding valuations and methods, see Pugh (2007). 7 Standard & Poor's (2006). 8 PBGC (2006). 6 The main differences between regulatory and accounting measures of liabilities relate to:  the actuarial cost method to be used;  the benefits to be considered, including benefit revaluation (for early leavers) and indexation (for 
+retirees) factors, and assumptions over the rate of withdrawal from the plan;  the choice of discount rate to calculate the present value of accrued benefits; and  the mortality tables and the adjustments to be made for future mortality trends, including those 
+specific to the plan. With respect to the actuarial cost method, benefit allocation methods are becoming increasingly 
+popular over cost allocation methods, but different approaches exist with respect to other aspects of the 
+cost method. Regulators usually calculate benefits on the basis of current salaries (as in the current unit 
+credit method used to calculate the ABO) 9 while business accountants do so on the basis of future, 
+projected salaries (as in the projected unit credit method used to calculate the PBO). Actuarial cost 
+methods also differ in the extent to which extent actuarial gains and losses 10 and other supplemental 
+liabilities (like plan amendments and initial plan liabilities) may be amortised (spread) over time. 11 Regulators and accountants also differ on the type of benefits that they include in their liability 
+measures. Regulators normally exclude revaluation and indexation factors from their measure of liabilities 
+unless they are required by law (as in Ireland – revaluation only -and the United Kingdom). Business 
+accountants, on the other hand, tend to account for these factors if they are considered a ―constructive‖ 
+obligation on the plan sponsor, where ―constructive‖ is defined as a reasonable expectation on the basis of 
+past behaviour or informal agreements. Regulators and accountants also make different assumptions with 
+respect to employees that leave the plan early. Regulators usually require that measures of liabilities 
+exclude withdrawal from service, while accountants use withdrawal rate assumptions. The choice of discount rate also varies between regulators and business accountants. Many regulators 
+still apply a maximum discount rate, while accounting standards are based on market yields of fixed 
+income securities, typically those of corporate bonds. As shown in Table 1, the differences in discount 
+rates are substantial in most countries, the accountants' discount rate being normally higher than that used 
+by regulators. The recent trend towards market-based discount rates among regulators is likely to bring 
+about some convergence in this key parameter. In particular, at the beginning of 2007, the Netherlands 
+joined Japan and the United States in linking the regulatory discount rate to the market yield of fixed 
+income securities. 9 The main exception is Spain, where regulators require DB plans to use a PBO measure of pension liabilities. 10 Actuarial gains (losses) are assets (liabilities) created by a positive (negative) departure of the experience of the 
+plan from the assumptions that underlie the actuarial cost estimates. They include both changes in actuarial 
+assumptions and experience gains and losses, the latter being deviations of actual from expected 
+experience. 11 For further information on actuarial methods, see Pugh (2007), Groupe Consultatif Actuariel Europeen (2001), and 
+Groupe Consultatif Actuariel Europeen (2006). 7 Table 1. Discount rates used in regulatory and accounting measures of pension liabilities in selected OECD 
+countries (2005) Regulator 
+Accountant 
+Belgium 
+6 
+4.87 
+Canada 
+4.5 
+5.98 
+Germany 
+2.75-4 
+4.91 
+Ireland 
+4.6-7.25 
+4.82 
+Japan 
+1.0-1.6 
+2.07 
+Netherlands 
+4 
+4.94 
+Portugal 
+4.5 
+5.12 
+Spain 
+4.0 
+4.87 
+United Kingdom 
+4.0 
+5.41 
+United States 
+4.7 
+5.83 Source: each country's respective regulatory authority, Watson Wyatt (2005) Note: regulators' discount rates are maxima, except in Canada, Japan, and the United States where they are market-based. 
+Accountants' rates are averages of a sample of companies in each country. The mortality tables and projections used by regulators and accountants also differ, although in 
+principle they should be the same. Few regulators require pension plans to take into account the expected 
+future evolution of mortality or to use the latest mortality data available. However, the main differences in 
+mortality assumptions occur not between regulatory and accounting measures in the same country but 
+across countries. A study by Cass Business School (2005) shows that only in some countries do pension 
+plans incorporate an allowance for expected future improvements in mortality. Most use tables that relate 
+to mortality observed over a period in the past. As shown in Figure 1, countries like Denmark and 
+Switzerland use mortality assumptions based on the national population mortality tables, without allowing 
+for expected future increases in life expectancy. The implications of these different assumptions for 
+liability measures are substantial. Antolin (2007) shows that an unexpected improvement in life expectancy 
+at birth of 1 year per decade would increase the liabilities of a typical pension fund by 10 percent, and up 
+to 20 percent for a fund with mainly young workers. 8 Figure 1. Difference between assumed life expectancy of DB plan male members aged 65 and the observed 
+general population life expectancy in selected OECD countries (2005) Source: Cass Business School (2005) Valuation methods for funding purposes While wide differences still exist across countries in valuation methods of pension fund 12 assets and 
+liabilities for funding purposes (see Pugh (2007)), there has been some degree of convergence in recent 
+years. In particular, regulators are increasingly requiring the use of discount rates that reflect market yields 
+of government bonds. This move towards market-based valuation is consistent with the regulator's goal of 
+promoting funding levels high enough to cover benefit promises in the case of plan termination. However, 
+the situation in some countries is still one where regulatory measures of pension liabilities are below the 
+plan termination liability. Like the termination liability and the ABO, the regulatory measure of pension 
+liabilities is based on accrued benefits, where no allowance is made for future salary increases. 13 However, 
+at termination, some countries like the United Kingdom and the United States require the pension fund's 
+assets to be used to buy deferred annuities (from a guarantee fund or from a private insurance company 14 , 12 Throughout this paper we refer to pension fund assets and liabilities, even though in some countries the liabilities 
+are assigned to the pension plan, rather the pension fund itself (which is only a vehicle to hold the plan 
+assets). The term pension plan is not used because a plan can be funded through vehicles other than 
+pension funds, such as pension insurance contracts. These funding vehicles are not the subject of this 
+paper. 13 Like the PBO, the ABO accounting measure is based on assumptions about employee turnover and death for a 
+continuing plan. Pension regulators, on the other hand, require the use of assumptions that reflect to a 
+greater extent the conditions of plan termination. 14 In the United Kingdom, it is also possible to use the newer ―buy-out‖ firms, most of which have been set up as 
+single-line insurers but can also be authorised as pension companies. 9 depending on whether the termination was caused by the insolvency of the plan sponsor). As annuities are 
+priced above the regulator's liability measure, funding rules can give a false sense of security. The 
+elimination of the minimum funding requirement in the United Kingdom in 2005, and its replacement by a 
+scheme-specific funding standard is in part an answer to this concern. Benefit allocation methods that projects benefits by taking into account future salary growth (PUC 
+method used to calculate the PBO) are more likely to value the actuarial liability above the plan 
+termination liability (all else, such as amortisation periods, actuarial assumptions and discount rates, being 
+equal). Yet even this method is the subject of some controversy. This method still creates a climbing ratio 
+of contributions to salary (contribution rate) over the service period of the worker. Before accounting 
+standards were adopted based on this method, employers in some countries used cost allocation methods 
+that aimed at a roughly constant contribution rate over the service period. In the United States, for 
+example, the percentage of large final pay plans using cost allocation methods declined from 90 percent in 
+1983 to 31 percent by 2002, while the percentage using a PUC-based benefit allocation method increased 
+from 10 percent to 69 percent (McGill et al (2005)). A key aspect of the valuation of pension liabilities is the choice of discount rate. Regulatory 
+authorities often specify the discount rate to be used for calculating the present value of such accrued 
+benefits (i.e. the accrued liabilities). The prescribed discount rate usually takes the form of (i) a specific or 
+maximum rate, (ii) the current market yield on an identifiable group of securities or (iii) the rates implicit 
+in the purchase from insurance companies of immediate and deferred annuities. The choice of discount rate 
+can make a large difference to the measured value of accrued liabilities. A decrease of one percent in the 
+discount rate can lead to as much as a 30 percent increase in the liability. Market valuation methods usually 
+rely on bond yields as discount rates, instead of fixed rates set on a discretionary basis by the authorities. 
+Market discount rates can also be chosen to reflect the nature of the plan's liabilities such as the maturity of 
+the fund or the extent of benefit indexation. The new funding rules introduced in the United States under 
+the 2006 Pension protection Act, for example, require that discount rates are based on the high-quality 
+corporate bond yield curve, choosing maturities consistent with the duration of the plan's liabilities. The main OECD countries that have introduced market-based liability valuations of DB pension funds 
+are Japan, the Netherlands, and the United States, while the United Kingdom has introduced such 
+valuations for purposes of calculating the insurance premia (levy) to be paid to the PPF. Discount rates in 
+all these countries are based on spot or a historic average of bond yields or equivalent swap rates. In Japan, funding rules were reformed in 1997. Prior to this date, the discount rate used for calculating 
+liabilities was prescribed. Since then, the fund can decide its discount rate, which must within 80% to 
+120% of the average yield of 10-year government bonds issued during the previous five years. The 
+measure of accrued benefits also excludes future salary increases and early withdrawals from the plan by 
+departing employees. In the Netherlands, the Financial Assessment Framework (Financieel Toetsings Kader --FTK) 
+introduced in January 2007 requires a market-based valuation of pension liabilities for funding purposes, 
+without any amortisation or smoothing options. As in other countries, estimated future salary growth is not 
+to be considered in the measure of accrued liabilities. Future benefits are discounted using the current yield 
+curve on default-free capital market instruments, rather than the fixed rate of 4 percent as has been 
+historically the case. 15 The market yield is corrected for expected inflation if indexation of accrued 
+pensions is ―unconditional‖, that is, if it does not depend on the performance of the pension fund. Liability 
+measures are also expected to take into account further increases in longevity. Sponsor companies are also 15 There would be a three year transition period during which an institution may use a single discount rate aligned as 
+closely as possible with the duration of the institution's liabilities. 10 required to separate the liabilities that are "conditional" on the investment performance of the pension fund 
+from those that are "unconditional". Funding requirements are applied only to unconditional liabilities. In the United States, one measure of pension liabilities is used for minimum funding requirements 
+while a different one is calculated by the PBGC. The PBGC's measure assumes plan termination and is 
+therefore market-based. The measure for funding purposes, on the other hand, has historically allowed long 
+amortisation periods 16 and the smoothing of both asset returns and discount rates over many years. 17 It also 
+relies on the current unit credit method (current salaries). The Pension Protection Act of 2006 has 
+overhauled funding requirements, including changes to pension liability measures. Transition measures 
+have been introduced for 2006 and 2007, but starting January 1st 2008, pension benefits will be discounted 
+using a corporate bond yield curve, where the timing of future benefit payments would determine the yield 
+to be used (based on the actual curve or three main rates for different maturity segments). The actual 
+discount rate used must be between 90% and 100% of the average over the last two years. Plan assets 
+under the new rules are also based on market value with permitted smoothing over 24 months. Smoothed 
+assets must be within 10% of market value. The Act has also introduced a true termination measure for 
+plans with funding ratios below 80%. Such plans are required to measure their at-risk liability which takes 
+into account additional costs incurred when a plan terminates. These costs are calculated by assuming that 
+workers eligible to retire within the next ten years will do so as early as possible and assuming that 
+beneficiaries choose the benefit option that creates the highest liability. Also, if a plan were at risk for at 
+least two of the preceding four years, its funding target would be increased by the administrative costs of 
+group annuity contracts. 18 Meanwhile, in the United Kingdom, the new guarantee fund, the PPF, relies on market values of 
+pension fund assets and liabilities when calculating premiums to insure pension plans against the 
+bankruptcy of the plan sponsor. On the other hand, the new funding framework from the Pensions 
+Regulator (released in 2005) does not make any specific requirements with respect to valuation methods of 
+assets or liabilities, other than requiring trustees, under the advice of actuaries, to decide on the funding 
+objective appropriate for their plan and choose the actuarial assumptions prudently. 19 The flexibility of the 
+UK approach stems from their elimination of statutory funding rules. However, disclosure requirements 
+have been strengthened, and trustees are now required to instruct their scheme actuary to draw up at least 
+two actuarial valuations: one reflecting the liabilities as an ongoing concern and another one reflecting the 
+cost of securing benefits by the purchase of insurance policies. In several other OECD countries that have not yet moved to market-based valuations of DB pension 
+fund liabilities, policymakers have at least required a change in the fixed or maximum discount rates used 16 The initial unfunded liability and plan amendments could be amortised over 30 years. Experience gains and losses 
+could be amortised over 5 years in the case of single-employer plans and 15 years in the case of multi-
+employer plans. Changes in actuarial assumptions could be amortised over 15 years in the case of single-
+employer plans and 15 years in the case of multi-employer plans. Neither statutes nor regulations defined 
+the amortisation period applicable to changes in unfunded liabilities resulting from changes in actuarial 
+cost methods and asset valuation methods. 17 Since 2004, the discount rate can be chosen from a range between 90 and 105 percent of the weighted average yield 
+of 30-year Treasury securities during the four-year period preceding the plan year. Between 2001-5, when 
+issuance of this bond stopped, the Treasury used a proxy monthly interest rate that attempted to mimic 
+what this rate would have been. 18 See Warshawsky (2007). 19 When choosing discount rates, trustees should take into account either or both the yield on assets held by the fund 
+to pay for future benefits and the anticipated future returns on those assets and the market redemption 
+yields on government or other high-quality bonds. 11 in line with market developments. In Switzerland, for example, it is regulated that for the calculation of 
+accrued benefits the discount rate must be set at 3.5 to 4.5%. In practice, a specially authorized second 
+pillar expert sets this parameter according to the long-term return rate of a low-risk instrument (e.g. the 
+Swiss Confederation bond with a maturity of 10 years) or according to the average return of the pension 
+fund minus a safety margin. In Germany, the discount rate for calculating Pensionskassen liabilities was 
+lowered from 3.25 percent in 2003 to 2.75 percent in 2004 (same as for other pension insurance contracts). 
+A further lowering to 2.25 percent is envisaged from 2007 onwards. In Austria, the discount rate was 
+lowered to 3.5 percent in 2003. In Finland, the statutory discount rate is being reduced gradually from 4 
+percent in 2003 to 3.5 by 2013. Countries where discount rates have not been changed in recent years 
+include Spain (4 percent) and Portugal (4.5 percent). The move towards market-based valuations has also taken place in countries such as Denmark where 
+occupational pensions are DC from an accounting (sponsor) perspective, but the pension funds offer 
+minimum return and benefit guarantees. Industry-wide pension funds (and other pension companies 20 ) 
+have been able to present their account on the basis of fair values since 1 January 2002. Starting on 1 
+January 2003, this has been made compulsory. The main features of the Danish market-based approach are 
+the use of an adjusted yield curve of euro swap rates to set discount rates 21 , the immediate recognition of 
+actuarial gains and losses and the use of current salaries to calculate benefits (CUC method). Similarly, in Sweden, the move to market valuation came into force on January 1, 2006 for life 
+insurance companies and other insurance undertakings qualifying as institutions for occupational pension 
+provision as defined under the EU Directive. The reform to valuations took place together with the 
+adoption of the prudent person rule for regulating investments. Starting 1 January 2007, market discount 
+rates are set based on an average of government bond yields and swap rates, replacing the current fixed 3 
+percent rate (3.5 percent until April 2003). Valuation methods for accounting purposes In the past, business accounting standards in some OECD countries (e.g. the Netherlands, 
+Switzerland) did not require companies that sponsor DB pension plans 22 to show on their balance sheet the 
+net balance of the pension fund's assets and liabilities. Sometimes, disclosure was only required in the 
+notes to the accounts, as was the case in the United States until the reform by the Financial Accounting 
+Standards Board (FASB) in September 2006. Even where disclosure was required, local accounting 
+standards permitted a significant degree of flexibility in the recognition of certain liabilities, with long 
+amortisation periods for initial plan liabilities, plan amendments, and actuarial gains and losses. Assets 
+were sometimes measured at book values, or market values smoothed over some years. In addition to the 20 Other pension companies include life-insurance companies and labour-market related life-insurance companies. All 
+these pension companies are subject to the Act on Insurance Companies. Other pension providers, e.g. the 
+Danish Labour Market Supplementary Pension Scheme (ATP) and LD Pensions, and company pension 
+funds are subject to separate acts. 21 The spread allows for the difference between euro rates and swap rates in Danish krone. Until the beginning of 
+2009, pension funds will be able to use instead a flat discount rate based on the average yield on three 
+government bonds with an average duration of 10 years. 22 The accounting definition of defined benefit plans is similar to that of the OECD and includes all plans in which the 
+sponsor has a legal or constructive obligation to pay further contributions to an ongoing plan in the event of 
+unfavourable plan experience. Following this definition, so-called hybrid plans (such as cash balance 
+plans), where the sponsor is responsible for meeting a minimum of fixed rate of return on investment 
+investments, are classified as defined benefit. On the other hand, if such guarantees are underwritten by the 
+pension fund itself and there is no potential claim on the sponsor, the plan is classified as defined 
+contribution. 12 opaqueness of reporting, the lack of an international valuation standard for pension expensing hampered 
+cross-country comparison of company accounts by investors. This situation has been changing rapidly in recent years with the advent of international accounting 
+standards for post-employment benefits, including pensions. There is currently a high degree of 
+convergence in business accounting standards towards market-based valuation, driven by the efforts of the 
+International Accounting Standard Board (IASB) and FASB. IASB's standard for net pension liabilities, 
+the so-called IAS19 standard, was approved in May 1999 and has been gradually adopted by many OECD 
+countries. A new standard based on IAS19 was introduced in Japan in April 2000, while in the United 
+Kingdom the new standard FRS17 was introduced in November 2001. The European Council adopted a 
+resolution in June 2002 which required all listed companies based in the European Union to comply with 
+this IASB accounting standard (and other International Financial Reporting Standards) in the preparation 
+of their consolidated group accounts for years commencing on or after 1 January 2005. 23 IAS19 is based on market valuation principles, using the PBO measure of pension liabilities 
+(projecting benefits including the effect of future salary growth). Benefits are discounted at a suitable 
+corporate bond rate and actuarial gains and losses may be either amortised over the remaining service 
+period of plan members (above a 10 percent corridor) or immediately recognised in the profit and loss 
+account (see Box 1). A revision in December 2004 introduced a third option, immediate recognition in a 
+separate income statement (see Box 1). The latter is actually the only method permitted under the United 
+Kingdom's own accounting standard, the so-called FRS17. Under FRS 17, actuarial gains and losses are 
+fully and immediately recognised in a Statement of Recognised Gains and Losses (STRGL), which can be 
+viewed as a supplementary profit and loss account. The IAS 19 standard has been integrated into other EU countries' national accounting standard for 
+listed companies. However, some countries permit a rather different accounting for non-listed companies. 
+This is the case in Germany, which may be explained by the book reserving method which is still popular 
+among mid-sized employers 24 . Although local German accounting rules (HGB) permit pension obligations 
+incurred prior to 1987 to be ignored entirely for balance sheet accrual purposes (they must be disclosed in 
+the notes to the accounts), almost all companies fully recognize pension plan liabilities on the balance 
+sheet. The actuarial valuation method and the assumptions (e.g. a discount rate of 6 percent) are usually 
+transposed unaltered from the tax accounts to the financial statements primarily on the grounds of 
+simplification and the desire not to have diverging tax and financial statements. Under German accounting 
+rules, the valuation of liabilities is made on the basis of current salaries and there is a requirement for 
+immediate recognition of past services costs as well as actuarial gains and losses. This contrasts with the 
+valuation method under IAS 19 (projected salaries and option to defer recognition of actuarial gains and 
+losses). Hence, the actual liability reported on the balance sheet under German accounting standards may 
+be higher or lower than that recognized under IAS 19. The German accounting standards board recently 
+rejected a draft accounting standard (E-DRS 19) that followed similar principles to those of IAS 19, but 
+required immediate recognition of actuarial gains and losses in annual expense. The implementation of IAS19 was smoother in the Netherlands, although there has been some debate 
+over the classification of some Dutch pension plans. Dutch accounting guideline RJ 271, while based on 
+IAS 19, leaves some discretion when determining whether a plan is defined benefit or defined contribution. 
+In 2003, the Dutch accounting standards board, RJ, ruled that the sponsoring company only bears the 
+defined benefit liability if that fact is specifically stipulated in its financial agreement with the pension 23 The International Accounting Standards Board has revised IAS 19 in three occasions, in 2000, in 2002 and in 
+December 2004. Another, broader revision of IAS19 is expected to start soon. 24 Currently, 55 percent of occupational pension plans are financed through book reserves, compared to 65 percent ten 
+years ago. 13 foundation. This contrasts with IAS 19 which requires plans to be classified as defined benefit (and 
+liabilities to be recognised on the sponsor's balance sheet) if there is a ―constructive‖ obligation on the part 
+of the plan sponsor to meet pension promises. Following this debate, the government has proposed that 
+plan documents specify whether benefit promises are conditional (on pension fund performance) or not and 
+whether the plan sponsor is responsible for meeting any funding shortfalls. This should help clarify the 
+accounting treatment of pension fund liabilities. Box 1. International pension accounting standard IAS19 IAS 19 prescribes the accounting and disclosure rules with respect to employers' benefits, in particular "post-
+employment benefits such as pensions, other retirement benefits, post-employment life insurance and post-
+employment medical care". Post employment benefits plans are classified as either defined contribution plans or 
+defined benefit plans. Under IAS 19 recommendations, unfunded pension benefits are to be recorded, as a general 
+rule, as liabilities in the balance sheet of the sponsoring employer. The International Accounting Standards Board 
+(IASB) clearly distinguishes two categories: defined contribution plans and defined benefits plans. In defined 
+contribution plans, the employer's annual contribution under the terms of the occupational plan should be recognised 
+as an expense. For defined benefit plans, the rule's most noteworthy aspects are the following:  In general, unfunded pension benefits in defined benefit plans should be recorded as a pension liability in the employer's balance sheet (see amortisation rules below). Actuarial gains and losses (including 
+investment) can be either (i) immediately recognized in the earnings statement, (ii) not reflected on the 
+balance sheet if within a range of 10% of plan assets or obligations (actuarial gains and losses above/below 
+this level can be amortised over the working life of employees.), or (iii) immediately recognised in a special, 
+below-the-line statement.  The projected unit credit method should be used for valuing pension liabilities, as in the PBO measure. Under IAS19, these pension liabilities are referred to as the defined benefit obligation (DBO). The valuation 
+method involves the projection of salaries to the estimated time of realisation of the insured event 
+(retirement, disability, death, departure from company, etc). The discount rate to value liabilities should be 
+based on high quality corporate bond yields at the balance sheet date. Indexation and other benefit 
+increases should be taken into account to the extent that they are part of the formal or constructive terms of 
+the plan.  Pension plan assets should be valued at fair value (smoothing is not permitted). Discount cash flows should not be used if market values exist. A pension plan surplus may be deemed as an asset of the sponsoring 
+employer to the extent the surplus might be refunded to the company or used to reduce future contributions. Accounting reform has also taken place outside the EU. The Japanese accounting standard (ASRB) 
+was introduced in 1998 and became operative for financial years starting April 1, 2000. As is the case 
+under IAS 19, Japanese employers must recognise their pension liabilities on the balance sheet. The main 
+difference with IAS 19 is that the Japanese standard does not use the corridor method for actuarial gains 
+and losses. Also, the discount rate used to calculate the pension liabilities can be based on yield 
+fluctuations during the previous five years of long-term government or high quality corporate bonds. In 
+practice, the 5-year average of the 30-year government bond yield is often used as the reference rate, as 
+annuity conversion rates used by the Pension Fund Association for members who leave their employer or 
+at plan termination are based on this rate. A new pension accounting standard was also introduced in Australia in January 2006, while in March 
+2007, the Korean Financial Supervisory Commission and the Korea Accounting Institute made a similar 
+announcement. Both standards are largely consistent with IAS 19, requiring the recognition of the net 
+value of DB pension plans on the company's balance sheet and changes therein in the profit and loss 
+statement. The implications for the Australian pension system, however, are quite limited, as DB pension 
+funds represent only a small part of the overall market. 14 The other main pension accounting standard, the United States' FAS 87, was reformed in September 
+2006 as a result of FASB's approval of the Statement of Financial Accounting Standards No. 158 (SFAS 
+158). The reformed standard is very close to the United Kingdom's FRS17, as immediate recognition of 
+actuarial gains and losses is now required (see Table 2). The other main features of the US standard, such 
+as the use of the PBO as the measure of pension liabilities and the use fair values for the investment 
+portfolio are also in line with FRS 17 and IAS 19. A new pension accounting standard is also expected to 
+be introduced in Canada by the end of 2007 which would bring it into line with the new US standard. 
+Among the main changes, the new standard would bring the difference between the pension assets and 
+liabilities onto the balance sheet. Table 2. Comparison of FAS87 before and after SFAS 158 Before 
+After 
+Disclosure 
+In the footnotes to the 
+annual report In the balance sheet Actuarial gains and 
+losses 
+Amortised over the 
+remaining service period of 
+plan members 
+(above/below a +/-10 
+percent corridor), although 
+faster amortisation is 
+permitted Immediate recognition Asset values 
+Smoothing of actual asset 
+values permitted over a 
+period no longer than five 
+years (and only for first 
+time adoption) Fair value (with limited 
+exceptions) Valuation date 
+Early measurement date 
+permitted As of the date of the 
+employer's fiscal year-end The pros and cons of market-based valuations for accounting and funding purposes The move towards market-based valuation of pension liabilities by accounting standard-setters is 
+driven, in the words of the IASB, by a desire to increase the understandability, relevance, reliability and 
+comparability of company accounts. International efforts to create convergence in national pension 
+standards and to improve the transparency of pension disclosures are to be commended and further 
+encouraged. However, it is essential that the standards also promote the reliability and relevance of 
+accounts for investors and company managers. The new pension accounting standards are expected to portray more accurately the exposure that 
+shareholders have to unfunded pension liabilities by calculating their ―fair value‖. Yet, DB pension funds 
+exist precisely because there is no security in the market with a similar pay-off schedule as the cashflows 
+generated by a DB pension fund. 25 Pension liabilities have very long durations and are related to economic 
+variables (such as prices, salaries, and labour turnover rates) and demographic factors (such as mortality 
+rates), that, with the exception of inflation, are not incorporated into existing securities. Hence, attempts at 25 As argued by Whittington (2006), laying off a salary-linked DB liability to a third party would raise a moral hazard 
+problem because the sponsoring employer retains control over salaries and hence over the debt. 15 ―marking-to-market‖ pension liabilities represent modelled predictions of value, rather than observed 
+market prices. 26 The application of market valuation to pension liabilities can nevertheless be facilitated if pension 
+liabilities can be sold to third parties. The development in the United Kingdom of the bulk annuity market 
+for pension buyouts could therefore lend further support to the application of market-based valuations. 27 
+However, accounting standards must first solve the internal inconsistency of attempting to derive a market 
+value for pension liabilities while at the same time aiming at estimating the value of liabilities as an 
+ongoing concern. In particular, the PBO, which is the required measure of pension liabilities by IAS 19 and 
+other accounting bodies, does not correspond to the liability that would be sold by an employer to a third 
+party. The liability at termination should not take into account the effect of future salary increases (like the 
+ABO), but should normally be based on insurance company valuations. In most cases, such valuations 
+would be higher than the accounting measure. The choice of discount rate under IAS 19 is also the subject of controversy. In principle, the discount 
+rate should reflect the duration of pension liabilities and take into the account their stochastic nature. If 
+assets are measured at fair values, benefits should be discounted using stochastic, not fixed discount rates. 
+For the purpose of pricing pension liabilities, the level of the discount rate should be determined by factors 
+such as the covariance between wage inflation (the driver of defined benefit pension liabilities) and 
+financial asset prices. Yet, under international accounting standards the market value of corporate bond 
+yields are used to discount liabilities, without any allowance for the riskiness of pension liabilities and their 
+covariance with equity returns. While it may be argued that the use of corporate, rather than government, 
+bond yields already provide an allowance for risk (as corporate yields are normally above government 
+ones), the adjustment may not be appropriate for pension liabilities. 28 Moreover, if fair valuation was 
+strictly applied, each pension fund's liabilities should require a specific discount rate adjustment to reflect 
+the risk of default of the specific sponsor. A final area of contention is that in some countries the net pension liability of the plan sponsor may be 
+lowered via additional employee contributions or reductions in benefits. In a few countries pension 
+liabilities take the form of promises, rather than contractual obligations. 29 These promises may be adjusted 
+in adverse states of the world, creating embedded options that are open to subjective valuation. It is only 
+through the initiative of pension regulators that some of these promises have become a true debt on the 
+plan sponsor. For example, regulators in many OECD countries prohibit reductions in accrued benefits in 
+nominal terms, and some (e.g. in Ireland and the United Kingdom) even require the protection of benefits 
+in real terms for employees that depart before retirement (up to a specific revaluation factor). 26 This type of valuation method is also referred to as ―marking-to-model‖. 27 There are limits to bulk buy-outs stemming in the first instance from price considerations, because insurers are 
+subject to stricter prudential standards in their valuations than pension funds (and must return a competitive 
+return to their shareholders' capital). Buy-out valuations of pension liabilities are even higher than those 
+under FRS17 (by 20-30 percent, according to market sources). Furthermore, there are practical problems 
+with buy-outs of the larger funds. The market pricing of these termination liabilities may therefore not be 
+ascertainable. 28 Khorasanee (2004) has estimated the equilibrium risk premium for discounting UK defined benefit liabilities at 
+about 0.4% per annum. This small risk premium is caused by the low standard deviation of real salary 
+growth and the relatively high long-term correlation between equity returns and salary growth. 29 This is the case of nominal benefits in Japan and Portugal and of revaluation and indexation factors in the 
+Netherlands. 16 Given all these considerations, it may be questioned whether the move towards market-based 
+valuations has been correctly undertaken by accounting bodies. Moreover, it is not clear that the volatility 
+created on the sponsoring company's balance sheet and income statement (especially with immediate 
+recognition of actuarial gains and losses, as under FRS 17 and the reformed US standard, SFAS87) is 
+conducive to better decision-making by company managers or better asset allocation decisions by pension 
+funds. 30 In mature industries, with large pension funds, even small changes in the pension fund's funding 
+status can cause wide swings in the reported earnings of the firm. There is actually little evidence that fair 
+value accounting of pension plans better meets the information needs of investors. 31 Even if it did, the 
+impact of fair valuation on companies' willingness to sponsor DB pension funds should be carefully 
+considered by policymakers, as pension funds offer retirement income products that are not available in the 
+market. 32 There are also important ramifications for financial stability and the possible procyclical 
+behaviour induced by fair value accounting standards that should also be carefully considered. 33 Given the uncertainty surrounding market-based valuation of pension liabilities for accounting 
+purposes, it seems as a minimum necessary to carry out a thorough assessment of the risks underlying 
+pension funds, to provide a detailed description of the assumptions behind any valuation model, and to 
+subject any estimates to sensitivity analysis. 34 Such sensitivity analysis, based on stochastic modelling of 
+the cashflow streams, can provide more relevant information about the funding status of a pension fund 
+than the static deficit measure required by international accounting standards. 35 Such information, which 
+may be incorporated in the notes to the company's annual report, may improve investors', company 
+managers', and pension fund members' understanding of the relevance and reliability of the accountants' 
+estimates. Accounting standard-setters also need to resolve the various approaches currently permitted for 
+recognising actuarial gains and losses (see Box 1). The spreading of actuarial gains and losses over time 
+and the use of 10% ―corridor‖ may be justified by the limited reliability of the ―mark-to-model‖ valuation 
+approach. However, the possibility of smoothing values also gives an incentive to companies to make 
+unrealistic assumptions about rates of return on invested assets. Under international accounting standards, 
+the assumed rate of return on assets should reflect historic investment performance of the pension fund. 
+However, accounting rules often do not provide detailed instructions for picking each year's rate. In the 
+United States, the use of high assumed rates of return helped companies smooth out the impact of 
+investment risk on the company's financial performance. Throughout the 1990s, investment rate 
+assumptions of over 8 percent were common. Since the bursting of the stock market bubble, however, most 30 Borio and Tsatsaronis (2005) argue that ―accounting standards might distort valuations and induce ―artificial‖ 
+volatility in a firm's financial statement, thereby also influencing its behaviour, not least its risk 
+management decisions, in ways that are contrary to economic logic.‖ Groome et al (2006) argue that ―it is 
+not clear that the volatility associated with fair value accounting measures properly focuses insurance 
+companies or pension funds on effective risk management objectives‖. 31 See Hann et al. (2004). 32 This argument applies even if fair value valuation methods can be reliably applied (see Kortleve and Ponds (2006). 33 Burkhardt and Strausz (2004) and Plantin et al. (2005) show how fair value accounting may heighten incentives for 
+procyclical investment behaviour among banks and insurance companies. A similar argument can be made 
+about pension funds. 34 Borio and Tsatsaronis (2005) also suggest disclosing information on ―measurement error, be this as a result of 
+model error or of intentional misreporting‖. 35 A report by the Association of British Insurers (2007) models a pension fund's cash flows and compares them 
+against the FRS 17 pension deficit measure. It finds that ―there is no clear correlation between the size of 
+the FRS 17 deficit and the financial health of the plan. A decrease in staff turnover, for example, had the 
+largest impact on the FRS 17 deficit even though the scheme remained financially solvent‖. 17 companies have continued to use such assumptions despite the fact that returns have been substantially 
+lower for the past five years. According to Coronado and Sharpe (2003), return smoothing contributed to 
+an overvaluation of equity prices of 5% on average after the bubble burst in 2000. Gold (2001) argues that 
+the ―opaque‖ pension accounting system has encouraged an overexposure to equities that would be 
+corrected if it was based on a fair value methodology. A priori, market-based valuation of pension liabilities seems more relevant for regulatory purposes. 
+The regulator's focus is on the value of accrued benefits if the plan is terminated (or ―frozen‖ -accruals are 
+discontinued) as well as the transfer value of accrued benefits for workers that switch to a different pension 
+fund. Market-based valuations can provide a more realistic picture of the pension fund's solvency and can 
+be used to calculate transfer values in a fair, independent manner. However, some of the concerns raised 
+over the potential for short-termist and procyclical investment behaviour also arise in a regulatory context, 
+especially if regulations require pension funds to restore full funding -measured on a market-basis -or the 
+build-up of buffers (or solvency margins) over relatively short periods. The regulators' concern solvency contrasts with the accountant's goal of assessing as accurately as 
+possible the present value of these long-term commitments as an ongoing concern. In particular, regulators 
+are increasingly concerned about the termination value of liabilities and are often taking this measure of 
+liabilities into account when designing funding rules. For regulators, therefore, the ABO, rather than the 
+accountants' PBO, is the relevant measure of pension liabilities. There are other important differences between accounting and funding perspectives on pension fund 
+liabilities. First, from a funding perspective, the valuation of liabilities is also an issue for defined 
+contribution plans that carry some return or benefit collectively guaranteed by the plan members or the 
+pension fund, without any risk on the plan sponsor. 36 Regulators of these so-called pooled-risk or collective 
+defined contribution plans, which exist in countries like Denmark and Iceland and are becoming popular in 
+the Netherlands, require measures of their liabilities, but they have no impact on the balance sheet of the 
+plan sponsor. The accounting treatment of the sponsoring employer is that of a defined contribution plan 
+under both the OECD and IASB definitions. Hence, the difference between the pension fund's liabilities 
+and assets should not be shown on the sponsor's balance sheet. Second, pension regulators do not allow pension funds to make an allowance for sponsor default risk 
+when calculating pension liabilities for funding purposes, as it would defeat the purpose of funding 
+requirements. 37 Regulators also tend to prefer a conservative estimate of pension liabilities, rather than one 
+purely reflecting market conditions in an unbiased manner. For these reasons, regulators' discount rates 
+tend to be below those stipulated by accounting standards. Regulators also tend to make more conservative 
+assumptions about vesting and withdrawal rates. For these reasons, and despite the potential advantages in terms of lower administrative burdens and 
+higher transparency, single-track reporting for accounting and funding purposes seems rather far-fetched. 
+On the other hand, establishing coherence between funding and accounting requirements should be on the 36 The EU Directive on Institutions for Occupational Pension Provision actually requires that pension entities that 
+underwrite any investment or biometric risk are subject to the solvency regulations contained in the Third 
+Life Insurance Directive. The OECD Recommendation on Guidelines on Funding and Benefit Security in 
+Occupational Pension Plans (OECD (2007)) also refers to the need for additional buffers or a solvency 
+margin in such cases. 37 If a higher discount rate is used to value pension liabilities linked to weak plan sponsors, the resulting required 
+funding level will be lower. An adjustment for default risk would be made in a true market-based system. 
+Accounting standards require the use of a common discount rate, based on AA corporate discount rates, 
+while regulators tend to prefer government bond discount rates. 18 agenda as one of the key objectives of any future reform to international accounting standards and 
+regulators' valuation rules. In particular, the economic and demographic assumptions used for funding and 
+accounting purposes should be consistent, and where relevant (e.g. wage or inflation forecast or mortality 
+risk estimates over a common period for the same group of individuals) they should be identical. Such 
+objectives call for closer cooperation between accounting standard setters, the actuarial profession, and 
+pension regulators. III. Revisiting funding gaps and the public policy reaction The funding status of DB pension funds deteriorated throughout the OECD after 2000. 38 Figure 2 
+below shows the two main accounting measures of pension liabilities, the ABO and PBO, for a sample of 
+pension funds in selected OECD countries. On a PBO basis, the highest funding ratios in 2005 were 
+observed in Australia and Norway, while the lowest ones were those of pension funds in Japan. As 
+expected, also, ABO funding ratios are substantially higher than PBO ones. On the basis of ABO 
+measures, pension fund solvency is mainly a concern in Japan, though funding ratios were also low in 
+Canada, Switzerland and the United Kingdom (around 0.90). Figure 2. Accounting measures of funding ratios (ABO and PBO) in selected OECD countries in 2005 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 Australia 
+Belgium 
+Canada 
+Ireland 
+Japan 
+Netherlands 
+Norway 
+Portugal 
+Spain 
+Switzerland United Kingdom United States Funding ratio PBO 
+ABO Source: Watson Wyatt (2005) While the ―perfect storm‖ of negative investment returns and low discount rates accounts for these 
+historically low funding ratios, policymakers are also reconsidering some aspects of regulations which may 
+have constrained the build-up of buffers during the benign 1990s. Part of the blame for today's troubles 
+lies in opaque valuation methods, weak funding regulations, and rules on overfunding that discouraged the 
+high funding levels necessary to withstand adverse market conditions such as the ones experienced over 38 The funding ratios disclosed by regulators are not comparable across countries because of the differences in 
+valuation methodologies mentioned earlier. For international comparisons, it is better to refer to the 
+pension disclosures by companies that present their accounts according to international accounting 
+standards. 19 the last six years. At the same time, regulators should act with moderation at times of market distress and 
+unusual, transitory valuations, such as those observed on long-term bonds in recent years. As accountants and regulators adopt market-based valuation standards, the volatility in security prices 
+means that funding levels can fluctuate drastically in relatively short periods. It is therefore even more 
+important to reform maximum funding rules so that they take into account this inherent volatility of 
+security prices and in particular the infrequent, but big risks, the so-called ―fat tails‖ of frequency 
+distributions. Maximum funding rules may need to be relaxed while minimum funding requirements may 
+need to be tightened. One particularly astonishing statistic is that approximately one quarter of UK 
+companies with defined benefit schemes were still enjoying contribution holidays at the beginning of 2003, 
+despite the growing funding hole. Policymakers also need to consider the impact of other regulations that are intended to protect the 
+rights of beneficiaries but may make DB pension provision excessively costly for employers, especially 
+under the new regulatory and accounting environment. Employers in most OECD countries have an 
+additional disincentive to overfund their pension liabilities stemming from the plan members' ownership of 
+any plan surplus in case of plan termination. The main exceptions are Portugal, the United Kingdom and 
+the United States, where employers can seek a refund, but there are hefty taxes involved (especially in the 
+United States). To the extent that employers bear the downside risk but do not ultimately benefit from the 
+upward potential it is unlikely that they will aim at high funding levels, irrespective of the presence of 
+maximum funding rules. Other regulations that increase the cost of pension provision for employers 
+include those requiring the revaluation and indexation of benefits. Such rules reduce employers' incentives 
+to fund benefits above what is required by minimum funding rules, as they reduce the value of DB plans to 
+employers in managing labour turnover. Even worse, such regulations may be diminishing companies' willingness to sponsor defined benefit 
+plans altogether if they feel that they are faced with an asymmetric risk: funding shortfalls are the 
+employer's problem while funding excesses belong to the members. Key plan design decisions such as the 
+division of contributions between employers and employees, responsibility for underfunding and the 
+reaction to overfunding should ideally be left to market participants, as the parties to each pension plan 
+may find solutions best suited to their particular circumstances. Pension regulations should not impair 
+employers' and employees' ability to adapt the pension plan's design and operation to their specific needs 
+and objectives, especially where such plans are established on a voluntary basis. Instead, what pension 
+regulations should do is to require clarity in the plan documents over rights and responsibilities in cases of 
+overfunding and underfunding. Regulations should also limit benefit enhancements, contribution holidays, 
+and asset reversions to the plan sponsor in a way that encourages high funding levels and the build-up of 
+substantial buffers during favourable periods. Reforming funding regulations Minimum funding standards aim at ensuring that the pension plan's assets at least match and, 
+preferably, exceed by some margin the plan's accrued liabilities. Countries differ on the extent to which 
+they aim at this goal at every measurement date rather than over time. Indeed, in countries where 
+bankruptcy is a rare event, policymakers may be more willing to permit underfunding over long periods of 
+time. On the other hand, increasing competition in world markets makes market positions and profitability 
+increasingly unstable. A company sponsoring a defined benefit plan runs the risk of assuming liabilities 
+that can grow dramatically relative to its revenues. By running a pension plan in an underfunded manner, a 
+healthy, profitable company can expose itself to a heavy double blow to its earnings if its market position 
+deteriorates at the same time as its workforce ages and the drawdown of benefits intensifies. This is 
+precisely what happened to the steel and airline companies that went bankrupt over the last decade in the 
+United States. 20 The presence of insolvency guarantee funds also affects the design of funding requirements. If 
+premiums to the guarantee fund are risk-based, taking into account the market value of liabilities if the plan 
+was to be terminated, funding rules could theoretically be superfluous. This seems to be the rationale 
+behind the elimination of the minimum funding requirement in the United Kingdom and its replacement by 
+risk-based premiums to the PPF. The level of protection afforded by the PPF could, if the premiums were 
+truly risk-based, be as high as it would be under a strict funding requirement. In practice, however, it is 
+very difficult to set fully risk-based premiums as they typically imply higher costs for sponsoring 
+employers with lower credit ratings (often smaller companies). Any departure from risk-based premiums 
+creates incentives for underfunding (moral hazard) that are best corrected with funding rules. The level of minimum funding required by regulators also depends on how accrued benefits are 
+defined and how assets and liabilities are measured. In general, regulators use an ABO-type measure, the 
+main exception being Spain where a PBO-type measure is used. Most countries also assume that all 
+workers in the plan will qualify for full vesting of their accrued rights and exclude withdrawals from the 
+plan. This produces a more conservative (higher) measure of liabilities than on a plan termination liability, 
+all else being equal. The valuation method must also be considered when determining the funding requirement. A fully-
+funded pension plan may reveal itself underfunded on a plan termination basis and therefore insolvent if a 
+―slow‖ actuarial cost method is used to allocate liabilities or discount rates are above market values. In 
+such cases, a higher funding target may be established, although a better solution may be to reform the 
+valuation method. In general, the valuation method used for funding purposes should not lead to a measure 
+of liabilities lower than that calculated on a plan termination basis. Otherwise, the funding ratio will give a 
+false impression of the solvency of the plan. The move towards market-based measures of liabilities, and in particular the use of discount rates 
+based on bond yields, also calls for gradualism in correcting underfunding. Otherwise, an unnecessary and 
+counterproductive degree of contribution volatility will be introduced. Regulatory forbearance may be 
+specially required at times of market distress. Good examples of this are the province of Quebec in Canada 
+and Ireland, where recovery periods were extended after the 2000 market downturn. In general, countries where DB funding shortfalls are solely or largely the responsibility of the 
+sponsoring employer tend to allow longer recovery periods (e.g. 5 years in Canada, 7 years in Japan and 
+the United States, between 3 and 10 years in Ireland, depending on the pension fund). As pension benefits 
+are effectively backed by the sponsoring employer's capital, funding rules can be more lenient than in 
+countries where pension funds effectively operate independently of the sponsors, receiving contributions 
+from both employers and workers. Industry-wide pension funds in countries such as Denmark and Iceland cannot fall back on the 
+sponsoring employer to cover funding shortfalls. Employers' liabilities are limited to specified 
+contributions (contribution rates are fixed), which means that pension fund members collectively bear 
+investment and longevity risks. As a result of pension funds' arms-length relationship with their sponsors, 
+regulators in these countries require relatively rapid recovery of funding shortfalls and also require a 
+―buffer‖ or solvency margin above the full funding level, as is the case for insurance undertakings. In 
+Denmark, for example, the market value of the euro swap curve is used to value pension fund liabilities 
+every six months. Pension funds must at all times have sufficient assets to cover their technical provisions 
+(the pension fund's liabilities) and a solvency margin which can be no less than 4 percent of technical 
+provisions plus 0.3 percent of a measure of the investment risk exposure. If funding levels decline below 
+the stipulated solvency margin, the institution must draw up a plan to restore its financial position. The 
+supervisor decides the maximum recovery period, depending on the size of the shortfall. When the pension 
+fund's capital is less than one third of the solvency margin (or less than the minimum capital requirement), 21 the recovery period is usually stated in months and does not normally exceed one year. The recovery plan 
+may include raising employee contributions, cutting bonus reserves and, ultimately, reductions in 
+minimum benefit or return guarantees (as happened in 1994 and 1999). In the Netherlands, pension funds are in intermediate situation with respect to their independence 
+from the sponsors. The revaluation and indexation of benefits is the responsibility of the pension fund, 
+which can alter it in line with the funding level. Hence, this risk is borne collectively by plan members. On 
+the other hand, nominal benefits are a shared responsibility of plan sponsors and workers. This situation is 
+reflected in the regulatory approach. Under the FTK, as long as indexation is conditional (on the funding 
+ratio, normally), nominal pension commitments are measured once a year using the market value of the 
+Euro swap curve for discounting. The funding ratio must be at least 105% at any time and the DNB must 
+be informed immediately of any shortfall. A strategy must be developed within three months, and actions 
+must be taken within three years to enable the asset value to be brought back up to the 105% level. Pension 
+funds are also required to meet a solvency test; the probability of underfunding within one year cannot be 
+higher than 2.5 percent. Pension funds have 15 years to correct funding levels if the test is not met. Finally, 
+pension funds must provide evidence to the supervisor that their funding and investment strategy is 
+consistent with their indexation ambition, under a so-called continuity test. IV. Implications for occupational pension provision and pension funds' investment behaviour The most immediate effect of the emergence of funding gaps in various OECD countries since 2000 
+has been the need to increase contributions to occupational pension plans. In countries like the United 
+Kingdom or the United States where employers had been taking contribution holidays throughout most of 
+the 90s, the sudden jump in pension contributions has dealt a severe blow to company cash flows and in 
+some cases may have contributed to debt downgrades. Yet, some corporations have been able to dampen 
+the impact of funding requirements by borrowing in capital markets and transferring the proceeds to the 
+pension fund or allocating physical assets owned by the company to it. For example, in the United States 
+an airline can plug a funding gap by transferring a plane to the pension fund and leasing it back from the 
+fund. The largest increases in contribution rate have actually taken place in Canada the Netherlands. As 
+shown in Figure 1, pension fund contributions in Canada went up from 0.5 percent of GDP in 2001 to 2.2 
+percent in 2005. In the Netherlands, contributions went up from 2.8 percent of GDP in to 4.5 percent over 
+the same period. 22 Figure 1. Contributions to Pension Funds as a % of GDP, 2001-2005 Portugal Canada Netherlands Spain United Kingdom Denmark 0.0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5 5.0 2001 
+2002 
+2003 
+2004 
+2005 Pension fund contributions as a % of GDP Source: OECD Global Pension Statistics In addition to this short term effect, the funding gaps and the regulatory and accounting initiatives of 
+the last few years are bringing about deeper, structural changes in the design and operation of occupational 
+pension plans in OECD countries. Three in particular are noteworthy. First, the move to funding in what 
+have been traditionally occupational pension systems dominated by book reserve systems. Second, the 
+increased popularity of asset-liability risk management techniques by pension funds. Third, the closure of 
+defined benefit plans and their substitution by a whole spectrum of new plans with different degrees of risk 
+sharing features. New funding initiatives in book reserve systems In countries like Germany that have traditionally financed significant parts of their occupational 
+pension liabilities through book reserves, the move towards market-based accounting standards has driven 
+some sponsors to separate pension assets into special purpose entities called contractual trust agreements 
+(CTAs). 39 These entities are not subject to any of the regulations that apply to the two main types of 
+German pension funds (Pensionskassen and Pensionsfonds) and other financing vehicles (e.g. direct 
+insurance with a life insurance undertaking). For local German accounting purposes they are treated on-
+balance sheet as occupational pension plan assets. Under international accounting standards, CTAs are 
+treated as plan assets if it can be shown that they enable protection against the insolvency of the sponsor. 
+Among other factors, sponsors' preference of CTAs over Pensionskassen or Pensionsfonds has been 
+influenced by the higher discount rates applied under the CTA-book reserve system, typically 6 percent. 
+The other two financing vehicles, on the other hand, are required to use a 2.75 percent discount rate. 39 The first major German company to set up a CTA in Germany was Hewlett Packard in the 1980s. By December 
+2006, all the 30 companies that make up the DAX stock market index all used off-balance-sheet funding 
+for their pension liabilities, with the CTA being the most popular vehicle. A recent survey by Towers 
+Perrin (2007) has estimated that nearly two-thirds (65%) of the pension liabilities at these firms were 
+externally funded in 2006. 23 The growth in ALM, changes in pension fund investment, and financial stability considerations A largely positive upshot of the move to market valuations for both funding and accounting purposes 
+is that pension funds will need to take a closer look at their liabilities when deciding on their investment 
+strategy. This is leading to a significant departure from standard practice in countries like the United 
+Kingdom or the United States, where the investment focus was on benchmarking performance relative to a 
+market index, with little regard to variations in the funding ratio. While asset-liability management (ALM) 
+has been used for some time, it had not played such a central role in the assessment of pension fund 
+investments. In the United Kingdom, investment policies are being revised paying due regard to market valuations 
+of the pension fund's liabilities. Of all OECD countries, the United Kingdom used to have the highest 
+pension fund allocation to equities, up to 70 per cent on average. This allocation has been coming down in 
+recent years (to less than 60 percent by December 2005 40 ), largely as a result of the reform of accounting 
+standards and the introduction of the PPF. However, it is unlikely that pension funds will go as far as one 
+large pension fund (Boots), which in 2000 shifted to a fully fixed income-based portfolio, as it was felt that 
+it was the closest match to the fund's liabilities and maximised tax benefits for the sponsoring employer. 41 
+Most pension fund trustees, employers and consultants consider that there is no perfect match for DB 
+pension liabilities (especially for active workers) and that some exposure to equities and alternative asset 
+classes is worth the risk involved. A similar shift towards bonds (especially inflation-indexed) has also taken place in Canada in recent 
+years. In Denmark, after the new fair valuation system and risk-based supervision were introduced in 2001, 
+pension funds increased their exposure to bonds by up to 40 percent (and increased their duration) and 
+decreased their allocation to equities by approximately 70 percent. In Switzerland, where fixed discount 
+rates are still being used, there is also evidence of a significant effect of the nature of liabilities on pension 
+fund portfolios (Gerber (2005)). Even in other countries like the Netherlands, where ALM techniques have been in use for some years, 
+the arrival of new funding rules and accounting standards has also caused some changes in pension fund 
+portfolios. While the percentage allocation to bonds by pension funds has hardly increased, there has been 
+a rise in the duration of the bond portfolio. (Kakes and Broeders (2006)). This has improved the matching 
+with the pension funds' liabilities, though the current duration gap is still about ten years, according to the 
+central bank (DnB). An investment strategy consistent with the pension fund's liabilities (including those aiming at 
+cashflow matching, so-called liability-driven investment or LDI) is in principle a desirable outcome of 
+market-based funding and accounting valuations. However, the potential implications for the long-term 
+efficiency of the asset allocation and financial stability need to be carefully considered. When accompanied 
+with strict funding rules, the result may be suboptimal long-term asset allocation, higher funding costs 42 , 
+and a decrease in financial stability. The potential disruptive effect of rapid changes in pension fund asset 
+allocation is exemplified by the sharp decline of yields on UK inflation-indexed bonds (gilts) between 
+2004 and 2006, substantially below those in the euro area. UK pension funds were largely responsible for 
+this phenomenon, together with the ―scarcity‖ of these bonds. 43 This evidence highlights the potential for 40 See OECD (2006) for data on pension fund asset allocation in OECD countries. 41 Recently, the Boots' pension fund decided to shift back up to 15% of its portfolio to other assets. 42 See Blome et al. (2007) in this volume. 43 See the report by the Committee on the Global Financial System (2007) of the Bank for International Settlements 
+and Ervin and Schich (2007). 24 procyclical behaviour among pension funds. New regulations, such as the Dutch FTK, remain to be tested 
+in this regard. Up to now, Dutch pension funds have tended to steer changes in their asset allocation by 
+altering the ratio of net purchases of different asset classes, rather than through net sales. 44 The increasing popularity of ALM and LDI strategies also calls increasingly into question regulatory 
+frameworks based on portfolio limits as certain asset classes may be a best match for pension funds trying 
+to immunise their liabilities. While diversification within asset classes is still a relevant investment 
+principle, diversification applied to assets classes needs to be considered in the context of the liabilities of 
+long term investors like pension funds. Asset allocations should be based on liabilities, and in some cases, 
+a high investment in certain assets classes may be in order. Further policy focus is also needed in the implications of ALM and LDI strategies for public debt 
+management. The government is the only entity capable of issuing riskless (i.e. inflation-linked) long-term 
+paper that employers can use to match long-term interest rate guarantees. Bonds indexed to wages or 
+economic growth would be even more attractive for DB pension funds, given the link of their liabilities to 
+real variables. In addition, policymakers need to pay more attention to the measurement and management 
+of mortality risk by pension funds. ALM-based investment strategies need as much a focus on 
+demographic risks as on investments. The decline in DB plans Ironically, while funding concerns in occupational DB systems are in the vanguard of the public 
+policy debate, their constituency is slowly (or rapidly in some cases) shrinking. Only a few countries like 
+Germany, the Netherlands and Japan have experienced some resistance to the decline in the number and 
+coverage of defined benefit plans that has affected other countries like Australia, Canada, the United 
+Kingdom, and the United States. Even in these countries, it is not clear how long their popularity will last. 
+Changes have taken place already in the Netherlands, with the shift over the last few years from final 
+salary to career average plans with conditional indexation, and a further shift to pooled-risk or collective 
+defined contribution arrangements expected. In Japan, most defined benefit plans have been transformed 
+into cash balance arrangements (still treated as defined benefit under both the IASB and the OECD 
+classifications, as the sponsoring employer bears investment risk until up to retirement). Underlying changes in the economy, such as the shift in jobs to the service sector appear to explain 
+much of the decline in DB plan coverage in some countries like the United Kingdom or the United States. 
+The service sector in these countries has been traditionally less unionised and there was therefore weaker 
+pressure for DB type pension provision. However, the more recent decline in coverage over the last decade 
+in the United Kingdom appears to be linked to the impact of market-based accounting standards and the 
+increasing cost of regulations (such as the revaluation and indexation requirements). 45 In particular, the 
+introduction of FRS 17 seems to have been an important factor in some firm's decision to terminate DB 
+plans, especially highly leveraged ones (Klumpes and Whittington (2003)). The introduction of the PPF may also affect DB provision. The portfolios shift to bonds by pension 
+funds in the UK since 2003 appears to be at least partly related to the decision by corporate treasurers 
+acting as scheme trustees to avoid hikes in the PPF levy by locking in as far as possible the funding status 
+of the plan through better matching of the FRS17 value of their assets and liabilities (pension funds with 44 See Kakes and Broeders (2006). 45 By April 2005, almost half of all UK DB plans active members were in a plan closed to new entrants (Government 
+Actuary's Department (2006)). 25 funding ratios above 130 percent do not pay the levy 46 ). The PPF introduced risk-based premiums in 
+2006/7 47 and raised the total value of the levy in 2007/8. Some employers, especially smaller ones, may 
+find the additional cost of sponsoring DB plans exacting. However, if premiums are unrelated to risks, the 
+danger would be potentially undesirable subsidies and inefficient allocation of capital. In the United States, tax regulations setting low ceilings on overfunding and rules over the ownership 
+of any funding excess (such as the tax on reversion to the sponsoring employer) may have reduced the 
+attractiveness of prudent funding. In addition, the presence of a guarantee fund (the PBGC) may have also 
+facilitated employers' withdrawal from DB pension provision. This moral hazard risk is being addressed 
+with changes to the premium charged and new regulations that limit benefit increases by underfunded 
+plans. The impact of minimum funding requirements on DB pension provision is more complex. Employers 
+have an interest in stable contribution rates, so a funding requirement based on an economically 
+meaningful funding target is likely to be consistent with their own funding objectives, while at the same 
+time enhancing the retirement benefit security for workers. However, complex funding rules and short 
+recovery periods can raise the cost of DB pension provision dramatically, especially as additional 
+contributions may be required during bad economic times. The new pension landscape As DB plans decline in importance, the question needs to be raised whether workers are better served 
+by the new DC arrangements being put in place. Certainly, for employees in the growing service sector and 
+in dynamic industries such as information technology DB arrangements may not be attractive if they 
+expose them to benefit losses because of the lack of portability of accrued benefits and the absence of 
+revaluation regulations (as is the case in the United States, for example). However, portable DB plans such 
+as those in place in the Netherlands (at least for workers who move within the same industry), would seem 
+to be superior in a welfare sense to ―pure‖ (unprotected) defined contribution plans where all risks and 
+costs are borne individually by workers. 48 Ultimately, employers and policymakers need to focus on solutions that provide for efficient risk 
+sharing of the two main risks in retirement provision: investment and longevity. Solutions that are in 
+between traditional DB plan and ―pure‖ DC plans (where members bear investment and longevity risks on 
+an individual basis) have been around for some time. In the US, for example, employers can sponsor cash 
+balance plans that can offer protection against investment risk (through an interest rate guarantee) but lay 
+all longevity risk on the individual (since benefits are usually paid as a lump-sum). Employers in the UK 
+and other countries are exploring similar arrangements to replace their traditional DB arrangements. It is also possible to design a defined benefit plan where only nominal benefits are guaranteed, while 
+revaluation and indexation are adjusted on the basis of the performance of the fund, as is the case in the 
+Netherlands. The risks of a defined benefit plan can also be shifted to the members on a collective basis by 46 Since 2006, any plan that is more than 125% funded on a Pension Protection Fund basis will not be liable to pay 
+the risk based element of the pension protection levy. 
+47 See Stewart (2007). The risk-based part of the levy makes up 80% of the total. It is based on a plan's underfunding 
+risk and the sponsoring company's insolvency risk. The main risk that is not considered in the levy is 
+investment risk. 48 Forcing portability of DB plans in countries like the United States by introducing statutory revaluation of accrued 
+benefits by departing employees does not appear the right solution. Such policies simply shift portability 
+costs to a single company, rather than sharing them among different companies, as in the Dutch industy-
+wide arrangements. 26 transforming the pension fund into a mutual insurance entity that provides guarantees similar to those of a 
+defined benefit plan. Such entities are wide-spread in countries like Denmark and Iceland and are also 
+common for public sector workers in Spain. Such plans are treated as defined contribution under 
+accounting standards but provide some degree of protection against market volatility and longevity risk. In 
+the Netherlands, some listed companies that have adopted international financial reporting standards have 
+also had their plans classified as defined contribution by fixing their contribution rate over long periods. These ―protected‖ DC plans (including the mutual insurance model of Denmark and Iceland and the 
+―collective‖ DC plans of the Netherlands) may be superior – in a welfare sense -not just to ―unprotected‖ 
+DC arrangements but also to traditional and hybrid DB plans, as they offer a higher level of protection 
+against sponsor insolvency and greater flexibility to address investment and longevity risks. Pension funds 
+in these countries offer an efficient form of intergenerational risk sharing between different generations of 
+workers tied to the same fund through their employment contract. Such risk sharing cannot be replicated 
+via ―unprotected‖ DC plans, because of the general requirement to grant members choice of investment. The shift to ―pure‖ or unprotected DC plans also raises additional challenges for policymakers. In 
+countries that have had a marked shift from DB to such DC plans, employer contributions to the latter tend 
+to be much lower. This has been widely reported in the United Kingdom, a country where private pension 
+plans are expected to account for a large portion of retirement income. In the United States DB plans tend 
+to be offered as part of the employment contract and have automatic enrolment, while employees must 
+specifically request membership of DC plans. DC plans also involve investment decisions that may not be 
+easily understood by plan members. In addition to difficult risk-return analysis, plan members must be able 
+to compare different fee structures. Financial education is clearly necessary to overcome some of these 
+deficiencies. Policymakers also need to play a role to ensure that the latest academic wisdom on retirement 
+saving quickly filters through to the financial industry. Employers, too, can play a key role in educating 
+their employees, in facilitating investment choice among a few suitable investment options, and providing 
+low cost default alternatives that meet as best as possible the retirement benefit security goal of workers. The risk transfer to individual households is all the more worrying given the decreased appetite 
+among insurers for bearing long term risks such as those underlying pension products like annuities. In the 
+United Kingdom, for example, despite the requirement to buy annuities before 75, there are only two main 
+annuity providers. The possible move towards fair valuation of life insurance companies could lead to a 
+further retrenchment from these markets. The controversy over accounting of life insurance companies 49 , 
+which mirrors that of DB pension plans, calls at least for a closer scrutiny by policymakers of its potential 
+consequences for private pension provision and a reassessment of the importance of social security 
+systems. V. Conclusion The trend towards market-based valuation of pension plan liabilities is in general a welcome 
+development as it may offer a more realistic picture of the solvency position of DB pension funds and 
+improve the transparency and international comparability of company accounts. For financially weak plan 
+sponsors, market-based measures of the plan termination liability can help supervisors decide on 
+appropriate remedial action. Market valuations should also help improve the coherence between valuations 
+for funding and accounting purposes, particularly with respect to the choice of economic and demographic 
+assumptions. Differences in actuarial cost methods are likely to remain, however, as pension regulators and 
+accountants often take different perspectives when valuing pension liabilities. In particular, pension 
+regulators are increasingly concerned about the termination value of benefits (ABO), tend to make more 
+conservative assumptions about vesting and withdrawal rates and use lower discount rates. 49 See e.g. Fore (2003). 27 Both accountants and regulators should also require that economic and demographic assumptions are 
+based on best estimate points, with the necessary sensitivity analysis and risk (prudent) margins built into 
+the valuation framework. The assumptions used for calculating pension benefits and comparing assets and 
+liabilities should also be tailored for each fund in order to take into account the specific economic and 
+demographic experience of the covered population. These best estimate assumptions should be updated in 
+each reporting period to reflect new information on the actual experience of the pension plan over that 
+period that is expected to continue into the future. The review of valuation methods has also shown some inconsistencies in the accounting standard for 
+pension liabilities (IAS19), which has been implemented in most OECD countries. Business accountants 
+value pension liabilities for the firm as an ongoing concern, using the PBO measure which includes salary 
+increases up to retirement. Yet, market prices for such long-term, non-traded liabilities cannot be found. If 
+employers were to sell their liabilities, as has been occurring in the United Kingdom recently, they would 
+pay a price based on the ABO measure, which is based on accrued benefits. A move to fair value 
+accounting, where smoothing or amortisation of actuarial liabilities over time is no longer possible, 
+therefore risks misrepresenting the long-term economic cost of pensions as an ongoing concern. It can also 
+lead to sub-optimal asset allocation decisions and have negative implications for financial stability as 
+employers and pension funds overreact to short term changes in asset values and engage in procyclical 
+investment behaviour. The introduction of market-based valuation also calls for a different approach to funding regulations. 
+A certain moderation in rectifying underfunding problems is in order. When setting maximum recovery 
+periods, regulators should take into account the potential disruption to long-term investment. At the same 
+time, regulators need to provide the necessary incentives for the build-up of buffers in good economic 
+times. The goal of high funding specifically calls for higher overfunding ceilings than is currently the case 
+in some countries. Ultimately, however, many sponsors may prefer to move away from defined benefit plans that expose 
+them to significant risks without any upside potential, as ―surpluses‖ cannot normally be recovered by the 
+sponsoring employer, and when they can they are often subject to heavy taxes. New pension arrangements, 
+like cash balance and other hybrid pension plans, can encourage more meaningful risk sharing, where, in 
+particular, the cost of anticipated increases in life expectancy are borne by each generation of workers. The 
+transformation of pension funds into mutual-type entities that underwrite retirement risks may also be 
+attractive in some countries, as long as it can mean the reclassification of the pension plan as a defined 
+contribution one for business accounting purposes. In some OECD countries, however, the main type of 
+plan replacing defined benefit ones are ―pure‖ defined contribution ones, where members bear the full 
+weight of investment and longevity risk, at least until retirement. Further analysis of these plans and their 
+policy implications is needed to avoid their pitfalls. 28 REFERENCES Antolín, P. (2007), Longevity risk and private pensions, OECD Working Paper on Insurance and Private 
+Pensions No. 3, January 2007. Association of British Insurers (2007), Understanding Companies' Pension Deficits: Occupational 
+Defined-Benefit Schemes, ABI Research Paper 3, March 2007. Bader, L. and Gold, J. (2003), ―Reinventing Pension Actuarial Science‖, in The Pension Forum, Volume 
+14, No. 2, Society of Actuaries, January 2003. Blome, S., Franzen, D., Scheuenstuhl, G. and Yermo, J. (2007), ―Pension Fund Regulation and Risk 
+Management: Results from an ALM Optimisation Exercise‖, this volume. Borio, C., and Tsatsaronis, K., (2005) ―Risk in financial reporting: status, challenges and suggested 
+directions.‖, BIS workshop on ―Accounting, risk management and prudential regulation‖, Basel, 11-
+12 November 2005. Burkhardt, K. and Strausz, R. (2004), ―The Effect of Fair vs. Book Value Accounting on the Behavior of 
+Banks‖, mimeo, Berlin: Free University of Berlin. Cass Business School (2005), Mortality Assumptions Used in the Calculation of Company Pension 
+Liabilities in the EU, Cass Business School. Committee on the Global Financial System (2007), Institutional Investors, Global Savings and Asset 
+Allocation, CGFS Papers No. 27, February 2007, Basel: Bank for International Settlements. Coronado, J. L. and Sharpe, S. A. (2003), Did Pension Plan Accounting Contribute to a Stock Market 
+Bubble?‖, Brookings Papers on Economic Activity, 1: 323-371. Day, A., (2003) Financial Economics and Actuarial Practice In ―The Great Controversy: Current Pension 
+Actuarial Practice in Light of Financial Economics Symposium‖, Society of Actuaries, June 2003. Ervin, C. and Schich, S. (2007), Institutional Intermediation of Retirement Saving: Challenges for Defined 
+Benefit Pension Funds, in ―Challenges to the Financial System – Ageing and Low Growth‖, Third 
+Conference of the Monetary Stability Foundation, pp. 83-97, May 2007. Exley, J. (2006), The Fair Value Principle, in Niels Kortleve, Theo Nijman and Eduard Ponds (eds.) ―Fair 
+Value and Pension Fund Management‖, Elsevier: Amsterdam. Fore, D. (2003), ―The Impact of Fair Value Accounting Standards on the Portfolio Composition of Life 
+Insurance Companies‖, TIAA-CREF Institute Working Paper, 13-050103, May. Gerber, D. S. (2005), ―How Demography Impacts Asset Allocation and Costs: Evidence for the Pension 
+Fund Industry in Switzerland‖, mimeo, April 2005. 29 Gold, J. (2001), ―Accounting/Actuarial Bias Enables Equity Investment by Defined Benefit Pension 
+Plans.‖, Pension Research Council Working Paper 2001-5, The Wharton School. Government Actuary's Department (2006), Occupational Pension Schemes 2005: The thirteenth survey by 
+the Government Actuary, London: The Government Actuary's Department, June 2006. Groome, T. Blancher, N., Haas, F., Kiff, J., Lee, W., Mills, P., Nakagawa, S., Ramlogan, P., Khadarina, O. 
+and Kim, Y. (2006), ―The Limits of Market-based Risk Transfer and Implications for Managing 
+Systemic Risks‖, IMF Working Paper No. 217, September 2006. Groupe Consultatif Actuariel Europeen (2001), Actuarial Methods and Assumptions used in the Valuation 
+of Retirement Benefits in the EU and other European countries, edited by David Collinson, 
+December 2001. Groupe Consultatif Actuariel Europeen (2006), Minimum Technical Provisions for Defined benefit 
+Occupational Pensions in the EU: A Summary of Minimum Funding Requirements, edited by Chinu 
+Patel, December 2006. Hann, R., Heflin, F., and Subramanyam, K. R. (2004), Fair-value based pension accounting, mimeo, 
+December 2004. Kakes, J. and Broeders, D. (2006), ―The Sustainability of the Dutch Pension System‖, Occasional Studies 
+Vol. 4/No. 6. Khorasanee, Z (2004), ―What Discount Rate Should be Used to Value Defined Benefit Liabilities‖, 
+Pensions Institute Discussion Paper PI-0402, January 2004. Klumpes, P., Li, Y. and Whittington, M. (2003), ―The Impact of UK Accounting Rule Changes on Pension 
+Terminations‖, Warwick Business School Working Paper, August. Kortleve, N. and Ponds, E. (2006), Pension Deals and Value-Based ALM, in Niels Kortleve, Theo Nijman 
+and Eduard Ponds (eds.) ―Fair Value and Pension Fund Management‖, Elsevier: Amsterdam. McGill, D., Brown, K. N., Haley, J. J., and Schieber, S. J. (2005), Fundamental of Private Pensions, eighth 
+edition, Oxford: Oxford University Press. OECD (2006), Pension Markets in Focus, Issue 3, October 2006, Paris: OECD. OECD (2007), Recommendation on Guidelines on Funding and Benefit Security in Occupational Pension 
+Plans, this volume. PBGC (2006), Annual Management Report, Fiscal Year 2006, November 15, 2006. Plantin, G., Sapra, H., and Shin, H. S. (2005), ―Marking to market: Panacea or Pandora's Box? " , London: 
+London School of Economics, September 2005. Pugh, C. (2007), Funding Rules and Actuarial Methods, in ―Protecting Pensions: Policy Analysis and 
+Examples from OECD Countries‖, Private Pension Series No. 8, Paris, OECD. Schich, S. (2005), ―Corporate Pension Liabilities and Funding Gaps‖, Financial Market Trends, Volume 
+2005/1, No. 88. 30 Standard and Poor's (2006), Pensions & Other Post Employment Benefits Report, June 6, 2006. Towers Perrin (2007), Pensionsverpflichtungen DAX 2006, Rauser-Towers Perrin, May 2007. Warshawsky, M. (2007), The New Pension Law and Defined Benefit Plans: A Surprisingly Good Match, 
+Pension Research Council Working Paper WP2007-6, February 2007. Watson Wyatt (2005), 2005 Global Survey of Accounting Assumptions for Defined Benefit Plans, Watson 
+Wyatt Worldwide. Whittington, G. (2006), ‗Accounting Standards for Pension Costs', in ‗The Oxford Handbook of Pensions 
+and Retirement Income' edited by Gordon L. Clark, Alicia H. Munnell, and J. Michael Orszag, 
+Oxford University Press, 2006; Oxford. 

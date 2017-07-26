@@ -1,0 +1,1124 @@
+Please cite this paper as: Siciliani, L., V. Moran and M. Borowitz (2013),  " Measuring and 
+Comparing Health Care Waiting Times in OECD Countries " , 
+OECD Health Working Papers, No. 67, OECD Publishing, 
+Paris. 
+http://dx.doi.org/10.1787/5k3w9t84b2kf-en OECD Health Working Papers No. 67 Measuring and Comparing 
+Health Care Waiting Times in 
+OECD Countries Luigi Siciliani, Valerie Moran, 
+Michael Borowitz JEL Classification: I10, I18 Unclassified DELSA/HEA/WD/HWP(2013)8 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 18-Nov-2013 
+___________________________________________________________________________________________ 
+English text only DIRECTORATE FOR EMPLOYMENT, LABOUR AND SOCIAL AFFAIRS HEALTH COMMITTEE Health Working Papers OECD Health Working paper No. 67 MEASURING AND COMPARING HEALTH CARE WAITING TIMES IN OECD COUNTRIES Luigi Siciliani, Valerie Moran and Michael Borowitz JEL codes: I10, I18 All Health working papers are now available through the OECD's Internet Website at 
+http://www.oecd.org/health/workingpapers JT03348725 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. DELSA/HEA/WD/HWP(2013)8 
+Unclassified English text only Cancels & replaces the same document of 18 November 2013 DELSA/HEA/WD/HWP(2013)8 2 DIRECTORATE FOR EMPLOYMENT, LABOUR AND SOCIAL AFFAIRS www.oecd.org/els OECD HEALTH WORKING PAPERS http://www.oecd.org/health/workingpapers This series is designed to make available to a wider readership health studies prepared for use within the 
+OECD. Authorship is usually collective, but principal writers are named. The papers are generally 
+available only in their original language – English or French – with a summary in the other. Comment on the series is welcome, and should be sent to the Directorate for Employment, Labour and 
+Social Affairs, 2, rue André-Pascal, 75775 PARIS CEDEX 16, France. The opinions expressed and arguments employed here are the responsibility 
+of the author(s) and do not necessarily reflect those of the OECD. Applications for permission to reproduce or translate 
+all or part of this material should be made to: Head of Publications Service 
+OECD 
+2, rue André-Pascal 
+75775 Paris, CEDEX 16 
+France Copyright OECD 2013 DELSA/HEA/WD/HWP(2013)8 3 ABSTRACT Waiting times for elective (non-emergency) treatments are a key health policy concern in several 
+OECD countries. This study describes common measures on waiting times across OECD countries from 
+administrative data. It focuses on common elective procedures, like hip and knee replacement, and cataract 
+surgery, where waiting times are notoriously long. It provides comparative data on waiting times across 
+twelve OECD countries and presents trends in waiting times in the last decade. Waiting times appear to be 
+low in the Netherlands and Denmark. In the last decade the United Kingdom (in particular England), 
+Finland and the Netherlands have witnessed large reductions in waiting times which can be attributed to a 
+range of policy initiatives, including higher spending, waiting-times target schemes, and incentive 
+mechanisms which reward higher levels of activity. The negative trend in these countries has however 
+halted in recent years and in some cases reverted. The analysis also emphasizes systematic differences 
+across different waiting-time measures, in particular between the distribution of waiting times of patients 
+treated versus the one of patients on the list. For example, the mean waiting time of patients on the list is 
+generally higher than the mean waiting time of patients treated though we can find examples of the 
+opposite. Mean waiting times are systematically higher than median waiting times and the difference can 
+be quantitatively large. RESUMÉ Les délais d'attente pour les traitements électifs (non urgents) constituent un problème majeur de la 
+politique de santé dans plusieurs pays de l'OCDE. Cette étude fondée sur des données administratives 
+décrit les mesures courantes pour réduire les temps d'attente dans les pays de l'OCDE. Elle se concentre sur 
+les interventions non urgentes pratiquées dans les pays, comme le remplacement de la hanche et du genou 
+ainsi que la chirurgie de la cataracte, pour lesquels les délais d'attente sont connus pour être longs. Elle 
+fournit des données comparatives sur les délais d'attente dans douze pays de l'OCDE et montre comment 
+ils ont évolué ces dix dernières années. Ainsi, ils paraissent être courts aux Pays-Bas et au Danemark. Ces 
+dix dernières années, le Royaume-Uni (en particulier l'Angleterre), la Finlande et les Pays-Bas ont vu leurs 
+délais d'attente se réduire considérablement, ceci pouvant être attribué à une série d'initiatives stratégiques, 
+comme une hausse des dépenses, la mise en place de systèmes d'objectif des délais d'attente et des 
+mécanismes d'incitation récompensant des niveaux d'activité plus élevés. La réduction des délais d'attente 
+dans ces pays s'est toutefois interrompue depuis quelques années et, dans certains cas, ils sont même 
+revenus à la hausse. L'analyse souligne également des différences systématiques entre les différentes 
+mesures relatives aux délais d'attente, en particulier entre la répartition des délais d'attente des patients 
+traités et celle des personnes inscrites sur des listes d'attente. Par exemple, le délai d'attente moyen des 
+patients sur une liste est généralement plus élevé que celui des patients traités, bien qu'il existe des contre-
+exemples. Les délais d'attente moyens sont systématiquement plus élevés que les délais d'attente médians 
+et la différence peut être quantitativement importante. DELSA/HEA/WD/HWP(2013)8 4 TABLE OF CONTENTS ABSTRACT .................................................................................................................................................... 3 1. Introduction ............................................................................................................................................. 6 
+2. Data ......................................................................................................................................................... 7 
+Background: Measures of waiting times across OECD countries ........................................................... 7 
+Data collection and waiting time definitions ........................................................................................... 7 
+3. Results ..................................................................................................................................................... 8 
+The mean waiting time can be substantially higher than the median ...................................................... 8 
+Waiting times are low in the Netherlands and Denmark ....................................................................... 10 
+Waiting times of patients treated are systematically different from those of patients on the list .......... 11 
+There is evidence of prioritization across treatments ............................................................................ 11 
+Waiting times are not always highly correlated across procedures ....................................................... 12 
+Distribution of waiting times ............................................................................................................. 12 
+Time trends ........................................................................................................................................ 17 
+4. Conclusions ........................................................................................................................................... 28 REFERENCES ............................................................................................................................................. 29 APPENDIX ................................................................................................................................................... 30 SECTION A1. DEFINITIONS ..................................................................................................................... 30 Measure 1: Inpatient waiting time of patients treated (publicly funded patients) and distribution of 
+waiting time by main surgical procedures ................................................................................................. 30 
+Measure 2: Total waiting times of patients treated (publicly-funded patients) and distribution of total 
+waiting time ............................................................................................................................................... 31 
+Measure 3: Inpatient waiting time of patients on the list (publicly funded patients) and distribution of 
+waiting time by main surgical procedures ................................................................................................. 31 SECTION A2. COUNTRY NOTES ............................................................................................................. 32 Australia .................................................................................................................................................... 32 
+Canada ....................................................................................................................................................... 32 
+Finland ....................................................................................................................................................... 33 
+Ireland........................................................................................................................................................ 34 
+Netherlands ................................................................................................................................................ 34 
+New Zealand ............................................................................................................................................. 34 
+Portugal ..................................................................................................................................................... 35 
+Spain .......................................................................................................................................................... 35 
+Scotland ..................................................................................................................................................... 35 
+Sweden ...................................................................................................................................................... 36 
+Slovenia ..................................................................................................................................................... 37 DELSA/HEA/WD/HWP(2013)8 5 Tables Table 1.a. Median (mean) waiting times for common surgical procedures: 2011 ...................................... 9 
+Table 1.b. Median (mean) waiting times for common surgical procedures: 2012 .................................... 10 Figures Figure 1.a. Hip replacement. Patients treated (2011) ................................................................................ 13 
+Figure 1.b. Hip replacement. Patients on the list (2011) ........................................................................... 14 
+Figure 1.c. Hip replacement. Patients on the list (2011) .......................................................................... 14 
+Figure 2.a. Cataract surgery. Patients treated (2011) ............................................................................... 15 
+Figure 2.b. Cataract surgery. Patients on the list (2011) .......................................................................... 16 
+Figure 2.c. Cataract surgery. Patients on the list (2011) .......................................................................... 16 
+Figure 3.a. Hip replacement. ..................................................................................................................... 20 
+Figure 3.b. Knee replacement .................................................................................................................... 21 
+Figure 3.c. Cataract ................................................................................................................................... 22 
+Figure 3.d. Prostatectomy .......................................................................................................................... 23 
+Figure 3.e. Hysterectomy .......................................................................................................................... 24 
+Figure 3.f. Cholecystectomy ..................................................................................................................... 25 
+Figure 3.g. Hernia ...................................................................................................................................... 26 
+Figure 3.h. Coronary bypass...................................................................................................................... 27 DELSA/HEA/WD/HWP(2013)8 6 1. Introduction 1. 
+Waiting times for elective procedures are a major health policy concern in many OECD 
+countries. Policymakers across the world face considerable challenges in reducing waiting times. Policy 
+initiatives are regularly introduced to tackle excessive waiting times with varying success (Siciliani, 
+Borowitz and Moran, 2013). * 2. 
+This study aims at providing comparative evidence of waiting times across OECD countries and 
+explores trends in waiting times in the last decade. OECD countries tend to differ in the way waiting times 
+are measured and utilised for benchmarking or regulatory purposes. We identify the most common 
+measures and explain how these differ. We then compare waiting times across 12 OECD countries 1 for 
+common surgical procedures (such as hip and knee replacement and cataract). We compare mean and 
+median waiting times and their distribution. Finally, we illustrate time trends in waiting times and relate 
+sharp reductions in waiting times for some countries to specific policy initiatives. Comparative information 
+on waiting times can feed into policy discussion and contribute to assessment of the waiting time 
+phenomenon in each county. The analysis on time trends can help to identify countries that have been able 
+to successfully and significantly reduce waiting times. 3. 
+The analysis is part of the Second OECD Waiting Time Project in 2011-12 whose objectives 
+were to compare policies across countries (see Siciliani, Borowitz and Moran, 2013) and collect 
+comparative waiting times figures for specific procedures, which is the focus of this study. 
+2 The analysis 
+relies on measures of waiting times from large administrative datasets for specific surgical procedures. 4. 
+The existing evidence on comparative waiting times is very limited. Siciliani and Hurst (2004) 
+provide similar comparative data for the year 2000. These data are now out of date and are limited in that 
+they refer to only one of the three measures employed in this study (the inpatient waiting time of patient 
+treated) for one point in time. Our study updates such data, employs additional common measures (such as 
+the waiting time of patients on the list, and the waiting time from referral to treatment), explores the 
+distribution of waiting times and provides time trends covering a 10-year period. There is some limited 
+evidence on waiting times from survey data especially from Commonwealth countries (Shoen et al., 2010). 
+However, these are aggregated for any elective procedure, are based on small samples and may suffer from 
+recall bias. Evidence on waiting times constructed from administrative data is based on large samples (in 
+most cases they include the whole population who received a treatment), using objective measures of 
+waiting times and suffer less from aggregation bias (since it focuses on specific procedures). Recent work 
+by the Swedish Association of Local Authorities and Regions (SALAR) (SALAR, 2011, 2013) compares 
+Sweden with other countries. This work uses waiting times data sourced from secondary sources (not from 
+a direct questionnaire to countries as is the source of the data collection discussed in this paper), covers 
+only two procedures and refers to one point in time. * Luigi Siciliani and Valerie Moran, University of York; Michael Borowitz, Global Fund. 1 Australia, Canada, Denmark, Ireland, Finland, the Netherlands, New Zealand, Portugal, Slovenia, Spain, 
+Sweden and the United Kingdom. 2 A summary of the First OECD Waiting Time Project is contained in Siciliani and Hurst (2004, 2005). DELSA/HEA/WD/HWP(2013)8 7 2. Data Background: Measures of waiting times across OECD countries 5. 
+The measurement of waiting times varies across OECD countries. Common measures from 
+administrative datasets are the  " inpatient waiting time "  (from specialist addition to the list to treatment) 
+and the  " referral-to-treatment waiting time "  (from GP/family doctor referral to treatment). 6. 
+Common reported figures include the mean waiting times, the waiting time at different 
+percentiles of the distribution (at the 50 th percentile, i.e. the median, the 80 th or 90 th percentile), and the 
+number of patients waiting more than a threshold waiting time, for example three, six or nine months. 7. 
+Waiting times are reported in most countries by procedure (e.g. hip and knee replacement, 
+cataract surgery) or by specialty (e.g. ophthalmology, orthopaedics). They refer mainly to two 
+distributions: i) the distribution of waiting times of patients treated in a given period (for example a 
+financial year); ii) the distribution of waiting times of the patients on the list at a point in time (a census 
+date). Data collection and waiting time definitions 8. 
+The data were collected as part of the Second OECD Waiting Time Project in 2011-2012. 
+Waiting times were collected for the following common elective (non-emergency) surgical procedures: hip 
+replacement, knee replacement, cataract surgery, vaginal hysterectomy, prostatectomy, cholecystectomy, 
+inguinal and femoral hernia, percutaneous transluminal coronary angioplasty (PTCA) and coronary bypass. 
+To classify surgical procedures, we used ICD-9-CM codes as a reference (see Appendix). Data were 
+collected from 1999 to 2011. For a subset of measures data are available also for 2012. 3 9. 
+Our questionnaire asked countries to provide waiting times according to four different 
+definitions: 1. Inpatient waiting times (from specialist addition to the list) of patients treated in a given year 
+(publicly funded patients) 10. 
+This definition does not include 'the time elapsed from the date of referral of the general 
+practitioner to the date of specialist assessment' (in some countries referred to as 'outpatient waiting 
+time'). Inpatient waiting times were collected for all 'publicly-funded patients' that received treatment 
+either by publicly or privately (non-profit and for-profit) owned providers. We do not focus on privately-
+funded patients since waiting time data for these patients are generally not collected on a routine basis 
+through administrative data. 2. Referral-to-treatment waiting times (from family doctor referral) of patients treated in a given 
+year (publicly funded patients) 11. 
+Referral-to-treatment waiting times refer to  " the time elapsed from the family doctor (General 
+Practitioner) referral to the date patients added on the non-emergency (elective) surgery waiting list were 
+admitted to an inpatient or day-case surgical unit for the procedure " . Therefore, compared to the first 
+measure, it includes also the time elapsed from the family doctor (general practitioner) referral to the 
+specialist visit. By definition it is longer than the inpatient waiting time. 3 These are now available as part of the OECD Health Data collection. DELSA/HEA/WD/HWP(2013)8 8 3. Inpatient waiting times (from specialist addition to the list) of patients on the list at a census date 
+(publicly funded patients) 12. 
+This measure is analogous to Measure 1 but refers to the patients on the list at a given census date 
+(as opposed to the patients treated in a given year). Inpatient waiting times on the list includes  " the time 
+elapsed for a patient on the non-emergency (elective) surgery waiting list from the date they were added to 
+the waiting list for the procedure (following specialist assessment) to a designated census date " . 4. Referral-to-treatment waiting time (from family doctor referral to treatment) of patients on the 
+list at a census date (publicly funded patients) 13. 
+This measure is analogous to Measure 3 but refers to the total waiting time of patients (starting 
+from GP/family doctor referral) on the list at a given census date (as opposed to the patients treated in a 
+given year). 14. 
+Reported measures of waiting times refer to either of two distributions: i) the distribution of 
+waiting times of patients treated in a given period (for example, a financial year); ii) the distribution of 
+waiting times of the patients on the list at a point in time (a census date). The first distribution measures the 
+full duration of the patient's waiting time experience (from entering to exiting the list). The second 
+measure of waiting times of patients on the list is instead  " incomplete " , since the patient's wait has yet to 
+come to an end. The waiting time of patients treated has the advantage of capturing the full duration of a 
+patient's journey, but obviously is retrospective in nature. The main advantage of the waiting time of 
+patients on the list is that it captures the experience of the patients who are still waiting at a point in time 
+(Dixon and Siciliani, 2009). 15. 
+For each measure, we have collected the mean and median waiting time. We also collected 
+information on the proportion of patients waiting 0-3 months, 4-6 months, 7-9 months, 10-12 months, over 
+12 months. Although the mean and the median are more representative of the average patient's experience, 
+other measures, such as the proportion of patients waiting more than 9 months focus on patients who are 
+most disadvantaged, i.e. those with the longest wait (although if prioritisation works well, these are likely 
+to be patients with the lowest severity). 16. 
+Eight countries provided inpatient waiting times data for patients treated; six for inpatient on the 
+list. Only one country (Denmark) provided data on referral to treatment for patients treated (measure 2). 
+No country could provide data on referral to treatment for patients on the list (measure 4). Note that 
+referral-to-treatment waiting times are collected in England but not by surgical procedure (only by 
+specialty or for all specialties; see Siciliani, Borowitz and Moran, 2013, chapter 2, for a general discussion 
+and example of different measures). We did not attempt to collect data at specialty level (ophthalmology, 
+orthopaedics, etc.) since definitions of specialties across OECD countries may differ significantly. 3. Results The mean waiting time can be substantially higher than the median 17. 
+Table 1 provides mean and median waiting times, measured in days, according to our three 
+definitions. Most countries could provide both the mean and median wait though some countries provided 
+only the median (Australia, Canada and Sweden) and others only the mean (the Netherlands and Spain). 
+Table 1a refers to 2011 and includes the largest number of countries, waiting-time definitions and 
+procedures. Table 1b refers to 2012 but includes only a subset of data. The results described below refer to 
+2011 (unless explicitly stated). DELSA/HEA/WD/HWP(2013)8 9 Table 1.a. Median (mean) waiting times for common surgical procedures: 2011 Patients treated – Inpatient (time from specialist addition to list to treatment) Hip 
+replace 
+ment Knee 
+replace 
+ment Cataract Hystere 
+ctomy Prostat 
+ectomy Cholecys 
+tectomy Hernia CABG 
+PTCA Australia 108 
+173 
+90 
+49 
+47 
+54 
+57 
+17 Canada 89 
+107 
+49 
+7 Finland 113 
+(127) 136 
+(149) 111 
+(114) 81 
+(94) 49 
+(68) 69 
+(90) 76 
+(96) 43 
+(58) 23 
+(34) Netherlands (46) 
+(44) 
+(33) 
+(35) 
+(32) 
+(35) 
+(36) 
+(27) 
+(16) 
+New Zealand 
+90 
+(104) 96 
+(112) 84 
+(94) 98 
+(109) 63 
+(86) 62 
+(86) 57 
+(82) 28 
+(37) 51 
+(66) Portugal 87 
+(128) 195 
+(206) 49 
+(66) 57 
+(86) 62 
+(101) 80 
+(134) 82 
+(120) 2 
+(24) Spain (127) 
+(89) 
+(91) 
+(89) 
+(87) UK-England 82 
+(90) 87 
+(97) 59 
+(66) 62 
+(70) 31 
+(41) 70 
+(81) 60 
+(71) 53 
+(63) 35 
+(40) UK-Scotland 75 
+(90) 80 
+(94) 62 
+(70) 48 
+(53) 51 
+(55) 61 
+(77) 63 
+(82) 35 
+(47) 29 
+(33) Patients treated – Referral to treatment (time from family doctor referral to treatment) Denmark 39 
+(51) 46 
+(59) 70 
+(99) 35 
+(49) 36 
+(56) 38 
+(46) 45 
+(56) 13 
+(19) Patients on the list – Inpatient Ireland 103 
+(130) 119 
+(153) 118 
+(144) 96 
+(131) 81 
+(127) 93 
+(132) 98 
+(128) 77 
+(102) 54 
+(78) 
+New Zealand 
+60 
+(78) 65 
+(84) 51 
+(63) 65 
+(73) 51 
+(66) 58 
+(75) 54 
+(69) 46 
+(60) 38 
+(51) Portugal 137 
+(191) 164 
+(201) 67 
+(100) 67 
+(98) 110 
+(189) 117 
+(178) 95 
+(147) 88 
+(114) Spain (93) 
+(71) 
+(74) 
+(74) 
+(71) Sweden 43 
+45 
+40 
+25 Slovenia 340 
+(354) 495 
+(512) 58 
+(63) 90 
+(122) 90 
+(132) 240 
+(275) 18. 
+It is important to distinguish between the mean and the median for international comparisons 
+since, as expected, the mean waiting time is systematically higher than the median confirming the skewed 
+distribution of waiting times. Moreover, the difference can be quantitatively large. For example, in Finland 
+mean waiting times of patients treated for hip and knee replacement were 10-12% higher than the median; 
+it was 30% higher for cholecystectomy, and 39% higher for prostatectomy. In England and Scotland, the 
+mean waiting time was 8-34% higher depending on the procedure. In Portugal differences between mean 
+and median waiting times were generally higher than in other countries (as suggested below this may be 
+due a more significant proportion of long waiters). 19. 
+Across the five countries that report both mean and median waiting time for patients treated in 
+2011 (Finland, New Zealand, Portugal, England and Scotland) the correlation between mean and median DELSA/HEA/WD/HWP(2013)8 10 wait for a given procedure, e.g. cataract, is very high (above 0.9 for seven out of nine procedures; it is 
+above 0.8 for cholecystectomy and is 0.73 for hip replacement; the last result is due to the larger difference 
+between the mean and the median in Portugal). This is also the case when correlating mean and median 
+waiting time for patients on the list. Waiting times are low in the Netherlands and Denmark 20. 
+Among the countries reporting inpatient waiting times of patients treated (upper part of Table 
+1a), the Netherlands exhibits the lowest waiting times: mean waiting times are below one month and a half. 
+Notice that, even though we do not have the median waiting time for the Netherlands, the mean waiting 
+time (which is generally higher than the median) is lower in the Netherlands than the median in the other 
+countries which report inpatient waiting time of patients treated. 21. 
+Denmark, which measures waiting time from referral to treatment, also exhibits short waiting 
+times compared to the other countries that report the waiting times of patients treated. Despite their 
+measure including the additional wait from GP referral to specialist appointment, waiting times are lower 
+compared to most of the other countries. More precisely, if we exclude the Netherlands from the 
+comparison, Denmark has shorter waiting times for hip and knee replacement, hysterectomy and 
+cholecystectomy and hernia, compared to the countries reported in the upper part of Table 1a. Table 1.b. Median (mean) waiting times for common surgical procedures: 2012 Patients treated – Inpatient (time from specialist addition to list to treatment) Hip 
+replace 
+ment Knee 
+replace 
+ment Cataract Hystere 
+ctomy Prostat 
+ectomy CABG 
+PTCA Australia 116 
+184 
+91 
+53 
+42 
+16 Canada 87 
+106 
+46 
+8 Netherlands (42) 
+(42) 
+(35) 
+(34) 
+(31) 
+(29) 
+(16) 
+New Zealand 
+99 
+(104) 111 
+(114) 88 
+(94) 90 
+(96) 66 
+(81) 27 
+(44) 38 
+(49) Portugal 105 
+(140) 210 
+(211) 59 
+(83) 57 
+(85) 63 
+(106) 2 
+(34) Spain (161) 
+(108) 
+(97) Patients on the list – Inpatient Ireland 83 
+(100) 100 
+(113) 133 
+(146) 118 
+(126) 90 
+(118) 107 
+(133) 64 
+(97) 
+New Zealand 
+63 
+(72) 68 
+(74) 53 
+(62) 55 
+(69) 49 
+(63) 35 
+(45) 39 
+(46) Portugal 124 
+(178) 146 
+(192) 77 
+(108) 67 
+(101) 97 
+(192) 75 
+(145) Spain (112) 
+(86) 
+(85) Slovenia 341 
+(345) 380 
+(504) 92 
+(108) 64 
+(81) DELSA/HEA/WD/HWP(2013)8 11 Waiting times of patients treated are systematically different from those of patients on the list 22. 
+Three countries (New Zealand, Portugal and Spain) report inpatient waiting times both for 
+patients treated and for patients on the list. The results show how generally the two measures provide 
+different results and are therefore not comparable. For New Zealand, the mean/median waiting time of 
+patients treated is generally higher than for those on the list (with the exception of coronary bypass in 2011 
+and 2012 and median waiting time for PTCA in 2012). This is also the case for Spain. For Portugal this 
+holds only for one procedure in 2011 and 2012: knee replacement. The opposite holds for seven procedures 
+in 2011 and five procedures in 2012 with mean and median waiting time being lower for patients treated 
+than for those on the list. As mentioned above, the distribution of waiting times of patients on the list over-
+samples long-waiting patients. Since Portugal has a longer tail of patients with long waiting times, this may 
+explain the different results for this country. 23. 
+The difference between mean (or median) waiting time for patients treated versus patients on the 
+list can be quantitatively large. For New Zealand the mean (median) waiting time for patients treated was 
+29-54% (35-66%) higher than the wait of patients on the list when including hip and knee replacement, 
+cataract surgery, hysterectomy and prostatectomy in 2012. In Spain it was 20-37% higher among the five 
+procedures available in 2011. Even when the waiting time of patients on the list is higher, as is the case for 
+Portugal, differences can be large: for example the mean (median) waiting time of patients on the list for 
+hip replacement, cataract and prostatectomy was 21-45% (15-35%) higher than the waiting time of patients 
+treated in 2012. 24. 
+In Sweden waiting times are provided only for four procedures. They appear generally low 
+compared to the other countries with a median waiting time for hip, knee replacement, cataract surgery and 
+coronary bypass of 43, 45, 40 and 25 days respectively. 25. 
+Slovenia reports relatively long waiting times compared to any other country, in particular for hip 
+and knee replacement, and PTCA. The mean waiting time for hip replacement is close to one year (354 
+days) and for knee replacement well above one year (512 days). Waiting times are lower for cataract 
+surgery and in line with other countries (63 days) and similarly for cholecystectomy and hernia 
+(comparable to Ireland and lower than Portugal). 26. 
+Similarly, with respect to the distribution of waiting times of patients on the list the mean wait is 
+systematically higher than the median. For example, for hip replacement it was about 9-44% higher in 
+Ireland, New Zealand and Portugal in 2012. For cataract surgery it was 10-40% higher in the same 
+countries in 2012. In Slovenia the differences were smaller (1-33%) for hip and knee replacement, and 
+cataract surgery in 2012. The largest difference was for prostatectomy in Portugal where mean waiting 
+times were 98% higher than the median in 2012. There is evidence of prioritization across treatments 27. 
+There is a clear evidence of prioritization across different treatments and procedures. Waiting 
+times for more urgent procedures, such as coronary bypass and PTCA, are generally lowest or among the 
+lowest (with median waiting times generally below one month and only occasionally below two months). 
+Instead, median waiting times are higher for less urgent procedures. At the other end of the spectrum, 
+median waiting times of three months are common across several countries for hip replacement, and in 
+some cases longer than three months for knee replacement which generally exhibits the longest wait. 
+Median waiting times are generally intermediate for hysterectomy and prostatectomy: they are above one 
+month though they can reach three months. These procedures are arguably more urgent than hip and knee 
+replacements but less urgent (on average) than coronary bypass. These results are not surprising. Doctors 
+are trained to prioritize patients on the waiting list. Moreover, there is an increasing policy focus on DELSA/HEA/WD/HWP(2013)8 12 developing guidelines to improve prioritization of patients on the list across the OECD countries, but in 
+particular New Zealand, Canada, Norway and other Nordic countries (Siciliani, Borowitz and Moran, 
+2013, chapter 3). Waiting times are not always highly correlated across procedures 28. 
+We may ponder the extent to which a country that has long waiting times for one particular 
+procedure (e.g. hip replacement) is also more likely to have long waiting times for other procedures (e.g. 
+cataract, coronary bypass), as a result for example, of a tighter capacity constraint across the whole system. 
+We show that in some instances such correlations are high but they are sensitive to the sample of countries 
+considered and the measure considered (e.g. the mean or median). 29. 
+We computed the correlation across eight procedures (excluding PTCA since data coverage is 
+less compared to other procedures) for the six countries that reported mean waiting time for patients treated 
+(Finland, the Netherlands, New Zealand, Portugal, Scotland and England) in 2011. Excluding coronary 
+bypass and cataract surgery, the correlations among the remaining six procedures were relatively high -
+above 0.65. Cataract surgery had a correlation that ranged between 0.44 (with cholecystectomy) and 0.82 
+(with hysterectomy). Coronary bypass generally exhibits low correlation with the other procedures and a 
+wide range -between -0.36 (with prostatectomy) and 0.50 (with cataract surgery). This is due to England 
+and Scotland having relatively longer waiting times for coronary bypass compared to the other countries, 
+while performing well on the other procedures. The results were similar when Spain was included in the 
+sample for the five procedures available for this country. 30. 
+When using the median waiting time of patients treated correlations across procedures were 
+generally lower. When including six countries (Australia, Finland, New Zealand, Portugal, Scotland and 
+England), correlations were above 0.5 in only four out of 28 possible correlations among the eight 
+procedures (hip/knee, hip/cataract, knee/hernia, hernia/cholecystectomy). Correlations were in the range 
+0.3-0.5 in seven instances, and otherwise lower than 0.3. Waiting times for coronary bypass were generally 
+negatively correlated with waiting times for other procedures. 31. 
+The difference in the results between the correlations of mean waiting times across procedures 
+(highly correlated) and median waiting times across procedures (not highly correlated) is due to two 
+factors. First, the sample of countries considered is different (i.e. excluding/including the Netherlands in 
+the second/first measure and including/excluding Australia in the second/first measure). Second, Portugal 
+exhibits a much larger difference between mean and median waiting times compared to the other countries. 32. 
+When considering the patients on the list, a similar picture generally emerges. For example, the 
+correlation between median waiting times for hip and knee replacement across five countries (Ireland, New 
+Zealand, Portugal, Sweden and Slovenia) in 2011 is 0.99 but the correlation between hip (or knee) 
+replacement and cataract is close to zero. This is due to Ireland having relatively longer waiting times for 
+cataract (118 days) against a similar wait for hip/knee replacement and Slovenia having relatively shorter 
+waiting times for cataracts (58 days) against waiting times close to or over a year for hip and knee 
+replacement. Similarly, the correlation between mean waiting times between hip replacement and cataract 
+is -0.2 across five countries (Ireland, New Zealand, Portugal, Spain and Slovenia; note inclusion of Spain 
+and exclusion of Sweden) in 2011. This is again due to Ireland having relatively longer waiting times (144 
+days) for cataract and Slovenia having relatively shorter waiting times (63 days). Distribution of waiting times 33. 
+We can gain some further insights by looking at the distribution of waiting times. This allows 
+focusing also on the tail of the distribution and the long waiters. We provide histograms that show the DELSA/HEA/WD/HWP(2013)8 13 proportion of patients waiting less than 3 months, between 3 and 6 months, between 6 and 9 months, 
+between 9 and 12 months, and over 12 months. We focus on hip replacement and cataract surgery. 34. 
+Figure 1.a shows the distribution of waiting times of patients treated for hip replacement. The 
+histograms show that the distribution of waiting times is skewed. Most patients get treatment quickly with 
+more than 50% of patients being treated within 3 months in the UK, Portugal and New Zealand (but not in 
+Finland). Most of the remaining patients are treated within 6 months (with the exception of Portugal). 
+There is a tail of patients waiting more than 6 months: it around 6-7% in the UK, 15-18% in New Zealand 
+and Finland, and 28% in Portugal. Figure 1.a. Hip replacement. Patients treated (2011) 35. 
+The distribution can differ significantly across countries. An interesting comparison is between 
+Portugal and New Zealand. They both have a median waiting time for hip replacement of about 3 months. 
+However, the proportion of patients waiting over 6 months is 15% in New Zealand and 28% in Portugal 
+leading to a larger mean waiting time in Portugal (128 days) than in New Zealand (104 days). This 
+example shows how synthetic measures such as the median can hide significant variations in the 
+distribution. 36. 
+We can also compare the distribution of patients treated (Figure 1.a) versus the distribution of 
+patients on the list (Figure 1.b). New Zealand and Portugal report both distributions. The comparison of 
+Figure 1.a with Figure 1.b for hip replacement show how these distributions differ. In New Zealand, the 
+proportion of patients treated waiting more than 6 months is about 15% but the proportion of patients on 
+the list waiting more than 6 months is only 6%. This is not surprising. As mentioned above, the distribution 
+of patients on the list suffers from 'interruption' bias (it measures an incomplete wait), which biases the 
+measure downwards, and reflects 'oversampling' of long-wait patients, which biases the measure upwards. 
+Although these biases go in opposite directions, there is no reason why these should be the same. Notice 
+however how in some cases the figures between the two distributions may not be too dissimilar. For 
+example, for Portugal the proportion of patients waiting more than 6 months is in the range 27-28% under 
+both distributions. Similarly, the proportion of patients waiting more than 12 months is around 11-12%. 65 57 
+55 
+51 40 29 37 18 33 42 5 
+5 
+11 
+14 
+13 1 
+1 
+5 
+1 
+3 
+1 
+0 12 0 
+2 
+8 0 20 40 60 80 UK -
+Scotland UK -England Portugal 
+New 
+Zealand Finland 
+Australia % % waiting 0-3 months 
+% of patients waiting 3-6 months % of patients waiting 6-9 months 
+% of patients waiting 9-12 months % of patients waiting over 12 months DELSA/HEA/WD/HWP(2013)8 14 Figure 1.b. Hip replacement. Patients on the list (2011) 37. 
+Sweden and Spain only provide the proportion of patients waiting between 7-12 months rather 
+than 7-9 and 10-12, and we therefore report them separately in Figure 1.c (for hip replacement patients). Figure 1.c. Hip replacement. Patients on the list (2011) 38. 
+As an additional example, consider cataract surgery in Figures 2.a and 2.b. The proportion of 
+patients treated waiting more than 6 months is 8% in New Zealand and it is higher than the proportion of 
+patients on the list waiting more than 6 months, which around 3%. In Portugal the opposite holds. The 
+proportion of patients treated waiting more than 6 months is less than 4% but the proportion of patients on 
+the list waiting more than 6 months is 20%. 65 47 
+47 28 
+26 
+28 6 13 17 1 
+3 
+6 0 11 3 0 10 20 30 40 50 60 70 New Zealand 
+Portugal 
+Ireland % % waiting 0-3 months % of patients waiting 3-6 
+months % of patients waiting 6-9 
+months % of patients waiting 9-
+12 months % of patients waiting over 
+12 months 84 62 14 26 2 10 0 
+2 
+0 10 20 30 40 50 60 70 80 90 Sweden 
+Spain % % waiting 0-3 months % of patients waiting 3-6 
+months % of patients waiting 7-12 
+months % of patients waiting over 
+12 months DELSA/HEA/WD/HWP(2013)8 15 Figure 2.a. Cataract surgery. Patients treated (2011) 86 75 
+76 55 35 11 22 
+23 38 44 2 
+2 
+1 7 16 0 
+0 
+0 
+0 
+4 
+1 
+0 
+0 
+0 
+1 
+4 0 10 20 30 40 50 60 70 80 90 Portugal UK -Scotland 
+UK -England 
+New Zealand Finland 
+Australia % % waiting 0-3 months 
+% of patients waiting 4-6 months % of patients waiting 7-9 months 
+% of patients waiting 10-12 months % of patients waiting over 12 months DELSA/HEA/WD/HWP(2013)8 16 Figure 2.b. Cataract surgery. Patients on the list (2011) Figure 2.c. Cataract surgery. Patients on the list (2011) 39. 
+Such distributions show different degrees of dispersions in waiting times across countries. These 
+can be the result of a range of factors including different prioritisation policies (which encourage a 
+reduction of waiting time for high-severity patients and an increase in waiting time for low-severity 
+patients) but also variations in demand (different age compositions within or across countries) and 
+variations in supply within a country (where hospitals differ more systematically in waiting times). 78 71 41 19 
+18 26 3 14 19 0 
+4 10 0 
+2 
+3 0 10 20 30 40 50 60 70 80 90 New Zealand 
+Portugal 
+Ireland % % waiting 0-3 months 
+% of patients waiting 4-6 months %of patients waiting 7-9 months 
+number of patients waiting 10-12 months % of patients waiting over 12 months 88 72 10 21 2 
+6 
+0 
+1 0 10 20 30 40 50 60 70 80 90 Sweden 
+Spain % % waiting 0-3 months 
+% of patients waiting 4-6 months % of patients waiting 7-12 months 
+% of patients waiting over 12 months DELSA/HEA/WD/HWP(2013)8 17 Time trends 40. 
+Time trends show that waiting times have been relatively stable in most countries and across 
+procedures. There are however several cases where waiting times have reduced. In particular, the United 
+Kingdom and Finland have experienced large reductions in waiting times from a relatively high level in the 
+early 2000s. There are also declining trends for the Netherlands, Denmark and Portugal although this trend 
+has reversed in recent years in Portugal. 41. 
+In Finland waiting times are generally stable or increasing up to 2002 or 2003 and then 
+characterized by a sharp reduction the following years. The reduction is substantial: about 43-48% for hip 
+and knee replacement, 30-51% for prostatectomy, hysterectomy, cholecystectomy and hernia, 55% for 
+cataract and 24% for bypass. The reduction in waiting times follows the introduction of a National Health 
+Care Guarantee introduced into Finnish law in 2005 (Jonsson, et al, 2013). For elective treatment the 
+guarantee was three months (with few exceptions). Hospitals that failed to comply with the guarantee were 
+scrutinized by the Supervisory Agency (known as Valvira) and were subject to a threat of penalty fines. 
+The reductions in waiting times were associated with an increase in health expenditure for municipalities in 
+the first years of the guarantee (Jonsson, et al, 2013). 42. 
+In the United Kingdom waiting times have been gradually falling starting from 2001/2002. Both 
+England and Scotland experienced a large gradual reduction in waiting times over a ten-year span. In 
+England waiting times more than halved for several procedures. In Scotland reductions in waiting times 
+were of the order 25-40% for several procedures. In 1999 waiting times were generally longer in England 
+than in Scotland. By 2011 waiting times were comparable. Waiting times have therefore fallen more 
+rapidly in England than in Scotland. There are two main explanations for these results. First, the United 
+Kingdom has experienced a sustained growth in health expenditure in the last decade. In 2000 health 
+expenditure was recognized to be low compared to other European and OECD countries, and policymakers 
+committed to increase expenditure to catch up with the other countries. Second, both England and Scotland 
+made use of waiting-time targets. These were however introduced at different times and with different 
+degrees of penalties. In England, heavy sanctions for hospitals not respecting the waiting-time targets were 
+introduced from 2000, a policy known as  " targets and terror "  (Propper et al, 2008, 2010): senior health 
+administrators were at risk of losing their jobs if targets were not met. This may explain why reductions in 
+waiting times in England were larger than for Scotland. Although in Scotland hospitals were not subject to 
+economic penalties, regional health boards from 2003-2004 were monitored monthly on the achievement 
+of waiting time targets. Individual breaches had to be reported to the Scottish Executive and were 
+investigated (Smith and Sutton, 2013). The UK has also experienced moderate increases in recent years for 
+all procedures except hysterectomy. 43. 
+In New Zealand waiting times of patients treated have been fairly stable over the period 2003-
+2011 for several procedures. Hysterectomy, cholecystectomy and hernia experienced some increases, and 
+coronary bypass some reductions in recent years. The dynamics of waiting times for patients on the list 
+looks however rather different. Over the same period, the waiting time of the patients on the list has more 
+than halved for most procedures. One explanation for the different time trends is that the waiting time of 
+patients on the list includes also patients that ultimately do not receive treatment. As time passes, providers 
+may become more active at 'validating' the waiting list and/or regularly checking that patients on the list 
+still require treatment, i.e. quickly removing patients from the list when it becomes apparent that treatment 
+is no longer necessary (see Cumming, 2013 for more details). 44. 
+In the Netherlands, waiting times have reduced over the period 2006-2011 for hip and knee 
+replacement, cataract, and to a lower extent coronary bypass while they were stable for the remaining 
+procedures, and increased slightly for cholecystectomy and hernia. As mentioned above, waiting times in 
+the Netherlands are low compared to other countries and have been low for at least five years. Compared to DELSA/HEA/WD/HWP(2013)8 18 similar figures for year 2000 provided by Siciliani and Hurst (2004), waiting times have significantly 
+reduced and more than halved for several procedures. The reductions between 2000 and 2006 were 
+achieved following a radical change in the hospital financing system which switched from fixed budgets to 
+activity-based funding (Schut and Varkevisser, 2013). Additional reductions in recent years can be 
+attributed to a reform of specialist payments leading to a change from lump-sum payments to activity-
+based payments in 2008, and an expansion of price competition (as part of a broader managed competition 
+reform) since 2005 (Schut and Varkevisser, 2013). As a result of these reforms, waiting times are not a 
+significant health policy issue as they were in the 1990s. Concerns have however, been raised about the 
+rapid growth in health expenditure that activity-based financing has promoted. 45. 
+In Denmark, we observe reductions for hip and knee replacement (by more than 30%), 
+prostatectomy (about 20%) and some modest reductions for cholecystectomy over the period 2005-2011, 
+increases for cataract (by more than 50%), while are relatively constant for the other procedures. As 
+mentioned above, waiting times are generally low compared to other OECD countries. Waiting times have 
+been a persistent focus of Danish health policy. A key policy has been  " free choice "  of hospital provider 
+for patients. The scheme implies that if the hospital can foresee that the maximum waiting time cannot be 
+fulfilled, then the patient can choose another public or private hospital, either within or outside Denmark 
+(Christiansen and Beck, 2013). In 2002 the maximum waiting time guarantee was two months (and 
+replaced a former guarantee of three months). The guarantee was further reduced to four weeks in 2007 
+(independent of disease type and severity).  " Free choice "  was suspended in 2008-09 due to a hospital 
+personnel strike (Christiansen and Beck, 2013). 46. 
+We also observe reductions in waiting times across most procedures for Portugal although these 
+reductions started to reverse in 2011 for most procedures with the exception of hysterectomy. The recent 
+increases in waiting times are most pronounced for patients treated. Reductions in waiting times were 
+obtained through a series of policy initiatives which included a new integrated information system 
+combined with a voucher system for patients reaching 75% of max waiting time guarantee (Barros et al., 
+2013). We also note sharp reductions for the patients on the list between 2006 and 2007 which, similar to 
+the experience in New Zealand, were possibly obtained by more accurate validation of the waiting list (this 
+is also reminiscent of the English experience in the early eighties, see Siciliani and Hurst, 2005). 47. 
+Ireland has witnessed considerable reductions in waiting times of patients on the list -
+particularly over the time-period 2007-2008 – for hip and knee replacement, prostatectomy and 
+cholecystectomy. Similar to Portugal and New Zealand, these sharp decreases can in part be attributed to 
+some cleaning of the waiting list by removing patients no longer available for treatment from the list 
+(Moran et al., 2013). In contrast, there was an increase in waiting times for cataract surgery during 2010-
+2012 and hysterectomy during 2010-2011. There was a particularly sharp increase for coronary bypass 
+surgery from 2009-2010 but this subsequently decreased in 2011 and rose again in 2012. 48. 
+Waiting times in Spain have been either stable or reduced to some extent in recent years (2003-
+2011) but have increased in 2012 for cataract, prostatectomy and hip replacement. This is reflected in both 
+the wait of patients treated and on the list. A number of policy initiatives have been introduced, mainly 
+targeting the supply side, and include extending working hours for health personnel, additional resources 
+and the introduction of ambulatory surgery centres (García-Goñi and Costa-Font, 2013). 49. 
+In Australia, median waiting times for patients treated have generally gradually increased over 
+the period 2002-2012, sometimes significantly (knee replacement, hysterectomy, cholecystectomy by 32-
+47%, prostatectomy and hernia by 41-58%) but have been stable for cataract and coronary bypass. In 
+Canada, data are available only over the 4-year period 2008-2011 for selected procedures. Median waiting 
+times for hip and knee replacement have been moderately increasing (by less than 10% over five years), 
+and have been relatively stable for cataract. In Sweden, data are available only for two years, 2010 and DELSA/HEA/WD/HWP(2013)8 19 2011. They suggest reductions in median waiting time of patients on the list for hip and knee replacement, 
+and cataract surgery by 11-14%. DELSA/HEA/WD/HWP(2013)8 20 Figure 3.a. Hip replacement. Mean waiting times (median for Australia and Canada). Patients treated Mean waiting times (median for Sweden). Patients on the list 0 50 100 150 200 250 300 1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Australia (median) Canada (median) Denmark (inpatient and 
+outpatient) 
+Finland Netherlands New Zealand Portugal Spain UK-England UK-Scotland 0 50 100 150 200 250 300 2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Ireland New Zealand Portugal Spain Sweden (median) DELSA/HEA/WD/HWP(2013)8 21 Figure 3.b. Knee replacement Patients treated Patients on the list 0 50 100 150 200 250 300 350 1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Australia (median) Canada (median) Denmark (inpatient and 
+outpatient) 
+Finland Netherlands New Zealand Portugal UK-England UK-Scotland 0 50 100 150 200 250 300 350 2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Ireland New Zealand Portugal Sweden (median) DELSA/HEA/WD/HWP(2013)8 22 Figure 3.c. Cataract Patients treated Patients on the list 0 50 100 150 200 250 300 1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Australia (median) Canada (median) Denmark (inpatient and outpatient) Finland Netherlands New Zealand Portugal Spain UK-England UK-Scotland 0 50 100 150 200 250 2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Ireland New Zealand Portugal Spain Sweden (median) DELSA/HEA/WD/HWP(2013)8 23 Figure 3.d. Prostatectomy Patients treated Patients on the list 0 20 40 60 80 100 120 140 160 180 1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Australia (median) Denmark (inpatient 
+and outpatient) Finland Netherlands New Zealand Portugal Spain UK-England UK-Scotland 0 50 100 150 200 250 300 350 400 2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting tme, days Ireland New Zealand Portugal Spain DELSA/HEA/WD/HWP(2013)8 24 Figure 3.e. Hysterectomy Patients treated Patients on the list 0 20 40 60 80 100 120 140 160 180 1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Australia (median) Denmark (inpatient and 
+outpatient) Finland Netherlands New Zealand Portugal UK-England UK-Scotland 0 50 100 150 200 250 2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Ireland New Zealand Portugal DELSA/HEA/WD/HWP(2013)8 25 Figure 3.f. Cholecystectomy Patients treated Patients on the list 0 20 40 60 80 100 120 140 160 180 200 1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 Mean waiting time, days Australia (median) Denmark (inpatient and 
+outpatient) Finland Netherlands New Zealand Portugal Spain UK-England UK-Scotland 0 50 100 150 200 250 300 350 400 450 500 2003 2004 2005 2006 2007 2008 2009 2010 2011 Mean waiting time, days Ireland New Zealand Portugal Spain DELSA/HEA/WD/HWP(2013)8 26 Figure 3.g. Hernia Patients treated Patients on the list 0 20 40 60 80 100 120 140 160 180 Mean waiting time, days Australia (median) Denmark (inpatient and 
+outpatient) Finland Netherlands New Zealand Portugal Spain UK-England UK-Scotland 0 50 100 150 200 250 300 2003 2004 2005 2006 2007 2008 2009 2010 2011 Mean waiting tme, days Ireland New Zealand Portugal Spain DELSA/HEA/WD/HWP(2013)8 27 Figure 3.h. Coronary bypass Patients treated Patients on the list 0 50 100 150 200 250 1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Australia (median) Canada (median) Denmark (inpatient and 
+outpatient) Finland Netherlands New Zealand Portugal UK-England UK-Scotland 0 50 100 150 200 250 300 2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 Mean waiting time, days Ireland New Zealand Portugal Sweden (median) DELSA/HEA/WD/HWP(2013)8 28 4. Conclusions 50. 
+The analysis provides new comparative evidence on waiting times across OECD countries. 
+Waiting times appear to be low in the Netherlands and Denmark. The United Kingdom (in particular 
+England), Finland and the Netherlands have witnessed large reductions in waiting times in the last decade 
+which can be attributed to a range of policy initiatives, including higher spending, waiting-times target 
+schemes, and incentive mechanisms which reward higher levels of activity. 51. 
+The negative trend in waiting times seems however to have been halted and reverted in some 
+countries in recent years. These increases have been most pronounced for Portugal in 2011 and 2012 for 
+most procedures. The UK (England and Scotland) has also experienced increases in most procedures albeit 
+to a lesser extent than Portugal. There were increases in waiting times in Spain – particularly in 2012 – for 
+cataract, prostatectomy and hip replacement while Finland has also had increases in waiting times for 
+CABG, hernia and knee replacement in the latest available years. 52. 
+Policymakers have at their disposal a range of measures to collect waiting times. The study 
+emphasizes the presence of systematic differences across different waiting time measures, in particular 
+between the distribution of waiting times of patients treated versus the distribution of patients on the list. 
+For example, the mean waiting time of patients on the list is generally higher than of patients treated 
+although we can find examples of the opposite (and similarly for other measures such as the proportion 
+waiting over a certain time threshold, e.g. six months). Mean waiting times are systematically higher than 
+median waiting times due to a skewed distribution and this difference can be quantitatively large in some 
+countries. DELSA/HEA/WD/HWP(2013)8 29 REFERENCES Barros, P.P., R. Cristovao, P.A. Gomes, 2013, Portugal, chapter 13, in Siciliani, L., M. Borowitz and V. 
+Moran (eds.) (2013),Waiting Time Policies in the Health Sector: What Works?, OECD Health 
+Policy Studies, OECD Publishing. Christiansen, T., M. Beck, 2013, Denmark, chapter 6, in Siciliani, L., M. Borowitz and V. Moran (eds.) 
+(2013),Waiting Time Policies in the Health Sector: What Works?, OECD Health Policy Studies, 
+OECD Publishing. Cumming, J., 2013, New Zealand, chapter 11, in Siciliani, L., M. Borowitz and V. Moran (eds.) 
+(2013),Waiting Time Policies in the Health Sector: What Works?, OECD Health Policy Studies, 
+OECD Publishing. Dixon, H., L. Siciliani, 2009, Waiting-time Targets in the Healthcare Sector. How Long Are We Waiting?, 
+Journal of Health Economics, 28, 1081-1098. Garcia-Goni, M., J. Costa-Font, 2013, Spain, chapter 14, in Siciliani, L., M. Borowitz and V. Moran (eds.) 
+(2013),Waiting Time Policies in the Health Sector: What Works?, OECD Health Policy Studies, 
+OECD Publishing. Jonsson, P.M. P. Häkkinen, J. Järvelin, J. Kärkkäinen, 2013, Finland, chapter 7, in Siciliani, L., M. 
+Borowitz and V. Moran (eds.) (2013),Waiting Time Policies in the Health Sector: What Works?, 
+OECD Health Policy Studies, OECD Publishing.Moran, V., Normand, C. and Smith, A. 2013, 
+Ireland, chapter 8, , in Siciliani, L., M. Borowitz and V. Moran (eds.) (2013),Waiting Time Policies 
+in the Health Sector: What Works?, OECD Health Policy Studies, OECD Publishing. Propper, C., M. Sutton, C. Whitnall, F. Windmeijer, 2008, Did 'Targets and Terror' Reduce Waiting Times 
+in England for Hospital Care?, B.E. Journal of Economic Analysis & Policy, 8, Article 5. Propper, C., M. Sutton, C. Whitnall, F. Windmeijer, 2010. Incentives and targets in hospital care: Evidence 
+from a natural experiment, Journal of Public Economics, 94, 318-335. SALAR, 2011. Swedish Waiting Times for Health Care in an International Perspective, SALAR, 
+Stockholm. Schoen, C., R. Osborn, D. Squires, M. Doty, R. Pierson, S. Applebaum, 2010. How Health Insurance 
+Design Affects Access to Care and Costs, by Income, in Eleven Countries, Health Affairs, 29(12), 
+2323-2334. Siciliani, L., J. Hurst, 2004. Explaining Waiting Times Variations for Elective Surgery across OECD 
+Countries, OECD Economic Studies, 38, 95-123. Schut, F., M. Varkevisser, 2013, The Netherlands, chapter 10, in Siciliani, L., M. Borowitz and V. Moran 
+(eds.) (2013),Waiting Time Policies in the Health Sector: What Works?, OECD Health Policy 
+Studies, OECD Publishing. Viberg, N., B.C. Forsberg, M. Borowitz, R. Molin, 2013, International comparisons of waiting times in 
+health care: limitations and prospects, Health Policy, forthcoming. DELSA/HEA/WD/HWP(2013)8 30 APPENDIX SECTION A1. DEFINITIONS Measure 1: Inpatient waiting time of patients treated (publicly funded patients) and distribution of 
+waiting time by main surgical procedures Inpatient waiting times at admission for treatment includes  " the time elapsed for a patient on the non-
+emergency (elective) surgery waiting list from the date they were added to the waiting list for the 
+procedure (following specialist assessment) to the date they were admitted to an inpatient or day-case 
+surgical unit for the procedure to be carried out " . This definition of waiting time does NOT include 'the time elapsed from the date of referral of the 
+general practitioner to the date of specialist assessment' (in some countries referred to as 'outpatient 
+waiting time'). Inpatient waiting times are requested for 11 main surgical procedures (Cataract surgery, Percutaneous 
+transluminal coronary angioplasty, Coronary bypass, Cholecystectomy, Inguinal and femorial hernia, 
+Prostatectomy, Vaginal hysterectomy, Knee arthroscopy, Total and partial hip replacement, Knee 
+replacement, Ligation and stripping of varicose veins). To classify the surgical procedures, we follow the 
+international classification system ICD-9-CM. If you are not able to provide the data according to the ICD-
+9-CM format, please specify which classification (national or international) you have used and, if possible, 
+provide cross-classification (codes of your national system and corresponding codes to ICD-9-CM). The inpatient waiting times should refer to all 'publicly funded patients'. More precisely, the inpatient 
+waiting times refers to all 'publicly funded patients' that received the treatment either by publicly or 
+privately (non-profit and for-profit) owned providers. Publicly funded patients include  " the patients whose expenditure is incurred by public funds (OECD 
+Health data definition, 2010). Public funds are state, regional and local Government bodies (included are 
+non-market, non-profit institutions that are controlled and mainly financed by government units) and social 
+security schemes. (Social security funds are social insurance programmes covering the community as a 
+whole or large sections of the community that are imposed and controlled by a government unit. They 
+generally involve compulsory contributions by employees or employers or both, and the terms on which 
+benefits are paid to recipients are determined by a government unit). Note that in some countries 'publicly 
+funded patients' may receive the treatment also in private (non-profit or for-profit) institutions. "  Privately funded patients include  " the patients whose treatments are funded by private sources 
+including out-of-pocket payments, private insurance programmes, charities and occupational health care. 
+Expenditure on health incurred by private insurance funds includes both private social insurance and all 
+other private insurance funds " . DELSA/HEA/WD/HWP(2013)8 31 The waiting times figures should cover the largest share of patients in the country, ideally the whole 
+population of publicly funded patients. Measure 2: Total waiting times of patients treated (publicly-funded patients) and distribution of 
+total waiting time We are interested in the measurement of total waiting times and distribution of total waiting time for 
+publicly funded patients, comprising both 'inpatient waiting time at admission' and 'outpatient waiting 
+time': @BULLET Inpatient waiting times at admission for treatment includes  " the time elapsed for a patient on 
+the non-emergency (elective) surgery waiting list from the date they were added to the waiting 
+list for the procedure (after specialist assessment) to the date they were admitted to an inpatient or 
+day-case surgical unit for the procedure " . @BULLET Outpatient waiting times includes  " the time elapsed from the Family Doctor (General 
+Practitioner) referral to the specialist visit " . @BULLET Total waiting times (inpatient + outpatient waiting times) therefore includes  " the time elapsed 
+from the Family Doctor (General Practitioner) referral to the date patients added on the non-
+emergency (elective) surgery waiting list were admitted to an inpatient or day-case surgical unit 
+for the procedure " . Measure 3: Inpatient waiting time of patients on the list (publicly funded patients) and distribution 
+of waiting time by main surgical procedures This measure refers to the patients on the list at a given census date (as opposed to the patients treated 
+in a given year). Ideally the census date is the 1 st July (or any census date which is closest to this, 
+depending on data availability). Inpatient waiting times on the list includes  " the time elapsed for a patient on the non-emergency 
+(elective) surgery waiting list from the date they were added to the waiting list for the procedure (following 
+specialist assessment) to a designated census date " . DELSA/HEA/WD/HWP(2013)8 32 SECTION A2. COUNTRY NOTES Australia Source of data: Australian Institute of Health and Welfare 2012. Australian Hospital Statistics 2010-
+11. Health Services Series no. 43. cat. No. HSE 117. Canberra: AIHW (Table 10.21 p. 288). Annual data 
+based on a reference period of 1 July to 30 June. Deviation from the definition: Includes all patients in public hospitals – both publicly and privately 
+funded. Estimation: Procedure codes based on ICD-10-AM Classification: ICD-10-AM Classification 2 nd , 3 rd , 5 th , 7 th Edition Codes available on Metadata Online Registry (METeOR): 
+http://meteor.aihw.gov.au/content/item.phtml?itemId=273297&nodeId=file41fd72b54494b&fn=Indicator%20proced 
+ure,%20version%203,%20DE,%20NHDD,%20NHIMG,%20Superseded%2001/03/2005.pdf 
+http://meteor.aihw.gov.au/content/index.phtml/itemId/269991 
+http://meteor.aihw.gov.au/content/index.phtml/itemId/334976 
+http://meteor.aihw.gov.au/content/index.phtml/itemId/472513 
+Cataract Extraction: 42698-00 [195], 42702-00 [195], 42702-01 [195], 42698-01 [196], 42702-02 [196], 42702-03 
+[196], 42698-02 [197], 42702-04 [197], 42702-05 [197], 42698-03 [198], 42702-06 [198], 42702-07 [198], 42698-04 
+[199], 42702-08 [199], 42702-09 [199], 42731-01 [200], 42698-05 [200], 42702-10 [200], 42734-00 [201], 42788-00 
+[201], 42719-00 [201], 42731-00 [201], 42719-02 [201], 42791-02 [201], 42716-00 [202], 42702-11 [200], 42719-00 
+[201], 42722-00 [201]. Coronary Artery bypass graft: 38497-00 [672], 38497-01 [672], 39497-02 [672], 38497-03 
+[672], 38497-04 [673], 38497-05 [673], 38497-06 [673], 39497-07 [673], 38500-00 [674], 38503-00 [674], 38500-01 
+[675], 38503-01 [675], 38500-02 [676], 38503-02 [676], 38500-03 [677], 8503-03 [677], 38500-04 [678], 38503-04 
+[678], 90201-00 [679], 90201-01 [679], 90201-02 [679], 90201-03 [679]. Prostatectomy: 37203-00 [1165], 37203-
+02 [1165], 37207-00 [1166], 37207-01 [1166], 37203-05 [1166], 37203-06 [1166], 37200-03 [1167], 37200-04 
+[1167], 37209-00 [1167], 37200-05 [1167], 90407-00 [1168], 37201-00 [1165], 37203-03 [1166], 37203-04 [1166], 
+37224-00 [1162], 37224-01 [1162]. Hysterectomy: 35653-00 [1268], 35653-01 [1268], 35653-02 [1268], 35653-03 
+[1268], 35661-00 [1268], 35670-00 [1268], 35667-00 [1268], 35664-00 [1268], 35657-00 [1269], 35750-00 [1269], 
+35756-00 [1269], 35673-00 [1269], 35673-01 [1269], 35753-00 [1269], 35753-01 [1269], 35756-01 [1269], 35756-02 
+[1269], 35667-01 [1269], 35664-01 [1269] 90450-00 [989] 90450-01 [989] 90450-02 [989]. Total hip replacement: 
+49318-00 [1489], 49319-00 [1489], 49324-00 [1492], 49327-00 [1492], 49330-00 [1492], 49333-00 [1492], 49345-00 
+[1492]. Total knee replacement: 49518-00 [1518], 49519-00 [1518], 49521-00 [1519], 49521-01 [1519], 49521-02 
+[1519], 49521-03 [1519], 49524-00 [1519], 49524-01 [1519], 49527-00 [1524], 49530-00 [1523], 49530-01 [1523], 
+49533-00 [1523], 49554-00 [1523], 49534-00 [1519]. 
+Further information: 
+http://www.aihw.gov.au/publication-detail/?id=10737421633 
+http://www.aihw.gov.au/national-elective-surgery-waiting-times-data/ Canada Source of data: Provincial wait time registry representatives from each province submit provincial 
+summary level wait time data and volumes of procedures to CIHI (The Canadian Institute for Health 
+Information) annually. This data is published in an annual CIHI wait times report. Each annual report can 
+be found at the following link: https://secure.cihi.ca/estore/productSeries.htm?pc=PCC395. These data are 
+also presented in a new wait time reporting system which can be found at the following link: DELSA/HEA/WD/HWP(2013)8 33 http://waittimes.cihi.ca/. The reports have been published for the past 7 years. However, Provinces began 
+submitting according to a standard definition in 2008 (4 years ago). Provinces submit data for wait times 
+for hip replacements, knee replacements, Coronary Artery Bypass Graft (CABG), cataract surgery, 
+radiation therapy, MRI and CT scans. This data is from provincial registries or chart audits. Some 
+provinces such as Prince Edward Island and Newfoundland and Labrador do not have registries. The 
+reference period for the data is April 1st through September 30th of each year or the nearest 6 month proxy 
+for provinces unable to produce data for the reference period. Coverage: Data coverage includes most provincial institutions or outpatient clinics where procedures 
+are performed. Population inclusions and exclusions are noted below for each procedure. CIHI calculates 
+provincial volumes for each procedure and cross-checks with volumes provided by provinces to ensure 
+coverage matches definitions agreed to. Deviation from the definition: Data supplied is for the wait times for procedure from 'the booking 
+date of surgery to date of procedure.' The booking date will be after assessment by a specialist but may 
+have a time lapse between this appointment (or the decision to treat) and the booking date. Provinces are 
+working towards reducing the time between "ready to treat" and "booking date" through system 
+efficiencies. Estimation: The median waiting time is an estimation of weighted median for all procedures. The 10 
+provinces provide CIHI with summary level data and volumes. Using the volumes and summary level data 
+we calculate an "all Canada" median wait for hips, knees, CABG, cataracts, and radiation. Waiting times 
+are based on the ICD-10-CA/CCI Classification system. The codes are based on inclusions and exclusions 
+to the procedure definitions. Provinces will use the coding to link provincial registry data with the DAD for 
+quality checks. Further information: http://waittimes.cihi.ca/ England Source of data: Hospital Episodes Statistics, The Health and Care Information Centre. HES years 
+from April to March. Coverage: National Health Service providers in England. Estimation: 2011 data are provisional to Dec 2011 (the latest available). 
+Procedures coded using OPCS4 / ICD10 codes -no exact match against ICD-9-CM is offered. Note the 
+following: OPCS4.2 codes were used up to and including 2005-06, OPCS4.3 from 2006-07, OPCS4.4 from 
+2007-08 and OPCS4.5 from 2009-10. There were some changes to relevant codes over the years, as 
+indicated. Cataract surgery: 2007-2011: C71-C75; 2000-2006: C71,C72,C74,C75. PTCA: 2007-2011:K49, 
+K50.1, K75; 2000-2006: K49, K50.1, K75, K50.8 in conjunction with L71.8. Coronary Bypass: K40-K46 
+(Coronary Artery Bypass Graft). Prostatectomy: M61. Vaginal hysterectomy: Q08. Total and partial 
+hip replacement (includes the revision of hip replacement): 2006-2011: W37-W39, W46-W48, W93-
+W95 (Prosthetic replacement of hip joint (total or hybrid) or head of femur); 2000-2005: W37-W39, W46-
+W48. Knee Replacement: W40-W42 Further information: www.hesonline.nhs.uk Finland Source of data: National Institute for Health and Welfare (THL)/Care Register DELSA/HEA/WD/HWP(2013)8 34 Estimation: Nomesco codes, Finnish version Cataract surgery: CJC, CJD, CJE. Percutaneous transluminal coronary angioplasty (PTCA): 
+TFN40, TFN50, FN1AT, FN1BT, FN1YT, Heart patient's codes: AN2, AN3, AN4. Coronary bypass: 
+FNA, FNB, FNC, FND, FNE, Heart patient's codes: AA1, AA2, AA3, AAX. Vaginal hysterectomy: 
+LCC, LCD, LEF. Prostatectomy: KEC, KED, LCC, LCD, LEF. Total and partial hip replacement 
+(includes the revision of hip replacement): NFB. Knee replacement (includes the revision of knee 
+replacement): NGB. Further information: www.thl.fi Ireland Source of data: National Treatment Purchase Fund. Database: Patient Treatment Register. 
+Reference year is mid-year (end of June). Estimation: Waiting times are estimated using the following ICD-9-CM codes: Cataract 
+surgery:13.1-13.7 & 13.90. Percutaneous transluminal coronary angioplasty (PTCA): 36.04-36.09. 
+Coronary bypass:36.1. Prostatectomy: 60.2-60.6 & 57.71. Vaginal hysterectomy:68.5. Total and 
+partial hip replacement (includes the revision of hip replacement): 81.51-81.53. Knee replacement 
+(includes the revision of knee replacement): 81.54-81.55. Further information: www.ptr.ie Netherlands Source of data: National Health Authority (NZa). Hospitals are required to report data on waiting 
+times on their websites each month in (self-reported prospective waiting times i.e. how long a patient can 
+expect to wait for an appointment for a procedure). Mediquest gathers all these data from the websites of 
+individual hospitals and collect these. Estimation: The annual average waiting times are determined as follows: − first the unweighted average per hospital is calculated − after that using this unweighted average per hospital, the unweighted average of all hospitals 
+is determined − this is being done separately for inpatient and outpatient waiting times as well as diagnostics. Waiting times are reported according to Diagnosis Treatment Combination (DBC) codes, not ICD-9-
+CM. Further information: http://www.nza.nl/ New Zealand Source of data: National Health Board, Ministry of Health. Reference period for data is the calendar 
+year. Data for waiting times of patient on the list is as at December in each given year. Estimation: Waiting times are estimated using the following ICD-9-CM codes: Cataract 
+surgery:13.1-13.7 & 13.90. Percutaneous transluminal coronary angioplasty (PTCA): 36.04-36.09. DELSA/HEA/WD/HWP(2013)8 35 Coronary bypass: 36.1. Prostatectomy: 60.2-60.6 & 57.71. Vaginal hysterectomy: 68.5. Total and 
+partial hip replacement (includes the revision of hip replacement): 81.51-81.53. Knee replacement 
+(includes the revision of knee replacement): 81.54-81.55. Further information: http://www.nationalhealthboard.govt.nz/ Portugal Source of data: SIGLIC. Data from the hospital operational systems integrated in the central database 
+of SIGLIC. Official data extraction of 2011, at 21/02/2012. Estimation: Waiting times are estimated using the following ICD-9-CM codes: Cataract 
+surgery:13.1-13.7 & 13.90. Percutaneous transluminal coronary angioplasty (PTCA): 36.04-36.09. 
+Coronary bypass:36.1. Prostatectomy: 60.2-60.6 & 57.71. Vaginal hysterectomy:68.5. Total and 
+partial hip replacement (includes the revision of hip replacement): 81.51-81.53. Knee replacement 
+(includes the revision of knee replacement): 81.54-81.55. Further information: http://portalcodgdh.minsaude.pt/index.php/Sistema_Inform%C3%A1tico_de_Gest%C3%A3o_da_Lis 
+ta_de_Inscritos_para_Cirurgia_(SIGLIC) Spain Source of data: Ministry of Health, Social Services and Equity National Health System Information 
+System on Waiting Lists. Coverage: National (for National Health System network of hospitals (publicly 
+funded patients). Deviation from the definition: We cannot calculate median as the data collection 
+gathers statistical data pre-calculated for each autonomous communities (regions). Estimation: Waiting times are estimated using the following ICD-9-CM codes: Cataract 
+surgery:13.1-13.7 & 13.90. Prostatectomy: 60.2-60.6 & 57.71. Total and partial hip replacement 
+(includes the revision of hip replacement): 81.51-81.53. Further information: 
+http://www.msssi.gob.es/estadEstudios/estadisticas/inforRecopilaciones/listaEspera.htm Scotland Source of data: Information Services Division, NHS National Services Scotland. General/Acute 
+Inpatient and Day Case -SMR01 data. SMR01 is an episode-based patient record relating to all inpatients 
+and day cases discharged from non-obstetric and non-psychiatric specialties. Geriatric long stay is also 
+excluded. Coverage: A new patient management system (PMS) is currently being implemented in a phased 
+approach across 5 NHS Boards (NHS Borders, NHS Grampian, NHS Lanarkshire, NHS Ayrshire & Arran, 
+NHS Greater Glasgow & Clyde). There has been a noticeable impact on the submission of SMR returns 
+and therefore data should be interpreted with caution. Details of the impact on SMR submission are 
+available 
+at 
+www.isdscotland.org/Products-and-Services/Hospital-Records-Data-Monitoring/SMR-
+Completeness/index.asp. As at 11th April 2012: NHS Borders -data complete to Feb 2012NHS Grampian -over 90% of data 
+to Jun 2011 complete; NHS Lanarkshire -over 90% of data to Dec 2011 complete; NHS Ayrshire & Arran DELSA/HEA/WD/HWP(2013)8 36 -over 90% of data to Dec 2011 complete; NHS Greater Glasgow & Clyde -IRH complete to Sep 2011; 
+VoL complete to Feb 2012. Estimation: This analysis is using SMR01 data so that procedure level analysis can be provided. 
+Waiting times analysis from SMR01 cannot be adjusted for self-deferrals or periods of medical /social 
+unavailability. ISD National Statistics for hospital waiting times come from the source New Ways. This 
+analysis is adjusted for unavailability and is therefore not comparable to this analysis being provided to 
+OECD. In NHS Scotland, procedures are recorded using the OPCS-4 classification. The OPCS-4 
+procedure codes used to define the procedure groupings were as followed: CATARACT: C71, C72, C74, 
+C75; KNEE REPLACEMENT: W40, W41, W420, W421, W422, W423, W425, W427, W428, W429, 
+O180, O181, O182, O183, O185, O186, O187, O188, O189; HIP: W37, W38, W46, W47, W93, W94, 
+W390, W391, W392, W393, W395, W397, W398, W399, W480, W481, W482, W483, W486, W487, 
+W488, W489, W950, W951, W952, W953, W955, W956, W957, W958, W959; HYSTERECTOMY: 
+Q08; PTCA: K49, K75, K501; CORONARY BYPASS: K40, K41, K42, K43, K44, K46; 
+PROSTATECTOMY: M61. Further information: www.isdscotland.org/Health-Topics/Hospital-Care Sweden Source of data: Nationella väntetidsdatabasen Sveriges Kommuner och Landsting (SKL), National 
+waiting time database Swedish Association of Local Authorities and Regions (SALAR). Deviation from the definition: Just Total Hip Replacement (partial hip not included). Estimation: We do not know the exact waiting times for any patient, and we therefore only give an 
+estimated number for the median, as we cannot compute either the mean or the median exactly. Mean 
+waiting time cannot be calculated. In Sweden waiting times are presented in intervals, in the sense that we 
+only know which of the intervals 0-30, 31-60, 61-90, 91-120, 121-180, 181-365 and 365-infinity a data 
+point belongs to. We do not know how many days each patient has been waiting and because of that we 
+cannot calculate mean waiting time. Estimation of the median waiting time. From the binned data we can 
+compute which interval the median belongs to, and we attempt to estimate if the median is in the lower, 
+middle, or upper part of the interval, which allows us to arrive at a number for the estimated median. We 
+do not have a well-defined procedure for the estimation of the median within the interval, and we have not 
+attempted to estimate the expected error in our procedure. The point in the interval at which the median lies 
+has been estimated on the assumption that waiting times are normally distributed within the interval. The estimation of the median waiting time was done as follows: @BULLET The total number of patients waiting was divided by two. We thereafter identified in which 
+waiting-time interval the middle patient (the median) occurs. @BULLET To get an estimation of the median waiting time we have put that number in relation to the ranges 
+around. @BULLET The following ICD-9-CM codes are used: Cataract surgery:13.1-13.7 & 13.90; Coronary bypass:36.1; Total and partial hip replacement 
+(includes the revision of hip replacement): 81.51-81.53; Knee replacement (includes the revision of knee 
+replacement): 81.54-81.55. DELSA/HEA/WD/HWP(2013)8 37 Further information: www.vantetider.se Slovenia Source of data: National Institute of Public Health of the Republic of Slovenia. Data drawn from the 
+regular survey "Nacionalne čakalne dobe" based on the requirements of the Rules on the management of 
+waiting lists and waiting times the maximum permissible for individual health services Coverage: Coverage is national. Deviation from the definition: Estimation: There are three levels of urgency of referrals. A referral that is marked as  " urgent "  
+requires the immediate attention of the physician and is therefore not included in any waiting list. The 
+other 2 levels of urgency are  " fast "  and  " regular " . Healthcare service providers are required to keep 
+separate waiting lists according to the urgency level. Waiting times are also reported separately for these 2 
+urgency levels. The data presented in the table has been computed as a weighted average of the waiting 
+times for the 2 urgency levels. Slovenia uses the ICD-10-AM codes. The specifications of the codes 
+included for each waiting list is provided below, with clarifications were the description of the procedure in 
+the national waiting lists and in the OECD document differ significantly. Cataract surgery: 42698-00, 42698-01, 42698-02, 42698-03, 42698-05,42698-04,42701-00,42701-
+01,42702-00, 42702-01, 42702-02, 42702-03, 42702-04, 42702-05, 42702-06, 42702-07, 42702-08,42702-
+09,42702-10,42702-11, 42703-00, 42704-00, 42704-01, 42707-00, 42710-00, 42713-00, 42716-00, 42731-
+00,42731-01, 42737-00, 42734-00, 42788-00, 42791-02, 42719-00, 42722-00, 42731-00, 42719-02, 
+90077-00. Percutaneous transluminal coronary angioplasty (PTCA): 38215-00, 38218-00, 38218-
+01,38218-02,35304-00,35305-00,35310-00,35310-01,35310-02. Coronary bypass: Included in the « open 
+heart surgery » waiting list. Not monitored separately. Prostatectomy and Vaginal hysterectomy: Not 
+monitored. Total and partial hip replacement (includes the revision of hip replacement): 47522-
+00,49312-00,49315-00,49318-00,49319-00,49324-00,49327-00,49330-00,49333-00,49339-00,49342-
+00,49345-00,49346-00. Knee replacement (includes the revision of knee replacement): 49515-
+00,49512-00,49517-00,49518-00,49519-00,49521-00,49521-01,49521-02,49521-03,49524-00,49524-
+01,49534-00,49530-00,49530-01,49533-00,49554-00,49527-00. Further information: http://www.ivz.si/?ni=175 DELSA/HEA/WD/HWP(2013)8 38 OECD HEALTH WORKING PAPERS A full list of the papers in this series can be found on the OECD website: http://www.oecd.org/health/workingpapers No. 66 THE ROLE OF FISCAL POLICIES IN HEALTH PROMOTION (2013) Franco Sassi 
+(Forthcoming) No. 65 ALCOHOL CONSUMPTION AND HARMFUL DRINKING: TRENDS AND SOCIAL 
+DISPARIETIES IN OECD COUNTRIES (2013) Franco Sassi (Forthcoming) No. 64 MANAGING HOSPITAL VOLUMES: GERMANY AND EXPERIENCES FROM OECD 
+COUNTRIES (2013) Michael Schoenstein and Ankit Kumar No. 63 VALUE IN PHARMACEUTICAL PRICING (2013) Valérie Paris, Annalisa Belloni No. 62 HEALTH WORKFORCE PLANNING IN OECD COUNTRIES: A REVIEW OF 26 PROJECTION 
+MODELS FROM 18 COUNTRIES (2013) Tomoko Ono, Gaetan Lafortune and Michael 
+Schoenstein No. 61 INTERNATIONAL VARIATIONS IN A SELECTED NUMBER OF SURGICAL PROCEDURES 
+(2013) Klim McPherson, Giorgia Gon, Maggie Scott No. 60 HEALTH SPENDING GROWTH AT ZERO: WHICH COUNTRIES, WHICH SECTORS ARE 
+MOST AFFECTED? (2013) David Morgan and Roberto Astolfi No. 59 A COMPARATIVE ANALYSIS OF HEALTH FORECASTING METHODS (2012) Roberto 
+Astolfi, Luca Lorenzoni, Jillian Oderkirk No. 58 INCOME-RELATED INEQUALITIES IN HEALTH SERVICE UTILISATION IN 19 OECD 
+COUNTRIES, 2008-09 (2012) Marion Devaux and Michael de Looper No. 57 THE IMPACT OF PAY INCREASES ON NURSES' LABOUR MARKET: A REVIEW OF 
+EVIDENCE FROM FOUR OECD COUNTRIES (2011) James Buchan and Steven Black No. 56 DESCRIPTION OF ALTERNATIVE APPROACHES TO MEASURE AND PLACE A VALUE ON 
+HOSPITAL PRODUCTS IN SEVEN OECD COUNTRIES (2011) Luca Lorenzoni and Mark 
+Pearson No. 55 MORTALITY AMENABLE TO HEALTH CARE IN 31 OECD COUNTRIES: ESTIMATES AND 
+METHODOLOGICAL ISSUES (2011) Juan G. Gay, Valerie Paris, Marion Devaux, 
+Michael de Looper No. 54 NURSES IN ADVANCED ROLES: A DESCRIPTION AND EVALUATION OF EXPERIENCES 
+IN 12 DEVELOPED COUNTRIES (2010) Marie-Laure Delamaire and Gaetan Lafortune No. 53 COMPARING PRICE LEVELS OF HOSPITAL SERVICE ACROSS COUNTRIES: RESULTS OF 
+A PILOT STUDY (2010) Luca Lorenzoni No. 52 GUIDELINES FOR IMPROVING THE COMPARABILITY AND AVAILABILITY OF PRIVATE 
+HEALTH EXPENDITURES UNDER THE SYSTEM OF HEALTH ACCOUNTS FRAMEWORK 
+(2010) Ravi P. Rannan-Eliya and Luca Lorenzoni DELSA/HEA/WD/HWP(2013)8 39 No. 51 EFFECTIVE WAYS TO REALISE POLICY REFORMS IN HEALTH SYSTEMS (2010) 
+Jeremy Hurst No. 50 HEALTH SYSTEMS INSTITUTIONAL CHARACTERISTICS A SURVEY OF 29 OECD 
+COUNTRIES (2010) Valerie Paris, Marion Devaux and Lihan Wei No. 49 THE CHALLENGE OF FINANCING HEALTH CARE IN THE CURRENT CRISIS (2010) Peter 
+Scherer, Marion Devaux No. 48 IMPROVING LIFESTYLES, TACKLING OBESITY: THE HEALTH AND ECONOMIC IMPACT 
+OF PREVENTION STRATEGIES (2009) Franco Sassi, Michele Cecchini, Jeremy Lauer and Dan 
+Chisholm No. 47 HEALTH CARE QUALITY INDICATORS PROJECT: PATIENT SAFETY INDICATORS 
+REPORT 2009 (2009) Saskia Drösler, Patrick Romano, Lihan Wei; and 
+ANNEX Saskia Drösler No. 46 EDUCATION AND OBESITY IN FOUR OECD COUNTRIES (2009) Franco Sassi, Marion 
+Devaux, Jody Church, Michele Cecchini and Francesca Borgonovi No. 45 THE OBESITY EPIDEMIC: ANALYSIS OF PAST AND PROJECTED FUTURE TRENDS IN 
+SELECTED OECD COUNTRIES (2009) Franco Sassi, Marion Devaux, Michele Cecchini and 
+Elena Rusticelli No. 44 THE LONG-TERM CARE WORKFORCE: OVERVIEW AND STRATEGIES TO ADAPT SUPPLY 
+TO A GROWING DEMAND (2009) Rie Fujisawa and Francesca Colombo No. 43 MEASURING DISPARITIES IN HEALTH STATUS AND IN ACCESS AND USE OF HEALTH 
+CARE IN OECD COUNTRIES (2009) Michael de Looper and Gaetan Lafortune No. 42 POLICIES FOR HEALTHY AGEING: AN OVERVIEW (2009) Howard Oxley No. 41 THE REMUNERATION OF GENERAL PRACTITIONERS AND SPECIALISTS IN 14 OECD 
+COUNTRIES: WHAT ARE THE FACTORS EXPLAINING VARIATIONS ACROSS 
+COUNTRIES? (2008) Rie Fujisawa and Gaetan Lafortune No. 40 INTERNATIONAL MOBILITY OF HEALTH PROFESSIONALS AND HEALTH WORKFORCE 
+MANAGEMENT IN CANADA: MYTHS AND REALITIES (2008) Jean-Christophe Dumont, 
+Pascal Zurn, Jody Church and Christine Le Thi No. 39 PHARMACEUTICAL PRICING & REIMBURSEMENT POLICIES IN GERMANY (2008) Valérie 
+Paris and Elizabeth Docteur No. 38 MIGRATION OF HEALTH WORKERS: THE UK PERSPECTIVE TO 2006 (2008) James 
+Buchan, Susanna Baldwin and Miranda Munro No. 37 THE US PHYSICIAN WORKFORCE: WHERE DO WE STAND? (2008) Richard A. Cooper No. 36 MIGRATION POLICIES OF HEALTH PROFESSIONALS IN FRANCE (2008) Roland Cash and 
+Philippe Ulmann DELSA/HEA/WD/HWP(2013)8 40 RECENT RELATED OECD PUBLICATIONS CANCER CARE – ASSURING QUALITY TO IMPROVE SURVIVAL (2013) A GOOD LIFE IN OLD AGE? MONITORING AND IMPROVING QUALITY IN LONG-TERM CARE 
+(2013) STRENGTHENING HEALTH INFORMATION INFRASTRUCTURE FOR HEALTH CARE QUALITY 
+GOVERNANCE (2013) WAITING TIME POLICIES IN THE HEALTH SECTOR, WHAT WORKS? (2013) OECD REVIEWS OF HEALTH CARE QUALITY – DENMARK (2013) OECD HEALTH DATA 2013 
+(Database available from http://www.oecd.org/els/health-systems/oecdhealthdata.htm) HEALTH AT A GLANCE: ASIA/PACIFIC (2012) HEALTH AT A GLANCE: EUROPE (2012) OECD REVIEWS OF HEALTH SYSTEMS -RUSSIAN FEDERATION (2012) OECD REVIEWS OF HEALTH CARE QUALITY – KOREA (2012) OECD REVIEWS OF HEALTH CARE QUALITY – ISRAEL (2012) SICK ON THE JOB? MYTHS AND REALITIES ABOUT MENTAL HEALTH AND WORK (2011) OECD REVIEWS OF HEALTH SYSTEMS -SWITZERLAND (2011) HEALTH AT A GLANCE 2011: OECD INDICATORS (2011) 
+See http://www.oecd.org/health/healthataglance for more information HEALTH REFORM: MEETING THE CHALLENGE OF AGEING AND MULTIPLE MORBIDITIES 
+(2011) A SYSTEM OF HEALTH ACCOUNTS (2011) HELP WANTED? PROVIDING AND PAYING FOR LONG-TERM CARE (2011) IMPROVING VALUE IN HEALTH CARE: MEASURING QUALITY (2010) VALUE FOR MONEY IN HEALTH SPENDING (2010) OBESITY AND THE ECONOMICS OF PREVENTION: FIT NOT FAT (2010) For a full list, consult the OECD On-Line Bookstore at www.oecd.org, 
+or write for a free written catalogue to the following address: 
+OECD Publications Service 
+2, rue André-Pascal, 75775 PARIS CEDEX 16 
+or to the OECD Distributor in your country 

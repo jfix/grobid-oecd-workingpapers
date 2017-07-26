@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="laboratory">Division de la politique de la science et de la technologie et Division des analyses économiques et des statistiques Direction de la science</orgName>,
+							<address>
+								<addrLine>de la technologie et de l&apos;industrie</addrLine>,
+								<region>OCDE</region>
+							</address>
+							<orgName type="laboratory">Division des analyses économiques et des statistiques Direction de la science, de la technologie et de l&apos;industrie, OCDE</orgName>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<address>
+								<country>Australia</country>,
+								<country>Austria</country>,
+								<country>Belgium</country>,
+								<country>Canada</country>,
+							</address>
+							<orgName type="institution">the Czech Republic</orgName>,
+							<address>
+								<country>Denmark</country>,
+								<country>Finland</country>,
+								<country>France</country>,
+								<country>Germany</country>,
+								<country>Greece</country>,
+								<country>Hungary</country>,
+								<country>Iceland</country>,
+								<country>Ireland</country>,
+								<country>Italy</country>,
+								<country>Japan</country>,
+								<country>Korea</country>,
+								<country>Luxembourg</country>,
+								<settlement>Mexico</settlement>,
+								<country>the Netherlands</country>,
+							</address>
+							<orgName type="institution">New Zealand</orgName>,
+							<address>
+								<settlement>Norway</settlement>,
+								<country>Poland</country>,
+								<country>Portugal</country>,
+							</address>
+							<orgName type="institution">the Slovak Republic</orgName>,
+							<address>
+								<country>Spain</country>,
+								<country>Sweden</country>,
+								<country>Switzerland</country>, Austria,
+								<country>Belgium</country>, the Czech Republic,
+								<country>Finland</country>,
+								<country>France, Germany</country>,
+								<country>Greece, Iceland</country>,
+								<country>Ireland, Italy</country>,
+								<country>Korea, Luxembourg</country>,
+								<addrLine>Mexico, the Netherlands</addrLine>,
+								<settlement>Norway</settlement>,
+								<country>Portugal</country>,
+							</address>
+							<orgName type="institution">Slovak Republic</orgName>,
+							<address>
+								<country>Spain</country>,
+								<country>Sweden, Switzerland,</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

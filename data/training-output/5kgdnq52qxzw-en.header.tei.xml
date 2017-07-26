@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="5kgdnq52qxzw-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">Please cite this paper as:<lb/> Stone, S., R. Cavazos Cepeda and A. Jankowska (2011),<lb/> &quot; The Role of Factor Content in Trade: Have Changes in<lb/> Factor Endowments Been Reflected in Trade Patterns and on<lb/> Relative Wages? &quot; , OECD Trade Policy Papers, No. 109,<lb/> OECD Publishing, Paris.<lb/></note>
+
+	<ptr type="web">http://dx.doi.org/10.1787/5kgdnq52qxzw-en<lb/> OECD Trade Policy Papers No. 109<lb/></ptr>
+
+	<docTitle>
+	<titlePart>The Role of Factor Content<lb/> in Trade<lb/> HAVE CHANGES IN FACTOR ENDOWMENTS<lb/> BEEN REFLECTED IN TRADE PATTERNS AND<lb/> ON RELATIVE WAGES?<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Susan Stone, Ricardo Cavazos Cepeda,<lb/> Anna Jankowska<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>JEL Classification:</affiliation>
+	</byline>
+
+	<address>F0, F14, F20<lb/></address>
+
+	<p type="introduction">OECD TRADE POLICY WORKING PAPERS<lb/> The OECD Trade Policy Working Paper series is designed to make available to a<lb/> wide readership selected studies by OECD staff or by outside consultants, and is<lb/> generally available only in the original language English or French.<lb/> This document has been declassified by decision of the Working Party of the Trade<lb/> Committee under the OECD reference number TAD/TC/WP(2010)14/FINAL.<lb/> Comments on the series are welcome and should be sent to tad.contact@oecd.org.<lb/> OECD TRADE POLICY WORKING PAPERS<lb/> are published on www.oecd.org/trade<lb/> © OECD 2011<lb/> Applications for permission to reproduce or translate all or part of this material should be made to:<lb/> OECD Publishing, rights@oecd.org or by fax 33 1 45 24 99 30.<lb/></p>
+
+	<note type="other">2 – THE ROLE OF FACTOR CONTENT IN TRADE: HAVE CHANGES IN FACTOR ENDOWMENTS BEEN REFLECTED IN TRADE PATTERNS AND ON RELATIVE WAGES?<lb/> OECD TRADE POLICY WORKING PAPER NO. 109 © OECD 2011<lb/></note>
+
+	<docTitle>
+	<titlePart>ABSTRACT<lb/> THE ROLE OF FACTOR CONTENT IN TRADE:<lb/> HAVE CHANGES IN FACTOR ENDOWMENTS BEEN REFLECTED<lb/> IN TRADE PATTERNS AND ON RELATIVE WAGES?<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>by<lb/> Susan F. Stone, Ricardo Cavazos and Anna Jankowska<lb/> OECD Secretariat<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">The pattern of trade analysed from a factor content perspective reflects the relative<lb/> factor endowments of the countries examined. Although some large economies, such as<lb/> the United States, seem to exhibit counter-intuitive behaviour, this is reversed when<lb/> intermediate trade is taken into account. We argue this is a reflection of the changing<lb/> nature of production processes and trade. The evidence presented here implies factor<lb/> endowments are undergoing changes that call for careful analysis of the measures<lb/> commonly used in trade. Acknowledging the role of intermediate goods to understand a<lb/> country&apos;s factor content trade position is one step. Additionally, one must account for the<lb/> interaction between the domestic determination of employment and wages with<lb/> international movement of goods and services, and location of tasks.<lb/></div>
+
+	<keyword>Key words: Factor content, comparative advantage, intermediate inputs, wages.<lb/> JEL Classification: F0, F14, F20<lb/></keyword>
+
+	<note type="other">Acknowledgements<lb/> This study was prepared by Susan Stone, Ricardo Cavazos and Anna Jankowska<lb/> under the supervision of Michael Plummer. Clarisse Legendre and Jacqueline Maher<lb/> provided excellent statistical and administrative support, respectively. The report<lb/> benefited from discussions with OECD colleagues in the Trade and Agriculture<lb/> Directorate and the Employment, Labour and Social Affairs Directorate as well as the<lb/> OECD Working Party of the Trade Committee which has agreed to make the study more<lb/> widely available through declassification on its responsibility.<lb/></note>
+
+	<docTitle>
+	<titlePart>THE ROLE OF FACTOR CONTENT IN TRADE: HAVE CHANGES IN FACTOR ENDOWMENTS BEEN REFLECTED IN TRADE PATTERNS AND ON RELATIVE WAGES?– 3<lb/></titlePart>
+	</docTitle>
+
+	<note type="other">OECD TRADE POLICY WORKING PAPER NO. 109</note>
+
+	<note type="copyright">© OECD 2011<lb/></note>
+
+	<p type="introduction">Table of contents<lb/> Executive Summary ............................................................................................................................. 4<lb/> I.<lb/> Introduction ................................................................................................................................ 5<lb/> II. The Heckscher-Ohlin theory of international trade .................................................................... 6<lb/> III. Trends in factor endowments ..................................................................................................... 8<lb/> Relative factor endowments ............................................................................................................ 8<lb/> Trends in factor utilisation in OECD Countries ............................................................................ 11<lb/> Capital and labour utilisation in selected emerging markets ......................................................... 12<lb/> Productivity.................................................................................................................................... 13<lb/> IV. Measuring factor content .......................................................................................................... 13<lb/> Data ................................................................................................................................................ 14<lb/> How has factor usage within a country changed over time? .......................................................... 15<lb/> How has factor content of trade changed over time? ..................................................................... 17<lb/> What role has intermediate inputs played in measuring factor content of trade? ........................... 19<lb/> China .............................................................................................................................................. 20<lb/> United States .................................................................................................................................. 21<lb/> V. Relationship between trade and relative wages ........................................................................ 23<lb/> VI. Conclusions and areas of policy consideration ......................................................................... 28<lb/> References ............................................................................................................................................. 30<lb/> Data Annex ............................................................................................................................................ 33<lb/> Technical Annex .................................................................................................................................... 43<lb/> 4 – THE ROLE OF FACTOR CONTENT IN TRADE: HAVE CHANGES IN FACTOR ENDOWMENTS BEEN REFLECTED IN TRADE PATTERNS AND ON RELATIVE WAGES?<lb/> OECD TRADE POLICY WORKING PAPER NO. 109 © OECD 2011<lb/> THE ROLE OF FACTOR CONTENT IN TRADE: HAVE CHANGES IN FACTOR ENDOWMENTS BEEN REFLECTED IN TRADE PATTERNS AND ON RELATIVE WAGES?– 5<lb/> OECD TRADE POLICY WORKING PAPER NO. 109 © OECD 2011<lb/> domestic issues. Rather they should implement proactive measures– such as greater<lb/> investment in resource markets through training and education and ensuring well<lb/> functioning capital markets – that create an environment conducive to taking full<lb/> advantage of these trends.<lb/> Table 2. Country and input/output table coverage<lb/> GTAP7.1 GTAP6<lb/> GTAP5<lb/> Code<lb/> World Economy<lb/></p>
+
+	<date type="submission">2004<lb/> 2001<lb/> 1997<lb/> ARG<lb/> Argentina<lb/> 2000<lb/> 2000<lb/> **<lb/> AUS<lb/> Australia<lb/> 1997<lb/> 1997<lb/> 1994<lb/> AUT<lb/> Austria<lb/> 2000<lb/> 1983<lb/> 1983<lb/> BEL<lb/> Belgium<lb/> 2000<lb/> 1995<lb/> 1995<lb/> BGD<lb/> Bangladesh<lb/> 1994<lb/> 1994<lb/> 1994<lb/> BRA<lb/> Brazil<lb/> 1996<lb/> 1996<lb/> 1996<lb/> CAN<lb/> Canada<lb/> 2003<lb/> 1990<lb/> 1990<lb/> CHE<lb/> Switzerland<lb/> 2005<lb/> 1990<lb/> 1990<lb/> CHL<lb/> Chile<lb/> 2003<lb/> 1996<lb/> **<lb/> CHN<lb/> China<lb/> 2007<lb/> 1997<lb/> 1997<lb/> DEU<lb/> Germany<lb/> 2000<lb/> 1995<lb/> 1995<lb/> DNK<lb/> Denmark<lb/> 2000<lb/> 1992<lb/> 1992<lb/> ESP<lb/> Spain<lb/> 2000<lb/> 1994<lb/> 1994<lb/> EST<lb/> Estonia<lb/> 2000<lb/> 1997<lb/> 1997<lb/> FIN<lb/> Finland<lb/> 2000<lb/> 1995<lb/> 1995<lb/> FRA<lb/> France<lb/> 2000<lb/> 1992<lb/> 1992<lb/> GBR<lb/> United Kingdom<lb/> 2000<lb/> 1990<lb/> 1990<lb/> GRC<lb/> Greece<lb/> 2000<lb/> 1995<lb/> 1995<lb/> HKG<lb/> Hong Kong<lb/> 1988<lb/> 1988<lb/> 1988<lb/> HUN<lb/> Hungary<lb/> 2000<lb/> 1996<lb/> 1991<lb/> IDN<lb/> Indonesia<lb/> 2004<lb/> 1995<lb/> 1995<lb/> IND<lb/> India<lb/> 2000<lb/> 1994<lb/> 1994<lb/> IRL<lb/> Ireland<lb/> 2000<lb/> 1990<lb/> 1990<lb/> ITA<lb/> Italy<lb/> 2000<lb/> 1992<lb/> 1992<lb/> JPN<lb/> Japan<lb/> 2000<lb/> 2000<lb/> 1995<lb/> KOR<lb/> Korea<lb/> 2003<lb/> 2000<lb/> 1995<lb/> LUX<lb/> Luxembourg<lb/> 2000<lb/> 1995<lb/></date>
+
+	<p type="introduction">&apos;<lb/> &apos;<lb/> k<lb/> i<lb/> k<lb/> k<lb/> i<lb/> k<lb/> c<lb/> V<lb/> c<lb/> V <lb/> (A10)<lb/> The relationship in (9) states that the content of factor k in net exports is higher<lb/> (lower) than that of factor k&apos; if factor k is relatively more abundant (less abundant); where<lb/> factor contents are normalised by domestic consumption. We can also restate these<lb/> values, measuring factor abundance by income rather than consumption, adjusting this<lb/> value to take account of the trade balance as in Bowen and Sveikauskas (1992). To<lb/> account for a country&apos;s income level (Y i ) adjusted by the trade balance (b i ) we can restate<lb/> c k as follows:<lb/> k<lb/> i<lb/> i<lb/> i<lb/> b<lb/> k<lb/> c<lb/> b<lb/> Y<lb/> Y<lb/> c<lb/> *<lb/> <lb/> <lb/> (A11)<lb/> and rank each factor accordingly.</p>
+
+		</front>
+	</text>
+</tei>

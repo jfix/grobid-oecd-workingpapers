@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">la Belgique</orgName>,
+							<address>
+								<addrLine>le Canada, le Chili, la Corée</addrLine>,
+								<addrLine>le Danemark, l&apos;Espagne, l&apos;Estonie</addrLine>,
+							</address>
+							<orgName type="institution">les États-Unis</orgName>,
+							<address>
+								<addrLine>la Finlande</addrLine>,
+								<addrLine>la France</addrLine>,
+								<addrLine>la Grèce</addrLine>,
+							</address>
+							<orgName type="institution">la Hongrie, l&apos;Irlande, l&apos;Islande</orgName>,
+							<address>
+								<country>Israël</country>,
+								<region>l&apos;Italie</region>,
+							</address>
+							<orgName type="institution">le Japon, le Luxembourg, le Mexique, la Norvège</orgName>,
+							<orgName type="institution">la Nouvelle-Zélande</orgName>,
+							<orgName type="institution">les Pays-Bas, la Pologne, le Portugal</orgName>,
+							<orgName type="laboratory">la République slovaque, la République tchèque</orgName>,
+							<orgName type="institution">le Royaume-Uni, la Slovénie</orgName>,
+							<address>
+								<addrLine>la Suède</addrLine>,
+								<country>la Suisse</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

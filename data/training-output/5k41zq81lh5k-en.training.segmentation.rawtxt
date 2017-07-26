@@ -1,0 +1,815 @@
+Please cite this paper as: Kelly, E. et al. (2013),  " Transitions in and out of 
+Unemployment among Young People in the Irish Recession " , 
+OECD Economics Department Working Papers, No. 1084, 
+OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/5k41zq81lh5k-en OECD Economics Department Working 
+Papers No. 1084 Transitions in and out of 
+Unemployment among 
+Young People in the Irish 
+Recession Elish Kelly, Seamus McGuinness, 
+Philip O'Connell, David Haugh, 
+Alberto González Pandiella JEL Classification: E24, J21, J61, J64 Unclassified ECO/WKP(2013)76 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 16-Aug-2013 
+___________________________________________________________________________________________ 
+English -Or. English ECONOMICS DEPARTMENT TRANSITIONS IN AND OUT OF UNEMPLOYMENT AMONG YOUNG PEOPLE IN THE IRISH 
+RECESSION ECONOMICS DEPARTMENT WORKING PAPERS No. 1084 By Elish Kelly, Seamus McGuinness, Philip O'Connell, David Haugh and Alberto González Pandiella All Economics Department Working Papers are available through OECD's Internet website at 
+http://www.oecd.org/eco/Workingpapers JT03343612 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. ECO/WKP(2013)76 
+Unclassified English -Or. English Cancels & replaces the same document of 13 August 2013 ECO/WKP(2013)76 2 ABSTRACT/RESUMÉ Transitions in and out of unemployment among young people in the Irish recession Young people have been hit hard by unemployment during the Irish recession. While much research 
+has been undertaken to study the effects of the recession on overall labour market dynamics, little is known 
+about the specific effects on youth unemployment and the associated challenges. This paper attempts to fill 
+this gap by comparing the profile of transitions to work before the recession (2006) and as the economy 
+emerged from the recession (2011). The results indicate that the rate of transition of the youth from 
+unemployment to employment fell dramatically. The fall is not due to changes in the composition or the 
+characteristics of the unemployed group but to changes in the external environment, which implied that the 
+impact of certain individual characteristics changed over the course of the recession. In particular, for 
+youth, education and nationality have become more important for finding a job in Ireland. This Working Paper relates to the 2013 OECD Economic Survey of Ireland (www.oecd.org/eco/surveys/ireland) JEL classification: J64, J61, J21, E24 Keywords: youth unemployment; transitions; decomposition techniques; longitudinal data; Great recession; Ireland ************ Les transitions de périodes de chômage et emploi parmi les jeunes dans la récession irlandaise Les jeunes ont été durement frappés par le chômage pendant la récession irlandaise. Beaucoup de 
+recherches ont été menées pour étudier les effets de la récession sur la dynamique globale du marché du 
+travail, mais on sait peu de ses effets spécifiques sur le chômage des jeunes et les défis associés. Cet article 
+tente de combler cette lacune en comparant le profil des transitions vers le travail avant la récession (2006) 
+et au moment où l'économie a émergé de la récession (2011). Les résultats indiquent que le taux de 
+transition des jeunes du chômage à l'emploi a diminué de façon spectaculaire. La chute n'est pas due à des 
+changements dans la composition ou les caractéristiques du groupe des chômeurs, mais à des changements 
+dans l'environnement externe, ce qui implique que l'impact de certaines caractéristiques individuelles a 
+changé au cours de la récession. En particulier, pour les jeunes, l'éducation et la nationalité sont devenus 
+plus importants pour trouver un emploi en Irlande. Ce Document de travail se rapporte à l'Étude économique de l'OCDE de l'Irlande, 2013 
+(www.oecd.org/eco/etudes/irlande). Classification JEL: J64, J61, J21, E24 Mots-clés: chômage des jeunes; transitions; techniques de décomposition; données longitudinales; Grande récession; 
+Irlande © OECD (2013) 
+You can copy, download or print OECD content for your own use, and you can include excerpts from OECD publications, databases and 
+multimedia products in your own documents, presentations, blogs, websites and teaching materials, provided that suitable 
+acknowledgment of OECD as source and copyright owner is given. All requests for commercial use and translation rights should be 
+submitted to rights@oecd.org ECO/WKP(2013)76 3 TABLE OF CONTENTS TRANSITIONS IN AND OUT OF UNEMPLOYMENT AMONG YOUNG PEOPLE IN THE IRISH 
+RECESSION ................................................................................................................................................... 5 I. Introduction .............................................................................................................................................. 5 
+II. The Labour Market for Young People in Ireland ................................................................................... 6 
+III. Literature Review .................................................................................................................................. 8 
+IV. Data and Methodology ........................................................................................................................ 10 
+V. Results .................................................................................................................................................. 11 
+Descriptives ........................................................................................................................................... 11 
+Econometrics ......................................................................................................................................... 13 
+VI. Conclusions ......................................................................................................................................... 17 BIBLIOGRAPHY ......................................................................................................................................... 18 Tables 1. Employment, Unemployment and Labour Force Participation among those aged 15-24 years .......... 7 
+2. Employment, Unemployment and Labour Force Participation by Gender and Age Group Q2 2011 . 7 
+3. Total and Long-term Unemployment by Age Group Q2 2011 ............................................................ 8 
+4. Profile of Unemployed Youths in 2006 and 2011 by Labour Market Status (% of total sample) ..... 12 
+5. Unemployed Youths Labour Market Transition Rates: 2006 and 2011 (% of total sample) ............. 13 
+6. Probit Models of the Determinants of Transitioning from Unemployment to Employment: 2006 and 
+2011 ........................................................................................................................................................... 14 
+7. Overall Decomposition Results (changes in transition rates) ............................................................ 15 
+8. Oaxaca Individual Coefficient Effects on the Change in the Labour Market Transition Rates between 
+2006 and 2011 ........................................................................................................................................... 16 ECO/WKP(2013)76 4 ECO/WKP(2013)76 5 TRANSITIONS IN AND OUT OF 
+UNEMPLOYMENT AMONG YOUNG PEOPLE IN THE IRISH RECESSION By Elish Kelly, Seamus McGuinness, Philip O'Connell, David Haugh and Alberto González Pandiella 1 I. Introduction The severity of the Great Recession on young people's labour market status has been well 
+documented, particularly in the most affected countries. Ireland was severely hit, as illustrated by the 
+contraction of Gross National Product (GNP) by almost 10% in 2009 (Duffy et al., 2011). The economy 
+temporarily resumed modest growth in 2010, before experiencing another contraction in 2011 
+(Duffy et al., 2013). This collapse in economic activity resulted in the country's unemployment rate 
+increasing from 4.4% in 2006 to 14.7% in 2012 (Central Statistics Office, 2012a and 2013a), while the 
+youth unemployment rate increased from 8.7% in 2006 to 30.6 % in 2012 (Eurostat, 2013) 
+2 . Two 
+developments raise particular concerns in relation to young unemployed people: the growth in the numbers 
+with no formal education, which rose from 17.4% of unemployed people aged 15-24 in 2007 to 48.9% in 
+2011 (Eurostat, 2012) 
+3 ; and the percentage who are in long-term unemployment, which increased from 20.3% in 2007 to 45.8% in 2011 (OECD, 2013) 4 . Another worry is the rise in young people not in 
+employment, education or training (NEET), which has grown from 11.8 % in 2006 to 24% in 2011 
+(Eurostat, 2013) 5 . While policy-makers are aware of the unemployment rate of young people, little is known about this 
+group's profile or the extent to which it has changed since the beginning of the recession. Gaps in 1. 
+Elish Kelly and Seamus McGuinness are at the Economic and Social Research Institute, Dublin, Ireland. 
+Philip O'Connell is at the University College, Dublin, Ireland. David Haugh and Alberto González Pandiella 
+are at the OECD, Paris. The authors are very grateful to Robert Ford, Andrew Dean and Patrick Lenain for 
+valuable comments and to Deirdre Claassen for essential technical assistance. The views expressed are those 
+of the authors, and not necessarily those of the OECD or of its member countries. 2. 
+Eurostat, March 2013: 
+http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&plugin=1&language=en&pcode=tsdec460 3. 
+Eurostat, October 2012: http://appsso.eurostat.ec.europa.eu/nui/show.do. 4. 
+OECD, March 2013: http://stats.oecd.org/Index.aspx?DatasetCode=DUR_I# 5. 
+Eurostat, March 2013: http://appsso.eurostat.ec.europa.eu/nui/setupModifyTableLayout.do ECO/WKP(2013)76 6 knowledge also exist in relation to their labour market transitions (i.e. movement from unemployment to 
+employment or inactivity, or remaining unemployed), both pre and post the great recession. Given this, and 
+particularly its importance in the design of effective activation measures to assist young unemployed 
+people, this paper addresses the following questions: 1. Has the profile of unemployed youths changed during the course of the recession? 2. What are the labour market transition patterns of young unemployed individuals' pre and post the 
+boom? 3. To what extent do changes in the composition of the youth unemployment stock explain changes 
+in youth labour market transition rates over time? 4. To what extent do changes in the labour market value of various characteristics explain changes 
+in youth labour market transition rates over time? The paper uses newly available longitudinal data from the Quarterly National Household Survey 
+(QNHS), Ireland's Labour Force Survey, to address these questions. The remainder of the paper is 
+structured as follows. Section II presents a brief overview of the Irish labour market. The literature on 
+young unemployed individuals is discussed in Section III, while the data and methodologies that are 
+employed in the paper are described in Section IV. Finally, the results from the analyses and the central 
+conclusions are presented in Sections V and VI. II. The Labour Market for Young People in Ireland The Great Recession led to a dramatic deterioration in the labour market. Total employment fell by 
+250 000 between the peak of Quarter 3 (Q3) 2007 and the end of 2009, a contraction of 11.5%. 
+Employment continued to fall, by another 100 000 from the end of 2009 to the beginning of 2012, 
+representing a cumulative decline in employment of 16% from the peak of the boom 
+(Central Statistics Office, 2013b). Subsequent employment growth has been extremely sluggish: total 
+employment increased by about 20 000, or 1.4% over the 12 months to the start of 2013. Unemployment 
+more than trebled, from 107 500 in Q3 2007 to over 328 000 in Q3 2012, and the unemployment rate 
+increased from 4.6% to more than 15% over that period. Since then, the unemployment rate has declined 
+somewhat, to 13.7% at the beginning of 2013, partly reflecting increasing part-time working, falling 
+participation and increased emigration. The deterioration in the labour market for young people has been particularly severe. Total 
+employment among those aged less than 25 years collapsed in the recession, falling by over 50%, from 
+357 000 in Q3 2007 to 172 000 in Q3 2011. Following the well-documented burst of the Irish property 
+bubble, employment losses were concentrated in the construction and related sectors, but there were 
+notable declines across the whole private sector. Young people did not participate even in the modest 
+growth in overall employment in the most recent period, with the result that at the beginning of 2013 total 
+employment among those aged less than 25 years had fallen to 148 000, representing a cumulative decline 
+in employment of almost 60% since the peak of the boom. Given this contraction in young people's 
+employment, the employment rate shrank from just under 45% in 2007 to 27% in 2013 (Table 1). The 
+unemployment rate increased from 9% of the youth labour force in 2007 to almost 30% in Q3 2011, and 
+then, driven by a fall in participation, fell back to 26% in Q1 2013. It should be noted that notwithstanding 
+these high rates of unemployment, youth unemployment generally accounts for a relatively modest share 
+of total unemployment: in 2013, youth unemployment accounted for 18% of total unemployment. ECO/WKP(2013)76 7 Table 1. Employment, Unemployment and Labour Force Participation among those aged 15-24 years Employment Rate 
+Unemployment rate 
+Participation rate 
+Unemployment ratio 
+Per cent 
+Per cent 
+Per cent 
+Per cent 
+Q3 2007 
+53.7 
+9.2 
+59.1 
+5.4 
+Q3 2011 
+30.1 
+29.8 
+42.9 
+12.8 
+Q1 2013 
+27.3 
+26.4 
+37.2 
+9.8 Source: Central Statistics Office, Quarterly National Household Survey Time Series: 
+www.cso.ie/en/qnhs/releasesandpublications/qnhs-calendarquarters/ The youth unemployment rate in Ireland is far higher than the average youth unemployment rate in 
+Europe: 23% at the start of 2013. However, care should be taken in interpreting unemployment among 
+young people, given that young people may choose to remain in education rather than entering the labour 
+market when it is in recession. The importance of this in the Irish case can be seen by focusing on the 
+labour force participation rate, which has fallen steadily, from a high of 59% in 2007 to just 37% in 2013. 
+Conefrey (2011) examines the fall in participation among the younger age groups following the recession 
+in 2008 and finds that the majority of those who exited the labour force and remain in Ireland have 
+returned to education. Participation has also been affected by increasing outward migration, which has 
+been concentrated among the youngest cohorts (Conefrey, 2013). An alternative, and perhaps more 
+appropriate, measure of unemployment among young people is the unemployment ratio, which expresses 
+unemployment as a ratio of the total population cohort, rather than the number in the labour force, as is 
+used in the unemployment rate. The unemployment ratio increased sharply from 5% in 2007 to almost 13% 
+in 2011, and subsequently fell to just under 10% of the age cohort in 2013. Table 2. Employment, Unemployment and Labour Force Participation by Gender and Age Group Q2 2011 Employment rate 
+Unemployment rate 
+Participation rate 
+Unemployment ratio 
+Per cent 
+Per cent 
+Per cent 
+Per cent 
+Male 
+15-19 
+8.6 
+46.4 
+16.0 
+7.4 
+20-24 
+45.5 
+33.4 
+68.2 
+22.8 Female 
+15-19 
+10.5 
+34.0 
+15.9 
+5.4 
+20-24 
+50.8 
+21.4 
+64.6 
+13.8 Source: Central Statistics Office, Quarterly National Household Survey (Supplementary tables) Time Series: 
+www.cso.ie/en/qnhs/releasesandpublications/qnhs-calendarquarters/ Within the youth cohort, there is considerable variation in labour market behaviour by age and gender. 
+In general, younger people, aged 15-19 have much lower participation and employment rates than those 
+aged 20-24, and while the younger cohort shows higher unemployment rates, they have lower 
+unemployment ratios. Thus, for example, the unemployment rate among males aged 15-19 years is over 
+46%, but this relates to the 16% of this age group that participates in the labour market, with the result that 
+the unemployment ratio for males aged 15-19 is just over 7% of the age group. Females have higher 
+employment rates and lower unemployment rates and ratios than males in the corresponding age groups 
+6 . 6. 
+In this more detailed discussion of the youth labour market we mainly focus on data relating to Q2 2011, the 
+start point for the panel data relating to the recession that is used in the analysis that follows. ECO/WKP(2013)76 8 Just over 29 000 individuals in the 15-24 year age group had been unemployed for 12 months or more 
+in Q2 2011. This represented 40% of the total unemployed in this age group, a substantially lower 
+incidence of long-term unemployment than observed among older age groups – for example almost 60% of 
+the unemployed aged 25-44 were long term unemployed, as were 65% of those aged 45 years or older. The 
+lower incidence of long-term among young people relative to those among older cohorts may be due to 
+higher rates of labour force withdrawal following a period of unemployment. Among young people, labour 
+force withdrawal can entail returns to education as well as emigration, which is known to be higher among 
+younger people (Central Statistics Office, 2012b). The share of long-term in total unemployment is 
+generally higher among males, and this is also true for males aged 15-24. Table 3. Total and Long-term Unemployment by Age Group Q2 2011 Male 
+Female 
+All 15-24 
+Unemployed (1,000) 
+44.5 
+28.2 
+72.7 
+Long-term Unemployed (1,000) 
+20.6 
+8.5 
+29.1 
+% Long-term 
+46.3 
+30.1 
+40.0 
+25-44 
+Unemployed (1,000) 
+117.9 
+55 
+172.9 
+Long-term Unemployed (1,000) 
+74.6 
+28.1 
+102.7 
+% Long-term 
+63.3 
+51.1 
+59.4 
+45+ 
+Unemployed (1,000) 
+51.6 
+20.1 
+71.7 
+Long-term Unemployed (1,000) 
+35.2 
+11.1 
+46.3 
+% Long-term 
+68.2 
+55.2 
+64.6 
+All 
+Unemployed (1,000) 
+214.1 
+103.3 
+317.4 
+Long-term Unemployed (1,000) 
+130.4 
+47.7 
+178.1 
+% Long-term 
+60.9 
+46.2 
+56.1 Source: Central Statistics Office, Quarterly National Household Survey (Supplementary tables) Time Series: 
+www.cso.ie/en/qnhs/releasesandpublications/qnhs-calendarquarters/ III. Literature Review There is a consensus emerging in the nascent literature on the effect of recessions on labour market 
+dynamics, that the great 2008-2009 recession has had particularly strong effects. Most of the studies focus 
+on the overall population as opposed to youths per se. An examination of US data up to 2009 revealed that 
+the unemployment to employment transition rate fell proportionately more in the great recession than in 
+previous recessions (Aaronson et al., 2012). The transition rate in the great recession appears to have been affected by the exceptional weakness of 
+aggregate demand as well as changing composition of the unemployed (Valletta and Kuang, 2012). 
+Bachman et al., (2012) utilised a Blinder-Oaxaca decomposition to isolate the differences in US labour 
+market transition rates during the great recession into a part that is attributable to changes in the 
+composition of the underlying population, and a part that is due to changes in the returns to population 
+characteristics. They found composition effects change over the course of the recession, initially 
+contributing positively to a higher transition to employment, but gradually fading and turning negative over 
+the course of the contraction. According to Bachman et al., (2012), this is because at the beginning of the 
+recession the unemployment stock contained many more well-qualified and experienced individuals who 
+had been recently fired and who got re-employed quickly. However, as the recession continued the share of 
+less capable unemployed increased, which had a negative impact on the overall transition to employment. Compositional changes also accounted partly for the sharp rise in duration of unemployment that 
+accompanied the great recession. One such factor in the United States over the past three decades is a 
+decline in the share in the labour force of youth, who tend to have shorter unemployment durations as they 
+frequently move in an out of the labour force (Valletta and Kuang, 2012). ECO/WKP(2013)76 9 By contrast policy change appears to have played less of a role. Farber et al., (2013) concluded that 
+the decline in the transition from unemployment to employment in the recent US recession was not due to 
+an extension in unemployment benefits. Instead, the small and statistically significant reduction in the 
+unemployment exit rate over the recent recession occurred primarily through a reduction in exits from the 
+labour force, rather than to a decrease in exits to employment. Education plays a strong role in labour market status and transitions over the business cycle, although 
+this effect can vary across countries and the phase of the cycle. Prior to the crisis, the employment rate of 
+low-educated youths was higher in Spain than in Germany, France, United Kingdom and Netherlands, and 
+the opposite was found for youths with intermediate and higher levels of education (Dolado et al., 2013). 
+The probabilities of being unemployed and discouraged (i.e. not searching for work) increased the most 
+during the crisis for poorly educated individuals in South Africa (Verick, 2012). It also appears that 
+education had more influence on labour-market outcomes as the recent recession progressed. Analysis of 
+data for the United Kingdom shows that the substantial differences in the employment, unemployment and 
+inactivity rates, and transition probabilities, across different education levels were exacerbated by the 
+recession, particularly for lower education levels (Gomes, 2012). In addition to education, employment history also plays a role in transitions, which varies across 
+countries. A greater history of temporary jobs decreased the probability of studying in Spain, while the 
+opposite was found for the Netherlands (Dolado et al., 2013). For woman, in addition to human capital 
+factors, such as education and previous work experience, young children also influence (negatively) their 
+mothers' transition probabilities from non-employment to employment (Russell and O'Connell, 2004). There is also evidence at the overall labour force level that immigration status has a bearing on overall 
+labour market dynamics, including during the great recession. Total employment losses among non-Irish 
+nationals were four times higher than for Irish nationals (McGinnity et al., 2011). Veenman (2011) 
+documents that in the Netherlands native Dutch individuals leave unemployment the fastest, and among the 
+non-native individuals Turks exit unemployment most slowly. In contrast to these findings, immigrant 
+status had no statistically significant effect on the probability of working in Spain (Dolado et al., 2013). In 
+spite of this research, little is known about the role of immigration status for youths and how it may have 
+changed pre-and post the recent economic crisis. Regarding youth, it is well known that young people tend to be particularly hard hit by recessions. 
+Several papers have looked at the impact of economic downturns on youth's labour market status, but most 
+of the work focuses on the effects of recessions on their unemployment levels rather than on their labour 
+market transitions. A review of the effects on unemployment by age cohort of previous financial crises in 
+Finland, Japan, Mexico, Norway, Spain, Sweden and Turkey found that youths are worst effected; and the 
+unemployment gap with respect to adults remains even after the economy has begun to recover 
+(Verick, 2011). Indeed, financial crises have protracted effects on youth unemployment and may affect 
+youths five years after the onset of the crisis (Choudry et al., 2012). Previous research on labour market transitions among young people using German and United 
+Kingdom data prior to the great recession found that recent unemployment history and education played an 
+important role in youth transitions (Isengard, 2003). However, as for the general population, an analysis of 
+nine European countries found that the impact of education on employment probabilities for youth differed 
+significant across countries (Russell and O'Connell, 2001). For Irish youth, work experience enhances the possibility of finding a job (O'Connell and 
+McGinnity, 1997). Kelly et al., (2012), using Irish data, find that a recent history of long-term 
+unemployment, advanced age, number of children, relatively low levels of education, and ECO/WKP(2013)76 10 literacy/numeracy problems all reduced young unemployed individuals' probability of moving into 
+employment. How the great recession may have altered the importance of various characteristics in determining 
+youths' labour market outcomes remains relatively unexplored. This paper attempts to, inter alia, partially 
+fill this gap in the literature by examining how labour market transitions for unemployed youth in Ireland, 
+one of the hardest hit economies in the OECD during the global financial crisis, have changed pre-crisis 
+(2006) and as the economy emerged from the recent recession (2011). IV. Data and Methodology Analysing the impact of the recession on the situation of youths in the labour market can be enhanced 
+by the availability of longitudinal data, as such data enables researchers to analyse the movements of 
+individuals in and out of unemployment, employment and inactivity. A good understanding of these 
+movements, so-called labour market transitions, can be helpful in designing effective labour market 
+policies to assist unemployed youths to reintegrate back into the labour market. Longitudinal data allows 
+researchers to assess associations between various characteristics, such as age or educational attainment, 
+and transitions between different labour market states. By following individuals over time, longitudinal 
+data analysis also enables researchers to assess how labour market transitions, or the associations with 
+different characteristics, may change pre and post an economic crisis. The data used in this paper come from the Quarterly National Household Survey (QNHS) longitudinal 
+data file. The longitudinal component of the QNHS is a relatively new dataset that has been made available 
+by the Central Statistics Office (CSO), which is Ireland's national statistical collection organisation. The 
+main objective of the QNHS is to provide quarterly labour force estimates on employment, unemployment, 
+etc. The survey is continuous and targets all private households in the State. The total sample for each 
+quarter is approximately 39 000, which is achieved by interviewing about 3 000 households per week. 
+Households are asked to take part in the survey for five consecutive quarters. In each quarter, one-fifth of 
+the households surveyed are replaced and the QNHS sample involves an overlap of 80% between 
+consecutive quarters and 20% between the same quarters in consecutive years. While participation in the 
+QNHS is voluntary, the response rate is quite high (approximately 85% in recent years). 7 The benefit of using the QNHS longitudinal data is that it enabled us to follow the labour market 
+transitions of individuals for up to 5 consecutive quarters. In terms of the periods covered in our study, we 
+focused on comparing the youth unemployment situation both pre and post recession. We selected 
+Quarter 2 (Q2) 2006 as the starting point for our pre-recession analysis, which was during the height of the 
+boom in Ireland; and Q2 2011 as our start point for the analysis relating to the Recession. For the purposes 
+of the paper, we selected two balanced panels. Specifically, we focus on young individuals (defined as 
+aged 15 to 24) who were unemployed on entering the panel and who remained in the panel for the next two 
+consecutive quarters: we were unable to take advantage of the full panel information (i.e. use the five 
+quarters of data) due to the small number of young people who remained both unemployed and present in 
+the data for five continuous quarters during the boom period (e.g. 2006). Thus, we are focusing on the 
+transition patterns of young unemployed people between Q2 and Q4 in 2006 and 2011 respectively, 
+focusing particularly on their transitions from unemployment into employment. Given this, our 
+unemployed youth sample is 5 926 for 2006 and 13 933 for 2011 
+8 . In order to accommodate our empirical 7. 
+Information provided by the CSO. 8. 
+We excluded those who transitioned into economic inactivity from the analysis, and also those individuals that 
+did not provide information on their education. ECO/WKP(2013)76 11 strategy, we transform our balanced panel into a cross-sectional dataset based on the characteristics of 
+individuals observed in Q2 2006 and Q2 2011 respectively and incorporate their transition behaviours in 
+Q3 and Q4 for each of the observed years. Given that we only consider individuals who remain present in 
+Ireland over the observation periods, those who migrated to or from Ireland during the period covered by 
+each panel are excluded from the analysis. In this paper, we begin by assessing the impact of various socio-economic and demographic factors 
+on an unemployed youth's likelihood of transitioning to employment. This analysis is undertaken by 
+estimating separate binary probit models for 2006 and 2011, where the dependent variable equals one if an 
+unemployed youth transitioned to employment during the observation period and zero otherwise. The 
+characteristics investigated are as follows: gender, age, nationality, educational attainment, geographic 
+location and previous unemployment duration 9 . In addition to examining the impact of various socio-economic characteristics on an unemployed 
+youth's likelihood of transitioning to employment, we are also interested in investigating what has driven 
+the change in the unemployment-to-employment transition rate between 2006 and 2011. This analysis was 
+undertaken using decomposition techniques. With this approach, we split out the change in the 
+unemployment to employment transition rate between 2006 and 2011 into the proportion due to i) changes 
+in the composition of the youth unemployed population (e.g. if there are more unemployed youths with 
+higher levels of schooling), which is known as the 'Endowment Effect'; ii) changes in the labour market 
+returns to possessing certain characteristics over time (e.g. changes in the marginal impact of 
+characteristics on the probability of a transition to employment in 2011 relative to 2006), which is known 
+as the 'Coefficient Effect'; and iii) an unexplained effect, which is due to unobserved factors that are not 
+observed in the QNHS longitudinal data. Given that our dependent variable is a dichotomous 0/1 variable, 
+we estimated non-linear decomposition models: i) the Fairlie model, which produces an overall 
+endowment effect, ii) the Non-linear decompose model 
+10 , which gives overall endowment and coefficient 
+effects, and iii) the Oaxaca decomposition, which produces overall endowment and coefficient effects and 
+also a breakdown for each individual variable. V. Results Descriptives Table 4 presents the profile of youths who were unemployed in Q2 2006 and 2011 according to their 
+subsequent labour market status, i.e. remained continuously unemployed between Q2 2006 (2011) and Q4 
+2006 (2011) or transitioned into employment. Focussing first on the characteristics of those that remained continuously unemployed, there was a 
+considerable drop in the proportion of such youths aged 15 to 19 between 2006 and 2011, falling from 46% 
+to 19%, while the proportion aged 20 to 24 increased. The fall in the younger age category may be due to 
+such individuals choosing to remain outside of the labour market in 2011 as a result of the recession, 
+remaining on in education instead. The proportion of continuously unemployed that was male increased 
+slightly in 2011, while there was a fall in the proportion that was Irish. In relation to educational 
+attainment, there was a substantial drop in the proportion that had a Junior Certificate or less qualification 9. 
+The QNHS contains information on a person's previous economic sector of employment; however, we were 
+not able to include this variable in our specifications as a significant proportion of young people did not 
+provide this information, and for those that did, there was not enough variation in the data to estimate our 
+models. 10. 
+nldecompose command in Stata. ECO/WKP(2013)76 12 between 2006 and 2011 (from 54% to 28%) and a sizeable increase in the numbers with a Leaving 
+Certificate (31 to 43%) and Post-Leaving Cert level (4 to 18%) qualification. There was some change in 
+the geographical distribution of continuously unemployed youths over the period. Finally, in terms of 
+previous unemployment duration, there was a sizeable fall in the proportion that had experienced 1 to 
+3 months of unemployment in the past, whereas there was an increase in the numbers with 13 months or 
+more previous unemployment duration over the period. Table 4. Profile of Unemployed Youths in 2006 and 2011 by Labour Market Status (% of total sample) Continuously Unemployed 
+Into Employment 
+2006 
+2011 
+2006 
+2011 Age: 15-19 
+46.3 
+18.6 
+27.3 
+26.3 20-24 
+53.7 
+81.4 
+72.7 
+73.7 Gender: Male 
+70.4 
+72.0 
+58.9 
+53.1 Female 
+29.6 
+28.0 
+41.1 
+46.9 Nationality: Irish 
+93.2 
+91.0 
+90.8 
+98.0 Non-Irish 
+6.8 
+9.0 
+9.2 
+2.0 Educational Attainment: 11 Junior Certificate or Less 
+54.0 
+28.0 
+21.3 
+12.8 Leaving Certificate 
+31.1 
+42.9 
+55.5 
+40.7 
+Post-Leaving Cert Level (includes 
+apprenticeships) 
+3.7 
+18.3 
+12.8 
+12.6 Third-level Non-degree 
+6.3 
+5.3 
+3.2 
+5.5 Third-level Degree or Higher 
+5.0 
+5.4 
+7.3 
+28.4 Geographic Location: Dublin 
+24.2 
+23.4 
+36.6 
+22.7 Border 
+12.9 
+17.1 
+14.3 
+12.0 Mid-East 
+5.5 
+6.7 
+3.3 
+6.2 Midlands 
+4.4 
+8.9 
+5.6 
+12.1 Mid-West 
+17.6 
+8.2 
+9.6 
+17.4 South-East 
+16.3 
+11.2 
+11.1 
+12.0 South-West 
+10.4 
+10.7 
+7.4 
+9.7 West 
+8.7 
+13.8 
+12.0 
+7.9 Previous Unemployment Duration: 1-3 Months 
+31.4 
+16.6 
+49.5 
+39.7 4-6 Months 
+9.6 
+11.1 
+12.3 
+16.7 7-12 Months 
+25.2 
+22.5 
+22.5 
+8.4 13 Months and Above 
+33.8 
+49.9 
+15.7 
+35.2 Source: Constructed with data from the 2006 (Q2) and 2011 (Q2) Quarterly National Household Survey longitudinal datafiles. 11. 
+The Junior Certificate examination is taken at the end of lower secondary education, while the Leaving 
+Certificate marks the end of upper secondary education. Post Leaving Cert (PLC) level courses are vocational 
+education courses and apprenticeships that are mainly accessed by those who have completed a Leaving 
+Certificate at upper secondary level. ECO/WKP(2013)76 13 In relation to the characteristics of those that transitioned from unemployment to employment, there 
+was a fall in the proportion that was male between 2006 and 2011. The proportion that was Irish increased 
+also. In terms of educational attainment, there was a fall in the proportion that had a Junior Certificate or 
+Leave Certificate qualification, while there was a considerable increase in the percentage with a 
+Third-level Degree or Higher qualification over the period. With respect to previous unemployment 
+duration, there was a sizeable increase by 2011 in the proportion of individuals who made the transition 
+from unemployment to employment who had already experienced 13 months or more unemployment 
+duration at the start of the panel, while the percentages making a successful employment transition that had 
+experienced 1 to 3 months or 7 to 12 months of previous unemployment fell. This suggests that successful 
+employment transitions were more evenly distributed across unemployment durations in the later period, 
+which suggests that the long-term unemployed during the boom period were distinctive and/or particularly 
+disadvantaged in terms of labour market prospects. Finally, some changes in the shares entering 
+employment by geographical region were also apparent between 2006 and 2011. Table 5 shows the transition rates for unemployed youths in both 2006 and 2011. In 2006, 38% of 
+unemployed youths transitioned into employment; however, only 17% made this labour market transition 
+in 2011. As one might expect, the proportion of youths that remained continuously unemployed increased 
+between 2006 and 2011, from 37% to 52%, and there was an increase in the numbers entering into 
+economic inactivity. Overall labour force participation rates among those aged 15-24 declined from 55% in 
+2006 to 42% in 2011. While the change in the magnitude and nature of transitions to inactivity before and 
+during the recession is an important issue for policy, the issue is not addressed in the current study as it is 
+likely that the dynamics of change are likely to be quite distinct relative to unemployment and employment 
+transitions and, as such, warrant a dedicated analysis. Table 5. Unemployed Youths Labour Market Transition Rates: 2006 and 2011 (% of total sample) Continuously Unemployed 
+Into Employment 
+Into Inactivity 2006 
+37.4 
+38.0 
+24.6 2011 
+51.6 
+17.4 
+31.0 Econometrics The results from our probit models on the determinants of transitioning from unemployment to 
+employment in 2006 and 2011 are presented in Table 6. During both the boom and recessionary periods in 
+Ireland, we can see that unemployed males were significantly less likely than females to enter employment. 
+Interestingly, while during the Celtic Tiger era unemployed youths aged 20 to 24 were more likely to find a 
+job compared to those aged 15 to 19, the opposite result was the case during the recession in 2011. We also 
+see that the nationality result has changed with Irish nationals more likely to enter employment in 2011 
+relative to 2006. Apart from Third-level Non-Degree holders, all educational qualifications raised the 
+likelihood of transitioning into employment during 2006 compared to those with a Junior Certificate 
+qualification or less. The finding that the third-level non-degree holders had a lower probability of 
+transitioning to employment in 2006 relative to youths with compulsory education or less is potentially 
+explained by two factors: (a) a very high level of demand for unskilled workers due to high demand within 
+construction and service industries; and (b) a poor alignment with subject provision in this area with the 
+needs of the labour market at that time. The largest educational coefficient during the earlier time period 
+was associated with having a Post-Leaving Cert (PLC) level qualification, which predominately related to 
+either a vocational education or apprenticeship training in the retail, catering/hospitality and construction 
+sectors. However, in 2011 there is no statistical difference in the impact of a Junior Certificate or less 
+qualification and a PLC level qualification on transitioning from unemployment into employment, with 
+both educational categories having a lower impact on employment transitions compared to the other ECO/WKP(2013)76 14 educational groups. With respect to relative marginal effects, the magnitude of the Leaving Certificate 
+coefficient has fallen over time; whereas there has been a large increase in the Third-level Degree or 
+Higher coefficient. Unlike the 2006 situation where the impact was negative, possessing a Third-level 
+Non-Degree qualification increases the probability of a successful labour-market transition relative to the 
+base education category, driven presumably by a rapid fall in the relative demand for unskilled labour 
+relative to the earlier period. Some changes are also observed in relation to geographic location. Finally, in 
+relation to previous unemployment duration, all categories above 1-3 months are significantly less likely to 
+move from unemployment to employment during both the boom and recession periods; the size of the 
+effects for 7-12 months has increased over time while it has fallen for the other duration categories. Table 6. Probit Models of the Determinants of Transitioning from Unemployment to Employment: 2006 and 
+2011 2006 
+2011 
+Gender (Ref = Female): 
+Male 
+-0.129*** 
+-0.132*** 
+(0.017) 
+(0.009) 
+Age (Ref = Age 15-19-) 
+Aged 20-24 
+0.224*** 
+-0.152*** 
+(0.017) 
+(0.013) 
+Educational Attainment (Ref = Junior Certificate or less): 
+Leaving Certificate 
+0.341*** 
+0.066*** 
+(0.016) 
+(0.010) 
+Post Leaving Cert Level (includes apprenticeships) 
+0.408*** 
+0.019 
+(0.020) 
+(0.013) 
+Third-level Non-Degree 
+-0.099** 
+0.156*** 
+(0.038) 
+(0.023) 
+Third-level Degree 
+0.152*** 
+0.468*** 
+(0.032) 
+(0.019) 
+Geographic Location (Ref = Dublin): 
+Border 
+0.014 
+-0.059*** 
+(0.025) 
+(0.010) 
+Mid-East 
+-0.254*** 
+0.010 
+(0.025) 
+(0.015) 
+Midlands 
+0.147*** 
+-0.078*** 
+(0.036) 
+(0.011) 
+Mid-West 
+-0.109*** 
+0.110*** 
+(0.024) 
+(0.015) 
+South-East 
+-0.072*** 
+-0.060*** 
+(0.025) 
+(0.011) 
+South-West 
+-0.087*** 
+-0.024** 
+(0.027) 
+(0.012) 
+West 
+-0.148*** 
+-0.105*** 
+(0.027) 
+(0.009) 
+Previous UE Duration (Ref = 1-3 Months): 
+4-6 Months 
+-0.147*** 
+-0.041*** 
+(0.024) 
+(0.011) 
+7-12 Months 
+-0.190*** 
+-0.240*** 
+(0.019) 
+(0.005) 
+13 Months and Above 
+-0.299*** 
+-0.081*** 
+(0.017) 
+(0.009) 
+Nationality (Ref = Non-Irish): 
+Irish 
+-0.060** 
+0.133*** 
+(0.029) 
+(0.009) Observations 
+5,926 
+13,933 
+Pseudo R2 
+0.2042 
+0.2146 ECO/WKP(2013)76 15 Moving on to our decomposition analysis, the overall decomposition results from the three non-linear 
+models that we estimated are shown in Table 7. Reassuringly, each of the decomposition models produced 
+almost identical results. The 'Overall Difference' result tells us that the transition rate from unemployment 
+to employment fell by 25 percentage points between 2006 and 2011. Of this, changes in the structure of the 
+youth unemployed population (i.e. the endowment effect) between 2006 and 2011 can only explain 
+2.5 percentage points of the fall in the transition rate, while changes in the returns to possessing the 
+characteristics that we have included in our model (i.e. the coefficient effect) explains a bigger proportion 
+of the fall in the transition rate. However, unobservable factors that we have not included in our 
+specification (e.g. labour market experience, socio-economic background, etc.), because such information 
+is not available in the QNHS longitudinal data, account for almost half of the fall in the transition rate. Table 7. Overall Decomposition Results (changes in transition rates) Fairlie 
+Nldecompose 
+Oaxaca 
+Overall Difference 
+-24.6 
+-24.9 
+-24.9 Endowment Effect 
+-2.5 
+-2.5 
+-2.5 Coefficient Effect 
+-25.6 
+-25.6 Interaction 
+3.2 
+3.2 Table 8 gives a breakdown of the individual coefficient results; specifically, it lists what the main 
+drivers are in explaining the change in the transition rate between 2006 and 2011, which we were able to 
+account for in our models. On the one hand, we can see from this table that relative to possessing a Junior 
+Certificate qualification, having either a Leaving Certificate or PLC level qualification had a depreciating 
+effect on the unemployment-to-employment transition rate between 2006 and 2011. Having previous 
+unemployment duration of 7 to 12 months, relative to those with previous unemployment duration of 1 to 
+3 months, also had a depreciating effect on the transition rate. On the other hand, possessing a third-level 
+qualification (Non-Degree or Degree or Higher) had an appreciating effecting on the unemployment to 
+employment transition rate between 2006 and 2011, as did being Irish, aged 15 to 19 and having a previous 
+unemployment duration of 13 months and above 
+12 . Overall, our results indicate that the relative fall in the 
+unemployment to employment transition rate between 2006 and 2011 is not due to changes in the 
+population structure of unemployed young people, but to changes in external factors that have had an 
+impact on possessing certain characteristics. These are likely to reflect the impact of the recession. 12. 
+An important policy change took place over the period whereby the entitlement to contributions related 
+assistance (Jobseekers benefit (JB)) was reduced from 15 to 12 months. However, given that individuals in the 
+15 to 19 age bracket who became unemployed in 2006 were unlikely to have made sufficient contributions to 
+entitle them to JSB for an extended period, we do not believe that the policy switch will have a strong impact 
+in explaining the observed result. ECO/WKP(2013)76 16 Table 8. Oaxaca Individual Coefficient Effects on the Change in the Labour Market Transition Rates between 
+2006 and 2011 Individual Coefficient Effects Male 
+-0.029*** (0.010) Aged 15-19 
+0.061*** (0.004) Leaving Certificate 
+-0.077*** (0.007) Post Leaving Cert Level (includes apprenticeships) 
+-0.056*** (0.005) Third-level Non-Degree 
+0.012*** (0.002) Third-level Degree 
+0.033*** (0.003) Border 
+-0.013*** (0.004) Mid-East 
+0.015*** (0.002) Midlands 
+-0.019*** (0.003) Mid-West 
+0.018*** (0.002) South-East 
+-0.002 (0.003) South-West 
+0.004 (0.003) West 
+-0.004 (0.003) 4-6 Months 
+0.008*** (0.003) 7-12 Months 
+-0.052*** (0.004) 13 Months and Above 
+0.067*** (0.009) Irish 
+0.227*** (0.027) Constant (Unexplained Component) 
+-0.451*** (0.037) ECO/WKP(2013)76 17 VI. Conclusions Using a unique longitudinal dataset, this paper examined the extent to which transitions to 
+employment among unemployed youths in Ireland changed over the great recession. The study found that 
+the rate of transition to employment for unemployed youths fell dramatically between 2006 and 2011. 
+Overall, the results showed that the fall in unemployed youth's transition rate was not due to changes in 
+composition, or the characteristics of the unemployed group but to changes in the external environment 
+that meant that the impact of certain characteristics changed over the course of the recession. For example, 
+it was found that the there was a rise in the marginal impact of education and Irish nationality on the 
+probability of a successful transition from unemployment to employment. This finding is consistent with 
+an emerging international pattern in which the importance of education to labour market outcomes has 
+increased in the course of the recession. There was also a change in the impact of age, with younger 
+workers having now better prospects than young adults. Youth possessing higher educational levels face 
+better prospects of moving into employment, and certain qualifications (for example PLC level 
+qualification), which enhanced employability in 2006, did no longer have a positive effect in 2011. 
+Previous unemployment spells continued to have a detrimental impact on the likelihood of moving into 
+employment for all unemployment durations. Those unemployed for 7-12 months faced more difficulties 
+in accessing employment after the recession. Periods of unemployment shorter than 6 months and longer 
+than 13 months continued to have a negative impact, although the impact was found to be smaller in 2011 
+than in 2006. However, caution should be used in interpreting the smaller negative impact on the length of 
+unemployment. In particular, labour market conditions remained difficult in 2011, with aggregate 
+employment continuing to fall. In these circumstances, it is difficult for anyone (short or long-term 
+unemployed) to find a job, likely masking scarring effects. As the economy picks up and more jobs are 
+created, the scarring effect may become more obvious as there will be vacancies for the newly unemployed 
+to apply to and out-compete the long-term unemployed. ECO/WKP(2013)76 18 BIBLIOGRAPHY Aaronson, D., B. Mazumder, and S. Schechter (2010),  " What is behind the rise in long-term 
+unemployment? " , Economic Perspectives, Federal Reserve Bank of Chicago, issue Q II, pp. 28-51. Bachmann, R., and M. Sinning (2012),  " Decomposing the Ins and Outs of Cyclical Unemployment " , 
+IZA Discussion Papers 6362, Institute for the Study of Labour (IZA). Central Statistics Office (2012a), Live Register: December 2011. Cork: Central Statistics Office. Central Statistics Office (2012b), Population and Migration Estimates: April 2012. Cork: Central Statistics 
+Office. Central Statistics Office (2013a), Live Register: February 2013. Cork: Central Statistics Office Central Statistics Office (2013b), Quarterly National Household Survey Time Series: 
+www.cso.ie/en/qnhs/releasesandpublications/qnhs-calendarquarters/ Choudhry, M. T., E. Marelli, and M. Signorelli (2012),  " Youth unemployment rate and impact of financial 
+crises " , International Journal of Manpower, Vol. 33 Iss: 1, pp. 76 – 95 Conefrey, T. (2011),  " Unemployment and Labour Force Participation During the Recession " , Economic 
+Letter Series from Central Bank of Ireland, Vol. 2011, No. 4. Conefrey, T. (2013),  " Migration in Ireland: Recent Trends in Historical Context " , Central Bank of Ireland 
+Quarterly Bulletin 01/January 2013. Dolado, J. J., M. Jansen, F. Felgueroso, A. Fuentes and A. Wölfl (2013),  " Youth labour market 
+performance in Spain and its determinants -a micro-level perspective " , OECD Economics 
+Department Working Paper, No. 1039. Duffy, D., J. Durkan, and C. O'Sullivan (2011), Quarterly Economic Commentary, Summer 2011. Dublin: 
+Economic and Social Research Institute. Duffy, D. and K. Timoney (2013), Quarterly Economic Commentary, Spring 2013. Dublin: Economic and 
+Social Research Institute. Farber, H.S. and R.G. Valletta (2013),  " Do Extended Unemployment Benefits Lengthen Unemployment 
+Spells? Evidence from Recent Cycles in the U.S. Labor Market " , NBER Working Paper, No. 19048. Gomes, P. (2012),  " Labour market flows: Facts from the United Kingdom " , Labour Economics, 19:2, 
+pp. 165-175. Insegard, B. (2003),  " Youth Unemployment: Individual Risk Factors and Institutional Determinants. A 
+Case Study of Germany and the United Kingdom " , Journal of Youth Studies, 6:4, pp. 357-376. Kelly, E. S. McGuinness and P.J. O'Connell (2012),  " Transitions to Long-Term Unemployment Risk 
+Among Young People: Evidence from Ireland " , Journal of Youth Studies, 15:6, pp. 780-801. ECO/WKP(2013)76 19 McGinnity, F., E. Quinn, P.J. O'Connell and N. Donnelly (2011), Annual Monitoring Report on 
+Integration 2010. Dublin: Economic and Social Research Institute. O'Connell, P.J. and F. McGinnity (1997),  " What Works, Who Works? The Employment and Earnings 
+Effects of Active Labour Market Programmes among Young People in Ireland " , Work Employment 
+and Society, 11:4, pp. 639-661. Russell, H. and P.J. O'Connell (2001),  " Getting a Job in Europe: The Transition from Unemployment to 
+Employment among Young People in Nine European Countries " , Work Employment and Society, 
+15:1, pp. 1-24. Russell, H. and P.J O'Connell (2004),  " Women Returning to Employment, Education and Training in 
+Ireland: An Analysis of Transitions " , Economic and Social Review, 35:1, pp. 1-25. Valletta, R. and K. Kuang (2012),  " Why is unemployment duration so long " , Federal Reserve Bank of 
+San Francisco Economic Letter, 2012-3. Veenman, J. and G.E. Bijwaard (2011),  " Exclusionary risks on the transitional labour market "  
+European Sociological Review, pp. 1-13. Verick, S. (2011),  " The impact of the global financial crisis on labour markets in OECD countries: Why 
+youth and other vulnerable groups have been hit hard "  in Iyanatul Islam and Sher Verick (eds.), 
+From the Great Recession to Labour Market Recovery: Issues, Evidence and Policy Options. 
+Hampshire: Palgrave Macmillan. Verick, S. (2012),  " Giving Up Job Search During a Recession: The Impact of the Global Financial Crisis 
+on the South African Labour Market " , Journal of African Economies (forthcoming), published 
+online 30 January 2012. ECO/WKP(2013)76 20 WORKING PAPERS The full series of Economics Department Working Papers can be consulted at www.oecd.org/eco/workingpapers/ 1083. 
+Is there convergence of Russia's regions? Exploring the empirical evidence: 1995-2010 
+(August 2013) by Hartmut Lehmann and Maria Giulia Silvagni 1082. 
+The benefits and costs of highly expansionary monetary policy 
+(August 2013) by Łukasz Rawdanowicz, Romain Bouis and Shingo Watanabe 1081. 
+The effectiveness of monetary policy since the onset of the financial crisis 
+(August 2013) by Romain Bouis, Łukasz Rawdanowicz, Jean-Paul Renne, Shingo Watanabe 
+and Ane Kathrine Christensen 1080. 
+Responding to key well-being challenges in Austria 
+(August 2013) by Rauf Gönenç, Oliver Röhn, Christian Beer and Andreas Wörgötter 1079. 
+Austria's well-being goes beyond GDP 
+(August 2013) by Oliver Röhn, Rauf Gönenç, Christian Beer and Romina Boarini 1078. 
+Improving fiscal federal relations for a stronger Mexico 
+(August 2013) by Aida Caldera Sánchez 1077. 
+Deleveraging: challenges, progress and policies 
+(August 2013) by Romain Bouis, Ane Kathrine Christensen and Boris Cournède 1076. 
+Policies to support sustainable long-term growth in New Zealand 
+(July 2013) by Calista Cheung 1075. 
+Do structural policies affect macroeconomic stability? 
+(July 2013) by Volker Ziemann 1074. 
+A simple fiscal stress testing model -case studies of Austrian, Czech and German economies 
+(July 2013) by Ondra Kamenik, Zdenek Tuma, David Vavra and Zuzana Smidova 1073. 
+Road connectivity and the border effect: evidence from Europe 
+(July 2013) by Henrik Braconier and Mauro Pisu 1072. 
+Fiscal consolidation across government levels. Part 3: Intergovernmental grants, pro-or 
+counter-cyclical? 
+(July 2013) by Hansjörg Blöchliger and Balázs Égert 1071. 
+Fiscal consolidation across government levels. Part 2: Fiscal rules for sub-central governments, 
+update of the institutional indicator 
+(July 2013) by Kaja Fredriksen 1070. 
+Fiscal consolidation across government levels. Part 1: How much, what policies? 
+(July 2013) by Hansjörg Blöchliger 1069. 
+Restructuring the electricity sector and promoting green growth in Japan 
+(June 2013) by Randall S. Jones and Myungkyoo Kim ECO/WKP(2013)76 21 1068. 
+Labour market policies to promote growth and social cohesion in Korea 
+(June 2013) by Randall S. Jones and Satoshi Urasawa 1067. 
+Education reform in Korea 
+(June 2013) by Randall S. Jones 1066. 
+Belgium: enhancing the cost efficiency and flexibility of the health sector to adjust to population 
+ageing 
+(June 2013) by Stéphane Sorbe 1065. 
+Italy and the euro area crisis: securing fiscal sustainability and financial stability 
+(June 2013) by Oliver Denk 1064. 
+Policy implementation in Italy: legislation, public administration and the rule of law 
+(June 2013) by Paul O'Brien 1063. 
+Greening growth in Luxembourg 
+(June 2013) by Nicola Brandt 1062. 
+The post-crisis narrowing of international imbalances – cyclical or durable? 
+(June 2013) by Patrice Ollivaud and Cyrille Schwellnus 1061. 
+Restructuring welfare spending in Slovenia 
+(June 2013) by Rafał Kierzenkowski 1060. 
+The economics of civil justice: new cross-country data and empirics 
+by G. Palumbo; G. Giupponi; L. Nunziata and J. Mora-Sanguinetti (forthcoming) 1059. 
+Banks' restructuring and smooth deleveraging of the private sector in Slovenia 
+(June 2013) by Olena Havrylchyk 1058. 
+Assessing the efficiency of welfare spending in Slovenia with data envelopment analysis 
+(June 2013) by Matevz Hribernik and Rafał Kierzenkowski 1057. 
+Policy determinants of school outcomes under model uncertainty: evidence from South Africa 
+(June 2013) by Thomas Laurent, Fabrice Murtin, Geoff Barnard, Dean Janse van Rensburg, 
+Vijay Reddy, George Frempong and Lolita Winnaar 1056. 
+Improving education quality in South Africa 
+(June 2013) by Fabrice Murtin 1055. 
+The 90% public debt threshold: the rise and fall of a stylised fact 
+(June 2013) by Balázs Égert 1054. 
+Challenges to sustain Poland's growth model 
+(June 2013) by Balázs Égert and Rafał Kierzenkowski 1053. 
+Reforming agriculture and promoting Japan's integration in the world economy 
+(May 2013) by Randall S. Jones and Shingo Kimura 

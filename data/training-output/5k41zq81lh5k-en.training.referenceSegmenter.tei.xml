@@ -1,0 +1,69 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+        <bibl><label>1.</label> Employment, Unemployment and Labour Force Participation among those aged 15-24 years .......... 7<lb/> </bibl>
+        <bibl><label>2.</label> Employment, Unemployment and Labour Force Participation by Gender and Age Group Q2 2011 . 7<lb/> </bibl>
+        <bibl><label>3.</label> Total and Long-term Unemployment by Age Group Q2 2011 ............................................................ 8<lb/> </bibl>
+        <bibl><label>4.</label> Profile of Unemployed Youths in 2006 and 2011 by Labour Market Status (% of total sample) ..... 12<lb/> </bibl>
+        <bibl><label>5.</label> Unemployed Youths Labour Market Transition Rates: 2006 and 2011 (% of total sample) ............. 13<lb/> </bibl>
+        <bibl><label>6.</label> Probit Models of the Determinants of Transitioning from Unemployment to Employment: 2006 and<lb/> 2011 ........................................................................................................................................................... 14<lb/> </bibl>
+        <bibl><label>7.</label> Overall Decomposition Results (changes in transition rates) ............................................................ 15<lb/> </bibl>
+        <bibl><label>8.</label> Oaxaca Individual Coefficient Effects on the Change in the Labour Market Transition Rates between<lb/> 2006 and 2011 ........................................................................................................................................... 16<lb/> </bibl>
+<bibl>ECO/WKP(2013)76<lb/> </bibl>
+        <bibl><label>1.</label><lb/> Elish Kelly and Seamus McGuinness are at the Economic and Social Research Institute, Dublin, Ireland.<lb/> </bibl>
+<bibl>Philip O&apos;Connell is at the University College, Dublin, Ireland. David Haugh and Alberto González Pandiella<lb/> are at the OECD, Paris. The authors are very grateful to Robert Ford, Andrew Dean and Patrick Lenain for<lb/> valuable comments and to Deirdre Claassen for essential technical assistance. The views expressed are those<lb/> of the authors, and not necessarily those of the OECD or of its member countries.<lb/> </bibl>
+        <bibl><label>2.</label><lb/> Eurostat, March 2013:<lb/> http://epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&amp;plugin=1&amp;language=en&amp;pcode=tsdec460<lb/> 3.<lb/> Eurostat, October 2012: http://appsso.eurostat.ec.europa.eu/nui/show.do.<lb/> </bibl>
+        <bibl><label>4.</label><lb/> OECD, March 2013: http://stats.oecd.org/Index.aspx?DatasetCode=DUR_I#<lb/> 5.<lb/> Eurostat, March 2013: http://appsso.eurostat.ec.europa.eu/nui/setupModifyTableLayout.do<lb/> ECO/WKP(2013)76<lb/> </bibl>
+<bibl>Table 8. Oaxaca Individual Coefficient Effects on the Change in the Labour Market Transition Rates between<lb/> 2006 and 2011<lb/> </bibl>
+<bibl>Individual Coefficient Effects<lb/> Male<lb/> -0.029***<lb/> (0.010)<lb/> </bibl>
+<bibl>Aged 15-19<lb/> 0.061***<lb/> (0.004)<lb/> </bibl>
+<bibl>Leaving Certificate<lb/> -0.077***<lb/> (0.007)<lb/> </bibl>
+<bibl>Post Leaving Cert Level (includes apprenticeships)<lb/> -0.056***<lb/> (0.005)<lb/> </bibl>
+<bibl>Third-level Non-Degree<lb/> 0.012***<lb/> (0.002)<lb/> </bibl>
+<bibl>Third-level Degree<lb/> 0.033***<lb/> (0.003)<lb/> </bibl>
+<bibl>Border<lb/> -0.013***<lb/> (0.004)<lb/> </bibl>
+<bibl>Mid-East<lb/> 0.015***<lb/> (0.002)<lb/> </bibl>
+<bibl>Midlands<lb/> -0.019***<lb/> (0.003)<lb/> </bibl>
+<bibl>Mid-West<lb/> 0.018***<lb/> (0.002)<lb/> </bibl>
+<bibl>South-East<lb/> -0.002<lb/> (0.003)<lb/> </bibl>
+<bibl>South-West<lb/> 0.004<lb/> (0.003)<lb/> </bibl>
+<bibl>West<lb/> -0.004<lb/> (0.003)<lb/> </bibl>
+        <bibl><label>4-6</label> Months<lb/> 0.008***<lb/> (0.003)<lb/> </bibl>
+<bibl>7-12 Months<lb/> -0.052***<lb/> (0.004)<lb/> </bibl>
+<bibl>13 Months and Above<lb/> 0.067***<lb/> (0.009)<lb/> </bibl>
+<bibl>Irish<lb/> 0.227***<lb/> (0.027)<lb/> </bibl>
+<bibl>Constant (Unexplained Component)<lb/> -0.451***<lb/> (0.037)<lb/> </bibl>
+<bibl>ECO/WKP(2013)76<lb/> </bibl>
+<bibl>BIBLIOGRAPHY<lb/> </bibl>
+<bibl>Aaronson, D., B. Mazumder, and S. Schechter (2010), &quot; What is behind the rise in long-term<lb/> unemployment? &quot; , Economic Perspectives, Federal Reserve Bank of Chicago, issue Q II, pp. 28-51.<lb/> </bibl>
+<bibl>Bachmann, R., and M. Sinning (2012), &quot; Decomposing the Ins and Outs of Cyclical Unemployment &quot; ,<lb/> IZA Discussion Papers 6362, Institute for the Study of Labour (IZA).<lb/> </bibl>
+<bibl>Central Statistics Office (2012a), Live Register: December 2011. Cork: Central Statistics Office.<lb/> </bibl>
+<bibl>Central Statistics Office (2012b), Population and Migration Estimates: April 2012. Cork: Central Statistics<lb/> Office.<lb/> </bibl>
+<bibl>Central Statistics Office (2013a), Live Register: February 2013. Cork: Central Statistics Office<lb/> Central Statistics Office (2013b), Quarterly National Household Survey Time Series:<lb/> www.cso.ie/en/qnhs/releasesandpublications/qnhs-calendarquarters/<lb/> </bibl>
+<bibl>Choudhry, M. T., E. Marelli, and M. Signorelli (2012), &quot; Youth unemployment rate and impact of financial<lb/> crises &quot; , International Journal of Manpower, Vol. 33 Iss: 1, pp. 76 – 95<lb/> </bibl>
+<bibl>Conefrey, T. (2011), &quot; Unemployment and Labour Force Participation During the Recession &quot; , Economic<lb/> Letter Series from Central Bank of Ireland, Vol. 2011, No. 4.<lb/> </bibl>
+<bibl>Conefrey, T. (2013), &quot; Migration in Ireland: Recent Trends in Historical Context &quot; , Central Bank of Ireland<lb/> Quarterly Bulletin 01/January 2013.<lb/> </bibl>
+<bibl>Dolado, J. J., M. Jansen, F. Felgueroso, A. Fuentes and A. Wölfl (2013), &quot; Youth labour market<lb/> performance in Spain and its determinants -a micro-level perspective &quot; , OECD Economics<lb/> Department Working Paper, No. 1039.<lb/> </bibl>
+<bibl>Duffy, D., J. Durkan, and C. O&apos;Sullivan (2011), Quarterly Economic Commentary, Summer 2011. Dublin:<lb/> Economic and Social Research Institute.<lb/> </bibl>
+<bibl>Duffy, D. and K. Timoney (2013), Quarterly Economic Commentary, Spring 2013. Dublin: Economic and<lb/> Social Research Institute.<lb/> </bibl>
+<bibl>Farber, H.S. and R.G. Valletta (2013), &quot; Do Extended Unemployment Benefits Lengthen Unemployment<lb/> Spells? Evidence from Recent Cycles in the U.S. Labor Market &quot; , NBER Working Paper, No. 19048.<lb/> </bibl>
+<bibl>Gomes, P. (2012), &quot; Labour market flows: Facts from the United Kingdom &quot; , Labour Economics, 19:2,<lb/> pp. 165-175.<lb/> </bibl>
+<bibl>Insegard, B. (2003), &quot; Youth Unemployment: Individual Risk Factors and Institutional Determinants. A<lb/> Case Study of Germany and the United Kingdom &quot; , Journal of Youth Studies, 6:4, pp. 357-376.<lb/> </bibl>
+<bibl>Kelly, E. S. McGuinness and P.J. O&apos;Connell (2012), &quot; Transitions to Long-Term Unemployment Risk<lb/> Among Young People: Evidence from Ireland &quot; , Journal of Youth Studies, 15:6, pp. 780-801.<lb/> </bibl>
+<bibl>ECO/WKP(2013)76<lb/> </bibl>
+<bibl>McGinnity, F., E. Quinn, P.J. O&apos;Connell and N. Donnelly (2011), Annual Monitoring Report on<lb/> Integration 2010. Dublin: Economic and Social Research Institute.<lb/> </bibl>
+<bibl>O&apos;Connell, P.J. and F. McGinnity (1997), &quot; What Works, Who Works? The Employment and Earnings<lb/> Effects of Active Labour Market Programmes among Young People in Ireland &quot; , Work Employment<lb/> and Society, 11:4, pp. 639-661.<lb/> </bibl>
+<bibl>Russell, H. and P.J. O&apos;Connell (2001), &quot; Getting a Job in Europe: The Transition from Unemployment to<lb/> Employment among Young People in Nine European Countries &quot; , Work Employment and Society,<lb/> 15:1, pp. 1-24.<lb/> </bibl>
+<bibl>Russell, H. and P.J O&apos;Connell (2004), &quot; Women Returning to Employment, Education and Training in<lb/> Ireland: An Analysis of Transitions &quot; , Economic and Social Review, 35:1, pp. 1-25.<lb/> </bibl>
+<bibl>Valletta, R. and K. Kuang (2012), &quot; Why is unemployment duration so long &quot; , Federal Reserve Bank of<lb/> San Francisco Economic Letter, 2012-3.<lb/> </bibl>
+<bibl>Veenman, J. and G.E. Bijwaard (2011), &quot; Exclusionary risks on the transitional labour market &quot;<lb/> European Sociological Review, pp. 1-13.<lb/> </bibl>
+<bibl>Verick, S. (2011), &quot; The impact of the global financial crisis on labour markets in OECD countries: Why<lb/> youth and other vulnerable groups have been hit hard &quot; in Iyanatul Islam and Sher Verick (eds.),<lb/> From the Great Recession to Labour Market Recovery: Issues, Evidence and Policy Options.<lb/> Hampshire: Palgrave Macmillan.<lb/> </bibl>
+<bibl>Verick, S. (2012), &quot; Giving Up Job Search During a Recession: The Impact of the Global Financial Crisis<lb/> on the South African Labour Market &quot; , Journal of African Economies (forthcoming), published<lb/> online 30 January 2012.<lb/> </bibl>
+<bibl>ECO/WKP(2013)76</bibl>
+        </listBibl>
+    </text>
+</tei>
+

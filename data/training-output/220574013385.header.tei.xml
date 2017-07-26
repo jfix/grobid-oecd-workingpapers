@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="220574013385"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>OECD DEVELOPMENT CENTRE<lb/> ARE WORkERs&apos; REMiTTANCEs RELEVANT<lb/> fOR CREDiT RATiNg AgENCiEs?<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>by<lb/> Rolando Avendaño, Norbert gaillard and sebastián Nieto-Parra<lb/></docAuthor>
+	</byline>
+
+	<note type="other">Research area:<lb/> Latin American Economic Outlook<lb/> Working Paper No. 282<lb/></note>
+
+	<date>October 2009<lb/></date>
+
+	<note type="submission">Are Workers&apos; Remittances Relevant for Credit Rating Agencies?<lb/> DEV/DOC(2009)7<lb/> 2<lb/></note>
+
+	<note type="copyright">© OECD 2009<lb/></note>
+
+	<note type="other">DEVELOPMENT CENTRE<lb/> WORKING PAPERS<lb/> This series of working papers is intended to disseminate the Development Centre&apos;s<lb/> research findings rapidly among specialists in the field concerned. These papers are generally<lb/> available in the original English or French, with a summary in the other language.<lb/> Comments on this paper would be welcome and should be sent to the OECD<lb/> Development Centre,</note>
+
+	<address>2 rue André Pascal, 75775 PARIS CEDEX 16, France;</address>
+
+	<div type="abstract">or to<lb/> dev.contact@oecd.org. Documents may be downloaded from: http://www.oecd.org/dev/wp or<lb/> obtained via e-mail (dev.contact@oecd.org).<lb/></div>
+
+	<docTitle>
+	<titlePart>THE OPINIONS EXPRESSED AND ARGUMENTS EMPLOYED IN THIS DOCUMENT ARE THE SOLE RESPONSIBILITY OF THE AUTHORS<lb/> AND DO NOT NECESSARILY REFLECT THOSE OF THE OECD OR OF THE GOVERNMENTS OF ITS MEMBER COUNTRIES<lb/></titlePart>
+	</docTitle>
+
+	<note type="copyright">©OECD (2009)<lb/> Applications for permission to reproduce or translate all or part of this document should be sent to<lb/> rights@oecd.org<lb/></note>
+
+	<docTitle>
+	<titlePart>CENTRE DE DÉVELOPPEMENT<lb/> DOCUMENTS DE TRAVAIL<lb/></titlePart>
+	</docTitle>
+
+	<p type="introduction">Cette série de documents de travail a pour but de diffuser rapidement auprès des<lb/> spécialistes dans les domaines concernés les résultats des travaux de recherche du Centre de<lb/> développement. Ces documents ne sont disponibles que dans leur langue originale, anglais ou<lb/> français ; un résumé du document est rédigé dans l&apos;autre langue.<lb/> Tout commentaire relatif à ce document peut être adressé au Centre de développement<lb/> de l&apos;OCDE,</p>
+
+	<address>2 rue André Pascal, 75775 PARIS CEDEX 16, France;</address>
+
+	<div type="abstract">ou à dev.contact@oecd.org. Les<lb/> documents peuvent être téléchargés à partir de: http://www.oecd.org/dev/wp ou obtenus via le<lb/> mél (dev.contact@oecd.org)</div>
+
+	<note type="degree">.<lb/> LES IDÉES EXPRIMÉES ET LES ARGUMENTS AVANCÉS DANS CE DOCUMENT SONT CEUX DES AUTEURS ET NE REFLÈTENT PAS<lb/> NÉCESSAIREMENT CEUX DE L&apos;OCDE OU DES GOUVERNEMENTS DE SES PAYS MEMBRES<lb/></note>
+
+	<p type="introduction">©OCDE (2009)<lb/> Les demandes d&apos;autorisation de reproduction ou de traduction de tout ou partie de ce document devront<lb/> être envoyées à rights@oecd.org<lb/> OECD Development Centre Working Paper No. 282<lb/> DEV/DOC(2009)7<lb/> © OECD 2009<lb/> 3<lb/> TABLE OF CONTENTS<lb/> ACKNOWLEDGEMENTS ........................................................................................................................... 4<lb/> PREFACE ....................................................................................................................................................... 5<lb/> RÉSUMÉ ......................................................................................................................................................... 6<lb/> ABSTRACT .................................................................................................................................................... 7<lb/> I. INTRODUCTION ...................................................................................................................................... 8<lb/> II. REVIEW OF THE LITERATURE ......................................................................................................... 12<lb/> III. EMPIRICAL MODEL ........................................................................................................................... 14<lb/> IV. CONCLUSION ...................................................................................................................................... 32<lb/> ANNEXES .................................................................................................................................................... 33<lb/> REFERENCES .............................................................................................................................................. 46<lb/> OTHER TITLES IN THE SERIES/ AUTRES TITRES DANS LA SÉRIE ............................................... 48<lb/> Are Workers&apos; Remittances Relevant for Credit Rating Agencies?<lb/> DEV/DOC(2009)7<lb/> 4<lb/></p>
+
+	<note type="copyright">© OECD 2009<lb/></note>
+
+	<note type="other">ACKNOWLEDGEMENTS<lb/> We are indebted to Sara Bertin, Pascaline della Faille, Kiichiro Fukasaku, Guillaume<lb/> Grosso, David Khoudour-Castéras, Juan de Laiglesia, Dilip Ratha, Helmut Reisen, Ji-Yeun Rim,<lb/> Javier Santiso and the LEO (Latin American Economic Outlook) team of the OECD Development<lb/> Centre for helpful comments and discussions. All errors are those of the authors.<lb/> Rolando Avendaño is Research Associate at OECD Development Centre. E-mail:<lb/> Rolando.AVENDANO@oecd.org. Norbert Gaillard is Consultant at the World Bank and Post-<lb/>doctoral fellow at Sciences Po Paris. E-mail: Norbert.Gaillard@sciences-po.org. Sebastián Nieto-<lb/>Parra is Economist at OECD Development Centre.</note>
+
+	<email>E-mail: Sebastian.NIETOPARRA@oecd.org.<lb/></email>
+
+	<note type="other">OECD Development Centre Working Paper No. 282<lb/></note>
+
+	<idno>DEV/DOC(2009)7<lb/></idno>
+
+	<note type="copyright">© OECD 2009<lb/></note>
+
+	<note type="other">5<lb/></note>
+
+	<p type="introduction">PREFACE<lb/> This research deals with two key issues for many emerging countries: sovereign<lb/> ratings provided by OECD-based firms and remittance flows. Previous upsurge episodes<lb/> in remittance flows have underlined the interactions between sovereign ratings and<lb/> remittances. Today, in a context of shrinking world GDP growth, remittances are also<lb/> affecting ratings in emerging economies. In May 2009, Standard &amp; Poor&apos;s lowered El<lb/> Salvador&apos;s credit rating, underlining the country&apos;s poor performance in consumption,<lb/> investment and exports, as well as the significant drop in remittances. In the same line,<lb/> Moody&apos;s Investor Service explained that the Philippines&apos;s economic slowdown was due<lb/> to the decline in remittances, which account for more than 10 per cent of domestic output<lb/> and are a major driver of consumption. This work assesses the influence of workers&apos;<lb/> remittances for rating agencies, with special focus on Latin America. Besides, it proposes<lb/> a methodology for assigning ratings to unrated and remittance-dependent countries.<lb/> This research has several policy implications. First, remittance flows may have an<lb/> influence on low and middle income countries in Central America and the Caribbean,<lb/> therefore affecting their access to capital markets. Second, their impact depends more on<lb/> the reduction of the volatility of external flows than on the improvement of the solvency<lb/> ratio (debt over exports and remittances). Third, other risk indicators such as the<lb/> reduction of debt service or the lowering of the foreign currency debt are more relevant<lb/> to explain ratings in the region. Finally, this paper provides sovereign ratings for a group<lb/> of countries not covered by rating agencies (i.e. shadow ratings). With this aim, some<lb/> public-private ventures have been set up in the past. However, other types of<lb/> partnerships can also be envisaged at the inter-governmental level, involving public<lb/> officials with an interest in these regions. For instance, public donors from both OECD<lb/> and non-OECD countries, may be interested to deploy an initiative for sovereign rating&apos;s<lb/> coverage, as a way to enhance countries&apos; financial visibility and encourage cooperation.<lb/></p>
+
+	<note type="other">This study is a background paper for the upcoming Latin American Economic<lb/> Outlook 2010, focused on migration and development in Latin America, providing<lb/> technical support for the chapter on Remittances and the Capital Markets in Latin America.<lb/></note>
+
+	<byline>
+	<docAuthor>Javier Santiso<lb/> Director,</docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>OECD Development Centre<lb/></affiliation>
+	</byline>
+
+	<note type="submission">Septembre 2009<lb/> Are Workers&apos; Remittances Relevant for Credit Rating Agencies?<lb/> DEV/DOC(2009)7<lb/> 6<lb/></note>
+
+	<note type="copyright">© OECD 2009<lb/></note>
+
+	<div type="abstract">RÉSUMÉ<lb/> Les fonds que les travailleurs immigrés envoient dans leur pays d&apos;origine constituent une<lb/> source de financement majeure pour les pays en développement. En plus de leur impact<lb/> microéconomique sur les ménages, ces transferts financiers sont devenus un facteur important<lb/> de stabilité macroéconomique, contribuant à réduire la volatilité des flux de capitaux et le risque<lb/> de dégradation de la balance des comptes courants, renforçant ainsi la solvabilité. A partir d&apos;une<lb/> étude portant sur 83 pays en développement et couvrant la période 1993-2006, nous analysons<lb/> l&apos;impact de ces transferts financiers sur la notation souveraine. D&apos;abord, nous considérons les<lb/> déterminants traditionnels des ratings souverains et déterminons dans quelle mesure ces envois<lb/> de fonds sont pris en compte. Ensuite, nous construisons un modèle pour les pays qui sont les<lb/> premiers récipiendaires de ces transferts afin de mesurer leur effet potentiel sur les notes des<lb/> trois grandes agences, Fitch, Moody&apos;s et S&amp;P. Finalement, nous attribuons des ratings aux pays<lb/> latino-américains non notés pour lesquels ces transferts financiers sont élevés. Nous concluons<lb/> que les agences de notation tiennent compte de ces transferts dans leur appréciation du risque<lb/> souverain pour un petit nombre de pays; les États en question étant généralement de petite taille<lb/> et ayant un niveau de revenus faible ou intermédiaire. Ces résultats nous permettent enfin de<lb/> tirer toute une série de recommandations d&apos;ordre politique pour améliorer la couverture des<lb/> ratings.<lb/> Mots clés: envois de fonds des travailleurs, notations souveraines, marchés de capitaux<lb/> émergents, risque souverain.<lb/> Classification JEL: F3, F24, G24, O11.<lb/> OECD Development Centre Working Paper No. 282<lb/> DEV/DOC(2009)7<lb/></div>
+
+	<note type="copyright">© OECD 2009<lb/></note>
+
+	<note type="other">7<lb/></note>
+
+	<div type="abstract">ABSTRACT<lb/> Remittance flows are an important source of financing for developing countries. In<lb/> addition to the microeconomic impact at the household level, remittances have grown into an<lb/> important pillar of macroeconomic stability, reducing volatility of external flows, lessening the<lb/> probability of current account reversals, thus strengthening creditworthiness. By studying 83<lb/> developing countries covering the period 1993-2006, we analyse the impact of workers&apos;<lb/> remittances on sovereign rating assessment. First, we look at the traditional determinants of<lb/> sovereign ratings and assess to what extent remittances are taken into account. Second, we build<lb/> a model for high-remittance receptors to capture the potential effect that remittances may have<lb/> on Fitch, Moody&apos;s and S&amp;P ratings. Third, we assign ratings to unrated Latin American countries<lb/> for which remittance flows are generally high. Our conclusion supports the view that credit<lb/> rating agencies (CRAs) do take remittance flows into account to rate sovereigns. Nevertheless,<lb/> this variable turns out to be significant for a limited set of countries, small in size and classified in<lb/> the low and middle income categories. We derive policy implications and recommendations<lb/> from our findings for boosting rating coverage.<lb/></div>
+
+	<keyword>Keywords: remittances, sovereign ratings, emerging and developing capital markets,<lb/> sovereign risk.<lb/> JEL Classification: F3, F24, G24, O11.<lb/> Are Workers&apos; Remittances Relevant for Credit Rating Agencies?<lb/></keyword>
+
+	<p type="introduction">DEV/DOC(2009)7<lb/> 8<lb/> © OECD 2009<lb/> 1 &quot; S&amp;P lowers El Salvador rating to &apos;BB&apos; from &apos;BB+&apos; &quot; , Reuters, May 12, 2009 (online article).<lb/> 2 &quot; Moody&apos;s: Slowing remittances hurt RP &quot; , Manila Bulletin, February 14, 2009 (online article).<lb/> OECD Development Centre Working Paper No. 282<lb/> DEV/DOC(2009)7<lb/> © OECD 2009</p>
+
+		</front>
+	</text>
+</tei>

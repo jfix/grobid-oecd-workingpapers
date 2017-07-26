@@ -1,0 +1,1626 @@
+Please cite this paper as: Punthakey, J. (2014),  " Exploring Policy Complementarities in 
+Transition Economies: The Case of Kazakhstan " , OECD 
+Regional Development Working Papers, 2014/09, OECD 
+Publishing, Paris. 
+http://dx.doi.org/10.1787/5jxwvzcrtnbn-en OECD Regional Development Working 
+Papers 2014/09 Exploring Policy 
+Complementarities in 
+Transition Economies THE CASE OF KAZAKHSTAN Jibran J. Punthakey JEL Classification: C33, O40, P2 1 OECD REGIONAL DEVELOPMENT WORKING PAPERS This series is designed to make available to a wider readership selected studies on regional 
+development issues prepared for use within the OECD. Authorship is usually collective, but principal 
+authors are named. The papers are generally available only in their original language English or 
+French with a summary in the other if available. OECD Working Papers should not be reported as representing the official views of the OECD or of its 
+member countries. The opinions expressed and arguments employed are those of the author(s). Working Papers describe preliminary results or research in progress by the author(s) and are published 
+to stimulate discussion on a broad range of issues on which the OECD works. Comments on Working 
+Papers are welcomed, and may be sent to either gov.contact@oecd.org or the Public Governance and 
+Territorial Development Directorate, OECD, 2 rue André-Pascal, 75775 Paris Cedex 16, France. Authorised for publication by Rolf Alter, Director, Public Governance and Territorial Development 
+Directorate, OECD. -----------------------------------------------------------------------------
+OECD Regional Development Working Papers are published on 
+http://www.oecd.org/gov/regional/workingpapers 
+-----------------------------------------------------------------------------Applications for permission to reproduce or translate all or part of this material should be made to: 
+OECD Publishing, rights@oecd.org or by fax 33 1 45 24 99 30. © OECD 2014 2 EXPLORING POLICY COMPLEMENTARITIES IN TRANSITION ECONOMIES: 
+THE CASE OF KAZAKHSTAN By Jibran J Punthakey 1 OECD Eurasia Competitiveness Programme, Global Relations Secretariat Abstract: Policy complementarities have often been overlooked in transition economies, leading to the 
+exclusion or partial adoption of reforms. This paper examines the key determinants of successful 
+transition strategies, and concludes that an approach exploiting complementary relationships and 
+interactions between policies is most likely to result in a welfare improvement. Based on nine policy 
+areas from the European Bank for Reconstruction and Development (EBRD) Transition Indicators 
+database, composite indicators measuring reform implementation and complementarity are 
+constructed. Panel data estimates for 30 countries over the period 1989 to 2012 demonstrate a positive 
+association between improvements in reform complementarity and economic growth. Moreover, the 
+effects are found to persist over time for up to two years after the initial policy change, and are robust 
+to the inclusion of a wide range of control variables. Applying these findings to the case of Kazakhstan 
+illustrates that comprehensive reforms to a targeted group of complementary policies generate 
+sustained increases in output growth, whereas a partial reform strategy results in a loss of welfare. JEL classification codes: P2; O40; C33. Keywords: Complementarity; structural reforms; reform indicators; economic growth; transition 
+economies; panel data; Kazakhstan. 1. 
+OECD Eurasia Competitiveness Programme, Global Relations Secretariat, 2 rue André Pascal, 75775 
+Paris Cedex 16. jibran.punthakey@oecd.org, jibran.punthakey@gmail.com. The author would like to acknowledge the considerable guidance and support provided by Dr. 
+Joaquim Oliveira Martins, Head of the OECD Regional Development Policy Division, without which 
+this study would not have been possible. The author is also indebted to Dr. Jose Enrique Garcilazo and 
+Dr. William Tompson of the OECD Regional Development Policy Division, for their helpful 
+comments and discussions. The views expressed in this paper are those of the author and do not 
+represent the official views of the OECD or of its member countries. 3 TABLE OF CONTENTS 1. INTRODUCTION ..................................................................................................................... 4 2. GROWTH AND STRUCTURAL CHANGE IN TRANSITION ECONOMIES ..................... 5 3. A COMPARATIVE ANALYSIS OF TRANSITION STRATEGIES...................................... 9 3.1 The role of initial conditions ................................................................................................ 9 
+3.2 Key determinants of success in transition strategies .......................................................... 10 4. REFORM COMPLEMENTARITIES: THE  " MISSING LINK "  IN TRANSITION STRATEGIES? ........................................................................................................................... 12 4.1 Exploring complementarities in the transition process ...................................................... 12 
+4.2 Measuring reform complementarities and progress in transition....................................... 13 5. EMPIRICAL TESTS: DO COMPLEMENTARITIES MATTER FOR GROWTH? ............. 17 6. POLICY COMPLEMENTARITIES IN PRACTICE: THE CASE OF KAZAKHSTAN ...... 24 7. CONCLUSIONS ..................................................................................................................... 28 APPENDIX A: SUPPLEMENTARY FIGURES ....................................................................... 30 APPENDIX B: SUPPLEMENTARY TABLES ......................................................................... 35 APPENDIX C: COMPARING MEASURES OF REFORM COMPLEMENTARITY ............. 39 REFERENCES ............................................................................................................................ 40 4 1. INTRODUCTION The economies of Central and Eastern Europe (CEE) 2 and the Former Soviet Union (FSU) 3 
+underwent a profound transition during the 1990s, moving from a governance structure dominated by 
+central planning to the adoption of open, market-oriented mechanisms and institutions. As the process 
+of economic liberalisation began, many commonalities could be observed across the structural reforms 
+that were implemented: countries made efforts to remove barriers to trade, increase capital mobility, 
+privatise state-owned businesses and invest in infrastructure. However, with wide differences being 
+observed in countries' growth trajectories and development patterns, transition was neither a simple 
+nor a speedy panacea for the economic woes of the time. How can such stark differences in economic performance be explained? Evidence suggests that 
+successful transition strategies are contingent on initial conditions and the speed, sequence and manner 
+in which distortions are eased or removed (EBRD, 1994). While initial conditions such as the 
+historical context, state of the external environment and quality of the existing policy and institutional 
+framework have a determinate impact on economic performance, they are predominantly beyond the 
+control of policy makers. On the other hand, the development of a coherent reform strategy that targets 
+the most binding constraints to growth is well within reach. The idea of identifying the  " binding constraints "  or prioritising reforms according to the 
+magnitude of their direct impact on welfare was put forth by Hausmann, Rodrik and Velasco (2005), 
+and is motivated primarily by practical considerations. First, governments have limited administrative 
+and political capital at their disposal, and are unlikely to be able to implement multiple and inordinate 
+reforms within a given electoral cycle. Second, due to incomplete information about the nature of 
+current distortions, an immediate liberalisation of all institutions is nearly impossible. And third, 
+owing to the potential for adverse second-best outcomes, basing reform selection on political 
+feasibility alone is both ill-advised and prone to failure. The theory of the second-best contends that reform implementation may reduce growth, due to 
+the presence of multiple interaction effects across market distortions (Lipsey and Lancaster, 1956). If 
+the removal of all distortions leads to an unambiguous welfare improvement, the second-best 
+hypothesis can be said to lend support to the notion of policy complementarities. Specifically, when a 
+single reform results in an unexpected welfare loss, it is conceivable that the selective implementation 
+of complementary reforms may be welfare enhancing. For instance, without sufficient flexibility in 
+labour markets, trade liberalisation may lead to a sub-optimal allocation of resources and will thus be 2. 
+Central and Eastern Europe (CEE) comprises Albania, Bosnia and Herzegovina, Bulgaria, Croatia, 
+Czech Republic, Estonia, Hungary, Latvia, Lithuania, the Former Yugoslav Republic of Macedonia, 
+Montenegro, Poland, Romania, Serbia, Slovak Republic and Slovenia. 3. 
+The Former Soviet Union (FSU) comprises Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, 
+Kyrgyz Republic, Moldova, Russian Federation, Tajikistan, Turkmenistan, Ukraine and Uzbekistan. 
+The three Baltic States (Estonia, Latvia and Lithuania) are included in CEE. 5 ineffective in stimulating growth (Rodrik, 2005). Financial liberalisation is another important 
+example: without a stable macroeconomic environment and solid prudential regulations, many 
+transition economies were unduly exposed to volatility in international capital markets and a 
+heightened risk of systemic crises (Hartwell, 2012). In turn, trade policies and financial sector reform 
+also exhibit strong complementarities, as financial intermediaries are often instrumental in assisting 
+domestic firms to deal with the adjustment costs associated with increased trade openness (Rodrik, 
+2005). Mutual interdependencies between reforms in the context of transition were first investigated in 
+detail by Gates, Milgrom and Roberts (1994), and the idea has received increasing attention in the 
+literature since (e.g. Braga de Macedo and Oliveira Martins, 2008; Coricelli and Maurel, 2011). In 
+spite of these developments, there is no established consensus that policy complementarities should be 
+central to the elaboration of a coherent reform strategy. Indeed, Hausmann, Rodrik and Velasco (2005) 
+suggest it is impracticable to give priority to reforms that induce positive second-best effects, as these 
+are typically unobservable ex-ante. This paper contends that the incremental returns to reform in one area are higher when the reform 
+leads to greater complementarity in the overall policy framework. By inference, a reform strategy 
+based on maximising policy complementarity (or minimising policy dispersion) is essentially 
+consistent with an approach anchored in alleviating the  " binding constraints "  to growth. This 
+perspective is encouraging as it allows the two ideas to coalesce into one theory, which can form the 
+basis of a methodology for reform prioritisation. The remainder of this paper is structured as follows. Section 2 provides an overview of the 
+economic and structural transformations that took place during transition, and Section 3 offers a series 
+of explanations for the strong variability in output performance observed across the transition region. 
+The notion of reform complementarities is explored in detail in section 4, and a methodology is 
+developed to measure reform levels and complementarity using composite indicators based on the 
+EBRD Transition Indicators database. These indicators are then used to examine trajectories of 
+structural change in transition economies, and derive empirical estimates of the relationship between 
+reforms, complementarity and growth. Section 6 examines the role of reform complementarities in the 
+context of the economic transition in Kazakhstan, and recommends future policy priorities based on a 
+predictive scenario analysis. The paper concludes with a summary of the findings and potential 
+avenues for further research. 2. GROWTH AND STRUCTURAL CHANGE IN TRANSITION ECONOMIES The transition from central planning to a market economy prompted a number of significant 
+structural transformations pertaining to the systems for resource generation and allocation, institutional 
+arrangements for the functioning of markets, and role of the state. Enterprises and households were 
+forced to adapt their consumption and production decisions to market-based incentive structures. 
+Restructuring of state-owned enterprises (SOEs) and the removal of price controls, subsidies and other 
+distortions led to an increase in the private sector's role in the economy. And governments were faced 
+with an entirely new set of responsibilities, requiring the establishment of effective legal and judicial 
+structures, the protection of property rights, the development of secure mechanisms for contract 6 enforcement, and the provision of public goods such as infrastructure, education, health and social 
+services. Although the adjustment costs of transition were widely anticipated, the depth and duration of the 
+output loss sustained by most countries exceeded even the most pessimistic of forecasts. The 
+experience of transition economies during the 1990s has been likened to that of developed economies 
+during the Great Depression (World Bank, 2002), and is comparable to output declines observed 
+during periods of civil war (Coricelli and Maurel, 2011). Strong differences were observed in 
+economic performance across countries, both in terms of the magnitude of the initial recession and the 
+length of the subsequent recovery period. Furthermore, the expectation that the countries that endured 
+severe output contractions would recover more rapidly was not met, with a number of economies 
+remaining mired in a long-term cycle of negative growth rates that lasted for almost an entire decade. 4 Figure 1 illustrates the impact of transition on real gross domestic product (GDP) per capita in the 
+economies of CEE and the FSU. Output fell for five consecutive years in CEE, resulting in a 
+cumulative decline of 21 percent between 1989 and 1993. The recovery that ensued lasted for a further 
+six years, with income levels finally returning to their 1989 levels in 1999. In contrast, the FSU 
+experienced eight consecutive years of falling output, or a cumulative decline of 45 percent between 
+1989 and 1996. This was followed by a long, protracted recovery that stalled with the onset of the 
+Russian crisis in August 1998, and persisted for a full decade afterwards, with GDP per capita only 
+officially surpassing its 1990 level in 2007. Countries in the FSU remain severely exposed to external 
+economic shocks, due to the region's strong reliance on exports of primary commodities. Output is 
+highly volatile and contracted by 7 percent in 2009 in response to the global economic downturn, 
+compared with just 4 percent in CEE. 5 4. 
+Output per capita contracted for nine consecutive years in Ukraine, eight consecutive years in Russia 
+and Tajikistan, and seven consecutive years in Azerbaijan, Kazakhstan, Moldova and Uzbekistan. The 
+steepest declines were observed in Georgia (77%), Tajikistan (72%), Azerbaijan (66%), Moldova 
+(66%) and Ukraine (60%). 5. 
+See Figure 11 in Appendix A for a comparison of GDP per capita growth rates in CEE and the FSU. 7 Figure 1. Evolution of real GDP per capita, 1989-2012 Note: Regional aggregates are population-weighted. Source: Author's calculations, based on data from the World Bank's World Development Indicators (WB/WDI). Perhaps the most noteworthy consequence of transition was manifested in the emergence of 
+privately-owned enterprises, many of which were established through the privatisation of SOEs. 
+Figure 2 depicts the progression of the share of GDP accounted for by the private sector in CEE and 
+the FSU between 1994 and 2010, based on official country-level estimates from the EBRD. Private 
+enterprises are a key ingredient in any market economy, and the extent to which output is generated by 
+private enterprises is therefore a salient indicator of progress in transition. As illustrated in Figure 2, 
+private sector activity has flourished in CEE, increasing from an average of 50 percent of GDP in 1994 
+to 74 percent of GDP in 2010. In the Czech Republic, Estonia, Hungary and the Slovak Republic, the 
+share has remained stable at 80 percent since 2002. On the other hand, the private sector's share in 
+output in the FSU has been stagnant since 1997, at an average of 65 percent (levels as low as 25 and 
+30 percent were recorded in Turkmenistan and Belarus in 2010). 40 60 80 100 120 140 160 180 Index (1989 = 100) Transition Economies 
+Central and Eastern Europe 
+Former Soviet Union 8 Figure 2. Share of private sector in GDP, 1994-2010 Source: Author's calculations, based on data from the EBRD Transition Report series (1994-2010) and WB/WDI. In addition to declining output levels and increasing private sector activity, several other 
+outcomes were observed across the transition region. Price liberalisation and the opening of markets to 
+external trade resulted in hyperinflation and substantial shifts in relative productivity levels across 
+sectors, rendering many existing activities unprofitable. The abolition of subsidies to agriculture and 
+industry (energy, fertiliser and transport costs were often heavily subsidised) led to a rapid 
+transformation in the structural composition of output. Specifically, the share of agriculture shrank 
+from 18 percent of total output in 1989 to 10 percent in 1995, while the industrial sector declined from 
+49 percent of GDP in 1989 to 36 percent in 1995. To a certain extent, these sectoral shifts were offset 
+by growth in the services sector. 6 Real export growth and inflows of foreign direct investment (FDI) were central to the transition. 
+Here too, it is important to note the diverging trends across countries. Export growth was strongest in 
+CEE, driven by demand from industrial countries. Poland, Hungary and the Czech Republic attracted 
+the lion's share of FDI inflows, which were vital as a means to attract capital, modernise industrial 
+processes and support technological upgrading. On the other hand, growth in exports and FDI was 
+considerably weaker in the FSU, and mostly concentrated in countries with large natural resource 
+endowments such as Russia, Kazakhstan and Azerbaijan (World Bank, 2002). Average poverty rates also increased throughout the transition region in the 1990s, provoked by 
+the collapse in output and higher levels of unemployment and income inequality. However, much of 
+the rise in unemployment and inequality in CEE was productive in nature, driven by the liquidation 
+and restructuring of inefficient SOEs, and increased returns to education and entrepreneurship. 
+Furthermore, government transfers and redistribution mechanisms in the Czech Republic, Estonia, 
+Hungary, Poland and the Slovak Republic worked to counterbalance the trend. Conversely, sharp 
+increases in poverty and inequality in the FSU were perpetuated by corruption, rent-seeking and 
+regulatory capture. In addition, many households had to rely on subsistence agriculture in order to 6. 
+See Figures 12 and 13 in Appendix A for a view on the changing composition of output in CEE and 
+the FSU. 40% 45% 50% 55% 60% 65% 70% 75% 80% Transition Economies 
+Central and Eastern Europe 
+Former Soviet Union 9 cope with the shortage of formal employment opportunities. These factors stunted the formation of 
+competitive markets and suppressed the development of high quality institutions, particularly in 
+countries such as Armenia, Tajikistan and Russia (World Bank, 2000). 7 3. A COMPARATIVE ANALYSIS OF TRANSITION STRATEGIES  " Absent definitive theories, views on growth have been shaped by facts and changed by 
+experience. "  Such is the nature of our current understanding of the drivers and dynamics of economic 
+growth, as affirmed by the World Bank's 2005 report titled Economic Growth in the 1990s – Learning 
+from a decade of reform. Indeed, with the benefit of almost a quarter of a century of hindsight, a 
+number of important lessons can be drawn from the economic and political transition that took place 
+following the end of communism and the collapse of the Soviet Union. Variations in economic performance across the transition region have motivated a large range of 
+empirical and theoretical research. Typically, studies focus on the role of initial conditions and the 
+choice of policy reforms in explaining cross-country differences in economic growth rates (Falcetti, 
+Raiser and Sanfey, 2002). Attempts have also been made to identify optimal reform pathways and 
+derive conclusions relating to the ideal speed, sequence and design of transition policies and strategies. 
+This section reviews the existing body of literature and develops an understanding of the core 
+components in a successful transition strategy. 3.1 The role of initial conditions Consensus dictates that initial conditions were of great consequence in determining the rate at 
+which incomes in transition economies converged with those prevailing in advanced countries. In spite 
+of their common ideological perspective, countries in CEE and the FSU differed across a wide range 
+of structural, economic, political and institutional characteristics. In the beginning of transition, 
+income per capita ranged between USD 1 400 (Albania) and USD 9 200 (Slovenia) in CEE, and USD 
+2 740 (Uzbekistan) and USD 7 720 (Russia) in the FSU. 8 Income differences were frequently 
+associated with variations in levels of industrialisation, urbanisation and trade dependence. Other 
+relevant factors include location (as countries in Central Europe were able to develop stronger trade 
+links with Western Europe), the availability of natural resources 9 , the history of prior reforms and the 
+level of institutional development (De Melo et al., 2001). According to an empirical study conducted by the World Bank (2002), initial conditions were a 
+significant determinant of growth between 1990 and 1994, during the early years of the transition 7. 
+According to the World Bank (2000), Armenia, Tajikistan and Russia registered the highest increases 
+in inequality out of all transition economies. In 1996-99, inequality levels (measured by the Gini 
+coefficient) had reached nearly twice the levels recorded in 1987-90. 8. 
+Income per capita is based on GNP in 1989 US dollars, adjusted for purchasing power parity. 9. 
+Several energy-rich countries in the FSU, including Azerbaijan, Kazakhstan, Russia and 
+Turkmenistan, were able to use their natural resource wealth as a pretext for delayed progress in 
+structural reforms. This ultimately took led to the deterioration of their long-run growth potential. 10 recession. Over time, however, the importance of initial conditions declined and was superseded by 
+the impact of progress in policy reform. Countries with a strong commitment to reform were able to 
+overcome their inherited disadvantages, sustain political support and secure higher rates of economic 
+growth in the long run. Others entered transition with propitious beginnings, and emerged with inferior 
+growth rates as a result of incoherent and partial reforms. 3.2 Key determinants of success in transition strategies Broadly put, transition strategies can be distinguished by the speed of implementation, the 
+comprehensiveness of reforms, and the internal sequencing of the policy package. These three 
+concepts are assessed below. A key bone of contention in the literature is the debate between the proponents of  " shock 
+therapy "  and those who support a  " gradualist "  approach to reform. 10 The arguments in favour of 
+gradualism are primarily based on political and financial constraints. For instance, Dewatripont and 
+Roland (1992) suggest that in the presence of political opposition to reforms, a move to improve 
+allocative efficiency (through the liquidation of SOEs) may entail significant financial costs (e.g. 
+compensation schemes for public-sector workers). In this situation a  " big bang "  approach to 
+restructuring is not guaranteed to improve overall welfare, particularly when the short-term financial 
+costs of compensation exceed the long-term gains arising from a more productive allocation of labour. 
+Partial reforms are therefore a preferred alternative, as they allow workers with the lowest opportunity 
+costs to exit inefficient industries first, thereby reducing the financial burden of compensation 
+schemes. This perspective is also reflected by Aghion and Blanchard (1994), who note that rapid 
+restructuring of SOEs may be undesirable due to opposition from state workers and the potential 
+indirect costs of high unemployment. On the other hand, the advocates of shock therapy argue that high unemployment and a drop in 
+output are unavoidable consequences, and as such a piecemeal approach can only increase the costs of 
+transition. Countries often have a narrow window of opportunity in which to implement reforms (e.g. 
+at the beginning of transition). Failure to do so can result in a  " partial reform paradox " , where the 
+government becomes susceptible to regulatory capture by oligarchs and other vested interests, leading 
+to a low equilibrium level of reform (World Bank, 2002). Moreover, Sachs and Woo (1994) contend 
+that shock therapy was unavoidable in transition economies, owing to the large distortions created by 
+over-industrialisation, inefficient subsidies, excessive social spending and poor macroeconomic 
+management. They compare China's experience with gradualist reforms in the 1980s to the shock 
+treatment conducted in CEE and the FSU, and conclude that gradualism was successful in China due 
+to the large productivity differential between the inefficient agricultural sector and the new industrial 
+sector. In contrast, rapid enterprise restructuring in the transition region was necessary to free up 
+resources for the newly emerging private sector, but the relative opportunity cost for state workers 
+exiting heavily subsidised industries was substantially higher. Comparing countries' experiences in practice provides a crucial acid test for both sides of the 
+debate. Many of the successful countries in CEE undertook radical liberalisation in the early 1990s, 
+including Poland, the Czech Republic, Slovakia, Albania, Estonia and Latvia. On the other hand, both 
+Hungary and Slovenia implemented reforms in a slower and more co-ordinated manner, and were also 
+able to achieve similarly high levels of growth. Other countries began with a radical liberalisation 
+programme but were unable to maintain momentum in reform implementation, and went on to achieve 
+growth with varying degrees of success (e.g. Bulgaria, Lithuania, the Kyrgyz Republic, Moldova, 10. 
+ " Shock therapy "  is invariably referred to in the literature as a  " big bang "  approach to reform. The 
+terms  " gradualist "  and  " piecemeal "  are also used interchangeably in the context of reform strategies. 11 Romania and Russia). In reality, the debate of shock therapy versus gradualism may have been 
+inconsequential, as many of the countries that tried shock therapy only did so in response to a severe 
+crisis. A further issue in the literature on transition strategies relates to sequencing, or the order in which 
+reforms are implemented. Dabrowski (1996) outlines three strategic guidelines on the ideal 
+progression of structural reforms during transition. First, radical and comprehensive reforms to the macroeconomic environment are necessary at the 
+very beginning of transition. In the early 1990s, price controls, subsidies and other distortions had 
+created a large monetary overhang and suppressed inflation in most transition economies. Given that 
+domestic and external liberalisation would inevitably result in corrective inflation, strong monetary 
+and fiscal discipline was essential to rein in inflationary expectations and prevent prices from 
+spiralling out of control. Second, price liberalisation is indispensable to allow for the efficient reallocation of resources, 
+and should also be undertaken early in the transition process. Prices are a fulcrum for the development 
+of market-based incentives, and their liberalisation facilitates the implementation of many other 
+structural reforms, including fiscal stabilisation, privatisation and competition policy. Conversely, 
+attempts to reduce the prevalence of monopolies and encourage private sector development are likely 
+to be ineffective if prices have not been deregulated. Reforms to trade and the foreign exchange 
+system should also take place after price liberalisation, as the adjustment of the domestic economy to 
+international prices is a vital means to stimulate competitiveness in external markets. Third, Dabrowski (1996) postulates that privatisation and enterprise restructuring should only 
+proceed after significant advances have been made in the areas of stabilisation and liberalisation. In 
+Russia, rapid privatisation took place while progress in the areas of macroeconomic stabilisation, 
+competition policy and external liberalisation languished. This created incentives for rent-seeking and 
+profiteering in the private sector, at the expense of market-based competition. Using the existing literature on transition strategies as a basis, one can conclude that 
+comprehensiveness, or progress in overall reform implementation, appears to be undeniably associated 
+with higher growth. However, the question of the ideal speed and sequencing of implementation 
+remains inconclusive. Not all fast-reforming countries have been rewarded equally with growth, and 
+several slow reformers have managed to achieve high growth rates against all odds. Moreover, 
+countries exhibit strong heterogeneity in initial conditions, and as such there is no unique optimal 
+sequence for transition. 12 4. REFORM COMPLEMENTARITIES: THE  " MISSING LINK "  IN TRANSITION 
+STRATEGIES? Transition is a complex and multifaceted process, and there is much contention on the principles 
+underlying the design of a successful policy package. Many of the conflicting ideologies that have 
+emerged in the literature were reviewed in section 3. This section seeks to exploit these ideas, and 
+advance the notion that reform complementarities are a key ingredient that has often been overlooked 
+in the analysis of transition strategies. In addition, composite indicators measuring the overall level of 
+reform implementation and the complementarity across reforms are developed and used to compare 
+trajectories of structural and institutional change in transition economies. 4.1 Exploring complementarities in the transition process This paper does not advocate for the superiority of a particular speed or sequence of reforms as 
+such (although a comprehensive reform package is presumed to be unequivocally good for growth). 
+Rather, a successful transition strategy should focus on alleviating the  " binding constraints "  to growth, 
+and thus the preferred speed and sequence of reforms will naturally vary across countries and settings 
+(Hausmann, Rodrik and Velasco, 2005). This perspective is confirmed by Staehr (2005), who 
+undertakes a principal component analysis to test for the effect of the speed and sequencing of reforms 
+on output performance in transition economies. The findings indicate that while comprehensive, 
+broad-based reforms have a strong impact on growth, the speed of implementation has no significant 
+influence. Furthermore, the results are unable to identify a single optimal sequence for transition 
+(although some particular arrangements of reforms are found to be positively associated with growth). More fundamentally, the debate over the optimal speed and sequencing of transition policies 
+seems to have neglected a crucial point: the existence of complementary relationships between 
+reforms. Take the conflicting perspectives of shock therapy and gradualism, for instance. The 
+proponents of shock therapy (Sachs and Woo, 1994) argue that a rapid approach to enterprise 
+restructuring is needed to mobilise inefficient resources, while the advocates of gradualist theory 
+(Dewatripont and Roland, 1992; Aghion and Blanchard, 1994) contend that excessive political and 
+financial costs justify a slow and measured pace to implementation. In reality, both perspectives are 
+correct. The liquidation and restructuring of inefficient SOEs will necessarily free up resources and 
+entail costs, regardless of the speed of reform. However, these policies are condemned to fail if they 
+are not adequately complemented with measures to stimulate returns to entrepreneurship and private 
+sector activity. Creating a competitive business climate allows new firms to absorb the assets and 
+labour of old enterprises, overcome the initial loss of output from restructuring, and sustain growth in 
+the medium to long term (World Bank, 2002). The choice of speed should depend on practical issues, 
+such as political feasibility and the ability of individuals and firms to adjust to the new environment 
+and respond to incentives for wealth creation. Reform complementarities have also been somewhat overlooked in the literature on sequencing. 
+For example, Dabrowski (1996) uses Russia's experience with mass-privatisation in the early 1990s to 
+justify the claim that macroeconomic stabilisation and price liberalisation must precede privatisation 
+reforms. However, this theory is at odds with the fact that privatisation has a direct impact on the 
+sustainability of macroeconomic reforms. The Bulgarian experience is symbolic in this respect: the 
+government introduced a comprehensive stabilisation and liberalisation package in 1991; however 
+progress in large-scale privatisation was slow. By the end of 1994, the government (including the 
+national Privatisation Agency) had only supervised 185 privatisation transactions out of a total of 
+3,500 (World Bank, 1995). This led to rent-seeking, asset stripping and significant pressure on the 13 state budget. Thus the more fitting conclusion to draw is one that emphasises the strong 
+complementarities between stabilisation, liberalisation and privatisation. Private ownership creates 
+incentives for the pursuit of profits, through efficient resource allocation and higher productivity 
+levels. The elimination of subsidies and price controls encourages firms to devote their efforts to 
+relevant activities that add value to the economy. And macroeconomic stabilisation supports consumer 
+and producer confidence by reducing inflationary expectations, preventing hyperinflation and 
+providing a stable investment climate. The strong complementarities between these policies imply that 
+inattention to one particular area can lead to unintended and catastrophic consequences such as weak 
+incentives, inefficient resource allocation and rapidly accelerating inflation. The presence of reform complementarities has two important implications: First, the returns to 
+reform implementation are amplified by the implementation of other complementary reforms. And 
+second, neglecting to undertake complementary reforms can substantially diminish the returns to an 
+existing reform. This second corollary is strikingly reminiscent of the theory of the second-best, which 
+affirms that in the presence of numerous distortions, the welfare effects of the removal of any one 
+distortion are ambiguous, and may be either positive, negative or neutral (Lipsey and Lancaster, 1956). 
+In the context of transition strategies, the relevant conclusion to be drawn is that countries should 
+develop an approach based on maximising complementarity across reforms. This is essentially 
+consistent with Hausmann, Rodrik and Velasco (2005) who recommend targeting the  " binding 
+constraints "  to growth, as these areas are expected to have a strong positive impact on welfare. By 
+prioritising reforms that have strong complementary relationships with the existing policy framework, 
+countries can avoid negative second-best effects and focus on the policies that are most likely to be 
+welfare enhancing. 4.2 Measuring reform complementarities and progress in transition Having established a theoretical framework for complementarity, the remainder of this section 
+turns to questions of measurement by developing a methodology to quantify reform complementarities 
+in the context of transition. As a necessary first step, a formal definition for complementarity is 
+adopted, based on Topkis (1978) and Braga de Macedo and Oliveira Martins (2008). Suppose an objective function í µí±(@BULLET) depends on two reform areas (í µí±¥, í µí±¦). Each area has two 
+possible values: reform (í µí±¥ í µí±í µí± í µí±¦) or no reform (í µí±¥′ í µí±í µí± í µí±¦′). Hence the two reforms are said to be 
+complementary if the following condition is met: 
+í µí±(í µí±¥, í µí±¦ ′ ) − í µí±(í µí±¥ ′ , í µí±¦ ′ ) ≤ í µí±(í µí±¥, í µí±¦) − í µí±(í µí±¥ ′ , í µí±¦) (1) This means that the return to implementing reform í µí±¥ is greater when reform í µí±¦ has already been 
+implemented, and vice-versa. It is worth noting that this condition holds when í µí±(í µí±¥, í µí±¦) is monotonically increasing in í µí±¥ and í µí±¦ (i.e. í µí¼ 2 í µí±(í µí±¥,í µí±¦) 
+í µí¼í µí±¥í µí¼í µí±¦ ≥ 0 ). Extending the concept of complementarity to a set of í µí± reforms, í µí±(@BULLET) is  " supermodular "  if 
+complementary relationships exist for each and every pair of policies (Topkis, 1998; Braga de Macedo 
+and Oliveira Martins, 2008). This implies that complementarities exist throughout the entire policy 
+package, and the adoption of any one subset of complementary reforms will increase the incremental 
+returns to implementing the remaining set of reforms (Gates, Milgrom and Roberts, 1994). Section 4.1 
+identified several plausible examples of complementary relationships between reforms. To illustrate 
+that linkages and synergies exist across the entire policy framework, a summary of pair-wise 
+complementarities for ten major areas of structural reform is provided in Table 1 in Appendix A. In 
+practice, policy linkages will not be uniform and equal in magnitude. Nevertheless, the assumption of 14 supermodularity (all reforms are complementary, but some reforms are more complementary than 
+others) is crucial as it allows for the construction of a composite indicator to measure the level of 
+complementarity across reforms. This paper uses the EBRD Transition Indicators to measure progress in transition for 30 
+countries, from 1989 to 2012. The full list of countries covered is provided in Table 4 in Appendix B, 
+and includes all of the CEE and FSU countries, as well as Turkey and Mongolia. 11 The indicators 
+cover nine major areas of structural reform: large-scale privatisation, small-scale privatisation, 
+governance and enterprise restructuring, price liberalisation, trade and the foreign exchange system, 
+competition policy, banking reform and interest rate liberalisation, securities markets and non-bank 
+financial institutions, and infrastructure. The scores for each indicator vary between 1 (no progress in 
+reform) and 4.33 (full reform, comparable with advanced economies), and are reported on an annual 
+basis in the EBRD Transition Report. A detailed description of the EBRD Transition Indicators is 
+provided in Table 5 in Appendix B, along with the other data sources used in this paper. The EBRD Transition Indicators form the basis for the design of two composite indicators, 
+which are used to measure overall progress in transition (reform level), and capture changes in the 
+distribution of individual reform indicators (reform complementarity). Following Braga de Macedo, 
+Oliveira Martins and Rocha (2010), the reform level (RL) is measured as the simple average of the 
+nine areas of structural reform, and reform complementarity (RC) is calculated by taking the standard 
+deviation of the nine indicators. When the scores for the individual reform indicators are equal, the 
+standard deviation is zero and reform complementarities are at their highest. Complementarity measures the level of dispersion across the existing policy framework, and is 
+therefore independent of the overall level of reform. In the beginning of transition, the policy 
+environment in most countries was both highly distorted and highly complementary. Price controls, 
+subsidies, an oversized state sector, a repressed private sector and strict controls on trade and foreign 
+exchange all formed part of a self-sustaining (albeit highly precarious) system. In this context, a radial 
+reform strategy involving a simultaneous reduction of all distortions is the most desirable approach, as 
+it ensures that complementarity levels are maintained at a maximum throughout the transition process. 
+However, this method is typically unfeasible due to informational and institutional limitations, and 
+governments often had to allow complementarity to decrease as they implemented reforms in 
+succession. The transition to a market economy was often a bumpy ride, as a fall in complementarity would 
+necessarily entail the exposure of an economy to negative second-best effects. This result is clearly 
+visible in Figures 3 and 4, which illustrate the structural evolution of transition for a selected set of 
+economies in CEE and the FSU (the remaining country graphs are presented in Figures 14 and 15 in 
+Appendix A). The large variability in policy packages and growth performance across countries provides a 
+useful platform for the investigation of complementarities among various reforms. Successful 
+countries were able to capitalise on the linkages and interdependencies between reforms and generate 
+concurrent increases in RL and RC. The U-shaped transition is clearly visible in many of the 
+successful CEE countries, including Estonia, Hungary, Poland and Slovenia. In stark contrast, a 
+number of the FSU countries appear to be stuck in a low equilibrium reform trap, including Belarus, 
+Turkmenistan and Uzbekistan. Reforms also appear to have slowed or backtracked in the energy 
+exporting economies of Azerbaijan, Kazakhstan and Russia. The findings are provocative, and suggest 
+that more attention ought to be given to reform complementarities in empirical studies on growth in 
+transition economies. 11. 
+Data for the Czech Republic is only provided for 1989 to 2007, and data for Turkey is limited to 2008 
+to 2012. 15 Figure 3. Reform Complementarity (RC) and Reform Level (RL) in CEE, 1989-2012 Note: RC (the y-axis) is measured in reverse because an increase in the standard deviation corresponds to a fall in the level of 
+complementarity across reforms (and vice-versa). 1989 1991 1992 1993 
+1995 1998 2001 2008 2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Albania 1989 1990 1991 1994 1996 2001 
+2006 2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Bulgaria 1989 1990 
+1992 
+1993 1995 1996 
+2000 2002 
+2004 
+2007 2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Croatia 1989 1990 
+1991 
+1992 
+1993 
+1994 
+1996 1997 1999 
+2001 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Estonia 1989 1990 
+1991 
+1992 
+1993 
+1994 1997 
+1999 
+2005 2010 2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Hungary 1989 1990 1991 1992 1993 1995 
+2000 
+2005 
+2009 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Poland 1989 1991 1992 1993 
+1994 1995 1996 1997 2003 2006 
+2007 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Romania 1989 1990 
+1991 1992 
+1993 1995 1997 
+1998 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Slovenia 16 Figure 4. Reform Complementarity (RC) and Reform Level (RL) in the FSU, 1989-2012 Note: RC (the y-axis) is measured in reverse because an increase in the standard deviation corresponds to a fall in the level of 
+complementarity across reforms (and vice-versa). 1989 1992 1994 1995 1997 2000 2010 2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Armenia 1989 1992 1994 1995 
+1996 1997 2004 2010 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Azerbaijan 1989 1992 1995 
+1996 1997 2005 
+2009 2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Belarus 1989 1992 
+1993 1994 1995 
+1996 
+1998 
+2000 2005 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Kazakhstan 1989 1991 1992 
+1993 1994 2000 2004 2007 
+2011 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Russia 1989 1994 1997 2003 
+2008 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Turkmenistan 1989 1992 
+1993 
+1994 1996 2001 2008 2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Ukraine 1989 1992 
+1993 1994 1996 2001 2009 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Uzbekistan 17 5. EMPIRICAL TESTS: DO COMPLEMENTARITIES MATTER FOR GROWTH? Over the past two decades, an abundant literature has emerged using cross-country empirical 
+analysis to quantify the importance of reforms in the transition process. Studies have invariably tested 
+for the weight of initial conditions and structural reforms in determining economic growth rates. At the 
+same time, numerous criticisms of aggregate cross country growth regressions have been raised. 
+Typically, concerns relate to the arbitrary choice of policy variables, the omission of variables 
+capturing differences in institutional quality, the assumptions underlying growth models and the 
+inability of reform indicators to predict changes in economic performance (World Bank, 2005). The 
+quality of GDP and inflation data has also been called into question, due to systematic over-reporting 
+of output during the pre-transition period, under-reporting of growth in the early years of transition 
+and the inability to account for a marked increase in informal sector activity (Campos and Coricelli, 
+2002). 12 Notwithstanding these important caveats, this section attempts to capture the impact of reforms 
+and complementarity on growth in transition economies. Figures 5 and 6 provide an initial view of the 
+data for the period 1989 to 1996. A U-shaped relationship is clearly observable between í µí±í µí°¿ and 
+í µí°ºí µí°·í µí± í µí±í µí±í µí±í µí±¤í µí±¡ℎ in Figure 5, confirming the hypothesis that initial policy improvements in the early stages of transition led to reduced welfare, but further commitment to reform thereafter was positively 
+associated with growth. A positive relationship can also be seen in the relationship between 
+í µí°ºí µí°·í µí± í µí±í µí±í µí±í µí±¤í µí±¡ℎ and changes in complementarity (Figure 6), providing strong support for the inclusion of this variable in the empirical model. 12. 
+Estimates of the share of the informal economy during transition range between 6 and 60 percent 
+(World Bank, 2002). 18 Figure 5. GDP growth and reform level (RL), 1989-1996 Figure 6. GDP growth and changes in reform complementarity (∆RC), 1989-1996 Note: RC (the x-axis) is measured in reverse because an increase in the standard deviation corresponds to a fall in the level of 
+complementarity across reforms (and vice-versa). -40 -30 -20 -10 0 10 20 1 
+1.5 
+2 
+2.5 
+3 
+3.5 
+GDP growth (annual %) Reform Level (RL) -40 -30 -20 -10 0 10 20 -0.40 
+-0.20 
+0.00 
+0.20 
+0.40 
+0.60 
+GDP growth (annual %) ∆ RC 19 Using the methodology developed in Braga de Macedo and Oliveira Martins (2008) as a basis, 
+the following specification is tested: 
+í µí°ºí µí°·í µí± í µí±í µí±í µí±í µí±¤í µí±¡ℎ = í µí»¼ + í µí»½ 1 (í µí°¼í µí±í µí±í µí±¡í µí±í µí±í µí± í µí° ¶í µí±í µí±í µí±í µí±í µí±¡í µí±í µí±í µí±í µí± ) + í µí»½ 2 í µí±í µí±(100 + í µí°¼í µí±í µí±í µí±í µí±í µí±¡í µí±í µí±í µí±) + í µí»½ 3 í µí±í µí°¿ + í µí»½ 4 ∆í µí±í µí°¿ 
+− í µí»½ 5 (−í µí±í µí° ¶) − í µí»½ 6 (−∆í µí±í µí° ¶) + í µí¼ (2) Equation (2) assumes that í µí°ºí µí°·í µí± í µí±í µí±í µí±í µí±¤í µí±¡ℎ is a function of country-specific initial conditions, the 
+rate of inflation, and the level and variation of the reform level (í µí±í µí°¿) and reform complementarity (í µí±í µí° ¶) 
+indicators. The econometric tests are conducted with an unbalanced panel covering 30 countries and 
+24 years (1989 to 2012). 13 The results of the panel regressions are reported in Table 1, and are broadly 
+consistent with the results reported in Braga de Macedo and Oliveira Martins (2008). Several models 
+are tested, including one-way fixed effects, GLS random effects and a two-way fixed effects model 
+with time dummies. The estimated coefficients are robust and do not vary significantly across the 
+various models. Table 1. Initial empirical tests for GDP growth, reform level and complementarity Dependent variable: 
+Real GDP growth 
+One-way 
+fixed effects 
+Random 
+effects 
+One-way 
+fixed effects 
+One-way 
+fixed effects 
+Two-way 
+fixed effects Initial conditions 
+– 
+-1.1288*** 
+(0.3589) 
+– 
+– 
+– Inflation (CPI growth) 
+-5.1309*** 
+(0.4582) 
+-5.0226*** 
+(0.4657) 
+-5.7216*** 
+(0.4314) 
+-6.3638*** 
+(0.4375) 
+-4.1274*** 
+(0.5299) Reform Level (RL) 
+2.2346*** 
+(0.5375) 
+0.8970** 
+(0.4448) 
+3.3010*** 
+(0.4349) 
+– 
+0.8290 
+(1.0395) Change of Reform Level (∆RL) 
+-4.8064** 
+(1.9923) 
+-6.6457*** 
+(1.9774) 
+– 
+– 
+-3.5945* 
+(1.9666) Reform Complementarity 
+(–RC) 
+-8.1791*** 
+(1.2174) 
+-5.4643*** 
+(1.0409) 
+– 
+– 
+-8.2196*** 
+(1.2952) Change of Reform 
+Complementarity (–∆RC) 10.3828*** 
+(2.0245) 
+12.5984*** 
+(2.0833) 
+– 
+13.9877*** 
+(1.9911) 
+7.6664*** 
+(2.0946) Constant 
+15.8854*** 
+(2.9897) 
+30.2423*** 
+(3.7731) 
+21.7629*** 
+(2.8659) 
+33.8358*** 
+(2.1652) 
+15.2082*** 
+(3.1714) Number of observations 
+644 
+627 
+665 
+644 
+644 R 
+2 (within) 
+0.50 
+0.51 
+0.40 
+0.41 
+0.61 F-test 
+122.0 
+– 
+210.7 
+216.7 
+34.5 Note: Country fixed effects are not reported. The two-way fixed effects model includes time dummies, which are not reported 
+here. The negative of RC and ∆RC are reported in the table, so that a positive change in reform complementarity (i.e. a 
+decrease in the standard deviation) corresponds to an increase in real GDP growth (and vice-versa). Asterisks (*) denote 
+significance at the 10 percent level (*), 5 percent level (**) and 1 percent level (***). 13. 
+See Table 4 in Appendix B for a detailed list of the countries covered in this paper. Some data points 
+were removed from the sample, because they contained excessively high values of GDP growth or 
+inflation. These include Bosnia (1992 to 1996) and Georgia in 1994. Their removal has no noticeable 
+impact on the results. 20 Three important methodological differences are worth noting at this point. First, and foremost, the 
+measure of reform complementarity adopted here is the standard deviation (and not the inverse of the 
+Herfindahl-Hirschman Index (HHI), which is used in Braga de Macedo and Oliveira Martins, 2008). 
+The standard deviation is preferred as it produced more favourable results in the estimations, and 
+responds to incremental changes in reform indicators in a consistent manner. 14 Second, the inflation 
+variable is calculated using the logarithmic transformation log (100 + í µí°¼í µí±í µí±í µí±í µí±í µí±¡í µí±í µí±í µí±), which allows for 
+some smoothing of the hyperinflation episodes that took place during the early 1990s (Staehr, 2005). 
+This increases the explanatory power of the model and results in a substantially higher magnitude for 
+the estimated coefficient of the inflation variable. 15 And third, initial conditions are measured as the 
+log of 1989 GDP per capita (in constant 2005 US dollars). This variable could only be included in the 
+GLS random effects model, as the fixed effects model does not allow for the inclusion of time-
+invariant variables. 
+Curiously, an improvement in initial conditions appears to have a negative influence on GDP 
+growth. One possible explanation is that many of the countries that entered the transition with poor 
+initial conditions in the early 1990s have sustained unusually high growth rates in recent years as a 
+result of natural resource exports. Indeed, the bottom ten countries in terms of 1989 GDP per capita 
+include Uzbekistan, Mongolia, Turkmenistan and Azerbaijan. Starting from a lower base also meant 
+that these countries were able to achieve rapid growth as income levels in the FSU recovered from the 
+transition recession. The results also indicate that a higher overall level of reform (í µí±í µí°¿) is associated with higher 
+growth, confirming the importance of sustaining momentum in reforms. However, the coefficient on 
+the change in reform level (Δí µí±í µí°¿) variable is negative. This reflects the theory of the second-best: 
+governments are often unable to implement broad-based reforms and must resort to a piecemeal 
+approach, which typically causes welfare losses in the short-run. On the other hand, the reform complementarity (−í µí±í µí° ¶) variable has a negative coefficient. This 
+means that high levels of complementarity (which occur when the standard deviation is low) are 
+associated with negative movements in output. The result should not come as a surprise, as many 
+unreformed and distorted economies exhibited high levels of complementarity during the early stages 
+of transition. The more interesting result in the context of this paper is the change in reform 
+complementarity (−Δí µí±í µí° ¶) variable, which displays a positive coefficient. Hence an increase in 
+complementarity (which corresponds to a decrease in the standard deviation) generates a positive 
+output response. This confirms the hypothesis that increases in reform complementarity have a 
+positive effect on growth. In spite of the difficulties associated with defining meaningful policy indicators that effectively 
+capture the impact of economic and institutional reforms, the results of the initial empirical tests are 
+encouraging. The fixed and random effects models explain approximately 50 percent of the time-
+variant effects of policy reforms on output. Both the average level of reform and changes in reform 
+complementarity are positively associated with growth, suggesting that countries should prioritise 
+reforms that have a positive impact on complementarity, while aspiring to a high overall level of 
+reform in the long run. 14. 
+See Appendix C for a detailed explanation of why the standard deviation is preferred over the inverse 
+of the HHI. 15. 
+Testing for inflation (without the logarithmic transformation) resulted in a coefficient of -0.0044 for 
+the first two models in Table 1. It also led to a substantially lower R-squared coefficient: 0.44 in the 
+fixed effects model and 0.46 in the random effects model. 21 Having established the robustness of the estimations reported in Table 1, a second set of 
+empirical tests were conducted to control for other relevant determinants of growth. The econometric 
+specification is therefore extended as follows: 
+í µí°ºí µí°·í µí± í µí±í µí±í µí±í µí±¤í µí±¡ℎ = í µí»¼ + í µí»½ 1 ln(100 + í µí°¼í µí±í µí±í µí±í µí±í µí±¡í µí±í µí±í µí±) + í µí»½ 2 í µí±í µí°¿ + í µí»½ 3 ∆í µí±í µí°¿ − í µí»½ 4 (−í µí±í µí° ¶) − í µí»½ 5 (−∆í µí±í µí° ¶) − í µí»½ 6 [−∆í µí±í µí° ¶(−1)] − í µí»½ 7 [−∆í µí±í µí° ¶(−2)] + �(í µí»¾ í µí± Ζ í µí± ) í µí± + í µí¼ (3) Equation (3) seeks to substantiate two important hypotheses. First, the model suggests that a 
+change in the reform complementarity indicator has an impact on growth over time, beyond the 
+contemporaneous effect that has already been tested. This assumption is embodied in the two lagged 
+terms Δí µí±í µí° ¶(−1) and Δí µí±í µí° ¶(−2). Second, the specification seeks to test for the impact of a series of 
+control variables, represented by the summation term ∑ (í µí»¾ í µí± Ζ í µí± ) í µí± . Data for the control variables are 
+obtained from the World Bank's World Development Indicators. Table 2 compares the results of five panel estimations. The initial conditions variable is excluded, 
+because the models are an extension of the one-way fixed effects regression reported in the first 
+column of Table 1 (the random effects model was rejected by the Hausman test). In order to test for 
+the robustness of the estimated coefficients, columns 3, 4 and 5 experiment with various alternative 
+combinations of the explanatory variables. A comparison reveals that the coefficients are relatively 
+stable and the results do not lose significance when explanatory variables are removed from the model. The first point worth noting is that the augmented model does not substantially alter the sign, 
+magnitude or statistical significance of the initial set of variables. A high reform level (í µí±í µí°¿) and an 
+increase in reform complementarity (–Δí µí±í µí° ¶) are still positively correlated with growth, and all of the 
+original explanatory variables remain significant at either 1 or 5 percent. Second, the lagged coefficients of (−Δí µí±í µí° ¶) are also statistically significant, confirming the 
+assumption that an improvement in complementarity influences growth beyond the short-term 
+contemporaneous effect. 16 Moreover, the effects over time are non-trivial: in the first two estimations 
+(models (1) and (2) in Table 2), the combined magnitude of the lagged coefficients of (−Δí µí±í µí° ¶) 
+exceeds the coefficient for the contemporaneous impact. Turning to the estimated coefficients for the control variables, a number of interesting findings 
+emerge. Increases in government expenditure are negatively associated with growth, suggesting that 
+transition economies are overburdened by bureaucracy and public sector inefficiencies. Conversely, an 
+increase in FDI inflows leads to higher growth. Attracting FDI has been the hallmark of successful 
+transition economies in recent years, and could be an important policy focus for countries seeking to 
+increase their orientation to external markets. The inclusion of the secondary school enrolment variable is motivated by the fact that growth 
+regressions for transition economies often neglect to incorporate measures of human capital 
+accumulation (Staehr, 2005). As expected, the results demonstrate that higher levels of human capital 
+lead to higher growth. Oil rents are also positively correlated with growth, reflecting the substantial 
+growth stimulus that has occurred over the past decade as a result of increased oil production in 
+countries such as Azerbaijan, Kazakhstan and Russia. 16. 
+Changes in the average reform level (∆RL) also impact growth (negatively) over time, however due to 
+multicollinearity the ∆RL(-1) and ∆RC(-1) variables lose significance when included in the model 
+together. 22 Curiously, a higher degree of urbanisation seems to reduce growth. This may be due to the 
+importance of rural and regional economic systems in contributing to the growth process in transition 
+economies. Alternatively, it could be a reflection of natural resource abundance in countries with large 
+territories and low levels of urbanisation. Finally, the structure of output also has a substantial influence on growth. An increase in the 
+share of agriculture and industry in GDP engenders a positive growth response, and an increase in the 
+share of services in GDP is negatively associated with growth. This result should not be immediately 
+interpreted as a justification for greater industrialisation and the development of agriculture in 
+transition economies, as it mostly reflects the large transformation in the structure of output 
+experienced during the transition recession. 17 17. 
+See Section 2 and Figures 12 and 13 in Appendix A for further details on the changing composition of 
+output in CEE and the FSU. 23 Table 2. Fixed effects panel regressions with additional control variables Dependent variable: 
+Real GDP growth 
+(1) 
+(2) 
+(3) 
+(4) 
+(5) Inflation (CPI growth) 
+-4.0262*** 
+(0.7007) 
+-4.0614*** 
+(0.6949) 
+-4.0803*** 
+(0.6000) 
+-3.8623*** 
+(0.5287) 
+-3.8038*** 
+(0.6015) Reform Level (RL) 
+2.6056** 
+(1.2235) 
+2.5934** 
+(1.2214) 
+4.2357*** 
+(0.9933) 
+1.6128** 
+(0.8082) 
+2.2841** 
+(0.9295) Change of Reform Level 
+(∆RL) -6.0517** 
+(2.4138) 
+-5.8260** 
+(2.3526) 
+-7.8700*** 
+(2.2691) 
+-8.5305*** 
+(2.0802) 
+-4.7236** 
+(2.1209) Reform Complementarity 
+(–RC) 
+-13.5806*** 
+(2.3834) 
+-13.4071*** 
+(2.3456) 
+-11.7757*** 
+(2.0194) 
+-10.7105*** 
+(1.7793) 
+-13.1942*** 
+(2.0521) Change of Reform 
+Complementarity (–∆RC) 10.0923*** 
+(2.6231) 
+10.0360*** 
+(2.6161) 
+6.5630*** 
+(2.2592) 
+8.7673*** 
+(2.1178) 
+14.5116*** 
+(2.4276) Lagged [–∆RC (-1)] 
+3.8348* 
+(2.1326) 
+3.8669* 
+(2.1283) 
+– 
+– 
+3.1635* 
+(1.9188) Lagged [–∆RC (-2)] 
+6.4701*** 
+(1.7519) 
+6.4643*** 
+(1.7494) 
+– 
+– 
+6.6709*** 
+(1.8964) Government expenditure (% 
+of GDP) 
+-0.3135*** 
+(0.0992) 
+-0.3177*** 
+(0.0985) 
+-0.3615*** 
+(0.0950) 
+-0.3607*** 
+(0.0849) 
+– Foreign direct investment 
+(FDI), net inflows (% of GDP) 
+0.2054*** 
+(0.0448) 
+0.2040*** 
+(0.0446) 
+0.2022*** 
+(0.0462) 
+0.1433*** 
+(0.0446) 
+– Secondary school enrolment 
+(% gross) 
+0.1586*** 
+(0.0607) 
+0.1493*** 
+(0.0567) 
+0.1459** 
+(0.0597) 
+– 
+– Oil rents (% of GDP) 
+0.1827** 
+(0.0921) 
+0.1693* 
+(0.0866) 
+0.1940** 
+(0.0941) 
+– 
+– Urban population (% of total) -0.6207*** 
+(0.2090) 
+-0.6420*** 
+(0.2027) 
+-0.6249*** 
+(0.2107) 
+– 
+– Agriculture (% of GDP) 
+0.3009*** 
+(0.0749) 
+– 
+0.2979*** 
+(0.0746) 
+– 
+– Industry (% of GDP) 
+0.2630*** 
+(0.0763) 
+– 
+0.2404*** 
+(0.0748) 
+– 
+– Services (% of GDP) 
+– 
+-0.2825*** 
+(0.0612) 
+– 
+– 
+– Constant 
+16.8145 
+(14.4475) 
+47.1689*** 
+(12.7273) 
+16.8663 
+(13.6052) 
+15.1235*** 
+(5.1011) 
+5.4308 
+(5.7718) Number of observations 
+326 
+326 
+336 
+551 
+589 R 
+2 (within) 
+0.62 
+0.62 
+0.61 
+0.48 
+0.49 F-test 
+33.3 
+35.9 
+38.3 
+67.5 
+77.0 Note: Country fixed effects are not reported. The negative of RC, ∆RC, ∆RC(-1) and ∆RC(-2) are reported in the table, so that a 
+positive change in reform complementarity (i.e. a decrease in the standard deviation) corresponds to an increase in real GDP 
+growth (and vice-versa). Asterisks (*) denote significance at the 10 percent level (*), 5 percent level (**) and 1 percent level (***). 24 6. POLICY COMPLEMENTARITIES IN PRACTICE: THE CASE OF KAZAKHSTAN As the wealthiest and second-most populous country in Central Asia, Kazakhstan provides an 
+interesting case study for the theory of reform complementarities. The economy sustained a sharp 
+output decline during the early years of transition, and did not regain its 1989 level of real GDP per 
+capita until 2003. An aggressive stance on internal and external liberalisation may have initially 
+exacerbated the effects of the recession; however the reforms eventually precipitated substantial FDI 
+inflows in the extractive industries. The country has enjoyed high growth rates and rising prosperity 
+over the past decade, primarily driven by the production of mineral and fossil fuel resources. In spite of this progress, income per capita growth has been highly volatile, and the economy 
+remains considerably exposed to external shocks. Figure 7 depicts sharp fluctuations in Kazakhstan's 
+GDP per capita growth rate, which closely follows growth rates in the FSU. In particular, the country 
+was severely affected by the 1998 Russian crisis, a local banking crisis in 2008, and the 2009 global 
+economic downturn. Recent efforts to stabilise the economy have provided some relief, however 
+banking sector weaknesses persist and commodity price instability continues to generate strong 
+inflationary pressures (IMF, 2012). Figure 7. Real GDP per capita growth in Kazakhstan, 1989-2012 Note: Regional aggregates are population-weighted. Source: Author's calculations, based on data from WB/WDI. Similar to other countries in the FSU, the transition recession led to a marked shift in the 
+structural composition of output in Kazakhstan. Figure 16 in Appendix A illustrates the sharp decline 
+in the share of agriculture and industry in GDP, which fell from a combined level of 71 percent in 
+1992 (27 percent for agriculture and 45 percent for industry) to 43 percent in 2012 (4 percent for 
+agriculture and 39 percent for industry). To a certain extent, the depth of Kazakhstan's output collapse 
+at the beginning of transition can be attributed to relatively higher levels of initial industrialisation and 
+a strong exposure to competitive pressures from the Russian market. -15 -10 -5 0 5 10 15 GDP growth (annual %) Kazakhstan 
+Former Soviet Union 25 Kazakhstan's transition was marked by radical reforms in the early 1990s, particularly in the 
+areas of price liberalisation, small-scale privatisation, trade openness and the foreign exchange system. 
+As the last country to formally declare independence from the Soviet Union, economic and social ties 
+with Russia had a strong influence on the choice of policy reforms in Kazakhstan (Hoen and 
+Irnazarov, 2012). For instance, the liberalisation of domestic prices in January 1992 took place in 
+parallel to the removal of price controls in Russia. By the end of 1994, full price liberalisation was 
+virtually complete, with more than 90 percent of prices free of administrative controls (EBRD, 1994). 
+The privatisation process was also strongly influenced by Russian reforms, with the adoption of a 
+voucher-based programme in 1994. By 1996, 60 percent of the 1,700 enterprises designated for large-
+scale privatisation and 70 percent of the 16,000 entities earmarked for small-scale privatisation had 
+been transferred into private ownership (EBRD, 1996). Complementarities were central to the transition process in Kazakhstan, particularly between 
+liberalisation and privatisation reforms. Privatisation improved the incentives for profit generation, 
+and the removal of price controls and subsidies ensured that resources were allocated more efficiently 
+within the economy. Privatisation also facilitated the process of macroeconomic stabilisation. Driven 
+by the sale of large oil concessions in the late 1990s, Kazakhstan's privatisation proceeds as a share of 
+GDP were the highest out of all transition economies. This additional source of budgetary revenue 
+substantially improved the fiscal adjustment process in Kazakhstan. An aggressive monetary stance 
+also helped to reduce inflation to manageable levels, creating favourable conditions for investment and 
+private sector activity (Alam and Banerji, 2000). Kazakhstan also implemented significant reforms to liberalise trade and the foreign exchange 
+system. A convertible national currency with a single unified exchange rate was introduced in 
+November 1993, and most export and import quotas and licensing requirements were abolished by 
+1995 (EBRD, 1996). These reforms have been instrumental in encouraging domestic firms to increase 
+productivity in the face of strong competitive pressures from international markets. More recently, the 
+establishment of a Customs Union between Belarus, Kazakhstan and Russia in January 2010 has 
+further increased Kazakhstan's exposure to foreign competition, particularly the Russian market (IMF, 
+2011). Figure 8 depicts progress in the implementation of major structural reforms in Kazakhstan 
+between 1995 and 2012. While  " shock therapy "  has led to extensive improvements in the domains of 
+privatisation, price liberalisation and trade policy, several crucial areas remain only partially reformed. 
+In particular, competition policy and governance and enterprise restructuring only score 2 out of a 
+maximum possible score of 4.33. These areas have remained largely unreformed for the past two 
+decades. 26 Figure 8. Progress in structural reforms in Kazakhstan, 1995-2012 Note: Scores range between a minimum of 1 and a maximum of 4.33. See Table 5 in Appendix B for a detailed definition of the 
+EBRD Transition Indicators. Source: EBRD Transition Report (1995; 2000; 2012) Kazakhstan needs to confront two important challenges in order to sustain economic growth and 
+foster the development of a competitive private sector. First, the government should reduce state 
+interference in the economy by restructuring large and unprofitable enterprises, and strengthening the 
+corporate governance of SOEs. Second, the development of a competitive business environment is 
+crucial to encourage private sector development. Improving the legal and institutional framework for 
+competition policy can facilitate the entry of new enterprises and reduce the abuse of market power by 
+monopolies and conglomerates. Enterprise restructuring is a central part of the transition process, as it reduces the economic 
+burden of inefficient industries and provides new firms with a valuable source of assets and labour. 
+Imposing market discipline on SOEs improves corporate governance, creates incentives for 
+restructuring and increases productivity. Conversely, weak corporate governance and inefficient 
+resource transfers to SOEs ultimately results in corruption, rent-seeking and the discouragement of 
+private sector activity. Kazakhstan has made limited progress in this area, with no significant reforms 
+to governance and enterprise restructuring since 1996. Economic growth stems from the creation and growth of new enterprises, which are subject to a 
+level playing field and proper incentives for wealth creation. In this regard, an effective competition 
+policy is essential as it prevents large monopolies and conglomerates from restricting new entrants 
+from competing in the market. This provides new enterprises with the incentives to absorb the 
+resources of old firms, undertake new investments and sustain high growth and employment levels 
+(World Bank, 2002). Therefore, there is strong evidence of a symbiotic relationship between enterprise 
+restructuring and competition policy. Comprehensive reforms to both areas are likely to induce 
+significant benefits in terms of economic performance. In addition, there are considerable complementarities between enterprise restructuring, 
+competition policy and trade liberalisation. Free trade exposes domestic firms to international 1 2 3 4 Large-scale privatisation Small-scale privatisation Governance and enterprise 
+restructuring Price liberalisation Trade and foreign exchange system 
+Competition policy Banking reform and interest rate 
+liberalisation Securities markets and non-bank 
+financial institutions Infrastructure 1995 
+2000 
+2012 27 competition, and prevents incumbent SOEs from using their dominant position to interfere in markets. 
+However, competition policy in Kazakhstan has not improved since June 1994, when a new anti-
+monopoly law was introduced (EBRD, 1995). Amendments to the legislation were introduced in June 
+2012 in an attempt to limit the prevalence of state monopolies, however in practice no concrete 
+progress has been made in reducing the role of the state in the economy (EBRD, 2012). This suggests 
+there are substantial benefits to be reaped from reforms to the complementary areas of governance and 
+enterprise restructuring, competition policy, and trade liberalisation. The hypothesis that comprehensive reforms to enterprise restructuring, competition policy and 
+trade liberalisation will have a positive impact on economic growth in Kazakhstan can be tested by 
+means of a predictive scenario analysis. Figure 9 illustrates three potential reform scenarios for 
+Kazakhstan. The first case is a  " no reform "  scenario, with no changes to the current institutional 
+framework. The second case is a  " comprehensive reform "  scenario, involving the complete removal of 
+all distortions in the areas of governance and enterprise restructuring, competition policy and the trade 
+and foreign exchange system. This corresponds to an increase to 4.33 (the maximum possible score) 
+for the EBRD Transition Indicators in these respective areas. The third  " partial reform "  scenario 
+signifies a partial increase (from 2 to 3) in the score for the governance and enterprise restructuring 
+indicator. Figure 9. Comparing potential reform scenarios for Kazakhstan Note: Scores range between a minimum of 1 and a maximum of 4.33. See Table 5 in Appendix B for a detailed definition of the 
+EBRD Transition Indicators. Figure 10 illustrates the results of the predictive scenario analysis, which calculates GDP growth 
+forecasts for Kazakhstan based on the coefficients estimated in regression model (1) in Table 2. The 
+results indicate that ceteris paribus, comprehensive reforms to enterprise restructuring, competition 
+policy and trade liberalisation will have a positive impact on GDP growth. The reforms initially induce 
+a negative second-best result; however this loss is compensated for by higher growth rates in 
+subsequent years. On the other hand, the partial reform scenario results in a strong negative impact on 
+output growth. This reflects the fact that partial reforms in transition economies have often left 
+countries mired in a low equilibrium level of reform. It seems that complementarities are of cardinal 
+significance in the quest for growth, and neglecting to take them into account can have dire 
+consequences for a country's welfare and prosperity. 1 2 3 4 Large-scale privatisation Small-scale privatisation Governance and enterprise 
+restructuring Price liberalisation Trade and foreign exchange system 
+Competition policy Banking reform and interest rate 
+liberalisation Securities markets and non-bank 
+financial institutions Infrastructure No reform 
+Comprehensive reform 
+Partial reform 28 Figure 10. Growth simulations for Kazakhstan, 2012-2017 Note: Simulations are calculated using the coefficients from regression model (1) in Table 2. 7. CONCLUSIONS With over two decades of experience to reflect upon, it is remarkable that economists have yet to 
+reach a consensus on the elements needed to generate sustainable growth in the context of transition. 
+To be sure, differing initial conditions, economic shocks and a susceptibility to adverse second-best 
+outcomes have all served to obfuscate the relationship between policy reforms and growth 
+performance. Nevertheless, this paper attempts to derive a number of decisive lessons that can be used 
+to inform the design of transition strategies. The central conclusion that emerges from this study is that countries in transition should aim to 
+maximise complementarity within the existing policy framework. Using complementarities as a basis 
+for the prioritisation of reforms is comparable to an approach based on targeting the  " binding 
+constraints "  to growth, and is the strategy most predisposed to be welfare enhancing. To substantiate this theory, empirical tests are conducted for 30 transition economies over the 
+period 1989 to 2012, relating output growth to indicators of the level and complementarity of reforms. 
+Composite indicators are calculated using nine key measures of structural reform, taken from the 
+EBRD Transition Indicators database: large-scale privatisation, small-scale privatisation, governance 
+and enterprise restructuring, price liberalisation, trade and the foreign exchange system, competition 
+policy, banking reform and interest rate liberalisation, securities markets and non-bank financial 
+institutions, and infrastructure. 18 The reform level indicator is measured as the simple average of the 18. 
+See Table 5 in Appendix B for a detailed definition of the EBRD Transition Indicators. 0 1 2 3 4 5 6 7 8 9 10 GDP growth (annual %) GDP growth (historic) 
+No reform 
+Comprehensive reform 
+Partial reform 29 individual areas of structural reform, and reform complementarity is calculated by taking the standard 
+deviation of the nine indicators. The panel data estimations demonstrate that the reform level (í µí±í µí°¿) and 
+change in reform complementarity (−∆í µí±í µí° ¶) variables are both positively associated with GDP growth. 
+Furthermore, the results are robust to the addition of numerous control variables, including a measure 
+of initial conditions (proxied by the log of 1989 GDP per capita), macroeconomic stabilisation 
+(proxied by the log of inflation), and other indicators commonly incorporated in growth regressions 
+such as government expenditure, net FDI inflows and secondary school enrolment. The estimation of lagged coefficients for the change in reform complementarity variable (−∆í µí±í µí° ¶) 
+is a novel feature of the analysis presented in this paper. The results illustrate that a change in reform 
+complementarity has a significant influence on real GDP growth over time, highlighting the 
+importance of controlling for the dynamic impact of reforms in growth regressions. The use of the 
+regression model coefficients to generate growth forecasts is also a unique feature of this study. The 
+findings suggest that Kazakhstan should implement comprehensive reforms to a targeted group of 
+complementary policies in order to generate growth. A partial reform strategy, on the other hand, is 
+likely to have an unfavourable impact on welfare. This research paper is by no means exhaustive and a number of potential avenues remain open for 
+further research. For instance, it is widely recognised that policies are endogenous to growth, and the 
+feasible set of policies in one time period may depend on the nature of previous policy decisions 
+(World Bank, 2002). Controlling for endogeneity is therefore essential to correct for the possibility of 
+bias in the panel estimations. Another possible area to be explored is the calculation process for the 
+composite indicators of reform level and reform complementarity, which implicitly consider all 
+policies to be of equal importance and influence to the growth process. This assumption can be relaxed 
+through the introduction of a weighting scheme for the individual reform indicators. Finally, this paper has focused on a specific package of structural reforms, leaving a number of 
+important institutional reforms absent from the analysis. Rodrik (2005) argues that high-quality 
+institutional arrangements are central to the transition process, as they imbue an economy with the 
+resilience to withstand economic shocks and the ability to boost  " productive dynamism " . Sustaining 
+growth in the long-term therefore requires sound and sophisticated institutions. Further research can 
+include measures of more complex institutional changes, such as reforms to the legal framework, 
+judicial system and tax administration. 30 APPENDIX A: SUPPLEMENTARY FIGURES Figure 11. Evolution of real GDP per capita growth rates, 1989-2012 Note: Regional aggregates are population-weighted. Source: Author's calculations, based on data from WB/WDI. Figure 12. Composition of output in CEE, 1989-2012 Source: Author's calculations, based on data from WB/WDI. -15 -10 -5 0 5 10 15 GDP growth (annual %) Transition Economies 
+Central and Eastern Europe 
+Former Soviet Union 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Agriculture (% GDP) 
+Industry (% GDP) 
+Services (% GDP) 31 Figure 13. Composition of output in the FSU, 1989-2012 Source: Author's calculations, based on data from WB/WDI. 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Agriculture (% GDP) 
+Industry (% GDP) 
+Services (% GDP) 32 Figure 14. Reform Complementarity (RC) and Reform Level (RL) in CEE Note: RC (the y-axis) is measured in reverse because an increase in the standard deviation corresponds to a fall in the level of 
+complementarity across reforms (and vice-versa). Data for the Czech Republic is limited to 1989-2007. 1989 1992 
+1994 1996 1998 2002 2004 2008 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Bosnia and Herzegovina 1989 1991 1992 1993 
+1996 2000 
+2003 
+2007 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Czech Republic 1989 1990 1992 1993 1994 
+1997 
+1999 
+2005 2010 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL FYR Macedonia 1989 1991 1992 1993 1994 1996 1998 2000 
+2002 
+2008 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Latvia 1989 1990 
+1991 
+1992 1993 1994 1995 
+1996 1997 2000 2001 
+2005 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Lithuania 1989 1991 1998 
+1999 2001 2004 2006 
+2007 
+2009 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Montenegro 1989 1990 1996 
+2000 2001 2002 2005 
+2006 2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Serbia 1989 1991 1992 1993 1995 1998 2001 
+2005 
+2006 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Slovak Republic 33 Figure 15. Reform Complementarity (RC) and Reform Level (RL) in FSU, Mongolia and Turkey Note: RC (the y-axis) is measured in reverse because an increase in the standard deviation corresponds to a fall in the level of 
+complementarity across reforms (and vice-versa). Data for Turkey is limited to 2008-2012. 1989 1992 
+1993 
+1995 1996 1998 
+2003 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Georgia 1989 1992 1993 1994 2000 
+2008 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Kyrgyz Republic 1989 1992 
+1993 1994 1995 1999 2004 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Moldova 1989 1991 1992 
+1993 1995 
+1996 1998 
+2000 2004 
+2006 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Mongolia 2008 2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Turkey 1989 1992 
+1994 1995 
+1998 
+1999 2000 2003 
+2012 0 0.2 0.4 0.6 0.8 1 1.2 1.4 
+0 
+1 
+2 
+3 
+4 RC RL Tajikistan 34 Figure 16. Composition of output in Kazakhstan, 1992-2012 Source: Author's calculations, based on data from WB/WDI. 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Agriculture (% GDP) 
+Industry (% GDP) 
+Services (% GDP) 35 APPENDIX B: SUPPLEMENTARY TABLES Table 3. Pair-wise complementarities between major structural reforms Macroeconomic 
+stabilisation 
+Large-scale 
+privatisation 
+Small-scale 
+privatisation 
+Governance and 
+enterprise 
+restructuring Price 
+liberalisation Macroeconomic 
+stabilisation 
+– 
+Supports 
+enterprise 
+creation Supports 
+enterprise 
+creation Supports 
+enterprise 
+creation Reduces risk of 
+hyperinflation Large-scale 
+privatisation 
+Reduces pressure 
+on state budget 
+– 
+Eases resource 
+allocation 
+Enforces 
+governance 
+mechanisms Reduces price 
+distortions Small-scale 
+privatisation 
+Reduces pressure 
+on state budget 
+Eases resource 
+allocation 
+– 
+Supports 
+enterprise 
+creation Reduces price 
+distortions Governance and 
+enterprise 
+restructuring Reduces pressure 
+on state budget 
+Ensures good 
+governance 
+Supports 
+enterprise 
+creation 
+– 
+Enhances supply 
+flexibility Price 
+liberalisation 
+Eases fiscal 
+adjustment 
+Less need for 
+public enterprises 
+Less need for 
+public enterprises 
+Enforces 
+competitive 
+pressures 
+– Trade and 
+foreign 
+exchange 
+system Eases fiscal 
+adjustment 
+Less need for 
+public enterprises 
+Increases ability 
+to compete in 
+international 
+markets Enforces 
+competitive 
+pressures Better adjustment 
+to demand Competition 
+policy 
+Increases tax 
+receipts 
+Prevents 
+excessive market 
+power Prevents 
+excessive market 
+power Enforces 
+competitive 
+pressures Better adjustment 
+to demand Banking reform 
+and interest 
+rate 
+liberalisation Facilitates 
+monetary policy 
+Support of 
+hard-budget 
+constraints Support of 
+hard-budget 
+constraints Support of 
+hard-budget 
+constraints Support of 
+hard-budget 
+constraints Securities 
+markets and 
+non-bank 
+financial 
+institutions Facilitates 
+monetary policy 
+Eases financing 
+mechanisms 
+Eases financing 
+mechanisms 
+Eases financing 
+mechanisms 
+Eases financing 
+mechanisms Infrastructure 
+Increases tax 
+receipts 
+Favours 
+development in 
+public utilities Enhances entry 
+mechanisms 
+Enhances entry 
+mechanisms 
+Enhances entry 
+mechanisms Source: Braga de Macedo and Oliveira Martins (2008). The first indicator (macroeconomic stabilisation) was added by the 
+author. 36 Table 3. Pair-wise complementarities between major structural reforms (cont.) Trade and 
+foreign 
+exchange 
+system Competition 
+policy 
+Banking reform and 
+interest rate 
+liberalisation Securities markets 
+and non-bank 
+financial institutions Infrastructure Macroeconomic 
+stabilisation 
+Reduces risk of 
+hyperinflation 
+Creates a level 
+playing field 
+and increases 
+stability Reduces inflationary 
+revenues and 
+crowding out of 
+state financing Reduces inflationary 
+revenues and 
+crowding out of 
+state financing Improves 
+investment 
+climate Large-scale 
+privatisation 
+Less need for 
+external 
+protection Increases 
+competition 
+Improves conditions 
+for credit activities 
+Development of 
+capital markets 
+Favours 
+investment in 
+public utilities Small-scale 
+privatisation 
+Less need for 
+external 
+protection Increases 
+competition 
+Improves conditions 
+for credit activities 
+Development of 
+capital markets 
+Enhances 
+profitability of 
+investments Governance and 
+enterprise 
+restructuring Less need for 
+external 
+protection Increases 
+competition 
+Improves conditions 
+for credit activities 
+Better assessment of 
+viability 
+Enhances 
+profitability of 
+investments Price 
+liberalisation 
+Less need for 
+external 
+protection Increases 
+competition 
+Improves conditions 
+for credit activities 
+Better assessment of 
+viability 
+Enhances 
+profitability of 
+investments Trade and 
+foreign 
+exchange 
+system – Increases ability 
+to compete in 
+international 
+markets Improves conditions 
+for credit activities 
+Better assessment of 
+viability 
+Enhances 
+profitability of 
+investments Competition 
+policy 
+Less need for 
+external 
+protection 
+– 
+Better assessment of 
+enterprise viability 
+Better assessment of 
+enterprise viability 
+Enhances 
+efficiency of 
+investments Banking reform 
+and interest 
+rate 
+liberalisation Support of 
+hard-budget 
+constraints Enhances entry 
+mechanisms 
+– Support of 
+hard-budget 
+constraints Enhances 
+profitability of 
+investments Securities 
+markets and 
+non-bank 
+financial 
+institutions Enhances the 
+gains from 
+trade 
+liberalisation Enhances entry 
+mechanisms 
+Improves conditions 
+for credit activities 
+– Enhances 
+profitability of 
+investments Infrastructure 
+Enhances entry 
+mechanisms 
+Enhances entry 
+mechanisms 
+Improves conditions 
+for credit activities 
+Development of 
+capital markets 
+– Source: Braga de Macedo and Oliveira Martins (2008). The first indicator (macroeconomic stabilisation) was added by the 
+author. 37 Table 4. List of countries included and data coverage for the EBRD transition indicators Country 
+Years 
+Central and Eastern Europe (CEE) 
+Albania 
+1989-2012 
+Bosnia and Herzegovina 
+1989-2012 
+Bulgaria 
+1989-2012 
+Croatia 
+1989-2012 
+Czech Republic 
+1989-2007* 
+Estonia 
+1989-2012 
+FYR Macedonia 
+1989-2012 
+Hungary 
+1989-2012 
+Latvia 
+1989-2012 
+Lithuania 
+1989-2012 
+Montenegro 
+1989-2012 
+Poland 
+1989-2012 
+Romania 
+1989-2012 
+Serbia 
+1989-2012 
+Slovak Republic 
+1989-2012 
+Slovenia 
+1989-2012 
+Former Soviet Union (FSU) 
+Armenia 
+1989-2012 
+Azerbaijan 
+1989-2012 
+Belarus 
+1989-2012 
+Georgia 
+1989-2012 
+Kazakhstan 
+1989-2012 
+Kyrgyz Republic 
+1989-2012 
+Moldova 
+1989-2012 
+Russian Federation 
+1989-2012 
+Tajikistan 
+1989-2012 
+Turkmenistan 
+1989-2012 
+Ukraine 
+1989-2012 
+Uzbekistan 
+1989-2012 
+Other 
+Mongolia 
+1989-2012 
+Turkey 
+2008-2012* 38 Table 5. List of data sources and definitions Variable name 
+Description 
+Source 
+EBRD Transition Indicators Large-scale 
+privatisation 
+Measures the share of large-scale enterprises and farm assets in 
+private ownership. Scores range from 1 to 4.33. 
+EBRD Transition 
+Report Small-scale 
+privatisation 
+Measures the scale of private ownership in the small enterprise 
+sector. Scores range from 1 to 4.33. 
+EBRD Transition 
+Report Governance and 
+enterprise 
+restructuring Measures reforms to promote effective corporate governance and 
+ " hardness "  of budget constraints to promote market-driven 
+restructuring. Scores range from 1 to 4.33. EBRD Transition 
+Report Price liberalisation 
+Measures the degree to which prices are formally controlled by the 
+government, and the extent of state procurement at non-market 
+prices. Scores range from 1 to 4.33. EBRD Transition 
+Report Trade and foreign 
+exchange system 
+Measures the degree to which quantitative and administrative 
+import and export and restrictions have been removed, the extent of 
+direct involvement in trade by state-owned trading companies, 
+current account convertibility and transparency of the foreign 
+exchange regime. Scores range from 1 to 4.33. EBRD Transition 
+Report Competition policy 
+Measures the enforcement of actions to reduce abuse of market 
+power and promote a competitive business environment, and 
+support for the breaking up of large conglomerates. Scores range 
+from 1 to 4.33. EBRD Transition 
+Report Banking reform and 
+interest rate 
+liberalisation Measures the development of banking laws and regulations and the 
+adoption of BIS standards. The extent of lending to private 
+enterprises, prevalence of privately-owned banks, and liberalisation 
+of the interest rate are also included. Scores range from 1 to 4.33. EBRD Transition 
+Report Securities markets and 
+non-bank financial 
+institutions Measures the formation of securities exchanges, independent share 
+registries, and the development of non-bank financial institutions 
+such as investment funds, private insurance, pension funds, leasing 
+companies, etc. Scores range from 1 to 4.33. EBRD Transition 
+Report Infrastructure 
+Measures the development of telecommunications, electric power, 
+water, roads and railways. Scores range from 1 to 4.33. 
+EBRD Transition 
+Report Growth Regression Indicators Real GDP growth 
+Annual growth rate of GDP, in constant 2005 US$ 
+WB/WDI Inflation 
+Annual percentage change in the Consumer Price Index (CPI) 
+WB/WDI Govt expenditure 
+General government final consumption expenditure (% of GDP) 
+WB/WDI FDI inflows 
+Net inflows of foreign direct investment (% of GDP) 
+WB/WDI School enrolment 
+Secondary school enrolment (% gross) 
+WB/WDI Oil rents 
+Contribution of oil and petroleum resources to output (% of GDP) 
+WB/WDI Urban population 
+Percentage of population living in urban areas (% of total) 
+WB/WDI Agriculture 
+Value added of the agricultural sector (% of GDP) 
+WB/WDI Industry 
+Value added of the industrial sector (% of GDP) 
+WB/WDI Services 
+Value added of the services sector (% of GDP) 
+WB/WDI Note: Indicators used in the growth regressions were taken from WB/WDI. 39 APPENDIX C: COMPARING MEASURES OF REFORM COMPLEMENTARITY Braga de Macedo and Oliveira Martins (2008) were the first to propose using the inverse of the 
+Herfindahl-Hirschman Index (HHI) as a measure of reform complementarity. However, in a 
+subsequent paper, Braga de Macedo, Oliveira Martins and Rocha (2010) measure complementarities 
+(or  " policy dispersion " ) using the standard deviation instead. This paper advocates the use of the standard deviation as a measure of complementarity, as it is 
+more consistent in representing changes in the distribution of individual reform indicators. This can be 
+illustrated by means of a simple example: suppose an economic system can be characterised by three 
+reform indicators (e.g. stabilisation, liberalisation and privatisation), and that each indicator is 
+allocated a score from 1 to 4. Table 6 outlines five different scenarios, each corresponding to different 
+levels in the individual reform indicators. According to Table 6, the standard deviation considers the level of complementarity to be equal 
+in scenarios 2 and 4. Therefore, a move from (1,1,1) to (1,2,1) is considered to have the same impact 
+on complementarity as a move from (2,2,2) to (2,3,2). On the other hand, the inverse of the HHI 
+computes equal levels of complementarity for scenarios 2 and 5. Hence a move from (1,1,1) to (1,2,1) 
+is interpreted as equivalent (in terms of the change in the complementarity index) to a move from 
+(2,2,2) to (2,4,2). It seems the standard deviation is a more realistic choice, as it interprets reform 
+indicators in the way they are intended: a linear shift in a country's score from 1 to 2 is roughly 
+equivalent to a move from 2 to 3. Table 6. Calculations of reform complementarity Scenario 
+Level of reform 
+Standard deviation 
+Inverse of HHI 
+1 
+(1,1,1) 
+0 
+3 
+2 
+(1,2,1) 
+0.577 
+2.667 
+3 
+(2,2,2) 
+0 
+3 
+4 
+(2,3,2) 
+0.577 
+2.882 
+5 
+(2,4,2) 
+1.155 
+2.667 40 REFERENCES Aghion, P. and O. Blanchard (1994).  " On the speed of transition in Central Europe " , NBER 
+Macroeconomics Annual 1994, N° 9, pp. 283-330, MIT Press. Alam, A. and A. Banerji (2000).  " Uzbekistan and Kazakhstan: A tale of two transition paths " , World 
+Bank Policy Research Working Paper, (2472). Braga de Macedo, J. and J. Oliveira Martins (2008).  " Growth, reform indicators and policy 
+complementarities " , Economics of Transition, N° 16(2), pp. 141-164. Braga de Macedo, J., J. Oliveira Martins and B. Rocha (2010),  " Policy complementarities and 
+Growth " , OECD/CESifo/Ifo Workshop  " Regulation: Political Economy, Measurement and 
+Effects on Performance " , Munich, January 2010. Campos, N. F. and F. Coricelli (2002),  " Growth in transition: what we know, what we don't and what 
+we should " , William Davidson Working Paper, (470). Coricelli, F. and M. Maurel (2011),  " Growth and crisis in transition: A comparative 
+perspective " , Review of International Economics, N°19(1), pp. 49-64. Dabrowski, M. (1996),  " Different strategies of transition to a market economy: how do they work in 
+practice? " , World Bank Policy Research Working Paper, (1579). De Melo, M., C. Denizer, A. Gelb and S. Tenev (2001),  " Circumstance and choice: The role of initial 
+conditions and policies in transition economies " , The World Bank Economic Review, N°15(1), 
+pp. 1-31. Dewatripont, M. and G. Roland (1992),  " The virtues of gradualism and legitimacy in the transition to 
+a market economy " , The Economic Journal, 102(411), pp. 291-300. EBRD (1994-2012),  " Transition Report "  (several issues), European Bank for Reconstruction and 
+Development, London. Falcetti, E., Raiser, M. and Sanfey, P. (2002). 'Defying the odds: Initial conditions, reforms, and 
+growth in the first decade of transition', Journal of Comparative Economics, 30, pp. 229-250. Gates, S., P. Milgrom and J. Roberts (1994),  " Complementarities in the transition from socialism: A 
+firm-level analysis " , in: McMillan, J. and B. Naughton (Eds.), Reforming Asian socialism: The 
+growth of market institutions, University of Michigan Press. Hartwell, C. A. (2012),  " Financial Liberalization and Crises in Transition Economies: What Have 20+ 
+Years Taught Us? " , Skolkovo Business School IEMS. Hausmann, R., D. Rodrik and A. Velasco (2005),  " Growth diagnostics " , The Washington Consensus 
+Reconsidered: Towards a New Global Governance, Oxford University Press, pp. 324-355. 41 Hoen, H. W. and Irnazarov, F. (2012). 'Market reform and institutional change in Kazakhstan and 
+Uzbekistan: paradoxes and prospects', in: Ahrens, J. and Hoen, H.W. (Eds.), Institutional 
+Reform in Central Asia: Politico-Economic Challenges. IMF (2011),  " Republic of Kazakhstan: Selected Issues " , IMF Country Report No. 11/151. IMF, 
+Washington, D.C. IMF (2012),  " Republic of Kazakhstan 2012 Article IV Consultation " , IMF Country Report No. 
+12/164. IMF, Washington, D.C. Lipsey, R. G. and Lancaster, K. (1956). 'The general theory of second best', The review of economic 
+studies, 24(1), pp. 11-32. Rodrik, D. (2005),  " Growth strategies " , in: Aghion, P. and S. N. Durlauf (Eds.), Handbook of 
+economic growth, Volume 1A, pp. 967-1014. Sachs, J. and W. T. Woo (1994),  " Structural factors in the economic reforms of China, Eastern 
+Europe, and the former Soviet Union " , Economic Policy, 9(18), pp. 101-145. Staehr, K. (2005),  " Reforms and economic growth in transition economies: Complementarity, 
+sequencing and speed " , The European Journal of Comparative Economics, 2(2), pp. 177-202. Topkis, D. M. (1978),  " Minimizing a submodular function on a lattice " , Operations research, 26(2), 
+pp. 305-321. Topkis, D. M. (1998), Supermodularity and complementarity, Princeton, NJ: Princeton University 
+Press. World Bank (1995),  " Financing Government in the Transition: Bulgaria. The Political Economy of 
+Tax Policies, Tax Bases and Tax Evasion " , Bogetic, Z. and A. Hillman (Eds.), World Bank 
+Publications, Washington, D.C. World Bank (2000),  " Making transition work for everyone: poverty and inequality in Europe and 
+Central Asia " , World Bank Publications, Washington, D.C. World Bank (2002),  " Transition: The First Ten Years. Analysis and Lessons for Eastern Europe and 
+the Former Soviet Union " , Mitra, P. K., and M. Selowsky (Eds.), World Bank Publications, 
+Washington, D.C. World Bank (2005),  " Economic Growth in the 1990s: Learning from a Decade of Reform " , Zagha, R. 
+and G. T. Nankani (Eds.), World Bank Publications, Washington, D.C. World Bank (2013), World Development Indicators Databank (WB/WDI), World Bank, Washington, 
+D.C. 

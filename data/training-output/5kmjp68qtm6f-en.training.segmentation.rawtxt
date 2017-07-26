@@ -1,0 +1,881 @@
+DISCUSSION PAPERS 2010 WHY THE MARKET FOR NEW PASSENGER CARS GENERALLY UNDERVALUES FUEL ECONOMY David GREEN, Oak Ridge National Laboratory 
+Transportation Research Center, USA Joint Transport Research Centre ROUND TABLE 
+18-19 February 2010, Paris 6 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 1 JOINT TRANSPORT RESEARCH CENTRE Discussion Paper No. 2010-6 Prepared for the Round Table of 18-19 February 2010 on Stimulating Low-Carbon Vehicle Technologies WHY THE MARKET FOR NEW PASSENGER CARS GENERALLY UNDERVALUES 
+FUEL ECONOMY David GREENE 
+Oak Ridge National Laboratory 
+Transportation Research Center 
+United States January 2010 The views expressed in this paper are those of the authors and do not necessarily 
+represent positions of the Transportation Research Center, 
+the OECD or the International Transport Forum. Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 3 TABLE OF CONTENTS ABSTRACT ............................................................................................................................................. 5 1. INTRODUCTION ............................................................................................................................ 5 2. FUEL ECONOMY AND THE RATIONAL ECONOMIC CONSUMER ..................................... 6 2.1. Market  " failures "  or imperfections ........................................................................................... 7 
+2.2. Uncertainty and risk aversion: Expected utility maximazation .............................................. 10 3. EMPIRICAL EVIDENCE OF CONSUMERS' WILLINGNESS-TO-PAY FOR FUEL 
+ECONOMY .................................................................................................................................... 11 3.1. Economic estimates ................................................................................................................ 11 
+3.2. Evidence from surveys and focus groups ............................................................................... 16 4. UNCERTAINTY AND LOSS AVERSION: CONTEXT DEPENDENT PREFERENCES ........ 18 5. CONCLUDING OBSERVATIONS .............................................................................................. 24 NOTE ..................................................................................................................................................... 25 REFERENCES ....................................................................................................................................... 26 Oak Ridge, January 2010 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 5 ABSTRACT Passenger vehicles are a major source of greenhouse gas emissions and prodigious consumers of 
+petroleum, making their fuel economy an important focus of energy policy. Whether or not the market 
+for fuel economy functions efficiently has important implications for both the type and intensity of 
+energy and environmental policies for motor vehicles. There are undoubtedly imperfections in the 
+market for fuel economy but their consequences are difficult to quantify. The evidence from 
+econometric studies, mostly from the US, is reviewed and shown to vary widely, providing evidence 
+for both significant under-and over-valuation and everything in between. Market research is scarce, 
+but indicates that the rational economic model, in general, does not appear to be used by consumers 
+when comparing the fuel economy of new vehicles. Some recent studies have stressed the role of 
+uncertainty and risk or loss aversion in consumers' decision making. Uncertainty plus loss aversion 
+appears to be a reasonable theoretical model of consumers' evaluation of fuel economy, with profound 
+implications for manufacturers' technology and design decisions. The theory implies that markets will 
+substantially undervalue fuel economy relative to its expected present value. It also has potentially 
+important implications for welfare analysis of alternative policy instruments. 1. INTRODUCTION How markets determine the energy efficiency of new vehicles not only has important 
+consequences for the quantity of carbon dioxide (CO 2 ) emissions and petroleum consumption, but it is 
+also the most important factor in the choice of mitigation policies. Globally, light-duty vehicles 
+account for about 12% of energy-related CO 2 emissions and about one-third of petroleum use (IEA, 
+2009a). The importance of light-duty vehicles is growing rapidly in the world's emerging economies. 
+The International Energy Agency (IEA) anticipates a tripling of light-duty vehicle sales and stocks by 
+2050 over 2005 levels under business as usual. As a consequence, passenger car fuel economy has 
+been a major focus of national energy policies for decades. Governments from China, to Australia, 
+Japan, the EU, Canada and the US have adopted fuel economy or greenhouse gas (GHG) emissions 
+standards either in place of or in combination with motor fuel taxes as a means of reducing vehicle 
+fuel consumption and emissions below what would otherwise be achieved by market forces alone 
+(Onoda, 2007). Whether the market for automotive fuel economy is efficient and fully accounts for the expected, 
+discounted present value of fuel savings of the lifetime of new vehicles, or whether it systematically 
+undervalues fuel economy improvement is a central question for energy and environmental policy for 
+motor vehicles. If markets systematically undervalue fuel economy, market-determined levels of fuel 6 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 consumption (l/100km) and emissions (g/km) will be too high and will not respond efficiently to price 
+signals. In addition, there would likely be a systematic underinvestment in research and development 
+of energy efficient technologies. There will be important implications for both the choice of policy instrument and its intensity. 
+For example, Fischer et al. (2007) showed that if US consumers count only the first three years of fuel 
+savings, tightening fuel economy standards would increase social welfare based on private costs and 
+benefits alone. On the other hand, if consumers fully valued the full lifetime expected value of fuel 
+savings, the same level of fuel economy standards would decrease social welfare. The efficiency of 
+the market for fuel economy is especially important in countries with relatively low fuel taxes and a 
+large vehicle parc, such as China and the US. When matters as serious as global climate change are at stake, it is not sufficient to rely on 
+textbook models of efficient markets for policy assessment. Policy analysis must be based on how 
+real world markets actually function. Costs and benefits may vary widely depending on how markets 
+really function. Given this, it is disappointing that so little is known about how real world markets for 
+energy efficiency in durable consumer goods actually work. It is no exaggeration to say that hundreds 
+of billions of dollars are at stake. To say that more research is warranted is an understatement. 2. FUEL ECONOMY AND THE RATIONAL ECONOMIC CONSUMER  " There is no longer any doubt about the weight of the scientific evidence; the expected-utility 
+model of economic and political decision making is not sustainable empirically. From the laboratory 
+comes failure after failure of rational expected utility to account for human behavior. "  (Jones, 1999, 
+p. 297) Despite the evident failures of expected utility theory, it is the preferred premise of many policy 
+analysts when it comes to automotive fuel economy. The utility-maximizing rational consumer has 
+fixed preferences, possesses all complete and accurate information about all relevant alternatives, and 
+has all the cognitive skills necessary to evaluate the alternatives. These are strict requirements indeed, 
+and even advocates of the rational consumer model claim only that it is approximated in reality. The rational economic consumer considers fuel savings over the full lifetime of a vehicle, 
+discounting future fuel savings to present value. This requires the consumer to know how long the 
+vehicle will remain in operation (L), the distances to be traveled in each future year (M(t)), the 
+reduction ( ) in the rate of fuel consumption (G), and the future price of fuel. A formula for 
+continuous discounting of future fuel savings is presented below as equation 1. If the price of fuel can 
+be assumed to be constant over time (P t = P o ), the discounting formula simplifies, as shown in the 
+second half of equation 1. In general, the information consumers will have on fuel consumption will 
+be a test cycle number. Thus, the consumer must also estimate the fuel economy that will be achieved 
+in real world driving based on the official estimate. Finally, the consumer must know how to make a 
+discounted present value calculation, or must know how to obtain one. The importance of 
+uncertainties in all the factual information required to calculate the present value of fuel savings will 
+be taken up below, as will the ability or willingness of consumers to make such calculations. Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 7 Equation 1. Lifetime Discounted Present Value ) 
+1 
+( 
+1 
+1 
+) 
+1 
+( 
+) 
+( 0 
+0 
+0 
+0 ) 
+( 0 0 
+0 
+0 G 
+G 
+M 
+P 
+e 
+r 
+dt 
+e 
+G 
+G 
+e 
+M 
+t 
+P 
+V L 
+r L t rt 
+t 
+L P(t) = price of fuel, for simplicity of exposition only assumed to be P 0 for all t 
+M 0 = annual kilometers traveled for a new vehicle 
+e = base of naperian logarithms 
+-δ = rate of decline in vehicle use per year (-0.04) 
+G = base year fuel consumption (l/100km) 
+ε = fractional decrease in fuel consumption 
+r = consumer discount rate 
+L = vehicle lifetime, in years 2.1. Market  " Failures "  or Imperfections The literature on consumer evaluation of energy efficiency improvements to energy using durable 
+goods has, until recently, focused on market imperfections and discount rates. Energy economists 
+have indentified several forms of market failure 1 to explain the high discount rates consumers appear 
+to apply to future energy savings (e.g., Howarth and Sanstad, 1995; ACEEE, 2007; Train, 1985): 1. Principal Agent Conflicts 
+2. Information Asymmetry 
+3. Imperfect Information 
+4. Transaction Costs 
+5. Bounded Rationality 
+6. Lack of Skills to Perform Necessary Calculations 
+7. External Costs 
+8. Consumer Myopia 2.1.1. Principal Agent Conflicts In the market for light-duty vehicles, consumers themselves choose directly among existing 
+makes and models. However, manufacturers act as consumers' agents in making the technology and 
+design decisions that determine a vehicle's energy efficiency. They decide how much cost should be 
+incurred in adding energy efficient technologies. With exceptions (such as diesel and hybrid vehicles) 
+consumers are not aware of the fuel economy and cost trade-offs available to manufacturers. One 
+consequence of this is that consumers' perceptions of fuel economy are based on the trade-offs they 
+observe in the range of choices available at any given time. The manufacturers, on the other hand, are 
+aware of the  " fuel economy supply curve "  defined by technology and decide, on behalf of consumers 
+how much technology to adopt and for what purpose (fuel economy, performance, size, mass or 
+accessories). The question is whether there is any reason for manufacturers to supply less fuel 
+economy than would be optimal based on its expected value to the consumer. We will return to this 
+subject below, but simply note here that manufacturers have repeatedly stated that consumers will pay, 
+in increased vehicle price, for only 2-4 years of fuel savings. 8 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 2.1.2. Information Asymmetry It follows from the principal agent discussion that manufacturers know more about energy 
+efficient technology and its cost than do consumers. In theory, a market failure could result if some 
+manufacturers under-supply fuel economy, yet claim that their vehicles are just as efficient as their 
+higher-priced competitors' vehicles. In general, one would expect widespread fuel economy labeling 
+to make such claims difficult. Still, this can be observed to a limited degree in the United States when 
+manufacturers report only their vehicles'  " highway "  fuel economy ratings in television advertising. 2.1.3. Imperfect Information With fuel economy ratings widely available, it might at first appear that imperfect information 
+could not be a significant problem. However, differences between official ratings and the fuel 
+economy motorists experience on the road can be very large (Greene et al., 2006). Figure 1 plots fuel 
+economy estimates provided by individuals to the U.S. government's website www.fueleconomy.gov 
+versus the corresponding official EPA estimates. The variance around the official ratings is on the 
+order of +/-33%. Factors such as driving style, traffic environment, temperature and terrain (as well 
+as estimation errors) lead to substantial uncertainty about the fuel economy any given consumer will 
+actually achieve. However, the official estimates do not appear to be seriously biased. While 
+information about fuel economy is abundant, in most cases there is little information about its price. 
+Except where fuel economy is linked to a priced vehicle attribute, such as a larger engine, no explicit 
+information about its cost is generally provided. In such cases, consumers must infer the cost of fuel 
+economy by comparing the multiple attributes of different vehicles, an exceedingly complex task. The 
+chief problem with available fuel economy information therefore appears to be uncertainty, which can 
+lead loss-averse consumers to undervalue fuel economy improvements. This subject will be discussed 
+in greater detail below. 2.1.4. Transaction Costs do not appear to be a significant problem for the market for fuel economy. 2.1.5. Bounded Rationality The concept of bounded rationality recognizes that consumers face limitations in terms of the 
+information available to them, their cognitive abilities, and the time available to make decisions. Of 
+these three, cognitive limitations seem the most relevant to fuel economy and vehicle choice. 
+Choosing among the thousand or so makes, models and engine/transmission combinations available is 
+a complex task. Vehicles are bundles of multiple attributes, e.g., price, size, materials, workmanship, 
+styling, accessory features, fuel economy, warranty, acceleration, comfort, safety, reliability, and 
+more. Utility optimization requires that all these attributes be simultaneously compared and traded-
+off, a complex task. Consumers may instead optimize on the three or four attributes of greatest 
+importance and satisfice the rest. Especially in countries with low energy prices, this could lead to 
+undervaluing fuel economy. In the United States, for example, fuel economy rarely ranks among 
+consumers' top five concerns when purchasing an automobile. Where fuel prices are high enough to 
+make fuel economy one of new car buyers' top few concerns, decision making may be closer to the 
+rational, utility maximizing model. Unfortunately, little research has been done on this subject. 2.1.6. Lack of Skills to Perform Necessary Calculations Calculation of the present value of fuel economy improvements requires mathematical skills 
+many consumers do not posses. They could, however, have others make such calculations for them, 
+for example via an internet site. Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 9 2.1.7. External Costs Use of petroleum by motor vehicles produces several important externalities, greenhouse gas 
+emissions, local air pollution, oil dependence. Some also count externalities associated with motor 
+vehicle use, such as traffic congestion and safety (e.g., Parry and Small, 2005). These externalities, 
+however are not directly linked to fuel use or fuel economy. In some countries motor fuel taxes may 
+exceed the external costs of motor fuel use, while in others they are probably less. 2.1.8. Consumer Myopia In the expected utility maximizing framework, shortsightedness implies some form of market 
+failure, unless it reflects risk aversion. Shortsightedness might arise from cognitive limitations, or 
+simply irrationality. An explanation offered more in the popular media than in scholarly studies is that 
+consumers count fuel savings only for the period over which they intend to own a vehicle. This begs 
+the question of why the used car market would not be willing to pay for better fuel economy. Clearly, 
+for the new vehicle market to operate efficiently, the used vehicle market must also. Since most 
+vehicles change ownership during their lifetimes, new car buyers must believe that used car markets 
+will fully value the remaining fuel savings. There is little empirical information to confirm or refute 
+that used car markets are efficient. For comparison with full lifetime discounting (equation 1), the equation for a simple 3-year 
+payback is shown in equation 2. In its study of the US Corporate Average Fuel Economy standards, 
+the US National Research Council (NRC, 2002) calculated  " cost-efficient "  fuel economy 
+improvements using both methods. Equation 2. Simple 3-year Payback ) 
+1 
+( 
+3 0 
+0 
+0 
+0 
+3 G 
+G 
+M 
+P 
+V The ratio of equation (1) to equation (2) is the following. 3 1 
+1 L 
+r e 
+r For parameter values, = 0.04, r = 0.07, and L=14, the ratio of full lifetime discounted fuel 
+savings to a simple three year accumulation is approximately 2.7. A consumer with these values for 
+the rate of decrease in vehicle use with age, discount rate, and vehicle lifetime, who used a simple 
+three-year payback to value future fuel savings would underestimate their lifetime discounted present 
+value by a factor of 2.7. Although these equations are useful for analytical purposes, there are reasons 
+to doubt that any significant number of consumers make such calculations, or have them done for 
+them. 10 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 2.2. Uncertainty and Risk Aversion: Expected Utility Maximization Of course, every variable in the lifetime discounted present value calculation is subject to some 
+degree of uncertainty. Uncertainty and risk can be introduced into the utility maximizing framework 
+by describing each variable as a probability distribution. This requires even more information about 
+future states of the world but, in theory at least, it is possible. Consumers are then assumed to 
+maximize expected utility. This allows risk aversion to be incorporated into the expected utility 
+maximizing model, since risk aversion is a preference. As such, it is a matter of consumer sovereignty 
+rather than irrational behavior. Recent analyses have identified uncertainty and risk aversion as at least as logical an explanation 
+for apparently high discount rates in the expected utility maximizing model. Hassett and Metcalfe 
+(1993) and (Diederen et al., 2003) demonstrated that uncertainty about future energy prices would lead 
+to underinvestment in energy efficiency if consumers are risk averse. However, energy prices are not 
+the only source of uncertainty about future energy savings. The performance of energy using durable 
+goods, such as motor vehicles, may be even more important (Bjornstad and McKee, 2006). Fuel 
+economy estimates provided by individual motorists to the U.S. Department of Energy's website 
+www.fueleconomy.gov show very substantial variability around the government's official fuel 
+economy estimates (Figure 1). While some of this variance represents measurement error rather than 
+genuine differences in realized fuel economy, a large fraction probably represents differences in 
+driving style, traffic conditions, types of trips, and their environment. In either case, if motorists 
+perceive great uncertainty about the fuel economy they will actually achieve, this could have a 
+profound effect on how they value fuel economy, as will be shown below. Figure 1. Motorist' Fuel Economy Estimates v. Official Estimates 
+(www.fueleconomy.gov) Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 11 Using expected utility maximization with risk aversion Delucchi (2007) showed that risk averse 
+new car buyers would appear to have high discount rates for fuel economy relative to a risk neutral 
+consumer. Rather than using explicit probability distributions for each parameter, Delucchi assumed 
+that consumers would in all cases make  " conservative "  assumptions about the price of fuel, vehicle 
+lifetime, miles driven and other key variables. He found that risk averse consumers with a discount 
+rate of 5.5% for investments without risk would appear to have a discount rate of 19% taking risk into 
+account and making  " conservative "  assumptions about likely outcomes. Delucchi concludes the 
+following:  " Thus, the high implicit discount rate that consumers appear to apply to fuel-economy purchase 
+decisions is best understood not as an explicit expectation of a very high rate of return on investment 
+foregone by spending money on fuel economy, but rather as the implicit equivalent of a series of 
+conservative assumptions about fuel prices, fuel economy improvement, resale value, and so on, 
+combined with an expectation of a normal rate of return on foregone investments. "  (Delucchi, 2007, 
+pp. 16-17) 3. EMPIRICAL EVIDENCE OF CONSUMERS' WILLINGNESS-TO-PAY 
+FOR FUEL ECONOMY Evidence from the econometric literature concerning consumers' willingness to pay for fuel 
+economy based on the expected utility-maximizing model is contradictory and therefore inconclusive. 
+Most available estimates are derived from random utility models of consumers' choice of vehicle. The 
+estimates are highly variable, ranging from significant undervaluing to significant overvaluing of fuel 
+economy. A handful of studies using hedonic price models and other methods are equally conflicting. 
+In some cases, flaws in model formulation or estimation methods can be identified, but in most cases 
+there is no obvious explanation for the extreme differences among studies. 3.1. Econometric Estimates Implicit consumer discount rates were estimated by Greene (1983) based on eight early 
+multinomial logit choice models. In some models discount rates were a function of consumer income, 
+in others discount rates were random variables. The estimates ranged from 0% to 73%, setting aside 
+the one study with the most extreme results. Many estimates are below 10% but an equally large 
+number are over 20% per year (Table 1.). Most fall between 4% and 40%. Some of the variation may 
+be explained by systematic variation in discount rates with income. For those models in which 
+discount rates vary with income, higher income groups tend to show lower discount rates. To a large 
+degree this relationship is dictated by the modeler's decision to represent vehicle price by price 
+divided by income. The sensitivity of discount rates to income varies widely across the models, 
+however. 12 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 Table 1. Estimated Unadjusted Discount Rates 1 
+Lave and Train (1978) 
+Auto Price (1977$) 
+2500 
+3500 
+5000 
+Income 
+10,000 
+0.23 
+0.21 
+0.19 
+(1977$) 
+20,000 
+0.12 
+0.12 
+0.11 
+25,000 
+0.10 
+0.10 
+0.09 
+30,000 
+0.08 
+0.08 
+0.08 
+50,000 
+0.05 
+0.05 
+0.05 2 
+Cardell and Dunbar (1980) 
+Median = 0.43 
+Mean = 0.25 3 
+Beggs and Cardell (1980) 
+Base Model 
+Financial and Size Variables Only 
+Household 
+10,000 
+0.59 
+0.73 
+Income 
+20,000 
+0.35 
+0.35 
+25,000 
+0.31 
+0.31 
+30,000 
+0.29 
+0.28 
+50,000 
+0.24 
+0.23 4 
+Boyd and Mellman (1980) 
+Simple logit 0.06 
+Hedonic 
+Median = 0.09 
+Mean = 0.02 5 
+Manski and Sherman (1980) 
+a) One-vehicle households 
+Urban 
+Rural 
+Low I 
+High I 
+Low I 
+High I 
+College 
+0.10 
+0.06 
+0.18 
+0.19 
+No 
+College 0.17 
+0.18 
+0.54 
+-0.16 b) Two-vehicle households 
+Urban 
+Rural 
+Low I 
+High I 
+Low I 
+High I 
+College 
+0.64 
+0.09 
+-1.64 
+0.19 
+No College 
+28.4 
+0.26 
+-0.61 
+2.26 6 
+Beggs, Cardell and Hausman (1981) 
+Common tastes 
+Individual 
+tastes 
+0.30 
+10,000 
+0.36 
+20,000 
+0.30 
+Income 
+25,000 
+0.29 
+30,000 
+0.29 
+50,000 
+0.28 7 
+Sherman (1982) 
+One-vehicle households 0.13 
+[dependent on ln (miles annually) here 10,000] Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 13 Two-vehicle households 
+Annual Miles (both 
+cars) 
+10,000 20,000 
+25,000 
+Income 
+10,000 
+0.02 
+(1978$) 
+20,000 
+0.01 
+0.00 
+30,000 
+0.01 
+0.00 
+0.00 8 
+Train and Lohrer (1982) 
+One-vehicle households 
+0.12 if I ≤ 12,000 
+0.09 if I > 12,000 
+Two-vehicle households 
+0.12 if I ≤ 12,000 
+0.09 if 12,000 < I ≤ 20,000 
+0.05 if I > 20,000 Source: Greene (1983. Table 3). Empirical estimates of discount rates for all types of energy using consumer durable goods were 
+analyzed by Train (1985).  " The average discount rates for automobile choice calculated from the estimated models in each 
+of these studies is listed below (with real fuel prices assumed to be constant over time and the useful 
+life of vehicles assumed to be infinite): (1) Lave and Train: 20%, for a $4,000 vehicle in 1977 dollars; 
+(2) Manski and Sherman: 6-18%, for one vehicle urban households depending on income and 
+education; (3) Cardell and Dunbar: 25%; (4) Beggs and Cardell: 41%; (5) Boyd and Mellman: 2-6%, 
+depending on the model; (6) Beggs, Cardell and Hausman: 30%; (7) Sherman: 13%, for one-vehicle 
+households, and 0-2%, for two-vehicle households; and (8) Train: 9-12%, for one-vehicle households, 
+depending on income, and 5-12%, for two-vehicle households, depending on income. These estimates 
+vary widely, from a low of 0-2% for two vehicle households in the Sherman study to 41% in the study 
+by Beggs and Cardell. "  (Train, 1985, p. 1249) The pattern of wide variation in discount rates and very high apparent discount rates at the upper 
+end of the range is common not only to automobiles but to many other consumer choices of energy 
+using equipment. Train summarized his findings on discount rates for all energy-related consumer 
+purchases as follows.  " The range of estimated average discount rates found in previous studies is listed below by the 
+type of choice in which the discount rate is implicit. Measures to improve the thermal integrity of 
+dwellings: 10-32%; space heating system and fuel type: 4.4-36%; air conditioning: 3.2-29%; 
+refrigerators: 39-100%; other appliances (water heating, cooking, food freezing) 18-67%; 
+automobiles: 2-41%; and unspecified actions: 3.7-22%. "  (Train, 1985, p. 1250). Train concluded:  " Clearly this is an area of research requiring considerably more attention. "  
+(Train, 1985, p. 1252). Studies of consumers' willingness to pay for improved fuel economy, conducted over the past 
+20 years, were reviewed by Greene (2010). The largest number of studies were based on discrete 
+choice models, either nested multinomial logit or mixed logit models. Both models permit 
+heterogeneity in consumers' preferences: Nested models allow willingness to pay to vary by vehicle 
+class while mixed logit models also allow parameters to vary randomly across the population of 14 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 consumers. Some models were estimated using aggregate sales data while others were based on 
+surveys. Studies estimating hedonic price models and other methods were also included. Greene 
+summarized the results in terms of consumers willingness to pay for fuel economy improvement as a 
+percent of the full-lifetime discounted present value of fuel economy using either each study's 
+reported vehicle usage and expected lifetime, or standard assumptions published by the U.S. 
+Department of Transportation. The more recent studies exhibit at least as wide a range of estimates as the earlier surveys by 
+Greene (1983) and Train (1985): from <1% to 400% of the expected present value. In the vast 
+majority of studies, there was no evident explanation for the wide differences among the estimates. 
+The evidence from the empirical literature, 25 years after the early summaries by Greene and Train, 
+remains contradictory and inconclusive. Table 2. Summary of Consumers' Evaluation of Fuel Economy Improvements 
+Based on 22 Recent Studies (Greene, 2010) Authors 
+Model Type 
+Data / Time 
+W-T-P 
+as 
+% 
+of 
+Discounted PV Implied 
+Annual 
+Discount Rate 
+Alcott & Wozny 
+(2009) Mixed NMNL Aggregate US, 
+1999-2008 25% 
+> 60% Gramlich (2009) 
+NMNL 
+Aggregate US, 
+1971-2007 287% to 823% Berry, Levinsohn & 
+Pakes (1995) NMNL 
+Aggregate US, 
+1971-1990 <1% 
+Non-significant 
+Sawhill (2008) 
+Mixed NMNL Aggregate US, 
+1971-1990 140%, range of 
+-360% to 1,410% 
+Train & Winston 
+(2007) Mixed NMNL Survey, 
+US, 
+2000 1.3% 
+Non-significant 
+Dagupta, Siddarth 
+and 
+Silva-Risso 
+(2007) NMNL 
+Survey, CA, 
+1999-2000 15.2% Bento, 
+Goulder, 
+Henry, Jacobsen & 
+von Haefen (2005) NMNL 
+Survey, 
+US, 
+2001 No direct estimate but 
+MPG insensitive to price 
+of gasoline 
+Feng, Fullerton & 
+Gan (2005) NMNL 
+CES, 
+US, 
+1996-2000 0.03% to 1.3% Brownstone, Bunch 
+& Train (2000) Mixed NMNL 
+Stated 
+& 
+Revealed 
+Preference CA 
+Survey, 
+1993 132% to 147% Brownstone, Bunch, 
+Golob 
+& 
+Ren 
+(1996) NMNL Stated 
+& 
+Revealed 
+Preference CA 
+Survey, 
+1993 -420% to 402% Goldberg (1998) 
+NMNL 
+US CES, 1984-
+1990 Consumers  " not myopic " . Goldberg 
+(1995, 
+1996) NMNL 
+US CES, 1983-
+1987 Consumers  " not myopic "  
+but based on 7-year 
+vehicle  " holding period " . 5% 
+over 
+7 years Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 15 Cambridge 
+Econometrics 
+(2008) Mixed logit 
+UK 
+survey, 
+2004 to 2009 196% but uncertain of 
+estimate. 
+Authors 
+contacted 
+for 
+clarifications. 
+Eftec (2008) 
+NMNL 
+UK 2001 to 
+2006 TBD – authors contacted 
+for clarifications. 
+Fan & Rubin (2009) Hedonic Price State of Maine, 
+2007 Cars: 25% 
+Lt. Trucks: 16% Cars: 37% 
+Lt. 
+Trucks: 
+77% 
+McManus (2007) 
+Hedonic Price US, 2002 
+90% 
+Espey 
+& 
+Nair 
+(2005) Hedonic Price US, 2001 
+109% Arguea, Hsiao & 
+Taylor (1994) Hedonic Price US, 1969 to 
+1986 3% to 46% Bhat & Sen (2006) 
+Choice model 
+San Francisco 
+Bay 
+Area, 
+2000 Elasticities of vehicle 
+choice with respect to fuel 
+costs 2% to 3% of 
+purchase price elasticities. 
+Langer & Miller 
+(2008) Price 
+Regression US, 2003 to 
+2006 Approx. 15% of PV of 
+fuel cost changes reflected 
+in vehicle price changes. 
+Busse, Knittel & 
+Zettelmeyer (2009) Price 
+Regression US, 1999 to 
+2008 Transaction prices adjust 
+by 1.2 years worth of fuel 
+savings for new cars. 
+Li, Timmins & von 
+Haefen (2009) Vehicle sales 
+by 
+fuel 
+economy 
+quantile US 
+Metro 
+Areas 1997 to 
+2005 Short-run price elasticity 
+of MPG with respect to 
+sales mix +0.02, long-run 
++0.2. Source: Greene, 2010. Econometric estimation of vehicle choice remains a technically challenging problem. The 
+sophistication of the models has advanced significantly, but hard statistical problems remain. Vehicle 
+choice is a complex, multidimensional problem, further complicated by the fact that consumers' 
+preferences are heterogenous. In general, it is not possible to define, let alone accurately measure all 
+the relevant variables. For example, safety may include measures of frontal impact for driver and 
+passenger, side impacts, and rollover propensity, at least. Performance may include 0-50km, 
+50-100km, and even > 100 km/hr acceleration times, as well as a variety of handling measures. 
+Reliability, comfort and luxury are also not easily measured, not to mention prestige and style. Even 
+fuel economy will vary significantly according to where, how and when vehicles are driven. This 
+results in a combination of omitted and errors-in-variables problems that are compounded by 
+correlations among many relevant variables (e.g., fuel economy, mass, size, horsepower, price, 
+accessories, etc.). All of this is a recipe for unstable or biased parameter estimates. For estimates 
+based on historical data, there is also the problem of disentangling the effects of fuel economy 
+standards from consumers' preferences. Finally, the expected utility maximizing, continuous trade-off 
+model is at best an approximation of the decision processes used by real consumers. While this is no 
+reason to give up on attempts to estimate consumers' willingness to pay for fuel economy, at present 16 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 the available literature does not appear to provide a reasonable consensus, nor does it help to resolve 
+the question of whether consumers under-or over-value fuel economy improvements. In anything, it 
+casts doubt on the validity of the model of the expected utility maximizing consumer. 3.2. Evidence from Surveys and Focus Groups Evidence from surveys, focus groups and anthropologic research in the US indicates that the 
+rational economic model of trading off cost or other vehicle attributes for the discounted present value 
+of expected fuel savings is rarely used by car buyers in their real world decision making. The most 
+useful insights come from in-depth, semi-structured interviews of 57 households in California 
+conducted by researchers at the University of California, Davis (Turrentine and Kurani, 2007). 
+Without prompting respondents about their views on fuel economy, the researchers asked for a 
+description of each household's entire vehicle ownership history, and their reasons for acquiring and 
+disposing of each vehicle. Few respondents mentioned fuel economy as a factor. In the final stage of the interviews, the researchers revealed their interest in fuel economy, 
+ultimately asking respondents about their willingness to pay for a vehicle with a 50% increase in fuel 
+economy. The answers reveal an absence of quantitative assessment.  " In eight interviews in which we did ask the question, the household could not or would not offer 
+a value. Ten other households offered a range, e.d., '$2000 to $4000' or '$5000 to $7000.' 
+Sometimes this range conveyed obvious uncertainty; sometimes these ranges represented 
+disagreement between household members who were unable to agree on an amount in the course of 
+the interview. Among households who offered specific dollar amounts (or answers in a range less 
+than $1000), values ranged between zero and $10,000. Even excluding the eight households from 
+whom we did not solicit a value, half the households are unable or unwilling to offer a numeric 
+answer. "  (Turrentine and Kurani, 2007, p. 1219) These results bear a striking similarity to the econometric estimates described above. Both 
+results are consistent with the hypothesis that there may be no single underlying model used by 
+consumers to evaluate fuel economy.  " We found no household that analyzed their fuel costs in a systematic way in their automobile or 
+gasoline purchases….One effect of this lack of knowledge and information is that when consumers buy 
+a vehicle, they do not have the basic building blocks of knowledge assumed by the model of 
+economically rational decision-making, and they make large errors estimating gasoline costs and 
+savings over time. "  (Turrentine and Kurani, 2007, p. 1213) However, the lack of a rigorous model for evaluating fuel economy implies neither that 
+consumers will undervalue nor overvalue fuel economy. The evidence from automobile manufacturers is anecdotal but revealing. The US National 
+Research Council report on the US Corporate Average Fuel Economy Standards (NRC, 2002) made 
+estimates of cost-effective fuel economy levels based on two alternative assumptions: 1) present value 
+of discounted, expected future fuel savings and, 2) a simple 3-year payback rule of thumb. As a 
+member of that committee, the author can report that the latter assumption was based on statements 
+made to the committee by several manufacturers. Manufacturers rules of thumb ranged from 2-4 year 
+simple paybacks to 3-year paybacks, to 80,000 km paybacks (the average usage of a new car in the US Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 17 is approximately 24,000 km per year. When asked the source of this information, manufacturers' 
+representatives invariably cited proprietary market research. A nationwide random sample survey of 1,000 households for the US Department of Energy asked 
+half of the respondents how much more they would be willing to pay for a vehicle that saved them 
+$400 per year in fuel costs (Opinion Research Corp., 2004). The other half of the respondents were 
+asked how much annual fuel savings they would require in order to be willing to pay an additional 
+$1,200 for a new vehicle. In both cases the vehicles were described as identical in every way except 
+for their fuel economy. Figure 2. Fuel Economy Payback Periods Inferred from a DOE Consumer Survey Payback Periods Inferred from Responses to Two Survey 
+Questions About Fuel Savings and Vehicle Cost 
+May 20, 2004 0.0 0.5 1.0 1.5 2.0 2.5 3.0 Mean 
+Median 
+Mean w/o "none" 
+Median w/o 
+"none" Measure of Central Tendency Years Saves $400/Yr. in Fuel Vehicle Costs $1,200 More The striking similarity of the implied payback periods from the two subsamples would seem to 
+suggest that consumers understand the questions and are giving consistent and reliable responses: they 
+require payback in 1.5 to 2.5 years. However, Turrentine and Kurani's in-depth interviews indicate 
+something else. They found almost no evidence of consumers thinking about fuel economy in terms 
+of payback periods. When asked such questions, some consumers became confused while others 
+offered time periods that were meaningful to them for other reasons, such as the length of their car 
+loan or lease. Evidence from focus groups conducted for the US DOE and EPA Fuel Economy Information 
+Program indicated that consumers may not think in terms of trading off fuel economy for higher initial 
+cost at all (Nye, 2002). Indeed, some consumers were confused when asked such a question. They 
+expected to pay less for higher fuel economy not more. They associated fuel economy with 
+inexpensive, small, low-power vehicles. Trading off higher vehicle price for fuel economy was not a 
+concept with which they were familiar. 18 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 4. UNCERTAINTY AND LOSS AVERSION: CONTEXT DEPENDENT 
+PREFERENCES Probably the most well established principle of behavioral economics is that when faced with 
+uncertainty consumers 1) weigh potential losses far more than potential gains and, 2) exaggerate the 
+probability of loss (Della Vigna, 2009). In contrast to the concept of risk aversion, the theory of loss 
+aversion (or prospect theory) is premised on context dependent utility (Tversky and Simonson, 1993). 
+Which theory is more correct has important implications for the welfare analysis of policies such as 
+fuel economy standards. Risk aversion assumes that consumers' preferences are fixed and that one of 
+their preferences is to avoid situations in which losses are likely. Thus, if consumers are forced to 
+accept risky bets, there is a real and measurable loss of utility that does not change if the context of the 
+bet is changed nor does it change once the bet has been resolved. This led Arrow and Lind (1970) to 
+conclude that governments should impose risky investments on the public only when the government 
+also insured individuals against the consequences of losses. Prospect theory asserts that utility is 
+context dependent, meaning that a consumer's evaluation of the utility of a risky bet could be different 
+ex post and ex ante. Under risk aversion, if consumers would reject a 50/50 bet of win $150/lose $100, then even if 
+after the bet half of the consumers won $150 and half lost $100 for an average net gain per consumer 
+of $25, there would be a net loss of utility, considering the entire process. Prospect theory does not 
+answer this question definitively but allows the possibility that, on average, consumers might consider 
+themselves better off after the bet. With respect to new cars, a further complication is that decisions about the technological content 
+and design of vehicles are not made by consumers but by manufacturers acting as consumers' agents. 
+It has already been asserted above that manufacturers state that consumers think in terms of short 
+payback periods. However, the detailed interviews of households in California indicate that 
+consumers typically do not think in terms of payback periods or any quantitative assessment of fuel 
+savings and costs, but rather rely on a variety of different decision rules. As will be shown below, the 
+behavior of a loss averse consumer approximates that of a consumer with a very short payback period. Greene et al. (2009a) considered the implications of loss aversion and uncertainty for 
+manufacturers' decisions about the use of technology to increase fuel economy. The authors 
+quantified consumers uncertainty about the future value of fuel savings by constructing probability 
+distributions of vehicle use, lifetime, gasoline prices, real-world versus official test fuel economy 
+estimates, and the cost of improved fuel economy. Key parameters of their probability distributions 
+are shown in table 3. Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 19 Table 3. Key Parameters of the Consumers' Fuel Economy Choice Problem Variable 
+Value Assumed 
+Miles traveled (first year) 
+5%=14,000, mean=15,600, 95%=17,200 
+Rate of decline in usage 
+4.5%/year 
+Rate of return required by consumer 
+12%/year 
+Vehicle lifetime (extreme value) 
+5% = 3.6, mean = 14 years, 95% = 25.3 
+Gasoline price distribution (lognormal) 
+5% = $1.78, mean = $2.05, 95% = $2.63 
+Incremental price distribution 
+5% = $665, mean = $974, 95% = $1,385 
+Fuel Economy Lower 
+5% = 21 mpg, mean = 28, 95% = 35 
+Fuel Economy Upper 
+5% = 28 mpg, mean = 35, 95% = 42 
+In-Use Fuel Economy Factor 
+0.85 Source: Greene et al., 2009a. In the absence of uncertainty, the problem of choosing the optimal level of fuel economy is a 
+matter of finding the level that yields the maximum difference between the net present value of future 
+fuel savings and initial cost. Figure 3 illustrates this using data from a recent fuel economy study by 
+the U.S. National Research Council (2002). The solid black line shows the net present value of fuel 
+savings calculated using the assumptions shown in the graph. The dot and dash line shows the 
+committee's  " average "  estimates of the cost (in retail price equivalent) of increasing fuel economy (in 
+miles per gallon). The committee also provided high and low cost estimates. The rational utility 
+maximizing consumer is interested in the difference between the two, the net present value of 
+increased fuel economy, illustrated by the  " Xed "  line. Note that this function is relatively flat near its 
+optimum, varying by only about $100 over a range of 6-7 miles per gallon. The optimum value is 
+approximately 36 miles per gallon (6.5 l/100km), a 25% increase over the base level of 28 miles per 
+gallon (8.4 l/100km). If the parameters in table 3 are used to describe uncertainty about the value of future fuel savings, 
+the value of increasing fuel economy to, say 35 MPG (6.7 l/100km) becomes not a certain value but a 
+probability distribution. This is illustrated in Figure 4, in which the expected value of $405 is close to 
+the certain value of just over $500, but it is also possible to lose up to $3,000 or gain up to $4,500. 
+Incorporating uncertainty transforms the sure thing into a risky bet. Does this change the way 
+consumers would evaluate the option to improve fuel economy? According to the theory of loss 
+aversion, widely regarded as the most firmly established principle of behavioral economics, the 
+answer is yes, it changes things profoundly. 20 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 Figure 3. Incremental Price, Present Value of Fuel Savings and 
+Net Value of Increasing Fuel Economy to the Consumer Price and Value of Increased Fuel Economy to 
+Passenger Car Buyer, Using NRC Average Price Curves -$500 $0 $500 $1,000 $1,500 $2,000 $2,500 28 30 32 34 36 38 40 42 44 46 Miles per Gallon Constant 2000 $ Fuel Savings Price Increase Net Value Assumes cars driven 15,600 
+miles/year when new, decreasing at 
+4.5%/year, 12% discount rate, 14 year 
+vehicle life, $2.00/gallon gasoline, 
+15% shortfall between EPA test and on-road fuel economy. Greatest net value 
+to customer at 
+about 36 MPG Figure 4. Distribution of Net Present Value to Consumer of a 
+Passenger Car Fuel Economy Increase from 28 to 35 MPG Distribution of Net Present Value to Consumer of a 
+Passenger Car Fuel Economy Increase from 28 to 35 MPG Mean = $405 X <= $2941 
+95% X <= -$1556 
+5% 0.00 0.05 0.10 0.15 0.20 0.25 -$3,000 
+-$1,500 
+$0 
+$1,500 
+$3,000 
+$4,500 
+$6,000 Relative Frequency 2005 Dollars Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 21 Behavioral economics has discovered several types of situations in which consumers' choices are 
+not consistent with utility maximization. One of these is loss aversion, in which consumers define 
+gains and losses relative to their status quo, weight losses approximately twice as much as gains, and 
+exaggerate the probability of loss (DellaVigna, 2009; Gal, 2006; Tversky, Knetsch and Thaler, 1991). 
+A typical loss aversion function estimated by Tversky and Khaneman (1992) is the following 
+equation, illustrated in Figure 5: 0 
+) 
+( ) 
+( 0 x 
+if 
+x x 
+V x 
+if 
+x (3) The variable x is the payoff of a risky choice and V is its utility or perceived value to the 
+consumer. Note that this implies that V is not necessarily denominated in dollars, even when x is. 
+Typical values for the loss aversion function coefficients are λ = 2.25, α = β = 0.88 (Bernatzi and 
+Thaler, 1995). The above loss-aversion function is illustrated in figure 4. Figure 5. Kahneman and Tversky's Loss Aversion Function Consumer Loss Aversion Function -$3,000 -$2,000 -$1,000 $0 $1,000 $2,000 -$3,500 -$2,500 -$1,500 -$500 
+$500 $1,500 $2,500 $3,500 $4,500 $5,500 $6,500 Actual Value of Outcome Perceived Value of Outcome If the loss aversion function is applied to the probability distribution of future fuel savings shown 
+in Figure 4, the result is a new probability distribution of the perceived utility of the bet. The mean of 
+this distribution is not +$405 but -32 (again, although the axis of Figure 6 is labeled in $, the units are 
+not the same as in Figure 4). In this example, it is not assumed that consumers have exaggerated the 
+probability of loss, although that is generally the case. Clearly that would further bias the perceived 
+value of the risky bet toward loss. 22 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 Figure 6. Perceived Distribution of Utility to Loss Averse Consumer Net Present Value Distribution of Loss Averse Consumer Mean = -$32 X <= $1128 
+95% X <= -$1449 
+5% 0.00 0.02 0.04 0.06 0.08 0.10 0.12 0.14 0.16 0.18 0.20 -$3,000 
+-$1,500 
+$0 
+$1,500 
+$3,000 Relative Frequency 2005 Dollars Improving passenger car fuel economy from 28 to 35 miles per gallon (8.4 l/100km to 
+6.7 l/100km) would appear to an expected utility maximizing consumer as a gain of $405. However, 
+to a typical loss averse consumer, the improved fuel economy appears not as a gain but as a loss. If 
+manufacturers correctly understand consumers' willingness to pay for fuel economy improvements, 
+they would decline to adopt the technologies necessary to raise fuel economy to 35 MPG 
+(6.7 l/100km). In fact, in the above example, there is no increase in fuel economy that gives a positive 
+return to the loss averse consumer. This result is almost identical to the simple rule of thumb that 
+consumers will pay for only 3 years of fuel savings. As illustrated in Figure 7, the three year payback 
+rule, applied to the same cost and present value calculations as in Figure 3, results in a nearly zero net 
+value for even small fuel economy improvements. Returning to the fact that it is manufacturers who act as consumers' agents in deciding which fuel 
+economy technologies to adopt and how to design vehicles for fuel economy, the theory of uncertainty 
+and loss aversion appears to be entirely consistent with their observations that consumers are willing 
+to pay for only 2-4 years worth of a potential fuel economy improvement. Even if the characterization 
+of consumers' decision rule as a simple payback calculation is incorrect, as Turrentine and Kurani's 
+(2007) research certainly suggests it is, it is nevertheless a useful rule of thumb in that it leads to the 
+same conclusion. Even if fuel prices are increased, uncertainty and loss aversion result in an undervaluing of fuel 
+economy (Greene, 2010). If fuel prices were doubled, some fuel economy improvement would appear 
+cost effective, even to the loss averse consumer. Manufacturers would presumably then increase fuel 
+economy up to the level for which the loss averse consumer was willing to pay. But due to the 
+increasing slope of the fuel economy cost curve, as fuel economy is increased further increases 
+become more costly. Once fuel economy has been increased to the level for which the consumer is 
+willing to pay, there is once again a significant potential for loss, which the consumer will overweight 
+relative to the potential for gain. Thus, even in countries with relatively high fuel prices, loss aversion Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 23 will still create a tendency to undervalue fuel savings. In countries with low fuel prices, such as the 
+U.S. and China, the undervaluing of fuel economy improvements can be very substantial, a factor of 
+two or more (Greene, 2009b). Figure 7. Private Cost and Expected Benefit of Increasing Passenger Car Fuel Economy 
+Using a Simple 3-Year Payback Rule. (Greene, German and Delucchi, 2009) Price and Value of Increased Fuel Economy to 
+Passenger Car Buyer, Using NRC Average Price Curves -$500 $0 $500 $1,000 $1,500 $2,000 $2,500 28 30 32 34 36 38 40 42 44 46 Miles per Gallon Constant 2000 $ Fuel Savings Price Increase Net Value Assumes cars driven 15,600 
+miles/year when new, decreasing at 
+4.5%/year, 12% discount rate, 14 year 
+vehicle life, $2.00/gallon gasoline, 
+15% shortfall between EPA test and on-road fuel economy. Greatest net value 
+to customer at 
+about 30 MPG An important unresolved issue for the theory of loss aversion is how to carry out a welfare 
+analysis of public policies when loss averse behavior is prevalent. Unlike risk aversion, context 
+dependent preferences are a central premise of the theory of loss aversion. Consumers evaluate gains 
+and losses relative to their current reference point, i.e., their status quo. Once a bet is over, the 
+consumer has a new status quo. If the consumer lost $100, the loss is $100, no more and no less. 
+Likewise, if the consumer gained $100, it is a gain of $100. Although in the context of the risky bet 
+the consumer behaves as though these amounts were different, once the bet is finished there is no 
+reason for that context-dependent evaluation to persist. There is not yet a consensus in the literature 
+on this point, however (Bateman et al., 1997). If one accepts this line of reasoning, it implies that 
+consumers forced to accept a risky bet on improved fuel economy would not suffer a welfare loss, on 
+average, assuming that the expected value were a gain and that uncertainties were accurately 
+characterized. 24 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 5. CONCLUDING OBSERVATIONS The value car buyers assign to increased fuel economy has important implications for policies to 
+reduce greenhouse gas emissions and petroleum consumption. If consumers undervalue fuel economy 
+improvements relative to their expected present value over the full life of a vehicle, the market will 
+provide too little fuel economy and will under-invest in research and development of energy efficient 
+technologies. In addition, policies that influence the market via purchase price such as feebates, or 
+regulatory policies such as fuel economy standards will have greater leverage on fuel economy than 
+fuel prices. Finally, if consumers undervalue fuel economy, such policies can increase private welfare 
+as well as providing societal benefits. If consumers fully value fuel economy improvements, then the 
+above assertions would be incorrect. As important as it is to understand how the market for fuel economy really works, evidence from 
+econometric studies is unfortunately contradictory and inconclusive. Peer reviewed and grey literature 
+studies provide support for sizeable undervaluation, significant overvaluation and everything in 
+between. There is no definitive answer as to why this is so, but the complexity of the choice decision, 
+difficulty identifying and measuring all relevant variables, and consequent statistical problems caused 
+by omitted variables, errors in variables and correlations among variables appear to be a part of the 
+explanation. There is also reason to believe that the model of expected utility maximization via 
+continuously trading off multiple vehicle attributes may be an inaccurate description of consumers' 
+actual decision making. This result is not unique to energy efficiency in the automotive market but 
+seems to be a general characteristic of markets for energy-using consumer durable goods. What little market research is publicly available is decisively against the rational economic model 
+when it comes to fuel economy decision making. Survey evidence indicates that consumers require 
+short payback periods of 1.5 to 2.5 years. This is also consistent with anecdotal evidence from vehicle 
+manufacturers, who cite payback periods of 2-4 years. The most detailed evidence on consumers' 
+decision making comes from a single study of 57 households in California. The researchers found no 
+evidence of the rational economic model in households' decisions about fuel economy. Most of this 
+evidence comes from the United States and it is not clear to what extent it applies to countries with 
+much higher fuel prices. The theory of bounded rationality implies that if fuel prices are high enough 
+to make fuel economy one of consumers' 3-5 top considerations, it may be considered in a manner 
+closer to the rational economic model. The more recent theories of behavioral economics may provide a more appropriate quantitative 
+model. Behavioral economics has established that when faced with a risky bet, consumers exaggerate 
+the probability of loss and weigh potential losses approximately twice as much as potential gains. 
+Energy efficiency is a risky bet for consumers because of uncertainty about future fuel prices, the true 
+in-use energy efficiencies of vehicles as opposed to their official ratings, future vehicle use, vehicle 
+lifetime, and other factors. Uncertainty and loss aversion could explain consumers' lack of interest in 
+quantifying potential future fuel savings and apparently short payback requirements. It may also 
+explain manufacturers' reluctance to invest in increasing vehicle fuel economy. How to do welfare 
+analysis of public policies under such conditions has not yet been resolved. Unlike the model of risk Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 25 aversion, the theory of loss aversion allows the possibility that a risky bet that consumers would 
+decline could actually increase well being if it were imposed by regulations such as fuel economy 
+standards. Given the importance of the market for fuel economy, we know surprisingly little about how it 
+functions in the real world. More fundamental research of the type reported by Turrentine and Kurani 
+(2007) is needed. Alternative decision models need to be developed and tested. On balance, however, 
+the available evidence suggests that the market for fuel economy does not operate efficiently 
+according to the rational economic consumer model. At present, the theory of uncertainty and loss 
+aversion may be the most consistent with the available evidence. NOTE 1. The term  " market failure "  is unfortunate because the usual meaning of the word failure conveys a 
+complete inability to perform a function. Market deficiency or imperfection are perhaps better 
+terms. 26 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 REFERENCES (ACEEE) American Council for an Energy Efficient Economy, 2007.  " Quantifying the Effects of 
+Market Failures in the End-Use of Energy, "  Final draft report prepared for the International 
+Energy Agency, by ACEEE, Washington, DC, February. Allcott, H. and N. Wozny, 2009. Gasoline Prices, Fuel Economy, and the Energy Paradox, 
+unpublished manuscript, MIT Department of Economics, Cambridge, Massachusetts, 
+November 16. Arguea, N.M., C. Hsiao and G.A. Taylor, 1994.  " Estimating Consumer Preferences Using Market 
+Data – An Application to U.S. Automobile Demand, "  Journal of Applied Econometrics, vol. 9, 
+no. 1, pp. 1-18. Arrow, K.J. and R.C. Lind, 1970.  " Uncertainty and the Evaluation of Public Investment Decisions, "  
+The American Economic Review, vol. 60, no. 3, pp. 364-378. Bateman, I., A. Munro, B. Rhodes, C. Starmer and R. Sugden, 1997.  " A Test of the Theory of 
+Reference-Dependent Preferences, "  The Quarterly Journal of Economics, May, pp. 479-505. Bento, A.M., L.H. Goulder, E. Henry, M.R. Jacobsen and R.H. von Haefen, 2005.  " Distributional and 
+Efficiency Impacts of Gasoline Taxes: An Econometrically Based Multi-market Study, "  AEA 
+Papers and Proceedings, vol. 95, no. 2, pp. 282-287. Bernatzi, S. and R.H. Thaler, 1995.  " Myopic Loss Aversion and the Equity Premium Puzzle, "  The 
+Quarterly Journal of Economics, vol. 110, no. 1, pp. 73-92. Berry, S., J. Levinsohn and A. Pakes, 1995.  " Automobile Prices in Market Equilibrium, "  
+Econometrica, vol. 63, no. 4, pp. 841-890. Bhat, C.R. and S. Sen, 2006.  " Household Vehicle Type Holdings and Usage: An Application of the 
+Multiple Discrete-continuous Extreme Value (MDCEV) Model, "  Transportation Research Part B, 
+vol. 40, pp. 35-53. Bjornstad, D.J. and M. McKee, 2006.  " Making enduring choices: Uncertainty and Public Policy " , 
+Energy Economics, vol. 28, pp. 667-676. Brownstone, D., D.S. Bunch and K. Train, 2000.  " Joint Mixed Logit Models of Stated and Revealed 
+Preferences for Alternative-fuel Vehicles, "  Transportation Research Part B, vol. 34, pp. 315-338. Brownstone, D., D. S. Bunch, T.F. Golob and W. Ren, 1996.  " A Transactions Choice Model for 
+Forecasting Demand for Alternative-Fuel Vehicles " , Research in Transportation Economics, 
+vol. 4, pp. 87-129. Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 27 Busse, M.R., C.R. Knittel and F. Zettelmeyer, 2009. The Differential Effect of Usage Cost on New and 
+Used Durable Goods Markets: Evidence from the Automobile Industry, manuscript, Northwestern 
+University and NBER, September 2009, m-busse@kellogg.northwestern.edu. Cambridge Econometrics, 2008. Demand for Cars and their Attributes, a final report for the 
+Department for Transport, January 23, Cambridge, UK. Dasgupta, S., S. Siddarth and J. Silva-Risso, 2007.  " To Lease or By? A Structural Model of a 
+Consumer's Vehicle and Contract Choice Decisions, "  Journal of Marketing Research, vol. XLIV, 
+pp. 490-502. DellaVigna, S., 2009.  " Psychology and Economics: Evidence from the Field, "  Journal of Economic 
+Literature, forthcoming. Delucchi, M.A., 2007. Cost-Benefit Analysis of Fuel-Economy Improvement, "  Discussion Paper, 
+Institute for Transportation Studies, University of California at Davis, Davis, California, August. Diederen, P., F. Van Tongeren and H. Van der Veen, 2003.  " Returns on Investments in Energy-
+saving Technologies under Energy Price Uncertainty in Dutch Greenhouse Horticulture, "  
+Environmental and Resource Economics, vol. 24, pp. 379-394. (EFTEC) Economics for the Environment Consultancy Ltd., 2008. Demand for Cars and their 
+Attributes, report prepared for the Department of Transport, UK, London, January. Espey, M. and S. Nair, 2005.  " Automobile Fuel Economy: What is it Worth? "  Contemporary 
+Economic Policy, vol. 23, no. 3, July, pp. 317-323. Fan, Q. and J. Rubin, 2009.  " Two-Stage Hedonic Price Model for Light-Duty Vehicles: Consumers' 
+Valuations of Automotive Fuel Economy in Maine, "  89 th Annual Meeting of the Transportation 
+Research Board, Washington, D.C., January, 2010. Feng, Y., D. Fullerton and L. Gan, 2005. Vehicle Choices, Miles Driven and Pollution Policies, 
+Working Paper 11553, National Bureau of Economic Research, Cambridge, Massachusetts, 
+August. Fischer, C., W. Harrington and I.W.H. Parry, 2007. Should Automobile Fuel Economy Standards Be 
+Tightened? RFF Discussion Paper 04-53, Resources for the Future, Washington, DC, February 
+2007. Gal, D., 2006.  " A Psychological Law of Intertia and the Illusion of Loss Aversion, "  Judgment and 
+Decision Making, vol. 1, no. 1, and pp. 23-32. Goldberg, P.K., 1998.  " The Effects of the Corporate Average Fuel Efficiency Standards in the U.S., "  
+The Journal of Industrial Economics, vol. XLVI, no. 1, pp. 1-33. Goldberg, P.K., 1996.  " The Effects of the Corporate Average Fuel Efficiency Standards " , Working 
+Paper 5673, National Bureau of Economic Research, Cambridge, Massachusetts, July. Goldberg, P.K., 1995.  " Product Differentiation and Oligopoly in International Markets: the Case of the 
+U.S. Automobile Industry, "  Econometrica, vol. 63, no. 4, pp. 891-951. 28 Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 Gramlich, J., 2008. Gas Prices and Endogenous Produce Selection in the U.S. Automobile Industry, 
+manuscript, Department of Economics, Yale University, New Haven, Connecticut, 
+November, 20, 2008. Greene, D.L., 1983.  " A Note on Implicit Consumer Discounting of Automobile Fuel Economy: 
+Reviewing the Available Evidence, "  Transportation Research B, vol. 17B, no. 6, pp. 491-499. Greene, D., 2010.  " Uncertainty, Loss Aversion and Markets for Energy Efficiency, "  forthcoming, 
+Energy Economics. Greene, D.L., J. German and M.A. Delucchi, 2009a.  " Fuel Economy: The Case for Market Failure, "  in 
+D. Sperling and J.S. Cannon, eds., Reducing Climate Impacts in the Transportation Sector, 
+Springer Science + Business Media. Greene, D.L., 2009b.  " Technology-Neutral Incentives for Energy-Efficient, Low Greenhouse Gas 
+Emitting Vehicles " , Testimony to the U.S. Senate Finance Committee, Thursday, April 23, 2009. Greene, D.L., R. Goeltz, J. Hopson and E. Tworek, 2006.  " Analysis of In-Use fuel Economy Shortfall 
+by Means of Voluntarily Reported Fuel Economy Estimates, "  Transportation Research 
+Record 1983, Transportation Research Board of the National Academies, pp. 99-105. Hassett, K.A. and G.E. Metcalf, 1993.  " Energy Conservation Investment: Do Consumers Discount the 
+Future Correctly, "  Energy Policy, vol. 21. no. 6, pp. 710-716. Howarth, R.B. and H.H. Stanstad, 1995.  " Discount Rates and Energy Efficiency, "  Contemporary 
+Economic Policy, vol. 13, no. 3, pp. 101-109. International Energy Agency (IEA), 2009a. World Energy Outlook 2009, OECD/IEA, Paris. Jones, B.D., 1999.  " Bounded Rationality " , Annual Review of Political Science, vol. 2, pp. 297-321. Langer, A. and N. Miller, 2008. Automobile Prices, Gasoline Prices, and Consumer Demand for Fuel 
+Economy, Economic Analysis Group Discussion Paper EAG 08-11, Department of Economics, 
+University of California at Berkeley, Berkeley, California, December. Li, S., C. Timmins, R.G. von Haefen, 2009.  " How Do Gasoline Prices Affect Fleet Fuel Economy? "  
+American Economic Journal: Economic Policy 2009, 1:2, pp. 113-137. McManus, W., 2007.  " The Link between Gasoline Prices and Vehicle Sales, "  Business Economics, 
+January, 2007, pp. 53-60. (NRC) National Research Council, 2002. Effectiveness and Impact of Corporate Average Fuel 
+Economy (CAFE) Standards, National Academies Press, Washington, DC. Nye, R., 2002.  " Qualitative Research Report: ORNL/NTRC Focus Groups " , conducted by the 
+Looking Glass Group, Knoxville, Tennessee, April 8, 2002. Opinion Research Corporation, 2004.  " CARAVAN "  ORC Study #713218 for the National Renewable 
+Energy Laboratory, Princeton, New Jersey, May 20,. 2004. Greene — Discussion Paper 2010-6 — © OECD/ITF, 2010 29 Onoda, T., 2007.  " Review of International Policies for Vehicle Fuel Efficiency " , International Energy 
+Agency Information Paper Series, OECD/IEA, Paris, December. Parry, I.H. and K.A. Small, 2005.  " Does Britain or the U.S. Have the Right Gasoline Tax? " , American 
+Economic Review, vol. 95, no. 4, pp. 1276-1289. Sawhill, J.W., 2008. Are Capital and Operating Costs Weighted Equally in Durable Goods 
+Purchases? Evidence from the U.S. Automobile Market, discussion paper, Department of 
+Economics, University of California at Berkeley, Berkeley, California, April. Stern, P.C. and E. Aronson, eds., 1984. Energy Use The Human Dimension, Committee on Behavioral 
+and Social Aspects of Energy Consumption and Production, National Research Council, 
+W.H. Freeman and Company, New York. Train, K.E. and C. Winston, 2007.  " Vehicle Choice Behavior and the Declining Market Share of U.S. 
+Automakers, "  International Economic Review, vol. 48, no. 4, pp. 1469-1496. Train, K., 1985.  " Discount Rates in Consumers' Energy-related Decisions: A Review of the 
+Literature, "  Energy, vol. 10, no. 12, pp. 1243-1253. Turrentine, T.S. and K.S. Kurani, 2007.  " Car Buyers and Fuel Economy, "  Energy Policy, vol. 35, 
+pp. 1213-1223. Tversky, A. and D. Kahneman, 1992.  " Advances in Prospect Theory: Cumulative Representation of 
+Uncertainty, "  Journal of Risk and Uncertainty, vol. 5, pp. 297-323. Tversky, A. and I. Simonson, 1993.  " Context-dependent Preferences, "  Management Science, vol. 39, 
+no. 10, pp. 1179-1189. 

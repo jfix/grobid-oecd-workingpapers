@@ -1,0 +1,563 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+			<titlePage>Please cite this paper as: <lb/>Brezillon, J., S. Guichard and D. Turner (2010), &quot; Trade <lb/>Linkages in the OECD Trade System &quot; , OECD Economics <lb/>Department Working Papers, No. 811, OECD Publishing, <lb/>Paris. <lb/>http://dx.doi.org/10.1787/5km4t0fj2p6l-en <lb/>OECD Economics Department Working <lb/>Papers No. 811 <lb/>Trade Linkages in the OECD <lb/>Trade System <lb/>Jérôme Brezillon, Stéphanie Guichard, <lb/>Dave Turner <lb/>JEL Classification: F10, F40 <lb/>Unclassified <lb/>ECO/WKP(2010)67 <lb/>Organisation de Coopération et de Développement Économiques <lb/>Organisation for Economic Co-operation and Development <lb/>27-Oct-2010 <lb/>___________________________________________________________________________________________ <lb/>_____________ <lb/>English text only <lb/>ECONOMICS DEPARTMENT <lb/>TRADE LINKAGES IN THE OECD TRADE SYSTEM <lb/>ECONOMICS DEPARTMENT WORKING PAPER No.811 <lb/>by <lb/>Jérôme Brézillon, Stéphanie Guichard and Dave Turner <lb/>All Economics Department Working Papers are available through OECD&apos;s internet website at <lb/>www.oecd.org/eco/workingpapers <lb/>JT03291242 <lb/>Document complet disponible sur OLIS dans son format d&apos;origine <lb/>Complete document available on OLIS in its original format <lb/>ECO/WKP(2010)67 <lb/>Unclassified <lb/>English <lb/>text <lb/>only <lb/></titlePage>
+
+			<front>ECO/WKP(2010)67 <lb/>2 <lb/>ABSTRACT/RÉSUMÉ <lb/>Trade Linkages in the OECD Trade System <lb/>This paper describes the sources and methods used to construct the trade matrices of the OECD trade <lb/>system. It also provides an overview of the trade relationships between countries, especially individual <lb/>OECD countries and the main non-OECD economies, as well as their evolution between 2000 and 2005. It <lb/>finally serves more broadly as a &quot; ready reckoner &quot; guide to the sensitivity to shocks that are transmitted <lb/>through trade. <lb/>JEL classification codes: F10; F40 <lb/>Keywords: Trade; trade matrices; bilateral trade flows <lb/>******************************* <lb/>Les relations commerciales dans le système de commerce de l&apos;OCDE <lb/>Ce document décrit les sources et méthodes utilisées pour la construction des matrices de commerce <lb/>du système de commerce international de l&apos;OCDE. Il donne une vue d&apos;ensemble des relations <lb/>commerciales entre pays, et notamment entre les pays membres de l&apos;OCDE et les principales économies <lb/>non-OCDE, ainsi que leur évolution entre 2000 et 2005. Ce document sert aussi plus généralement comme <lb/>guide &quot;prêt-à-l&apos;emploi&quot; de la sensibilité aux chocs transmis par le commerce. <lb/>Classification JEL : F10 ; F40 <lb/>Mots-clés : Echanges commerciaux ; matrices des échanges ; commerce bilatéral <lb/>Copyright OECD 2010 <lb/>Applications for permission to reproduce or transfer all, or part of, this material should be made to: <lb/>Head of Publications Service, OECD, 2 rue André Pascal, 75775 Paris Cedex 16, France <lb/>ECO/WKP(2010)67 <lb/></front>
+
+			<page>3 <lb/></page>
+
+			<body>TABLE OF CONTENTS <lb/>ABSTRACT/RÉSUMÉ ................................................................................................................................... 2 <lb/>TRADE LINKAGES IN THE OECD TRADE SYSTEM .............................................................................. 7 <lb/></body>
+
+			<titlePage>1. Methodology and data sources of the bilateral trade matrix ................................................................. 8 <lb/>1.1 <lb/>General principles ...................................................................................................................... 11 <lb/>1.2 <lb/>Data sources and methodology for compiling the goods matrix ............................................... 11 <lb/>1.3 <lb/>Data sources and methodology for compiling the services matrix ............................................ 11 <lb/>1.4 <lb/>Correcting for transhipment via Hong Kong ............................................................................. 12 <lb/>2. Keys trends since 2000 ....................................................................................................................... 13 <lb/>3 The main characteristics of the multilateral structure of trade ........................................................... 18 <lb/>BIBLIOGRAPHY ......................................................................................................................................... 65 <lb/>ANNEX 1 KEY TO COUNTRY AND REGION ABBREVIATIONS USED IN FIGURES ..................... 66 <lb/>ANNEX 2 THE CONSTRUCTION OF THE MATRICES.......................................................................... 68 <lb/>Building the goods matrix .......................................................................................................................... 68 <lb/>Building the service matrix ........................................................................................................................ 69 <lb/>Estimations of missing data for the OECD30 sub-matrix ...................................................................... 69 <lb/>Adjustment of the total OECD30 trade .................................................................................................. 70 <lb/>Calculation of services exports/imports between OECD30 and non OECD30 countries and zones ..... 70 <lb/>Computation of bilateral trade between non-OECD countries, Chile, Israel and Slovenia ................... 71 <lb/>ANNEX 3 DETAILS ON THE EVOLUTION OF TRADE PARTNERS ................................................... 72 <lb/>Boxes <lb/>Box 1. Trade indicators based on the trade matrix ...................................................................................... 8 <lb/></titlePage>
+
+			<body>Tables <lb/>1. <lb/>The share of OECD and non-OECD countries in world trade of goods and services ................... 13 <lb/>2. <lb/>The share of the main zones in world trade of goods and services ................................................ 14 <lb/>A2.1 The goods trade matrix .................................................................................................................. 68 <lb/>Figures <lb/>1. <lb/>Evolution of the share of individual countries in world trade ................................................... 15 <lb/>2. <lb/>Shares in world goods and services trade ................................................................................. 17 <lb/>3.1 <lb/>Geographical structure of goods and services trade of the United States ................................. 19 <lb/>3.2 <lb/>Geographical structure of goods and services trade of Japan ................................................... 20 <lb/>3.3 <lb/>Geographical structure of goods and services trade of the euro area ........................................ 21 <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>4 <lb/></page>
+
+			<listBibl>3.4 <lb/>Geographical structure of goods and services trade of Germany.............................................. 22 <lb/>3.5 <lb/>Geographical structure of goods and services trade of France.................................................. 23 <lb/>3.6 <lb/>Geographical structure of goods and services trade of Italy ..................................................... 24 <lb/>3.7 <lb/>Geographical structure of goods and services trade of the United Kingdom ............................ 25 <lb/>3.8 <lb/>Geographical structure of goods and services trade of Canada ................................................ 26 <lb/>3.9 <lb/>Geographical structure of goods and services trade of Australia .............................................. 27 <lb/>3.10 <lb/>Geographical structure of goods and services trade of Austria ................................................. 28 <lb/>3.11 <lb/>Geographical structure of goods and services trade of Belgium ............................................... 29 <lb/>3.12 <lb/>Geographical structure of goods and services trade of Chile .................................................... 30 <lb/>3.13. <lb/>Geographical structure of goods and services trade of the Czech Republic ............................. 31 <lb/>3.14 <lb/>Geographical structure of goods and services trade of Denmark.............................................. 32 <lb/>3.15 <lb/>Geographical structure of goods and services trade of Finland ................................................ 33 <lb/>3.16 <lb/>Geographical structure of goods and services trade of Greece ................................................. 34 <lb/>3.17 <lb/>Geographical structure of goods and services trade of Hungary .............................................. 35 <lb/>3.18 <lb/>Geographical structure of goods and services trade of Iceland ................................................. 36 <lb/>3.19 <lb/>Geographical structure of goods and services trade of Ireland ................................................. 37 <lb/>3.20 <lb/>Geographical structure of goods and services trade of Korea ................................................... 38 <lb/>3.21 <lb/>Geographical structure of goods and services trade of Luxembourg ........................................ 39 <lb/>3.22 <lb/>Geographical structure of goods and services trade of Mexico ................................................ 40 <lb/>3.23 <lb/>Geographical structure of goods and services trade of the Netherlands ................................... 41 <lb/>3.24 <lb/>Geographical structure of goods and services trade of New Zealand ....................................... 42 <lb/>3.25 <lb/>Geographical structure of goods and services trade of Norway................................................ 43 <lb/>3.26 <lb/>Geographical structure of goods and services trade of Poland ................................................. 44 <lb/>3.27 <lb/>Geographical structure of goods and services trade of Portugal ............................................... 45 <lb/>3.28 <lb/>Geographical structure of goods and services trade of the Slovak Republic ............................ 46 <lb/>3.29 <lb/>Geographical structure of goods and services trade of Slovenia .............................................. 47 <lb/>3.30 <lb/>Geographical structure of goods and services trade of Spain ................................................... 48 <lb/>3.31 <lb/>Geographical structure of goods and services trade of Sweden ................................................ 49 <lb/>3.32 <lb/>Geographical structure of goods and services trade of Switzerland ......................................... 50 <lb/>3.33 <lb/>Geographical structure of goods and services trade of Turkey ................................................. 51 <lb/>3.34 <lb/>Geographical structure of goods and services trade of Argentina ............................................ 52 <lb/>3.35 <lb/>Geographical structure of goods and services trade of Brazil ................................................... 53 <lb/>3.36 <lb/>Geographical structure of goods and services trade of China ................................................... 54 <lb/>3.37 <lb/>Geographical structure of goods and services trade of Estonia ................................................ 55 <lb/>3.38 <lb/>Geographical structure of goods and services trade of India .................................................... 56 <lb/>3.39 <lb/>Geographical structure of goods and services trade of Indonesia ............................................. 57 <lb/>3.40 <lb/>Geographical structure of goods and services trade of Israel ................................................... 58 <lb/>3.41 <lb/>Geographical structure of goods and services trade of the Russian Federation ........................ 59 <lb/>3.42 <lb/>Geographical structure of goods and services trade of Saudi Arabia ....................................... 60 <lb/>3.43 <lb/>Geographical structure of goods and services trade of South Africa ........................................ 61 <lb/>3.44 <lb/>Geographical structure of goods and services trade of Dynamic Asia Economies ................... 62 <lb/>3.45 <lb/>Geographical structure of goods and services trade of oil producers ....................................... 63 <lb/>3.46 <lb/>Geographical structure of goods and services trade of remaining countries ............................. 64 <lb/>A3.1 <lb/>Unites States export breakdown by destination ........................................................................ 73 <lb/>A3.2 <lb/>United States import breakdown by origin ............................................................................... 74 <lb/>A3.3 <lb/>Japan export breakdown by destination .................................................................................... 75 <lb/>A3.4 <lb/>Japan import breakdown by origin............................................................................................ 76 <lb/>A3.5 <lb/>Canada export breakdown by destination ................................................................................. 77 <lb/>A3.6 <lb/>Canada import breakdown by origin ......................................................................................... 78 <lb/>A3.7 <lb/>Germany export breakdown by destination .............................................................................. 79 <lb/>A3.8 <lb/>Germany import breakdown by origin ...................................................................................... 80 <lb/>ECO/WKP(2010)67 <lb/>5 <lb/>A3.9 <lb/>France export breakdown by destination .................................................................................. 81 <lb/>A3.10 <lb/>France import breakdown by origin .......................................................................................... 82 <lb/>A3.11 <lb/>Italy export breakdown by destination ...................................................................................... 83 <lb/>A3.12 <lb/>Italy import breakdown by origin ............................................................................................. 84 <lb/>A3.13 <lb/>United Kingdom export breakdown by destination .................................................................. 85 <lb/>A3.14 <lb/>United Kingdom import breakdown by origin .......................................................................... 86 <lb/>A3.15 <lb/>Australia export breakdown by destination .............................................................................. 87 <lb/>A3.16 <lb/>Australia import breakdown by origin ...................................................................................... 88 <lb/>A3.17 <lb/>Austria export breakdown by destination ................................................................................. 89 <lb/>A3.18 <lb/>Austria import breakdown by origin ......................................................................................... 90 <lb/>A3.19 <lb/>Belgium export breakdown by destination ............................................................................... 91 <lb/>A3.20 <lb/>Belgium import breakdown by origin ....................................................................................... 92 <lb/>A3.21 <lb/>Czech Republic export breakdown by destination .................................................................... 93 <lb/>A3.22 <lb/>Czech Republic import breakdown by origin ........................................................................... 94 <lb/>A3.23 <lb/>Denmark export breakdown by destination .............................................................................. 95 <lb/>A3.24. <lb/>Denmark import breakdown by origin ...................................................................................... 96 <lb/>A3.25 <lb/>Finland export breakdown by destination ................................................................................. 97 <lb/>A3.26 <lb/>Finland import breakdown by origin ........................................................................................ 98 <lb/>A3.27 <lb/>Greece export breakdown by destination .................................................................................. 99 <lb/>A3.28 <lb/>Greece import breakdown by origin ....................................................................................... 100 <lb/>A3.29 <lb/>Hungary export breakdown by destination ............................................................................. 101 <lb/>A3.30 <lb/>Hungary import breakdown by origin ..................................................................................... 102 <lb/>A3.31 <lb/>Iceland export breakdown by destination ............................................................................... 103 <lb/>A3.32. <lb/>Iceland import breakdown by origin ....................................................................................... 104 <lb/>A3.33 <lb/>Ireland export breakdown by destination ................................................................................ 105 <lb/>A3.34 <lb/>Ireland import breakdown by origin ....................................................................................... 106 <lb/>A3.35 <lb/>Korea export breakdown by destination ................................................................................. 107 <lb/>A3.36 <lb/>Korea import breakdown by origin ......................................................................................... 108 <lb/>A3.37 <lb/>Luxembourg export breakdown by destination ...................................................................... 109 <lb/>A3.38 <lb/>Luxembourg import breakdown by origin .............................................................................. 110 <lb/>A3.39 <lb/>Mexico export breakdown by destination ............................................................................... 111 <lb/>A3.40 <lb/>Mexico import breakdown by origin ...................................................................................... 112 <lb/>A3.41 <lb/>Netherlands export breakdown by destination ........................................................................ 113 <lb/>A3.42 <lb/>Netherlands import breakdown by origin ............................................................................... 114 <lb/>A3.43 <lb/>New Zealand export breakdown by destination ...................................................................... 115 <lb/>A3.44 <lb/>New Zealand import breakdown by origin ............................................................................. 116 <lb/>A3.45 <lb/>Norway export breakdown by destination .............................................................................. 117 <lb/>A3.46 <lb/>Norway import breakdown by origin ...................................................................................... 118 <lb/>A3.47 <lb/>Poland export breakdown by destination ................................................................................ 119 <lb/>A3.48 <lb/>Poland import breakdown by origin........................................................................................ 120 <lb/>A3.49 <lb/>Portugal export breakdown by destination .............................................................................. 121 <lb/>A3.50 <lb/>Portugal import breakdown by origin ..................................................................................... 122 <lb/>A3.51 <lb/>Slovak Republic export breakdown by destination ................................................................. 123 <lb/>A3.52 <lb/>Slovak Republic import breakdown by origin ........................................................................ 124 <lb/>A3.53 <lb/>Spain export breakdown by destination .................................................................................. 125 <lb/>A3.54 <lb/>Spain import breakdown by origin.......................................................................................... 126 <lb/>A3.55 <lb/>Sweden export breakdown by destination .............................................................................. 127 <lb/>A3.56 <lb/>Sweden import breakdown by origin ...................................................................................... 128 <lb/>A3.57 <lb/>Switzerland export breakdown by destination ........................................................................ 129 <lb/>A3.58 <lb/>Switzerland import breakdown by origin ................................................................................ 130 <lb/>A3.59 <lb/>Turkey export breakdown by destination ................................................................................ 131 <lb/>ECO/WKP(2010)67 <lb/></listBibl>
+
+			<page>6 <lb/></page>
+
+			<body>A3.60 <lb/>Turkey import breakdown by origin ....................................................................................... 132 <lb/>A3.61 <lb/>China export breakdown by destination .................................................................................. 133 <lb/>A3.62 <lb/>China import breakdown by origin ......................................................................................... 134 <lb/>ECO/WKP(2010)67 <lb/>7 <lb/>TRADE LINKAGES IN THE OECD TRADE SYSTEM <lb/>by <lb/>Jérôme Brézillon, Stéphanie Guichard and Dave Turner 1 <lb/>1. <lb/>Trade linkages and trade global consistency are essential components of the projections published <lb/>in the OECD Economic Outlook. The OECD system of trade linkages relies on a matrix of bilateral flows <lb/>of goods and services between OECD countries and several non-OECD countries and zones. 2 The <lb/>construction of such a matrix is not an easy task given limited data availability on bilateral trade flows for <lb/>some countries and the need to combine different sources while keeping the matrix consistent with national <lb/>trade data. <lb/>2. <lb/>This paper first details the methodology and sources used to build the most recent trade matrix <lb/>for 2005. It then compares the current trade matrix to the previous 2000 version in order to assess the <lb/>evolution of global trade flows over this period. 3 As expected, it shows that the share of non-OECD <lb/>countries, essentially Dynamic Asian economies and China, in world trade has increased, mostly at the <lb/>expense of North America, and to a lesser extent of OECD Asian countries. OECD Europe as a whole has <lb/>managed to maintain its market share. The paper also provides a very detailed review of each country&apos;s <lb/>main trading partners. Annex 1 presents the geographical breakdown and country and zone abbreviations. <lb/>Annex 2 presents some technical details on the construction of the 2005 trade matrix and Annex 3 presents <lb/>some country details on the change in the geographical trade structure between 2000 and 2005. <lb/>1. <lb/>The authors are members of Country Studies IV and the Macroeconomic Analysis Division of the OECD <lb/>Economics Department. They would like to thank Richard Herd and Christian Gianella for helpful <lb/>comments and discussions and Diane Scott for assistance in preparing the document. The views expressed <lb/>in this paper are those of the authors and do not necessarily represent those of the OECD or its member <lb/>countries. <lb/>2. <lb/>The OECD trade system uses a fixed matrix which is updated by five years every five years. The advantage <lb/>of a fixed matrix for competitiveness indicators is that it enables the assessment of the impact of changes in <lb/>prices which can be isolated from changes in weights due to the change in countries&apos; relative market share. <lb/>One disadvantage is that for historical years far away from the base year the weights derived from the <lb/>matrix do not reflect the prevailing structure of trade. <lb/>3. <lb/>The 2000 matrix is described in Le Fouler et al. (2001). <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>8 <lb/></page>
+
+			<body>1. <lb/>Methodology and data sources of the bilateral trade matrix <lb/>3. <lb/>The OECD trade system is based on a 45 by 45 matrix of bilateral trade flows of goods and <lb/>services covering the 33 OECD countries as well as nine non-OECD economies and three non-OECD <lb/>economics areas. 4 The matrix is used to build several indicators including those for export markets for <lb/>goods and services and competitiveness (see Pain et al., 2005 and Box 1). These indicators in turn play an <lb/>important role in analysing recent trade developments, in informing trade projections and in enforcing <lb/>global trade consistency. <lb/>Box 1. Trade indicators based on the trade matrix <lb/>Export market for goods and services, volume, US$, 2000 prices (XMKT) <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/>N <lb/>p <lb/>p <lb/>MGSVD <lb/>p <lb/>wld <lb/>XGS <lb/>p <lb/>i <lb/>XGS <lb/>i <lb/>XMKT <lb/>1 <lb/>* <lb/>where: <lb/>p <lb/>i <lb/>XGS  <lb/>= goods and services export values in 2005 from country i to country p <lb/>p <lb/>MGSVD = import volume of country p, expressed in 2005 US$ <lb/>Competitor&apos;s prices of goods and services exports (PXC) <lb/>i <lb/>EXCHIN <lb/>N <lb/>i <lb/>p <lb/>p <lb/>N <lb/>p <lb/>i <lb/>r <lb/>r <lb/>r <lb/>EXCHIN <lb/>r <lb/>PXGS <lb/>p <lb/>r <lb/>XGS <lb/>wld <lb/>i <lb/>XGS <lb/>p <lb/>i <lb/>XGS <lb/>p <lb/>wld <lb/>XGS <lb/>p <lb/>i <lb/>XGS <lb/>i <lb/>PXC <lb/>1 <lb/>* <lb/>1 <lb/>, <lb/>1 <lb/>* <lb/>* <lb/>* <lb/>1 <lb/>* <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/>Where, <lb/>p <lb/>PXGS = Exports of goods and services, deflator, national accounts basis of country p <lb/>i <lb/>EXCHIN = Exchange rate, index of USD per local currency unit of country i <lb/>4. <lb/>The geographical breakdown has evolved over time to follow the accession of new countries to the OECD <lb/>and the extension of the coverage of the non-members. In particular, the system has recently increased <lb/>from 30 OECD countries, China and five non-member zones to 33 OECD countries (following the <lb/>accession of Chile, Slovenia and Israel in 2010) as well as nine non-OECD economies and three non-<lb/>OECD economics areas (see Annex 1). For the sake of comparison with the 2000 system the updated 2005 <lb/>system still includes an OECD30 zone including only the countries that were part of the OECD in 2000. <lb/>Since Israel joined in September 2010 after most of the calculations in this paper were completed it is not <lb/>included in some of the OECD aggregates. <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>9 <lb/></page>
+
+			<body>Shadow price of non-commodity goods and services imports (PMSHX) <lb/>i <lb/>EXCHIN <lb/>N <lb/>p <lb/>p <lb/>EXCHIN <lb/>p <lb/>PXGSX <lb/>i <lb/>wld <lb/>XGS <lb/>i <lb/>p <lb/>XGS <lb/>i <lb/>PMSHX <lb/>1 <lb/>* <lb/>1 <lb/>* <lb/>* <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/>where <lb/>p <lb/>PXGSX = Price of non-commodity exports of goods and services of country p <lb/>Calculation of intra trade times series for the zones <lb/>Calculation of the share of extra and intra trade for each country <lb/>Since the trade goods and services matrix gives the share of imports and exports for a country with all countries <lb/>in the world, the share of trade with a specific zone, and the share of trade with the rest of the world excluding this <lb/>zone can be calculated. These shares are then applied to each export and import series (values and volumes in 2005 <lb/>prices) of each country&apos;s total trade to obtain series for extra and intra trade for a given zone. <lb/>Aggregation of goods and services series for intra and extra trade <lb/>Using a chainlink method, with fixed weights in 2005 it is possible to obtained the extra trade imports and exports <lb/>for a zone, the intra trade of imports and exports for a zone and the total trade of imports and exports for a zone <lb/>defined as the sum of intra and extra trade. <lb/>For instance for exports of intra trade exports of zone i Xi is derived from a weighted average of the exports of the <lb/>p countries belonging to the zone. The weights are the share of the zone in the exports of the country in 2005. <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/>N <lb/>i <lb/>p <lb/>p <lb/>p <lb/>N <lb/>i <lb/>k <lb/>k <lb/>k <lb/>p <lb/>p <lb/>p <lb/>X <lb/>X <lb/>t <lb/>X <lb/>t <lb/>X <lb/>t <lb/>i <lb/>X <lb/>t <lb/>i <lb/>X <lb/>, <lb/>1 <lb/>, <lb/>1 <lb/>] <lb/>2005 <lb/>[ <lb/>] <lb/>2005 <lb/>[ <lb/>* <lb/>] <lb/>1 <lb/>[ <lb/>] <lb/>[ <lb/>] <lb/>1 <lb/>[ <lb/>] <lb/>[ <lb/>Unfortunately, using this method, there is no consistency between intra trade exports and intra trade imports. <lb/>] <lb/>[ <lb/>] <lb/>[ <lb/>t <lb/>tra <lb/>in <lb/>Imports <lb/>t <lb/>ra <lb/>int <lb/>Exports <lb/>i <lb/>i <lb/> <lb/>This can be corrected using the formula: <lb/> <lb/> <lb/> <lb/>  <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/>2 <lb/>] <lb/>[ <lb/>] <lb/>[ <lb/>] <lb/>[ <lb/>2 <lb/>] <lb/>[ <lb/>] <lb/>[ <lb/>] <lb/>[ <lb/>t <lb/>a <lb/>intr <lb/>Exports <lb/>t <lb/>tra <lb/>in <lb/>Imports <lb/>t <lb/>final <lb/>tra <lb/>in <lb/>Exports <lb/>t <lb/>intra <lb/>Exports <lb/>t <lb/>tra <lb/>in <lb/>Imports <lb/>t <lb/>final <lb/>intra <lb/>Imports <lb/>i <lb/>i <lb/>i <lb/>i <lb/>i <lb/>i <lb/>And extra trade can then be calculated as the difference between total trade and these adjusted intra trade series. <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/>] <lb/>[ <lb/>] <lb/>[ <lb/>] <lb/>[ <lb/>] <lb/>[ <lb/>t <lb/>final <lb/>intra <lb/>Exports <lb/>Exports <lb/>Total <lb/>t <lb/>final <lb/>extra <lb/>Exports <lb/>t <lb/>final <lb/>intra <lb/>Imports <lb/>Imports <lb/>Total <lb/>t <lb/>final <lb/>extra <lb/>rts <lb/>Impo <lb/>i <lb/>i <lb/>i <lb/>i <lb/>The evolution of intra and extra trade of the OECD and the euro area is shown on the figure below. The first part <lb/>of the 2000s is characterised by a growing deficit of the two zones with the rest of the world. In both case also, during <lb/>the crisis exports to the rest of the world contracted before imports and intra trade. <lb/></body>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>10 <lb/></page>
+
+			<body>ECO/WKP(2010)67 <lb/></body>
+
+			<page>11 <lb/></page>
+
+			<body>1.1 <lb/>General principles <lb/>4. <lb/>The coverage of trade in both goods and services implies the construction of two distinct <lb/>matrices, one for bilateral merchandise trade and one for bilateral trade in services which are then <lb/>aggregated. Merchandise trade still accounts for 81% of global trade and largely shapes the goods and <lb/>services matrix and its evolution over time. While the quality of the data is relatively satisfactory for <lb/>goods, statistics for exports or imports of services are not systematically available on the required bilateral <lb/>basis even for OECD countries. Consequently, a number of assumptions have to be made to complete <lb/>missing services data, using both the information given by the aggregate level of trade in goods or services <lb/>and the share of bilateral trade of merchandise in total merchandise trade. <lb/>5. <lb/>As a rule, the matrices are completed with export series for two reasons: first, export series are <lb/>usually of much better quality and, second, import data are rarely available on a consistent free on board <lb/>basis (f.o.b.). When export data are missing, the matrices are completed with mirror series whenever <lb/>possible. A systematic procedure of cross-checking has been implemented, by comparing export/import <lb/>series with mirror data from corresponding trading partners. For OECD bilateral merchandise trade, no <lb/>substantial differences were found between export and their mirror series. <lb/>1.2 <lb/>Data sources and methodology for compiling the goods matrix <lb/>6. <lb/>There are two main international sources of bilateral merchandise trade: the data from the IMF&apos;s <lb/>Direction of Trade Statistics (DOTS database, merchandise trade flows for more than 180 countries, <lb/>customs-based) and the COMTRADE database from United Nation (also customs-based). While the two <lb/>sets give comparable results for OECD countries, the quality of the data for non-OECD countries is better <lb/>in the DOTS trade statistics and when aggregated at the country level, exports and imports from the DOTS <lb/>are closer to national trade flows. The DOTS is therefore the main source used for the bilateral matrix of <lb/>goods trade flows. 5 <lb/>7. <lb/>Adjustments to the bilateral matrix to ensure that total exports and imports match national data <lb/>are detailed in Annex 2.1. <lb/>1.3 <lb/>Data sources and methodology for compiling the services matrix <lb/>8. <lb/>For bilateral trade in services, the OECD Statistics on International Trade in Services is the only <lb/>available source. Although many bilateral trade flows are missing and have to be estimated, the coverage <lb/>has substantially improved in comparison with the data used for the 2000 matrix. 6 <lb/>9. <lb/>A sub-matrix for OECD30 can be filled using the OECD Statistics on International Trade in <lb/>Services. For the missing values of bilateral trade between OECD30 countries, cells can be completed <lb/>using the relative share of merchandise trade as the corresponding weight (see Annex 2.2 for more details). <lb/>For a few countries it appears that the sum of bilateral trade flows of services is well out of line with the <lb/>5. <lb/>COMTRADE data are however used to take into account the role of Hong Kong as a shipping port (see <lb/>below). Also data for Luxembourg and Chinese Taipei are taken from other sources. <lb/>6. <lb/>Twelve OECD countries now have a complete breakdown of trade series (Austria, Denmark, France, <lb/>Hungary, Ireland, Italy, Luxembourg, Netherlands, Poland, Portugal, Sweden and the United Kingdom) <lb/>and seven others an almost complete breakdown (Australia, Belgium, Canada, Czech Republic, Finland, <lb/>Japan and Norway). <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>12 <lb/></page>
+
+			<body>total exports or imports obtained from MEI or national sources. 7 In these cases, further adjustments have to <lb/>be made to obtain a row/column of the matrix coherent with aggregate series (see Annex 2.2). In addition, <lb/>the same database is used to complete China&apos;s trade flows with OECD30, as a relatively complete set of <lb/>mirror series for China is available. Missing values are completed as described in Annex 2.2. <lb/>10. <lb/>For the other non-OECD countries and for Chile, Israel and Slovenia, it is not possible to use <lb/>mirror series given the paucity of data and all bilateral trade flows countries and zones have to be <lb/>estimated. The weights of merchandise trade have been applied to the matrix of services. Then adjustment <lb/>to ensure that for each country the sum of reported value is equal total services trade by country is exactly <lb/>the same as that presented for the goods matrix presented in Annex 2.1. <lb/>1.4 <lb/>Correcting for transhipment via Hong Kong 8 <lb/>11. <lb/>The role of Hong Kong as a shipping port for China and other Asian countries is a source of <lb/>potential bias. Domestic exports (excluding re-exports) account for less than 5% of Hong Kong&apos;s total <lb/>exports and domestic imports (i.e. not meant to be re-exported ) account for about a quarter of Hong <lb/>Kong&apos;s total imports. The re-export trade by Hong Kong has three components: shipment of goods to <lb/>China from partner countries, shipment of Chinese goods to partner countries, and shipment of goods from <lb/>countries other than China to countries other than China. Trade flows associated with the role of Hong <lb/>Kong as a shipping port result therefore in an over-estimation of bilateral trade flows between the Dynamic <lb/>Asia region (in which Hong Kong is included) and the other countries or zones and an under-estimation of <lb/>bilateral flows between partner countries, and notably between China and other countries. In the absence of <lb/>a correction, effective exchange rates derived from the trade matrix would also be biased, with the weight <lb/>of China over-estimated in the effective exchange rate of Hong-Kong and under-estimated for all other <lb/>countries, while the weight of Hong Kong would be over-estimated in the RMB effective exchange rate <lb/>and the exchange rate of all other countries. <lb/>12. <lb/>Re-export data are available in COMTRADE by destinations and there is some information <lb/>provided by the Hong Kong authorities on the re-export by origins. The shipment of goods from countries <lb/>other than China to countries other than China is very limited and was ignored, so that it is assumed that all <lb/>re-exports of Hong Kong to countries other than China originated in China. The matrix has therefore been <lb/>corrected and exports from China to Dynamic Asia and exports from Dynamic Asia to other countries than <lb/>China have been reduced, and replaced by equivalent direct flows from China to other countries than <lb/>China. Exports from countries other than China to Dynamic Asia and from Dynamic Asia to China were <lb/>reduced and replaced by a flow from these countries to China. An 8 % export margin for re-exports from <lb/>China to the rest of the world and a 32% export margin for re-exports from the rest of the world to China <lb/>are assumed based on Wang et al. (2007). These changes to the matrix result in a lowering of the weight of <lb/>Dynamic Asia as a trade partner of all countries. In the case of China, after the adjustment it represents <lb/>only 12 % of exports and 26 % of imports (compared to 23 % and 37% before the adjustment <lb/>respectively). <lb/>7. <lb/>This concerns Mexico, the Netherlands, Switzerland and Turkey. The sum of bilateral trade in services for <lb/>the United Kingdom also exceeds the aggregate number found in the balance of payments by a large <lb/>amount, particularly on the import side. This discrepancy might reflect a different treatment of financial <lb/>services. <lb/>8. <lb/>This correction is not done for other countries with important shipping and re-export activity either because <lb/>at the world level this activity remains negligible or because the data on bilateral re-exports necessary to do <lb/>the correction is not available. <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>13 <lb/></page>
+
+			<body>2. <lb/>Keys trends since 2000 <lb/>13. <lb/>The evolution of the trade matrix between the 2000 and the 2005 matrices reflects recent trends <lb/>in globalisation. First, the non-OECD share in world trade has increased markedly, from about one-quarter <lb/>to close to one-third (Table 1). This corresponds to both an increase of trade within non-OECD zones and, <lb/>to a lesser extent, a rise in trade between OECD and non-OECD countries. The counterpart has mainly <lb/>been a decrease in NAFTA&apos;s share in world trade (Table 2). The loss of NAFTA&apos;s market share is <lb/>observed on both the export and import side. The weight of the OECD Asia Pacific zone in world trade has <lb/>also shrunk, but less markedly than the weight of NAFTA, while the weight of European countries has <lb/>slightly increased. The increase in the weight of Europe was driven not only by goods by also by a strong <lb/>increase in the share in world exports of services. <lb/>Table 1. The share of OECD and non-OECD countries in world trade of goods and services (2005) <lb/>Importers <lb/>Exporters <lb/>52.9% <lb/>15.8% <lb/>68.6% <lb/>(-4.8%) <lb/>(1.7%) <lb/>(-3.3%) <lb/>19.1% <lb/>12.3% <lb/>31.4% <lb/>(1.9%) <lb/>(1.4%) <lb/>(3.3%) <lb/>72.0% <lb/>28.0% <lb/>100.0% <lb/>(-2.9%) <lb/>(2.9%) <lb/>OECD <lb/>Non-OECD <lb/>World <lb/>OECD <lb/>Non-OECD <lb/>World <lb/>Note: Changes since 2000 in Italics. <lb/>14. <lb/>At the individual country level, the most important changes have been the rise in the share of <lb/>China, which has jumped from the eighth rank in world exporters and ninth rank in world importers to the <lb/>third in both between 2000 and 2005, at the expense mainly of the United States and Japan (Figure 1). <lb/>Interestingly, the increase in the share of German exports in world exports has not been a matched by <lb/>corresponding increase in the share of German imports in world imports. More details on the evolution of <lb/>the breakdown of each country&apos;s imports and exports by partner are provided in Annex 3; they show <lb/>notably the increase in share of Eastern European countries in the trade of Germany, France and Italy at the <lb/>expense of trade between these three countries. <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>14 <lb/></page>
+
+			<body>Table 2. The share of the main zones in world trade of goods and services (2005) <lb/>Importers <lb/>Exporters <lb/>2000 2005 2000 2005 2000 2005 2000 2005 2000 2005 2000 2005 <lb/>OECD30 EUROPE <lb/>29.4 <lb/>29.9 <lb/>5.2 <lb/>4.7 <lb/>1.5 <lb/>1.4 <lb/>0.5 <lb/>0.8 <lb/>5.5 <lb/>6.9 <lb/>42.0 <lb/>43.7 <lb/>NAFTA <lb/>4.3 <lb/>3.2 <lb/>9.7 <lb/>7.4 <lb/>2.2 <lb/>1.5 <lb/>0.4 <lb/>0.6 <lb/>3.7 <lb/>2.8 <lb/>20.3 <lb/>15.5 <lb/>OECD30 Pacific Asia <lb/>1.8 <lb/>1.5 <lb/>3.2 <lb/>2.1 <lb/>1.4 <lb/>1.3 <lb/>1.0 <lb/>1.7 <lb/>3.6 <lb/>3.0 <lb/>11.0 <lb/>9.5 <lb/>China <lb/>0.9 <lb/>1.5 <lb/>1.2 <lb/>2.5 <lb/>1.0 <lb/>1.3 <lb/>0.0 <lb/>0.0 <lb/>0.6 <lb/>2.1 <lb/>3.7 <lb/>7.4 <lb/>Other non-OECD30 <lb/>1 <lb/>6.1 <lb/>6.6 <lb/>5.0 <lb/>4.1 <lb/>3.4 <lb/>3.1 <lb/>1.4 <lb/>2.3 <lb/>7.2 <lb/>7.8 <lb/>23.0 <lb/>24.0 <lb/>W O RLD <lb/>42.5 <lb/>42.7 24.2 20.7 <lb/>9.5 <lb/>8.6 <lb/>3.2 <lb/>5.3 <lb/>20.5 22.7 100.0 100.0 <lb/>Importers <lb/>Exporters <lb/>2000 2005 2000 2005 2000 2005 2000 2005 2000 2005 2000 2005 <lb/>OECD30 EUROPE <lb/>29.3 <lb/>29.7 <lb/>4.4 <lb/>3.9 <lb/>1.3 <lb/>1.2 <lb/>0.5 <lb/>0.8 <lb/>5.4 <lb/>6.2 <lb/>41.0 <lb/>41.8 <lb/>NAFTA <lb/>3.3 <lb/>2.3 <lb/>11.0 <lb/>8.2 <lb/>1.9 <lb/>1.1 <lb/>0.4 <lb/>0.6 <lb/>3.1 <lb/>2.4 <lb/>19.7 <lb/>14.6 <lb/>OECD30 Pacific Asia <lb/>2.0 <lb/>1.5 <lb/>3.4 <lb/>2.1 <lb/>1.5 <lb/>1.3 <lb/>1.2 <lb/>1.9 <lb/>3.8 <lb/>3.0 <lb/>11.8 <lb/>9.9 <lb/>China <lb/>1.0 <lb/>1.7 <lb/>1.5 <lb/>3.0 <lb/>1.1 <lb/>1.5 <lb/>0.0 <lb/>0.0 <lb/>0.4 <lb/>2.2 <lb/>4.0 <lb/>8.4 <lb/>Other non-OECD30 <lb/>1 <lb/>6.1 <lb/>6.7 <lb/>5.1 <lb/>4.5 <lb/>3.4 <lb/>3.2 <lb/>1.4 <lb/>2.5 <lb/>7.5 <lb/>8.3 <lb/>23.6 <lb/>25.2 <lb/>W O RLD <lb/>41.7 <lb/>42.0 25.4 21.8 <lb/>9.2 <lb/>8.3 <lb/>3.5 <lb/>5.8 <lb/>20.2 22.1 100.0 100.0 <lb/>Importers <lb/>Exporters <lb/>2000 2005 2000 2005 2000 2005 2000 2005 2000 2005 2000 2005 <lb/>OECD30 EUROPE <lb/>29.7 <lb/>30.6 <lb/>8.2 <lb/>7.9 <lb/>2.1 <lb/>2.3 <lb/>0.2 <lb/>0.6 <lb/>6.0 <lb/>9.8 <lb/>46.2 <lb/>51.2 <lb/>NAFTA <lb/>8.4 <lb/>6.8 <lb/>4.7 <lb/>4.1 <lb/>3.6 <lb/>2.9 <lb/>0.3 <lb/>0.4 <lb/>5.8 <lb/>4.6 <lb/>22.8 <lb/>18.8 <lb/>OECD30 Pacific Asia <lb/>1.4 <lb/>1.3 <lb/>2.3 <lb/>1.9 <lb/>1.2 <lb/>1.0 <lb/>0.3 <lb/>0.6 <lb/>2.7 <lb/>3.0 <lb/>7.9 <lb/>7.8 <lb/>China <lb/>0.3 <lb/>0.5 <lb/>0.2 <lb/>0.3 <lb/>0.5 <lb/>0.6 <lb/>0.0 <lb/>0.0 <lb/>1.2 <lb/>1.7 <lb/>2.2 <lb/>3.1 <lb/>Other non-OECD30 <lb/>1 <lb/>5.7 <lb/>6.2 <lb/>4.2 <lb/>2.3 <lb/>3.4 <lb/>2.7 <lb/>1.4 <lb/>1.8 <lb/>6.3 <lb/>6.1 <lb/>21.0 <lb/>19.1 <lb/>W O RLD <lb/>45.5 <lb/>45.3 19.6 16.5 10.7 <lb/>9.5 <lb/>2.3 <lb/>3.4 <lb/>22.0 25.3 100.0 100.0 <lb/>GOODS and SERVICES Matrix <lb/>OECD30 <lb/>Europe <lb/>NAFTA <lb/>OECD30 <lb/>Pacific Asia <lb/>China <lb/>Other non-<lb/>OECD30 1 <lb/>World <lb/>Other non-<lb/>OECD30 1 <lb/>World <lb/>GOODS Matrix <lb/>OECD30 <lb/>Europe <lb/>NAFTA <lb/>OECD30 <lb/>Pacific Asia <lb/>China <lb/>Other non-<lb/>OECD30 1 <lb/>World <lb/>SERVICES Matrix <lb/>OECD30 <lb/>Europe <lb/>NAFTA <lb/>OECD30 <lb/>Pacific Asia <lb/>China <lb/>1. <lb/>Includes Chile, Israel, and Slovenia. <lb/>Source: OECD calculation. <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>15 <lb/></page>
+
+			<body>Figure 1. Evolution of the share of individual countries in world trade <lb/>In percentage <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>16 <lb/></page>
+
+			<body>Figure 1. Evolution of the share of individual countries in world trade (cont&apos;d) <lb/>Source: OECD calculations. <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>17 <lb/></page>
+
+			<body>15. <lb/>Most of the trade of the OECD countries remains within the OECD, with about three-quarters of <lb/>the OECD imports from the OECD and a bit more of exports going to OECD partners (Figure 1). Intra <lb/>OECD trade accounts for a bit more than half of world trade. A third of world trade flows are between the <lb/>OECD countries and non-OECD countries, with Asia (China and dynamic Asian Economies) the main <lb/>economic partner area of the OECD and accounting for 13.6% of the OECD total imports (close to half the <lb/>OECD imports from non-OECD countries) and 10.9% of its exports (again close half the OECD exports <lb/>outside the OECD). Trade flows between non-OECD countries account for less than 15% of world trade <lb/>flows. <lb/>Figure 2. Shares in world goods and services trade <lb/>Main world regions trade as per cent of world trade <lb/>Source: OECD calculations. <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>18 <lb/></page>
+
+			<body>3 <lb/>The main characteristics of the multilateral structure of trade <lb/>16. <lb/>A more detailed decomposition of each country&apos;s trade partners is provided in Figures 3.1 to 3.46 <lb/>which include all the 45 countries/zones covered in the 2005 trade matrix as well as the euro area OECD <lb/>members. For instance for the United States (Figure 3.1), the two upper bar charts provide an indication of <lb/>the sensitivity of each country&apos;s exports to a change in US import demand: the first one ranks countries <lb/>according to the absolute size of US demand for their exports, whereas the second one ranks countries <lb/>according to the relative importance of US demand for their exports. Thus, bar chart (a) shows that <lb/>Canada, China, Mexico and Dynamic Asia together account for just under half of US imports, while in <lb/>relative terms the second bar chart (b) shows that the United States is especially important as an export <lb/>market for both Canada and Mexico, accounting for more than three-quarters of these countries&apos; exports. <lb/>The lower bar chart (c) provides an indication of the most important markets for US exports in absolute <lb/>terms, whereas the bottom bar chart (d) shows those countries which are most reliant on US exports in <lb/>relation to their total imports. China&apos;s imports come mainly from the rest of Asia, the United States and oil <lb/>producing countries, and it accounts for more than 15% of total exports of its Asian partners (almost a <lb/>quarter of exports from non OECD dynamic Asian economies) (Figure 3.36). The United States is by far the <lb/>main export market for China and receives for about one-third of its exports. In addition Figure 3.3 shows the <lb/>same breakdown for the euro area external trade. <lb/>17. <lb/>The panel (c) of each figure also helps compare the geographical trade diversification of each <lb/>country, highlighting the extreme cases of Canada and Mexico where more than 80% of exports go to a <lb/>single partner: the United States. On the other hand German external trade appears among the most <lb/>diversified with the two main trade partners France and the United States each accounting for only 10% of <lb/>German exports. <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>19 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>20 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>21 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>22 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>23 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>24 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>25 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>26 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>27 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>28 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>29 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>30 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>31 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>32 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>33 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>34 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>35 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>36 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>37 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>38 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>39 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>40 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>41 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>42 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>43 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>44 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>45 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>46 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>47 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>48 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>49 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>50 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>51 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>52 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>53 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>54 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>55 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>56 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>57 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>58 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>59 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>60 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>61 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>62 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>63 <lb/></page>
+
+			<front>ECO/WKP(2010)67 <lb/></front>
+
+			<page>64 <lb/></page>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>65 <lb/></page>
+
+			<body>BIBLIOGRAPHY <lb/>Le Fouler L., W. Suyker and D. Turner (2001), &quot; Trade linkages and the trade matrices in the OECD <lb/>Interlink model &quot; . OECD Economics Department Working Paper No.310. <lb/>Pain N., A. Mourougane, F. Sédillot and L. Le Fouler (2005), &quot; Globalisation and Inflation in the OECD <lb/>Economies &quot; , OECD Economics Department Working Paper No.440. <lb/>Wang Z., M. Gehlhar and Y. Shunli (2007), &quot;Reconciling Trade Statistics from China, Hong Kong and <lb/>Their Major Trading Partners --A Mathematical Programming Approach&quot;, United States <lb/>International Trade Commission, United States Department of Agriculture and China Center for <lb/>Economic Research, Peking University; GTAP Technical Paper No.27, September. <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>66 <lb/></page>
+
+			<body>ANNEX 1 <lb/>KEY TO COUNTRY AND REGION ABBREVIATIONS USED IN FIGURES <lb/>The OECD trade system covers all 33 OECD Member countries as well as nine non-OECD <lb/>economies and three non-OECD economics areas. <lb/>OECD countries: <lb/>AUS Australia <lb/>AUT Austria <lb/>BEL Belgium <lb/>CAN Canada <lb/>CHL Chile <lb/>CZE Czech Republic <lb/>DNK Denmark <lb/>FIN Finland <lb/>FRA France <lb/>DEU Germany <lb/>GRC Greece <lb/>HUN Hungary <lb/>ISL Iceland <lb/>IRL Ireland <lb/>ISR Israel <lb/>ITA Italy <lb/>JPN Japan <lb/>KOR Korea <lb/>LUX Luxembourg <lb/>MEX Mexico <lb/>NLD Netherlands <lb/>NZL New Zealand <lb/>NOR Norway <lb/>POL Poland <lb/>PRT Portugal <lb/>SVK Slovak Republic <lb/>SVN Slovenia <lb/>ESP Spain <lb/>SWE Sweden <lb/>CHE Switzerland <lb/>TUR Turkey <lb/>GBR United Kingdom <lb/>USA United States <lb/>OECD regions: <lb/>OECD America: USA, CAN, MEX, CHL. <lb/>OECD Pacific: JPN, KOR, AUS, NZL. <lb/>OECD Euro area members, EA14: AUT, BEL, FIN, FRA, DEU, GRC, IRL, ITA, LUX, PRT, SVK, ESP, SVN. <lb/>OECD European Union members, EU20: EA14, CZE, DNK, HUN, POL, SWE, GBR <lb/>OECD Europe, EUR: EA20, ISL, NOR, CHE, TUR, <lb/>OECD30: countries that were members in 2000 : OCDE-CHL – SVN – ISR <lb/>Non OECD countries: <lb/>ARG Argentina <lb/>BRA Brazil <lb/>CHN China <lb/>EST Estonia <lb/>IND Indonesia <lb/>IDN India <lb/>RUS Russian Federation <lb/>SAU Saudi Arabia <lb/>ZAF South Africa <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>67 <lb/></page>
+
+			<body>Non-OECD regions: <lb/>DAE Dynamic Asian Economies: Chinese Taipei; Hong Kong, China; Malaysia; Philippines; Singapore; Thailand; <lb/>Vietnam. <lb/>OIL Oil producers: Azerbaijan; Kazakhstan; Turkmenistan; Brunei; Timor-Leste; Bahrain; Iran; Iraq; Kuwait; Libya; <lb/>Oman; Qatar; United Arab Emirates; Yemen; Ecuador; Trinidad and Tobago; Venezuela; Algeria; Angola; Chad; Rep <lb/>of Congo.; Equatorial Guinea; Gabon; Nigeria; Sudan. <lb/>ROW: Rest of the world. <lb/>Total WLD World (Sum of OECD countries and non-OECD regions) <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>68 <lb/></page>
+
+			<body>ANNEX 2 <lb/>THE CONSTRUCTION OF THE MATRICES <lb/>Building the goods matrix 9 <lb/>Table A2.1 The goods trade matrix <lb/>Imports j <lb/>Exports i <lb/>1 <lb/>… <lb/>30 <lb/>31 <lb/>32 <lb/>… <lb/>44 <lb/>45 <lb/>1 <lb/>0 <lb/>Sum(1,j) <lb/>… <lb/>0 <lb/>X final (i,j) <lb/>… <lb/>30 <lb/>0 <lb/>Sum(30,j) <lb/>31 <lb/>0 <lb/>Sum(31,j) <lb/>32 <lb/>0 <lb/>X_Dyn (i,j) <lb/>Sum(32,j) <lb/>… <lb/>M final (i,j) <lb/>M_Dyn (i,j) <lb/>0 <lb/>… <lb/>44 <lb/>W_Dyn(44,44) <lb/>Sum(44,j) <lb/>45 <lb/>W_Dyn(44,44) <lb/>Sum(45,j) <lb/>Sum(i,1) <lb/>… <lb/>Sum(i,30) <lb/>Sum(i,31) <lb/>Sum(i,32) <lb/>… <lb/>Sum(i,44) <lb/>Sum(i,45) <lb/>World trade <lb/>OECD30 + China (imports) <lb/>Chile, Israel ,Slovenia + Non OECD economies (imports) <lb/>WORLD <lb/>exports <lb/>OECD30 + <lb/>China <lb/>(exports) <lb/>Chile, Isreal, <lb/>Slovenia + <lb/>Non-OECD <lb/>economies <lb/>(exports) <lb/>WORLD imports <lb/>First an initial matrix of bilateral matrix of goods trade flows between the 45 economies is built. Then <lb/>while the flows between the OECD30 countries and China do not require further adjustment, the other <lb/>parts of the matrix involving Chile, Israel and Slovenia as well as the -OECD countries other than China <lb/>has to be adjusted to ensure consistency at the world level. In particular, in the initial matrix the sum of <lb/>reported values is not equal to the total goods trade by country. <lb/>A second step consists therefore in adjusting imports from OECD30 countries and China (lower left, <lb/>Ms) and exports to OECD30 and China (upper right, Xs) by the information on total trade flows and <lb/>bilateral flows with the OECD30. <lb/>9. <lb/>All the data come from DOTS statistics expect for Luxembourg where data are extracted from STATEC <lb/>and Chinese Taipei where they come from the National Board of Trade&apos;s website <lb/>(http://cus93.trade.gov.tw/english/FSCE/FSC0011E.ASP). For consistency reasons, trade with Puerto Rico <lb/>and US Virgin Islands has been integrated to trade with United States, and similarly trade with <lb/>Guadeloupe, Martinique, Reunion and French Guiana has been integrated to trade with France. Another <lb/>issue comes from the fact that a few countries provide only data for Belgium-Luxembourg together (or <lb/>similarly for the former Czechoslovakia) and not for individual countries separately. In this case, export <lb/>flows from these countries are adjusted and replaced by mirror series using a 1.1 CIF/FOB correction <lb/>factor. <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>69 <lb/></page>
+
+			<body>with X exports and M imports of country&apos;s (i) goods to country j . <lb/>For the lower right part of the matrix covering trade flows between non-OECD countries, Chile Israel <lb/>and Slovenia, where there is no information of correct the bilateral level of imports or exports. The <lb/>adjustment is based on the following calculations where the correction of the level is based on the import <lb/>and export weights in the trade with the OECD30 and China. <lb/>Matrix 4 left: <lb/>Matrix 4 right: <lb/>For zones, where there are intra-trade flows the diagonal is defined as: <lb/>Matrix 4 diagonal: <lb/>With this method based on the exports&apos; weights on one hand and the imports&apos; weights on the other <lb/>hand, trade flows between non-OECD countries, Chile Israel and Slovenia are underestimated. Each <lb/>coefficient in this matrix is therefore adjusted dynamically until the trade flows in the matrix are equal to <lb/>the observed total (this requires three iterations). <lb/>Building the service matrix <lb/>Again, OECD30 countries are treated differently from Chile, Israel and Slovenia where coverage in <lb/>Statistics on International Trade in Services is still limited. <lb/>Estimations of missing data for the OECD30 sub-matrix <lb/>Even for trade between OECD countries, the initial matrix derived from the OECD Statistics on <lb/>International Trade in Services is not complete. Missing values are estimated on the basis of the weight of <lb/>the 2005 goods matrix. Let&apos;s denote <lb/>the share of country&apos;s (i) goods export to country j <lb/>relative to its total export to OECD30 countries. In the simple example below, the export of services from <lb/>country 3 to country 5 is estimated the following way: <lb/>Imports <lb/>OECD30 (imports) <lb/>Non OECD30 (imports) <lb/>Exports <lb/>1 <lb/>2 <lb/>3 <lb/>4 <lb/>5 <lb/>6 <lb/>7 <lb/>8 <lb/>9 <lb/>OECD30 <lb/>(exports) <lb/>1 <lb/>0 <lb/>X(1,4) <lb/>2 <lb/>0 <lb/>X(2,4) <lb/>3 <lb/>X(3,1) <lb/>X(3,2) <lb/>0 <lb/>X(3,4) <lb/>? <lb/>4 <lb/>0 <lb/>5 <lb/>X(5,4) <lb/>0 <lb/>Non-OECD30 <lb/>(exports) <lb/>6 <lb/>7 <lb/>8 <lb/>9 <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>70 <lb/></page>
+
+			<div type="annex">Adjustment of the total OECD30 trade <lb/>For a few countries, in particular where financial services play an important role, there is a large <lb/>discrepancy between the sum of bilateral trade flows with OECD30 countries and the total exports or <lb/>imports obtained from the MEI database (for Switzerland for instance, this sum was more than twice total <lb/>Swiss exports of services). In this case, a correction has been made when the partial sum of exports/imports <lb/>to OECD30 countries exceeded 95% of total exports (respectively imports) of the country. The option <lb/>retained is to adjust the trade to OECD30 countries (export or import) of the problematic country to the <lb/>total services trade given by the MEI database, by using the relative share of goods exports (respectively <lb/>imports) in the OECD30 zone as a whole. More precisely, assuming that in the matrix above, the sum of <lb/>bilateral imports from the country (4) are overestimating total imports of this country, the column of the <lb/>OECD30 sub-matrix corresponding to this country is corrected the following way <lb/>Where <lb/>is total import of services of country (4) from the world obtained from the MEI database, <lb/>is the total import of goods of country (4) from OECD30 countries in the 2005 goods matrix <lb/>and <lb/>is the total import of goods of country (4) (in the 2005 goods matrix). <lb/>Calculation of services exports/imports between OECD30 and non OECD30 countries and zones <lb/>For non-OECD30 countries and zones, the overall information on service trade is relatively limited <lb/>(except for China where a relative complete set of mirror series can be used). Data on aggregate services <lb/>trade from MEI allows however to first deduct the total exports of OECD30 countries to non-OECD30 <lb/>countries (B in the matrix below), and the total OECD imports from non-OECD countries (C in the matrix <lb/>below). <lb/>Imports <lb/>OECD <lb/>Non OECD zones <lb/>MEI total <lb/>Exports <lb/>1 <lb/>2 <lb/>3 <lb/>4 <lb/>5 <lb/>China <lb/>7 <lb/>8 <lb/>9 <lb/>OECD <lb/>1 <lb/>A <lb/>B?= <lb/>-A <lb/>2 <lb/>2 <lb/>4 <lb/>5 <lb/>Non-<lb/>OECD <lb/>zones <lb/>China <lb/>C?= <lb/>-A <lb/>7 <lb/>D= ? <lb/>8 <lb/>9 <lb/>MEI total <lb/>In a second stage, the rows and columns of the sub-matrices B and C are completed, again using total <lb/>export/import values from MEI and, also, the weight from the previous 2000 services matrix. For example, <lb/>exports of the OECD country (i) to non-OECD country (j) (noted B(i,j)) are completed the following way: <lb/></div>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>71 <lb/></page>
+
+			<body>where <lb/>denotes total services export of country ) and <lb/>the exports of country i to <lb/>country j in the 2000 trade matrix. <lb/>For China, the same procedure is applied. Values for its total export and import of services are drawn <lb/>from the IMF Balance of Payment database and the bilateral trade with OECD countries from OECD <lb/>Statistics on International Trade in Services data. Before that procedure was applied, missing values were <lb/>completed according to the same methodology as described above for OECD members. In this particular <lb/>case, weights from the 2000 services matrix were used in order to avoid large distortions linked to the <lb/>dramatic changes in merchandise trade for this country. <lb/>Computation of bilateral trade between non-OECD countries, Chile, Israel and Slovenia <lb/>For intra non-OECD30 countries bilateral trade flows, only limited information is available and <lb/>therefore the total non-OECD30 intra-trade (excluding China) needs first to be estimated. This estimation <lb/>is carried out by using the ratio of services trade to goods trade calculated for a subset of non OECD <lb/>countries (for which such variables were available in the IMF Balance of Payments database). This ratio <lb/>multiplied by the non-OECD intra-trade in the 2005 goods matrix is taken as the estimated value for the <lb/>sub-matrix (D) above. In a second stage, each cell is completed using the bilateral weights of the <lb/>corresponding goods sub-matrix. <lb/>ECO/WKP(2010)67 <lb/>72 <lb/>ANNEX 3 <lb/>DETAILS ON THE EVOLUTION OF TRADE PARTNERS <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>73 <lb/></page>
+
+			<body>Figure A3.1 United States export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>74 <lb/></page>
+
+			<body>Figure A3.2 United States import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>75 <lb/></page>
+
+			<body>Figure A3.3 Japan export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>76 <lb/></page>
+
+			<body>Figure A3.4 Japan import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>77 <lb/></page>
+
+			<body>Figure A3.5 Canada export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>78 <lb/></page>
+
+			<body>Figure A3.6 Canada import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>79 <lb/></page>
+
+			<body>Figure A3.7 Germany export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>80 <lb/></page>
+
+			<body>Figure A3.8 Germany import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>81 <lb/></page>
+
+			<body>Figure A3.9 France export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>82 <lb/></page>
+
+			<body>Figure A3.10 France import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>83 <lb/></page>
+
+			<body>Figure A3.11 Italy export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>84 <lb/></page>
+
+			<body>Figure A3.12 Italy import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>85 <lb/></page>
+
+			<body>Figure A3.13 United Kingdom export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>86 <lb/></page>
+
+			<body>Figure A3.14 United Kingdom import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>87 <lb/></page>
+
+			<body>Figure A3.15 Australia export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>88 <lb/></page>
+
+			<body>Figure A3.16 Australia import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>89 <lb/></page>
+
+			<body>Figure A3.17 Austria export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>90 <lb/></page>
+
+			<body>Figure A3.18 Austria import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>91 <lb/></page>
+
+			<body>Figure A3.19 Belgium export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>92 <lb/></page>
+
+			<body>Figure A3.20 Belgium import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>93 <lb/></page>
+
+			<body>Figure A3.21 Czech Republic export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>94 <lb/></page>
+
+			<body>Figure A3.22 Czech Republic import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>95 <lb/></page>
+
+			<body>Figure A3.23 Denmark export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>96 <lb/></page>
+
+			<body>Figure A3.24 Denmark import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>97 <lb/></page>
+
+			<body>Figure A3.25 Finland export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/>98 <lb/>Figure A3.26 Finland import breakdown by origin <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>99 <lb/></page>
+
+			<body>Figure A3.27 Greece export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>100 <lb/></page>
+
+			<body>Figure A3.28 Greece import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>101 <lb/></page>
+
+			<body>Figure A3.29 Hungary export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>102 <lb/></page>
+
+			<body>Figure A3.30 Hungary import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>103 <lb/></page>
+
+			<body>Figure A3.31 Iceland export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>104 <lb/></page>
+
+			<body>Figure A3.32 Iceland import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>105 <lb/></page>
+
+			<body>Figure A3.33 Ireland export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>106 <lb/></page>
+
+			<body>Figure A3.34 Ireland import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>107 <lb/></page>
+
+			<body>Figure A3.35 Korea export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>108 <lb/></page>
+
+			<body>Figure A3.36 Korea import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>109 <lb/></page>
+
+			<body>Figure A3.37 Luxembourg export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>110 <lb/></page>
+
+			<body>Figure A3.38 Luxembourg import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>111 <lb/></page>
+
+			<body>Figure A3.39 Mexico export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>112 <lb/></page>
+
+			<body>Figure A3.40 Mexico import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>113 <lb/></page>
+
+			<body>Figure A3.41 Netherlands export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>114 <lb/></page>
+
+			<body>Figure A3.42 Netherlands import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>115 <lb/></page>
+
+			<body>Figure A3.43 New Zealand export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>116 <lb/></page>
+
+			<body>Figure A3.44 New Zealand import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>117 <lb/></page>
+
+			<body>Figure A3.45 Norway export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>118 <lb/></page>
+
+			<body>Figure A3.46 Norway import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>119 <lb/></page>
+
+			<body>Figure A3.47 Poland export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>120 <lb/></page>
+
+			<body>Figure A3.48 Poland import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>121 <lb/></page>
+
+			<body>Figure A3.49 Portugal export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>122 <lb/></page>
+
+			<body>Figure A3.50 Portugal import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>123 <lb/></page>
+
+			<body>Figure A3.51 Slovak Republic export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>124 <lb/></page>
+
+			<body>Figure A3.52 Slovak Republic import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>125 <lb/></page>
+
+			<body>Figure A3.53 Spain export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>126 <lb/></page>
+
+			<body>Figure A3.54 Spain import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>127 <lb/></page>
+
+			<body>Figure A3.55 Sweden export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>128 <lb/></page>
+
+			<body>Figure A3.56 Sweden import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>129 <lb/></page>
+
+			<body>Figure A3.57 Switzerland export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>130 <lb/></page>
+
+			<body>Figure A3.58 Switzerland import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>131 <lb/></page>
+
+			<body>Figure A3.59 Turkey export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>132 <lb/></page>
+
+			<body>Figure A3.60 Turkey import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>133 <lb/></page>
+
+			<body>Figure A3.61 China export breakdown by destination <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>134 <lb/></page>
+
+			<body>Figure A3.62 China import breakdown by origin <lb/>ECO/WKP(2010)67 <lb/></body>
+
+			<page>135 <lb/></page>
+
+			<body>WORKING PAPERS <lb/>The full series of Economics Department Working Papers can be consulted at www.oecd.org/eco/workingpapers/ <lb/>810. Enhancing the effectiveness of social policies in Indonesia <lb/>(October 2010) by Margherita Comola and Luiz de Mello <lb/>809. Tackling the infrastructure challenge in Indonesia <lb/>(October 2010) by Mauro Pisu <lb/>808. Phasing out energy subsidies in Indonesia <lb/>(October 2010) by Annabelle Mourougane <lb/>807. Implementing cost-effective policies in the United States to mitigate climate change <lb/>(October 2010) by David Carey <lb/>806. Restoring fiscal sustainability in the United States <lb/>(October 2010) by Patrick Lenain, Bob Hagemann and David Carey <lb/>805. Norway: Sustainable development: climate change and fisheries policies <lb/>(September 2010) by Paul O&apos;Brien <lb/>804. Netherlands: How the transport system can contribute to better economic and environmental <lb/>outcomes <lb/>(September 2010) by Tomasz Koźluk <lb/>803. Public-private partnerships and investment in infrastructure <lb/>(September 2010) by Sónia Araújo and Douglas Sutherland <lb/>802. Sustaining the momentum of fiscal reform <lb/>(September 2010) by Colin Forthun and Robert Hagemann <lb/>801. The consequences of banking crises for public debt <lb/>(September 2010) by Davide Furceri and Aleksandra Zdzienicka <lb/>800. A simulation model of federal, provincial and territorial government accounts for the analysis of <lb/>fiscal-consolidation strategies in Canada <lb/>(September 2010) by Yvan Guillemette <lb/>799. Product market regulation: extending the analysis beyond OECD countries <lb/>(October 2010) by Anita Wölfl, Isabelle Wanner, Oliver Röhn, Giuseppe Nicoletti <lb/>798. Korea&apos;s green growth strategy: mitigating climate change and developing new growth engines <lb/>(July 2010) by Randall S. Jones and Byungseo Yoo <lb/>797. Health-care reform in Korea <lb/>(July 2010) by Randall S. Jones <lb/></body>
+
+			<note place="headnote">ECO/WKP(2010)67 <lb/></note>
+
+			<page>136 <lb/></page>
+
+			<body>796. The Korean financial system: overcoming the global financial crisis and addressing remaining <lb/>problems <lb/>(July 2010) by Masahiko Tsutsumi, Randall S. Jones and Thomas F. Cargill <lb/>795. Are global imbalances sustainable? Post-crisis scenarios <lb/>(July 2010) by Luiz de Mello and Pier Carlo Padoan <lb/>794. Is there a case for carbon-based border tax adjustment? An applied general equilibrium analysis <lb/>(July 2010) by Jean-Marc Burniaux, Jean Chateau and Romain Duval <lb/>793. Promoting potential growth: The role of structural reform <lb/>(July 2010) by Luiz de Mello and Pier Carlo Padoan <lb/>792. Catching-up and inflation in Europe: Balassa-Samuelson, Engel&apos;s law and other culprits <lb/>(July 2010) by Balázs Égert <lb/>791. Do product market regulations in upstream sectors curb productivity growth? Panel data evidence <lb/>for OECD countries <lb/>(July 2010) by Renaud Bourlès, Gilbert Cette, Jimmy Lopez, Jacques Mairesse, Giuseppe Nicoletti <lb/>790. Preparing for Euro adoption in Poland <lb/>(July 2010) by Rafal Kierzenkowski <lb/>789. Gauging the impact of higher capital and oil costs on potential output <lb/>(June 2010) by Boris Cournède <lb/>788. The German banking system: lessons from the financial crisis <lb/>(June 2010) by Felix Hüfner <lb/>787. Measuring competition in Slovenian industries -estimation of mark-ups <lb/>(June 2010) by Margit Molnar <lb/>786. Enhancing financial stability through better regulation in Hungary <lb/>(June 2010) by Margit Molnar <lb/>785. Chile: Boosting productivity growth by strengthening competition, entrepreneurship and innovation <lb/>(June 2010) by Cyrille Schwellnus <lb/>784. Chile: Climbing on giants&apos; shoulders: better schools for all Chilean children <lb/>(June 2010) by Nicola Brandt <lb/>783. Israel: Monetary and fiscal policy <lb/>(June 2010) by Charlotte Moeser <lb/>782. Policy options for reducing poverty and raising employment rates in Israel <lb/>(June 2010) by Philip Hemmings <lb/>781. Israeli education policy: How to move ahead in reform <lb/>(June 2010) by Philip Hemmings </body>
+
+
+	</text>
+</tei>

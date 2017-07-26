@@ -1,0 +1,35 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+
+        0
+        <bibl>.245***<lb/> 0.184***<lb/> 0.189***<lb/> (0.00596)<lb/> (0.00565)<lb/> (0.00569)<lb/> </bibl>
+<bibl>Age<lb/> -0.0506***<lb/> -0.0497***<lb/> -0.0485***<lb/> (0.00163)<lb/> (0.00156)<lb/> (0.00160)<lb/> Age square<lb/> 0.000402***<lb/> 0.000401***<lb/> 0.000373***<lb/> (1.73e-05)<lb/> (1.66e-05)<lb/> (1.70e-05)<lb/> </bibl>
+<bibl>Gender (Male)<lb/> -0.191***<lb/> -0.180***<lb/> -0.173***<lb/> (0.0101)<lb/> (0.00952)<lb/> (0.00989)<lb/> Secondary education<lb/> 0.600***<lb/> 0.448***<lb/> 0.546***<lb/> (0.0169)<lb/> (0.0161)<lb/> (0.0165)<lb/> Tertiary education<lb/> 0.964***<lb/> 0.781***<lb/> 0.856***<lb/> (0.0188)<lb/> (0.0181)<lb/> (0.0184)<lb/> Social connections<lb/> 0.913***<lb/> 0.864***<lb/> 0.900***<lb/> (0.0189)<lb/> (0.0179)<lb/> (0.0186)<lb/> </bibl>
+<bibl>References<lb/> </bibl>
+<bibl>Bjørnskov, C., Dreher, A. and J. Fischer (2006), Cross-country determinants of life satisfaction: exploring<lb/> different determinants across groups in society. Arbeitspapiere // Konjunkturforschungsstelle,<lb/> Eidgenössische Technische Hochschule Zürich, No. 145.<lb/> </bibl>
+<bibl>Bourdieu, P. (1986), The Forms of Capital, in Richardson, John G., ed., Handbook of Theory and Research<lb/> for the Sociology of Education, New York: Greenwood.<lb/> </bibl>
+<bibl>Di Tella, R. and R. McCulloch (2006), &quot; Some uses of happiness data in economics &quot; , Journal of economic<lb/> perspectives, Vol. 20, No. 1, pp. 25-46.<lb/> </bibl>
+<bibl>Eurostat<lb/> (2015)<lb/> Quality<lb/> of<lb/> Life<lb/> in<lb/> Europe,<lb/> http://ec.europa.eu/eurostat/statistics-<lb/>explained/index.php/Quality_of_life_in_Europe_-_facts_and_views_-_overall_life_satisfaction.<lb/> </bibl>
+<bibl>Lucas J. L. and R. B. Heady (2002), &quot; Flextime Commuters and Their Driver Stress, Feelings of Time<lb/> Urgency, and Commute Satisfaction &quot; , Journal of Business and Psychology, 2002, Vol. 16, No. 4,<lb/> page 565.<lb/> </bibl>
+<bibl>Fleurbay (1996) Théories économiques de la justice, Paris: Economica.<lb/> </bibl>
+<bibl>Helliwell, J. (2005) Well-being, social capital and public policy: What&apos;s new? NBER Working Paper<lb/> 11807, available at: http://www.nber.org/papers/w11807.pdf.<lb/> </bibl>
+<bibl>Helliwell, J. F. and H. Huang (2011) Well-Being and Trust in the Workplace. Journal of Happiness<lb/> Studies, DOI: 10.1007/s10902-010-9225-7.<lb/> </bibl>
+<bibl>Istat<lb/> (2013)<lb/> Rapporto<lb/> Benessere<lb/> Equo<lb/> e<lb/> Sostenibile,<lb/> available<lb/> at:<lb/> http://www.istat.it/en/files/2013/03/bes_2013.pdf.<lb/> </bibl>
+<bibl>Layard, R. (2005) Happiness: Lessons from a New Science, London, Allen Lane.<lb/> </bibl>
+<bibl>OECD (2015a), Measuring<lb/> Well-being<lb/> in<lb/> Mexican<lb/> States,<lb/> OECD<lb/> Publishing,<lb/> Paris,<lb/> http://dx.doi.org/10.1787/9789264246072-en.<lb/> </bibl>
+<bibl>OECD (2015b), How&apos;s Life? 2015: Measuring Well-being, OECD Publishing, Paris,<lb/> http://dx.doi.org/10.1787/how_life-2015-en.<lb/> </bibl>
+<bibl>OECD (2014), How&apos;s Life in Your Region?, Measuring Regional and Local Well-being for Policy Making,<lb/> OECD Publishing, Paris, http://dx.doi.org/10.1787/9789264217416-en.<lb/> </bibl>
+<bibl>OECD (2013), OECD Guidelines on Measuring Subjective Well-being, OECD Publishing, Paris,<lb/> http://dx.doi.org/10.1787/9789264191655-en.<lb/> </bibl>
+<bibl>Office for National Statistics (2015) Measuring national well-being; Personal well-being in the UK.<lb/> </bibl>
+<bibl>Office for National Statistics (2014) Commuting and personal well-being.<lb/> </bibl>
+<bibl>Putnam, R. (2001), Bowling Alone: The Collapse and Revival of American Community, New York:<lb/> Simon &amp; Schuster.<lb/> </bibl>
+<bibl>Stiglitz J.E., A. Sen and J.-P. Fitoussi (2009), Report by the Commission on the Measurement of Economic<lb/> Performance<lb/> and<lb/> Social<lb/> Progress,<lb/> available<lb/> at:<lb/> http://www.stiglitz-sen-<lb/>fitoussi.fr/documents/rapport_anglais.pdf.<lb/> </bibl>
+<bibl>Stutzer, A. and B. Frey (2004), Stress that doesn&apos;t pay: the commuting paradox. IZA Discussion Paper n.<lb/> 1278, available at: http://ftp.iza.org/dp1278.pdf.</bibl>
+        </listBibl>
+    </text>
+</tei>
+

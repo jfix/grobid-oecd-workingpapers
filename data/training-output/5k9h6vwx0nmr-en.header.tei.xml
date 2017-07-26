@@ -1,0 +1,91 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="5k9h6vwx0nmr-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>OECD DEVELOPMENT CENTRE<lb/> REVISITING MDG COST ESTIMATES FROM A DOMESTIC<lb/> RESOURCE MOBILISATION PERSPECTIVE<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>by<lb/> Vararat Atisophon, Jesus Bueren, Gregory De Paepe, Christopher Garroway<lb/> and Jean-Philippe Stijns<lb/></docAuthor>
+	</byline>
+
+	<note type="other">Research areas:<lb/> African Economic Outlook<lb/> and Perspectives on Global Development<lb/></note>
+
+	<date>December 2011<lb/></date>
+
+	<byline>
+	<docAuthor>CENTRE DE<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>DÉVELOPPEMENT<lb/> CENTRE<lb/> DEVELOPMENT<lb/></affiliation>
+	</byline>
+
+	<docTitle>
+	<titlePart>Working Paper No. 306<lb/> Revisiting MDG Cost Estimates from a Domestic Resource Mobilisation Perspective<lb/></titlePart>
+	</docTitle>
+
+	<note type="other">DEV/DOC(2011)14<lb/> 2<lb/></note>
+
+	<note type="copyright">© OECD 2011<lb/></note>
+
+	<note type="other">DEVELOPMENT CENTRE<lb/> WORKING PAPERS<lb/> This series of working papers is intended to disseminate the Development Centre&apos;s<lb/> research findings rapidly among specialists in the field concerned. These papers are generally<lb/> available in the original English or French, with a summary in the other language.<lb/> Comments on this paper would be welcome and should be sent to the OECD<lb/> Development Centre,</note>
+
+	<address>2 rue André Pascal, 75775 PARIS CEDEX 16, France;</address>
+
+	<div type="abstract">or to<lb/> dev.contact@oecd.org. Documents may be downloaded from: http://www.oecd.org/dev/wp or<lb/> obtained via e-mail (dev.contact@oecd.org).<lb/></div>
+
+	<docTitle>
+	<titlePart>THE OPINIONS EXPRESSED AND ARGUMENTS EMPLOYED IN THIS DOCUMENT ARE THE SOLE RESPONSIBILITY OF THE AUTHORS AND<lb/> DO NOT NECESSARILY REFLECT THOSE OF THE OECD OR OF THE GOVERNMENTS OF ITS MEMBER COUNTRIES<lb/></titlePart>
+	</docTitle>
+
+	<note type="copyright">©OECD (2011)<lb/> Applications for permission to reproduce or translate all or part of this document should be sent to<lb/> rights@oecd.org<lb/></note>
+
+	<docTitle>
+	<titlePart>CENTRE DE DÉVELOPPEMENT<lb/> DOCUMENTS DE TRAVAIL<lb/></titlePart>
+	</docTitle>
+
+	<p type="introduction">Cette série de documents de travail a pour but de diffuser rapidement auprès des<lb/> spécialistes dans les domaines concernés les résultats des travaux de recherche du Centre de<lb/> développement. Ces documents ne sont disponibles que dans leur langue originale, anglais ou<lb/> français ; un résumé du document est rédigé dans l&apos;autre langue.<lb/> Tout commentaire relatif à ce document peut être adressé au Centre de développement<lb/> de l&apos;OCDE,</p>
+
+	<address>2 rue André Pascal, 75775 PARIS CEDEX 16, France;</address>
+
+	<div type="abstract">ou à dev.contact@oecd.org. Les<lb/> documents peuvent être téléchargés à partir de: http://www.oecd.org/dev/wp ou obtenus via le<lb/> mél (dev.contact@oecd.org)</div>
+
+	<note type="degree">.<lb/> LES IDÉES EXPRIMÉES ET LES ARGUMENTS AVANCÉS DANS CE DOCUMENT SONT CEUX DES AUTEURS ET NE REFLÈTENT PAS<lb/> NÉCESSAIREMENT CEUX DE L&apos;OCDE OU DES GOUVERNEMENTS DE SES PAYS MEMBRES<lb/></note>
+
+	<p type="introduction">©OCDE (2011)<lb/> Les demandes d&apos;autorisation de reproduction ou de traduction de tout ou partie de ce document devront<lb/> être envoyées à rights@oecd.org.<lb/> OECD Development Centre Working Paper No.306<lb/> DEV/DOC(2011)14<lb/> © OECD 2011<lb/> 3<lb/> OECD Development Centre Working Paper No.306<lb/> DEV/DOC(2011)14<lb/> © OECD 2011<lb/> 5<lb/> TABLE OF CONTENTS<lb/> ACKNOWLEDGEMENTS .......................................................................................................................... 6<lb/> PREFACE ....................................................................................................................................................... 7<lb/> RÉSUMÉ ........................................................................................................................................................ 9<lb/> ABSTRACT .................................................................................................................................................. 10<lb/> I. INTRODUCTION ................................................................................................................................... 11<lb/> II. PUTTING MDG COSTING AND DEVELOPMENT FINANCE INTO CONTEXT ..................... 14<lb/> III. METHODS FOR COSTING MDG ACHIEVEMENT AND MEASURING DOMESTIC<lb/> RESOURCES................................................................................................................................................ 21<lb/> IV. RESULTS OF COST ESTIMATES AND DOMESTIC RESOURCE MEASUREMENT ............... 30<lb/> V. CONCLUSIONS .................................................................................................................................... 47<lb/> REFERENCES ............................................................................................................................................. 49<lb/> ANNEX 1: CALCULATING THE FINANCING GAP .......................................................................... 52<lb/> ANNEX 2: ESTIMATING TAX EFFORT................................................................................................. 54<lb/> ANNEX 3: HEALTH-RELATED CALCULATIONS ............................................................................. 56<lb/> OTHER TITLES IN THE SERIES/ AUTRES TITRES DANS LA SÉRIE .............................................. 58<lb/> Revisiting MDG Cost Estimates from a Domestic Resource Mobilisation Perspective<lb/> DEV/DOC(2011)14<lb/> 6<lb/></p>
+
+	<note type="copyright">© OECD 2011<lb/></note>
+
+	<docTitle>
+	<titlePart>ACKNOWLEDGEMENTS<lb/></titlePart>
+	</docTitle>
+
+	<note type="other">The authors would first like to thank the Bill and Melinda Gates Foundation for their<lb/> generous grant to carry out this study. This research was also made possible by the financial<lb/> support of the DG for Globalisation, Development and Partnerships of the French Ministry of<lb/> Foreign Affairs.<lb/> Several people devoted their time to reviewing earlier versions of this paper and<lb/> providing helpful comments:</note>
+
+	<byline>
+	<docAuthor>Emily Bosch, Fredrik Ericsson, Homi Kharas, Mumukshu Patel,<lb/> Simon Scott, Benedicte Vibe Christensen and</docAuthor>
+	</byline>
+
+	<p type="introduction">one anonymous reviewer. The authors are grateful<lb/> to colleagues at the OECD Development Centre for regular comments and feedback. Jennifer<lb/> Jefferson provided very helpful editorial comments.<lb/> Comments and suggestions were also received from participants at the workshop on<lb/> &quot; Costing MDGs&apos;: Investing in Development at the horizon 2015 and beyond &quot; jointly organised<lb/> by the OECD Development Centre and its partners SAIIA, the South African Treasury and the<lb/> UNDP South Africa office at the South African National Treasury, on Monday 14th November<lb/> 2011.<lb/> Errors, shortcomings and the views expressed remain the responsibility of the authors.<lb/> OECD Development Centre Working Paper No.306<lb/> DEV/DOC(2011)14<lb/> © OECD 2011<lb/> 7<lb/> PREFACE<lb/> Almost ten years after the Monterrey Conference, financing development remains a major<lb/> challenge on the international agenda. The landscape of development finance has evolved, with<lb/> the emergence of new actors and sources of financing. In parallel, efforts have been made to<lb/> improve the efficiency of the international financing architecture. The conclusions of the Fourth<lb/> High Level Forum on Aid Effectiveness point to the need to broaden attention beyond aid<lb/> effectiveness to the challenges of effective development. This has called for the establishment of a<lb/> new, inclusive and representative Global Partnership for Effective Development Co-operation.<lb/> Assessing the magnitude of the remaining financing challenges is paramount to support<lb/> the advancement of the international development debate, including the achievement of the<lb/> Millennium Development Goals (MDGs). Surprisingly, few estimates or projections on MDG<lb/> costs have been prepared for all developing countries. This paper fills this void by providing<lb/> fresh orders of magnitude about the cost of reaching the MDGs by 2015. It goes on further to<lb/> argue that the scale of financing needed to achieve the MDGs requires that development finance<lb/> looks beyond official development assistance as its principal resource.<lb/> As the economic crisis weighs on public budgets in OECD donor countries, the challenge<lb/> of meeting the MDGs at the global level is shown in this paper to be unaffordable using official<lb/> development assistance alone. In fact, improved domestic tax collection continues to make a<lb/> growing contribution to the financing of development in all developing countries. This paper<lb/> however shows that in many low-income countries, domestic taxes still cannot be expected to<lb/> help to meet the MDGs in the foreseeable future. Raising additional revenue takes time in low-<lb/>income countries and it requires a determined effort to strengthen institutional capacity. Making<lb/> sure that these new resources do help to meet the MDGs will require an additional political<lb/> effort. Indeed, the poor quality of public expenditure remains a major hurdle for developing<lb/> countries to meet the aspirations of their citizens.<lb/> Achieving the MDGs therefore requires many conditions besides financing. It requires<lb/> good institutions to design, implement and evaluate policies, notably in the form of strong public<lb/> expenditure management at and across all levels of government, good implementation capacity,<lb/> and a medium-term fiscal policy that ensures the sustainability of the MDGs. Effective public<lb/> expenditures and the nexus between revenues and expenditures are at the core of the OECD&apos;s<lb/> work and will feature prominently in the Global Forum on Development 2012.<lb/> Revisiting MDG Cost Estimates from a Domestic Resource Mobilisation Perspective<lb/> DEV/DOC(2011)14<lb/> 8<lb/> © OECD 2011<lb/> The OECD Development Centre is committed to improving the quality of government<lb/> expenditure with the aim of ensuring competiveness and of improving social cohesion in<lb/> developing and emerging countries. This paper is meant to feed the corresponding policy<lb/> dialogue amongst the Centre&apos;s member countries.<lb/> Mario PEZZINI<lb/> Director<lb/> OECD Development Centre<lb/> December 2011<lb/> OECD Development Centre Working Paper No.306<lb/> DEV/DOC(2011)14<lb/> © OECD 2011<lb/> 9<lb/> RÉSUMÉ<lb/> Ce document présente une nouvelle estimation du montant des ressources financières<lb/> nécessaires aux pays en voie de développement pour atteindre les Objectifs du Millénaire pour le<lb/> développement (OMDs). Les approches utilisées jusqu&apos;à présent mettent trop souvent l&apos;accent<lb/> sur l&apos;aide publique au développement (APD) et négligent le potentiel des autres sources de<lb/> financement, comme les recettes fiscales nationales ou les flux de capitaux privés. Le document<lb/> fournit une estimation du besoin de financement additionnel pour atteindre les OMDs en<lb/> matière de pauvreté, d&apos;éducation et de santé; il estime également le montant qui pourrait être<lb/> couvert par un accroissement des revenus fiscaux des pays en voie de développement. Au<lb/> niveau mondial, en moyenne, le potentiel représenté par une amélioration de la collecte fiscale<lb/> correspond au montant des ressources supplémentaires nécessaires pour atteindre les OMDs.<lb/> Pour beaucoup de pays pris individuellement, toutefois, d&apos;importantes ressources externes<lb/> seront encore nécessaires. La communauté internationale peut jouer un rôle important en<lb/> élargissant sa notion de coopération au-delà de la mobilisation de l&apos;aide publique au<lb/> développement officielle afin d&apos;assurer les ressources nécessaires pour ce financement<lb/> supplémentaire.<lb/> Classification JEL: I15, I25, I32, F35, O19.<lb/></p>
+
+	<keyword>Mots clés: Objectifs Millénaires du Développement, Financement du Développement,<lb/> Réduction de la pauvreté, mobilisation des ressources domestiques, éducation, santé<lb/> Revisiting MDG Cost Estimates from a Domestic Resource Mobilisation Perspective<lb/></keyword>
+
+	<note type="other">DEV/DOC(2011)14<lb/> 10<lb/></note>
+
+	<note type="copyright">© OECD 2011<lb/></note>
+
+	<div type="abstract">ABSTRACT<lb/> This paper revisits global costing estimates of the size of additional financial resources<lb/> needed in developing countries in order to achieve the Millennium Development Goals (MDGs).<lb/> It argues that earlier approaches to calculating the cost of financing the MDGs focus narrowly on<lb/> aid as the principal source of additional resources for MDG achievement without paying<lb/> adequate attention to the scope for other resources to contribute to MDG achievement, such as<lb/> domestic tax revenues or private capital flows. The approximate additional cost of achieving the<lb/> poverty, education, and health Millennium Development Goals are calculated and an estimate of<lb/> the scope for increased tax revenues in developing countries is provided. Although at the global<lb/> level the magnitude of potential additional resources available from improved tax collection is<lb/> similar to that of the additional resources needed to achieve the goals, on a country by country<lb/> basis substantial external resources will still be needed. The paper suggests the international<lb/> community needs to broaden its notion of development co-operation beyond official<lb/> development assistance in order to secure sources for this additional finance.<lb/> JEL Classification: F35, H20, H50, I15, I25, I32, O19<lb/></div>
+
+	<keyword>Keywords: Millennium Development Goals, Development Finance, Poverty reduction,<lb/> domestic resource mobilisation, education, health<lb/></keyword>
+
+	<p type="introduction">OECD Development Centre Working Paper No.306<lb/> DEV/DOC(2011)14<lb/> © OECD 2011<lb/> 11<lb/> 1. Using the Poverty Gap to Calculate Transfers to the Poor (MDG 1)<lb/> The poverty gap index provides a useful yardstick to measure how much the investment<lb/> requirements calculated above correspond to the actual needs of poor people in each country in<lb/> OECD Development Centre Working Paper No.306<lb/> DEV/DOC(2011)14<lb/> © OECD 2011<lb/> 25</p>
+
+		</front>
+	</text>
+</tei>

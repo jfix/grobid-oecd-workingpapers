@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="242020221356"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">http://www.oecd.org/sti/working-papers<lb/></note>
+
+	<note type="copyright">© Copyright OECD/OCDE, 2007.<lb/></note>
+
+	<idno>DSTI/DOC(2007)8<lb/></idno>
+
+	<note type="other">3<lb/></note>
+
+	<docTitle>
+	<titlePart>THE MEASUREMENT OF GLOBALISATION USING INTERNATIONAL INPUT-OUTPUT<lb/> TABLES<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Koen De Backer<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Science and Technology Policy Division and Economic Analysis and Statistics Division<lb/> Directorate for Science, Technology and Industry (DSTI), OECD<lb/></affiliation>
+	</byline>
+
+	<email>koen.debacker@oecd.org<lb/></email>
+
+	<byline>
+	<docAuthor>Norihiko Yamano<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Economic Analysis and Statistics Division<lb/> Directorate for Science, Technology and Industry (DSTI), OECD<lb/></affiliation>
+	</byline>
+
+	<email>norihiko.yamano@oecd.org<lb/></email>
+
+	<div type="abstract">ABSTRACT<lb/> One of the distinctive characteristics of the current globalisation process is the emergence of global<lb/> value chains. Within global value chains and international production networks, not only are final goods<lb/> traded internationally, but intermediate goods (parts and components) and, in recent years, services also<lb/> increasingly are. This trend significantly alters the economic relations between countries and increasingly<lb/> casts doubt on empirical indicators such as trade and FDI that are traditionally used to measure<lb/> globalisation. Input-output tables may provide much finer detail in describing current globalisation as they<lb/> offer information on the use of goods instead of the rather arbitrary classification schemes that divide<lb/> goods into intermediate and other categories. Moreover, input-output tables also incorporate information<lb/> on the use of services, enabling measurement of the increasing offshoring of service activities in today&apos;s<lb/> business activities. Based on the OECD Input-Output Database, which includes harmonised tables for 38<lb/> countries (of which 10 emerging non-OECD economies), this paper brings together empirical evidence on<lb/> the growing importance of global value chains and the increasing interdependence between countries.<lb/> Input-output indicators are presented for individual countries and individual industries, aiming to<lb/> demonstrate the changing characteristics of current globalisation.<lb/></div>
+
+	<p type="introduction">DSTI/DOC(2007)8<lb/> 4<lb/> TABLE OF CONTENTS<lb/> Introduction ................................................................................................................................................. 5<lb/> The OECD Input-Output Database ............................................................................................................. 7<lb/> Indicators on global linkages ..................................................................................................................... 12<lb/> Indicators on offshoring ............................................................................................................................ 15<lb/> Calculating higher-order effects: embodied imports and the foreign content of exports .......................... 22<lb/> Employment effects – job embodiment of trade ....................................................................................... 26<lb/> Conclusions and future directions for research ......................................................................................... 29<lb/> REFERENCES ............................................................................................................................................. 30<lb/> DSTI/DOC(2007)8<lb/> DSTI/DOC(2007)8</p>
+
+		</front>
+	</text>
+</tei>

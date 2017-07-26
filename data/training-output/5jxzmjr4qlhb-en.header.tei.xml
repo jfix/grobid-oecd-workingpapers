@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="5jxzmjr4qlhb-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<byline>
+	<affiliation>M A K I<lb/></affiliation>
+	</byline>
+
+	<docTitle>
+	<titlePart>Public Financial Management<lb/> in Infrastructure in Africa<lb/> OECD DEVELOPMENT CENTRE<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>by Nana Boateng (CABRI), Marie Castaing Gachassin</docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>(University of Paris 1<lb/> Panthéon-Sorbonne),</affiliation>
+	</byline>
+
+	<byline>
+	<docAuthor>Emilie Gay (CABRI) and Laura Recuero-Virto (OECD<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>Development Centre)<lb/></affiliation>
+	</byline>
+
+	<idno>Working Paper No. 323<lb/></idno>
+
+	<note type="other">Research area: Africa<lb/></note>
+
+	<date>July 2014<lb/></date>
+
+	<byline>
+	<affiliation>Authorised for publication by Mario Pezzini,<lb/> Director, OECD Development Centre<lb/></affiliation>
+	</byline>
+
+	<note type="other">Public financial management in infrastructure in Africa<lb/> DEV/DOC(2014)2<lb/> 2<lb/></note>
+
+	<note type="copyright">© OECD/CABRI 2014<lb/></note>
+
+	<note type="other">DEVELOPMENT CENTRE<lb/> WORKING PAPERS<lb/> This series of working papers is intended to disseminate the Development Centre&apos;s<lb/> research findings rapidly among specialists in the field concerned. These papers are generally<lb/> available in the original English or French, with a summary in the other language.<lb/> OECD Working Papers should not be reported as representing the official views of the<lb/> OECD or of its member countries. The opinions expressed and arguments employed are<lb/> those of the authors. Working Papers describe preliminary results or research in progress<lb/> by the author(s) and are published to stimulate discussion on a broad range of issues on<lb/> which the OECD works.<lb/> Comments on Working Papers are welcomed, and may be sent to the OECD Development<lb/> Centre,</note>
+
+	<address>2 rue André Pascal, 75775 PARIS CEDEX 16, France</address>
+
+	<email>; or to dev.contact@oecd.org.<lb/></email>
+
+	<ptr type="web">Documents may be downloaded from: http://www.oecd.org/dev/wp<lb/></ptr>
+
+	<note type="copyright">©OECD (2014)<lb/> Applications for permission to reproduce or translate all or part of this document should be sent to<lb/> rights@oecd.org<lb/></note>
+
+	<docTitle>
+	<titlePart>CENTRE DE DÉVELOPPEMENT<lb/> DOCUMENTS DE TRAVAIL<lb/></titlePart>
+	</docTitle>
+
+	<p type="introduction">Cette série de documents de travail a pour but de diffuser rapidement auprès des<lb/> spécialistes dans les domaines concernés les résultats des travaux de recherche du Centre de<lb/> développement. Ces documents ne sont disponibles que dans leur langue originale, anglais ou<lb/> français ; un résumé du document est rédigé dans l&apos;autre langue.<lb/> Les documents de travail de l&apos;OCDE ne doivent pas être présentés comme exprimant les<lb/> vues officielles de l&apos;OCDE ou de ses pays membres. Les opinions exprimées et les<lb/> arguments employés sont ceux des auteurs.<lb/> Les documents de travail exposent des résultats préliminaires ou des travaux de<lb/> recherche en cours menés par l&apos;auteur/les auteurs et sont publiés pour stimuler le débat<lb/> sur un large éventail de questions sur lesquelles l&apos;OCDE travaille. Les commentaires sur<lb/> les documents de travail sont bienvenus et peuvent être adressés au Centre de<lb/> développement de l&apos;OCDE, 2 rue André Pascal, 75775 PARIS CEDEX 16, France; ou à<lb/> dev.contact@oecd.org. Les documents peuvent être téléchargés à partir de:<lb/> http://www.oecd.org/dev/wp ou obtenus via le mél (dev.contact@oecd.org).<lb/> ©OCDE (2014)<lb/> Les demandes d&apos;autorisation de reproduction ou de traduction de tout ou partie de ce document devront<lb/> être envoyées à rights@oecd.org<lb/> OECD Development Centre Working Paper No.323<lb/> DEV/DOC(2014)2<lb/> © OECD/CABRI 2014<lb/> 3<lb/> TABLE OF CONTENTS<lb/> ACKNOWLEDGEMENTS .......................................................................................................................... 4<lb/> PREFACE ....................................................................................................................................................... 5<lb/> RESUMÉ ........................................................................................................................................................ 6<lb/> ABSTRACT .................................................................................................................................................... 7<lb/> I. INTRODUCTION ..................................................................................................................................... 8<lb/> II. BUDGETING AND PLANNING OF INFRASTRUCTURE INVESTMENTS ............................... 11<lb/> II.1. Selection of projects ......................................................................................................................... 11<lb/> II.2 Prioritisation ...................................................................................................................................... 13<lb/> II.3. Multi-year budgeting and planning ............................................................................................. 14<lb/> III. THE FINANCING OF AFRICAN INFRASTRUCTURE ................................................................. 15<lb/> III.1. The different sources of financing for infrastructure ................................................................ 15<lb/> III.2. Over versus under-spending ......................................................................................................... 18<lb/> IV. INSTITUTIONAL ARCHITECTURE FOR FINANCING INFRASTRUCTURE ......................... 20<lb/> IV.1. Revenue mobilisation and financing through deficit ............................................................... 20<lb/> IV.2. The institutional architecture of public funds ........................................................................... 21<lb/> V. ROLE OF GOVERNMENTS IN THE USE OF PUBLIC FUNDS .................................................... 27<lb/> V.1. Is public financing of infrastructure effective in Africa? ........................................................... 27<lb/> V.2. Does public financing of infrastructure in Africa follow the rules of fiscal prudence? ........ 28<lb/> V.3. Is public financing of infrastructure efficient in Africa? ............................................................ 29<lb/> VI. CONCLUSION ..................................................................................................................................... 31<lb/> REFERENCES ............................................................................................................................................. 34<lb/> APPENDIX 1: ABOUT CABRI .................................................................................................................. 37<lb/> APPENDIX 2: QUESTIONNAIRE ........................................................................................................... 38<lb/> APPENDIX 3: ASIAN COUNTRIES SUMMARIES ............................................................................... 47<lb/> APPENDIX 4: FOCUS ON THE DEMOCRATIC REPUBLIC OF CONGO AND KENYA ............. 69<lb/> OTHER TITLES IN THE SERIES/ AUTRES TITRES DANS LA SÉRIE .............................................. 70<lb/> Public financial management in infrastructure in Africa<lb/> DEV/DOC(2014)2<lb/> 4<lb/> © OECD/CABRI 2014<lb/> ACKNOWLEDGEMENTS<lb/> This Working Paper builds on the analytical framework and questionnaire elaborated by<lb/> Laura Recuero-Virto at the OECD Development Centre, in close collaboration with Nana<lb/> Boateng of the Collaborative Africa Budget Reform Initiative (CABRI). Marie<lb/> Castaing Gachassin, from the University of Paris 1 Panthéon-Sorbonne, analysed the results<lb/> and drafted the paper in collaboration with Emilie Gay of the CABRI Secretariat. Also at the<lb/> Development Centre, Sebastian Nieto Parra provided precious guidance throughout the<lb/> project, which Gregory De Paepe helped bring to fruition.<lb/> The authors wish to express their sincere gratitude to the budget officials from the following<lb/> countries of the CABRI network who agreed to respond to the questionnaire: Benin,<lb/></p>
+
+	<address>Botswana, Burundi, Cabo Verde, Cameroon, Chad, Democratic Republic of Congo, Djibouti,<lb/> Gambia, Kenya, Lesotho, Madagascar, Mauritius, Morocco, Namibia, Niger, Rwanda, São<lb/></address>
+
+	<byline>
+	<docAuthor>Tomé and Príncipe, Sierra Leone, Republic of Sudan, Tunisia and Zimbabwe.<lb/></docAuthor>
+	</byline>
+
+	<p type="introduction">OECD Development Centre Working Paper No.323<lb/> DEV/DOC(2014)2<lb/> © OECD/CABRI 2014<lb/> 5<lb/> PREFACE<lb/> Better infrastructure is badly needed to improve the lives of African people and to<lb/> strengthen the competitiveness of African economies. This has been documented, among others,<lb/> in the successive editions of the African Economic Outlook, which the OECD Development<lb/> Centre has published jointly with the African Development Bank since 2002. The extent of the<lb/> challenge is also well recorded: to close the gap with other parts of the world and achieve<lb/> national development targets on the continent, the World Bank estimates that $93 billion must be<lb/> spent on infrastructure every year over a ten-year period.<lb/> Can this challenge be met? There are some encouraging signs, such as the launching of<lb/> the Programme for Infrastructure Development in Africa by the African Union Commission, the<lb/> NEPAD Secretariat and the African Development Bank. In addition, higher growth, windfall<lb/> revenues from natural resources and debt cancellations have increased the fiscal space for many<lb/> African governments to invest in infrastructure. However, serious concerns remain. In particular<lb/> the ambition of mobilising private investment on a significant scale, for instance in the form of<lb/> public-private partnerships, has yet to materialise. Also while public investment budgets have<lb/> increased in many countries, the capacity of national administrations to optimise the quality of<lb/> public expenditure too often remains a constraint.<lb/> JEL Classification:<lb/> • H54 National Government Expenditures and Related Policies: Infrastructures.<lb/> • O20 Development Planning and Policy: General.<lb/> Keywords: Africa, infrastructure, National budgeting and planning, Public financial management reforms.<lb/> reforms.<lb/> Public financial management in infrastructure in Africa<lb/> DEV/DOC(2014)2<lb/> 8<lb/> © OECD/CABRI 2014<lb/> Public financial management in infrastructure in Africa<lb/> DEV/DOC(2014)2<lb/> 34<lb/></p>
+
+	<note type="copyright">© OECD/CABRI 2014<lb/></note>
+
+	<note type="other">REFERENCES<lb/></note>
+
+	<reference>ASCHAUER, D.A. (1989), &quot; Is public expenditure productive? &quot; Journal of Monetary Economics, Vol. 23(2),<lb/> pp. 177-200.<lb/></reference>
+
+	<p type="introduction">BANQUE DE FRANCE (2011), &quot; Tax Revenue Mobilisation in the Franc Zone: Principal Lessons Learned over<lb/> the Long Term &quot; , Annual Report 2011.<lb/> BENNATHAN, E. and D. CANNING (2000), &quot; The social rate of return on infrastructure investments &quot; , Policy<lb/> Research Working Paper Series, 2390.<lb/> BENNATHAN, E., C.R. HULTEN and S. SRINIVASAN (2006), &quot; Infrastructure, externalities, and economic<lb/> development: a study of the Indian manufacturing industry &quot; , The World Bank Economic Review 20.2<lb/> pp. 291-308.<lb/> BEURAN, M., M. CASTAING GACHASSIN and G. RABALLAND (2013), &quot; Are There Myths on Road Impact and<lb/> Transport in Sub-Saharan Africa? &quot; , Documents de travail du Centre d&apos;Economie de la Sorbonne No. 13049,<lb/> Université Panthéon-Sorbonne (Paris 1), Centre d&apos;Economie de la Sorbonne.<lb/> BRICEÑO-GARMENDIA, C., K. SMITS and V. FOSTER (2008), &quot; Financing Public Infrastructure in Sub-Saharan<lb/> Africa: Patterns, Issues, and Options &quot; , AICD Background Paper No. 15, Africa Infrastructure Sector<lb/> Diagnostic, World Bank, Washington, DC.<lb/> CABRI (2010a), Ensuring Value for Money in Infrastructure in Africa – Report 1: The Appraisal of Infrastructure<lb/> Projects, Collaborative Africa Budget Reform Initiative.<lb/> CABRI (2010b), Ensuring Value for Money in Infrastructure in Africa – Report 2: Financing Infrastructure<lb/> Projects, Collaborative Africa Budget Reform Initiative.<lb/> CABRI (2010c), Ensuring Value for Money in Infrastructure in Africa – Report 3: Managing the Implementation of<lb/> Infrastructure Projects, Collaborative Africa Budget Reform Initiative.<lb/></p>
+
+	<reference>CABRI (2010d), &quot; Good financial governance: Towards modern budgeting &quot; , 6 th Annual CABRI Seminar,<lb/> 18-19 May 2010, Mauritius.<lb/> CABRI (2008), Budget Practices and Procedures in Africa 2008, Collaborative Africa Budget Reform Initiative<lb/> and African Development Bank.<lb/> CALDERÓN, C. (2009), &quot; Infrastructure and Growth in Africa &quot; , Policy Research Working Paper No. 4914, World<lb/> Bank, Washington, DC.<lb/> DABLA-NORRIS, E., J. BRUMBY, A. KYOBE, Z. MILLS and C. PAPAGEORGIOU (2011), &quot; Investing in Public<lb/></reference>
+
+	<note type="other">Investment: An Index of Public Investment Efficiency &quot; , IMF Working Paper, No. 11/37, Washington,<lb/> DC.<lb/> DE MELLO, L. (2010), &quot; Fiscal Decentralisation and Public Investment: The Experience of Latin America &quot; ,<lb/> OECD<lb/> Economics<lb/> Department<lb/> Working<lb/> Papers,<lb/> No. 824,<lb/> OECD<lb/> Publishing,<lb/> Paris.<lb/></note>
+
+	<ptr type="web">http://dx.doi.org/10.1787/5km347r2hhbp-en.</ptr>
+
+		</front>
+	</text>
+</tei>

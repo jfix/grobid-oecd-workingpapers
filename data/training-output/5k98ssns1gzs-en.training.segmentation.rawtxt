@@ -1,0 +1,1313 @@
+Please cite this paper as: Steen, J. (2012),  " Modes of Public Funding of Research and 
+Development: Towards Internationally Comparable 
+Indicators " , OECD Science, Technology and Industry Working 
+Papers, 2012/04, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/5k98ssns1gzs-en OECD Science, Technology and Industry 
+Working Papers 2012/04 Modes of Public Funding of 
+Research and Development TOWARDS INTERNATIONALLY COMPARABLE 
+INDICATORS Jan van Steen Unclassified DSTI/DOC(2012)4 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 22-May-2012 
+___________________________________________________________________________________________ 
+English -Or. English DIRECTORATE FOR SCIENCE, TECHNOLOGY AND INDUSTRY MODES OF PUBLIC FUNDING OF R&D: TOWARDS INTERNATIONALLY COMPARABLE 
+INDICATORS STI WORKING PAPER 2012/4 JT03322004 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. DSTI/DOC(2012)4 
+Unclassified English -Or. English DSTI/DOC(2012)4 2 STI Working Paper Series The Working Paper series of the OECD Directorate for Science, Technology and Industry is designed 
+to make available to a wider readership selected studies prepared by staff in the Directorate or by outside 
+consultants working on OECD projects. The papers included in the series cover a broad range of issues, of 
+both a technical and policy-analytical nature, in the areas of work of the DSTI. The Working Papers are 
+generally available only in their original language – English or French – with a summary in the other. Comments on the papers are invited and should be sent to the Directorate for Science, Technology 
+and Industry, OECD, 2 rue André-Pascal, 75775 Paris Cedex 16, France. The opinions expressed in these papers are the sole responsibility of the author(s) and do not 
+necessarily reflect those of the OECD or of the governments of its member countries. www.oecd.org/sti/working-papers The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli 
+authorities. The use of such data by the OECD is without prejudice to the status of the Golan Heights, East 
+Jerusalem and Israeli settlements in the West Bank under the terms of international law. It should be noted that statistical data on Israeli patents and trademarks are supplied by the patent and 
+trademark offices of the relevant countries. OECD/OCDE, 2012 Applications for permission to reproduce or translate all or part of this material should be made to: 
+OECD Publications, 2 rue André-Pascal, 75775 Paris, Cedex 16, France; e-mail: rights@oecd.org DSTI/DOC(2012)4 3 TABLE OF CONTENTS MODES OF PUBLIC FUNDING OF R&D: TOWARDS INTERNATIONALLY 
+COMPARABLE INDICATORS .................................................................................................................... 4 Introduction ................................................................................................................................................. 6 Modelling public funding of R&D through new indicators ........................................................................ 8 Data collection and data sources used ....................................................................................................... 12 The indicators of public funding modes: relevance, definitions used and descriptive analysis ................ 13 Indicator 1: National public funding by funding type and destination (national or 
+international performers) ....................................................................................................................... 13 Indicator 2: National public funding to national performers by funding type and sector of 
+performance ........................................................................................................................................... 16 Indicator 3: Public project funding to national performers by funding agency (source of funding) ..... 20 Indicator 4: National public project funding to national performers by type of instrument .................. 23 Indicator 5: International funding to national performers by sector of performance ............................. 24 Data collection and methodological issues................................................................................................ 24 The distinction between project and institutional funding ..................................................................... 25 
+The classification of funding by sector of performance ........................................................................ 25 The classification of project funding by funding agency ....................................................................... 26 The classification of project funding by instrument type ...................................................................... 26 Conclusions ............................................................................................................................................... 26 NOTES .......................................................................................................................................................... 28 REFERENCES ............................................................................................................................................. 29 ANNEX 1: OVERVIEW OF DEFINITIONS .............................................................................................. 30 ANNEX 2: INDICATORS FOR TABULATION ........................................................................................ 33 ANNEX 3. METADATA SUMMARY ....................................................................................................... 36 ANNEX NOTES ........................................................................................................................................... 43 DSTI/DOC(2012)4 4 MODES OF PUBLIC FUNDING OF R&D: TOWARDS INTERNATIONALLY COMPARABLE 
+INDICATORS Jan van Steen* ABSTRACT This paper presents the outline and first results of an OECD project, undertaken under the auspices of 
+the Working Party of National Experts on Science and Technology Indicators (NESTI), on the 
+development and collection of internationally comparable indicators on public funding of R&D. Direct 
+funding of R&D is one of the main policy instruments used by governments to support science and 
+innovation in priority areas. As noted in the OECD Innovation Strategy, countries are restructuring and 
+adapting their research-financing mechanisms, for example by creating new agencies in charge of 
+allocating resources, making greater use of competitively awarded project funding and exploring how to tie 
+funding more closely to specific objectives and missions, increasing the focus on the quality and relevance 
+of institutions' research activities in pursuit of research excellence and economic and social impact. These 
+changes highlight a gap in the range of available indicators to monitor how public funding of R&D is 
+allocated. As a result, the NESTI project aims to propose a methodology for internationally comparable 
+indicators on modes of public funding; collecting such indicators and assessing the feasibility of extending 
+their scope by developing guidelines for the implementation of the methodology as part of the regular 
+indicator activities of OECD and other organisations like Eurostat. Reflecting the evidence priorities highlighted above, this project has focused on drawing a distinction 
+between institutional and project funding. This distinction has been applied to estimates of funding levels 
+across sector of R&D performance, types of funding agencies and the orientation of the R&D from the 
+funders' perspective. This paper presents the results of the data collection across 18 participating countries, demonstrating 
+that it is possible to produce new policy relevant indicators on public funding of R&D in addition to those 
+envisaged in the OECD Frascati Manual. The data collection initial findings highlight interesting 
+differences across countries in terms of their approaches to funding R&D. But before conclusions can be 
+drawn on the effectiveness of the different country funding profiles, further work is needed in order to 
+increase the reliability and comparability of the different indicators. * The author wishes to thank Pierre Therrien and Fernando Galindo-Rueda for their valuable advice in producing this Working Paper. DSTI/DOC(2012)4 5 MODES DE FINANCEMENT PUBLIC DE LA R-D : 
+VERS DES INDICATEURS COMPARABLES À L'ÉCHELLE INTERNATIONALE Jan van Steen* RÉSUMÉ Ce document présente les grandes lignes et les premiers résultats d'un projet de l'OCDE pour le 
+développement et la collecte d'indicateurs comparables à l'échelle internationale sur le financement public 
+de la R&D, réalisé sous l'égide du Groupe des Experts Nationaux sur les Indicateurs de la Science et de la 
+Technologie (GENIST). Le financement direct de la R-D est l'un des principaux instruments utilisés par 
+les pouvoirs publics pour soutenir la science et l'innovation dans les domaines prioritaires. Comme le 
+prévoit la Stratégie de l'OCDE pour l'innovation, les pays opèrent une restructuration et un 
+réaménagement de leurs mécanismes de financement de la recherche, par exemple en instituant de 
+nouveaux organes chargés de l'allocation des ressources, en faisant davantage jouer la concurrence pour 
+l'octroi de fonds aux projets de recherche, en cherchant les moyens d'établir un lien plus direct entre le 
+financement et des objectifs et des missions spécifiques, en privilégiant davantage la qualité et la 
+pertinence des activités de recherche des établissements, au regard de critères d'excellence et d'impact 
+social et économique de la recherche. Ces évolutions ont mis en évidence l'insuffisance de la gamme 
+d'indicateurs disponibles pour analyser la manière dont sont affectées les aides publiques à la recherche. 
+Le projet du GENIST a par conséquent pour objet : de proposer une méthodologie pour le développement 
+d'indicateurs comparables au niveau international sur les modalités de l'aide publique ; de collecter ces 
+indicateurs ; d'évaluer dans quelle mesure on pourra intégrer d'autres pays ; et de mettre au point des 
+lignes directrices pour l'application de cette méthodologie dans le cadre des activités régulières 
+d'indicateurs de l'OCDE et d'autres organisations, comme Eurostat. Compte tenu de ces besoins prioritaires en matière de données, ce projet s'est axé sur l'établissement 
+d'une distinction entre financement par établissement et financement par projets. Cette distinction a été 
+appliquée aux estimations de niveaux de financement pour tous les secteurs d'exécution de la R&D, pour 
+toutes les catégories d'organismes de financement et pour toutes orientations de la R&D du point de vue 
+des bailleurs de fonds. Ce document présente les résultats de la campagne de collecte de données réalisée dans les dix-huit 
+pays participants et montre qu'il est possible de produire certains indicateurs pertinents pour les politiques 
+publiques sur le financement public de la R&D qui ne figurent pas dans le Manuel de Frascati. Les 
+premières constatations issues de la collecte de données mettent en évidence d'intéressantes différences 
+entre les pays dans leur approche du financement de la R&D. Mais avant de pouvoir tirer des conclusions 
+sur l'efficacité des différents modèles nationaux de financement, il faut peaufiner les différents indicateurs 
+de manière à améliorer leur fiabilité et leur comparabilité. * L'auteur remercie Pierre Therrien et Fernando Galindo-Rueda pour leurs précieux conseils pour l'élaboration de ce document de travail. DSTI/DOC(2012)4 6 MODES OF PUBLIC FUNDING OF R&D: TOWARDS INTERNATIONALLY COMPARABLE 
+INDICATORS Introduction Within national R&D systems, government funding is an important source of finance for R&D. As 
+Figure 1 shows, for most countries it is the second major source of funds and the main one for a small 
+minority. The percentage of Gross Domestic Expenditure on R&D (GERD) financed by government 
+ranges between 14 and 70%, with an average of 30 to 35%. Alongside other policies, the funding of private 
+or public research is one of the main instruments a government can use to promote science and research. 
+There are significant differences in the way governments fund and regulate their research organisations. 
+For example: in some countries research organisations like higher education institutions have a large 
+autonomy, while other countries are characterised by a relationship between the government as funder of 
+R&D and R&D performing research organisations, which is regulated by performance contracts. Figure 1. Government funded R&D as a percentage of total R&D (GERD), 2008 (or latest year) 0 10 20 30 40 50 60 70 80 Source: OECD Main Science and Technology Indicators, January 2012. The OECD Innovation Strategy (OECD, 2010a) has shown that countries are restructuring and 
+adapting their research-financing mechanisms, for example by creating new agencies in charge of 
+allocating resources, making greater user of competitively awarded project funding and exploring how to 
+tie funding more closely to specific objectives and missions, increasing the focus on the quality and 
+relevance of institutions' research activities in pursuit of research excellence and economic and social 
+impact. These changes highlight a gap in the range of available indicators to monitor how public funding 
+of R&D is allocated. DSTI/DOC(2012)4 7 In the framework of the OECD Frascati Manual (OECD, 2002), funding of R&D by the government 
+is measured is two ways: a) by asking performers of R&D across different sectors (business enterprises, 
+higher education, research institutes and private non profit) to specify the sources of funds – and 
+government in particular – for in-house (intramural) expenditures on R&D; and b) by adopting a funder 
+perspective collecting data on government budget appropriations or outlays for R&D (GBAORD). The 
+latter thus involves the analysis of government budgets and complementary sources. Countries follow both 
+approaches and data under both formats are covered in the Frascati Manual (OECD, 2002) and have been 
+collected for a large number of years by OECD and EUROSTAT. The funder-based data are mainly 
+classified by socio-economic objectives (SEO) according to the so-called NABS-classification 
+(Nomenclature for the Analysis and Comparison of Scientific Programmes and Budgets). GBAORD 
+data and their collection are described in Chapter 8 of the Frascati Manual (OECD, 2002). Because of the 
+different perspectives of data collection, the two data sets provide different types of policy-relevant 
+information. At the moment, only a limited number of statistics and indicators on public funding are available, 
+principally government-funded R&D in the different sectors of performance and government R&D budgets 
+classified by socio-economic objectives. There is a widespread perception that the available indicators on 
+public funding do not align with the discussions and issues in actual science policy and the characteristics 
+of the science systems in the different countries (Lepori et al., 2007a). Lepori (2006) argues that the R&D 
+statistical data have  " …. limitations due to the lack of categories and classifications that would be needed 
+for policy analysis " . According to his vision, the design of the R&D statistical system is  " …focusing on 
+input rather than on fluxes and producing national aggregates rather than data on sectors or on individual 
+organizations " . In addition, the use of GBAORD data is not as common as that of performer based data 
+collected for the purposes of producing indicators of intramural expenditures, and international 
+comparisons are somewhat infrequent. No information is collected on funding agencies and instruments. 
+Because of the limited number of policy studies on the public funding of R&D, researchers within the EU 
+Policies for Research and Innovation in the Move towards the European Research Area (PRIME) Network 
+of Excellence on research and innovation policy undertook an international study on the public funding of 
+R&D projects and their cross-country comparability. The results of this study have been published in a 
+number 
+of 
+country 
+reports 
+and 
+scientific 
+articles, 
+available 
+on 
+www.enid-
+europe.org/PRIME/project_funding.html. At the 2008 Working Party of National Experts on Science and Technology Indicators (NESTI) 
+meeting, countries agreed to start an exploratory pilot project on developing indicators of public funding of 
+R&D, drawing on the findings of the EU PRIME Network. A number of countries were willing and able to 
+participate in the project led by the Netherlands. 1 The general aim of the project was briefly formulated as 
+follows:  " to collect data on modes of public funding " . Modes of public funding refer to the different ways 
+public funding is allocated in the R&D system to beneficiaries, the organisations responsible for funding 
+decisions and the instruments used. The project was initially envisaged with three specific aims: a) to propose a methodology for 
+internationally comparable indicators on public funding modes; b) to collect such indicators; c) to broaden 
+the scope of the project beyond the scope of the participating countries, to develop guidelines for the 
+implementation of the methodology on a larger scale and on a permanent basis as part of the regular 
+indicator activities of the international organisations OECD and EUROSTAT. It should eventually lead to 
+a revision of the Frascati Manual. The present paper focuses on the first two aims. This document is structured as follows. Firstly, the rationale for new indicators and the conceptual 
+framework are set out. The description of the data collection process then gives way to the analysis of the 
+various indicators collected on public funding modes. It is important to note that the reported indicators are 
+experimental and, as a result, international comparability is still limited. The paper concludes with a DSTI/DOC(2012)4 8 summary review of the key issues encountered in collecting and comparing the data, leading to a final set 
+of recommendations for follow-up work. Annex 1 provides an overview of the definitions adopted 
+throughout the project, while Annex 2 sets out the indicators collected from participating countries. Annex 
+3 summarises the metadata collected from countries, highlighting some of the differences regarding data 
+availability and potential comparability. Modelling public funding of R&D through new indicators The existing indicators on public funding of R&D have a long tradition, particularly those providing a 
+breakdown of budget allocations across different socio-economic objectives (SEO), although by focusing 
+on direct funding they do not capture the full range of funding instruments, excluding for example R&D 
+tax incentives – which are the object of separate regular collection by NESTI – and other indirect 
+mechanisms. Because governments on average are the second main funder of R&D in the different 
+countries of the OECD with an average of 28% of total R&D, budget allocations across dimensions other 
+than explicit socioeconomic objectives can have major impact on the way the national research systems are 
+organised and ultimately on their performance. Governmental research and science policy has evolved over 
+the years, reflecting debates on key policy issues such as the balance between institutional and project 
+funding and the balance between competitive versus non-competitive funding. While public R&D funding 
+is one of the major instruments for steering the research system, many OECD countries introduced reforms 
+of their funding system to respond to new societal demands and challenges (Maass, 2003). New funding 
+schemes and instruments were developed and implemented, such as performance-based and competitive 
+funding programmes, the promotion of co-operation with the private sector, new centres of excellence, new 
+foundations and new problem-oriented research programmes. Throughout this project, a simplified model of public R&D funding flows has been used (Figure 1). 
+The model has three different layers. The indicators developed relate to these different levels. a) The government or state level with its institutional funding of R&D, to business enterprises, higher 
+education institutions or research institutes and project funding via a number of intermediary 
+organisations. These funding modes or general institutional funds refer to so-called block funds 
+that are allocated to research performing institutions with generally no strings attached on the one 
+hand (institutional funding) and funding based on grants from some kind of competitive funding 
+on the other (project funding). These funding modes also include the flow of funds going abroad, 
+either to performing organisations or international bodies that distribute those funds. b) An intermediary level of organisations tasked with redistributing and allocating the R&D funds to 
+the final beneficiaries. These organisations typically have some degree of operational 
+independence even if they may be formally part of governments. This level includes the 
+international funding agencies too. This includes national funding and international funding 
+agencies. c) The level with organisations performing R&D, which can be grouped into four R&D sectors of 
+performance (business enterprises, higher education, government and private non-profit) alongside 
+organisations and institutes and (research) organisations abroad. The latter category also includes 
+extra-territorial organisations with activities located within the funding country (for a description 
+of these sectors, see the OECD Frascati Manual (OECD, 2002) sections 3.4 through to 3.7). DSTI/DOC(2012)4 9 Figure 1. An overall funding model Source: Based on Lepori et. al. (2007b) The key new classification for data collection on government R&D funding introduced in this project 
+is based on the distinction between institutional funding and project funding. In the PRIME project, the 
+concept of project funding was defined as:  " money attributed to a group or an individual to perform a R&D 
+activity limited in scope, budget and time, normally on the basis of the submission of a project proposal 
+describing the research activities to be done "  (Lepori et al., 2007b). It is important to highlight that the 
+concept of project funding does not primarily rely on funds being allocated on competition between 
+researchers or research groups, which is based on the submission of a research proposal. The main criteria 
+to distinguish between project 2 and institutional funding instruments are as follows: @BULLET The aim of the funding instrument (from the perspective of the funding authority), rather than the 
+effective use of funds for R&D activities. @BULLET The existence of an agency tasked with selecting the project(s) to be funded and allocating the 
+money to R&D performing beneficiaries. The agency can have a variety of forms such as a unit 
+within a ministry, or arms-length bodies such as research council or regional authorities. In contrast, institutional funding can be defined as the funding of institutions with no direct 
+selection of projects or programmes to be performed. Under this type of funding, it is the receiving 
+institution that has discretion over the R&D projects that are to be performed, not the funding organisation. This project has considered classifications of funders and performers 3 which are consistent with the 
+Frascati Manual. A first distinction has been made between national and international funders and 
+performers. Government National funding agencies Higher education sector Government sector Business enterprise sector Internal 
+allocation Project funding Policy 
+and 
+advice (a) Funders 
+(b) Performing 
+organisations 
+(c) Research 
+groups Institutional 
+funding European Union International funding 
+organisations Abroad (International 
+research 
+organisations, 
+other …) Advisory bodies DSTI/DOC(2012)4 10 @BULLET Source of funding: national funding versus international funding. Among national funders, this 
+project has introduced a classification covering a range of different funding agencies. These 
+include research and higher education ministries, other ministries, independent agencies and 
+regional authorities. @BULLET Destination of the funding: national versus international performers. Within the former, business 
+enterprises, higher education, government and private non profit are considered. Table 1. Overview of public funding modes by key dimensions GBAORD National public funding 
+to national performers National public funding 
+to international 
+performers International public 
+funding 
+to national performers Project funding 1. National public project 
+funding 
+to national performers 3. National public project 
+funding 
+to international 
+performers 5. International public 
+project funding 
+to national performers Institutional funding 2. National public 
+institutional funding 
+to national performers 4. National public 
+institutional funding 
+to international 
+performers 6. International public 
+institutional funding 
+to national performers Table 1 above describes the different public funding modes which arise by combining the source, 
+destination and nature (project vs. institutional) dimensions described above. In total, these add up to the 
+national GBAORD plus the resource flows from international R&D funding agencies. Six different 
+funding modes are distinguished, based on the distinction between project versus institutional funding, 
+national and international funding and national and international performers. The different indicators to be 
+collected can be related to the different cells of the table. Box 1 presents some examples of the different 
+funding modes. DSTI/DOC(2012)4 11 Box 1. Examples of different funding modes National public project funding to national performers [funding mode (1)] @BULLET R&D domestic (commissioned) contracts from government. 
+@BULLET R&D contributions to the national funding agencies by Government (e.g. research council and innovation promotion agencies who distribute funds on a programme or project basis). National public institutional funding to national performers [funding mode (2)] @BULLET General university funds (GUF) -a separate category of government funding to the higher education sector. 
+@BULLET Other institutional funds (governments R&D intramural expenditure + residual R&D contributions from the government). National public project funding to international performers [funding mode (3)] @BULLET Government-funded R&D international contracts related to specific projects or programmes. 
+@BULLET Contributions (annual membership fees) to EU-framework programmes (for European Free Trade Association countries only) @BULLET Contributions (annual membership fees) to trans-national public R&D programmes. Examples of Europe-wide trans-national public R&D programmes include: @BULLET ERA-NETs and ERA-NETs + 
+@BULLET European Space Agency (ESA) 
+@BULLET European Fusion Development Agreement (EFDA) 
+@BULLET EUREKA 
+@BULLET COST 
+@BULLET EUROCORES 
+@BULLET Article 169 initiatives: EDCTP (Europe-Developing Countries Clinical Trials Platform), Eurostars (for research-performing SMEs) and AAL (ambient assisted living for the elderly). @BULLET Joint technology initiatives such as ENIAC (embedded computing systems), ARTEMIS (nanoelectronics). In the case of ESA, the membership fee is treated as project funding, since ESA redistributes this in the form of 
+project funding, based on agreed  " retour "  principles, and in this sense differs from the membership fee of the EU. National public institutional funding to international performers [funding mode (4)] @BULLET Contributions (annual membership fees) to international organisations (trans-national public R&D performers with own dedicated R&D facilities). The (board of the) organisation decides about the 
+programmes or projects to perform within the organisation. Examples of transnational public R&D performers with own dedicated R&D facilities: @BULLET The European Organization for Nuclear Research (CERN) 
+@BULLET The Institute Laue-Langevin (ILL) 
+@BULLET The European Synchrotron Radiation Facility (ESRF) 
+@BULLET European Molecular Biology Laboratory (EMBL) 
+@BULLET The European Southern Observatory (ESO) 
+@BULLET Joint Research Centre of the European Commission (JRC) International public project funding to national performers [funding mode (5)] Examples of project funding from international organizations: @BULLET Projects financed by the EU Framework Programme International public institutional funding to national performers [funding mode (6)] This category is included as a theoretical possibility for which examples are difficult to identify. It would 
+encompass contributions from international organisations to national performers on an institutional basis. DSTI/DOC(2012)4 12 In addition to the distinction between project and institutional funding and the national versus 
+international dimension, this project has also introduced a new classification for the type of government 
+instruments funding R&D. This  " instrument type "  classification is based on the primary purpose or 
+objective pursued by Government in providing funding, on the basis of the likely use of the knowledge 
+supported by the funds. This classification is described in Box 2. Box 2. Examples of other funding taxonomies – instrument types @BULLET Academic instruments The primary purpose of these instruments is the advancement of knowledge for the general 
+benefit of society. Funding can be provided by different funding agencies, such as contributions 
+from an independent or arms-length agency, e.g. project funding from a research council funding 
+research programmes or projects based on bottom-up proposals from researchers, except research 
+oriented programmes with clear politics aims. But it can be funding from other agencies too. @BULLET Policy instruments The primary purpose of these instruments is the contribution of commissioned research from 
+ministries or an independent or arms-length agencies' funding programmes to inform and support 
+policy decisions or to fund programmes for knowledge generation within priority policy areas. @BULLET Innovation instruments The primary purpose of these instruments is the contribution to the innovative capacity of 
+enterprises through R&D. Contributions from ministries of economic affairs or innovation agencies 
+to business R&D programmes typically feature under this category. Data collection and data sources used Different indicators were developed in the project which are related to the different cells or funding 
+modes of the table. The questionnaire which was used for the data collection at the end of 2009 was based 
+on the following five indicators on public funding: 1. National public funding by funding type and destination (national and international performers); 
+related to funding modes (1), (2), (3) and (4). 2. National public funding to national performers by funding type and sector of performance; 
+related to funding modes (1)and (2). 3. Public project funding to national performers by funding agency; related to funding 
+modes (1)and (5). 4. National public project funding to national performers by instrument; related to funding mode 
+(1). 5. International funding to national performers by sector of performance; related to funding modes 
+(5)and (6). In order to construct the indicators, data were collected from countries participating in the project on a 
+voluntary basis. Data were requested for three years: 2000, 2005 and 2008 (or nearest year) as set out in 
+Annex 2, using the definitions provided in Annex 1. Based on a common format and pre-defined questions, 
+countries were also asked to provide metadata on the data collection: information on some characteristics 
+of the data source, examples of institutional funding and funding agencies and methodological problems 
+encountered. The results are summarised in Annex 3. DSTI/DOC(2012)4 13 As can be seen from the country metadata, the national GBAORD data collection is the main data 
+source in all countries, with budget items as the basic unit of analysis in most cases. These basic units were 
+classified according to the different variables within the questionnaire. In a number of cases the 
+classification was done on the basis of relevant complementary documents or information from external 
+experts. In some cases, the statistical agencies had to send information requests to experts in ministries or 
+other research funding bodies in order to obtain the relevant budget information for the classification. The indicators of public funding modes: relevance, definitions used and descriptive analysis This section presents the five indicators, describing in some detail on a one by one basis their 
+relevance, the definitions used, the resulting data and emerging results. Indicator 1: National public funding by funding type and destination (national or international 
+performers) The indicator focuses on total GBAORD within a country. It includes national and international 
+performers funding, which can be either project funding or institutional funding. This indicator relates to 
+the funding modes (1), (2), (3) and (4) of Table 1. Relevance The indicator is oriented to national public policies on research funding. It characterises the 
+organisation of national public funding, the distribution over different funding categories and the relative 
+contribution of institutional funding vis à vis project-based funding. This indicator can be used in principle 
+for snapshot cross-country comparisons. If longitudinal data are available, it can be used to show shifts in 
+the composition of national public funding, such as a shift from institutional funding to project funding. Definitions used National public funding comprises national public project funding and national public institutional 
+funding. The latter can be divided into institutional funding to the higher education sector – via the 
+estimated portion of General University Fund (GUF) devoted to R&D – and institutional funding to other 
+public organisations or private companies. Project funding has no further sub-classification. Data and results Full data on this indicator are available for 17 countries, and partial information is available for one 
+additional country. Figure 3 shows the distribution of total national funding by all different funding modes 
+and destinations, national as well as international. Total national funding equals GBAORD for all 
+countries. Table 2 and Figure 4 focus on the funding to national performers. Table 2 shows the development of 
+the share of project funding for 2000, 2005 and 2008 and Figure 4 focuses on the share of GUF in total 
+institutional funding to national performers. DSTI/DOC(2012)4 14 Figure 3. National public funding by funding type, 2008 As a percentage of total funding 0 10 20 30 40 50 60 70 80 90 100 NZL KOR BEL FIN IRL AUS CZE NOR SVK ISR CAN DEU POL AUT NLD DNK CHE SWE National project funding 
+GUF National instit. funding (non-GUF) 
+No breakdown (national) International instit. funding 
+International project funding No breakdown (international) Source: OECD, based on experimental data collection from the NESTI project on public R&D funding, September 2010. Table 2: National public project funding to national performers as a percentage of national public funding to 
+national performers, 2000, 2005 and 2008 2000 
+2005 
+2008 
+New Zealand 
+-
+74.6 
+71.9 
+Korea 
+-
+69.1 
+68.9 
+Belgium 
+-
+-
+55.7 
+Finland 
+-
+46.2 
+52.8 
+Ireland 
+-
+-
+52.2 
+Australia 
+30.5 
+44.7 
+47.1 
+Czech Republic 
+51.3 
+43.4 
+46.7 
+Norway 
+-
+43.7 
+41.5 
+Slovak Republic 
+-
+40.9 
+39.5 
+Germany 
+-
+-
+34.6 
+Israel 
+45.7 
+41.1 
+35.7 
+Canada 
+31.9 
+36.5 
+34.6 
+Poland 
+29.4 
+33.2 
+31.4 
+Austria 
+16.1 
+24.1 
+28.9 
+Netherlands 
+29.7 
+22.4 
+27.8 
+Denmark 
+-
+-
+25.9 
+Switzerland 
+25.5 
+25.3 
+23.2 Source: OECD, based on experimental data collection from the NESTI project on public R&D funding, September 2010. DSTI/DOC(2012)4 15 Figure 4. General University Funds as a percentage 
+of national public institutional funding to national performers Source: OECD, based on experimental data collection from the NESTI project on public R&D funding, September 2010. Main findings @BULLET Public R&D funding schemes vary widely between countries. Countries such as Switzerland, 
+Denmark, the Netherlands, Austria and Poland rely mainly on institutional funding (at a level of 
+around 70%), while Ireland, Belgium, and New Zealand devote more than 50% of public funding 
+to project funding. @BULLET In the period 2000-2008 there seems to be a relative stability between modes of public R&D 
+funding for most countries (at least for the countries with data for more than one year). 
+Exceptions are Australia and Austria where the share of project funding increases sharply. But 
+when one looks at the range of countries for which data were collected as part of the PRIME 
+project on public project funding 4 the long-term trend of public R&D funding seems to show an 
+increase in project funding at the expense of institutional funding (Lepori et. al. (2007b)). The 
+data for the countries participating both in the PRIME project and in the OECD project (Austria, 
+Norway, Switzerland, the Netherlands) show that all countries experienced a considerable 
+increase in the share of project funding over the period 1970-2002. In Figure 5, longitudinal data 
+for Australia and the Netherlands shows a sharp increase in the share of project funding for 
+Australia after 2000. The project share for the Netherlands increases between 1975 and 1990 and 
+remained broadly stable since after an initial decline in the early 1990s. @BULLET In half of the countries institutional funding of universities (GUF) takes up an important part of 
+total institutional funding, with a share above 50%, even up to 94% in Denmark. In the other 
+countries GUF plays a more modest role. However, the data should be treated with some caution, 
+because as is well known, not all countries can identify GUF separately (e.g. Korea) and the 
+methods applied can also differ. @BULLET National public funding to international research organizations seems to be a minor component of 
+national public R&D funding (usually less than 5%) except for Switzerland and Belgium, which 
+devote more than 10% of their public R&D funding to such international organizations. DSTI/DOC(2012)4 16 @BULLET Although international project funding from abroad is an important funding source in a number 
+of countries (> 10% of total R&D in a country) and should be considered when dealing with 
+funding issues, this indicator excludes international funding in terms of funding from abroad. The 
+indicator is restricted to national public funding sources of R&D. Funding from abroad is 
+considered in indicators 3 and 5. Figure 2. Figure 5. National public project funding to national performers 
+As a percentage of national public funding to national performers, Australia and the Netherlands, 1975-2005 Source: OECD, based on experimental data collection from the NESTI project on public R&D funding. Dutch data provided by 
+the Rathenau Institute based on data from the Dutch Ministry of Education, Culture and Science. Indicator 2: National public funding to national performers by funding type and sector of performance This indicator focuses on GBAORD funding to national performers. It follows the taxonomy adopted 
+for indicator 1 (funding type) but disaggregated further by the R&D sector of performance. This indicator 
+relates to the funding modes (1) and (2). Relevance The indicator is intended to illustrate how governments support different types of national R&D 
+performers through different mechanisms, highlighting for example the extent to which support for higher 
+education is mainly institutional or project-focused, compared with other sectors Definitions used National public project funding to national performers and national public institutional funding to 
+national performers. The national sector of performance is defined according to the Frascati Manual 
+definitions: business enterprise sector, higher education sector, government sector and private non profit 
+sector. DSTI/DOC(2012)4 17 Data and results Data on this indicator are available for 15 countries. Figure 6 shows the allocation of national public 
+funds to national performers separately for both project and institutional funding. This indicator excludes 
+international public funding (funds from abroad). This funding is considered in indicators 3 and 5. The 
+indicator also excludes national funding to international organisations and other funding of R&D abroad. 5 
+It is therefore restricted to national public funding sources of R&D. Main findings @BULLET The higher education sector is the main destination of institutional funding (mostly through GUF 
+funding). In nine countries this sector accounts for more than half of institutional funds. 
+However, there are also a number of countries with a substantial share of institutional funding 
+allocated to the government sector: Korea, Czech Republic, Belgium, Poland and Australia 
+allocate more than 50% of their institutional funds to this sector. The cases of institutional 
+funding to the business enterprise sector are rare, but exist in the Czech Republic, Israel and 
+Austria. In these countries the share of institutional funding in the business enterprise sector 
+ranges between 1% and 6%. In four other countries the share is 1%, while in the rest there is no 
+institutional funding to businesses. The exact nature of this funding should be further 
+investigated. @BULLET The sector of destination of project funding is more diversified. However, the public sector 
+(broadly defined in this case as the combination of higher education and government) has the 
+largest share in the majority of countries, with the exception of Austria (where the share of 
+businesses is 63%). However, in quite a number of countries (ten) the share of business 
+enterprises is significant (20% or more). @BULLET Data for this indicator should be treated with caution, because the allocation of budget items to 
+one of the sectors is not always clear, and some budget items can have multiple performers, in the 
+public as well as in the private sector. DSTI/DOC(2012)4 18 Figure 6. National public funding to national performers by funding type and sector of performance (%), 2008 Total funding 0 10 20 30 40 50 60 70 80 90 100 Higher education 
+Government 
+Business 
+Private non-profit 
+No breakdown Project funding 0 10 20 30 40 50 60 70 80 90 100 Higher education 
+Government 
+Business 
+Private non-profit 
+No breakdown Institutional funding 0 10 20 30 40 50 60 70 80 90 100 Higher education 
+Government 
+Business 
+Private non-profit 
+No breakdown Source: OECD, based on experimental data collection from the NESTI project on public R&D funding, September 2010. DSTI/DOC(2012)4 19 Another way of looking at the data is from the perspective of the funding type within the sector of 
+performance. We focus here on project versus institutional funding within the higher education and the 
+government sectors (Figure 7). Figure 7. National public funding to national performers in the higher education and government sector by 
+funding type, 2008 As a percentage of funding 0 
+50 
+100 DNK ISR NZL AUT (2005) DEU CHE NLD NOR CZE CAN POL IRL AUS BEL KOR Higher Education project funding 
+institutional funding 0 
+50 
+100 KOR NZL CZE NLD POL NOR IRL DEU AUT (2005) AUS BEL ISR CHE CAN Government project funding 
+institutional funding Source: OECD, based on experimental data collection from the NESTI project on public R&D funding, September 2010. Main findings @BULLET In most countries institutional funding is the dominant funding source of the higher education 
+sector (50% or more). There are a few exceptions: Korea, Belgium and Australia. @BULLET This pattern is even stronger in the government sector. Only Korea has a share of institutional 
+funding that is less than 50%. @BULLET These results should also be interpreted with some caution, particularly in the Canadian case 
+where all government performance was – due to lack of better data – allocated to institutional 
+funding. DSTI/DOC(2012)4 20 Indicator 3: Public project funding to national performers by funding agency (source of funding) This indicator focuses on the part of GBAORD funding dedicated to national performers through 
+project funding. This indicator also includes project funding from abroad (international public project 
+funding to national performers). This indicator relates to funding modes (1) and (5) of Table 1. Relevance This indicator facilitates a better understanding of the decision-making process regarding the 
+allocation of R&D funding at a project level. This type of information can be used in principle to inform 
+further work on funding models within a country's innovation policy mix, the analysis of shifts in the locus 
+of decision-making over time and comparisons between countries' organisation of research funding and its 
+overall effectiveness. Definitions used Funding agencies, which are defined as agencies which allocate project funding, have been divided 
+into four general categories: a) National government organisations with policy and funding responsibilities, such as research, 
+higher education or other ministries. b) Sub-national authorities, such as states, regions or (significant) local authorities. c) Independent agencies or agencies at arms-length, such as research councils or innovation 
+agencies. The following criteria were defined as possible criteria to identify these agencies: 
+having a well-defined budget (separated from the general state budget); a performance contract 
+with the state; the right to take the final decision on the projects; strategic autonomy in the 
+repartition of the budget between fields and activities. d) Supra-national and international agencies, such as the European Commission. Data and results Data on this indicator are available for 15 countries. Figure 8 displays results on the various agencies 
+that are responsible for the allocation of R&D project funding. The main distinction is between ministries 
+and independent agencies. For reasons of international comparability the figure is limited to national 
+funding agencies funding national performers only. Comparable data on funding from international sources 
+is not available for all countries and therefore excluded. These funding flows from abroad are not part of 
+GBAORD. The indicator also excludes national public funding to international organisations and other 
+funding of R&D going abroad and excludes national public institutional funding to national performers. Regarding the international funding flows, the availability and usefulness of other data sources could 
+be examined, such as the Annual Activity Reports of the EU (Directorate General for Research) in the case 
+of European countries. DSTI/DOC(2012)4 21 Figure 8. National public project funding to national performers by funding agency, 2008 As a percentage of funding 0 10 20 30 40 50 60 70 80 90 100 FIN NZL CHE BEL NLD CAN NOR AUT AUS CZE POL DEU DNK KOR ISR Research ministry 
+Other ministries 
+Regional authorities Independent agencies No breakdown Source: OECD, based on experimental data collection from the NESTI project on public R&D funding, September 2010 Main findings @BULLET In 8 out of the 15 countries providing data, the largest part of project funding is managed by 
+independent and arms-length agencies (such as research councils and innovation agencies). In 
+Australia, Poland, the Czech Republic and Israel, centralised research ministries or other 
+ministries allocate most of the project funding. A number of country specific examples of these 
+independent and arms-length agencies are provided in Box 3. Examples of the national independent and arms-length agencies are displayed in Box 3. DSTI/DOC(2012)4 22 Box 3. Examples of independent and arms-length agencies by country Country 
+Main independent and arms-length agencies identified Australia 
+-Australian Research Council. 
+-National Health and Medical Research Council. 
+Austria 
+-The  " Research Promotion Agency "  (FFG) mainly funds business R&D. 
+-The  " Science Funds "  (FWF) support R&D in the Higher Education Sector. 
+-The  " Klima-und Energiefonds "  appear to play (up to now) a relatively small role. 
+Belgium 
+Flemish region: 
+-Agency for Innovation by Science and Technology (IWT). 
+-Research Foundation in Flanders (FWO). 
+-Hercules foundation for the funding of research infrastructures. 
+Brussels region: 
+-Innoviris (the Brussels Institute for Research and Innovation). 
+-Brussels Enterprise Agency; 3) Research in Brussels. 
+Walloon region: 
+-ASE (Economic Stimulation Agency). 
+-AST (Agency for Technology Promotion). 
+-FRS-FNRS (Scientific Research Fund). 
+Canada 
+-Natural Sciences and Engineering Research Council of Canada. 
+-Canadian Institutes of Health Research. 
+-Social Sciences and Humanities Research Council of Canada. 
+-Canada Foundation for Innovation (R&D infrastructure fund). 
+Switzerland 
+-The Swiss National Science Foundation (SNF) 
+-The Commission for Technology and Innovation (CTI) 
+Czech 
+Republic Project funding is implemented through 20 government bodies listed in the legal act concerning the 
+state budget in a given year. These include, for example, the Academy of Science of the Czech 
+Republic and the Grant Agency of the Czech Republic. 
+Germany 
+No independent agencies are mentioned. 
+Finland 
+-Academy of Finland (operating under the Ministry of Education). 
+-Tekes – the Finnish Funding Agency for Technology and Innovation. 
+Ireland 
+-Science Foundation Ireland. 
+-Higher Education Authority. 
+-Enterprise Ireland. 
+-Teagasc (the Irish Agricultural and Food Development Authority. 
+-IDA Ireland (the inward investment promotion agency). 
+-Marine Institute. 
+Israel 
+No information on independent agencies has been made available. 
+Korea 
+No information on independent agencies has been made available. 
+Netherlands 
+-Netherlands Organisation for Scientific Research (NWO, research council). 
+-Agency NL (innovation agency). 
+Norway 
+-The Research Council of Norway. 
+-Innovation Norway. 
+New Zealand 
+Foundation for Research, Science and Technology (merged on 1 February 2011 with the Ministry 
+of Research, Science and Technology into the Ministry of Science and Innovation). 
+Poland 
+All funds for science are in principle distributed via the Ministry of Science and Higher Education 
+(special item in the state budget), mainly by the ministry itself, partially via agencies. Some other 
+ministries or regional authorities also support R&D activities through other budgetary items, such as 
+defence, culture and so on. 
+-National R&D Centre (arms-length from Government). 
+The data also take into account the Foundation for Polish Science, which is an independent non-
+profit body, which gets its funds from financial markets, but also partly from the privatization of 
+state-owned companies. 
+Slovakia 
+-R&D Support Agency. 
+-Agency of the Ministry of Education for Structural EU Funds. 
+Sweden 
+-The Swedish Research Council 
+-The Swedish Council for Working Life and Social Research (FAS). 
+-The Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning 
+(FORMAS). 
+-The Swedish Governmental Agency for Innovation Systems (VINNOVA). DSTI/DOC(2012)4 23 Indicator 4: National public project funding to national performers by type of instrument This indicator focuses on the project funding component of GBAORD to national performers, 
+providing a breakdown by type of instrument as defined earlier, i.e. according to the main orientation 
+(type) of the instrument. The indicator focuses on project funding only and excludes institutional funding. 
+The reason is that institutional funding can also have different orientations, but that's not the purpose of 
+giving institutional funding. It gives the receiving organisation freedom to perform R&D according to its 
+own mission and profile. The data collection also excludes funding from abroad. This indicator relates to 
+the funding mode (1). Relevance The government policies on public project funding, implemented via research programmes, can have 
+different orientations: academically oriented, policy oriented or innovation oriented. The main interest is to 
+identify what is the weight of the different orientations within each country, and whether there are 
+significant differences across countries. Definitions used Academic instruments; policy support instruments; innovation instruments; and national public 
+project funding to national performers. Data and results Data on this indicator are available for ten countries. Several countries reported having problems in 
+allocating the budgets to one of the instrument types. Data for this indicator for reporting countries should 
+therefore be treated with caution and interpreted as global estimates, because of the subjective element in 
+the allocation decision. Figure 9 shows the allocation of national public project funding to national 
+performers by three types of instruments. This indicator is restricted to national public funding sources of 
+R&D. Funding to international performers is excluded. Funding from international agencies is not included 
+in this indicator. Figure 9. National public project funding to national performers by type of instrument As a percentage of funding 0 10 20 30 40 50 60 70 80 90 100 CHE 
+AUS 
+POL 
+DNK 
+BEL 
+NLD 
+CZE 
+NZL 
+ISR 
+CAN Academic 
+Policy 
+Innovation 
+No break Source: OECD, based on experimental data collection from the NESTI project on public R&D funding, September 2010. DSTI/DOC(2012)4 24 Findings @BULLET There are again large variations between countries. But results should be treated and analysed 
+with care (see next section for more details). The primary purpose of the instrument is the leading 
+principle when categorising the funding (see Section 8.7.1 of the Frascati Manual). These should 
+be considered as broad definitions which need to be further tested and improved by the 
+participating countries. Indicator 5: International funding to national performers by sector of performance This indicator focuses on the funding from abroad and the sector where the R&D is performed. It 
+relates to funding mode (5). Relevance Internationalisation, globalisation and international funding flows are also becoming more important 
+within the public funding domain. For example, trans-national co-operation and trans-national funding 
+flows are important elements of co-operation within the European Research Area (ERA). Public policies to 
+promote such cooperation have become an important feature of the European landscape, both at the 
+European Union level as well as at national level. In order to improve policies for the ERA, it is important 
+to know what amount of public budget involves trans-national flows in both outward and inward 
+directions. A first distinction concerning outward flows can be made between trans-national funding to 
+international research organisations with dedicated R&D facilities (such as CERN, EMBL and ESO) and 
+other trans-national flows (for example based on bilateral agreements and development co-operation). 
+Other types of information relevant for understanding trans-national co-operation include the identity of 
+the organisations involved and the type of programmes in place. International collaboration mechanisms 
+involving state funding also apply to varying degrees of importance to other non-European countries. Another type of trans-national flow (inward) concerns project funding from international agencies to 
+national performers, which is of increasing importance for national R&D performance. Findings @BULLET The data collection already showed that it is difficult for countries to collect these data. It was 
+discussed and accepted to drop this indicator and to limit the data collection to GBAORD data 
+only. 
+@BULLET Because data collection for this indicator was difficult in the context of this project, it is 
+suggested not to incorporate data collection on these funding flows in the project, but to design 
+separate projects on the issue of international funding flows. The results are of course 
+complementary. Data collection and methodological issues This section provides a general description of the way the different countries have collected the data 
+for their country, with further details available in Annex 3. For all countries participating in the project, the 
+national GBAORD database was the main source of data. However, in a number of cases, additional 
+information from administrative documents or from direct requests to other organisations was needed to 
+allocate the budget items properly to the different classifications as the national GBAORD database did not 
+contain all the necessary information. DSTI/DOC(2012)4 25 Throughout this phase of the project, a number of methodological issues and issues on definitions 
+were identified that require further clarification. Examples are the distinction between project and 
+institutional funding, the classification of funding by sector of performance, the classification of funding 
+agencies and the definition of instrument types. Work needs to be done to improve definitions and 
+classifications as well as to provide examples of  " difficult "  cases. Information should be collected in order 
+to see how the participating countries dealt with them. Although the questionnaire contained a number of 
+definitions and examples to assist participating countries in identifying different funding modes and 
+variables, some definitions were still found to be unclear, particularly for independent agencies and type of 
+instruments. The next paragraphs describe some of the priorities for further work to be done on definitions 
+and methodology. The distinction between project and institutional funding The distinction between project and institutional funding is one of the main significant contributions 
+of this project. Until now, the separation has not been part of the regular data collection of GBAORD. At 
+first sight, it seemed not to be too difficult for the participating countries to classify the GBAORD data 
+according to these two funding modes. In most cases, the required information was already included in the 
+data source. In some cases information from staff responsible for specific budget items or additional 
+background information was needed to make the necessary distinction. However, discussions with the 
+participating countries led to the conclusion that we need to specify the characteristics of institutional 
+funding, especially delineating the border with project funding. This relates to the question of the specific 
+locus of decision making about the funding into projects. Is it the government, the intermediary 
+organisations or the performing units? The classification of funding by sector of performance The experience with this indicator appears to be mixed. While some countries encountered no 
+methodological problems, others reported allocation problems in specific cases: @BULLET The main issue arises when funding goes to multiple sectors or a network of researchers: to 
+which sector should the funding be allocated when the performers are located in multiple 
+sectors? 6 Should the funding be apportioned to the relevant sectors? @BULLET Blurred borders between different sectors make it difficult to allocate some of the funding and the 
+sector of performance is not always easy to determine. For instance: -Distinguishing between non-for profit, business and higher education sector. -The legal status of an institution receiving public funding may not necessarily be a good 
+descriptor of an institution's actual role, as in the case of institutes under ministerial control 
+but primarily providing services business enterprises. Should such an institute be classified 
+to the government sector or the business enterprise sector? DSTI/DOC(2012)4 26 @BULLET Some countries raised the problem of allocating funds for intramural R&D performed within 
+government. 7 For example, Canada allocated all government intramural R&D to institutional 
+funding, because it was not possible to provide a satisfactory breakdown by type of funding. This 
+resulted in no project funding being identified as having been performed by the government 
+sector in Canada. For the next wave, clearer guidelines should be issued. In most of these cases, external information (administrative documents; annual reports of 
+organisations in the private sector; etc.) would be needed to better allocate funding to the right sector of 
+performance. The classification of project funding by funding agency In general, participating countries did not encounter major methodological difficulties (and most 
+countries gave examples of independent agencies in their country). However, the classification of project 
+funding by type of funding agency could be supported by clearer guidelines and definitions. It could be the 
+case that some of the large differences between countries can be explained by classification issues. For the 
+next wave of data collection, this issue will need to be addressed, for example by adding additional criteria 
+such as the existence of some kind of legal status, performance contracts, control mechanisms and the 
+location of the ultimate decision-making responsibility. It's also important to collect additional information 
+on independent agencies. The classification of project funding by instrument type Several countries faced issues with definition and budget allocation by instrument type. Subjective 
+judgments had to be used in combination with different assumptions. @BULLET The proposed definitions were not detailed enough to make a clear distinction between instrument 
+type. For the next wave, this issue will need to be addressed. 
+@BULLET As in the case of the present GBAORD data collection, projects should be classified according to 
+the primary objective of the funding (see also Chapter 8.7 of the Frascati Manual). 
+@BULLET One way forward, although still a global way of classifying, would be to use the NABS 
+classification for defining categories. Items with the NABS-code  " industrial production "  could be 
+treated as innovation instruments, the items with the code  " advancement of knowledge "  could be 
+treated as academic instruments and the other as policy or thematic instruments. Another solution 
+would be to look from the perspective of the funding agency: research council (= academic), 
+innovation agency (= innovation), ministry of industry (= innovation), ministry of research 
+(= academic), other ministries (= policy or thematic), but this could be a too simple solution. Conclusions The NESTI project on modes of public funding of R&D was initiated with three general aims:  " a) to 
+propose a methodology for internationally comparable indicators on public funding modes; b) to collect 
+such indicators; c) to broaden the scope of the project beyond the scope of the participating countries, to 
+develop guidelines for the implementation of the methodology on a larger scale and on a permanent basis 
+as part of the regular indicator activities of the international organisations OECD and EUROSTAT. "  The 
+findings of this project could be used in a future revision of the GBAORD section of the OECD Frascati 
+Manual. From the results of this phase of the project, it is possible to draw a number of conclusions on the 
+adequateness of GBAORD as data source, the comparability of the new data and the results obtained so 
+far. DSTI/DOC(2012)4 27 National GBAORD data can be used as a useful and potential source for data collection Seventeen out of the eighteen participating countries were able to build indicators by funding type 
+(institutional vs. project funding). Fifteen countries reported data concerning project funding agencies and 
+funding mode by sector of performance, and ten countries could report data on project funding by type of 
+instrument. In this –experimental– phase of the project, a large number of OECD countries participated. For a full 
+implementation of the data collection, participation and data from more countries would need to be 
+secured. The next project phase seeks to involve more countries in order to make a broader use of 
+GBAORD data, in full awareness that some countries articulated problems with adapting their data into the 
+new classifications. Finally, the main advantage of this methodology is the use of existing data, which can, in some cases, 
+be relatively easily complemented with additional, relatively easy-to-access information. Complementary qualitative data is required to interpret results Collecting quantitative data on public funding is not sufficient to enable their interpretation. Based on 
+the data collected it is difficult to assess the reasons behind the differences between countries. For 
+example, it is not clear how the large differences between countries with regard to the share of project 
+funding should be interpreted alongside qualitative information on funding policies of R&D, on funding 
+systems, funding agencies, funding mechanisms and funding practices as both a test of and complement to 
+the new quantitative indicators on funding patterns. A basic level of international comparability appears to be attainable Participating countries were sufficiently confident about the reliability of their data for it be published 
+and presented subject to the adequate health warnings. The publication  " Measuring innovation: A new 
+perspective "  (OECD, 2010b) made use of the results of the exercise and published two figures based on 
+these GBAORD-based indicators: one with government budgets by national sector of performance 
+(indicator 3) and the other government funded R&D in higher education by type of funding (also 
+indicator 3). The exercise has so far revealed the potential of using existing data on public funding for the 
+development and construction of a number of policy relevant indicators on public funding. The results 
+should however still be treated as preliminary. Improvements are likely to follow as the methodology is 
+tested across a large number of countries and the resulting data are analysed alongside qualitative and other 
+complementary data sources. DSTI/DOC(2012)4 28 NOTES 1. 
+Country indicators were provided by Hsien Toh (Australia), Andreas Schiefer and Gerhard Wallner (Austria), 
+Emmanuel Monard (Belgium), Louise Earl (Canada), Václav Sojka (Czech Republic), Nicolaj Helm-Petersen 
+(Denmark), Tero Luhtala (Finland), Thomas Loetzner (Germany), Andrew Stockman (Ireland), Nava Brenner 
+(Israel), Woo-Sung Lee (Korea), Jan van Steen (Netherlands), Stuart King (New Zealand), Bo Sarpebakken 
+(Norway), Jan Kozłowski (Poland), Edita Novotna (Slovak Republic), Carolina Thulin (Sweden), and 
+Elisabeth Pastor and Franz Martin (Switzerland). 
+2. 
+The notion of project can be interpreted in a broader sense to encompass research programmes, since a 
+programme can also have the same characteristics as a project (limited in scope, budget and time), only the 
+scale is usually larger, 
+3. 
+There is a subtle distinction between performers and beneficiaries of funding. Beneficiaries of public funding 
+may in some cases outsource some of the R&D to third parties that may belong to a different sector, for 
+example in the case of business beneficiaries that procure R&D services from higher education or public 
+research institutes. The adoption of a funding perspective implies that in the majority of cases it is only 
+possible to identify the beneficiary, as opposed to the final performer. 
+4. 
+Because the data collection in the PRIME project differed from the OECD data collection, the data are not 
+readily comparable. 
+5. 
+Funding of international performers is not included because GBAORD data do not provide the information on 
+the sector of performance. 
+6. 
+The issue of project funding involving different actors (therefore different sectors of performance) was 
+discussed at the last working group meeting (November 2009). The general consensus was that it had so far 
+only affected a small share of overall funding and does not appear to pose a major problem at present. 
+However, it was strongly felt that this type of funding will gain in importance over time as policies 
+increasingly focus on fostering collaborations and will therefore need to be taken into account in future 
+discussions. 
+7. 
+The OECD Frascati Manual defined intramural R&D as  " all expenditures for R&D performed within a 
+statistical unit or sector of the economy during a specific period, whatever the source of funds. "  (OECD, 2002, 
+para. 34) DSTI/DOC(2012)4 29 REFERENCES Bonaccorsi, A. (2007),  " Explaining poor performance of European science: institutions versus policies " , 
+Science and Public Policy, 34(5), 303-316. Lepori, B. (2006),  " Methodologies for the analysis of research funding and expenditure: from input to 
+positioning indicators " , Research Evaluation, 15(2),133-143 Lepori, B. et al. (2007a),  " Indicators for comparative analysis of public funding: concepts, implementation 
+and evaluation " , Research Evaluation, 16(4), 243-255. Lepori, B. et al. (2007b),  " Comparing the evolution of national policies: what patterns of change? " , 
+Science and Public Policy, 34(6), 372-388. Maass, G. (2003),  " Funding of Public Research and Development: Trends and Changes " , OECD Journal 
+on Budgeting, vol. 3, no. 4 OECD (2002), Frascati Manual 2002. Proposed standard practice for surveys on research and 
+experimental development. OECD, Paris. OECD (2010a), The OECD Innovation Strategy: Getting a Head Start on Tomorrow. OECD, Paris. OECD (2010b), Measuring innovation: A new perspective. OECD, Paris. DSTI/DOC(2012)4 30 ANNEX 1: OVERVIEW OF DEFINITIONS 1 FUNDING MODES The number between brackets relate to the different funding modes of Table 1. Total national public funding (1+2+3+4) is defined as the total of national budgets funded by the 
+government (state, federal, provincial) as measured by GBAORD or other data sources on public funding. 
+It is the sum of National public funding to national performers and national public funding to 
+international performers. Total public funding to national projects (1+5) is defined as the sum of national and international public 
+budgets in a given country, attributed to a group or an individual to perform a R&D activity limited in 
+scope, budget and time, normally on the basis of the submission of a project proposal describing the 
+research activities to be done. It is the sum of national public funding and international public funding to 
+national projects. National public funding to national performers (1+2) is defined as the sum of national public funding to 
+national projects and national public funding to national research institutions. Total international public funding = International public funding to national projects and national 
+research institutions (5+6) is defined as the R&D flows from public international organisations abroad to 
+a specific country. (European and international agencies: international organisations, including the 
+European Commission). FUNDING TYPES 1. National public funding to national projects is defined as the total of national budgets in a 
+given country, attributed to a group or an individual to perform a R&D activity limited in 
+scope, budget and time, normally on the basis of the submission of a project proposal 
+describing the research activities to be done. Funded by public national sources. 2. National public funding to national research institutions is defined as the total of national 
+budgets in a given country, attributed to an institution, for which money the organisation has 
+more or less freedom to define the research activities to be performed (also called block 
+funding). A distinction is made between general university funds and other institutional 
+funds. Funded by public national sources. 3. National public funding to international projects is defined as the part of GBAORD or 
+other data sources on public funding that goes abroad and is not going to international 
+research organisations. 4. National public funding to international organisations is defined as the part of GBAORD 
+or other data sources on public funding (national contribution) that goes to international 
+research organisations. DSTI/DOC(2012)4 31 5. International public funding to national projects is defined as the total of international 
+public budgets in a given country, attributed to a group or an individual to perform a R&D 
+activity limited in scope, budget and time, normally on the basis of the submission of a 
+project proposal describing the research activities to be done. Funded by public international 
+sources. This is not included within the scope of GBAORD data. 6. National public funding to national sector of performance is defined as the sum of national 
+public funding to national projects and national public funding to national research 
+institutions broken down by institutional sector beneficiary. SOURCE OF FUNDING National funding agencies: agencies which are directly part of the national state administration, such as 
+ministries, offices and similar bodies. A subdivision could be the distinction between the research and 
+higher education ministry and other (sectoral) ministries, such as a ministry of economic affairs or 
+agriculture. Independent agencies: agencies enjoying strong autonomy in respect to the state in their management and 
+decision-making process, such as research councils, or innovation agencies. Regional authorities: agencies that are part of the regional and local state administration. European and international agencies: international organisations, including the European Commission SECTOR OF PERFORMANCE Business enterprise sector: see OECD Frascati Manual 2002, Chapter 3.4. The sector is composed of: @BULLET All firms, organisations and institutions whose primary activity is the market production of goods 
+or services (other than higher education) for sale to the general public at an economically 
+significant price and, @BULLET The private non-profit institutions mainly serving them. Higher education sector: see OECD Frascati Manual 2002, Chapter 3.7. The sector is composed of: @BULLET All universities, colleges of technology and other institutions of post-secondary education, 
+whatever their source of finance or legal status. @BULLET All research institutes, experimental stations and clinics operating under the direct control of or 
+administered by or associated with higher education institutions. DSTI/DOC(2012)4 32 Government sector: see OECD Frascati Manual 2002, Chapter 3.5. The sector is composed of: @BULLET All departments, offices and other bodies which furnish, but normally do not sell to the 
+community, those common services, other than higher education, which cannot otherwise be 
+conveniently and economically provided, as well as those that administer the state and the 
+economic and social policy of the community. (Public enterprises are included in the business 
+enterprise sector). @BULLET Non public institutes controlled and mainly financed by government, but not administered by the 
+higher education sector. Private non profit sector: see OECD Frascati Manual 2002, Chapter 3.6. The sector is composed of: @BULLET Non-market, private non-profit institutions serving households (i.e. the general public). @BULLET Private individuals or households. INSTRUMENTS Academic instruments are instruments whose main aim is to promote basic research and scientific 
+production (for example scientific publications and PhDs). The main allocation criterion is scientific 
+reputation, beneficiaries are higher education institutions or academically oriented research institutes 
+(usually peer-reviewed). The projects or programmes are primarily investigator-driven and serve an 
+academic goal. Policy or thematic instruments are instruments oriented towards the solution of political, social or 
+economic urgent problems; innovation and economic developments might be an aim, but not so directly as 
+the category of innovation instrument. The projects of programmes are primarily policy driven and serve a 
+policy goal. Innovation instruments are instruments directly oriented towards economic innovation, such as product 
+innovation, process innovation, public-private knowledge transfer and the creation of clusters. The projects 
+or programmes are primarily innovation-driven and serve a goal towards the innovative performance of a 
+country. DSTI/DOC(2012)4 33 ANNEX 2: INDICATORS FOR TABULATION Table A1.1. National public funding (GBAORD) by funding mode and destination (national or 
+international performers) The sum of national public funding to national performers and to international performers, by project funding and 
+institutional funding million national currency 2000 
+2005 
+2008 * National public funding (1+2+3+4 = GBAORD), as the sum of: 
+0 
+0 
+0 National public funding to national performers (1+2) 
+0 
+0 
+0 National public project funding to national performers (1) National public institutional funding to national performers (2), as the sum of: 
+0 
+0 
+0 Institutional funding of universities (= GUF) Other institutional funding Breakdown not possible National public funding to international performers (3 + 4) 
+0 
+0 
+0 National public project funding to international performers (3) (of which annual membership fees to the EU Framework Programme) National public institutional funding to international performers 
+(international research organisations) (4) ** Breakdown not possible * or latest available year 
+** a listing of the international organisations would be relevant Table A1.2. Public project funding to national performers by funding agency The sum of national public project funding and international public project funding to national performers million national currency 2000 
+2005 
+2008 * Public project funding to national performers (1+5), as the sum of: 
+0 
+0 
+0 National public project funding to national performers (1) 
+0 
+0 
+0 National public funding agencies 
+0 
+0 
+0 -
+research and higher education ministry -
+other ministries ** Independent agencies *** Regional authorities Breakdown not possible International public project funding to national performers (5) 
+0 
+0 
+0 European and international agencies * or latest available year 
+** if possible with a breakdown by these ministries (or clusters of ministries) and their budgets 
+*** a listing of these agencies would be relevant (including their budgets for research projects or programmes) DSTI/DOC(2012)4 34 Table A1.3. National public funding to national performers by funding mode and destination (sector of 
+performance) The sum of national public project funding and national public institutional funding to national sectors of performance 2000 
+1. National 
+public 
+project 
+funding 2. National 
+public 
+institutional 
+funding Total MNC 
+MNC 
+MNC National public funding (1+2) to national sectors of performance 
+as the sum of: 0 
+0 
+0 Business enterprise sector 
+0 Higher education sector 
+0 Government sector 
+0 Private non profit sector 
+0 Breakdown not possible 
+0 2005 
+1. National 
+public 
+project 
+funding 2. National 
+public 
+institutional 
+funding Total MNC 
+MNC 
+MNC National public funding (1+2) to national sectors of performance 
+as the sum of: 0 
+0 
+0 Business enterprise sector 
+0 Higher education sector 
+0 Government sector 
+0 Private non profit sector 
+0 Breakdown not possible 
+0 2008 or latest available year 
+1. National 
+public 
+project 
+funding 2. National 
+public 
+institutional 
+funding Total MNC 
+MNC 
+MNC National public funding (1+2) to national sectors of performance 
+as the sum of: 0 
+0 
+0 Business enterprise sector 
+0 Higher education sector 
+0 Government sector 
+0 Private non profit sector 
+0 Breakdown not possible 
+0 DSTI/DOC(2012)4 35 Table A1.4. National public project funding to national performers by type of instruments The sum of national public project funding to national performers by type of instruments million national currency 2000 
+2005 
+2008 * National public project funding to national performers (1), as the sum of: 
+0 
+0 
+0 Academic instruments Policy or thematic instruments Innovation instruments Breakdown not possible * or latest available year Table A1.5. International public funding to national performers by destination (sector of performance) The sum of international public project funding and international public institutional funding to national performers million national currency 2000 
+2005 
+2008 * International public funding to national performers (5+6) as the sum of: 
+0 
+0 
+0 Project funding from European and international agencies**, to national sectors of 
+performance (5) 
+0 
+0 
+0 Business enterprise sector Higher education sector Government sector Private non profit sector Breakdown not possible Institutional funding from European and international agencies**, to national 
+performers (6), if relevant * or latest available year ** If possible, specified by agency DSTI/DOC(2012)4 36 ANNEX 3. METADATA SUMMARY Australia 
+Data source 
+GBAORD. Provisional for the most recent budget year (2009-10), but final for earlier years. No 
+other data sources. 
+Distinction 
+project/ 
+institutional Based on the stated programme objectives. For institutional funding, the criteria are that the funding 
+is provided as a block funding to a unit that has been established as an independent legal entity 
+through an Act of Parliament (Federal or State) or established through a formal legal process and the 
+entity is free to allocate the funding to different priorities according to its governance procedures. 
+This is mostly the case for the publicly funded research agencies and the university sector. The 
+exception is where the independent agency, which has been established by an Act of Parliament, is 
+charged with distributing the appropriated monies to external parties to support research of limited 
+scope and duration e.g. research councils. In this instance, the entire amount is classed as Project. 
+For project funding, the criteria are that the scope and duration of the funding are limited, 
+irrespective of characteristic of recipient. 
+Problems 
+No major difficulties in collecting the data 
+Main 
+independent 
+funding 
+agencies The two main independent funding agencies are the: Australian Research Council and the National 
+Health and Medical Research Council Problems / 
+issues There may be other state agencies, but the main ones are listed in the table Performers 
+by 
+institutional 
+sector Sectoral attribution is by destination or recipient of the funding. The two problems encountered are 
+where there are multiple sectors involved or where it is not clear which institutional sector a recipient 
+should be assigned to (e.g. legal structure versus function). While some entities may be incorporated 
+under the Corporations Act (2001), it may depend on other legal arrangements regarding their 
+classification for tax purposes as well as the proportion of private versus public funding. The other 
+relevant legislation is the Commonwealth Authorities and Companies Act (1997). These factors may 
+complicate the allocation. Agencies have been asked to prorate the appropriations by institutional 
+sector where funding recipients belong to multiple sectors following the recommendations of the 
+Frascati Manual as closely as possible. Where agencies are able to identify the percentage 
+distributions, these are applied in the distribution. Where the breakdown is not available, roughly 
+equal proportions are applied. 
+Projects by 
+type of 
+instruments The definition of the instrument types is somewhat difficult to interpret. Funding intentions 
+corresponding to the 'Academic Instrument' could be more easily identified but distributions 
+according to instrument types were based on assumptions i.e. funding intentions had to be translated 
+into their equivalents in terms of 'instruments'. The test for the 'Innovation Instrument' is whether 
+the programme objectives satisfy the Oslo Manual definition of innovation. 
+Austria 
+Data source 
+GBAORD. Final for 2000 and 2005, provisional for 2009 (i.e. the latest available year). 
+Distinction 
+project/ 
+institutional No distinction is made between the two  " funding modes "  in Annex T. Many budget items can be 
+categorized relatively easily (as they are easily identifiable), some budget items need closer 
+investigation by studying further background documents containing more details. 
+Problems 
+The distinction is for some items difficult without additional background information. National 
+research funding agencies are considered as project funding. Data do not necessarily relate to the 
+funds these agencies provide yearly (autonomy). DSTI/DOC(2012)4 37 Main 
+independent 
+funding 
+agencies For the moment two main independent agencies are identified:  " Research Promotion Agency "  (FFG) 
+which mainly funds business R&D and the  " Science Funds "  (FWF), which mainly funds R&D in the 
+higher education sector. The  " Klima-und Energiefonds "  plays (up to now) a small role. Problems / 
+issues No major problems (difference between GBAORD outlays and actual outlays of institutions). Performers 
+by 
+institutional 
+sector Similar problems as the distinction between  " institutional funding "  and  " project funding "  occur. For 
+many budget items the recipients can be categorised very easily, for others it is difficult. Additional 
+information sources are used to estimate the distribution of certain items to the various sectors of 
+performance. 
+Projects by 
+type of 
+instruments Budgetary items would have to be labelled similarly to the methodology used for Table 1. However, 
+there is not enough information available for the various budget items to make an attribution of 
+reasonable quality. 
+Belgium 
+Data source 
+GBAORD. The GBAORD data are collected on a yearly basis, at the level of budget items related 
+with the decentralised STI competences of the communities, the regions and the federal state 
+data are provided for 2008 on the basis of the final budget, except for the data of the Federal 
+authority (on the basis of the provisional 2008 budget). Provisional 
+Distinction 
+project/ 
+institutional The GBAORD data in Belgium are classified not only according to the NABS classification, but also 
+to a functional and institutional destination classification (CFS/STAT-nomenclature) of the budget 
+items. This CFS/STAT-nomenclature is helpful in making the distinction between project funding 
+and institutional funding. 
+Problems 
+No significant methodological problems encountered. 
+Main 
+independent 
+funding 
+agencies Flemish region: 
+-Agency for Innovation by Science and Technology (IWT); 
+-Research Foundation in Flanders (FWO); 
+-Hercules foundation for the funding of research infrastructures 
+Brussels region: 
+-Innoviris (the Brussels Institute for Research and Innovation); 
+-Brussels Enterprise Agency; 3) Research in Brussels 
+Walloon region: 
+-ASE (Economic Stimulation Agency); 
+-AST (Agency for Technology Promotion). 
+-FRS-FNRS (Scientific Research Fund) 
+Problems / 
+issues No significant methodological problems encountered. Performers 
+by 
+institutional 
+sector Problems occur especially when trying to detail project funding. The destination of project funding to 
+the different sectors is not always clear because of a combination of different sectors involved. Only 
+when a project register should be made, this could solve the problems. So, for the moment a rough 
+distinction is made of those budget items with multiple destinations. 
+Flemish government: for many funds (about 50 of a total of 175) of the Flemish GBAORD, the 
+sectors of performance are only known in the course of the budget year. For the Flemish government, 
+the expenditure analysis was consulted to find out which sectors executed the projects. 
+Projects by 
+type of 
+instruments A best-guess approach was applied. The difficulty between policy instruments and innovation 
+instruments is not always clear. Better definitions seem to be necessary (because of an overlap in the 
+definitions). Innovation instruments are in principal not part of GBAORD. ESA and Airbus are 
+typical examples of being both innovative instruments and policy or thematic instruments. 
+Flemish Government: no major problems encountered, because the existing explanatory notes of the 
+different funds give the answer. Although in some cases consultation of the expenditure analysis was 
+necessary. 
+Canada 
+Data source 
+GBAORD. Data is for the central government only (information of provincial and municipal 
+government is excluded). Canada GBAORD as published by the OECD is also for central 
+government only. Final data for 2000 and 2005; Provisional data for 2008 (in particular the GUF for 
+2008 is an approximation based on 2007) DSTI/DOC(2012)4 38 Distinction 
+project/ 
+institutional Distinction made on different assumptions (based on which department/ministry/agency provided the 
+funds and to whom (performers)). 
+Project funding comes mainly from six departments or agencies (three research councils provide 
+funding to academics on a research project proposal basis; one agency provides infrastructure funds 
+to higher education institution on a research project proposal basis; and two departments provides 
+R&D funds to business on research project proposal basis). 
+Institutional funding comes mainly from government funding in-house R&D and GUF. For 
+government funding in-house R&D, it is not possible to get a better breakdown 
+Problems 
+In Canada, government R&D funding is decentralized. More than 40 different departments/agencies 
+are reporting R&D funding. It was not possible to ask each department to provide a list/breakdown of 
+project vs. institutional funding. However, assumption was made depending on who (which 
+department) provided the funds, and to whom (performer). In general, funding in higher education 
+(from research councils) and in business sector is allocated through R&D research project (project-
+based funding). 
+For intramural R&D, it was not possible to provide a satisfactory breakdown. All in-house R&D was 
+then allocated to institutional funding. 
+For other performers (private non profit; other performers) total funding is small and was allocated to 
+institutional funding. 
+Main 
+independent 
+funding 
+agencies There are three main research councils (independent agency providing funds to higher-education 
+sector) and one agency providing R&D infrastructure fund to higher-education sector: 
+-Natural Sciences and Engineering Research Council of Canada 
+-Canadian Institutes of Health Research 
+-Social Sciences and Humanities Research Council of Canada 
+-Canada Foundation for Innovation (R&D infrastructure fund) 
+These four agencies provide around 95% of all government direct funding (excluding GUF) to higher 
+education sector, and almost all of that funding is distributed by project-funding. 
+Problems / 
+issues 
+Performers 
+by 
+institutional 
+sector The main problem is for in-house government R&D where all funding was allocated to institutional 
+funding. There is no central S&T ministry in Canada that would provide R&D funding to different 
+ministries. Each ministry is responsible of his own R&D and from a total budget they will decide 
+how much to spend in R&D to fulfil their mission. No more information is available. This is why it 
+was decided to allocate all the in-house R&D as institutional. 
+Projects by 
+type of 
+instruments Project funding to businesses was allocated to innovation. No distinction possible for academic and 
+policy instruments for Higher Education and in-house R&D. Switzerland 
+Data source 
+GBAORD, final 
+Distinction 
+project/ 
+institutional Project funding partly from the data source, partly with additional labelling. Institutional funding 
+partly from the data source, partly with additional labelling. Problems 
+Main 
+independent 
+funding 
+agencies Contributions to the 2 independent agencies: 
+The Swiss National Science Foundation (SNF) 
+The Commission for Technology and Innovation (CTI) 
+Regional authorities = National public funding to national projects by Regional authorities: 
+Regional authorities funding = Contracts given by the cantons to the Higher Education sector only. 
+(this is not exhaustive, but we have no more data). 
+International public funding to national projects by: 
+European and international agencies: contributions from EU (breakdown not possible between EU-
+FP, COST, etc.) directly paid to the different beneficiaries of EU-FP. 
+We calculate this EU contribution making the difference between the total EU-FP published in the 
+SER statistics) and the direct contributions of the SER to the beneficiaries of the EU-FP (what 
+remains of the old system of payment). DSTI/DOC(2012)4 39 Problems / 
+issues No reported problems. Regional authorities in Switzerland are the  " cantons " . We do not survey the 
+regional level. We have some information at the regional level in  " funding sources "  in HES. For 
+instance: Contracts given by the cantons to the higher education sector. 
+Performers 
+by 
+institutional 
+sector No problems / issues reported Projects by 
+type of 
+instruments The following allocation criterion is adopted (which institutes contribute to which instrument). 
+-Academic instruments: 
+@BULLET Contributions from SNF to research projects excluding contributions to the National Research 
+Programmes (NRP) 
+-Policy or thematic instruments: 
+@BULLET Contracts given by the Confederation and by the cantons (regional authorities) + 
+@BULLET EU-FP contributions from the State Secretariat for Education and Research (SER) directly to the 
+Research projects 
+@BULLET Contributions from SNF to the NRP. 
+-Innovation instruments: 
+@BULLET Contributions from the Commission for Technology and Innovation (CTI) to various Research 
+projects). 
+Czech Republic 
+Data source 
+GBAORD data have been collected since 2002. The provided data are based on the final data. 
+Detailed breakdowns are not available for the provisional data (only basic breakdown: 
+institutional/project funding sorted by funder – the legal act concerning state budget in given year). 
+Distinction 
+project/ 
+institutional Made directly from the data source. Breakdown listed in the legal act. Some confidential data 
+(defence ministry) not available. GUF also contains project funding. Problems 
+The national public funding to the EU Framework Programme is classified under institutional 
+funding and also under programmes (project funding). We know exactly the total figure but the 
+distinction between the institutional part of funding and the project part of funding is not satisfactory. 
+Since year 2009 the system of public supporting has been changed by updated legal act. One part of 
+institutional funding (significant one – specific research at universities) is reclassified as the project 
+funding. 
+Main 
+independent 
+funding 
+agencies The project funding is realized through 20 government bodies listed in the legal act concerning the 
+state budget in given year. Please see following document: State Supported R&D in the Czech 
+Republic – Short Guidebook 2009. 
+What do you mean  " independent agencies " ? All are government bodies/agencies (maybe: Academy 
+of Science of the Czech Republic, Grant Agency of the Czech Republic). Please see above mentioned 
+document 
+Problems / 
+issues No significant problems. But questions about the definition of independent agencies (20 government 
+bodies have project funding). 
+Performers 
+by 
+institutional 
+sector No serious problems. Individual researchers are not covered in the data of this table. Projects by 
+type of 
+instruments Data are based on programmes. In several cases it has been a bit difficult to identify the real 
+instrument because the programme is rather multi-oriented. Germany 
+Data source 
+GBAORD data are collected annually in the way of budget text analysis, at the level of budget items 
+for each ministry and each of the 16 Länder. Data on public funding are obtained from the budget 
+plan ( " Haushaltsplan " ). Basic unit is the item  " Haushaltstitel " . In addition, information from the 
+Länder ministries is used. R&D-shares are partly estimated. 
+Data for the year 2007 are final. At the moment the results obtained for 2008 and 2009 are 
+preliminary. DSTI/DOC(2012)4 40 Distinction 
+project/ 
+institutional The official in charge labels each single item and has to do a distinction between project funding and 
+institutional funding in the way of a case by case decision. Information from the budget text analysis 
+is taken into consideration. 
+Problems 
+No major difficulties reported 
+Main 
+independent 
+funding 
+agencies No independent agencies are mentioned Problems / 
+issues International public funding is not part of GBAORD Performers 
+by 
+institutional 
+sector Allocation sometimes difficult Projects by 
+type of 
+instruments Not possible, no information available Finland 
+Data source 
+GBAORD, 2005 final, 2010 provisional 
+Distinction 
+project/ 
+institutional Directly from the data source plus additional labelling Problems 
+Main 
+independent 
+funding 
+agencies Academy of Finland (ministry of Education) & Tekes – the Finnish Funding Agency for Technology 
+and Innovation (Ministry of Employment and the Economy) Problems / 
+issues 
+Performers 
+by 
+institutional 
+sector 
+Projects by 
+type of 
+instruments 
+Ireland 
+Data source 
+GBAORD, final data 
+Distinction 
+project/ 
+institutional Directly from the data source; data is collected at the programme level and recoded Problems 
+Main 
+independent 
+funding 
+agencies -Science Foundation Ireland 
+-Higher Education Authority 
+-Enterprise Ireland, 
+-Teagasc (the Irish Agricultural and Food Development Authority 
+-IDA Ireland (the inward investment promotion agency), 
+-Marine Institute. 
+Problems / 
+issues 
+Performers 
+by 
+institutional 
+sector DSTI/DOC(2012)4 41 Projects by 
+type of 
+instruments 
+Israel 
+Data source 
+GBAORD data are collected on a year by year basis, at the level of budget items for each ministry. 
+GUF data are collected on a year by year basis from the annual report of the council for higher 
+education. Data for Government ministries are final for 2000-2008. Data for GUF are provisional for 
+2008. 
+Distinction 
+project/ 
+institutional Directly from the data source; data is collected at the programme level and recoded Problems 
+Reported challenge as to how to treat intramural expenditure of ministries (institutional funding?) 
+Project funding is also delivered to institutions, suggesting it might be better to use other terminology 
+to institutional funding -perhaps non-project? 
+Main 
+independent 
+funding 
+agencies 
+Problems / 
+issues 
+Performers 
+by 
+institutional 
+sector 
+Projects by 
+type of 
+instruments 
+Netherlands 
+Data source 
+GBAORD. Final for 2000 and 2005, provisional for 2008 (t minus 1; data of the budget 2009). 
+Distinction 
+project/ 
+institutional Based on destination labels. Recently the distinction is more explicitly obtained from ministries. Problems 
+No major difficulties reported 
+Main 
+independent 
+funding 
+agencies Netherlands Organisation for Scientific Research (NWO) and NL Agency. Problems / 
+issues The two main agencies have been identified. There may be other relevant agencies. The Ministry of 
+Economic Affairs has allocated budget items to its own agency (NL). 
+Performers 
+by 
+institutional 
+sector Problems occur especially when trying to detail project funding. The destination of project funding to 
+the different sectors is not always clear, because of a combination of different project performers. 
+Addressing this issue would require a project register. For the time being a rough allocation is made 
+for those budget items with multiple destinations. 
+Projects by 
+type of 
+instruments GBAORD does not contain the variable  " type of instrument "  so a subjective judgement has to be 
+made for each budget item. In the future this has to be validated with the ministries. But it is however 
+an educated guess. 
+Poland 
+Data source 
+GBAORD, provisional 
+Distinction 
+project/ 
+institutional 
+Problems 
+Main 
+independent 
+funding In principle, all funds for science are only distributed via the Ministry of Science and Higher 
+Education (special item in the state budget), mainly by the ministry itself, partially via agencies. In 
+fact, some other ministries or regional authorities also use funds for R&D taken from other budgetary DSTI/DOC(2012)4 42 agencies 
+items, such as defence, culture and so on. So far information on the R&D financed from these other 
+budgetary items (except for defence) is not available. 
+All depend what you mean by independent. National R&D Centre (dependent but separate), 
+Foundation for Polish Science (really independent as a non-profit). 
+Problems / 
+issues Special request sent to all ministries (executed) and (planned) request to all regional authorities as 
+well as big cities for data on expenditures R&D from other sources than budget of science. 
+Performers 
+by 
+institutional 
+sector 1) As in many countries, divisions between sectors are blurred. 
+2) Available data base provide information on business and non-profit sectors jointly; separation 
+require going to and aggregating individual data. Projects by 
+type of 
+instruments No special problems, except from the fact that not all instruments could be easily ascribed to one of 
+the separated categories. Slovak Republic 
+Data source 
+GBAORD. Final data. GBAORD data are collected on a year by year basis, at the level of budgetary 
+items for each ministry. GBAORD data are not available in such detailed structure required by this 
+exercise, so a special request was sent to ministries and other central bodies to obtain the relevant 
+data. Institutions had problems with providing of data. 
+Distinction 
+project/ 
+institutional One of the characteristics of the GBAORD data collection is the distinction label of the budgetary 
+item. The data collection is explicitly made on the basis of a distinction between institutional funding 
+and project funding. The data follows directly from the data source. 
+Problems 
+No major methodological problems encountered. 
+Main 
+independent 
+funding 
+agencies -R&D Support Agency 
+-Agency of the Ministry of Education for Structural EU Funds. Problems / 
+issues 
+Performers 
+by 
+institutional 
+sector It is a problem to convince the ministries of the importance of clear data with clear variables. This is 
+not a general situation for all ministries, there are exceptions. Projects by 
+type of 
+instruments GBAORD does not contain the variable  " type of instrument "  so a subjective judgement has to be 
+made. Sweden 
+Data source 
+GBAORD. Final for 2000 and 2005 and provisional for 2009. 
+Distinction 
+project/ 
+institutional Only GUF data reported. It is not possible to distinguish between the two. Would require additional 
+surveys. Problems 
+Main 
+independent 
+funding 
+agencies The Swedish Research Council 
+The Swedish Council for Working Life and Social Research (FAS) 
+The Swedish Research Council for Environment, Agricultural Sciences and Spatial Planning 
+(FORMAS) 
+The Swedish Governmental Agency for Innovation Systems (VINNOVA) 
+Problems / 
+issues 
+Performers 
+by 
+institutional 
+sector 
+Projects by 
+type of 
+instruments DSTI/DOC(2012)4 43 ANNEX NOTES 1. 
+These definitions were used in the pilot data collection. The tables for the data collection are in annex 2. 

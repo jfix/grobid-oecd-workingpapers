@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">OECD Publication</orgName>,
+							<address>
+								<addrLine>2 rue André Pascal</addrLine>,
+								<postCode>75775</postCode>
+								<settlement>Paris Cedex 16</settlement>,
+								<country>France Canada, China</country>,
+								<country>Egypt, Japan</country>,
+								<country>Jordan, Korea</country>,
+								<region>Malaysia, Mexico</region>,
+								<country>Thailand, United States, Venezuela</country> Argentina,
+								<country>Australia</country>,
+								<country>Botswana</country>,
+								<region>Brazil</region>,
+								<country>Canada</country>,
+								<country>Chile, China, Colombia</country>,
+								<region>Costa Rica, Cuba, Dominican Republic</region>,
+								<addrLine>Ecuador, Egypt, El Salvador, Indonesia</addrLine>,
+								<region>Israel, Japan, Korea, Kuwait, Malaysia, Mexico</region>,
+								<country>Pakistan, Philippines, Qatar</country>,
+								<region>Saudi Arabia</region>,
+								<country>Singapore</country>,
+								<addrLine>South Africa</addrLine>,
+								<country>Switzerland</country>,
+								<addrLine>Chinese Taipei</addrLine>,
+								<country>Thailand, United States</country>,
+								<country>Uruguay</country> Argentina,
+								<country>Australia, Botswana</country>,
+								<region>Brazil</region>,
+								<country>Canada</country>,
+								<country>Chile, China</country>,
+								<country>Colombia, Cuba</country>,
+							</address>
+							<orgName type="institution">Dominican Republic</orgName>,
+							<address>
+								<country>Ecuador, Indonesia</country>,
+								<region>India, Japan, Korea, Malaysia, Mauritius, Philippines</region>,
+								<addrLine>South Africa, Chinese Taipei</addrLine>,
+								<country>Thailand, Turkey, United States, Venezuela,</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

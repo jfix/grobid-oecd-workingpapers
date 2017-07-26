@@ -1,0 +1,75 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+        <bibl><label>1.</label> Homes Passed are potential premises to which an operator has the capability to connect in a service area, but the premises may or may not be<lb/> connected to the network. Typically new service activation will require the installation and/or connection of a drop cable from the homes passed<lb/> point (e.g. fibre-pedestal, handhole, chamber, utility-pole) to the premises, and the installation of subscriber premises equipment, including an ONT<lb/> (Optical Network Termination) device at the premises.<lb/> </bibl>
+        <bibl><label>2.</label> Network architecture in which a communications path is provided over optical fibre cables extending from the telecommunications operator&apos;s<lb/> switching equipment to (at least) the boundary of the home living space or business office space.<lb/> </bibl>
+        <bibl><label>3.</label> Network architecture in which a communications path is provided over optical fiber cables extending from the telecommunications operator&apos;s<lb/> switching equipment to (at least) the boundary of the private property enclosing the home or business of the subscriber or set of subscribers, but<lb/> where the optical fiber terminates before reaching the home living space or business office space and where the access path continues to the<lb/> subscriber over a physical medium other than optical fiber (for example copper loops).<lb/> </bibl>
+        <bibl><label>4.</label> Topologies can be either point-to-point (PtP) or point to multipoint (PtMP).<lb/> </bibl>
+        <bibl><label>5.</label> Altnets are alternative network operators other than the traditional Incumbent operator.<lb/> </bibl>
+        <bibl><label>6.</label> Data excludes the network of the main cable operator in France, Numericable.<lb/> </bibl>
+<bibl>Sources: IDATE for the FTTH Council Europe (data as of June 2010), FTTH Council North America (data as of September 2010), FTTH Council<lb/> Asia Pacific (data as of December 2009). Data is for FTTH/B only. FTTC and FTTLA are not included. See definition in Annex 1 for further<lb/> details.<lb/> </bibl>
+<bibl>BIBLIOGRAPHY<lb/> </bibl>
+<bibl>Analysys Mason (2010), &quot;Fibre capacity limitations in access networks&quot;. Available at:<lb/> http://stakeholders.ofcom.org.uk/binaries/research/technology-research/fibre.pdf.<lb/> </bibl>
+<bibl>ARCEP (2009) &quot;Rapport relatif au déploiement des réseaux en fibre optique suite à la première phase de<lb/> travaux d&apos;expérimentation et d&apos;évaluation menés sous l&apos;égide de l&apos;ARCEP&quot;. Available here:<lb/> www.arcep.fr/uploads/tx_gspublication/rapport-fibre-thd-070409.pdf.<lb/> </bibl>
+<bibl>Baumol, et. al. (1983), &quot;Contestable markets: an uprising in the theory of industry structure: Reply (1983)&quot;.<lb/> The American Economic Review, Vol. 73. No. 3, pp. 491-496.<lb/> </bibl>
+<bibl>BEREC (2010),. BoR (10) 08 BEREC, Report on NGA wholesale products. Available here:<lb/> www.erg.eu.int/doc/berec/bor_08.pdf.<lb/> </bibl>
+<bibl>Berkman Centre (2009), &quot;Next Generation Connectivity: A review of broadband Internet transitions and<lb/> policy from around the world&quot;. Available at:<lb/> www.fcc.gov/stage/pdf/Berkman_Center_Broadband_Study_13Oct09.pdf<lb/> </bibl>
+<bibl>Cave, M. (2006), &quot;Six Degrees of Separation: Operational Separation as a Remedy in European<lb/> Telecommunications Regulation&quot;. Communications &amp; Strategies, 1-15.<lb/> </bibl>
+<bibl>Cave, M. (2010), &quot;Snakes and ladders: unbundling in a next generation world&quot;, Telecommunications<lb/> Policy, Vol 34 pp 80-85.<lb/> </bibl>
+<bibl>Cave, M. SHORTALL, T. (2010), &quot;The Extended Gestation and Birth of the European Commission&apos;s<lb/> Recommendation on the Regulation of NGAs&quot; in Monitoring EU Telecoms Policy 2010: NEREC.<lb/> </bibl>
+<bibl>European Commission 2010, Progress Report on the Single European Electronic Communications Market<lb/> (15th Report) .<lb/> </bibl>
+<bibl>European Commission 2010 &apos;European Broadband: investing in digitally driven growth&apos; COM(2010)<lb/> 472/3<lb/> </bibl>
+<bibl>Ida, T. (2009), Broadband Economics: Lessons from Japan, Routledge, London<lb/> IDATE (2007), Digiworld Presentation.<lb/> </bibl>
+<bibl>IDATE (2010), &quot;FTTX 2010, Market Trends, Facts &amp; Figures&quot; www.idate.org/.<lb/> </bibl>
+<bibl>ITU (2005), &quot;Ubiquitous Network Societies: The Case of the Republic of Korea&quot;.<lb/> </bibl>
+<bibl>J. Scott Marcus (2008), &quot; Network Neutrality: The Roots of the Debate in the United States. &quot; ,<lb/> Intereconomics, Volume 43, Number 1.<lb/> </bibl>
+<bibl>J. Scott Marcus, Kenneth R. Carter and Christian Wernick (2009), &quot; Network Neutrality: Implications for<lb/> Europe &quot; , WIK.<lb/> </bibl>
+<bibl>MICJ (2006), &quot;Release of &apos;Next-Generation Broadband Strategy 2010&quot; and &quot;Results of Public Comment<lb/> Thereon&quot; Press release 11.08.2006, at:<lb/> www.soumu.go.jp/joho_tsusin/eng/Releases/Telecommunications/news060811_1.html<lb/> MICJ (2008),.&quot;Japan&apos;s Strategy for the Nationwide Development of Broadband and FTTH&quot;. Presentation<lb/> for OECD at 11 April 2008 at:. www.oecd.org/dataoecd /54/16/40 461317.pdf<lb/> OECD (2008a). &quot;Broadband Growth and Policies in OECD Countries&quot;. Available at:<lb/> www.oecd.org/dataoecd/32/57/40629067.pdf<lb/> OECD (2008b), &quot; Developments in fibre technologies and investment &quot; . Available at:<lb/> www.oecd.org/dataoecd/49/8/40390735.pdf.<lb/> </bibl>
+<bibl>OECD (2009), &quot;Network Developments in Support of Innovation and User Needs&apos;. Available at:<lb/> www.oecd.org/officialdocuments/displaydocumentpdf/?cote=dsti/iccp/cisp(2009)2/final&amp;doclangua<lb/> ge=en.<lb/> </bibl>
+<bibl>OPTA (2006), &quot;Is Two Enough&quot;. Economic Policy Note, N°. 6<lb/> </bibl>
+<bibl>Tucker, Rodney S. &quot;Broadband facts, fiction and urban myths&quot;. Telecommunications Journal of Australia.<lb/> Monash University ePress: Victoria, Australia. www.epress.monash.edu.au/. : 43.1–43.15.<lb/> DOI:10.2104/tja10043.<lb/> </bibl>
+<bibl>Twist, K. (2007), &quot;Driving fibre closer to the home&quot;, Nature Photonics 1, 149-150. 22.<lb/> </bibl>
+<bibl>WiK (2008), &quot;The Economics of Next Generation Access -Final Report&quot;. Available at:<lb/> http://www.ectaportal.com/en/REPORTS/WIK-Study/WIK-NGA-Study-2008/<lb/> NOTES<lb/> 1<lb/> </bibl>
+<bibl>IDate &apos;FTTX Facts and Figures 2010&apos; and FTTH Council Europe.<lb/> </bibl>
+<bibl>2<lb/> </bibl>
+<bibl>Triennial Review Order, FCC 03-36, at para. 3 (http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-<lb/>03-36A1.pdf)<lb/> </bibl>
+<bibl>3<lb/> </bibl>
+<bibl>See FCC 04-254: http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-04-254A1.pdf<lb/> 4<lb/> http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-264436A1.pdf; Letter from Edward Shakin, Vice<lb/> President and Associate General Counsel, Verizon, to Marlene H. Dortch, Secretary, FCC, WC Docket No.<lb/> 04-440, at Attach. 1 (filed Feb. 7, 2006) (Verizon Feb. 7, 2006 Letter) (including a list of 10 specific<lb/> broadband<lb/> services<lb/> for<lb/> which<lb/> Verizon<lb/> is<lb/> seeking<lb/> forbearance)<lb/> (http://gullfoss2.fcc.gov/prod/ecfs/retrieve.cgi?native_or_pdf=pdf&amp;id_document=6518324844)<lb/> </bibl>
+<bibl>5<lb/> </bibl>
+<bibl>http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-07-180A1.pdf<lb/> 6<lb/> http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-08-168A1.pdf<lb/> 7<lb/> http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-07-184A1.pdf<lb/> 8<lb/> http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-07-180A1.pdf at para. 57;<lb/> http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-08-168A1.pdf at para. 58.<lb/> </bibl>
+<bibl>9<lb/> </bibl>
+<bibl>http://www.fcc.gov/stage/pdf/Berkman_Center_Broadband_Study_13Oct09.pdf<lb/> 10<lb/> </bibl>
+<bibl>American Recovery and Reinvestment Act of 2009, Pub. L. No. 111-5, § 6001(k)(2)(D), 123 Stat. 115, 516<lb/> (2009) (Recovery Act).<lb/> </bibl>
+<bibl>11<lb/> </bibl>
+<bibl>Article 19 Recommendations seek to ensure a harmonised approach.<lb/> </bibl>
+<bibl>12<lb/> </bibl>
+<bibl>In European Union Member States, access products are split into physical access markets (market 4) and<lb/> virtual access markets (market 5). See the Official Journal of the European Communities OJ L 344,<lb/> 28.12.2007, p. 65 for a full description.<lb/> </bibl>
+<bibl>13<lb/> http://www.lightreading.com/document.asp?doc_id=130970;<lb/> http://www.koreaninsight.com/2009/02/south-korea-will-build-1-gbs-information-superhighway-by-<lb/>2012/; www.ic.gc.ca/eic/.../dgtp-003-08-telesat-replycomments.pdf;<lb/> http://www.usda.gov/rus/telecom/; http://www.usda.gov/rus/telecom/;<lb/> http://telcommunicator.blogspot.com/2009/04/australia-goes-structural-separation.html<lb/> http://www.med.govt.nz/upload/63958/Final-broadband-initiative-consultation-document.pdf;<lb/> http://www.pm.gov.au/media/Release/2009/media_release_0903.cfm;<lb/> http://www.hs.fi/english/article/State+support+proposed+for+high-speed+broadband/1135239537496;<lb/> http://francenumerique2012.fr/;<lb/> http://www.telecompaper.com/news/article.aspx?cid=659108 ;<lb/> http://www.lightreading.com/document.asp?doc_id=172134 ;<lb/> http://www.lightreading.com/blog.asp?blog_sectionid=384&amp;doc_id=170236;<lb/> http://www.planavanza.es/NR/rdonlyres/EAF9F73D-DF3B-4955-8CCD-<lb/>F5AA38642A1F/0/TheInformationSocietyinSpain.pdf;<lb/> http://www.dcms.gov.uk/news/news_stories/7621.aspx<lb/> 14<lb/> </bibl>
+<bibl>European Commission 2010 &apos;European Broadband: investing in digitally driven growth&apos; COM(2010)<lb/> 472/3<lb/> </bibl>
+<bibl>15<lb/> </bibl>
+<bibl>For instance BT accounts for approximately 2% of the FTTH/B lines identified in the UK as at July 2010.<lb/> </bibl>
+<bibl>16<lb/> http://www.totaltele.com/view.aspx?ID=456367<lb/> 17<lb/> IDATE for FTTH Council Europe.<lb/> </bibl>
+<bibl>18<lb/> </bibl>
+<bibl>See &apos;Fiber To The Home Benefit Compendium&apos; Yankee Group 2010<lb/> </bibl>
+<bibl>19<lb/> </bibl>
+<bibl>See for example Arcep 2009.<lb/> </bibl>
+<bibl>20<lb/> </bibl>
+<bibl>WiK 2008, ARCEP 2009<lb/> </bibl>
+<bibl>21<lb/> E.g. Opta in the Netherland, Arcep in France<lb/> 22<lb/> E.g. SFR in France, Sonaecom Portugal<lb/> 23<lb/> http://stakeholders.ofcom.org.uk/binaries/research/technology-research/fibre.pdf interestingly, Analysis<lb/> Mason also rank TDM PON ahead of PtP networks due (principally) to operational space requirements.<lb/> </bibl>
+<bibl>24<lb/> </bibl>
+<bibl>The key upgrade requirement is that active equipment in the field will need to be changed. Deployments<lb/> which anticipate upgrades are likely to facilitate such a change. For example Portugal Telecom in Portugal<lb/> and Verizon in the United States have both used snap-in, snap-out type systems for splitters (an active<lb/> element) which should make an upgrade easier than spliced solutions if an upgrades were ever<lb/> implemented.<lb/> </bibl>
+<bibl>25<lb/> http://stakeholders.ofcom.org.uk/consultations/wla/<lb/> 26<lb/> http://circa.europa.eu/Public/irc/infso/ecctf/library?l=/sterreich/registeredsnotifications/at20101084&amp;vm=d<lb/> etailed&amp;sb=Title<lb/> 27<lb/> </bibl>
+<bibl>See M Cave, &apos;Snakes and ladders: unbundling in a next generation world,&apos; Telecommunications Policy,Vol<lb/> 34 (2010) pp 80-85.<lb/> </bibl>
+<bibl>28<lb/> E.g. France does not a have regulated FTTH/B bitstream product, the Netherlands has limited bitstream<lb/> access over FTTH to the high-quality market, while Portugal has proposed to bring forward regulated<lb/> bitstream offer in the non-competitive areas. Spain has limited bitstream access to products under 30 mbs.<lb/> Note that this position may be viewed as being at odds with the European Commission&apos;s advice regarding<lb/> the availability of access products.<lb/> </bibl>
+<bibl>29<lb/> E.g. Ofcom in the United Kingdom. While Ofcom also favours infrastructure-based competition (hence its<lb/> focus on LLU) but recognises that, in relation to superfast broadband, the best solution may vary by<lb/> geography and ultimately hopes to achieve a form of light-wave unbundling.<lb/> </bibl>
+<bibl>30<lb/> </bibl>
+<bibl>Local loop availability and pricing in the Netherlands and Canada being the most celebrated examples.<lb/> </bibl>
+<bibl>31<lb/> </bibl>
+<bibl>See for example: Enck J. and Reynolds T. (2009) &apos;Network Developments in Support of Innovation and<lb/> User Needs&apos; OECD. See also Ovum 2009 &apos;Fibre: the socio-economic benefits&apos;</bibl>
+        </listBibl>
+    </text>
+</tei>
+

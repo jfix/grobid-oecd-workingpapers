@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Lenka</forename>
+								 <surname>Poliaková</surname>,
+							</persName>
+							<persName>
+								 <forename>Jan</forename>
+							<lb/>
+								 <surname>Alexa</surname>,
+								<roleName>Dr</roleName> .
+							</persName>
+							<persName>
+								<forename>Leon</forename>
+								 <surname>Levi</surname> ,
+							</persName>
+							<persName>
+								<forename>Eli</forename>
+								 <surname>Cohen</surname> ,
+							</persName>
+							<persName>
+								<forename>Shlomit</forename>
+								 <surname>Krapivka</surname> ,
+							</persName>
+							<persName>
+								<forename>Yonatan</forename>
+								 <surname>Green</surname> ,
+							</persName>
+							<persName>
+								<forename>Robert</forename>
+								 <surname>Murray</surname> ,
+							</persName>
+							<persName>
+								<forename>Graham</forename>
+								 <surname>Atkinson</surname> ,
+							<lb/>
+							</persName>
+							<persName>
+								<forename>Donna</forename>
+								 <surname>Kinzer</surname>,
+							</persName>
+							<persName>
+								 <forename>Jack</forename>
+								<surname>Keane</surname> ,
+							</persName>
+							<persName>
+								 <forename>Jack</forename>
+								<surname>Cook</surname> ,
+							</persName>
+							<persName>
+								 <forename>Sue</forename>
+								<surname>Calikoglu</surname> ,
+							</persName>
+							<persName>
+								 <forename>Jerry</forename>
+								<surname>Schmidth</surname> ,
+							</persName>
+							<persName>
+								 <forename>Ferdinand</forename>
+								<surname>Rau</surname> ,
+							</persName>
+							<persName>
+								 <forename>Marc</forename>
+								<surname>Schreiner</surname> ,
+							<lb/>
+								 <roleName>Dr</roleName>.
+							</persName>
+							<persName>
+								 <forename>Roland</forename>
+								<surname>Laufer</surname>,
+								 <roleName>Dr</roleName> .
+							</persName>
+							<persName>
+								<forename>Christian</forename>
+								 <surname>Jaeger</surname>,
+							</persName>
+							<persName>
+								 <forename>Johannes</forename>
+								 <surname>Wolff</surname>,
+							</persName>
+							<persName>
+								 <forename>Uwe</forename>
+								 <surname>Klein- Hitpaß</surname> ,
+								<roleName>Dr</roleName>.
+							</persName>
+							<persName>
+								<forename>David</forename>
+								 <surname>Scheller- Kreinsen</surname> ,
+							<lb/>
+								<roleName>Dr</roleName>.
+							</persName>
+							<persName>
+								<forename>Alexander</forename>
+								 <surname>Geissler</surname>and
+								<roleName>Dr</roleName> .
+							</persName>
+							<persName>
+								 <surname>Wilm</surname>
+								 <forename>Quentin</forename> .
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

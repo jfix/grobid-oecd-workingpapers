@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Carlos</forename>
+								 <surname>Cruz-Casas</surname>,
+								 <roleName>Assistant Director</roleName>,
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Michael</forename>
+								<surname>Hurwitz</surname>,
+								 <roleName>Director</roleName>
+							<lb/>
+							</persName>
+							<persName>
+								<forename>Jon</forename>
+								 <surname>McBride</surname> ,
+								<roleName>OperationsDirector ,Bridj , USA</roleName>
+							<lb/>
+							</persName>
+							<persName>
+								<forename>Maria</forename>
+								 <surname>Rautavirta</surname>,
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Seleta</forename>
+								 <surname>Reynolds</surname>,
+								<roleName>General Manager,</roleName>
+							</persName>
+							<persName>
+								 <forename>Los</forename>
+								<surname>Angeles</surname>
+							<lb/>
+							</persName>
+							<persName>
+								<forename>Bruce</forename>
+								 <surname>Schaller</surname>,
+								 <roleName>Schaller Consulting, USA</roleName>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Susan</forename>
+								 <surname>Shaheen</surname>,
+								<roleName>Director ,</roleName>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

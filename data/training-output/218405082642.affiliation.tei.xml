@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<marker>1</marker>
+							<orgName type="department">Directorate for Science, Technology and Industry</orgName>,
+							<address>
+								<addrLine>OECD 2</addrLine>,
+								<addrLine>Rue André Pascal</addrLine>,
+								<postCode>75775</postCode>
+								<settlement>Paris</settlement>
+								<postCode>CEDEX 16</postCode>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>
+							<orgName type="laboratory">Institute of Public Goods and Policies, IPP-CSIC Albasanz</orgName>,
+							<address>
+								<addrLine>26-28, E-28037 Madrid</addrLine>,
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>
+							<orgName type="department">Independent consultant</orgName>,
+							<address>
+								<addrLine>1300 New York Avenue</addrLine>,
+								<settlement>Washington</settlement>,
+								<region>D.C.</region> the
+							</address>
+							<orgName type="institution">Université de Paris</orgName>
+							<address>
+								<addrLine>1-CES</addrLine>,
+							</address>
+							<orgName type="institution">Université de Paris</orgName>
+							<address>
+								<addrLine>2-ERMES</addrLine>,
+							</address>
+							<orgName type="institution">University College Dublin</orgName>,
+							<orgName type="institution">Universitat Autònoma de Barcelona</orgName>
+						</affiliation>
+						<affiliation>
+							<marker>1</marker>
+							<orgName type="laboratory">Direction de la science, de la technologie et de l&apos;industrie</orgName>,
+							<address>
+								<addrLine>OCDE 2, rue André Pascal</addrLine>,
+								<postCode>75775</postCode>
+								<settlement>Paris CEDEX 16</settlement>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>2</marker>
+							<orgName type="department">Institute of Public Goods and Policies</orgName>,
+							<orgName type="institution">IPP-CSIC Albasanz</orgName>,
+							<address>
+								<addrLine>26-28, E-28037 Madrid</addrLine>,
+								<settlement>Tél:</settlement>
+							</address>
+						</affiliation>
+						<affiliation>
+							<marker>3</marker>
+							<orgName type="department">Independant consultant</orgName>,
+							<address>
+								<addrLine>1300 New York Avenue</addrLine>,
+								<settlement>Washington</settlement>,
+								<region>D.C.</region>
+							</address>
+							<orgName type="institution">Université de Paris</orgName>
+							<address>
+								<addrLine>1-CES, Université de Paris 2-ERMES</addrLine>,
+							</address>
+							<orgName type="institution">University College Dublin</orgName>,
+							<address>
+								<addrLine>Universitat Autònoma de Barcelona et</addrLine>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

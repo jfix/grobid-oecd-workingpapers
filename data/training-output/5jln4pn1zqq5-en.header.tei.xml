@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="5jln4pn1zqq5-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>FUNCTIONAL URBAN AREAS IN COLOMBIA<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>By Daniel Sanchez-Serra 1<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">Abstract:<lb/> This paper applies the OECD-EU methodology to identify the functional urban areas (FUAs) in<lb/> Colombia. Using the municipal boundaries, population grid data and inter-municipalities commuting flows<lb/> from the 2005 population census, the paper identifies 53 FUAs accounting for 27 million people, or 63% of<lb/> the national population. The resulting FUAs are then compared with the existing national definition<lb/> (Misión del Sistema de Ciudades) and the legally constituted metropolitan areas in Colombia. Finally,<lb/> using the OECD-EU methodology already applied to OECD countries, the eight largest FUAs in Colombia<lb/> are compared with the 281 largest FUA in OECD countries, through a set of economic, social and<lb/> environmental indicators. The application of the OECD-EU methodology allows to identify the whole<lb/> system of urban areas in Colombia, with the same criterion; it thus provides a complementary tool to the<lb/> national and city government to better plan and design future urban policy strategies. For example, this<lb/> paper finds that metropolitan areas in Colombia have smaller commuting areas relative to OECD average<lb/> and that improvements in the transport infrastructure may strengthen the economic integration of<lb/> Colombian metropolitan areas.<lb/> JEL classification code: R12, R23<lb/></div>
+
+	<keyword>Key words: metropolitan areas, functional definition, GIS data<lb/></keyword>
+
+	<p type="introduction">Acknowledgements:<lb/> This work has received financial support from the Departamento Nacional de Planeación (DNP) of<lb/> Colombia.</p>
+
+	<byline>
+	<docAuthor>Elizabeth Cristina Arciniegas Muñoz, Adriana Sabogal Moreno, Oscar Javier Quiroz Porras,<lb/> Simón Mesa, José Antonio Pinzón Bermudez, Jairo Castillo, Diego Mora and Jorge Armando Rueda (DNP<lb/> Colombia); Ana Paola Gómez; Diego López and Sandra Yaneth Rodriguez Figueroa</docAuthor>
+	</byline>
+
+	<note type="other">(DANE, Colombia)<lb/> are gratefully acknowledged for their valuable comments on previous versions of the paper and for<lb/> providing relevant information and data. The author also gratefully acknowledges Luiz de Mello and<lb/> Monica Brezzi (OECD) for their guidance and comments. A preliminary version of this working paper has<lb/> been presented at the Working Party of Territorial Indicators (20 th April 2016).</note>
+
+		</front>
+	</text>
+</tei>

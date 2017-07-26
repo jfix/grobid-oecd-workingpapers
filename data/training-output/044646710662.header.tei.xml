@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="044646710662"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>DEV/DOC(2007)6<lb/></titlePart>
+	</docTitle>
+
+	<note type="degree">LES IDÉES EXPRIMÉES ET LES ARGUMENTS AVANCÉS DANS CE DOCUMENT SONT CEUX DES AUTEURS ET NE REFLÈTENT PAS<lb/> NÉCESSAIREMENT CEUX DE L&apos;OCDE OU DES GOUVERNEMENTS DE SES PAYS MEMBRES<lb/></note>
+
+	<note type="other">Applications for permission to reproduce or translate all or part of this material should be made to:<lb/> Head of Publications Service,</note>
+
+	<address>OECD<lb/> 2, rue André-Pascal, 75775 PARIS CEDEX 16, France<lb/></address>
+
+	<note type="copyright">© OECD 2007<lb/></note>
+
+	<note type="other">OECD Development Centre Working Paper No. 263<lb/> DEV/DOC(2007)6<lb/></note>
+
+	<note type="copyright">© OECD 2007<lb/></note>
+
+	<note type="other">3<lb/></note>
+
+	<p type="introduction">TABLE OF CONTENTS<lb/> PREFACE ...................................................................................................................................................... 5<lb/> RÉSUMÉ ........................................................................................................................................................ 6<lb/> ABSTRACT ................................................................................................................................................... 7<lb/> I. INTRODUCTION ..................................................................................................................................... 8<lb/> II. BANK LENDING IN DEVELOPING COUNTRIES......................................................................... 11<lb/> III. PRIVATE BANK LENDING FLOWS TO EMERGING MARKETS: STYLIZED FACTS ........... 15<lb/> IV. A WORLD MAP OF INTERNATIONAL PRIVATE BANK LENDING DIVISION OF<lb/> LABOUR...................................................................................................................................................... 20<lb/> V. SUSTAINABLE BANKING IN DEVELOPING COUNTRIES ........................................................ 28<lb/> VI. CONCLUSIONS AND POLICY RECOMMENDATIONS ............................................................ 33<lb/> APPENDIX 1: FOREIGN CLAIMS ON EMERGING COUNTRIES STATISTICS ............................ 37<lb/> BIBLIOGRAPHY ........................................................................................................................................ 40<lb/> OTHER TITLES IN THE SERIES/ AUTRES TITRES DANS LA SÉRIE .............................................. 44<lb/> Banking on Development: Private Banks and Aid Donors in Developing Countries<lb/> DEV/DOC(2007)6<lb/> © OECD 2007<lb/> © OECD 2007<lb/> 5<lb/> PREFACE<lb/> This working paper is a direct contribution to the newly created OECD Global Forum on<lb/> Development that was launched in 2006.<lb/> This Forum has been created with the aim of improving dialogue between OECD and<lb/> non-member governments, as well as private and civil society actors. During the Forum&apos;s first<lb/> thematic cycle (2006-2009), participants are invited to identify options for a more effective<lb/> development finance system. The OECD Development Centre is actively and deeply involved in<lb/> this process. One of its objectives is to look beyond aid and foresee the potential synergies<lb/> between different types of actors, public and private, national and international, governmental<lb/> and non-governmental, involved in development finance activities.<lb/> The aim of this paper is precisely to contribute to this debate and process. It highlights<lb/> how private banks and other private financial operators like private equity firms and<lb/> investments funds, can play a pivotal role in economic development. All in all, they are<lb/> interesting potential partners for public aid donors willing to deepen impacts on developing<lb/> countries. As documented, some of the private banking firms are more active in specific regions.<lb/> UK and French banks seem, for example, to be potential interesting partners for aid donors in<lb/> Africa while Spanish banks or US counterparts are more relevant for Latin America and German,<lb/> Swiss and Italian banks for Eastern Europe. Beyond international banks, local private banks in<lb/> Brazil, India, South Africa, Morocco and other developing countries are becoming increasingly<lb/> aware and sensitive to economic, social and environmental impacts.<lb/> Several policy recommendations are made in the conclusions. One of them is to create a<lb/> Prize on Development Finance that could reward best practices of public and private<lb/> partnerships in development finance. The OECD Global Forum on Development could host such<lb/> a Prize as it intends to strengthen the dialogue between aid donors and private actors working<lb/> on development issues and investing in developing countries. The objective of the OECD<lb/> Development Finance Prize would be to underline already existing best practices and, through a<lb/> worldwide media campaign (like the one developed by the IFC and the Financial Times), to<lb/> stimulate projects between donors and private banks, asset managers and equity firms.<lb/></p>
+
+	<byline>
+	<docAuthor>Javier Santiso<lb/></docAuthor>
+	</byline>
+
+	<note type="other">Acting Director and Chief Development Economist<lb/> OECD Development Centre<lb/></note>
+
+	<date>November 2007<lb/></date>
+
+	<note type="other">Banking on Development: Private Banks and Aid Donors in Developing Countries<lb/> DEV/DOC(2007)6<lb/> 6<lb/></note>
+
+	<note type="copyright">© OECD 2007<lb/></note>
+
+	<p type="introduction">RÉSUMÉ<lb/> Au cours de ces dix dernières années, nous avons pu observer une double convergence.<lb/> D&apos;une part, l&apos;intérêt des donneurs d&apos;aide pour le secteur privé s&apos;est accru, et d&apos;autre part, les<lb/> banques privées ont développé des programmes pour promouvoir la responsabilité sociale des<lb/> entreprises, le crédit soutenable, et des projets dans le domaine de la microfinance. En<lb/> conséquence, le dialogue entre les banques privées et les donneurs d&apos;aide s&apos;est intensifié, ce qui<lb/> laisse entrevoir une collaboration plus étroite à l&apos;avenir. Le but de ce papier est d&apos;évaluer<lb/> précisément le potentiel de ces synergies entre banques privées et donneurs d&apos;aide. Dans<lb/> l&apos;objectif de réaliser un outil d&apos;analyse pertinent et d&apos;aider à identifier des partenaires potentiels<lb/> pour les donneurs d&apos;aide, nous avons conduit une étude des crédits accordés par les banques<lb/> privées aux pays en développement afin de repérer les institutions financières privées les plus<lb/> actives au sein de ces économies. Nous montrons qu&apos;il existe une division internationale dans<lb/> l&apos;activité de prêt des banques : les banques des pays donneurs opèrent une spécialisation<lb/> régionale dans les pays en développement. La réalisation d&apos;une telle étude de l&apos;activité créditrice<lb/> des banques privées permet également d&apos;introduire un exercice de repérage des meilleures<lb/> pratiques, au niveau micro, des projets spécifiques développés conjointement par les banques<lb/> privées et les donneurs d&apos;aide. Nous dégageons les principaux cas d&apos;étude, dans l&apos;objectif de<lb/> repérer les meilleures opportunités de coopération internationale et de mise en place de<lb/> partenariats public/privé entre les banques privées et les donneurs d&apos;aide.<lb/></p>
+
+	<keyword>Mots clé : Banques, Crédit, Donneurs d&apos;aide, Finance du développement, Afrique, Amérique<lb/> latine, Asie<lb/></keyword>
+
+	<note type="copyright">© OECD 2007<lb/></note>
+
+	<note type="other">7<lb/></note>
+
+	<div type="abstract">ABSTRACT<lb/> Over the past decade we have witnessed a double convergence. Aid donors have<lb/> developed a growing interest in the private sector while private banks have set about creating<lb/> corporate social responsibility programs, sustainable lending and microfinance programmes. As<lb/> a consequence, the dialogue between private banks and aid donors has been intensifying,<lb/> opening new avenues for collaboration. The aim of this paper is to map the potential synergies<lb/> between private banks and aid donors. A survey of private bank lending towards developing<lb/> countries is undertaken in order to identify the private banks most active in those economies and<lb/> provide an analytical tool to help identify the scope for public and private partnerships. We find<lb/> an international division of labour in bank lending: within the developing world, banks from<lb/> OECD countries tend to focus their credit on specific regions and countries. This mapping of<lb/> private bank lending also allows us to pinpoint concrete examples of best practices in private<lb/> bank and financial actors/aid donors collaborations. We follow by discussing some of the more<lb/> important cases in the field, and conclude with the potential implications for improved<lb/> partnerships between private banks and donor organisations.<lb/> JEL Classification: F3; O1; G21.<lb/></div>
+
+	<keyword>Key words: Banks; Lending; Aid donors; Development Finance; Africa; Latin America; Asia.<lb/></keyword>
+
+	<note type="other">Banking on Development: Private Banks and Aid Donors in Developing Countries<lb/> DEV/DOC(2007)6<lb/> 8<lb/></note>
+
+	<note type="copyright">© OECD 2007<lb/> © OECD 2007</note>
+
+		</front>
+	</text>
+</tei>

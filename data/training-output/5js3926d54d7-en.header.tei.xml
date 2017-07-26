@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="5js3926d54d7-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">M A<lb/></note>
+
+	<docTitle>
+	<titlePart>How do female migration and gender<lb/> discrimination in social institutions<lb/> mutually influence each other?<lb/> OECD DEVELOPMENT CENTRE<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Gaëlle Ferrant and Michele Tuccio<lb/></docAuthor>
+	</byline>
+
+	<idno>Working Paper No. 326<lb/></idno>
+
+	<note type="other">Research area: Perspectives on Global Development: Gender<lb/></note>
+
+	<date>March 2015<lb/></date>
+
+	<byline>
+	<affiliation>Authorised for publication by Mario Pezzini,<lb/> Director, OECD Development Centre<lb/></affiliation>
+	</byline>
+
+	<div type="abstract">How do female migration and gender discrimination in social institutions mutually influence each other?<lb/> DEV/DOC(2015)1<lb/> 2<lb/></div>
+
+	<note type="copyright">© OECD 2015<lb/></note>
+
+	<note type="other">DEVELOPMENT CENTRE WORKING PAPERS<lb/> This series of working papers is intended to disseminate the Development Centre&apos;s<lb/> research findings rapidly among specialists in the field concerned. These papers are generally<lb/> available in the original English or French, with a summary in the other language.<lb/> OECD Working Papers should not be reported as representing the official views of the OECD or of<lb/> its member countries, or the Development Centre or its member countries. The opinions expressed<lb/> and arguments employed are those of the authors.<lb/></note>
+
+	<div type="abstract">This document and any map included herein are without prejudice to the status of or sovereignty<lb/> over any territory, to the delimitation of international frontiers and boundaries and to the name of<lb/> any territory, city or area.<lb/> Working Papers describe preliminary results or research in progress by the author(s) and are<lb/> published to stimulate discussion on a broad range of issues on which the Assessing the linkages<lb/> between traditional and qualitative factors with students&apos; performance OECD works. Comments on<lb/> Working Papers are welcomed, and may be sent to the OECD Development Centre, 2 rue André<lb/> Pascal, 75775 PARIS CEDEX 16, France; or to dev.contact@oecd.org. Documents may be<lb/> downloaded from: http://www.oecd.org/dev/wp<lb/></div>
+
+	<note type="copyright">©OECD (2015)<lb/> Applications for permission to reproduce or translate all or part of this document should be sent to<lb/> rights@oecd.org<lb/></note>
+
+	<docTitle>
+	<titlePart>DOCUMENTS DE TRAVAIL DU CENTRE DE DÉVELOPPEMENT<lb/></titlePart>
+	</docTitle>
+
+	<p type="introduction">Cette série de documents de travail a pour but de diffuser rapidement auprès des<lb/> spécialistes dans les domaines concernés les résultats des travaux de recherche du Centre de<lb/> développement. Ces documents ne sont disponibles que dans leur langue originale, anglais ou<lb/> français ; un résumé du document est rédigé dans l&apos;autre langue.<lb/> Les documents de travail de l&apos;OCDE ne doivent pas être présentés comme exprimant les vues<lb/> officielles de l&apos;OCDE ou du Centre de développement ou de leurs pays membres. Les opinions<lb/> exprimées et les arguments employés sont ceux des auteurs.<lb/> Ce document et toute carte qu&apos;il peut comprendre sont sans préjudice du statut de tout territoire,<lb/> de la souveraineté s&apos;exerçant sur ce dernier, du tracé des frontières et limites internationales, et du<lb/> nom de tout territoire, ville ou région.<lb/> Les documents de travail exposent des résultats préliminaires ou des travaux de recherche en cours<lb/> menés par l&apos;auteur/les auteurs et sont publiés pour stimuler le débat sur un large éventail de<lb/> questions sur lesquelles l&apos;OCDE travaille. Les commentaires sur les documents de travail sont<lb/> bienvenus et peuvent être adressés au Centre de développement de l&apos;OCDE, 2 rue André Pascal,<lb/> 75775 PARIS CEDEX 16, France; ou à dev.contact@oecd.org. Les documents peuvent être téléchargés<lb/> à partir de: http://www.oecd.org/dev/wp ou obtenus via le mél (dev.contact@oecd.org).<lb/> ©OCDE (2015)<lb/> Les demandes d&apos;autorisation de reproduction ou de traduction de tout ou partie de ce document devront<lb/> être envoyées à rights@oecd.org<lb/> OECD Development Centre Working Paper No.326<lb/> DEV/DOC(2015)1<lb/> © OECD 2015<lb/> 3<lb/> TABLE OF CONTENTS<lb/> ACKNOWLEDGEMENTS .......................................................................................................................... 4<lb/> PREFACE ....................................................................................................................................................... 5<lb/> RESUMÉ ........................................................................................................................................................ 6<lb/> ABSTRACT .................................................................................................................................................... 7<lb/> I. INTRODUCTION ..................................................................................................................................... 8<lb/> II. THE EXPECTED LINKAGES BETWEEN MIGRATION AND GENDER INEQUALITY .......... 10<lb/> III. DATA ..................................................................................................................................................... 15<lb/> IV. EMPIRICAL STRATEGY ..................................................................................................................... 18<lb/> V. EMPIRICAL RESULTS.......................................................................................................................... 25<lb/> VI. CONCLUSION ..................................................................................................................................... 34<lb/> APPENDIX .................................................................................................................................................. 36<lb/> REFERENCES ............................................................................................................................................. 39<lb/> OTHER TITLES IN THE SERIES/ AUTRES TITRES DANS LA SÉRIE .............................................. 43<lb/> How do female migration and gender discrimination in social institutions mutually influence each other?<lb/> DEV/DOC(2015)1<lb/> 4<lb/></p>
+
+	<note type="copyright">© OECD 2015<lb/></note>
+
+	<docTitle>
+	<titlePart>ACKNOWLEDGEMENTS<lb/></titlePart>
+	</docTitle>
+
+	<note type="other">The authors would like to thank for their comments on previous versions of this paper<lb/></note>
+
+	<byline>
+	<docAuthor>Mario Pezzini, Nicola Harrington, Carl Dahlman, Alexandre Kolev, Keiko Nowacka, David<lb/> Khoudour, Jason Gagnon</docAuthor>
+	</byline>
+
+	<note type="other">(all from the OECD), as well as Rémi Bazillier (Université d&apos;Orléans)<lb/> and Yasser Moulan (International Migration Institute), Sara Salomone (IRES UCLouvain,<lb/> Belgium) and Maryam Naghsh Nejad (Institute for Study of Labor, IZA). They would also like to<lb/> acknowledge the participants in the FERDI International conference on &quot; International labour<lb/> mobility and inequality across nations &quot; (Clermont-Ferrand, January 2014) and to the expert<lb/> meeting on &quot; Harnessing knowledge on the migration of highly skilled women &quot; co-organised by<lb/> the International Organization for Migration and the OECD Development Centre (Geneva, April<lb/> 2014).<lb/> OECD Development Centre Working Paper No.326<lb/> DEV/DOC(2015)1<lb/></note>
+
+	<note type="copyright">© OECD 2015<lb/></note>
+
+	<note type="other">5</note>
+
+		</front>
+	</text>
+</tei>

@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="43ff6bdc-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<div type="abstract">a<lb/> a) The table only includes results from studies in which multivariable regression analyses were performed (with controls).<lb/> b) Only work factors that have been assessed in at least three different studies are reported. The ordering of the factors is based on<lb/> the percentage of studies that found a relationship in the same direction.<lb/> c) Number of longitudinal studies in brackets; if nothing is reported the number is 0.<lb/> d) + = positive relationship; -= negative relationship.<lb/> 1) This includes feeling under stress while performing work and experiencing the job as stressful.<lb/> 2) This also includes work-family/work-life imbalance.<lb/> 3) This also includes procedural, distributive and interactional justice.<lb/> 4) This also includes relationship with co-workers, collaboration with co-workers, quality of contact with colleagues<lb/> 5) This also includes work intensity (working at high speed and with strict deadlines).<lb/> 6) This also includes non-standard work times and irregular working hours.<lb/> 7) This also includes a physical job and physical load.<lb/> 8) This includes decision authority, decision latitude, work autonomy, and control over work tasks and over pace of work.<lb/> 9) This also includes overtime.<lb/> 10) This includes studies comparing permanent, full-time contracts with other non-standard employment contracts.<lb/> 11) This includes general job support, support from colleagues and supervisors (as one measure), support from other personnel.<lb/> 12) This also includes relationship with supervisor, collaboration with supervisor.<lb/></div>
+
+	<p type="introduction">Work factors b<lb/> No. of studies<lb/> included c<lb/> No. of studies that<lb/> found a relationship c<lb/> Direction of relationship<lb/> with productivity d<lb/> Which studies<lb/> Job stress 1<lb/> 4<lb/> 4<lb/> All studies: -<lb/>8, 10, 21, 33<lb/> 1 study: -<lb/>4 studies: +<lb/> Job strain<lb/> 4 (1)<lb/> 3<lb/> All studies -<lb/>10, 13, 16, 48<lb/> Work-family conflict 2<lb/> 7<lb/> 5<lb/> All studies -<lb/>10, 13, 20, 26, 37, 42, 48</p>
+
+		</front>
+	</text>
+</tei>

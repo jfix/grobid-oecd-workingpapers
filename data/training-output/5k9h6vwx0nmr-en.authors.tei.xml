@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+by
+							<lb/>
+								 <forename>Vararat</forename>
+								<surname>Atisophon</surname>,
+							</persName>
+							<persName>
+								 <forename>Jesus</forename>
+								<surname>Bueren</surname> ,
+							</persName>
+							<persName>
+								 <forename>Gregory</forename>
+								<surname>De Paepe</surname> ,
+							</persName>
+							<persName>
+								 <forename>Christopher</forename>
+								<surname>Garroway</surname>
+							<lb/> and
+							</persName>
+							<persName>
+								 <forename>Jean -Philippe</forename>
+								 <surname>Stijns</surname>
+							<lb/>
+							</persName>
+							<persName>
+								<forename>CENTRE</forename>
+								<surname>DE</surname>
+							</persName>
+							<persName>
+								 <forename>Emily</forename>
+								 <surname>Bosch</surname>,
+							</persName>
+							<persName>
+								<forename>Fredrik</forename>
+								 <surname>Ericsson</surname> ,
+							</persName>
+							<persName>
+								 <forename>Homi</forename>
+								<surname>Kharas</surname> ,
+							</persName>
+							<persName>
+								 <forename>Mumukshu</forename>
+								<surname>Patel</surname> ,
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Simon</forename>
+								<surname>Scott</surname> ,
+								 <roleName>Benedicte</roleName>
+							</persName>
+							<persName>
+								<forename>Vibe</forename>
+								 <surname>Christensen</surname>and
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

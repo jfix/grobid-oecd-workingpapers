@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="5jz2lpmk0gs6-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">Please cite this paper as:<lb/> Andrews, D., C. Criscuolo and C. Menon (2014), &quot; Do<lb/> Resources Flow to Patenting Firms?: Cross-Country Evidence<lb/> from Firm Level Data &quot; , OECD Economics Department<lb/> Working Papers, No. 1127, OECD Publishing, Paris.<lb/></note>
+
+	<ptr type="web">http://dx.doi.org/10.1787/5jz2lpmk0gs6-en<lb/></ptr>
+
+	<note type="other">OECD Economics Department Working<lb/> Papers No. 1127<lb/></note>
+
+	<docTitle>
+	<titlePart>Do Resources Flow to<lb/> Patenting Firms?<lb/> CROSS-COUNTRY EVIDENCE FROM FIRM LEVEL<lb/> DATA<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Dan Andrews, Chiara Criscuolo,<lb/> Carlo Menon<lb/></docAuthor>
+	</byline>
+
+	<note type="other">Unclassified<lb/> ECO/WKP(2014)23<lb/></note>
+
+	<byline>
+	<affiliation>Organisation de Coopération et de Développement Économiques<lb/> Organisation for Economic Co-operation and Development<lb/></affiliation>
+	</byline>
+
+	<date>12-Jun-2014<lb/></date>
+
+	<note type="other">___________________________________________________________________________________________<lb/> English -Or. English<lb/></note>
+
+	<docTitle>
+	<titlePart>ECONOMICS DEPARTMENT<lb/> DO RESOURCES FLOW TO PATENTING FIRMS? CROSS-COUNTRY EVIDENCE FROM FIRM<lb/> LEVEL DATA<lb/></titlePart>
+	</docTitle>
+
+	<idno>ECONOMICS DEPARTMENT WORKING PAPERS No. 1127<lb/></idno>
+
+	<byline>
+	<docAuthor>By Dan Andrews, Chiara Criscuolo and Carlo Menon<lb/></docAuthor>
+	</byline>
+
+	<note type="other">OECD Working Papers should not be reported as representing the official views of the OECD or of its member<lb/> countries. The opinions expressed and arguments employed are those of the author(s).<lb/> Authorised for publication by Jean-Luc Schneider, Deputy Director, Policy Studies Branch, Economics<lb/> Department.<lb/> All Economics Department Working Papers are available through OECD internet website at<lb/></note>
+
+	<ptr type="web">www.oecd.org/eco/workingpapers<lb/></ptr>
+
+	<div type="abstract">JT03359210<lb/> Complete document available on OLIS in its original format<lb/> This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of<lb/> international frontiers and boundaries and to the name of any territory, city or area.<lb/></div>
+
+	<idno>ECO/WKP(2014)23<lb/></idno>
+
+	<note type="other">Unclassified<lb/> English -Or. English<lb/></note>
+
+	<p type="introduction">ECO/WKP(2014)23<lb/> 2<lb/> OECD Working Papers should not be reported as representing the official views of the OECD or of its<lb/> member countries. The opinions expressed and arguments employed are those of the author(s).<lb/> Working Papers describe preliminary results or research in progress by the author(s) and are published to<lb/> stimulate discussion on a broad range of issues on which the OECD works.<lb/> Comments on Working Papers are welcomed, and may be sent to</p>
+
+	<byline>
+	<affiliation>OECD Economics Department,</affiliation>
+	</byline>
+
+	<address>2 rue<lb/> André-Pascal, 75775 Paris Cedex 16, France</address>
+
+	<email>, or by e-mail to eco.contact@oecd.org<lb/></email>
+
+	<div type="abstract">This document and any map included herein are without prejudice to the status of or sovereignty over any<lb/> territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city or<lb/> area.<lb/> © OECD (2014)<lb/> You can copy, download or print OECD content for your own use, and you can include excerpts from OECD<lb/> publications, databases and multimedia products in your own documents, presentations, blogs, websites and<lb/> teaching materials, provided that suitable acknowledgment of OECD as source and copyright owner is given. All<lb/> requests for commercial use and translation rights should be submitted to rights@oecd.org<lb/> ECO/WKP(2014)23<lb/> 3<lb/> ABSTRACT/RESUMÉ<lb/> Do resources flow to patenting firms? Cross-country evidence from firm level data<lb/> This paper exploits longitudinal data on firm performance and patenting activity for 23 OECD countries<lb/> over the period 2003-2010 to explore the extent to which changes in the patent stock are associated with<lb/> flows of capital and labour to patenting firms. While the finding that patenting is associated with real<lb/> changes in economic activity at the firm level is in line with recent literature, new empirical evidence<lb/> presented suggests that the impact of patenting on firm size is likely to be causal. Moreover, these data<lb/> reveal important differences across OECD countries in the extent to which innovative firms can attract the<lb/> complementary tangible resources that are required to implement and commercialise new ideas. In turn, the<lb/> contribution of framework policies to explaining the observed cross-country differences in the magnitude<lb/> of these flows is explored. While further research is required to establish causality, the results are<lb/> consistent with the idea that well-functioning product, labour and capital markets; efficient judicial systems<lb/> and bankruptcy laws that do not overly penalise failure can raise the returns to innovative activity. The<lb/> paper also investigates the heterogeneous impacts of policies and finds that young firms – which are more<lb/> likely to experiment with disruptive technologies and rely on external financing to implement and<lb/> commercialise their ideas – disproportionately benefit from reforms to labour markets and more developed<lb/> markets for credit and seed and early stage finance.<lb/> JEL classification codes: O30, O31, O33, O34, L25<lb/></div>
+
+	<keyword>Keywords: Innovation, patents, reallocation, firm growth.<lb/></keyword>
+
+	<docTitle>
+	<titlePart>***********************<lb/> Les ressources convergent-elles vers les entreprises brevetantes ? Éléments de comparaison entre pays à<lb/> partir de données au niveau des entreprises<lb/></titlePart>
+	</docTitle>
+
+	<p type="introduction">Cette étude tire parti de données longitudinales sur les performances et l&apos;activité de brevetage d&apos;entreprises<lb/> de 23 pays membres de l&apos;OCDE sur la période 2003-2010 pour examiner dans quelle mesure des<lb/> évolutions du stock de brevets sont associées à des flux de capitaux et de main-d&apos;oeuvre en direction des<lb/> entreprises brevetantes. Si l&apos;observation que le brevetage est associé à des évolutions réelles de l&apos;activité<lb/> économique au niveau de l&apos;entreprise concorde avec les publications récentes, les nouvelles observations<lb/> empiriques présentées ici donnent à penser qu&apos;il existe vraisemblablement un lien de causalité entre le<lb/> dépôt de brevets et la taille de l&apos;entreprise. De plus, ces données font apparaître d&apos;importantes différences<lb/> entre pays de l&apos;OCDE quant à la mesure dans laquelle les entreprises innovantes peuvent attirer les<lb/> ressources corporelles complémentaires requises pour mettre en oeuvre et commercialiser des idées<lb/> nouvelles. L&apos;étude explore ensuite la contribution de politiques cadres qui pourrait expliquer les<lb/> différences observées entre pays dans l&apos;ampleur de ces flux. Bien que des recherches complémentaires<lb/> soient nécessaires pour établir une causalité, les résultats concordent avec l&apos;idée que des marchés de<lb/> produits, de main-d&apos;oeuvre et de capitaux efficaces, des systèmes judiciaires efficients et des législations<lb/> sur les faillites qui ne pénalisent pas indûment l&apos;échec peuvent accroître les retours sur l&apos;activité<lb/> d&apos;innovation. L&apos;étude examine aussi les impacts hétérogènes des politiques et constate que les jeunes<lb/> entreprises – qui sont davantage susceptibles d&apos;expérimenter des technologies de rupture et de dépendre de<lb/> financements externes pour la mise en oeuvre et la commercialisation de leurs idées – bénéficient<lb/> beaucoup plus que les autres des réformes des marchés du travail et de marchés plus développés du crédit<lb/> et du financement des phases d&apos;amorçage et de démarrage.<lb/> Codes JEL: O30, O31, O33, O34, L25<lb/> Mots-clés: l&apos;innovation, brevets; la réaffectation, la croissance des entreprises.<lb/> ECO/WKP(2014)23<lb/> 4<lb/> TABLE OF CONTENTS<lb/> DO RESOURCES FLOW TO PATENTING FIRMS? CROSS-COUNTRY EVIDENCE FROM FIRM-<lb/>LEVEL DATA ................................................................................................................................................ 5<lb/> 1. Introduction .......................................................................................................................................... 5<lb/> 2. Innovation, resource reallocation and growth ...................................................................................... 8<lb/> 2.1<lb/> A healthy economy reallocates resources to their most productive use ...................................... 8<lb/> 2.2<lb/> The links between reallocation and innovation ......................................................................... 11<lb/> 2.3<lb/> Public policy and resource flows to innovative firms ............................................................... 12<lb/> 3. Data .................................................................................................................................................... 13<lb/> 3.1<lb/> Firm level data .......................................................................................................................... 13<lb/> 3.2<lb/> Preliminary evidence................................................................................................................. 15<lb/> 4. Empirical methodology ...................................................................................................................... 16<lb/> 4.1<lb/> Patent stock and firm size ......................................................................................................... 16<lb/> 4.2<lb/> Identifying the role of public policies ....................................................................................... 20<lb/> 4.3<lb/> Identification concerns .............................................................................................................. 22<lb/> 5. Empirical results ................................................................................................................................ 23<lb/> 5.1<lb/> Do resources flow to patenting firms? ...................................................................................... 23<lb/> 5.2<lb/> Cross-country differences in resource flows to patenting firms ............................................... 29<lb/> 5.3<lb/> Role of public policy ................................................................................................................. 31<lb/> 6. Extensions and robustness tests ......................................................................................................... 37<lb/> 7. Conclusions ........................................................................................................................................ 38<lb/> REFERENCES ............................................................................................................................................. 40<lb/> APPENDIX A: A SIMPLE ALGORITHM TO DEFINE GROUPS IN ORBIS .......................................... 44<lb/> APPENDIX B: ADDITIONAL EMPIRICAL TABLES AND CHARTS ................................................... 46<lb/> APPENDIX C: FALSIFICATION TEST FOR INSTRUMENTAL VARIABLES STRATEGY ............... 56<lb/> ECO/WKP(2014)23<lb/></p>
+
+	<note type="other">5<lb/></note>
+
+	<docTitle>
+	<titlePart>DO RESOURCES FLOW TO PATENTING FIRMS? CROSS-COUNTRY EVIDENCE FROM<lb/> FIRM-LEVEL DATA<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>By<lb/> Dan Andrews, Chiara Criscuolo and Carlo Menon 1<lb/></docAuthor>
+	</byline>
+
+	<p type="introduction">*<lb/> *<lb/> *<lb/> )<lb/> _<lb/> Pr(<lb/> ε<lb/> β<lb/> β<lb/> β<lb/> α<lb/> +<lb/> +<lb/> +<lb/> +<lb/> =<lb/> −<lb/> −<lb/> −<lb/> [2a]<lb/> 15<lb/> The sample is restricted to companies observed for at least 6 years over the period 2002-2009.<lb/> ECO/WKP(2014)23<lb/> 18<lb/> 40.<lb/> The estimation of the propensity score in equation [2a] allow matching each first-time patentee to<lb/> its closest non-patenting counterpart in terms of employment, capital, and turnover levels; that is, with the<lb/> non-patenting firm with the most similar propensity score in the same year, 3-digits sector, age class (less<lb/> than or equal to 10 years, or 11 years or above) and country. Subsequently, the following second-stage<lb/> model is estimated:<lb/> t<lb/> i<lb/> t<lb/> g<lb/> j<lb/> j<lb/> i<lb/> it<lb/> Index<lb/> Index<lb/> PatDummy<lb/> Y<lb/> ,<lb/> 4<lb/> 4<lb/> 4<lb/> 4<lb/> 1<lb/> *<lb/> ln<lb/> ε<lb/> τ<lb/> γ<lb/> β<lb/> +<lb/> +<lb/> +<lb/> +<lb/> =<lb/> ∑<lb/> ∑<lb/> +<lb/> −<lb/> +<lb/> −</p>
+
+		</front>
+	</text>
+</tei>

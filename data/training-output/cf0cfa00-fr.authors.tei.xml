@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<surname>Kajala</surname>,
+								 <forename>L</forename>.,
+							</persName>
+							<persName>
+								 <forename>A</forename>.
+								 <surname>Almik</surname>,
+							</persName>
+							<persName>
+								 <forename>R</forename>.
+								 <surname>Dahl</surname>,
+							</persName>
+							<persName>
+								 <forename>L</forename>.
+								 <surname>Dikšaitė</surname>,
+							</persName>
+							<persName>
+								 <forename>J</forename>.
+								 <surname>Erkkonen</surname>,
+							</persName>
+							<persName>
+								 <forename>P</forename>.
+								 <surname>Fredman</surname>,
+							</persName>
+							<persName>
+								 <forename>F</forename>.
+								 <middlename>Jensen</middlename>
+								 <surname>Søndergaard</surname>,
+							</persName>
+							<persName>
+								 <forename>K</forename>.
+							<lb/>
+								 <surname>Karoles</surname>,
+							</persName>
+							<persName>
+								<forename>T</forename> .
+								<surname>Sievänen</surname> ,
+							</persName>
+							<persName>
+								<forename>H</forename> .
+								<surname>Skov -Petersen</surname>,
+							</persName>
+							<persName>
+								<forename>O</forename> .
+								<middlename>I</middlename> .
+								<surname>Vistad</surname> et
+							</persName>
+							<persName>
+								 <forename>P</forename> .
+								<middlename>Wallsten</middlename>
+							<lb/>
+								 <surname>Stynes</surname> ,
+							</persName>
+							<persName>
+								<forename>D</forename>.
+								<middlename>J</middlename> .,
+							</persName>
+							<persName>
+								 <forename>D</forename>.
+								<middlename>P</middlename> .
+								<surname>Propst</surname> ,
+							</persName>
+							<persName>
+								<forename>W .- H</forename>.
+								<surname>Chang</surname>et
+							</persName>
+							<persName>
+								<forename>Y</forename> .
+								 <middlename>Y</middlename> .
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

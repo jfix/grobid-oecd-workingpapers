@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Gregory</forename>
+								 <surname>Briner</surname> (OECD) and
+							</persName>
+							<persName>
+								 <forename>Susanne</forename>
+								 <surname>Konrad</surname>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Jane</forename>
+								<surname>Ellis</surname> ,
+							</persName>
+							<persName>
+								<forename>Takashi</forename>
+								 <surname>Hattori</surname> ,
+							</persName>
+							<persName>
+								<forename>Anthony</forename>
+								 <surname>Cox</surname> ,
+							</persName>
+							<persName>
+								<forename>Takayoshi</forename>
+								 <surname>Kato</surname> ,
+							</persName>
+							<persName>
+								<forename>Andrew</forename>
+								 <surname>Prag</surname> and
+							</persName>
+							<persName>
+								 <forename>Simone</forename>
+								 <middlename>Targetti</middlename>
+								 <surname>Ferri</surname> ,
+							<lb/>
+							</persName>
+							<persName>
+								<forename>Gregory</forename>
+								 <surname>Briner</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

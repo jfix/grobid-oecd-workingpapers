@@ -1,0 +1,544 @@
+15. 
+Perceived security is a side effect of the statefull firewall nature implied by the use of NAT, but address 
+translation itself does not provide any significant security benefit. 
+
+16. 
+By for example creating strong incentives for multi-party application architectures that simulate end-to-end 
+by using agents and clients to traverse the NAT and create a visible rendez-vous point. 
+
+17. 
+Huston, G., ―Anatomy: A Look Inside Network Address Translators‖, August 2004, 
+http://www.potaroo.net/papers/ipj/2004-v7-n3-nat/nats.pdf. 
+
+18. 
+Partridge, C.; Kastenholz, F., ―Technical Criteria for Choosing IP The Next Generation (IPng)‖, 
+Informational Internet-draft, RFC 1726, December 1994, http://www.ietf.org/rfc/rfc1726.txt. 
+
+19. 
+Bradner, S.; Mankin, A., ―The Recommendation for the IP Next Generation Protocol‖, Standards Track, 
+RFC 1752, January 1995, http://www.faqs.org/rfcs/rfc1752.html. 
+
+20. 
+IPv6 has had a variety of names — the original IAB documents refer to IP Version 7, working on the 
+assumption that the protocol numbers 5 and 6 were already in use in research networks. It was renamed 
+IPng, for ―next generation.‖ 
+
+21. 
+http://www.itu.int/ITU-T/worksem/ipv6/200506/presentations/s1-1-carpenter.pdf. 
+
+22. 
+To allocate means to distribute address space to Internet Registries for the purpose of subsequent 
+distribution by them. http://www.apnic.net/mailing-lists/sig-policy/archive/2007/08/msg00027.html. 
+
+23. 
+Initially defined in RFC 1366. 
+
+24. 
+NIRs exist in the Asia Pacific and Latin American regions. 
+
+25. 
+NIRs were established in the Asia Pacific and Latin American regions in the earliest days of the formation 
+of the RIRs and are responsible for providing services within their country. APNIC NIRs operate in Korea, 
+China, Japan, Chinese Taipei, Indonesia and Vietnam. Latin American NIRs operate in Brazil and Mexico. 
+They are not ISPs, rather they allocate to their members (generally ISPs) within their economy following 
+RIR policies. Organisations within those NIR economies may go to either the relevant NIR or RIR. 
+
+26. 
+Hubbard, K., Kosters, M., Conrad, D., Karrenberg, D., and J. Postel, ―Internet Registry IP Allocation 
+Guidelines‖, Best Current Practice 12, RFC 2050, November 1996, http://www.faqs.org/rfcs/rfc2050.html. 
+
+27. 
+It is important to note that having a global address does not mean that it is globally reachable, because 
+there may be filtering on the routing system if the prefix is too specific. Moreover, RIRs cannot guarantee 
+the reachability/ global routability of the addresses they assign. 
+
+28. 
+http://www.potaroo.net/tools/ipv4/index.html. 
+
+29. 
+http://www.tndh.net/~tony/ietf/ipv4-pool-combined-view.pdf. 
+
+30. 
+The dual-stack approach is further detailed on page 35, Transition and co-existence. 
+
+31. 
+The Internet Corporation for Assigned Names and Numbers (ICANN) published a Background Report on 
+Policy for IPv6 in January 2006, updated in May 2006, reviewing the status of IPv6 policy development by 
+the Regional Internet Registries. http://www.icann.org/announcements/ipv6-report-16may06.htm. 
+
+32. 
+Have We Reached 1000 Prefixes Yet? A snapshot of the global IPv6 routing table, Gert D¨oring, SpaceNet 
+AG, Munich, Germany, 8 May 2007, RIPE 54, Tallinn, Estonia, http://www.space.net/~gert/RIPE/R54-v6-
+table.pdf. 
+
+33. 
+http://www.cidr-report.org/as2.0/. 
+
+34. 
+http://www3.ietf.org/proceedings/06mar/slides/grow-0.pdf. 
+
+35. 
+Gert 
+D¨oring, 
+SpaceNet 
+AG, 
+May 
+8th, 
+2007, 
+RIPE 
+54, 
+Tallinn, 
+Estonia, 
+http://www.space.net/~gert/RIPE/R54-v6-table.pdf. 
+
+36. 
+http://v6metric.inetcore.com/en/html/st3/05.html. 
+
+DSTI/ICCP(2007)20/FINAL 
+
+67 
+
+37. 
+https://prefix.pch.net/applications/ixpdir/summary/ipv6/. 
+
+38. 
+Palet, J. and Vives, A., "6meter: Measuring Real Global IPv6 Traffic", RIPE 55, October 2007 
+http://www.ripe.net/ripe/meetings/ripe-55/presentations/palet-v6.pdf. 
+
+39. 
+In a network that provides IPv6 connectivity, according to the data, IPv6 packets represent 70% of the total 
+packets and over 90% of IPv6 traffic is tunnelled with either Teredo or 6to4 compared to just 5% of native 
+IPv6 traffic http://www.ripe.net/ripe/meetings/ripe-55/presentations/palet-v6.pdf. 
+
+40. 
+Operating system market share for January, 2008 http://marketshare.hitslink.com/report.aspx?qprid=8 and 
+http://www.microsoft.com/msft/earnings/FY08/earn_rel_q2_08.mspx on 7 February 2008. 
+
+41. 
+The IETF's ―6man‖ working group is responsible for IPv6 protocol maintenance. The website at 
+http://www.ipv6-to-standard.org/index.php lists vendors with IPv6-enabled products. 
+
+42. 
+http://www.arin.net/meetings/minutes/ARIN_XX/PDF/thursday/Firewalls_Piscitello.pdf. 
+
+43. 
+Conclusions of the Australian ―IPv6 for e-business project‖ that took place from July 2006 to April 2007. 
+
+44. 
+Top-level domains are the last label on the right-hand side of the domain name, such as .JP, .COM, .FR OR 
+.ORG. 
+
+45. 
+Top-level domains are the last label on the right-hand side of the domain name, such as .JP, .COM, .FR OR 
+.ORG. 
+
+46. 
+http://www.icann.org/announcements/announcement-20jul04.htm. 
+
+47. 
+http://www.ipv6.org.au/underpin.html. 
+
+48. 
+In 
+April 
+2006 
+there 
+were 
+245 
+country 
+code 
+top-level 
+domains, 
+http://www.oecd.org/dataoecd/8/18/37730629.pdf. 
+
+49. 
+DNS Survey: August 2006, http://dns.measurement-factory.com/surveys/200608.html. 
+
+50. 
+Prop-055-v001: Global policy for the allocation of the remaining IPv4 address space, 23 January 2008, 
+http://www.apnic.net/policy/discussions/prop-055-v001.txt. 
+
+51. 
+"Co-operative distribution of the end of the IPv4 free pool" by Tony Hain, Cisco Systems, 
+http://www.apnic.net/policy/proposals/prop-052-v001.html. 
+
+52. 
+"IPv4 
+soft 
+landing 
+proposal" 
+by 
+David 
+Conrad, 
+General 
+Manager, 
+IANA, 
+http://www.apnic.net/policy/proposals/prop-056-v001.html. 
+
+53. 
+http://www.arin.net/meetings/minutes/ARIN_XIX/ppm2_transcript.html. 
+
+54. 
+Legacy holders who sign the ―Legacy RSA‖ are guaranteed the same registration services as provided to 
+organisations that sign the standard Registration Services Agreement (RSA). ARIN states that it will not 
+reclaim unutilised address space from legacy holders who sign the RSA. It allows ARIN to accept the 
+return or relinquishment of any address space from any existing address holder. Organisations returning 
+addresses under this policy see their fees waived if they voluntarily return unused address space. 
+Discussions regarding legacy space come primarily out of ARIN because most of the legacy allocations 
+were made to organisations in the ARIN region, before the creation of the RIR system. 
+
+55. 
+The Routing Research Group of the Internet Research Task Force (IRTF) is discussing several technical 
+schemes that are intended primarily to help the routing system scale with growing demand for more 
+multihomed end-user networks. Additional research is deemed necessary. 
+
+56. 
+Huston, G., ―IPv4 address transfers‖, proposed to APNIC on 26 July 2007, http://www.apnic.net/mailing-
+lists/sig-policy/archive/2007/07/msg00005.html. 
+
+57. 
+Titley, N. and van Mook, R., ―Enabling methods for reallocation of IPv4 resources‖, Submission Date: 23 
+October 2007, http://www.ripe.net/ripe/policies/proposals/2007-08.html. 
+
+DSTI/ICCP(2007)20/FINAL 
+
+68 
+
+58. 
+Policy 
+Proposal: 
+IPv4 
+Transfer 
+Policy 
+Proposal, 
+ARIN 
+Advisory 
+Committee, 
+http://lists.arin.net/pipermail/ppml/2008-February/009978.html 
+
+59. 
+IPv4 address report, 8 February 2008, http://www.potaroo.net/tools/ipv4/index.html 
+
+60. 
+As seen by the Routeviews collector at the University of Oregon. 
+
+61. 
+A study finds that only 3.6% of allocated addresses are actually occupied by visible hosts, and that 
+occupancy is unevenly distributed, with a quarter of responsive /24 subnets less than 5% full, and only 9% 
+of subnets more than half full. The study establishes an upper-bound on the number of servers in the 
+Internet at 36 million servers, about 16% of the responsive addresses. Just over 100 million ping-
+responsive IPv4 addresses, or around 4% of advertised addresses. Heidemann, J., Pradkin, y., Govindan, 
+R., Papadopoulos, C., Bannister, J., ―Exploring Visible Internet Hosts through Census and Survey‖, May 
+2007, 
+USC/ISI 
+Technical 
+Report 
+ISI-TR-2007-640, 
+http://www.isi.edu/~johnh/PAPERS/Heidemann07c.pdf. 
+
+62. 
+http://www.apnic.net/meetings/24/program/amm/presentations/sanjaya-tech-area.pdf 
+
+63. 
+―Quitclaims‖ by which the assignee agrees to relinquish their assignment in favour of another party. 
+
+64. 
+The Japanese Intelligent Transport System (ITS) project and the European Car2Car consortium 
+recommended exclusive use of IPv6 for its future Car2car applications http://www.car-to-car.org. 
+
+65. 
+CENELEC opted for IPv6 for the smart home concept. 
+
+66. 
+IPv6 is specified as the only IP version supported in Release 5 for IP Multimedia Subsystem (IMS). 3GPP 
+mandated use of IPv6 for IMS (IP Multimedia Subsystems) in 2000. 
+
+67. 
+http://www.defenselink.mil/transcripts/2003/tr20030613-0274.html. 
+
+68. 
+http://www.whitehouse.gov/omb/memoranda/fy2005/m05-22.pdf. 
+
+69. 
+4.9% annually, according to a recent report released by INPUT, the authority on government business. The 
+report suggests that a key area of growth will come in the wireless market segment. 
+
+70. 
+The guideline compares the cost structure between IPv4 and IPv6, and inventories the infrastructure and 
+servers as well as client products used by civil servants. The guideline summarises current adoption of 
+IPv6-enabled products in the Japanese government. It also provides a series of procedures to help each 
+Office 
+and 
+Ministry 
+in 
+Japan 
+plan 
+for 
+IPv6 
+adoption. 
+http://www.soumu.go.jp/joho_tsusin/eng/Releases/Telecommunications/news070402_1.html. 
+
+71. 
+The strategy identifies three phases in a : Phase i) preparation, from January 2008 through December 2009; 
+Phase ii) transition, from January 2010 through December 2012; and Phase iii) implementation, from 
+January 2013 through December 2015. Department of Finance and Deregulation, A Strategy for the 
+Transition to IPv6 for Australian Government agencies, ‗Building Capacity for Future Innovation', 
+AGIMO, October 2007, http://www.agimo.gov.au/infrastructure/ipv6. 
+
+72. 
+Arch Rock offers low power wireless sensor nodes, routers and data and management servers based on 
+IPv6 standards developed by the IETF 6LoWPAN Working Group for the IEEE802.15.4 low power radio 
+standard. Arch Rock's technology provides access to the Wireless Sensor Network as well as to individual 
+Sensor Nodes using Internet Protocol (IP) methods, services and tools. 
+
+73. 
+6LoWPAN22 (IPv6 over IEEE802.15.4) is a communication network based on IPv6 networking, for 
+limited power and for low throughput requirements. 
+
+74. 
+It should be noted that a number of other working groups are using IPv4. 
+
+75. 
+An ad-hoc network is a local area network or other small network, especially one with wireless or 
+temporary plug-in connections, in which some of the network devices are part of the network only for the 
+duration of a communications session or, in the case of mobile or portable devices, while in some close 
+proximity to the rest of the network. 
+
+DSTI/ICCP(2007)20/FINAL 
+
+69 
+
+76. 
+E.g. mobicast or geocast. 
+
+77. 
+Alternatively, they could deploy IPv4 private space and NATs. 
+
+78. 
+IPv6 Mobile nodes in IPv6 are able to communicate directly with any peer, as opposed to mobile nodes in 
+IPv4 where generally, the communication between the mobile node and its peer is routed through a fixed 
+anchor point (the Home Agent), which makes routing sub-optimal. 
+
+79. 
+The additional overhead cost for the direct routing with mobile nodes in IPv6 is that of a signaling 
+overhead. Most of the signaling overhead cost is to make the transmission between the mobile node and its 
+peer secure. 
+
+80. 
+In this case there appears to be a need to devise more complex forms of protocol translation mechanisms 
+that use forms of 4in6 protocol mapping, in order to allow IPv4 packets to transit across an IPv6 internal 
+infrastructure. The issue concerns the capability of available routers to perform such packet 
+transformations within the necessarily very high packet processing rates that such high volume networks 
+require. 
+
+81. 
+http://www.potaroo.net/ispcol/2007-08/dualstack.html. 
+
+82. 
+John Curran, J., ―An Internet Transition Plan‖, August 2007, Informational Internet-draft, 
+http://www.ietf.org/internet-drafts/draft-jcurran-v6transitionplan-01.txt. 
+
+83. 
+In ―A Scenario-Based Review of IPv6 Transition Tools,‖ Mackay and colleagues leverage their experience 
+running 6Net, one of Europe's largest IPv6 research networks. They analyse the applicability of different 
+transition tools on ISP, mobile wireless, corporate, and small–medium-business/residential networks. 
+
+84. 
+Asadullah, S., Ahmed, A., Popoviciu, C., Savola, P., Palet, J., ―ISP IPv6 Deployment Scenarios in 
+Broadband Access Networks‖, Internet-Draft, Informational, RFC 4779, January 2007, 
+http://tools.ietf.org/html/rfc4779. 
+
+85. 
+P. Grossetête, Cisco, « 2010, année cruciale dans l'adoption de l'IPv6 », VNUnet, 21 September 2007, 
+http://www.vnunet.fr/fr/news/2007/09/21/p-grosset-te-cisco-2010-ann-e. 
+
+86. 
+Planning and Accomplishing the IPv6 Integration: Lessons Learned from a Global Construction and 
+Project-Management 
+Company, 
+Cisco 
+Systems, 
+Microsoft, 
+and 
+Comandinformation, 
+http://www.cisco.com/web/partners/pr67/pr41/docs/C11-439724-
+00_PlanningandAccomplishingtheIPv6Integration_v2.pdf. 
+
+87. 
+The US National Institute of Standards and Technology is part of the United States Department of 
+Commerce. 
+
+88. 
+Measured in 2003 US dollars. 
+
+89. 
+Domingues, M., Friacas, C., ―Is Global IPv6 Deployment on Track?‖, Foundation for National Scientific 
+Computing (FCCN) at the University of Lisbon, October 2007. 
+
+90. 
+An explanation for better IPv6 results compared to IPv4 between Portugal and Ireland is a greater number 
+of hops: IPv6 connectivity is only provided via London while IPv4 connectivity is provided in Madrid, 
+Geneva and Paris. 
+
+91. 
+The issue of scalable routing is being discussed within several constituencies including the Internet 
+Architecture Board (IAB), the IETF, Internet registries, and Internet service providers. Proposed solutions 
+range from technical means to add new layers of ―indirection‖ at various levels of the Internet (e.g. at the 
+end-device level, at the router level, or at the Internet service provider level), through to new addressing 
+policies. 
+
+92. 
+Meyer, D., Zhang, L. and Fall, K., ―Report from the IAB Workshop on Routing and Addressing‖, 
+Informational Internet-Draft, RFC 4984, September 2007, http://tools.ietf.org/html/rfc4984. 
+
+DSTI/ICCP(2007)20/FINAL 
+
+70 
+
+93. 
+Sherbin P., ―Elements of The Internet Architecture‖, Informational Internet-Draft, RFC 4984, August 
+2007, http://www.ietf.org/internet-drafts/draft-sherbin-eia-00.txt. 
+
+94. 
+Huston, G., ―Transition to IPv6‖, August 2007, http://www.potaroo.net/ispcol/2007-08/dualstack.html. 
+
+95. 
+E.g. rendezvous mechanisms. 
+
+96. 
+M. Mackay, C. Edwards, M. Dunmore, T. Chown, and G. Carvalho, A Scenario-Based Review of IPv6 
+Transition Tools, pg. 27, IEEE Computer Society, May/June 2003. 
+
+97. 
+Such as NAT-PT or ISATAP. It is also possible to run parallel networks that run IPv6 and IPv4 and NAT. 
+
+98. 
+E.g. ISATAP or an internal tunnel broker. 
+
+99. 
+They will need to use a 6to4 tunnel or build IPv6-to-IPv4 tunnels to other IPv6 locations. 
+
+100. 
+For example, Vint Cerf at the Internet Governance Forum in Rio de Janeiro. 
+
+101. 
+Lawful Intercept for the Internet and tracing nodes and application identification by port are inhibited by 
+NAT translation and global uniqueness of IPv6 addresses facilitates identification. 
+
+102. 
+Department of Finance and Deregulation, A Strategy for the Transition to IPv6 for Australian Government 
+agencies, 
+‗Building 
+Capacity 
+for 
+Future 
+Innovation', 
+AGIMO, 
+October 
+2007, 
+http://www.agimo.gov.au/infrastructure/ipv6. 
+
+103. 
+http://www.ipv6Forum.org. 
+
+104. 
+Rekhter, Y., Moskowitz, B., Karrenberg, D., de Groot, G. J., Lear, E., « Address Allocation for Private 
+Internets‖, Internet Best Current Practice, February 1996, http://www.faqs.org/rfcs/rfc1918.html. 
+
+105. 
+http://www.6journal.org/archive/00000265/01/alain-durand.pdf. 
+
+106. 
+http://www.v6.ntt.net/index_e.html. 
+
+107. 
+Also called "IPv6 Dual Connection Service for Open Computer Network (OCN) Housing" that is directly 
+linked to a high-quality area backbone connection. 
+
+108. 
+http://www.ap-ipv6tf.org/meetings/summit2007/file/1/(3)%20JAPAN%20-%20SummitAP2007.pdf. 
+
+109. 
+Ibid. 
+
+110. 
+Presentation ―How and Why have millions of households been already IPv6 ready?‖ IPv6 Deployment 
+Status Report in Japan, Asia Pacific IPv6Summit 2007, Takashi Arano, Intec Netcore, Inc. 
+
+111. 
+http://www.internetnews.com/infra/article.php/3722731, NTT's 'Killer' IPv6 App a Potential Lifesaver, by 
+Sean Michael Kerner, 18 January 2008. 
+
+112. 
+http://www.cio.com/article/print/133950. 
+
+113. 
+IPv6 is also adequately supported in Windows XP and Windows Server 2003 to perform basic functions, 
+including application verification. 
+
+114. 
+http://www.afcea.org/committees/technology/techforum/ipv6/Wettling.pdf. 
+
+115. 
+IPv6 Promotion Council: http://www.v6pc.jp/en/index.html. 
+
+116. 
+IPv6 Services in Japan: http://www.ipv6style.jp/en/statistics/services/index.shtml. 
+
+117. 
+http://www.ipv6style.jp/en/statistics/services/index.shtml. 
+
+118. 
+http://www.kantei.go.jp/foreign/policy/it/ITstrategy2006.pdf (p. 35). 
+
+119. 
+Study Group on Internet's Smooth Transition to IPv6 to Convene – August 2007, 
+http://www.soumu.go.jp/joho_tsusin/eng/Releases/Telecommunications/news070807_2.html. 
+
+DSTI/ICCP(2007)20/FINAL 
+
+71 
+
+120. 
+http://www.ripe.net/ripe/maillists/archives/ipv6-wg/index.html. 
+
+121. 
+http://www.ipv6tf.org/PublicDocuments/com2002_0096en01.pdf. 
+
+122. 
+Ibid. 
+
+123. 
+http://www.defenselink.mil/transcripts/2003/tr20030613-0274.html. 
+
+124. 
+http://www.networkworld.com/research/2007/041807-better-internet-ipv6.html. 
+
+125. 
+http://www.whitehouse.gov/omb/memoranda/fy2005/m05-22.pdf. 
+
+126. 
+http://www.nro.net/about/rir-system.html. 
+
+127. 
+http://www.arin.net/announcements/20070521.html. 
+
+128. 
+http://lacnic.net/ipv6/en/. 
+
+129. 
+http://www.icann.org/minutes/resolutions-29jun07.htm. 
+
+130. 
+Resolution [#2007.07.01] http://www.afrinic.net/news/ipv4_exhaustion.htm. 
+
+131. 
+http://www.apnic.org/meetings/24/program/sigs/policy/transcripts. 
+
+132. 
+http://www.ripe.net/news/community-statement.html. 
+
+133. 
+Narten, T., ―IETF Statement on IPv4 Exhaustion and IPv6‖, Internet draft, 12 November 2007, 
+http://www.ietf.org/internet-drafts/draft-narten-ipv6-statement-00.txt. 
+

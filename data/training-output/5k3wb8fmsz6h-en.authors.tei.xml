@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Mike</forename>
+								 <surname>Hogan</surname>,
+							</persName>
+							<persName>
+								 <forename>Jacques</forename>
+								 <surname>de Jong</surname>,
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Jan</forename>
+								<middlename>Horst</middlename>
+								 <surname>Keppler</surname> ,
+							</persName>
+							<persName>
+								<forename>Thomas‐Olivier</forename>
+								 <surname>Léautier</surname> ,
+							</persName>
+							<persName>
+								<forename>Christoph</forename>
+								 <surname>Reichmann</surname> ,
+							</persName>
+							<persName>
+								<forename>Fabien</forename>
+								 <surname>Roques</surname> ,
+							</persName>
+							<persName>
+								<forename>Marcello</forename>
+							<lb/>
+								 <surname>Saguan</surname> ,
+							</persName>
+							<persName>
+								<forename>Ulrik</forename>
+								<surname>Stridbaek</surname> ,
+							</persName>
+							<persName>
+								 <forename>Miguel</forename>
+								<surname>de la</surname>
+							</persName>
+							<persName>
+								 <forename>Torre</forename>
+								 <surname>Rodriguez</surname> ,
+							</persName>
+							<persName>
+								 <forename>Philippe</forename>
+								<surname>Vassilopoulos</surname> ,
+							</persName>
+							<persName>
+								 <forename>Stephen</forename>
+								<surname>Woodhouse</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

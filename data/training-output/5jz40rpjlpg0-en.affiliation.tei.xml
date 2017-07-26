@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="laboratory">Laboratoire d&apos;Economie des Transports</orgName>,
+							<orgName type="institution">Université de Lyon</orgName>,
+							<address>
+								<country>France</country>
+							</address>
+							<orgName type="institution">University of Lyon</orgName>,
+							<orgName type="laboratory">Institute d&apos;Études Politiques (IEP) Laboratoire d&apos;Économie des Transports (LET</orgName>
+							<address>
+								<country>Albania, Armenia</country>,
+								<country>Australia, Austria</country>,
+								<country>Azerbaijan, Belarus</country>,
+								<country>Belgium,</country>
+							</address>
+							<orgName type="institution">Bosnia and Herzegovina</orgName>,
+							<address>
+								<country>Bulgaria</country>,
+								<country>Canada</country>,
+								<country>Chile</country>,
+								<country>People&apos;s Republic of China, Croatia</country>,
+							</address>
+							<orgName type="institution">Czech Republic</orgName>,
+							<address>
+								<country>Denmark, Estonia, Finland</country>,
+								<country>France, Former Yugoslav Republic of Macedonia</country>,
+								<settlement>Georgia</settlement>,
+								<country>Germany</country>,
+								<country>Greece, Hungary</country>,
+								<region>Iceland, India, Ireland, Italy</region>,
+								<country>Japan, Korea, Latvia</country>,
+								<country>Liechtenstein</country>,
+								<country>Lithuania, Luxembourg</country>,
+								<country>Malta</country>, Mexico,
+							</address>
+							<orgName type="institution">Republic of Moldova</orgName>,
+							<address>
+								<addrLine>Montenegro, the Netherlands, New Zealand</addrLine>,
+								<settlement>Norway</settlement>,
+								<country>Poland</country>,
+								<country>Portugal, Romania</country>,
+								<addrLine>Russian Federation</addrLine>,
+								<country>Serbia</country>,
+							</address>
+							<orgName type="institution">Slovak Republic</orgName>,
+							<address>
+								<country>Slovenia</country>,
+								<country>Spain</country>,
+								<country>Sweden, Switzerland, Turkey</country>,
+								<country>Ukraine</country>,
+								<country>United Kingdom and United States.</country>
+								<addrLine>2 rue André-Pascal</addrLine>,
+								<postCode>75775</postCode>
+								<settlement>Paris Cedex 16</settlement>,
+								<country>France.</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

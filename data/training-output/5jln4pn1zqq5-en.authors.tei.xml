@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+By
+								 <forename>Daniel</forename>
+								 <surname>Sanchez-Serra</surname>
+								 <marker>1</marker>
+							</persName>
+							<persName>
+								 <forename>Elizabeth</forename>
+								 <surname>Cristina</surname>
+							</persName>
+							<persName>
+								 <forename>Arciniegas</forename>
+								 <surname>Muñoz</surname>,
+							</persName>
+							<persName>
+								 <forename>Adriana</forename>
+								 <middlename>Sabogal</middlename>
+								 <surname>Moreno</surname>,
+							</persName>
+							<persName>
+								 <forename>Oscar</forename>
+								 <surname>Javier</surname>
+							</persName>
+							<persName>
+								 <forename>Quiroz</forename>
+								 <surname>Porras</surname>,
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Simón</forename>
+								<surname>Mesa</surname> ,
+							</persName>
+							<persName>
+								<forename>José</forename>
+								 <surname>Antonio</surname>
+							</persName>
+							<persName>
+								 <forename>Pinzón</forename>
+								 <surname>Bermudez</surname> ,
+							</persName>
+							<persName>
+								<forename>Jairo</forename>
+								 <surname>Castillo</surname> ,
+							</persName>
+							<persName>
+								<forename>Diego</forename>
+								 <surname>Mora</surname> and
+							</persName>
+							<persName>
+								 <forename>Jorge</forename>
+								 <middlename>Armando</middlename>
+								 <surname>Rueda</surname> ( DNP<lb/>Colombia );
+							</persName>
+							<persName>
+								<forename>Ana</forename>
+								<middlename>Paola</middlename>
+								 <surname>Gómez</surname> ;
+							</persName>
+							<persName>
+								 <forename>Diego</forename>
+								<surname>López</surname> and
+							</persName>
+							<persName>
+								 <forename>Sandra</forename>
+								 <surname>Yaneth</surname>
+							</persName>
+							<persName>
+								 <forename>Rodriguez</forename>
+								 <surname>Figueroa</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

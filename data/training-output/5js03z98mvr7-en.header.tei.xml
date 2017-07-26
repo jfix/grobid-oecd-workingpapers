@@ -1,0 +1,61 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="5js03z98mvr7-en"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">Please cite this paper as:<lb/></note>
+
+	<reference>Haščič, I., J. Silva and N. Johnstone (2015), &quot; The Use of<lb/> Patent Statistics for International Comparisons and Analysis of<lb/> Narrow Technological Fields &quot; , OECD Science, Technology<lb/> and Industry Working Papers, 2015/05, OECD Publishing,<lb/> Paris.<lb/></reference>
+
+	<ptr type="web">http://dx.</ptr>
+
+	<idno>doi.org/10.1787/5js03z98mvr7-en<lb/></idno>
+
+	<note type="other">OECD Science, Technology and Industry<lb/> Working Papers 2015/05<lb/></note>
+
+	<docTitle>
+	<titlePart>The Use of Patent Statistics<lb/> for International<lb/> Comparisons and Analysis<lb/> of Narrow Technological<lb/> Fields<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Ivan Haščič, Jérôme Silva,<lb/> Nick Johnstone<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">JEL Classification: O3, O31, O34, Q2, Q4, Q5<lb/> OECD SCIENCE, TECHNOLOGY AND INDUSTRY WORKING PAPERS<lb/> OECD Working Papers should not be reported as representing the official views of the OECD or of its<lb/> member countries. The opinions expressed and arguments employed are those of the authors.<lb/> Working Papers describe preliminary results or research in progress by the author(s) and are published<lb/> to stimulate discussion on a broad range of issues on which the OECD works. Comments on Working<lb/> Papers are welcomed, and may be sent to</div>
+
+	<byline>
+	<affiliation>OECD Directorate for Science, Technology and Innovation,<lb/></affiliation>
+	</byline>
+
+	<address>OECD, 2 rue André-Pascal, 75775 Paris Cedex 16, France;</address>
+
+	<email>e-mail: sti.contact@oecd.org.<lb/></email>
+
+	<note type="other">The release of this working paper has been authorised by Andrew Wyckoff, OECD Director for<lb/> Science, Technology and Innovation.<lb/> This paper has been authored by Ivan Haščič, Jérôme Silva (OECD Environment Directorate) and<lb/> Nick Johnstone (OECD Directorate for Science, Technology and Innovation). The paper draws on past<lb/> work of the Environment Directorate and its project on &quot;Environmental policy and technological<lb/> innovation&quot; (http://www.oecd.org/environment/innovation.htm).<lb/> A version of this paper has been reviewed by the OECD Working Party on Environmental Information<lb/> (WPEI) at its meeting in November 2014 and has benefited from the comments received. The authors<lb/> are grateful to Dominique Guellec and Hélène Dernis for helpful comments on a previous version of<lb/> this paper, as well as the participants of the Conference on Patent Statistics for Decision Makers<lb/> (October 2013 in Rio de Janeiro, Brazil) and the Workshop on Evaluating Green Innovation Policies<lb/> (December 2012 at Bruegel Institute in Brussels, Belgium) where previous versions of this paper were<lb/> presented.<lb/> The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli authorities. The<lb/> use of such data by the OECD is without prejudice to the status of the Golan Heights, East Jerusalem and Israeli<lb/> settlements in the West Bank under the terms of international law.<lb/></note>
+
+	<p type="introduction">a) Note by Turkey:<lb/> The information in this document with reference to &quot; Cyprus &quot; relates to the southern part of the Island. There<lb/> is no single authority representing both Turkish and Greek Cypriot people on the Island. Turkey recognises<lb/> the Turkish Republic of Northern Cyprus (TRNC). Until a lasting and equitable solution is found within the<lb/> context of the United Nations, Turkey shall preserve its position concerning the &quot; Cyprus issue &quot; .<lb/> b) Note by all the European Union Member States of the OECD and the European Union:<lb/> The Republic of Cyprus is recognised by all members of the United Nations with the exception of Turkey.<lb/> The information in this document relates to the area under the effective control of the Government of the<lb/> Republic of Cyprus.<lb/> © OECD/OCDE 2015<lb/> Applications for permission to reproduce or translate all or part of this material should be made to:<lb/> OECD Publications,</p>
+
+	<address>2 rue André-Pascal, 75775 Paris, Cedex 16, France;</address>
+
+	<email>e-mail: rights@oecd.org<lb/></email>
+
+	<docTitle>
+	<titlePart>The Use of Patent Statistics for International Comparisons and Analysis of Narrow Technological Fields<lb/> OECD SCIENCE, TECHNOLOGY AND INDUSTRY WORKING PAPERS<lb/> 2<lb/> THE USE OF PATENT STATISTICS FOR INTERNATIONAL COMPARISONS AND<lb/> ANALYSIS OF NARROW TECHNOLOGICAL FIELDS<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>by Ivan Haščič, Jérôme Silva and Nick Johnstone (OECD)<lb/></docAuthor>
+	</byline>
+
+	<div type="abstract">ABSTRACT<lb/> Patent data provide an increasingly used means to analyse innovation performance worldwide<lb/> including in countries with incomplete data coverage, such as some developing countries. This paper<lb/> discusses the specific issues associated with using patent data for measuring and analysing innovation<lb/> in narrow technological fields, such as many environment-related technologies. To improve cross-<lb/>country comparability of patent statistics, the paper advocates the use of indicators based on patent<lb/> family size because they are more flexible and can be adapted to various applications. The paper also<lb/> examines certain idiosyncratic characteristics of patent databases and proposes approaches to mitigate<lb/> potential biases in empirical cross-country analyses. While doing so is particularly important for<lb/> analyses of narrow technological fields such as many environment-and climate-related technologies,<lb/> some of these issues are relevant for patent analysis more broadly.<lb/></div>
+
+	<keyword>Keywords: innovation, indicators, environmental technologies<lb/> JEL classification: O3; O31; O34; Q2; Q4; Q5<lb/></keyword>
+
+	<p type="introduction">The Use of Patent Statistics for International Comparisons and Analysis of Narrow Technological Fields<lb/> OECD SCIENCE, TECHNOLOGY AND INDUSTRY WORKING PAPERS<lb/> EXECUTIVE SUMMARY<lb/> Patent data provide an increasingly used means to analyse innovation performance worldwide<lb/> including in countries with incomplete data coverage, such as some developing countries. This paper<lb/> focuses on the construction of indicators and analytical methodologies for measuring innovation in<lb/> climate-and other environment-related technologies. A companion paper discusses the use of such<lb/> indicators for policy purposes (see Haščič and Migotto 2015).<lb/> Various approaches have previously been developed to improve cross-country comparability of<lb/> patent statistics. However, they were generally limited either because they require additional data that<lb/> might not be available in all countries or because they impose restrictions that are less appropriate for<lb/> analysis of narrow technological fields. The simultaneity of two conditions – narrow technological<lb/> scope and comparability across a wide range of countries – often renders existing indicators inapt for<lb/> such analyses. This paper advocates the use of indicators based on patent family size because they are<lb/> more flexible and can be adapted to such applications.<lb/> This paper also examines certain idiosyncratic characteristics of patent databases. The sources of<lb/> such idiosyncrasies include unequal country and temporal coverage of patent databases, asymmetric<lb/> information on patent protection in member states through regional applications, missing descriptive<lb/> information in patent databases, and non-homogeneous assignment of patent classes and the<lb/> consequent difficulty of identifying relevant patent documents. This suggests that all patent databases<lb/> should be exploited with care. The paper proposes approaches to mitigate potential biases in empirical<lb/> cross-country analyses. While doing so is particularly important for analyses of narrow technological<lb/> fields such as environment and climate related technologies, many of these issues are relevant for<lb/> patent analysis more broadly.<lb/> The Use of Patent Statistics for International Comparisons and Analysis of Narrow Technological Fields<lb/> OECD SCIENCE, TECHNOLOGY AND INDUSTRY WORKING PAPERS</p>
+
+		</front>
+	</text>
+</tei>

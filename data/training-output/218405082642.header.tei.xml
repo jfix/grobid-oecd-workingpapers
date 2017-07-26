@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="218405082642"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>PRE-EMPTIVE PATENTING: SECURING MARKET EXCLUSION AND<lb/> FREEDOM OF OPERATION<lb/> ♣<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Dominique Guellec 1 , Catalina Martinez 2 and Pluvia Zuniga 3<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>1 Directorate for Science, Technology and Industry,</affiliation>
+	</byline>
+
+	<address>OECD<lb/> 2, Rue André Pascal, 75775 Paris CEDEX 16<lb/></address>
+
+	<phone>Tel: (33) 1 45 24 94 39. Fax: (33) 1 44 30 62 58<lb/></phone>
+
+	<byline>
+	<affiliation>2 Institute of Public Goods and Policies, IPP-CSIC<lb/></affiliation>
+	</byline>
+
+	<address>Albasanz, 26-28, E-28037 Madrid,</address>
+
+	<phone>Tel: (34) 91 602 25 43<lb/></phone>
+
+	<byline>
+	<affiliation>3 Independent consultant,</affiliation>
+	</byline>
+
+	<address>1300 New York Avenue, Washington, D.C.<lb/></address>
+
+	<phone>Tel: (1) 202 623 1558. Fax: (1) 202 312 4041<lb/></phone>
+
+	<div type="abstract">ABSTRACT<lb/> We investigate statistically the characteristics, functioning and incidence of pre-emptive patenting,<lb/> defined as patent filings whose main effect is to hamper the grant of other patents. Patent applications can<lb/> be used to prevent the grant of exclusive rights on markets and technologies to others in order to ensure<lb/> freedom of operation to their holder or keep patent-less competitors out of the market. Combining data<lb/> from examination outcomes and prior art at the European Patent Office (EPO), we develop a methodology<lb/> to identify pre-emptive patent applications. We find evidence of pre-emption associated to patent<lb/> applications cited as compromising patentability while being deemed non inventive. Furthermore, amongst<lb/> them, those which are withdrawn by the applicant have the strongest pre-emptive power. The coincidence<lb/> of low inventiveness and high pre-emptive impact supports the idea that some of these patents may be<lb/> strategically designed by their applicants to block patenting by others.<lb/></div>
+
+	<keyword>Keywords: Patents, citations, pre-emptive patenting, blocking patents,<lb/> offensive and defensive patenting.<lb/></keyword>
+
+	<p type="introduction">JEL-classification: C25, C51, K41, L00, L20<lb/> ♣<lb/> We thank seminar audiences at</p>
+
+	<byline>
+	<affiliation>the Université de Paris 1-CES, Université de Paris 2-ERMES, University<lb/></affiliation>
+	</byline>
+
+	<address>College Dublin, Universitat Autònoma de Barcelona</address>
+
+	<reference>and participants at the EPIP 2007 conference (Lund,<lb/> 20-21 September 2007), the 3rd ZEW conference on the economics of innovation and patenting<lb/> (Mannheim, June 13-14 2008), and the Conference Knowledge for Growth: European Strategies in the<lb/> Global Economy (Toulouse, 7-9 July 2008) for their comments.</reference>
+
+	<note type="other">The views expressed in the paper are those<lb/> of the authors and do not necessarily reflect those of the OECD (Organisation for Economic Co-operation<lb/> and Development) nor of the CSIC (Consejo Superior de Investigaciones Cientificas). We thank Stéphane<lb/> Maraut for his aid in the creation of the specific database of patent indicators needed for this research.<lb/></note>
+
+	<idno>DSTI/DOC(2009)8<lb/></idno>
+
+	<note type="other">4<lb/> BREVETS PRÉEMPTIFS: S&apos;ASSURER L&apos;EXCLUSIVITÉ DU MARCHÉ<lb/> ET LA LIBERTÉ DE MANOEUVRE<lb/> ♣<lb/></note>
+
+	<byline>
+	<docAuthor>Dominique Guellec 1 , Catalina Martinez 2 et Pluvia Zuniga 3<lb/></docAuthor>
+	</byline>
+
+	<byline>
+	<affiliation>1 Direction de la science, de la technologie et de l&apos;industrie,</affiliation>
+	</byline>
+
+	<address>OCDE<lb/> 2, rue André Pascal, 75775 Paris CEDEX 16<lb/></address>
+
+	<phone>Tél: (33) 1 45 24 94 39. Fax: (33) 1 44 30 62 58<lb/></phone>
+
+	<byline>
+	<affiliation>2 Institute of Public Goods and Policies, IPP-CSIC<lb/></affiliation>
+	</byline>
+
+	<address>Albasanz, 26-28, E-28037 Madrid, Tél:</address>
+
+	<phone>(34) 91 602 25 43<lb/></phone>
+
+	<byline>
+	<affiliation>3 Independant consultant,</affiliation>
+	</byline>
+
+	<address>1300 New York Avenue, Washington, D.C.<lb/></address>
+
+	<ptr type="web">Tél: (1) 202 623 1558. Fax: (1) 202 312 4041<lb/></ptr>
+
+	<div type="abstract">RESUMÉ<lb/> Nous analysons statistiquement les caractéristiques, le fonctionnement et les effets des brevets<lb/> préemptifs, définis comme des (demandes de) brevets dont l&apos;effet principal est d&apos;empêcher la délivrance<lb/> d&apos;autres brevets. Les demandes de brevets peuvent être utilisées pour empêcher la délivrance de droits<lb/> exclusifs à d&apos;autres parties sur des marchés et des technologies en vue d&apos;assurer la liberté de manoeuvre à<lb/> leur titulaire ou de maintenir des compétiteurs sans brevets à l&apos;écart du marché. Combinant des données du<lb/> résultat de l&apos;examen et de l&apos;art antérieur de l&apos;Office Européen des Brevets (OEB), nous développons une<lb/> méthodologie qui identifie les demandes préemptives de brevets. Nous trouvons des évidences de<lb/> préemption pour des demandes de brevets citées comme compromettant la brevetabilité d&apos;autres demandes<lb/> alors qu&apos;elles ne sont pas elles-mêmes jugés inventifs. De plus parmi elles, celles qui sont abandonnées par<lb/> le demandeur lui-même ont le pouvoir préemptif le plus fort. La coïncidence de faible inventivité et de<lb/> pouvoir préemptif fort suggère que certaines de ces demandes de brevets sont stratégiquement conçues par<lb/> leur titulaire en vue de bloquer la prise de brevet par d&apos;autres.<lb/> ♣<lb/> Nous remercions les participants à</div>
+
+	<byline>
+	<affiliation>Université de Paris 1-CES, Université de Paris 2-ERMES, University<lb/> College Dublin, Universitat Autònoma de Barcelona et</affiliation>
+	</byline>
+
+	<p type="introduction">les participants à la conférence EPIP 2007 (Lund,<lb/> 20-21 Septembre 2007), 3rd ZEW conference on the economics of innovation and patenting (Mannheim,<lb/> juin 13-14 2008), et la conférence Knowledge for Growth: European Strategies in the Global Economy<lb/> (Toulouse, 7-9 juillet 2008) pour leurs commentaires. Les opinions exprimées sont celles des auteurs et ne<lb/> reflètent pas nécessairement celles de l&apos;OCDE (Organisation de coopération et de développement<lb/> économiques) ni de la CSIC (Consejo Superior de Investigaciones Cientificas). Nous remercions Stéphane<lb/> Maraut pour son assistance dans la création de la base de données spécifique d&apos;indicateurs de brevets<lb/> utilisée pour cette recherche.<lb/> DSTI/DOC(2009)8<lb/> DSTI/DOC(2009)8<lb/> DSTI/DOC(2009)8<lb/> DSTI/DOC(2009)8<lb/> DSTI/DOC(2009)8</p>
+
+		</front>
+	</text>
+</tei>

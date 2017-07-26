@@ -1,0 +1,1433 @@
+Please cite this paper as: De Backer, K. and N. Yamano (2007),  " The Measurement of 
+Globalisation using International Input-Output Tables " , OECD 
+Science, Technology and Industry Working Papers, 2007/08, 
+OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/242020221356 OECD Science, Technology and Industry 
+Working Papers 2007/08 The Measurement of 
+Globalisation using 
+International Input-Output 
+Tables Koen De Backer, Norihiko Yamano Unclassified DSTI/DOC(2007)8 Organisation de Coopération et de Développement Economiques 
+Organisation for Economic Co-operation and Development 23-Apr-2008 
+___________________________________________________________________________________________ 
+English -Or. English DIRECTORATE FOR SCIENCE, TECHNOLOGY AND INDUSTRY THE MEASUREMENT OF GLOBALISATION USING INTERNATIONAL INPUT-OUTPUT TABLES STI WORKING PAPER 2007/8 
+Statistical Analysis of Science, Technology and Industry Koen De Backer and Norihiko Yamano JT03244632 Document complet disponible sur OLIS dans son format d'origine 
+Complete document available on OLIS in its original format DSTI/DOC(2007)8 
+Unclassified English -Or. English Cancels & replaces the same document of 18 January 2008 DSTI/DOC(2007)8 2 STI Working Paper Series The Working Paper series of the OECD Directorate for Science, Technology and Industry is designed 
+to make available to a wider readership selected studies prepared by staff in the Directorate or by outside 
+consultants working on OECD projects. The papers included in the series cover a broad range of issues, of 
+both a technical and policy-analytical nature, in the areas of work of the DSTI. The Working Papers are 
+generally available only in their original language – English or French – with a summary in the other. This 
+document is also available in French under the title  " Mesurer la mondialisation à l'aide des tableaux 
+internationaux d'entrées-sorties " . Comments on the papers are invited, and should be sent to the Directorate for Science, Technology 
+and Industry, OECD, 2 rue André-Pascal, 75775 Paris Cedex 16, France. The opinions expressed in these papers are the sole responsibility of the author(s) and do not 
+necessarily reflect those of the OECD or of the governments of its member countries. http://www.oecd.org/sti/working-papers © Copyright OECD/OCDE, 2007. DSTI/DOC(2007)8 3 THE MEASUREMENT OF GLOBALISATION USING INTERNATIONAL INPUT-OUTPUT 
+TABLES Koen De Backer 
+Science and Technology Policy Division and Economic Analysis and Statistics Division 
+Directorate for Science, Technology and Industry (DSTI), OECD 
+koen.debacker@oecd.org Norihiko Yamano 
+Economic Analysis and Statistics Division 
+Directorate for Science, Technology and Industry (DSTI), OECD 
+norihiko.yamano@oecd.org ABSTRACT One of the distinctive characteristics of the current globalisation process is the emergence of global 
+value chains. Within global value chains and international production networks, not only are final goods 
+traded internationally, but intermediate goods (parts and components) and, in recent years, services also 
+increasingly are. This trend significantly alters the economic relations between countries and increasingly 
+casts doubt on empirical indicators such as trade and FDI that are traditionally used to measure 
+globalisation. Input-output tables may provide much finer detail in describing current globalisation as they 
+offer information on the use of goods instead of the rather arbitrary classification schemes that divide 
+goods into intermediate and other categories. Moreover, input-output tables also incorporate information 
+on the use of services, enabling measurement of the increasing offshoring of service activities in today's 
+business activities. Based on the OECD Input-Output Database, which includes harmonised tables for 38 
+countries (of which 10 emerging non-OECD economies), this paper brings together empirical evidence on 
+the growing importance of global value chains and the increasing interdependence between countries. 
+Input-output indicators are presented for individual countries and individual industries, aiming to 
+demonstrate the changing characteristics of current globalisation. DSTI/DOC(2007)8 4 TABLE OF CONTENTS Introduction ................................................................................................................................................. 5 
+The OECD Input-Output Database ............................................................................................................. 7 
+Indicators on global linkages ..................................................................................................................... 12 
+Indicators on offshoring ............................................................................................................................ 15 
+Calculating higher-order effects: embodied imports and the foreign content of exports .......................... 22 
+Employment effects – job embodiment of trade ....................................................................................... 26 
+Conclusions and future directions for research ......................................................................................... 29 REFERENCES ............................................................................................................................................. 30 DSTI/DOC(2007)8 5 THE MEASUREMENT OF GLOBALISATION USING INTERNATIONAL INPUT-OUTPUT 
+TABLES Introduction Input-output analysis has received renewed attention in recent years as input-output (I-O) tables are 
+increasingly used in the empirical analyses of different topics, such as material flows, environmental 
+issues, sustainable development, embodied technology, etc. This is partly due to the improved availability 
+and quality of national input-output tables as well as modern IT capabilities that allow for more complex 
+analyses to be undertaken. An area where input-output information has been used less is globalisation, 
+largely due to the fact that published input-output tables do not have the same sector classification and 
+price basis definitions, and therefore often lack international comparability. Globalisation is high on policy and research agendas in many countries as the pace and scale of 
+today's globalisation process is without precedent. Growth in world exports and imports has been 
+accelerating since the 1980s, far exceeding the growth in world GDP. Since the second half of the 1990s, 
+globalisation has been particularly boosted by the strong increase in foreign direct investment (FDI). 
+Moreover, current economic integration is no longer restricted to the Triad – the United States, Europe and 
+Japan – but now extends to new large global players like Brazil, Russia, India and China (BRICs). Furthermore, current globalisation displays some distinctive features (OECD, 2007a; Grossman and 
+Rossi-Hanberg, 2006; Baldwin, 2006) as production processes are increasingly fragmented geographically, 
+resulting in the emergence of global value chains. Information and communication technologies (ICT) 
+have made it possible to  " slice up "  the traditional value chain (Porter, 1985) and activities that previously 
+had to be carried out in the same location in order to reduce costs (Box 1). Instead of total industries and 
+their complete value chains, particular fragments of production are now increasingly clustering locally. 
+Important restructuring has taken place within companies and industries, resulting in the outsourcing, 
+offshoring and relocation activities. Final products and, increasingly, also production of intermediates are 
+being offshored within these global value chains, giving rise to increased trade through exports and 
+imports. Multinational firms play a prominent role in these global value and supply chains as they have a 
+global reach that allows them to co-ordinate production and distribution across many countries and shift 
+their activities according to changing demand and cost conditions. DSTI/DOC(2007)8 6 Box 1. The Value Chain The value chain is a systematic approach to the analysis of the competitive advantage of companies, 
+developed by M.E. Porter in his book Competitive Advantage (1985). The chain consists of a series of 
+activities that create and build value, distinguishing between  " primary activities "  and  " support activities " . Primary activities 
+Inbound logistics: reception and storage of goods. 
+Operations: manufacturing and assembly of goods. 
+Outbound logistics: distribution to wholesalers, retailers or the final consumer. 
+Marketing and sales: marketing, communications and promotion. 
+Service: installation, customer service, handling complaints, training, etc. Support activities 
+Procurement: purchasing of goods, services and materials. 
+Technology development: production technology, lean manufacturing, 
+customer relationship management (CRM), etc. 
+Human resource management: recruitment, training and development, remuneration. 
+Firm infrastructure: planning and control mechanisms (e.g. accounting). Another key characteristic of current globalisation is that it increasingly extends to FDI and trade in 
+services. Many service activities are becoming increasingly internationalised, especially as ICT enables 
+services to be produced irrespective of location. Improvements in technology, standardisation, 
+infrastructure growth and decreasing data transmission costs have all facilitated the sourcing of services 
+from abroad. Rapid advances in ICT have also increased the tradability of many service activities and 
+created new kinds of tradable services. In particular,  " knowledge work "  such as database and information 
+processing services and research and consultancy services can easily be carried out via the Internet and 
+through tele-and video-conferencing. Activities such as call centres have also begun to be offshored. As global value chains and the related offshoring may have important impacts on national economies 
+and employment, more accurate empirical measures of globalisation have been called for. However, the 
+new characteristics of globalisation make empirical measurement of current globalisation a difficult and 
+challenging exercise. While trade and FDI data have traditionally been used to measure globalisation, both 
+are too broad to measure the size of global value chains and the extent of offshoring. Due to the emergence 
+of global value chains, trade has increased not only in finished goods and services but also, and especially, 
+in intermediates such as primary goods, parts and components, and semi-finished goods. Exports of final 
+goods are no longer an appropriate indicator of the (international) competitiveness of countries, as DSTI/DOC(2007)8 7 following the emergence of global value chains, final goods increasingly include a large proportion of 
+intermediate goods that have been imported into the country. Data on trade in intermediate goods and services may provide a more accurate indication, but such 
+data are not readily available. Based on the broad economic categories developed by the United Nations, 
+54% of world manufacturing imports in 2003 could be classified as imports of intermediate goods. 
+However, the drawback with these kinds of classifications is that they are based on some (arbitrary) 
+assessment of which goods and products can be considered intermediate, and which ones as final. The 
+emergence of global value chains makes this distinction even less clear, as close-to-final products are often 
+further processed in subsequent production and distribution stages within companies. The measurement 
+problem is even greater for the offshoring of services, as data on trade in services are far less detailed than 
+on trade in goods, while trade data do not typically identify if services are destined for final consumption 
+or intermediate use. In general, official data on employment, trade and FDI typically provide some insight into offshoring, 
+but do not provide a complete picture (US Government Accountability Office, 2004). Firm-level data 
+(often collected through surveys) may provide the most complete information on the globalisation of value 
+chains and offshoring, but firms are often reluctant to furnish details on their outsourcing/offshoring and – 
+especially – relocation decisions given the sensitivity surrounding these phenomena. Input-output tables, 
+which are typically available for all industries albeit at an aggregated level, offer complementary insights 
+into the globalisation of value chains as they provide information on the value of intermediate goods and 
+services that have been imported from outside the country. A key advantage of I-O tables is that they 
+classify goods according to their use (as an input into another sector's production or as final demand) 
+instead of classification schemes that divide goods into intermediate and other categories based on their 
+descriptive characteristics. Another key advantage of I-O tables is that they also include information on 
+(domestic and international) inputs of/in services sectors, so that the fast-growing offshoring of services 
+activities can be monitored. This paper brings together empirical evidence on the growing importance of global value chains and 
+the increasing interdependence between countries using the OECD Input-Output Tables Database. 
+Input-output indicators are presented for individual countries and individual industries, with the aim to 
+demonstrate the changing characteristics of current globalisation. The OECD Input-Output Database Coverage – country and time Approximately every five years, the OECD produces estimated harmonised input-output tables. The 
+first edition of the OECD Input-Output Database dates back to 1995 and covered 10 OECD countries, 
+spanning the period from the early 1970s to 1990. A first update of this database (2002 edition) increased 
+the country coverage to 18 OECD and two non-OECD countries (China and Brazil). The 2006 edition 1 has 
+expanded coverage to 38 (28 OECD countries and 10 non-OECD economies), further strengthening the 
+database's ability to tackle global questions. The effects of globalisation and increased foreign outsourcing 
+of manufacturing goods and services, for example, cannot be properly analysed if some emerging 
+non-member economies such as India, Indonesia and Russia are not included within the dataset. 
+Table 1 gives an overview of the countries that have been included in the different versions of the OECD 
+I-O Database. For this paper, the most recent edition has been used, with data for 1995 and 2000 available 
+for certain countries. 1. 
+Including additional tables compiled after the first dissemination package. DSTI/DOC(2007)8 8 Table 1. Country coverage of the previous and current versions of the OECD I-O database Country 
+2002 ed. Population (Billion US$) (Million) 1970 1975 1980 1985 1990 1995 
+1995 2000 
+2000 Rank 2000 
+OECD members 
+1 Australia 
+68 
+74 
+-
+86 
+89 
+94/95 
+-
+98/99 
+388.0 <14> 
+19.2 
+2 Austria 
+-
+-
+-
+-
+-
+-
+95 
+00 
+190.7 <23> 
+8.1 
+3 Belgium 
+-
+-
+-
+-
+-
+-
+95 
+00 
+228.0 <21> 
+10.3 
+4 Canada 
+71 
+76 
+81 
+86 
+90 
+97 
+95 
+00 
+706.6 <8> 
+30.8 
+5 Czech Republic -
+-
+-
+-
+-
+95 
+-
+00 
+51.4 <49> 
+10.3 
+6 Denmark 
+72 
+77 
+80 
+85 
+90 
+97 
+95 
+00 
+158.5 <27> 
+5.3 
+7 Finland 
+-
+-
+-
+-
+-
+95 
+95 
+00 
+120.0 <32> 
+5.2 
+8 France 
+72 
+77 
+80 
+85 
+90 
+95 
+95 
+00 
+1,308.4 <5> 
+59.3 
+9 Germany 
+-
+78 
+-86,88 90 
+95 
+95 
+00 
+1,870.3 <3> 
+82.3 
+10 Greece 
+-
+-
+-
+-
+-
+94 
+95 
+99 
+112.1 <34> 
+11.0 
+11 Hungary 
+-
+-
+-
+-
+-
+98 
+98 
+00 
+46.7 <51> 
+10.0 
+12 Iceland 
+-
+-
+-
+-
+-
+-
+-
+-
+8.4<92> 
+0.3 
+13 Ireland 
+-
+-
+-
+-
+-
+-
+98 
+00 
+94.8<38> 
+3.8 
+14 Italy 
+-
+-
+-
+85 
+-
+92 
+95 
+00 
+1,074.8 <7> 
+57.5 
+15 Japan 
+70 
+75 
+80 
+85 
+90 
+95,96,97 
+95 
+00 
+4,763.8 <2> 
+127.0 
+16 Korea 
+-
+-
+-
+-
+-
+95 
+-
+00 
+511.9 <12> 
+46.8 
+17 Luxembourg 
+-
+-
+-
+-
+-
+-
+95 
+00 
+19.6<62> 
+0.4 
+18 Mexico 
+-
+-
+-
+-
+-
+-
+-
+-
+581.3 <10> 
+98.9 
+19 Netherlands 
+72 
+77 
+81 
+86 
+-
+95 to 98 
+95 
+00 
+370.9 <15> 
+15.9 
+20 New Zealand 
+-
+-
+-
+-
+-
+-
+95/96 02/03 
+51.7 <48> 
+3.8 
+21 Norway 
+-
+-
+-
+-
+-
+97 
+95 00&01 
+166.9 <25> 
+4.5 
+22 Poland 
+-
+-
+-
+-
+-
+95 
+95 
+00 
+166.5 <26> 
+38.6 
+23 Portugal 
+-
+-
+-
+-
+-
+-
+95 
+00 
+106.5 <35> 
+10.2 
+24 Slovak Republic -
+-
+-
+-
+-
+-
+95 
+00 
+20.2<59> 
+5.4 
+25 Spain 
+-
+-
+-
+-
+-
+95 
+95 
+00 
+561.4 <11> 
+40.8 
+26 Sweden 
+-
+-
+-
+-
+-
+-
+95 
+00 
+239.8 <20> 
+8.9 
+27 Switzerland 
+-
+-
+-
+-
+-
+-
+-
+01 
+240.1 <19> 
+7.2 
+28 Turkey 
+-
+-
+-
+-
+-
+-
+96 
+98 
+199.3 <22> 
+68.2 
+29 United Kingdom 68 
+79 
+-
+84 
+90 
+98 
+95 
+00 
+1,438.0 <4> 
+58.7 
+30 United States 
+72 
+77 
+82 
+85 
+90 
+97 
+95 
+00 
+9,762.1 <1> 
+285.0 Non-OECD members 
+31 Argentina 
+-
+-
+-
+-
+-
+-
+97 
+-
+284.2 <17> 
+36.9 
+32 Brazil 
+-
+-
+-
+-
+-
+96 
+95 
+00 
+601.7 <9> 
+171.8 
+33 China 
+-
+-
+-
+-
+-
+97 
+95 00&02 1,252.3 <6> 1,275.2 
+34 Chinese Taipei -
+-
+-
+-
+-
+-
+96 
+01 
+321.4 <16> 
+22.2 
+35 India 
+-
+-
+-
+-
+-
+-
+93/94 98/99 
+457.4 <13> 1,016.9 
+36 Indonesia 
+-
+-
+-
+-
+-
+-
+95 
+00 
+150.2 <28> 
+209.2 
+37 Israel 
+-
+-
+-
+-
+-
+-
+95 
+-
+259.7 <18> 
+6.1 
+38 Russia 
+-
+-
+-
+-
+-
+-
+95 
+00 
+114.8 <33> 
+145.6 
+39 Singapore 
+-
+-
+-
+-
+-
+-
+95 
+00 
+91.5<39> 
+4.0 
+40 South Africa 
+-
+-
+-
+-
+-
+-
+93 
+00 
+128.0 <29> 
+44.0 
+# of Countries 
+8 
+9 
+6 
+10 
+8 
+20 
+32 
+35 
+-: not available. 
+YY/YY: Fiscal year. 
+Sources : OECD IO 1995, OECD IO 2002, OECD IO 2006, World Bank, United Nations. 1995 edition 
+2006 ed. 
+GDP 
+(ISICr2) (ISICr3) 
+(ISICr3) DSTI/DOC(2007)8 9 Representativeness of database coverage – GDP and population The high representativeness of the OECD I-O database is clearly illustrated by its growing coverage 
+over time (Figure 1). Population coverage rose from just over 10% in the 1995 edition to 40% in the 2002 
+edition and 67% in the 2006 edition. The coverage in terms of nominal USD based GDP has also increased 
+from just over 70% (1995) to 80% (2002), and over 90% in the 2006 edition, which in turn reflects 
+99.9% of total OECD GDP. Figure 1. Population and GDP coverage China 
+China India USA USA USA 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 1995ed 
+(1990) 2002ed 
+(1995) 2006ed 
+(2000) Population coverage Source: United Nations. Germany 
+Mexico 
+Japan 
+Russia 
+Brazil 
+Indonesia 
+(40%) (67%) (13%) U.S.A. 
+U.S.A. 
+U.S.A. Japan 
+Japan 
+Japan Germany 
+Germany 
+Germany 
+U.K. 
+U.K. 
+U.K. 
+France 
+France 
+France 
+China 
+China 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 1995ed 
+(1990) 2002ed 
+(1995) 2006ed 
+(2000) GDP coverage Sources: World Bank WDI, OECD. India 
+Korea 
+Spain 
+Mexico 
+Canada 
+Italy (73%) (82%) (92%) DSTI/DOC(2007)8 10 Industry classification The industry classification of the database is based on the ISIC Rev. 3 system, meaning that it is 
+compatible with the OECD's Structural Analysis (STAN) industry database and Bilateral Trade Database 
+(BTD). The number of industries in the 2006 edition was expanded to 48. A full listing of the 48 industries 
+is provided in Table 2. Unfortunately, information on all 48 industry sectors could not be obtained for 
+every country due to disclosure restrictions and lack of detailed statistical sources. Table 2. Industry classification ISIC Rev.3 
+code Description 1+2+5 
+1 Agriculture, hunting, forestry and fishing 
+10+11+12 2 Mining and quarrying (energy) 
+13+14 
+3 Mining and quarrying (non-energy) 
+15+16 
+4 Food products, beverages and tobacco 
+17+18+19 5 Textiles, textile products, leather and footwear 
+20 
+6 Wood and products of wood and cork 
+21+22 
+7 Pulp, paper, paper products, printing and publishing 
+23 
+8 Coke, refined petroleum products and nuclear fuel 
+24ex2423 9 Chemicals exluding pharmaceuticals 
+2423 
+10 Pharmaceuticals 
+25 
+11 Rubber and plastics products 
+26 
+12 Other non-metallic mineral products 
+271+2731 13 Iron & steel 
+272+2732 14 Non-ferrous metals 
+28 
+15 Fabricated metal products, except machinery and equipment 
+29 
+16 Machinery and equipment, nec 
+30 
+17 Office, accounting and computing machinery 
+31 
+18 Electrical machinery and apparatus, nec 
+32 
+19 Radio, television and communication equipment 
+33 
+20 Medical, precision and optical instruments 
+34 
+21 Motor vehicles, trailers and semi-trailers 
+351 
+22 Building & repairing of ships and boats 
+353 
+23 Aircraft and spacecraft 
+352+359 24 Railroad equipment and transport equipment n.e.c. 
+36+37 
+25 Manufacturing nec; recycling (include Furniture) 
+401 
+26 Production, collection and distribution of electricity 
+402 
+27 Manufacture of gas; distribution of gaseous fuels through mains 
+403 
+28 Steam and hot water supply 
+41 
+29 Collection, purification and distribution of water 
+45 
+30 Construction 
+50+51+52 31 Wholesale and retail trade; repairs 
+55 
+32 Hotels and restaurants 
+60 
+33 Land transport; transport via pipelines 
+61 
+34 Water transport 
+62 
+35 Air transport 
+63 
+36 Supporting & auxiliary transport activities; activities of travel agencies 
+64 
+37 Post and telecommunications 
+65+66+67 38 Finance and insurance 
+70 
+39 Real estate activities 
+71 
+40 Renting of machinery and equipment 
+72 
+41 Computer and related activities 
+73 
+42 Research and development 
+74 
+43 Other Business Activities 
+75 
+44 Public administration and defence; compulsory social security 
+80 
+45 Education 
+85 
+46 Health and social work 
+90-93 
+47 Other community, social and personal services 
+95+99 
+48 Private households and extra-territorial organisations DSTI/DOC(2007)8 11 Price basis In line with the 1993 System of National Accounts, the OECD Input-Output Database shows 
+transactions, wherever possible, in industry-by-industry symmetric tables at basic prices. Eurostat member 
+countries follow the basic price valuation system in producing the symmetric input-output tables. Some 
+countries have not provided the tables at basic price in the published input-output tables. The basic price 
+tables in the OECD format are submitted by the following economies 2 : Japan, Korea, India, Indonesia and 
+Chinese Taipei. Ideally, for many applications, temporal comparisons of economic indicators should be 
+made using constant price figures. However, constant price tables are only available in a very limited 
+number of countries and so the 2006 edition, like the 2002 edition, reflects current price tables only. Format The 2006 edition of the input-output tables follows the format of earlier editions. As seen in the 
+example below (Netherlands in 2000) domestic and import components are shown industry-by-industry at 
+ISIC Rev. 3 classification. Table 3. Format of the OECD I-O database Country: 
+Netherlands 
+Valuation: 
+Basic price 
+Year 
+: 
+2000 
+Currency: 
+Mill. Euros Industry 
+Industry Agriculture 
+Mining / 
+Manuf. Services 
+Final 
+consumption 
+expenditure Gross capital 
+formation Exports 
+Imports Agriculture 
+3,381 
+12,970 
+974 
+2,066 
+659 
+11,633 
+9,820 
+Mining / Manuf. 
+4,219 
+105,583 
+53,157 
+42,969 
+25,271 
+197,255 
+205,262 
+Services 
+4,224 
+37,226 
+169,126 
+221,249 
+52,356 
+57,430 
+27,165 
+Other adjustment 
+0 
+0 
+0 
+2,890 
+0 
+5,665 
+0 
+Net taxes on products 
+129 
+564 
+9,606 
+22,756 
+10,233 
+-15 
+0 
+TOTAL use 
+11,953 
+156,343 
+232,863 
+291,930 
+88,519 
+271,968 
+242,247 
+Gross Operating Surplus 
+7,309 
+31,359 
+112,810 
+Compensation of Employees 
+2,336 
+35,603 
+167,752 
+Net taxes on production 
+265 
+-113 
+1,021 
+Industry Output 
+21,863 
+223,192 
+514,446 Industry 
+Industry Agriculture 
+Mining / 
+Manuf. Services 
+Final 
+consumption 
+expenditure Gross capital 
+formation Exports Agriculture 
+2,731 
+8,263 
+710 
+1,024 
+567 
+8,568 
+Mining / Manuf. 
+3,326 
+42,804 
+29,710 
+19,264 
+8,783 
+119,305 
+Services 
+3,988 
+32,566 
+149,423 
+220,722 
+51,165 
+56,582 
+Other adjustment 
+0 
+0 
+0 
+2,890 
+0 
+5,665 
+Imports 
+1,779 
+72,146 
+43,414 
+25,274 
+17,771 
+81,863 
+Net taxes on products 
+129 
+564 
+9,606 
+22,756 
+10,233 
+-15 
+TOTAL use 
+11,953 
+156,343 
+232,863 
+291,930 
+88,519 
+271,968 
+Value Added 
+9,910 
+66,849 
+281,583 
+Industry Output 
+21,863 
+223,192 
+514,446 Product 
+Industry Agriculture 
+Mining / 
+Manuf. Services 
+Final 
+consumption 
+expenditure Gross capital 
+formation Exports 
+Imports Agriculture 
+650 
+4,707 
+264 
+1,042 
+92 
+3,065 
+9,820 
+Mining / Manuf. 
+893 
+62,779 
+23,447 
+23,705 
+16,488 
+77,950 
+205,262 
+Services 
+236 
+4,660 
+19,703 
+527 
+1,191 
+848 
+27,165 
+TOTAL 
+1,779 
+72,146 
+43,414 
+25,274 
+17,771 
+81,863 
+242,247 Total Domestic Import 2. 
+Available from the 2006 edition. DSTI/DOC(2007)8 12 Indicators on global linkages Traditional indicators using I-O information to measure the international orientation and dependency 
+of countries are the import penetration and the export share of countries. While the former measures to 
+what extent the total demand for goods and services in a country is served by imports, the latter shows the 
+percentage of the total production of goods and services that is exported: total imports of goods and services (M k ) 
+Import penetration 
+= 
+----------------------------------------------------
+total demand for goods and services (D k ) total exports of goods and services (X k ) 
+Export share 
+= 
+---------------------------------------------------
+total supply for goods and services (O k ) Figure 2 indicates that the import penetration has increased in 32 out of the 34 countries (for four 
+countries only a one-year observation is available) and the export shares increased in 28 countries, 
+reflecting the increase in foreign dependency of OECD economies and major non-OECD countries in the 
+late 1990s. A typical observation that comes out of these international comparisons is that smaller 
+countries have a larger international orientation than larger countries. Smaller countries such as Belgium, 
+Hungary, Ireland, the Slovak Republic and Singapore are clear examples of this, while their higher 
+international dependency is also partially due to the large presence of multinational enterprises (MNEs) in 
+these countries. Affiliates under foreign control are engaged not only in serving the local market in the host country, 
+but have become essential links in global value chains as they serve other (neighbouring) markets and 
+produce inputs for other affiliates in the multinational network. Data for US multinational firms show that 
+65% of the total output of US firms' foreign affiliates goes to the local market, while 11% goes to the 
+United States and another 24% goes to third countries. In consequence, export and import intensities of 
+foreign affiliates are in many cases higher than those of the average domestic firm, especially in 
+manufacturing (OECD, 2007a). In Ireland, for example, over 90% of the manufacturing output of foreign 
+affiliates is exported, and in Austria and Finland the proportion is over half. DSTI/DOC(2007)8 13 Figure 2. Import penetration and export share, 1995 
+1 and 2000 2 0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% Import penetration 1995 
+2000 0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% Export shares 1995 
+2000 (1) 1995 data is 1994/95 for Australia, 1995/96 for New Zealand, 1996 for Turkey, 1997 for Argentina, 1996 for Chinese Taipei, and 1993/94 for India; no data for Iceland, Mexico and Switzerland. (2) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 2001 for Chinese Taipei, 
+and 1998/99 for India; no data for Iceland, Mexico, Argentina and Israel. Source: OECD Input-Output Database. DSTI/DOC(2007)8 14 The import penetration and the export share indicators include final as well as intermediate goods and 
+services, and describe the global linkages and interdependencies between countries in overall terms. In 
+order to better assess the position of countries in global value chains, the foreign dependency of countries 
+can be better described only in terms of intermediates. Specifically looking at intermediate inputs defined 
+in the I-O tables by the use made of goods and services, the ratio of imported to domestic sourcing of 
+inputs is given by: Imported intermediates/domestic intermediates = ( 
+) ( 
+) ∑∑ 
+∑∑ i 
+j ij 
+d 
+i 
+j ij 
+m x 
+x / where ij 
+d x and ij 
+m x are respectively the domestic and imported transactions of intermediates from sector i to sector j 3 . Figure 3. Imported/domestic intermediates, 1995 
+1 and 2000 2 0.0 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1995 
+2000 (1) 1995 data is 1994/95 for Australia, 1995/96 for New Zealand, 1996 for Turkey, 1997 for Argentina, 1996 for Chinese Taipei, 
+and 1993/94 for India; no data for Iceland, Mexico and Switzerland. (2) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 2001 for Chinese Taipei, 
+and 1998/99 for India; no data for Iceland, Mexico, Argentina and Israel. Source: OECD Input-Output Database. 3. 
+It should be made clear that these indicators are dependent on the use of the statistical units in producing 
+national accounts and input-output tables, e.g. differences between countries in using establishment and 
+enterprise as statistical reporting unit may bias the results. DSTI/DOC(2007)8 15 Figure 3 shows the average ratios (for the entire economy) of imported to domestic sourcing of inputs 
+for the mid-1990s and early 2000s, based on information in the I-O tables. These figures provide a direct 
+indication of the extent of economies' integration into global supply chains. The ratio of imported to 
+domestic input increased in almost all countries from 1995 to 2000, demonstrating the growing importance 
+of intermediate inputs in international trade and the increasing importance of international outsourcing. 
+Consistent with their typically greater international orientation because of their limited size, smaller 
+countries are found to import more intermediates from abroad. In Ireland, for example, domestic and 
+international sourcing is reported to be equally important, meaning that the same amount of intermediates 
+is sourced internationally as nationally (i.e. within the Irish economy). MNEs are again considered to play a major role as the sourcing of intermediates within multinational 
+networks has become especially important in recent years (OECD, 2007a; Grossman and Rossi-Hanberg, 
+2006; Baldwin, 2006). The share of intra-firm exports in total exports of manufacturing affiliates under 
+foreign control has been reported to range between 15% and 60% in OECD countries (OECD, 2007a). This 
+intra-firm trade involves the export and import of nearly finished goods destined for affiliate firms that are 
+mainly involved in marketing and distribution with little additional manufacturing processing taking place. 
+But another and growing part of intra-firm trade concerns the exports and imports by foreign affiliates that 
+manufacture intermediate products destined for other affiliates. This last form is directly related to the 
+globalisation of value chains and has been increasing in host economies like China, Korea, Mexico, 
+Chinese Taipei and some Eastern European countries. Indicators on offshoring The offshoring of business activities including services has recently gained much attention, not least 
+because of the supposed adverse effects on domestic employment. However, the link between offshoring 
+and employment is not that obvious as different impacts have to be taken into account: direct and indirect 
+effects, short-and long-term effects, and employment and productivity effects. Offshoring (including 
+relocation) may lead in a first phase to short-term employment losses if certain activities are moved 
+off-shore or decline in importance. But globalisation has also positive impacts on productivity and may 
+thus reduce costs and prices, both in the activity being directly affected and in other activities that use the 
+products of this activity downstream. Bhagwati et al. (2004) emphasise that even if offshoring lowers 
+employment and wages in certain occupations, in other cases it probably helps to create new jobs in the 
+home country. A major problem surrounding these discussions is that the empirical measurement of offshoring is 
+difficult because of data availability (OECD, 2007b; GAO, 2004). A measure that has been widely used in 
+empirical work is the  " outsourcing "  indicator suggested by Feenstra and Hanson (1996, 1999), calculated 
+as the share of imported intermediate inputs in the total purchase of non-energy materials of individual 
+industries. Typically, the information in I-O tables and more specifically the information in the imported 
+transactions matrix has been used for this. However, it should first be noted that while Feenstra and Hanson call this outsourcing, it is in fact 
+offshoring, which is generally defined as companies' purchases of intermediate goods and services from 
+foreign providers at arm's length, or the transfer of particular tasks from within the firm to a foreign 
+location, i.e. to foreign affiliates (Kirkegaard, 2004). Outsourcing refers to the purchasing of intermediate 
+goods and services from outside specialist providers at arm's length, be it nationally or internationally 
+(Figure 4). The cross-border aspect is the distinguishing feature in defining offshoring, i.e. whether goods 
+and services are sourced from within the domestic economy or abroad – not whether they are sourced from 
+within the same firm or external suppliers (OECD, 2007a). DSTI/DOC(2007)8 16 Figure 4. Outsourcing and offshoring National 
+International Outsourced 
+Domestic outsourcing 
+International outsourcing Insourced 
+Domestic supply 
+International insourcing Location Control 
+Offshoring Source : Van Welsum and Vickery (2004). Secondly, while Feenstra and Hanson's measure has often been used, there is no consensus that it is 
+the most appropriate. Girma and Gorg (2004) argue that this measure is too wide, especially for analyses at 
+the firm level 4 ; instead they prefer a measure originally developed by Abraham and Taylor (1996), which 
+includes only the contracting out of machine maintenance services, engineering and drafting services, 
+accounting services and computer services. Egger and Egger (2001) and Helg and Tajoli (2004) also use a 
+narrower measure restricting outsourcing to outward processing. Others like Gorg et al. (2004) and 
+Criscuolo and Leaver (2005) have more direct data on intermediate inputs, including e.g. raw materials and 
+components, and services inputs as well as the proportion of these sources abroad. A discussion of the 
+measurement issues associated with offshoring is given in OECD (2007b), with a focus on related labour 
+relations. Notwithstanding these limitations, we have opted to build further on the work of Feenstra and Hanson 
+and used the OECD I-O database to compute the level of offshoring (OFFSH) as the share of non-energy 
+imported intermediate inputs in total non-energy intermediate inputs defined as: OFFSH =  
+ 
+  
+ 
+ 
+  + ∑∑ 
+∑∑ 
+∑∑ j 
+i ij 
+m 
+j 
+i ij 
+d 
+j 
+i ij 
+m x 
+x 
+x 
+/ where ij 
+m ij 
+d x 
+x and are the domestic and imported transactions of intermediates from sector i to sector j 
+respectively and i excludes the energy sectors (mining and utility). 4. 
+Feenstra and Hanson have also proposed a narrower measure of outsourcing by restricting attention to only 
+those inputs that are purchased from the same industry as that in which the good is being produced. DSTI/DOC(2007)8 17 Figure 5. Offshoring, total industry, 1995 
+1 and 2000 2 0% 10% 20% 30% 40% 50% 60% 1995 
+2000 (1) 1995 data is 1994/95 for Australia, 1995/96 for New Zealand, 1996 for Turkey, 1997 for Argentina, 1996 for Chinese Taipei, 
+and 1993/94 for India; no data for Iceland, Mexico and Switzerland. (2) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 2001 for Chinese Taipei, 
+and 1998/99 for India; no data for Iceland, Mexico, Argentina and Israel. Source: OECD Input-Output Database. In line with the increasing importance of imported intermediates, Figure 5 indicates that offshoring 
+has grown in almost all countries, with, in some countries, very significant increases of the sourcing of 
+intermediates abroad. Not surprisingly, smaller countries typically report higher offshoring indicators, 
+notably Singapore, Luxembourg, Ireland and Hungary. Two large OECD countries, Japan (7.6%) and the 
+United States (10.3%) are found to offshore relatively little compared with other OECD countries. 
+Although the level in the large non-member countries such as Brazil, India, Argentina and China remains 
+lower than the OECD average, the offshoring of intermediates also gained importance in these countries 
+during the late 1990s. The information in the OECD I-O Database also allows to analyse trends in offshoring taking the 
+manufacturing and services sectors separately. This allows to illustrate the increased offshoring of business 
+services in recent years. Figures 6 and 7 indicate that just like in manufacturing, the sourcing of 
+intermediates abroad in market services has increased in almost all countries. While offshoring of 
+intermediates just like the trade of final products has traditionally been occurring in manufacturing 
+industries, the emergence of global value chains increasingly stretches out to services sectors. 
+Notwithstanding this increase, the level of offshoring is still much lower in market services than in the total 
+group of manufacturing industries. DSTI/DOC(2007)8 18 Figure 6. Offshoring, manufacturing industries, 1995 
+1 and 2000 2 0 % 10 % 20 % 30 % 40 % 50 % 60 % 70 % 80 % 1995 
+2000 (1) 1995 data is 1994/95 for Australia, 1995/96 for New Zealand, 1996 for Turkey, 1997 for Argentina, 1996 for Chinese Taipei, 
+and 1993/94 for India; no data for Iceland, Mexico and Switzerland. (2) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 2001 for Chinese Taipei, 
+and 1998/99 for India; no data for Iceland, Mexico, Argentina and Israel. Source: OECD Input-Output Database. Figure 7. Offshoring, market services 
+1 , 1995 
+2 and 2000 3 0% 10% 20% 30% 40% 50% 60% 70% 1995 
+2000 (1) Market services ISIC rev 3: 50-74. (2) 1995 data is 1994/95 for Australia, 1995/96 for New Zealand, 1996 for Turkey, 1997 for Argentina, 1996 for Chinese Taipei, 
+and 1993/94 for India; no data for Iceland, Mexico and Switzerland. (3) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 2001 for Chinese Taipei, 
+and 1998/99 for India; no data for Iceland, Mexico, Argentina and Israel. Source: OECD Input-Output Database. DSTI/DOC(2007)8 19 The same offshoring indicator can also be constructed for groups of industries and/or individual 
+industries, providing more detailed insights into the phenomenon of offshoring in today's global economy. 
+Figure 8 shows that the sourcing of intermediates abroad is more prominent in higher technology industries 
+than in lower technology industries (higher technology industries are defined as high and medium-high 
+technology industries, ISICrev3: 24,29-35; while lower technology industries are defined as medium-low 
+and low technology industries, ISICrev3: 15-23,25-28,36-37). In most countries the offshoring indicator is 
+higher in the group of higher technology industries than in the group of lower technology industries, 
+reflecting the generally higher complexity of technology-intensive goods as they typically require a broad 
+range of inputs. The level of offshoring has increased in almost all countries in the higher technology as 
+well as the lower technology-intensive manufacturing industries, but sourcing of intermediates abroad 
+seems to have grown stronger in higher technology industries in most OECD countries. Figure 9 presents the offshoring indicators with some internationally open industries as examples: 
+computers, radio/TV/communications equipment and textiles. The offshoring of activities is somewhat 
+higher in the high technology industries, computers and TV/radio/communications equipment, than in the 
+low technology textiles sector. Again, smaller countries are found to source relatively more internationally, 
+especially those countries that have a high presence of multinational firms, an observation that is consistent 
+with evidence reported earlier in this paper. DSTI/DOC(2007)8 20 Figure 8. Offshoring, higher and lower technology intensive industries, manufacturing, 1995 
+1 and 2000 2 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Higher technology intensive manufacturing 1995 
+2000 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% Lower technology intensive manufacturing 1995 
+2000 Note: 
+Higher technology manufacturing ISIC rev 3 24, 29-35 ; Lower technology manufacturing ISIC rev 3 
+15-23,25-28,36-37. (1) 1995 data is 1994/95 for Australia, 1995/96 for New Zealand, 1996 for Turkey, 1997 for Argentina, 1996 for Chinese Taipei, 
+and 1993/94 for India; no data for Iceland, Mexico and Switzerland. (2) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 2001 for Chinese Taipei, 
+and 1998/99 for India; no data for Iceland, Mexico, Argentina and Israel. Source: OECD Input-Output Database. DSTI/DOC(2007)8 21 Figure 9. Offshoring, individual industries, manufacturing, 2000 1 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Office, accounting and computing machinery 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Radio, television and communication equipment 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Textiles, leather and footwear (1) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 1995 for the United States 
+(Radio, television and communication equipment), 1997 for Argentina, 2001 for Chinese Taipei, 1998/99 for India and 1995 
+for Israel; Corresponding industries are not available for some countries. Source: OECD Input-Output Database. DSTI/DOC(2007)8 22 Calculating higher-order effects: embodied imports and the foreign content of exports Input-output tables also allow for the computation of indirect effects on national economies in 
+addition to the more direct effects discussed thus far. Instead of looking only at direct imports, it is 
+important to compute the so-called induced indirect imports when analysing the foreign dependency of 
+countries' economies (Ahmad and Wyckoff, 2003). The underlying idea is that direct imports indicate the 
+direct contribution of foreign industries to the national production process, but this gives only a part of the 
+whole story. For example, if a computer manufacturer imports certain components (e.g. computer chips) 
+the direct import contribution will be the ratio of the value of these computer chips to the total value of the 
+computer. If the computer manufacturer purchases other components from domestic manufacturers, who in 
+turn use imports in their production process, those imports should also be included in the computer's value 
+in order to have an idea of the foreign dependency of a country's economy. 5 A (large) part of the intermediates locally produced by suppliers incorporate foreign raw materials, 
+intermediaries such as parts and components, and semi-finished products produced abroad. In order to 
+calculate the total import content, e.g. of nationally produced computers, one has to complement the direct 
+imports bought and used directly by the computer fabricants, with the indirect imports, i.e. the imports 
+bought and used by suppliers of these computer fabricants. These total direct and indirect imports are 
+known as  " embodied imports "  and are calculated as: IMP. CONT. = u * Am * (I-Ad) -1 * O/O k where Am and Ad are the input-output coefficients for imported and domestic transactions respectively; u 
+denotes an 1 x n vector each of whose components is unity, the matrix O is an n x 1 vector of outputs, and 
+O k is total country output. Figure 10 shows that the embodied imports have increased in 33 of the 34 countries, clearly 
+illustrating growing interdependence. Again, there are important differences between countries with 
+relatively low levels of embodied imports, which did not rise strongly between 1995 and 2000 (e.g. larger 
+countries like Australia, Japan and the United States). Smaller countries present relatively higher figures 
+than larger countries because of their limited size, while at the same time the inflow of FDI has also 
+contributed to this higher import dependency in these countries. The typical examples re-appear, e.g. 
+Luxembourg, Singapore, Ireland and Hungary. 5. 
+Re-exports defined as exports of foreign goods or foreign goods exported in the same state as previously 
+imported, have been excluded from the analysis. DSTI/DOC(2007)8 23 Figure 10. Embodied imports, 1995 
+1 and 2000 2 0% 5% 10% 15% 20% 25% 30% 35% 40% 45% 50% 1995 
+2000 (1) 1995 data is 1994/95 for Australia, 1995/96 for New Zealand, 1996 for Turkey, 1997 for Argentina, 1996 for Chinese Taipei, 
+and 1993/94 for India; no data for Iceland, Mexico and Switzerland. (2) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 2001 for Chinese Taipei, 
+and 1998/99 for India; no data for Iceland, Mexico, Argentina and Israel. Source: OECD Input-Output Database. Based on these calculations of embodied imports, the foreign or import content of countries' exports 
+can be constructed using national I-O tables. Input-output tables measure the interrelationships between 
+the producers of goods and services (including imports) within an economy and the users of the same 
+goods and services (including exports). As such, they can be used to estimate the contribution that imports 
+make in the production of any good and service for export. The emergence of global value chains means 
+that imports and exports increasingly move together since the production process of companies is 
+increasingly characterised by sequential production and back-and-forth aspects. As such, exports are based 
+to a large or small extent on intermediate inputs that are imported from abroad, hence the need to 
+qualifythe export performance of countries. Hummels et al. (1998, 2001) have introduced the term  " vertical specialisation "  in calculating the 
+direct and indirect imported inputs that are included in a country's exports. As a result of global value 
+chains and the corresponding geographical fragmentation of activities, countries become vertically 
+specialised within the production process for some goods or services as companies tend to concentrate 
+different production stages for a single good in each country. The vertical specialisation measures try to 
+reflect this process by which different countries become part of a single production chain, linking the 
+imported inputs required by one country with its exports. Since then several papers have computed the 
+import content of exports for different countries, e.g. Yi (2003), Bergoing et al. (2004) and Cardoso et al. 
+(2007); all found that vertical specialisation has increased over the years, illustrating not only increasing 
+integration but also – and especially – the increasing importance of global value chains. DSTI/DOC(2007)8 24 The calculation of the import content of exports using I-O information draws on some implicit 
+assumptions as extensively discussed by the US National Research Council of the National Academy of 
+Science (2006). It is typically assumed, for example, that the same input-output requirements apply for the 
+goods and services that are exported and those that are destined for final demand. Further on, calculations 
+are also based on the assumption that countries' imports originate 100% from foreign sources, which is not 
+necessarily the case and may thus be a source of inaccuracy. However, measuring the domestic content of 
+countries' imports is much more difficult as there is no input-output table that applies to the rest of the 
+world. Notwithstanding these limitations and assumptions, the study concludes that I-O data are the most 
+readily available source of information to gain insight into the increasing dependency of countries' export 
+performance on imports. The foreign content of countries' exports (FOR.CONT. EXP.) is calculated as: FOR. CONT. EXP. = u * Am * (I-Ad) -1 * X/X k where Am and Ad contain the input-output coefficient for imported and domestic transaction, respectively; 
+u denotes an 1 x n vector, each of whose components is unity, the matrix X is an nx1 vector of exports and 
+X k is total country exports. An import content of exports of 20%, for example, means that 20% of the 
+exports are directly and indirectly based on imported intermediates. Figure 11. Import content of exports, individual industries, OECD 
+1 , 1995 
+2 and 2000 3 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% 
+1995 
+2000 (1) OECD excludes Iceland, Mexico and Switzerland for 1995 and Iceland and Mexico for 2000. (2) 1995 data is 1994/95 for Australia, 1995/96 for New Zealand, 1996 for Turkey, 1997 for Argentina, 1996 for Chinese Taipei, 
+and 1993/94 for India; no data for Iceland, Mexico and Switzerland. (3) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 2001 for Chinese Taipei, 
+and 1998/99 for India; no data for Iceland, Mexico, Argentina and Israel. Source: OECD Input-Output Database. DSTI/DOC(2007)8 25 The import content of exports is found to be highest in more basic industries that make heavy use of 
+primary goods (Figure 11). Examples are mining and basic metals, but also chemicals and rubber and 
+plastics. A second group of industries that displays a rather high import content of exports includes higher 
+technology-intensive industries that produce modular products. Parts and components are often produced 
+in one country before they are exported to another where assembly takes place. This international division 
+of labour is found in industries such as electrical machinery, radio/television and communication 
+equipment, and office, accounting and computing machinery. Figure 12. Import content of exports, individual countries, 1995 
+1 and 2000 2 0% 10% 20% 30% 40% 50% 60% 70% 1995 
+2000 (1) 1995 data is 1994/95 for Australia, 1995/96 for New Zealand, 1996 for Turkey, 1997 for Argentina, 1996 for Chinese Taipei, 
+and 1993/94 for India; no data for Iceland, Mexico and Switzerland. (2) 2000 data is 1998/99 for Australia, 1999 for Greece, 2002/03 for New Zealand, 1998 for Turkey, 2001 for Chinese Taipei, 
+and 1998/99 for India; no data for Iceland, Mexico, Argentina and Israel. Source: OECD Input-Output Database. The indicators for the individual countries show that between the mid-1990s and the early 2000s, the 
+import content of exports has increased in almost all countries (Figure 12). In larger countries like the 
+United States, Japan and the United Kingdom, exports depend relatively less on the imports of 
+intermediates sourced abroad. The increase in vertical specialisation becomes clearest in countries with a 
+high multinational presence like Ireland, Hungary, the Czech Republic and Belgium, as the international 
+sourcing of intermediates within multinational networks drives the development of global value chains. 
+Foreign affiliates in different host countries produce intermediates that are then exported to final 
+consumers, but also to other affiliates and the headquarters of the multinational company. Within the group of emerging countries, China and Indonesia demonstrate a larger dependence on 
+imported intermediates. The results for China illustrate the increasing international production sharing 
+within ICT industries, in which the more labour-intensive manufacturing activities are carried out in 
+emerging countries while the more skill-intensive activities remain clustered in developed countries 
+(Srholec, 2007). A triangular trade pattern in the ASEAN region has emerged in which parts and 
+components are produced by more developed economies like Japan, Chinese Taipei and Korea, and then 
+exported to emerging countries like China where the assembly of the different intermediates into finished 
+products takes place. This restructuring process has particularly accelerated over the last years, suggesting 
+that more recent data would show a higher import content of exports for China (Bolhoul et al., 2005; 
+OECD, 2007a). DSTI/DOC(2007)8 26 While the indicator on the import/foreign content of exports is of interest and illustrates important 
+trends, one should refrain from using this indicator without knowledge of policy discussions. The 
+underlying presumption that an increase in the foreign content of exports is problematic, and indicates that 
+a country is losing out in the global competition (US National Research Council, 2006). However, this 
+indicator does not necessarily say anything about the competitiveness of countries, and a growing import 
+content of exports does not necessarily signal shrinking competitiveness. It may even be the opposite if a 
+country successfully integrates the global value chains of high-growth industries. But the import content 
+of exports is above all a descriptive indicator about the (changing) structure and dynamics of countries, that 
+together with other appropriate indicators could be used in discussing countries' competitiveness. Employment effects – job embodiment of trade The OECD I-O database has also been used in a thought experiment similar to the work by Groshen et 
+al. (2005) who, on the basis of trade data and input-output tables, calculate the net effect of trade on total 
+US employment. The Groshen study is among the few that not only focuses on the potentially negative 
+consequences of offshoring and the resulting raise in imports, but also on the potentially positive effects of 
+inshoring or exports. Both the jobs that may be lost through imports and the jobs that are created through 
+exports are considered. This approach measures both the number of workers that are needed to produce the 
+goods and services imported into the United States at current wages, prices and productivity levels, and the 
+number of workers that are needed to produce US exports of goods and services. Moreover, by using input-
+output tables the study also accounts for indirect effects that are associated with impacts on other sectors. However, it should be stressed that this approach has some major weaknesses because of assumptions 
+relating to constant-factor input shares, no differences in quality between goods, etc. Furthermore, because 
+in calculating the jobs embodied in imports as well as exports we use the industry technologies of the 
+country, it is implicitly assumed that the technologies for import and export goods and services are 
+identical. In addition, the figures are clearly the result of a thought experiment as imports and national 
+production are assumed to be perfectly interchangeable with no costs (e.g. in production technology). 
+Lastly and more importantly, because of its static nature, dynamic gains of trade which are typically very 
+important, are not taken into account. As such, the results only give a partial view of trade, and should be 
+interpreted accordingly. In order to calculate the jobs embodied in trade for individual countries, the analysis firstly computes 
+the number of jobs that would be needed to produce the goods and services imported in each country. This 
+provides a sort of international trade  " employment loss " , hypothetically assuming that all imports would be 
+replaced by domestic production. Secondly, the  " employment gain "  of international trade is computed as 
+the number of jobs that are needed to produce the goods and services that are exported from each 
+individual country. By subtracting the number of jobs needed to produce the goods and services imported 
+by each country from the number of jobs needed to produce goods and services exported by that country, a 
+net measure of the employment effect of trade is obtained. DSTI/DOC(2007)8 27 The calculation of jobs embodied in trade makes use of the employment multipliers that are computed 
+on the basis of the national input-output tables for individual countries. These employment impacts are 
+then related to the value of gross imports and exports of individual countries. The employment multipliers 
+provide the estimates of how much employment in the total economy (taking into account direct and 
+indirect effects) will increase if the final demand increases by one unit. The employment multiplier for 
+each industry i is calculated as: F i x (I-A) -1 x (O/LC) IO (LC/E) STAN where F i is a row matrix representing the change in final demand for industry i with one unit, (I-A) -1 is the 
+(square) inverse Leontief matrix and (O/LC) IO (LC/) STAN is a column matrix representing the inverse of 
+labour productivity in each industry. LC is labour compensation of employment and IO and STAN refer to 
+the OECD I-O database and OECD STAN database. These employment multipliers are then multiplied by 
+the amounts of exports and imports, thereby assuming that the imports flows to final users in each country 
+are now produced in that country. The results are presented in Table 4; in order to easily interpret the absolute figures, the results are 
+also expressed relative to the total employment in each country. The jobs embodied in trade are on average 
+larger (in relative terms) for smaller countries, given their smaller size and consequently their stronger 
+international orientation. The size of countries, however, is not a prediction of whether countries  " win or 
+lose "  from international trade; smaller as well as larger countries show positive/negative net impacts of 
+trade on employment. Countries with a positive net employment impact are  " winning "  from international 
+trade as calculated here: the jobs embodied in their exports (the employment  " gain "  of trade) exceeds the 
+number of jobs embodied in their imports (the employment  " loss " ). Overall, the rather small numbers of jobs embodied in net imports relative to total employment clearly 
+suggest that globalisation is not the main explanation for worsening employment performance in some 
+countries. Globalisation is clearly a two-way process where offshoring and imports are compensated by 
+insourcing and exports. Only in countries like Ireland, Portugal and the Slovak Republic does the 
+ " employment loss "  of international trade seem rather large. Several factors explain these results, such as 
+the rather large trade deficits some East European countries have run as their economic development has 
+accelerated. Ireland, however, reports a positive trade balance; the negative net impact of trade-embodied 
+jobs is explained by the fact that the trade surplus is accumulated especially in non-labour-intensive 
+industries while sector trade deficits appear in low-productive, labour-intensive industries. Once again, it 
+should be stressed that this approach only takes into account static (direct and indirect) effects, and that 
+longer-term, dynamic effects are not included. DSTI/DOC(2007)8 28 Table 4. Job embodiment of international trade Jobs 
+embodied in 
+imports 
+(thousands) % Jobs 
+embodied in 
+exports 
+(thousands) % Net 
+(thousands) 
+% Australia (1998) 
+1 382 
+15.5 
+1 236 
+13.9 
+-145 
+-1.6 Austria 
+1 142 
+27.7 
+1 057 
+25.6 
+-85 
+-2.1 Belgium 
+1 219 
+29.8 
+1 357 
+33.2 
+138 
+3.4 Canada 
+3 040 
+19.9 
+4 007 
+26.3 
+967 
+6.3 Czech Republic 
+1 725 
+35.8 
+1 772 
+36.8 
+47 
+1.0 Denmark 
+530 
+19.4 
+756 
+27.7 
+226 
+8.3 Finland 
+515 
+22.4 
+597 
+25.9 
+81 
+3.5 France 
+3 519 
+14.5 
+3 754 
+15.4 
+235 
+1.0 Germany 
+7 703 
+19.9 
+8 245 
+21.3 
+542 
+1.4 Greece (1999) 
+1 092 
+27.7 
+786 
+19.9 
+-307 
+-7.8 Hungary 
+1 390 
+36.3 
+1 136 
+29.7 
+-254 
+-6.7 Ireland 
+837 
+49.3 
+619 
+36.5 
+-218 
+-12.9 Italy 
+4 359 
+18.8 
+4 624 
+20.0 
+265 
+1.1 Japan 
+10 319 
+15.5 
+6 359 
+9.5 
+-3 961 
+-5.9 Korea 
+4 909 
+23.2 
+4 994 
+23.6 
+85 
+0.4 Luxembourg 
+165 
+62.3 
+115 
+43.6 
+-50 
+-18.8 Netherlands 
+1 941 
+23.9 
+2 368 
+29.1 
+427 
+5.3 New Zealand 
+240 
+18.6 
+296 
+23.0 
+56 
+4.3 Norway 
+605 
+26.3 
+555 
+24.1 
+-50 
+-2.2 Poland 
+372 
+24.7 
+320 
+21.3 
+-52 
+-3.5 Portugal 
+1 341 
+27.7 
+919 
+19.0 
+-421 
+-8.7 Slovak Republic 
+857 
+41.9 
+753 
+36.9 
+-104 
+-5.1 Spain 
+3 484 
+22.1 
+2 873 
+18.3 
+-611 
+-3.9 Sweden 
+1 016 
+23.8 
+1 219 
+28.6 
+203 
+4.8 Switzerland (2001) 
+723 
+22.0 
+753 
+23.0 
+30 
+0.9 United Kingdom 
+5 967 
+20.3 
+5 793 
+19.7 
+-174 
+-0.6 United States 
+13 731 
+9.2 
+11 463 
+7.7 
+-2 268 
+-1.5 DSTI/DOC(2007)8 29 Conclusions and future directions for research Despite the typical disadvantages of published I-O tables (such as timeliness, sector classifications, 
+etc), this paper has shown that I-O may be a complementary source of information for measuring and 
+analysing globalisation. Using the OECD I-O Database, containing harmonised I-O tables for 
+38 economies (OECD and non-OECD), different indicators are being developed to allow analysis of some 
+distinctive characteristics of current globalisation. The proposed indicators specifically measure the 
+emergence of global value chains with their corresponding import and export flows of intermediate inputs, 
+and the increasing offshoring of services can be discussed in more detail. Of course the quality of the indicators presented directly depends on the information gathered within 
+national I-O tables and their international comparability. While I-O tables have been harmonised as much 
+as possible, reporting differences between countries (e.g. consolidated accounts, establishment vs. 
+enterprise) may to some extent bias the results. The OECD I-O Database may also be an important instrument for future research on globalisation. 
+Linking the OECD I-O Database with bilateral trade data would extend the scope of the analysis; as such 
+the effects of the increasing integration of emerging countries like in the global economy could be studied 
+in more detail. While I-O tables typically allow for the calculation of direct and indirect effects through the 
+total economy, these kinds of analyses are confronted with the traditional limitations of I-O tables (lack of 
+dynamic effects and constant productivity). The OECD I-O Database represents a major input not only for descriptive statistics as I-O indicators 
+could be used in more applied analysis. The impact of the increasing integration of countries on national 
+employment, productivity levels and growth could be discussed in more detail. DSTI/DOC(2007)8 30 REFERENCES Ahmad, N. and A. Wyckoff (2003),  " Carbon Dioxide Emissions Embodied in International Trade of 
+Goods " , OECD STI Working Paper 2003-15, OECD, Paris. Baldwin, R. (2006),  " Globalisation: the Great Unbundling(s) " , contributed paper to the project 
+ " Globalisation Challenges for Europe and Finland "  by the Economic Council of Finland. Bergoeing, R., T.J. Kehoe, V. Strauss-Kahn and K. Yi (2004),  " Why is Manufacturing Trade Rising Even 
+as Manufacturing Output is Falling? " , American Economic Review, Vol. 94(2), pp. 134-138. Feenstra, R.C. and G.H. Hanson (1996),  " Globalisation, Outsourcing and Wage Inequality " , American 
+Economic Review, Vol. 86(2), pp. 240-245. Feenstra, R.C. and G.H. Hanson (1999),  " The Impact of Outsourcing and High-Technology Capital on 
+Wages: Estimates for the United States, 1979-1990 " , Quarterly Journal of Economics, 
+Vol. 114(3). Groshen, E.L., B. Hobijn and M.M. McConnell (2005),  " US Jobs Gained and Lost through Trade: A Net 
+Measure " , Current Issues in Economics and Finance, Vol. 11(8), August, Federal Reserve Bank 
+of New York, New York. Grossman, G. and E. Rossi-Hansberg (2006),  " The Rise of Offshoring: It's Not Wine for Cloth Anymore " , 
+paper presented at the Federal Reserve Bank of Kansas City, 2006. Hummels, D., D. Rapoport, and K. Yi (1998),  " Vertical Specialization and the Changing Nature of World 
+Trade " , Federal Reserve Bank New York Economic Policy Review, June, pp. 79-99. Hummels, D., J. Ishii and K. Yi (2001),  " The Nature and Growth of Vertical Specialisation in World 
+Trade " , Journal of International Economics, Vol. 54, pp. 75-96. OECD (2007a),  " Staying Competitive in the Global Economy: Moving up the Value Chain " , OECD, Paris. OECD (2007b),  " Offshoring and Employment: Trends and Impacts " , OECD, Paris. Porter, M.E. (1985)  " Competitive Advantage " , The Free Press, New York. Srholec, M. (2007),  " High Tech Exports from Developing Countries: A Symptom of Technology Spurts or 
+Statistical Illusion? " , Review of World Economics, Vol. 143, pp. 227-255. United States Government Accountability Office (2004),  " International Trade: Current Government Data 
+Provide Limited Insight into Offshoring of Services " , GAO-04-932. United States National Research Council, National Academy of Sciences (2006),  " Analyzing the U.S. 
+Content of Imports and the Foreign Content of Exports " , 64p. DSTI/DOC(2007)8 31 Wixted, B., N. Yamano and C. Webb (2006),  " Input-Output Analysis in an Increasingly Globalised World: 
+Applications of OECD's Harmonised International Tables " , OECD STI Working Paper 2006-7, 
+OECD, Paris. Yamano, N. and N. Ahmad (2006),  " The OECD Input-Output Database 2006 Edition " , OECD STI 
+Working Paper 2006-8, OECD, Paris. Yi, K. (2003),  " Can Vertical Specialization Explain the Growth of World Trade? " , Journal of Political 
+Economy, Vol. 11(1), pp.52-102. 

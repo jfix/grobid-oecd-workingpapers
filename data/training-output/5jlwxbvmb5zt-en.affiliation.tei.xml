@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">JEL Classification: F22</orgName>,
+							<address>
+								<postCode>I23</postCode> (
+							</address>
+							<orgName type="laboratory">Institute of Labour Economics Leibniz University Hannover</orgName>,
+							<address>
+								<country>Germany)</country>
+							</address>
+							<orgName type="laboratory">Authorised for publication by Stefano Scarpetta, Director, Directorate for Employment, Labour and Social Affairs, OECD.</orgName>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

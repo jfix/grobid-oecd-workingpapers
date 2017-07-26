@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<orgName type="institution">International Energy Agency</orgName>
+							<address>
+								<addrLine>9 rue de la Fédération</addrLine>
+								<postCode>75739</postCode>
+								<settlement>Paris</settlement>
+								<postCode>Cedex 15</postCode>,
+								<country>France</country>  Australia,
+							</address>
+							<orgName type="department">Department of Resources, Energy and Tourism  Denmark</orgName>,
+							<orgName type="laboratory">Ministry of Climate, Energy and Building  European Commission, Directorate General for Energy  Germany, Federal Ministry of Economy and Technology  Ireland, Department of Communications, Energy and Natural Resources  Netherlands, Ministry of Economic Affairs, Agriculture and Innovation  Spain, Ministry of Industry, Energy and Tourism State Secretariat for Energy  United Kingdom</orgName>,
+							<orgName type="department">Department of Energy and Climate Change  United States</orgName>,
+							<orgName type="department">Department of Energy</orgName>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

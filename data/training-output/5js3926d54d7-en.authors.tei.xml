@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Gaëlle</forename>
+								 <surname>Ferrant</surname> and
+							</persName>
+							<persName>
+								 <forename>Michele</forename>
+								 <surname>Tuccio</surname>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Mario</forename>
+								<surname>Pezzini</surname> ,
+							</persName>
+							<persName>
+								<forename>Nicola</forename>
+								 <surname>Harrington</surname> ,
+							</persName>
+							<persName>
+								<forename>Carl</forename>
+								 <surname>Dahlman</surname> ,
+							</persName>
+							<persName>
+								<forename>Alexandre</forename>
+								 <surname>Kolev</surname> ,
+							</persName>
+							<persName>
+								<forename>Keiko</forename>
+								 <surname>Nowacka</surname> ,
+							</persName>
+							<persName>
+								<forename>David</forename>
+							<lb/>
+								 <surname>Khoudour</surname> ,
+							</persName>
+							<persName>
+								<forename>Jason</forename>
+								<surname>Gagnon</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

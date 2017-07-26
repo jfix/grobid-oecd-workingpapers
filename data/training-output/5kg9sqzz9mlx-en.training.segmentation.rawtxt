@@ -1,0 +1,1013 @@
+Please cite this paper as: OECD (2011),  " Fibre Access: Network Developments in the 
+OECD Area " , OECD Digital Economy Papers, No. 182, OECD 
+Publishing, Paris. 
+http://dx.doi.org/10.1787/5kg9sqzz9mlx-en OECD Digital Economy Papers No. 182 Fibre Access NETWORK DEVELOPMENTS IN THE OECD AREA OECD Unclassified DSTI/ICCP/CISP(2010)10/FINAL Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 16-Jun-2011 
+___________________________________________________________________________________________ 
+English -Or. English DIRECTORATE FOR SCIENCE, TECHNOLOGY AND INDUSTRY COMMITTEE FOR INFORMATION, COMPUTER AND COMMUNICATIONS POLICY Working Party on Communication Infrastructures and Services Policy FIBRE ACCESS -NETWORK DEVELOPMENTS IN THE OECD AREA JT03303943 Document complet disponible sur OLIS dans son format d'origine 
+Complete document available on OLIS in its original format DSTI/ICCP/CISP(2010)10/FINAL 
+Unclassified English -Or. English DSTI/ICCP/CISP(2010)10/FINAL 2 FOREWORD The Working Party on Communication Infrastructures and Services Policy discussed this paper at its 
+meeting in December 2010. The Working Party agreed to recommend the paper for declassification to the 
+Committee for Information, Computer and Communications Policy (ICCP). The ICCP Committee agreed 
+to the declassification of the paper in March 2011. The paper was drafted by Mr. Tony Shortall, Telage. It is published under the responsibility of the Secretary-General of the OECD. © OECD/OCDE 2011. DSTI/ICCP/CISP(2010)10/FINAL 3 Fibre-to-the-Home (FTTH) deployment and trategies 
+6 
+Introduction 
+6 
+Defining FTTH/B 
+7 
+Where FTTH networks are being built 
+7 
+Investment funding and deployment profiles 
+10 
+Financing the FTTH Networks 
+16 
+The topologies of the FTTH/B networks being deployed 
+21 
+Accommodating competitive access 
+22 
+Regulatory responses 
+22 
+Market developments 
+24 
+Policy suggestions or guidance based on the results of the research 
+27 ANNEX 1 -DEFINITIONS 
+28 BIBLIOGRAPHY 
+30 NOTES 
+32 DSTI/ICCP/CISP(2010)10/FINAL 4 MAIN POINTS This report examines recent developments regarding the use of fibre to provide local access networks 
+(referred to inter alia as the last mile or local loop) for the provision of broadband access. Countries across 
+the OECD are adopting different approaches to stimulate investment and to define the terms of competition 
+to end-users in a Fibre to the Home/Building (FTTH/B) world. There is no simple solution to the question of how to get FTTH/B networks built. The issues boil 
+down to having as much physical access competition as economically efficient, which in turn drives 
+investment and ultimately better deals for consumers both pre and post fibre deployment. The adoption of 
+FTTH/B solutions is normally preceded by strong broadband take-up. Broadband take-up is normally best 
+in competitive, dynamic markets with multiple fixed network competitors. Competition on the access 
+network is a key requirement to facilitate choice for consumers at the retail level when there is a single 
+Next Generation Networks (NGN) fibre access provider. Where there is more than one NGN fibre 
+provider, unbundling may have a role to play, but the case may be less compelling and more complicated. Once FTTH/B is deployed, ensuring take-up, usage, innovation and consumer outcomes all benefit 
+from more competitive end-user markets. It can be observed from the data that there is a wide divergence 
+in take-up rates where fibre is deployed. Competition has consistently delivered better consumer outcomes 
+in terms of price and innovation and this in turn improves take-up rates. Higher take-up rates are also very 
+good for investors as this appears to be a key variable in determining the return period, even more so than 
+prices. For those countries which do not have sufficient network competition and rely on unbundling of 
+existing networks, issues arise concerning how best to provide competitive access to the physical fibre and 
+these are related to the fibre topology. Two main topologies exist, point-to-point (PtP) or point-to-
+multipoint (PtMP). In a PtP context the existing access regime can normally continue. Entrants can build 
+their own network utilising the incumbent's economies of scale (by renting the fibre loops, as they can 
+with copper today). In the event that a sufficient number of end-to-end network competitors exist, this 
+again does not raise an issue since competition does not depend on access. However, in the event that there 
+is not a sufficient number of network competitors and that competition requires access conditions on a 
+network, then a PtMP model presents challenges in the form of access that can be offered. Physical 
+unbundling does not appear to be a realistic option in most instances and virtual access products appear to 
+be preferable. Countries which have limited access competition today and do not have the prospect for 
+physical access competition in the future should ensure that such virtual access products are planned for, 
+and that they are the best available, so that competition to provide services to the end-user can continue. In general end-to-end network competition is preferable to other forms of competition since 
+competitors compete over the entire value chain or access provision. Parallel networks may exist 
+independently of each other or they may be created by renting loops. One network can be shared by several 
+physical network access operators. This can reduce inefficient network duplication costs whilst still 
+allowing the benefits of economies of scale to be available to the market. DSTI/ICCP/CISP(2010)10/FINAL 5 Countries can take measures to lower deployment costs by giving access to existing passive 
+infrastructures, streamlining building permits and ensuring co-ordination of investments, all of which 
+should lower entry barriers. While competition can drive FTTH/B in certain settings, it is unlikely to deliver FTTH/B universally 
+due to the very high costs associated with the  " last mile' investments. Where population densities are low, 
+a viable business case will be especially challenging. This implies that subsequent government intervention 
+will be needed to deliver FTTH/B outside commercially viable areas. Significant positive externalities can 
+justify such interventions. However, it is important that public interventions do not interfere with or indeed 
+forestall private investment. Countries that clearly specify when and where they will intervene with public 
+finance can minimise these risks. Conditions should be attached to such public financing in order to foster future competition as much 
+as possible, so that consumers get the best outcomes. Countries which wish to accelerate improvement in their FTTH/B deployment should consider 
+measures to improve access competition on current networks. The evidence suggests that the most 
+competitive access markets are making the most progress in deploying and adopting FTTH/B. DSTI/ICCP/CISP(2010)10/FINAL 6 Fibre-to-the-Home (FTTH) deployment and strategies Introduction Fibre has long been used for telecommunication networks. Since the mid-1980s it has been the 
+technology of choice for new backbone networks for both telecommunication and cable television 
+networks. More recently it has also been used to provide the final connections to some premises, first for 
+larger business users and now for some residential users. The transition from copper access to fibre access networks is a source of great upheaval in the ICT 
+sector. It poses a series of challenges to industry and regulators to achieve the transition with positive 
+long-term results for consumers and society generally. This paper aims to update recent developments in 
+this area across OECD countries. It should be noted that the transition from copper to fibre is barely 
+underway in most of the World and though some countries are already making significant progress. The 
+drivers of investment in these new networks are multiple and it is not always possible to identify and 
+manage those drivers to achieve specific outcomes. However, this report seeks to examine the progress 
+made to date within the OECD and to look at what lessons might be drawn from that experience. Though many specific challenges arise, the report seeks to look most carefully at two. The first 
+challenge, for policy makers, is to choose amongst the different approaches to encourage investments in 
+FTTH/B. These range from regulatory forbearance in the United States for instance, with the decision not 
+to extend competitive access products for third parties to fibre-based products, to an actively managed 
+competitive access regime in Japan. It can be observed that markets which have demonstrated the greatest 
+level of access competition on traditional broadband networks such as xDSL and cable television networks, 
+have not only delivered very good results to consumers but also seem to be leading the charge in terms of 
+FTTH/B investments. This is a crucial observation because the competition on today's networks may drive itself onto 
+tomorrow's, ensuring not only that the networks are built but also that consumers are in a position to 
+exploit their potential benefits. It is also the case that take-up rates will be crucial to lower payback 
+periods, and indeed, to ultimately allow the existing copper networks to be switched off -to the benefit of 
+investors, consumers and society at large. The second related challenge facing policy makers is how to ensure that adequate competition is 
+maintained on the FTTH/B networks once they are built. Two main deployment topologies are being used, 
+Point-to-Point (PtP) and Point-to-Multipoint (PtMP). It is beyond the scope of this report to make an 
+assessment of the merits of the different topologies. Each topology has advantages and disadvantages and 
+OECD countries have in general given investing entities the freedom to choose their own preferred 
+topology. It is a fact, however, that the competitive physical access options today are much more limited 
+when a PtMP topology is deployed. It may be that this assessment will change as technologies develop and 
+improve. However, the competitive access limitations on a PtMP network may limit the scope of future 
+competition and this is a challenge which must be carefully assessed by policy makers. This paper is organised as follows: first a review of where FTTH/B networks are being built is set out. 
+Then the drivers of investment and the deployment profiles are identified. The report looks at the sources 
+of funding and major investment projects currently pending. It also consider the types of networks being 
+deployed, whether PtP or PtMP and considers the implications for competitive access solutions. Finally, 
+some conclusions are synthesised into a number of policy suggestions. DSTI/ICCP/CISP(2010)10/FINAL 7 Defining FTTH/B For the purposes of this study Fibre-to-the Home (FTTH) and Fibre-to-the-Building (FTTB) are 
+classified together as FTTH/B. While it should be noted that, at the time of writing there are also two other network solutions 
+competing for customers and in places being installed – Fibre-to-the-Curb (FTTC) and Cable -these are 
+not the subject of this report (although cable's role as a driver of competitive effects is remarked upon). In terms of network topologies (rather than technologies), the reader should be aware that there are 
+two main options. The first option, Point-to-Point (PtP), looks relatively similar to the existing copper 
+network topology insofar as each consumer has a dedicated fibre. The second topology is 
+Point-to-Multipoint (PtMP) where a portion of the access network is shared amongst a number of users. See Annex 1 for a more detailed description of these items. Where FTTH networks are being built A distinction needs to be drawn between where networks are actually being built as opposed to being 
+planned. A number of countries and operators with minimal deployments today are planning very 
+extensive deployments in the immediate future. An assessment of actual deployment today suggests that, with some notable exceptions, FTTH/B 
+deployments are still tentative or at an early stage. The exceptions are Korea and Japan who have achieved 
+extensive FTTH/B deployments. The data suggests that there are no "rules" regarding who deploys what 
+kind of network -new entrants are deploying PtMP networks, new government-owned corporations 
+building networks are opting for PtMP, some incumbent operators are deploying PtP networks. Even 
+though there are no easy classifications possible, it can be observed that there is a clear preference for 
+PtMP networks amongst incumbents and that, in general, entrants have opted for PtP deployments. An initial review of deployments to date gives the following data set out in Table 1 below. Table 1 
+seeks to give a broad overview of the current state of play in FTTH roll-out across OECD countries. DSTI/ICCP/CISP(2010)10/FINAL 8 Table 1: State of deployment 2010 Homes 
+passed 1 
+FTTH 2 
+FTTB 3 
+Main 
+topology 4 % 
+Main 
+topology Largest party 
+deploying Australia 
+40,000 
+100 
+0 
+PtMP 
+100% 
+Government Austria 
+63,000 
+80 
+20 
+PtP 
+90% 
+Municipalities Belgium 
+3,750 
+na 
+na 
+na 
+na 
+Incumbent Canada 
+280,000 
+na 
+na 
+PtMP 
+na 
+Incumbent Chile 
+20,000 
+na 
+na 
+PtMP 
+na 
+Incumbent Czech Republic 
+195,000 
+20 
+80 
+PtMP 
+100% 
+Altnets Denmark 
+795,300 
+75 
+25 
+PtP 
+85% 
+Utilities Finland 
+544,000 
+20 
+80 
+PtP 
+100% 
+Incumbent(s) France 
+1,383,588 
+100 
+0 
+PtMP 
+55% 
+Incumbent Germany 
+560,000 
+20 
+80 
+PtP 
+70% 
+Utilities Greece 
+5000 
+0 
+100 
+PtP 
+Altnets Hungary 
+215,000 
+100 
+0 
+PtMP 
+100% 
+Incumbent Iceland 
+33,000 
+100 
+0 
+PtP 
+80% 
+Utility Ireland 
+16,900 
+80 
+20 
+PtP 
+95% 
+Altnets Italy 
+2,245,500 
+5 
+95 
+PtP 
+100% 
+Altnets Japan 
+46,000,000 
+60 
+40 
+PtMP 
+80% 
+Incumbent Korea 
+16,000,000 
+20 
+80 
+PtMP 
+100% 
+Incumbent Luxembourg 
+56,000 
+100 
+0 
+PtP 
+100% 
+Incumbent Mexico 
+100,000 
+na 
+na 
+PtMP 
+na 
+Incumbent Netherlands 
+662,500 
+90 
+10 
+PtP 
+90% 
+Incumbent New Zealand 
+50,000 
+50 
+50 
+PtMP 
+80% 
+Altnets Norway 
+381,700 
+100 
+0 
+PtP 
+100% 
+Utility Poland 
+90,265 
+100 
+0 
+PtP 
+95% 
+Utility Portugal 
+1,470,000 
+100 
+0 
+PtMP 
+100% 
+Incumbent Slovakia 
+615000 
+38 
+62 
+PtMP 
+95% 
+Incumbent Slovenia 
+310,000 
+100 
+0 
+PtP 
+100% 
+Altnets Spain 
+412,500 
+90 
+10 
+PtMP 
+100% 
+Incumbent Sweden 
+1,464,500 
+50 
+50 
+PtP 
+90% 
+Altnet Switzerland 
+212,500 
+100 
+0 
+PtP 
+90% 
+Incumbent Turkey 
+200,000 
+100 
+0 
+PtP 
+na 
+Altnets United Kingdom 
+138,000 
+100 
+0 
+PtP 
+na 
+Altnets United States 
+19,676,200 
+na 
+na 
+PtMP 
+na 
+Incumbent 1. Homes Passed are potential premises to which an operator has the capability to connect in a service area, but the premises may or may not be 
+connected to the network. Typically new service activation will require the installation and/or connection of a drop cable from the homes passed 
+point (e.g. fibre-pedestal, handhole, chamber, utility-pole) to the premises, and the installation of subscriber premises equipment, including an ONT 
+(Optical Network Termination) device at the premises. 
+2. Network architecture in which a communications path is provided over optical fibre cables extending from the telecommunications operator's 
+switching equipment to (at least) the boundary of the home living space or business office space. 
+3. Network architecture in which a communications path is provided over optical fiber cables extending from the telecommunications operator's 
+switching equipment to (at least) the boundary of the private property enclosing the home or business of the subscriber or set of subscribers, but 
+where the optical fiber terminates before reaching the home living space or business office space and where the access path continues to the 
+subscriber over a physical medium other than optical fiber (for example copper loops). 
+4. Topologies can be either point-to-point (PtP) or point to multipoint (PtMP). 
+5. Altnets are alternative network operators other than the traditional Incumbent operator. 
+6. Data excludes the network of the main cable operator in France, Numericable. Sources: IDATE for the FTTH Council Europe (data as of June 2010), FTTH Council North America (data as of September 2010), FTTH Council 
+Asia Pacific (data as of December 2009). Data is for FTTH/B only. FTTC and FTTLA are not included. See definition in Annex 1 for further 
+details. DSTI/ICCP/CISP(2010)10/FINAL 9 In terms of volumes, clearly large countries are pre-eminent with Japan, Korea and the United States 
+leading the way. In percentage terms, Slovenia, Portugal and Sweden outperform any other European 
+country. The data regarding the conversion rates of homes passed into actual connections is very varied 
+across the OECD members with Korea, Japan and the United States performing best with the European 
+area members lagging. Figure 1 below shows FTTH as a percentage of existing broadband lines and indicates clearly that 
+those networks where the most progress is being made are located in the Asia Pacific region, with Northern 
+European and more recently some Eastern European countries making significant progress. Figure 1: FTTH as a percentage of existing broadband lines 0.0% 
+10.0% 
+20.0% 
+30.0% 
+40.0% 
+50.0% 
+60.0% United Kingdom 
+Greece New Zealand 
+Australia 
+Spain France 
+Luxembourg 
+Austria Ireland 
+Germany 
+Finland Sw itzerland 
+Turkey 
+Poland Italy 
+Netherlands 
+Portugal United States 
+Iceland 
+Hungary Czech Republic 
+OECD 
+Denmark Norw ay 
+Sw eden 
+Slovak Korea 
+Japan Percentage of fibre connections in total broadband subscriptions, June 2010 Note: Includes fibre-to-the-home (FTTH) and fibre-to-the-building (FTTB or apartment LAN) connections. Some countries may 
+have fibre but have not reported figures so they are not included in the chart. See the OECD broadband portal for information on 
+data sources and notes. In terms of subscribers, Figure 1 from the OECD indicates the varying levels of adoption. At the end 
+of 2009, Korea had a take up rate of 57% of homes passed with fibre, Japan had a take up rate of 37%, the 
+United States 29%,while the European take-up rate was 15% (climbing to 17% by mid 2010) 1 . The data 
+further shows that subscribers in Europe have increased by 51% over the last year and that although 
+deployment of homes passed has remained constant, operators appear to be putting more emphasis now on 
+converting homes passed into subscribers. DSTI/ICCP/CISP(2010)10/FINAL 10 The availability of FTTH/B solutions does not therefore imply a rate of take-up; the normal drivers of 
+consumer participation such as pricing and content would appear to be at least as important in a FTTH/B 
+environment as in a more traditional broadband context. Table 2: Top ten countries worldwide in terms of FTTH/B subscribers 1 Japan 15 500 000 
+2 Korea 8 050 000 
+3 United States 4 800 000 
+4 Taiwan 1 345 000 
+5 Hong Kong 740 000 
+6 Russia 724 000 
+7 China* 612 000 
+8 Sweden 478 900 
+9 Italy 324 500 
+10 France 
+252 900 *Not 
+included 
+are 
+China 
+Telecom's roughly 10 million 
+FTTx + LAN subs Source IDATE. Data as of Mid 2009. Investment funding and deployment profiles The Asia Pacific is the region where the most advanced FTTH/B deployments have been made. 
+Reviewing the history of countries such as Japan and Korea can be instructive in terms of identifying 
+investment drivers. In September 2000, the Japanese government directed Nippon Telegraph and Telephone, the 
+incumbent operator, to unbundle its copper local loop. In 2004, partial unbundling rates were JPY 120 
+(USD 1.50) per month and JPY 1,300 (USD 16) per month for total unbundling. Softbank, a major Japanese ISP, launched its DSL service in 2001 "Yahoo! BB" and invested heavily 
+in DSL technology. When SoftBank started its (12 Mbit/s) ADSL service at a price of around JPY 3000 
+USD 30) it made a huge impact in the Japanese market. The price proposed by Softbank was 
+approximately half the prevailing price in the market and, coupled with aggressive marketing campaigns, 
+led to Softbank capturing a large share of the market such that, by 2003, it was already the largest DSL 
+operator, even ahead of the traditional incumbent. Competitors and Softbank each dropped prices in an 
+iterative fashion and repeatedly offered higher speed services to entice customers with offers that quickly 
+ran from12 Mbit/s to 24 Mbit/s and 50 Mbit/s. In 2004, 52.1% of Japanese households had Internet access, with more than half of these using 
+broadband. By March 2005, DSL had more than 13.6 million customers in Japan and the development of 
+FTTH became part of the competitive landscape with the arrival of operators like TEPCO (Tokyo Electric 
+Power Company), allied to KDDI and NTT. Three million customers were wired with FTTH in March 
+2005 and by 2007 it had overtaken DSL in Japan. As noted by Cave (2010) and Ida (2009) regarding Japan, it was the competition in the supply of 
+xDSL (driven by low unbundling charges) which was then followed by competition in capacity that DSTI/ICCP/CISP(2010)10/FINAL 11 ultimately drove fibre deployment. This allowed high fibre penetration rates to be established without 
+government subsidies, which were largely confined to taking high speed broadband into rural areas. Therefore it can be observed that in Japan, the primary driver of deployment was market based 
+competition on the access network and that finance was privately sourced. A second step in deployment 
+was driven by government as concerns regarding a digital divide emerged. The Next Generation 
+Broadband Concept 2010 published in 2005 by the Japanese Ministry of Internal Affairs and 
+Communications (MIC) in Japan, identified two important steps, first, to ensure that every municipality in 
+Japan had broadband access by 2008 and second hat with respect to FTTH networks, over 90% of Japanese 
+homes had access to access networks capable of 'upload speeds in excess of 30 Mbps' by 2010. This is 
+implicitly a significantly higher target than specifying a download speed and effectively excludes at a 
+minimum FTTC and Wireless solutions from the plan. As noted in Table 2 above, the competitive process 
+behind deployment seems to have also ensured a significant take-up rate with regard to the FTTH/B that 
+has been deployed. The Korean Government was also very proactive in terms of ensuring first broadband and then 
+FTTH/B developments. In 2003 the government published the Broadband IT Korea Vision 2007 and after 
+the successful rollout of the broadband network, the government set out its goal for the future broadband 
+policy in the so-called u-Korea Masterplan (2007). The development of the Korean fibre optic network can also be divided into two stages. The first, 
+starting in 2004, included the extension of the fibre network without focusing on the direct connection of 
+households to the new network. Development in this period was driven by policy decisions. In 2003, the 
+Ministry of Information and Communication (MIC) amended the Facility Sharing Directive. For fibre 
+optics deployed before 2004, the MIC imposed obligations on Korea Telecom (KT) to open its fibre optics 
+to alternative operators, with regulated wholesale charges set by the MIC. For KT, fibre optics deployed 
+after 2004, the MIC did not impose any regulations on KT (cf. Twist, 2007). Regulatory forbearance was 
+also applied for the fibre deployed by other operators. Many operators started to roll out their own fibre 
+optic networks after this decision. For all broadband networks (copper-and cable-based), the MIC had an 
+ " open access "  regulation in place. In contrast to most other economies, which have only unbundled the 
+local loop, Korea went one step further by also unbundling the cable loop. This early competitive access 
+policy on broadband networks resulted in fierce competition among service providers (ITU, 2005). Again, 
+public finance followed in the wake of this competitive process. In the 2003 Triennial Review Order (TRO) the United States found that  " excessive network 
+unbundling requirements tend to undermine the incentives of both incumbent LECs and new entrants to 
+invest in new facilities and deploy new technology. "  2 The Federal Communications Commission (FCC) 
+found in the TRO that competitive access was not appropriate for most fiber loops used to serve enterprise 
+and mass market customers, and reinforced that finding in 2004. 3 On 20 March 2006, Verizon's petition for forbearance from dominant carrier regulation of high-
+capacity broadband services – fiber circuits used to serve enterprise customers and as inputs by competitive 
+carriers – was  " deemed granted "  by operation of law. 4 The FCC granted comparable forbearance relief to 
+AT&T 5 , Qwest 6 , and Embarq and Frontier 7 in subsequent orders in 2007, stating that  " [f]orbearance in 
+these circumstances also will increase [their] incentives to invest in advanced network technologies that 
+will enable it to provide enterprise customers with increasingly innovative services. "  8 Clearly, significant progress in terms of investment and homes passed has been achieved, as shown in 
+Figure 2 below, and the regulatory action in the United States was accompanied by a significant period of 
+investment where cable and telecom networks competed directly. It should be noted, again by reference to 
+Table 2 above, that despite the levels of FTTH/B deployment noted in the United States, take-up rates lag DSTI/ICCP/CISP(2010)10/FINAL 12 someway behind leaders in the OECD though, as noted by IDATE (2010) "The United States, Canada and 
+Mexico have connected 27% more users with fibre than all of the countries in West, Central and Eastern 
+Europe combined". On the other hand, performance in terms of fibre access investment in the United States 
+is greater than in Canada and Mexico and these countries also have limited or no third-party access via 
+policies such as unbundling, and it is difficult to assess the effects of the global economic crisis on 
+demand. At the same time, Hong Kong, China, a location with some of the most competitive broadband offers 
+in the world, relies almost wholly on network competition. In the OECD, Korea has been very successful 
+with end-to-end network competition. Geographic and demographic factors are clearly important in Korea, 
+Hong Kong, China and China – with high population densities -the proclivity of apartment-style 
+residential properties have no doubt been key factors. In these countries encouraging apartment buildings 
+to have  " points of access "  to which any provider can connect, have further encouraged competition. Figure 2:United States FTTH/B homes passed Source: RVA and FTTH Council North America. In 2010, the effectiveness of forbearance of regulation in the United States as a driver of investment is 
+under renewed scrutiny. A study carried out by the Berkman Center, reviewing experience around the 
+world, suggested that competitive access regimes outside the United States have led to better price/quality 
+outcomes which may go some way towards explaining the relative under-performance of FTTH/B take-
+up. 9 In the American Recovery and Reinvestment Act of 2009 10 , the United States Congress directed the 
+FCC  " … to ensure that all people of the United States have access to broadband capability and [to] 
+establish benchmarks for meeting that goal. "  In support of that goal, they tasked the FCC with i) evaluating 
+the status of deployment, ii) analysing the most effective mechanisms for achieving broadband 
+access, iii) developing a strategy to ensure affordability and maximum utilisation of broadband DSTI/ICCP/CISP(2010)10/FINAL 13 access, and iv) providing a plan whereby broadband would further consumer welfare, civic participation, 
+public safety, homeland security, health care delivery, energy independence, education, and a host of other 
+public policy goals. The FCC published the National Broadband Plan (NBP) in 2010. Through it, the United States 
+government has made a forward-looking statement of its long-range plans and has earmarked a level of 
+finance to encourage more marginal investments, as noted in Table 3 below. In Europe similar considerations were given to the possibility of using regulatory forebearance as a 
+means to accelerate investment. The Dutch Regulator, OPTA, took the lead in this debate since it was 
+faced with a similar market situation to that prevailing in the United States -widely deployed (and 
+technologically advanced) cable networks competing directly with a traditional telecoms incumbent. In that 
+market, a decision was taken to forsake bitstream access for the mass market and to oblige entrant 
+operators to build competing networks based on Unbundling of the Local Loop (ULL) for access. ULL is 
+well developed in the Netherlands and as the incumbent operator signalled its intention to redesign its 
+network, OPTA took a considered view on regulatory forbearance. The resulting policy paper, "Is two 
+enough", concluded:  " On balance the conclusion of the assessment is that in the relevant scenario there 
+is a significant risk that competition is not effective. "  More generally in the European Union, the "Europe 2020 Strategy" was launched in March 2010 with 
+the aim of preparing Europe's economy for the next decade. In May 2010 the Commission published its 
+Digital Agenda element which detailed how ICT would contribute to the overall EU2020 Strategy vision 
+through the creation of advanced networks. Seven target areas are specified, including the need to increase 
+Europeans' access to fast and ultra fast Internet. The target set in these policy documents is for Europe to 
+achieve Internet speeds of 30 Mbps or above for 100% of European citizens, with 50% or more of 
+European households subscribing to connections of 100Mbps or higher. The European Commission believes it can attract investment in broadband through better and more 
+consistent regulation and through more operational measures such as credit enhancement mechanisms and 
+guidance on how to encourage investments in fibre-based networks. The vehicles to achieve these aims are 
+the "Next Generation Access (NGA) Recommendation" and the "Broadband Communication". In September 2010, the European Union published the Commission Recommendation on regulated 
+access to NGA networks which seeks to guide National Regulatory Authorities (NRAs) as to what are the 
+appropriate remedies to be imposed for NGA Networks. This is a non-binding Recommendation based on 
+Article 19 11 of the Better Regulation Directive. NRAs must "take utmost account of" these guidelines 
+when selecting remedies as part of their analysis of Markets 4 and 5. 12 As noted elsewhere (Cave and Shortall, 2010) preservation of competition is the European 
+Commission's preferred approach and access in the form of fibre unbundling and/or active access is 
+proposed to continue as previously. Any suggestion of regulatory forbearance in Europe has been soundly 
+dismissed. Access conditions on fibre based networks will include risk premiums to entice investment. The Recommendation also puts significant emphasis on remedies which are aimed at lowering 
+deployment costs such as granting access to passive infrastructures. Also in September 2010, the European 
+Commission published its Communication "European Broadband: investing in digitally driven growth". DSTI/ICCP/CISP(2010)10/FINAL 14 As part of that Communication the Commission committed itself to make a proposal, in co-operation 
+with the European Investment Bank (EIB) in 2011: @BULLET For broadband financing. 
+@BULLET To issue guidance for local and regional authorities on the use of European Union funds for 
+broadband project design and preparation. 
+@BULLET To adopt investment guidelines on broadband for local and regional authorities to facilitate full 
+absorption of European Union funds. The European Commission also committed itself to: @BULLET Complete a review of cost-reduction practices [for NGA deployment] by 2012. 
+@BULLET Reinforce and rationalise the use of funding of high-speed broadband through European Union 
+instruments under the current financial framework (e.g. the European Regional Development Fund 
+(ERDF), the Eastern Recovery Development Programme (ERDP), the European Agricultural Fund 
+for Rural Development (EAFRD), the Trans-European Networks (TEN) and the Competitiveness 
+and Innovation Framework Programme (CIP) by end 2013. In turn, the European Commission asks that its Member States: @BULLET Set national broadband targets and adopt operational plans that are in line with the European 
+broadband target; the European Commission will review the national plans in 2011, 
+@BULLET Take national actions to reduce broadband investment costs. Taken as a whole, the European public policy position is seeking to ensure that NGA and especially 
+FTTH are facilitated by lowering deployment costs, making finance available and co-ordinating 
+information and operators. However, while the reliance in Europe on competitive dynamics in the market 
+to be the main driver of FTTH/B deployment remains, there is renewed emphasis now on the need for 
+publicly funded investment beyond areas where competition is viable. It is also clear within Europe that those countries that are making the most progress are precisely those 
+countries where physical access based competition is strongest. Figure 3 below shows the retail share of broadband of alternative providers. In Europe different 
+access products are available as a means of delivering services to end users, with those access products 
+being on a scale between bitstream and full ULL. Figure 4 below shows the number of broadband lines 
+based on full ULL. Full ULL allows an entrant to build its own network by buying the economies of scale 
+available to the incumbent (by renting local loops at cost). Where entrants enjoy a high share of the retail 
+market and that share is principally based on full ULL, it is fair to conclude that that represents situations 
+where access competition is strongest, subject to two caveats. The first concerns the presence of cable 
+networks which tends to be stronger in Northern Europe and weaker in the South. The second concerns 
+Eastern Europe where self supply (new network construction) is often preferred, facilitated by lighter 
+planning requirements. DSTI/ICCP/CISP(2010)10/FINAL 15 Figure 3: New entrant share of Broadband lines January 2010 New Entrant Share of Broadband Lines 0.00% 10.00% 20.00% 30.00% 40.00% 50.00% 60.00% 70.00% 80.00% BE BG CZ DK DE EE EL ES FR IE IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU Source: European Commission 2010: Progress Report On The Single European Electronic Communications Market 
+(15th Report). Figure 4: Share of Entrant lines based on Full ULL over DSL Share of New Entrant lines based on Full LLU 0.00% 10.00% 20.00% 30.00% 40.00% 50.00% 60.00% 70.00% 80.00% 90.00% 100.00% BE BG CZ DK DE EE EL ES FR IE IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU Source: Ibid. Taken together therefore, and looking at rates close to or above 50% for both entrant share and share 
+based on ULL, these elements would suggest that competition is strongest in Portugal, France, DSTI/ICCP/CISP(2010)10/FINAL 16 Netherlands, Germany and Italy. With the exception of Germany and Sweden this correlates closely with 
+those countries where the most active FTTH/FTTB deployments may be observed. The Swedish exception 
+might reasonably be explained by the high proportion of local/regional initiatives observed in that country, 
+while the quality of the traditional German copper network might explain its relative underperformance in 
+FTTH/B investments to date. Therefore, in the European Union it can be observed that the greater the level of physical access 
+competition on today's networks, the stronger the investment dynamic in those markets for FTTH/B. Financing the FTTH Networks In addition to privately driven investment, many publicly funded interventions in the OECD 
+(underway or planned) are intended to accelerate broadband, including FTTH deployments. Table 3 below 
+seeks to capture the largest of those national projects. DSTI/ICCP/CISP(2010)10/FINAL 17 Table 3: Major investment programmes in the OECD 13 Project name 
+Country 
+Initiator 
+Form 
+Finance size 
+Finance source F2 
+Canada 
+Public 
+Loan 
+USD 140m (out of 
+total USD 630m) European 
+Investment 
+Bank 
+(USD140m loan) Slovenia Growth Stimulus 
+Package 
+Slovenia 
+Public 
+PPP 
+USD 56m 
+Slovenian 
+government 
+in 
+partnership with the private sector The 
+Ultra 
+broadband 
+convergence network(UBcN) 
+Korea 
+Public 
+PPP 
+USD 30m Korea 
+Communications 
+Commission (USD 30m), incl. USD 
+29.5m from private sectors in the 
+country's IT infrastructure Broadband 
+Canada: 
+Connecting Rural Canadians 
+(part of Canada's Economic 
+Action Plan) Canada 
+Public 
+PPP 
+USD 223m 
+The Canadian government Broadband 
+Technology 
+Opportunities 
+Program 
+(BTOP)* United States 
+Public Loan, grant, and 
+loan/grant 
+combination Approximately 
+USD 4 billion 
+The United States Government Broadband 
+Initiatives 
+Program (BIP)* 
+United States 
+Public Loan, grant, and 
+loan/grant 
+combination Approximately USD 
+4 billion 
+The United States Government DSTI/ICCP/CISP(2010)10/FINAL 18 Table 3: Major investment programmes in the OECD (cont'd) Project name 
+Country 
+Initiator 
+Form 
+Finance size 
+Finance source National Broadband Network Australia 
+Public 
+PPP 
+USD 43bn (initially 
+USD 4.3bn) funding Building Australia Fund and the 
+issuance of Infrastructure Bonds 
+(AIBs) N/A 
+New Zealand 
+Public 
+PPP 
+USD 1.16bn The New Zealand government plans 
+to invest up to USD $1.16bn in its 
+network, and seeks additional 
+private sector investment to create a 
+national market in dark fibre and 
+wholesale broadband access European 
+Economic 
+Recovery Plan European 
+Union 
+Public 
+Not 
+yet 
+announced 
+USD 1.4 bn 
+The European Union Finland (general broadband 
+investment plan) 
+Finland 
+Public 
+PPP Total USD 280m 
+with USD 94m from 
+State Finnish state will pay up to a third; 
+municipalities, regions and the 
+European Union another third; and 
+telcos at least one third. Programme National Très Haut 
+Débit 
+France 
+Public 
+Not 
+yet 
+announced 
+USD 2.7 bn The French government has not yet 
+pledged any funds towards FTTH 
+initiatives Broadband strategy 
+Germany 
+Public 
+PPP USD 356m (basic 
+broadband) 
+and 
+USD14m 
+(high-
+speed pilot project) Uses a large portion of the digital 
+dividend 
+from 
+frequency 
+liberalisation to achieve the first-
+phase target. The government will 
+also use funds from its second 
+economic stimulus DSTI/ICCP/CISP(2010)10/FINAL 19 Table 3: Major investment programmes in the OECD (cont'd) Project name 
+Country 
+Initiator 
+Form 
+Finance size 
+Finance source Greece (general broadband 
+investment plan) 
+Greece 
+Public 
+PPP 
+USD 983m Greek government (USD 983m); 
+private 
+sector 
+investment 
+(USD 1.97bn) Portugal (general broadband 
+investment plan) 
+Portugal 
+Public Loan, grant, and 
+loan/grant 
+combination USD 115m 
+European Structural Funds Portugal (general broadband 
+investment plan) 
+Portugal 
+Public Loan, grant, and 
+loan/grant 
+combination USD 1.1 bn 
+Agreed line of credit for investors 
+(USD 1.1 bn) Plan Avanza 
+Spain Multi-
+national 
+entity PPP There is a budget of 
+USD 125m 
+for 
+overall 
+infrastructure 
+development, which 
+includes broadband Actual budget depends on the 
+additional 
+funding 
+from 
+the 
+European Fund for Regional 
+Development (ERDF) Britain's Superfast 
+Broadband Future 
+UK 
+Public 
+PPP 
+USD 1.35 Government 
+investment 
+of 
+USD 860m of which USD 486 will 
+come from spectrum sales *Part of the American Recovery and Reinvestment Act of 2009 (Recovery Act) DSTI/ICCP/CISP(2010)10/FINAL 20 Many of these initiatives are seeking to use public finance as a catalyst for private sector investment 
+in more marginal areas. Portugal represents a good example of such a project where the regulator has 
+divided the country into two regions, competitive and non-competitive. Currently, in the competitive 
+region operators will have regulated access to civil engineering (passive) infrastructure and the main 
+operators are obliged to deploy their own networks. In the non-competitive areas, where there is currently 
+no other basic broadband infrastructure than the network of the incumbent operator, the State is seeking to 
+accelerate a single NGN shared infrastructure open to all operators, through a series of tenders. In the 
+remaining non-competitive areas, regulated unbundled fibre access and fibre bitstream access are options 
+that might be imposed by the regulator following market analysis. The Australian investment is the most ambitious public intervention in the OECD, with the Australian 
+Federal Government's plan to build a National Broadband Network (NBN) with fibre-to-the-premises 
+(FTTP) technologies delivering broadband to 93% of homes with an investment of up to USD 43 billion. 
+In most OECD countries, private-led investment is the main vehicle for achieving a transition from 
+copper-based networks to networks which are primarily FTTH/B. In addition to government-level interventions a great many local investments are taking place, often 
+by energy utilities with large infrastructural project experience, sometimes with and sometimes without 
+public financial support. One striking feature of FTTH/B deployments is the observation that a large 
+number of local initiatives of different shapes and sizes where consumers, although willing to pay for 
+FTTH access, cannot elicit supply through traditional means. Since their demand is not being met in the 
+market, consumers are obliged to revert to a model which seeks supply from non-traditional sources. Two 
+such examples, one in Sweden and one in the United States, are described below. Mälarenergi Stadsnät -Västerås, Sweden In 2000, the city of Västerås in Sweden, with a population of 130 000, decided to build an open-access fiber optic 
+network. The city tasked its power utility, Mälarenergi, with the responsibility of building and operating the network. 
+Mälarenergi, in turn, created a subsidiary: Mälarenergi Stadsnät (The  " Malar Energy City Network " ) or MSN. The 
+financing of local access was a shared responsibility with the home owners involved. The price of access was set at 
+USD 3 900 for an SDU, while MDU prices were set at USD 429, reflecting the different costs involved. The topology is 
+PtP and the network was sold as an open-access network which any service provider could then contract directly with 
+end users. Benefits identified to end users included: increased home valuations, radically improved service quality and 
+competitive prices for ongoing services. In practice, for users taking telephony and a 100Mbs broadband connection 
+service the estimated return on investment was as little as 4 years. Utopia Network, Utah, United States A similar initiative in the United States concerns an attempt by 16 Utah cities to provide FTTH infrastructure to their 
+residents. The local power utility has been used as the vechicle to roll-out and manage the infrastructure. Residents 
+pay for the local access connection through payments added to their utility bills, spread over a number of instalments. 
+Recently, public funding through the American Reinvestment and Recovery Act was allocated in order to allow 
+connection of nearly 400 schools, libraries, medical and healthcare providers, public safety entities, community college 
+locations, government offices and other important community institutions in sections of Perry, Payson, Midvale, 
+Murray, Centerville, Layton, Orem, and West Valley City. In turn, the extended reach of the network will give more 
+private residents the option to connect to the extended network. As noted earlier, Sweden has shown that that these small initiatives can scale-up with perhaps as 
+much as 40% of Swedish deployments falling into such a category. The European Commission for its part 
+believes that Europe can scale-up local initiatives with the support of public finance and publicly funded 
+investment mechanisms such as the EIB. 14 DSTI/ICCP/CISP(2010)10/FINAL 21 The topologies of the FTTH/B networks being deployed The topology of deployment has a determinative impact on the form of competitive access that can be 
+achieved on FTTH/B networks. In terms of physical access remedies that could be imposed on a FTTH/B 
+network, only PtP deployments have the possibility to give physically unbundled access equivalent to the 
+kind historically available over the copper network. In general end-to-end network competition is preferable to other forms of competition since 
+competitors compete over the entire value chain or access provision. End to end network operators enjoy 
+technical independence in all aspects of service provision, which is not a feature of virtual access solutions. 
+While parallel networks may exist independently of each other, they may also be created by renting loops. 
+One network can be shared by several physical network access operators and this can reduce inefficient 
+network duplication costs whilst still allowing the benefits of economies of scale to be available to the 
+market. Hence, many public policy makers that do not have sufficient existing network competitors to 
+ensure competitive retail conditions express a preference for PtP where it is feasible. Wavelength Division 
+Multiplexing (WDM) solutions have the possibility to deliver the benefits of a PtP access network over a 
+PtMP access network but they are mostly unproven and lack scale in the access network for the moment. For PtMP topologies, the currently available access remedies are more limited. While in theory, and 
+indeed in practical deployment terms, it is possible to deploy multiple PtMP networks simultaneously 
+which would be managed by alternative operators, it is not obvious what incentives exist for such an 
+approach. It is more likely that access remedies will need to be based on different forms of virtual access, either 
+forms of 'bitstream' access or more advanced access products based on wavelength unbundling. These 
+access options are considered further in the following section of this report. An assessment of Table 1 above indicates that 20 countries have PtP as the main topology, 11 with 
+PtMP and 1 which can only be classified as a mixture. In practice only 9 (4 PtMP and 5 PtP) of the 32 
+countries have opted for one or other technology, whilst the other countries have opted for a mixture. It should also be noted that the current picture may be distorted to some extent by the stage of network 
+development. As noted already, Europe lags some way behind other regions in terms of network 
+deployment for a variety of reasons. The early stage of FTTH\B deployment in Europe and indeed in 
+Australasia suggests that the currently identified topology may change in the not-too-distant future. A good 
+case in point is the United Kingdom where, to date, network deployment has been carried out mainly on 
+the basis of local initiatives and localised commercial deployments 15 . However, BT in the United Kingdom 
+has indicated that it will deploy 4 million FTTH/B lines in the coming years and that the topology will be 
+PtMP 16 . Such a deployment is likely to dwarf any other deployment in terms of size. Similarly, Deutsche Telekom in Germany has announced its intention to deploy FTTH to 4 million 
+homes by 2012 and in Italy, a consortium of alternative operators have announced plans to deploy a further 
+(PtP) FTTH network in the principle 15 Italian cities or to about 4 million homes, also reinforcing the 
+existing deployment model. Telecom Italia at the same time has proposed a mixed PtMP and FTTN 
+deployment to about 50% of Italian homes at a cost of USD 11.8 billion so the final deployment mode 
+remains uncertain. There is, therefore, considerable uncertainty particularly given the early stage of FTTH deployments 
+in Europe so that the European market could change quite radically in the coming years. Within Europe, 
+PtMP has increased from 15% to 17% 17 of all deployments and as incumbents, who to date have expressed DSTI/ICCP/CISP(2010)10/FINAL 22 a strong preference for PtMP deployment topologies, commence deployment, the share of PtMP can be 
+expected to accelerate rapidly. It should be noted from the above that there is no strict correlation between topology and the nature 
+of the party deploying, which suggests that other factors are driving the commercial decision regarding 
+deployment technology. Each topology has advantages and disadvantages and countries have in general 
+given investing entities the freedom to choose their own preferred topology. Table 4: Relative advantages of PtP and PtMP 18 : PtMP 
+PtP 
+Future 
+Proof 
+Bandwidth 
+2 
+4 Symmetry 
+3 
+4 Geographical Reach 
+4 
+4 Reliability 
+4 
+4 
+Operational 
+Efficiency 
+4 
+2 Cost of Deployment 
+1 
+0 Competitive Access 
+1 
+4 Table 4 above seeks to set out some of the basic elements under consideration and to try to weigh the 
+relative advantages of each on a scale from 0 to 4. In general, PtP is more future proof but PtMP is often 
+cheaper 19 to install and run. In areas with low population densities, where overhead network deployment is 
+often a feature, these cost differences can be even more pronounced. Competitive access products are 
+better on a PtP network and future network management can be achieved under more competitive 
+conditions. The incremental costs of choosing between building PtMP and PtP vary but seem to range 
+between 5% and 15% while the additional cost of deploying multiple PtMP networks simultaneously 
+seems to be in the same range 20 . Nevertheless, it is a fact that the competitive access options today are much more limited when a 
+PtMP topology is deployed. This assessment may change as technologies develop and improve. The 
+various access options and practices are discussed in more detail in the following section. Accommodating competitive access Regulatory responses In the European Union a series of documents released in 2010 have sought to clarify the mode of 
+regulation for fibre and to outline, or request Member States of the European Union to outline, their 
+broadband plans for reaching certain predefined targets. In particular, the Recommendation on NGA seeks 
+to clarify the terms for private investors investing in fibre-based networks in Europe. That document seeks 
+to smooth the transition from copper to fibre based networks. In relation to existing copper network based 
+competitors, the Recommendation sets out the migration regime and sets minimum conditions for 
+migration from copper-based wholesale products to fibre ones. The umbrella Body of European Regulators of Electronic Communications of the European Union 
+(BEREC), an advisory body to the European Commission, conducted a comprehensive survey of the 
+access products available in a FTTH/B context. As part of that exercise, a simplified and stylised ladder of 
+investment for NGA products was identified which is depicted in Figure 5 below, some of these elements DSTI/ICCP/CISP(2010)10/FINAL 23 may be merged together or further split, depending upon a national solution, therefore a concentration 
+point can be the same as a cabinet: Figure 5: NGA ladder of investment Source: BEREC : BoR (10) 08 BEREC Report on NGA wholesale products. The architecture of a fibre network differs from that of a copper one. Current generation broadband in 
+Europe, as elsewhere, is often supplied by competitors who have built out to the incumbent's local 
+exchange, where they rent local loops. That point may disappear in a fibre network, being replaced with 
+different exchange points in a PtP network, while in a PtMP network unbundling the fibre loop in a manner 
+similar to unbundling copper loops is difficult or impossible. Regulators need to devise strategies which 
+will permit the transition of competition on FTTH/B networks to go ahead. In a PtP network, it is possible to unbundle the network in more or less the same fashion as on a 
+copper network. Some issues have arisen about how large an optical distribution frame (ODF) needs to be 
+in order to credibly be able to host one or more competitors. Certain national regulators 21 have specified 
+minimum criteria in respect of ODF size and guidance may also be proffered regarding the location of 
+access points. In Japan and the Netherlands fibre loop unbundling regimes are in place. In Europe, while PtP is the 
+dominant deployment technology to date, it is frequently deployed by entrant operators rather than the 
+(normally) dominant incumbent implying that access obligations will not arise. In the United States unbundling decisions and regulatory forbearance have generally eliminated 
+regulated access to fibre and in Korea regulatory forbearance for fibre investments exists since 2004. As noted already, incumbent operators are opting more and more for PtMP-type topologies. They are 
+not alone and while some entrants 22 have opted for PtMP deployments so too has the Australian 
+Government. In general, therefore, a very significant proportion of access obligations within the OECD DSTI/ICCP/CISP(2010)10/FINAL 24 will be based on PtMP networks. Since physical unbundling is virtually impossible on such networks, 
+regulators need to consider the scope for virtual access remedies to replace physical unbundling. Regarding PtMP networks, two broad types of virtual access products can be identified. The first is 
+wavelength unbundling -often referred to as "wave division multiplexing (WDM)". As its name suggests, 
+WDM involved splitting the lightwave into its constituent colours (with many shades of primary colours 
+being possible). Once split, the individual wavelengths can then be allocated to different services or 
+operators. In this sense lightwave unbundling could allow multiple operators full control of a wavelength 
+without access to the physical fibre. From a technical independence perspective, this form of unbundling is 
+likely to give access seekers a degree of independence comparable to physical unbundling. WDM in the fibre access loop is a technology which is established but has not been standardised and 
+perhaps more tellingly, has not reached any level of scale economies. In its assessment of the various 
+technical options for FTTH roll-out in the United Kingdom. 23 Analysys Mason found that WDM had the 
+least favourable economic profile of the different deployment options. There remains uncertainty about 
+how significant scale economies for active network components will be in the future for WDM, but if 
+significant, these results could change. In 2010, WDM usage is very limited but it holds out the exciting prospect of technical independence 
+for access seekers on a single infrastructure and the ability to take access relatively high in the network 
+(i.e. further away from the end-user). This should allow viable entry with larger numbers of addressable 
+consumers at access points. The possibility is that once WDM technology matures, light-wave unbundling 
+may be functionally equivalent to physical unbundling holds out the best future hope for competitive 
+access seekers on PtMP networks. It may be that networks built with a PtMP topology might be more, or 
+less, capable of upgrading to a network which can support a WDM solution 24 . The second main access product that can be envisioned on PtMP network topologies is a 
+bitstream-type access product. Ofcom in the United Kingdom has required 25 a bitstream product Virtual 
+Unbundled Local Access (VULA) provide access seekers a wholesale product that allows a degree of 
+control similar to that achieved in local loop unbundling as physical access is not possible. RTR in Austria 
+made a comparable proposal more or less at the same time 26 . While both proposals raised comments from 
+the European Commission about the need to move to unbundling as soon as the technology enabling fibre 
+unbundling is available, both were considered appropriate as transitory measures. Regulators need to 
+ensure that by introducing virtual solutions due to the limitations for physical competition, they do not 
+become embedded in the regulatory approach rather than be transitory arrangements. Otherwise, with a 
+move to fibre, the entrant community may face a step (or half-step) back down the "ladder of 
+investment"' 27 where they have built out their own networks on the basis of ULL but will be forced to 
+move back along the value chain and accept bitstream and bitstream variants in the future. Market developments In choosing the appropriate form of regulation, there are trade-offs at two levels. The first level 
+concerns choosing between network duplication costs and dynamic efficiency. If the access market is 
+viewed from a static perspective, building multiple networks increases the costs of delivery significantly. 
+The additional costs incurred can be viewed as costly and inefficient where each network delivers the same 
+basic services. From a more dynamic perspective, multiple networks will compete vigorously with each other and 
+will ensure that any inefficiency is competed away on the individual networks and that innovation will be 
+important as network operators seek to differentiate themselves from each other. DSTI/ICCP/CISP(2010)10/FINAL 25 In the past, the costs of duplicating copper-based networks, or PSTN, were so high that considerations 
+of dynamic efficiency rarely arose. However, since the topology of copper networks was universally PtP, 
+in practice the efficiencies of building a single network single network build and the benefits of multiple 
+competing networks, could be achieved simultaneously (through ULL). With technological evolution and 
+convergence, cable networks also found themselves competing with traditional PSTN -and with the 
+evolution of DSL, the PSTN could in turn compete with cable networks. Where competition is strongest 
+between platforms and within platforms, product innovation and take up have been markedly better than 
+where limited or no access competition has existed. Where PtMP topologies are deployed the more optimum solution of sharing a single build network to 
+achieve multiple competing end-to-end networks is not generally cost effective today. Therefore policy 
+makers require a view of how large the costs of deployment will be (and can they be made smaller) and 
+how large the benefits of dynamic efficiency will be. By facilitating the sharing of passive infrastructures 
+and the co-ordination of investments where appropriate, policy makers can lower replication costs and 
+encourage infrastructure-based competition and investment. There is significantly more scope for end-to-
+end competition emerging in a FTTH/B context than existed in a copper world. However, achieving such a 
+competitive roll-out is not obvious. Allowing access to passive infrastructure and sharing certain network elements (such as in-building 
+wiring) can greatly facilitate entry. Co-ordinating and facilitating co-operative roll-outs can also 
+significantly enhance the possibilities for end-to-end competition. However, it is clear that investment incentives are also coloured by the alternative access regimes. 
+Most European regulators that have fibre deployments have signalled that regulated bitstream products are 
+either not available over the new infrastructure 28 or such availability is limited at least for the moment, so 
+as to preserve entrants' incentives to invest (particularly when facing a PtMP deployment). Those 
+regulators that judge the scope for infrastructure based competition to be very limited have opted to try and 
+develop bitstream products ahead of time 29 . Policy makers therefore seek to protect competition in the 
+market but in doing so must take a forward-looking view on the market developments and make trade-offs 
+on access products where necessary. The appropriate policy response is further complicated by the fact 
+that, even under optimal conditions, competitive roll-outs are likely to be relatively limited in their 
+geographic scope and indeed, many countries have to deal with less than optimal conditions. The 
+implication therefore is that some virtual access products will be needed in order to avoid re-
+monopolisation of significant parts of the market. Therefore geographic limitation of remedies is becoming 
+more prominent over time. In countries where a PtP deployment is taking place, that singular infrastructure allows many 
+operators to build their own networks by renting the fibre loops and adding their own network elements. In 
+countries where a PtMP topology is being deployed this option is not available and the choice will be 
+between multiple parallel networks and competition based on virtual remedies. Unless there is a credible 
+threat of alternative, competing investments, the incentives for incumbent operators to move first are weak. This in turn suggests that, absent competitive pressure, incumbents may choose to delay the 
+installation of fibre even when investment in a fibre network has a positive expected net present value as 
+compared with maintaining the copper network in place. This is because delaying the fibre until 
+uncertainties about execution, demand and regulation are removed has an option value to the investor from 
+which it has to be bought out for the investment to go ahead. In order to restore incentives, regulators could commit to access pricing policies which encourage 
+investment by competitors. A problem with such an approach is that the pricing of wholesale products can 
+change quickly and that regulators have often reneged on commitments to withdraw access products or DSTI/ICCP/CISP(2010)10/FINAL 26 worsen the terms on which they are available. 30 Often, a more fundamental problem arises when 
+competitors on the market do not hold a sufficient scale to make large scale investments credible. Strong 
+competitors on today's networks give policy makers greater opportunities in terms of stimulating an 
+investment dynamic. From a demand perspective, service development, innovation and above all pricing of fibre-based 
+access products are likely to be critical to take-up. A number of market analysts have identified the take-up 
+rate of fibre as being of far greater importance than the prices charged when assessing payback periods. 
+The relationships between prices, take-up and payback periods are non-linear, i.e. a percentage increase in 
+take-up rates leads to a several percentage points decrease in price (holding the payback period constant). Figure 6 below from Yankee Group depicts their assessment of the relationship between prices, take-
+up rates and the time needed for investment payback. This suggests that ensuring a competitive 
+environment is not only the best way of justifying the investments but is also likely to drive outcomes of 
+lower prices and higher take-up beneficial to consumers, ensuring shorter payback periods for investors. Figure 6: Discounted FTTH payback (w. USD 1000/home costs, 45% cash margin and 12.5% WACC) Source: Source: Yankee Group, 2009. Therefore, an access model which seeks to ensure cheaper access rates is likely to see higher take-up 
+which becomes self sustaining. A higher take-up not only facilitates a more rapid transition to FTTH/B but 
+also the retirement of the copper network. DSTI/ICCP/CISP(2010)10/FINAL 27 Policy suggestions or guidance based on the results of the research The evidence to date suggests several points of guidance for policy makers. First, while an equation 
+seeking to explain the adoption of FTTH/B solutions would have many explanatory variables it is normally 
+preceded by strong broadband take-up. Broadband take-up is normally best in dynamic markets with strong 
+competition with more than two fixed network competitors. Competition on the physical access network 
+(whether via ULL, based on cable/other networks or both) is a key requirement to facilitate broadband 
+take-up. This suggests that regulation that ensures competitive markets is as important as ever if FTTH/B is 
+to be achieved. Once FTTH/B is deployed, ensuring take-up, usage, innovation and consumer outcomes 
+generally, will all benefit from more competitive markets. Second, competition can drive FTTH/B in certain settings but is unlikely to deliver FTTH/B 
+universally, implying that some subsequent government intervention will be needed to deliver FTTH/B 
+outside commercial areas. Significant positive externalities can justify such interventions 31 . However, it is 
+important that public interventions do not interfere with or indeed forestall private investment. Policy 
+makers who clearly specify when and where they will intervene can minimise these risks. Third, public finance given to encourage FTTH/B rollouts should have open access requirements. 
+Consistent with maintaining incentives to invest, policy makers should seek to ensure that the best access 
+options are available on future access networks where they can influence the outcomes. Fourth, FTTH deployment is expensive and choosing the right technology is best left to market 
+players to decide in national circumstances. However, physical access products available today on PtMP 
+networks are inferior to those available on PtP networks. PtMP networks that anticipate, by installing 
+splitters that allow multiple frequencies through, an upgrade to WDM at the point of deployment, can be 
+upgraded much more readily than networks that do not. Fifth, countries hoping to achieve a radical improvement in FTTH/B deployment should consider 
+measures to improve access competition on current networks. The evidence suggests that not only is this 
+important in terms of stimulating investment, it is also critical to ensuring a strong take-up of the network 
+once it is available, which in turn will allow shutting down parallel networks in a timely fashion. Finally, countries should take all reasonable measures to lower deployment costs by ensuring 
+information transparency on network evolution, setting out clearly migration paths to new access products 
+and by giving access to existing passive infrastructures, streamlining building permits and co-ordination of 
+investments. DSTI/ICCP/CISP(2010)10/FINAL 28 ANNEX 1-DEFINITIONS Fibre-to-the-Home is defined as a telecommunications architecture in which a communications path is 
+provided over optical fibre cables extending from the telecommunications operator's switching equipment 
+to (at least) the boundary of the home living space or business office space.  " Fibre-to-the-Building "  is defined as a telecommunications architecture in which a communications 
+path is provided over optical fibre cables extending from the telecommunications operator's switching 
+equipment to (at least) the boundary of the private property enclosing the home or business of the 
+subscriber or set of subscribers, but where the optical fibre terminates before reaching the home living 
+space or business office space and where the access path continues to the subscriber over a physical 
+medium other than optical fibre (for example copper loops). This definition excludes architectures where the optical fibre cable terminates in public space (for 
+example an operator's street-side cabinet) and where the access path continues to the subscriber over a 
+physical medium other than optical fibre (for example copper loops). For a full definition please refer to FTTH Council definitions 32 . Figure 7: Point to point fibre deployment DSTI/ICCP/CISP(2010)10/FINAL 29 Figure 8: A Point-to-Multipoint fibre deployment DSTI/ICCP/CISP(2010)10/FINAL 30 BIBLIOGRAPHY Analysys Mason (2010), "Fibre capacity limitations in access networks". Available at: 
+http://stakeholders.ofcom.org.uk/binaries/research/technology-research/fibre.pdf. ARCEP (2009) "Rapport relatif au déploiement des réseaux en fibre optique suite à la première phase de 
+travaux d'expérimentation et d'évaluation menés sous l'égide de l'ARCEP". Available here: 
+www.arcep.fr/uploads/tx_gspublication/rapport-fibre-thd-070409.pdf. Baumol, et. al. (1983), "Contestable markets: an uprising in the theory of industry structure: Reply (1983)". 
+The American Economic Review, Vol. 73. No. 3, pp. 491-496. BEREC (2010),. BoR (10) 08 BEREC, Report on NGA wholesale products. Available here: 
+www.erg.eu.int/doc/berec/bor_08.pdf. Berkman Centre (2009), "Next Generation Connectivity: A review of broadband Internet transitions and 
+policy from around the world". Available at: 
+www.fcc.gov/stage/pdf/Berkman_Center_Broadband_Study_13Oct09.pdf Cave, M. (2006), "Six Degrees of Separation: Operational Separation as a Remedy in European 
+Telecommunications Regulation". Communications & Strategies, 1-15. Cave, M. (2010), "Snakes and ladders: unbundling in a next generation world", Telecommunications 
+Policy, Vol 34 pp 80-85. Cave, M. SHORTALL, T. (2010), "The Extended Gestation and Birth of the European Commission's 
+Recommendation on the Regulation of NGAs" in Monitoring EU Telecoms Policy 2010: NEREC. European Commission 2010, Progress Report on the Single European Electronic Communications Market 
+(15th Report) . European Commission 2010 'European Broadband: investing in digitally driven growth' COM(2010) 
+472/3 Ida, T. (2009), Broadband Economics: Lessons from Japan, Routledge, London IDATE (2007), Digiworld Presentation. IDATE (2010), "FTTX 2010, Market Trends, Facts & Figures" www.idate.org/. ITU (2005), "Ubiquitous Network Societies: The Case of the Republic of Korea". J. Scott Marcus (2008), " Network Neutrality: The Roots of the Debate in the United States. " , 
+Intereconomics, Volume 43, Number 1. DSTI/ICCP/CISP(2010)10/FINAL 31 J. Scott Marcus, Kenneth R. Carter and Christian Wernick (2009),  " Network Neutrality: Implications for 
+Europe " , WIK. MICJ (2006), "Release of 'Next-Generation Broadband Strategy 2010" and "Results of Public Comment 
+Thereon" Press release 11.08.2006, at: 
+www.soumu.go.jp/joho_tsusin/eng/Releases/Telecommunications/news060811_1.html MICJ (2008),."Japan's Strategy for the Nationwide Development of Broadband and FTTH". Presentation 
+for OECD at 11 April 2008 at:. www.oecd.org/dataoecd /54/16/40 461317.pdf OECD (2008a). "Broadband Growth and Policies in OECD Countries". Available at: 
+www.oecd.org/dataoecd/32/57/40629067.pdf OECD (2008b),  " Developments in fibre technologies and investment " . Available at: 
+www.oecd.org/dataoecd/49/8/40390735.pdf. OECD (2009), "Network Developments in Support of Innovation and User Needs'. Available at: 
+www.oecd.org/officialdocuments/displaydocumentpdf/?cote=dsti/iccp/cisp(2009)2/final&doclangua 
+ge=en. OPTA (2006), "Is Two Enough". Economic Policy Note, N°. 6 Tucker, Rodney S. "Broadband facts, fiction and urban myths". Telecommunications Journal of Australia. 
+Monash University ePress: Victoria, Australia. www.epress.monash.edu.au/. : 43.1–43.15. 
+DOI:10.2104/tja10043. Twist, K. (2007), "Driving fibre closer to the home", Nature Photonics 1, 149-150. 22. WiK (2008), "The Economics of Next Generation Access -Final Report". Available at: 
+http://www.ectaportal.com/en/REPORTS/WIK-Study/WIK-NGA-Study-2008/ DSTI/ICCP/CISP(2010)10/FINAL 32 NOTES 1 IDate 'FTTX Facts and Figures 2010' and FTTH Council Europe. 2 Triennial Review Order, FCC 03-36, at para. 3 (http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-
+03-36A1.pdf) 3 See FCC 04-254: http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-04-254A1.pdf 4 http://hraunfoss.fcc.gov/edocs_public/attachmatch/DOC-264436A1.pdf; Letter from Edward Shakin, Vice 
+President and Associate General Counsel, Verizon, to Marlene H. Dortch, Secretary, FCC, WC Docket No. 
+04-440, at Attach. 1 (filed Feb. 7, 2006) (Verizon Feb. 7, 2006 Letter) (including a list of 10 specific 
+broadband 
+services 
+for 
+which 
+Verizon 
+is 
+seeking 
+forbearance) 
+(http://gullfoss2.fcc.gov/prod/ecfs/retrieve.cgi?native_or_pdf=pdf&id_document=6518324844) 5 http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-07-180A1.pdf 6 http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-08-168A1.pdf 7 http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-07-184A1.pdf 8 http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-07-180A1.pdf at para. 57; 
+http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-08-168A1.pdf at para. 58. 9 http://www.fcc.gov/stage/pdf/Berkman_Center_Broadband_Study_13Oct09.pdf 10 American Recovery and Reinvestment Act of 2009, Pub. L. No. 111-5,  § 6001(k)(2)(D), 123 Stat. 115, 516 
+(2009) (Recovery Act). 11 Article 19 Recommendations seek to ensure a harmonised approach. 12 In European Union Member States, access products are split into physical access markets (market 4) and 
+virtual access markets (market 5). See the Official Journal of the European Communities OJ L 344, 
+28.12.2007, p. 65 for a full description. 13 http://www.lightreading.com/document.asp?doc_id=130970; 
+http://www.koreaninsight.com/2009/02/south-korea-will-build-1-gbs-information-superhighway-by-
+2012/; www.ic.gc.ca/eic/.../dgtp-003-08-telesat-replycomments.pdf; 
+http://www.usda.gov/rus/telecom/; http://www.usda.gov/rus/telecom/; 
+http://telcommunicator.blogspot.com/2009/04/australia-goes-structural-separation.html 
+http://www.med.govt.nz/upload/63958/Final-broadband-initiative-consultation-document.pdf; 
+http://www.pm.gov.au/media/Release/2009/media_release_0903.cfm; 
+http://www.hs.fi/english/article/State+support+proposed+for+high-speed+broadband/1135239537496; 
+http://francenumerique2012.fr/; 
+http://www.telecompaper.com/news/article.aspx?cid=659108 ; 
+http://www.lightreading.com/document.asp?doc_id=172134 ; 
+http://www.lightreading.com/blog.asp?blog_sectionid=384&doc_id=170236; DSTI/ICCP/CISP(2010)10/FINAL 33 http://www.planavanza.es/NR/rdonlyres/EAF9F73D-DF3B-4955-8CCD-
+F5AA38642A1F/0/TheInformationSocietyinSpain.pdf; 
+http://www.dcms.gov.uk/news/news_stories/7621.aspx 14 European Commission 2010 'European Broadband: investing in digitally driven growth' COM(2010) 
+472/3 15 For instance BT accounts for approximately 2% of the FTTH/B lines identified in the UK as at July 2010. 16 http://www.totaltele.com/view.aspx?ID=456367 17 IDATE for FTTH Council Europe. 18 See 'Fiber To The Home Benefit Compendium' Yankee Group 2010 19 See for example Arcep 2009. 20 WiK 2008, ARCEP 2009 21 E.g. Opta in the Netherland, Arcep in France 22 E.g. SFR in France, Sonaecom Portugal 23 http://stakeholders.ofcom.org.uk/binaries/research/technology-research/fibre.pdf interestingly, Analysis 
+Mason also rank TDM PON ahead of PtP networks due (principally) to operational space requirements. 24 The key upgrade requirement is that active equipment in the field will need to be changed. Deployments 
+which anticipate upgrades are likely to facilitate such a change. For example Portugal Telecom in Portugal 
+and Verizon in the United States have both used snap-in, snap-out type systems for splitters (an active 
+element) which should make an upgrade easier than spliced solutions if an upgrades were ever 
+implemented. 25 http://stakeholders.ofcom.org.uk/consultations/wla/ 26 http://circa.europa.eu/Public/irc/infso/ecctf/library?l=/sterreich/registeredsnotifications/at20101084&vm=d 
+etailed&sb=Title 27 See M Cave, 'Snakes and ladders: unbundling in a next generation world,' Telecommunications Policy,Vol 
+34 (2010) pp 80-85. 28 E.g. France does not a have regulated FTTH/B bitstream product, the Netherlands has limited bitstream 
+access over FTTH to the high-quality market, while Portugal has proposed to bring forward regulated 
+bitstream offer in the non-competitive areas. Spain has limited bitstream access to products under 30 mbs. 
+Note that this position may be viewed as being at odds with the European Commission's advice regarding 
+the availability of access products. 29 E.g. Ofcom in the United Kingdom. While Ofcom also favours infrastructure-based competition (hence its 
+focus on LLU) but recognises that, in relation to superfast broadband, the best solution may vary by 
+geography and ultimately hopes to achieve a form of light-wave unbundling. 30 Local loop availability and pricing in the Netherlands and Canada being the most celebrated examples. 31 See for example: Enck J. and Reynolds T. (2009) 'Network Developments in Support of Innovation and 
+User Needs' OECD. See also Ovum 2009 'Fibre: the socio-economic benefits' DSTI/ICCP/CISP(2010)10/FINAL 34 32 http://www.ftthcouncil.org/sites/default/files/FTTH_definitions.pdf 

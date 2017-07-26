@@ -1,0 +1,6886 @@
+OECD DEVELOPMENT CENTRE ARE WORkERs' REMiTTANCEs RELEVANT 
+fOR CREDiT RATiNg AgENCiEs? by Rolando Avendaño, Norbert gaillard and sebastián Nieto-Parra Research area: 
+Latin American Economic Outlook Working Paper No. 282 October 2009 Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 2 © OECD 2009 DEVELOPMENT CENTRE 
+WORKING PAPERS This series of working papers is intended to disseminate the Development Centre's 
+research findings rapidly among specialists in the field concerned. These papers are generally 
+available in the original English or French, with a summary in the other language. Comments on this paper would be welcome and should be sent to the OECD 
+Development Centre, 2 rue André Pascal, 75775 PARIS CEDEX 16, France; or to 
+dev.contact@oecd.org. Documents may be downloaded from: http://www.oecd.org/dev/wp or 
+obtained via e-mail (dev.contact@oecd.org). THE OPINIONS EXPRESSED AND ARGUMENTS EMPLOYED IN THIS DOCUMENT ARE THE SOLE RESPONSIBILITY OF THE AUTHORS 
+AND DO NOT NECESSARILY REFLECT THOSE OF THE OECD OR OF THE GOVERNMENTS OF ITS MEMBER COUNTRIES ©OECD (2009) 
+Applications for permission to reproduce or translate all or part of this document should be sent to 
+rights@oecd.org CENTRE DE DÉVELOPPEMENT 
+DOCUMENTS DE TRAVAIL Cette série de documents de travail a pour but de diffuser rapidement auprès des 
+spécialistes dans les domaines concernés les résultats des travaux de recherche du Centre de 
+développement. Ces documents ne sont disponibles que dans leur langue originale, anglais ou 
+français ; un résumé du document est rédigé dans l'autre langue. Tout commentaire relatif à ce document peut être adressé au Centre de développement 
+de l'OCDE, 2 rue André Pascal, 75775 PARIS CEDEX 16, France; ou à dev.contact@oecd.org. Les 
+documents peuvent être téléchargés à partir de: http://www.oecd.org/dev/wp ou obtenus via le 
+mél (dev.contact@oecd.org). LES IDÉES EXPRIMÉES ET LES ARGUMENTS AVANCÉS DANS CE DOCUMENT SONT CEUX DES AUTEURS ET NE REFLÈTENT PAS NÉCESSAIREMENT CEUX DE L'OCDE OU DES GOUVERNEMENTS DE SES PAYS MEMBRES ©OCDE (2009) 
+Les demandes d'autorisation de reproduction ou de traduction de tout ou partie de ce document devront 
+être envoyées à rights@oecd.org OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 3 TABLE OF CONTENTS ACKNOWLEDGEMENTS ........................................................................................................................... 4 PREFACE ....................................................................................................................................................... 5 RÉSUMÉ ......................................................................................................................................................... 6 ABSTRACT .................................................................................................................................................... 7 I. INTRODUCTION ...................................................................................................................................... 8 II. REVIEW OF THE LITERATURE ......................................................................................................... 12 III. EMPIRICAL MODEL ........................................................................................................................... 14 IV. CONCLUSION ...................................................................................................................................... 32 ANNEXES .................................................................................................................................................... 33 REFERENCES .............................................................................................................................................. 46 OTHER TITLES IN THE SERIES/ AUTRES TITRES DANS LA SÉRIE ............................................... 48 Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 4 © OECD 2009 ACKNOWLEDGEMENTS We are indebted to Sara Bertin, Pascaline della Faille, Kiichiro Fukasaku, Guillaume 
+Grosso, David Khoudour-Castéras, Juan de Laiglesia, Dilip Ratha, Helmut Reisen, Ji-Yeun Rim, 
+Javier Santiso and the LEO (Latin American Economic Outlook) team of the OECD Development 
+Centre for helpful comments and discussions. All errors are those of the authors. Rolando Avendaño is Research Associate at OECD Development Centre. E-mail: 
+Rolando.AVENDANO@oecd.org. Norbert Gaillard is Consultant at the World Bank and Post-
+doctoral fellow at Sciences Po Paris. E-mail: Norbert.Gaillard@sciences-po.org. Sebastián Nieto-
+Parra is Economist at OECD Development Centre. E-mail: Sebastian.NIETOPARRA@oecd.org. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 5 PREFACE This research deals with two key issues for many emerging countries: sovereign 
+ratings provided by OECD-based firms and remittance flows. Previous upsurge episodes 
+in remittance flows have underlined the interactions between sovereign ratings and 
+remittances. Today, in a context of shrinking world GDP growth, remittances are also 
+affecting ratings in emerging economies. In May 2009, Standard & Poor's lowered El 
+Salvador's credit rating, underlining the country's poor performance in consumption, 
+investment and exports, as well as the significant drop in remittances. In the same line, 
+Moody's Investor Service explained that the Philippines's economic slowdown was due 
+to the decline in remittances, which account for more than 10 per cent of domestic output 
+and are a major driver of consumption. This work assesses the influence of workers' 
+remittances for rating agencies, with special focus on Latin America. Besides, it proposes 
+a methodology for assigning ratings to unrated and remittance-dependent countries. This research has several policy implications. First, remittance flows may have an 
+influence on low and middle income countries in Central America and the Caribbean, 
+therefore affecting their access to capital markets. Second, their impact depends more on 
+the reduction of the volatility of external flows than on the improvement of the solvency 
+ratio (debt over exports and remittances). Third, other risk indicators such as the 
+reduction of debt service or the lowering of the foreign currency debt are more relevant 
+to explain ratings in the region. Finally, this paper provides sovereign ratings for a group 
+of countries not covered by rating agencies (i.e. shadow ratings). With this aim, some 
+public-private ventures have been set up in the past. However, other types of 
+partnerships can also be envisaged at the inter-governmental level, involving public 
+officials with an interest in these regions. For instance, public donors from both OECD 
+and non-OECD countries, may be interested to deploy an initiative for sovereign rating's 
+coverage, as a way to enhance countries' financial visibility and encourage cooperation. This study is a background paper for the upcoming Latin American Economic 
+Outlook 2010, focused on migration and development in Latin America, providing 
+technical support for the chapter on Remittances and the Capital Markets in Latin America. Javier Santiso Director, OECD Development Centre Septembre 2009 Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 6 © OECD 2009 RÉSUMÉ Les fonds que les travailleurs immigrés envoient dans leur pays d'origine constituent une 
+source de financement majeure pour les pays en développement. En plus de leur impact 
+microéconomique sur les ménages, ces transferts financiers sont devenus un facteur important 
+de stabilité macroéconomique, contribuant à réduire la volatilité des flux de capitaux et le risque 
+de dégradation de la balance des comptes courants, renforçant ainsi la solvabilité. A partir d'une 
+étude portant sur 83 pays en développement et couvrant la période 1993-2006, nous analysons 
+l'impact de ces transferts financiers sur la notation souveraine. D'abord, nous considérons les 
+déterminants traditionnels des ratings souverains et déterminons dans quelle mesure ces envois 
+de fonds sont pris en compte. Ensuite, nous construisons un modèle pour les pays qui sont les 
+premiers récipiendaires de ces transferts afin de mesurer leur effet potentiel sur les notes des 
+trois grandes agences, Fitch, Moody's et S&P. Finalement, nous attribuons des ratings aux pays 
+latino-américains non notés pour lesquels ces transferts financiers sont élevés. Nous concluons 
+que les agences de notation tiennent compte de ces transferts dans leur appréciation du risque 
+souverain pour un petit nombre de pays; les États en question étant généralement de petite taille 
+et ayant un niveau de revenus faible ou intermédiaire. Ces résultats nous permettent enfin de 
+tirer toute une série de recommandations d'ordre politique pour améliorer la couverture des 
+ratings. Mots clés: envois de fonds des travailleurs, notations souveraines, marchés de capitaux 
+émergents, risque souverain. Classification JEL: F3, F24, G24, O11. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 7 ABSTRACT Remittance flows are an important source of financing for developing countries. In 
+addition to the microeconomic impact at the household level, remittances have grown into an 
+important pillar of macroeconomic stability, reducing volatility of external flows, lessening the 
+probability of current account reversals, thus strengthening creditworthiness. By studying 83 
+developing countries covering the period 1993-2006, we analyse the impact of workers' 
+remittances on sovereign rating assessment. First, we look at the traditional determinants of 
+sovereign ratings and assess to what extent remittances are taken into account. Second, we build 
+a model for high-remittance receptors to capture the potential effect that remittances may have 
+on Fitch, Moody's and S&P ratings. Third, we assign ratings to unrated Latin American countries 
+for which remittance flows are generally high. Our conclusion supports the view that credit 
+rating agencies (CRAs) do take remittance flows into account to rate sovereigns. Nevertheless, 
+this variable turns out to be significant for a limited set of countries, small in size and classified in 
+the low and middle income categories. We derive policy implications and recommendations 
+from our findings for boosting rating coverage. Keywords: remittances, sovereign ratings, emerging and developing capital markets, 
+sovereign risk. 
+JEL Classification: F3, F24, G24, O11. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 8 © OECD 2009 I. INTRODUCTION Research on the access of sovereigns to international capital markets suggests that 
+sovereign creditworthiness could be improved by including remittance flows in key 
+indebtedness indicators, such as debt-to-exports and debt service to current account ratios. These 
+have been identified in the literature as common determinants of sovereign ratings (Ratha, 2005; 
+World Bank, 2006). Two series of surveys at the crossroads of the literature on sovereign ratings and 
+remittance flows are worth mentioning. First, Ratha et al. (2007) define a standard ratings model 
+and find that a number of unrated countries would be likely to have higher ratings than 
+expected, notably on account of foreign currency inflows such as remittances. According to 
+Ratha (2005),  " country credit ratings by major international rating agencies often fail to account 
+for remittances " . Second, rating agencies note in their country studies that remittances matter to 
+determine ratings for countries in which this flow is considerable. At a time when economic 
+growth was still high, Fitch – Fitch Ratings -(2008b) underlined that remittance flows could 
+positively impact ratings (e.g. El Salvador). Fitch comments are consistent with its sovereign 
+methodology that  " takes into account the volatility and potential vulnerability of receipts, such 
+as remittances, to domestic and external shocks "  (Fitch 2007). In its outlook for Mexico, S&P -
+Standard and Poor's -(2005) stressed remittances' importance as an income source for the 
+balance of payments, and their impact on other determinants of sovereign ratings, such as public 
+finances. More recently, in May 2009, S&P lowered El Salvador's credit rating to  " BB "  from 
+ " BB+ " , stating that  " the weak performance in 2009 is due to falling consumption, investments, 
+and exports as a result of a significant pass-through from the global recession "  and that 
+ " remittances from the United States fell by 8 per cent in the first two months of the year " . 1 In the 
+same way, in February 2009, Moody's – Moody's Investors Service -highlighted that, for a 
+country like the Philippines, a slower economic growth for 2009 would also be explained by a 
+decline in remittances, which account for more than 10 per cent of domestic output and are a 
+major driver of consumption. 2 Despite these stylised facts, little research has been devoted to analyse the impact that 
+remittances have on sovereign ratings assigned by CRAs. Our paper attempts to address this 
+issue by building a rating model over a long time span (1993-2006), and estimating the ratings of 
+the three main CRAs for a sample of 83 emerging countries. This study aims at answering four 
+key questions: how can we capture the effect of remittances on ratings? Do rating agencies really 
+take remittances fully into account in their analyses? What is the potential effect of remittances 1  " S&P lowers El Salvador rating to 'BB' from 'BB+' " , Reuters, May 12, 2009 (online article). 
+2  " Moody's: Slowing remittances hurt RP " , Manila Bulletin, February 14, 2009 (online article). OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 9 when included in market variable estimations? And finally, what is the  " shadow rating "  for 
+unrated countries highly dependent on remittances? With this purpose, it is crucial to understand why CRAs should take remittances into 
+consideration when assigning ratings. Although the effects of workers' remittances at the macro 
+and the micro level have been largely studied (see World Bank, 2006 for a review of the 
+literature), the evidence of the implications for capital markets actors and market sentiment is 
+still scarce. This issue is crucial given the importance of remittance flows towards the developing 
+world. The central empirical analysis of this paper makes a focus on Latin America, where 
+remittances reach high levels both in absolute values (e.g., Mexico, Brazil, Colombia, Guatemala, 
+El Salvador, Dominican Republic, Ecuador) and with respect to the size of the economies (e.g., 
+Guyana, Honduras, Haiti, Jamaica, El Salvador). Nevertheless, differences among countries in 
+the region remain important. Figure 1 shows that remittances are prominent for Central 
+American and Caribbean countries. Figure 1. Remittances in Latin America – 2007 0.0 
+5.0 
+10.0 
+15.0 
+20.0 
+25.0 
+30.0 
+35.0 
+40.0 
+45.0 Chile Venezuela Argentina Brazil Uruguay Trinidad and Tobago Panama Peru Colombia Costa Rica Mexico Paraguay Belize Bolivia Ecuador Dominican Republic Guatemala Nicaragua Jamaica El Salvador Haiti Honduras Guyana Workers' Remittances as % of GDP Share in Total Remittances to Latin America (%) Source: Authors calculation, based on Global Development Finance, 2009. In order to capture the effects of remittances, we have to focus on the country's Balance 
+of Payments, which is part of any government's financial strength (see Moody's 2008b for the 
+importance of balance of payment considerations in determining ratings). First, we analyse a 
+common channel to measure the importance of remittances in sovereign risk assessment (Ratha 
+2005, World Bank 2006). We wonder to what extent remittances can contribute to improve 
+sovereign ratings when they are included in a traditional solvency ratio (i.e. the debt to exports 
+of goods and services ratio). Second, we introduce the volatility of external flows (FDI flows, 
+Portfolio flows, ODA, Bank loans, Exports and Remittances) as additional variable explaining 
+sovereign ratings. These flows are particularly important for Latin America, where saving rates Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 10 © OECD 2009 are low and dependence on external financing is high. Our results show that remittances can 
+reduce volatility of external flows owing to their stability (when compared to other flows) and 
+their low correlation with other external flows. Figure 2 exhibits the volatility of major external 
+flows to Latin American countries over the period 1992-2007. 3 Figure 2. Volatility of External Flows Over GDP in Latin America (1992-2007) 0 0.05 0.1 0.15 0.2 0.25 0.3 Remittances 
+FDI Inward 
+Portfolio Inward 
+ODA 
+Exports Notes: 
+a) Volatility is calculated as the average of the variance of each flow over GDP. Similar results are obtained by 
+calculating the Volatility of external flows from the de-trended flows as a ratio of GDP, using the Hodrick-Prescott 
+filter to remove trends. 
+b) The Latin American and Caribbean countries included are: Argentina, Bolivia, Brazil, Chile, Colombia, Costa 
+Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Haiti, Honduras, Jamaica, Mexico, Nicaragua, 
+Panama, Paraguay, Peru, Uruguay and Venezuela. Source: Authors based on World Bank and OECD data. Migrants' remittances are considered a stable source of financing compared with other 
+financial flows (Ratha 2004).4 Remittances, in the same way as foreign investment or exports, are 
+important items in the balance of payments, contributing to mitigate credit risk at the country 
+level. More precisely, remittances strengthen financial stability by reducing the probability of 
+current account reversals (Bugamelli and Paterno, 2005). This, in turn, can be related to the 
+probability of default studied in country risk models. In the same way, remittances can have a 
+countercyclical effect in most countries of the region, thus significantly reducing growth 
+volatility (Fajnzylber and Lopez 2007).5 Of course, as pointed by the report Close to Home, the 3 Figures 3a and 3b (section III) disclose volatility of inward external flows with and without workers' 
+remittances for Latin American countries. 
+4 See Esteves and Khoudour-Castéras (2009) for similar findings regarding the late 19th century. 
+5 However, as pointed out elsewhere, migrant-based income can become costly to emerging countries 
+when resources are mismanaged. Remittances may reduce the government's incentive to maintain 
+fiscal policy discipline (Chami et al., 2008). Moreover, this dependence raises a moral hazard problem OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 11 comprehensive World Bank study on Latin America, remittances are an engine for development, 
+but they are neither  " manna from heaven "  nor a substitute for sound development policies. The remainder of this article is organised as follows. In section II, we provide a review of 
+the literature on sovereign ratings and in particular on the relevance of sovereign ratings for 
+emerging economies as well as the determinants of these ratings. Section III presents the most 
+important stylised facts and analyses the results of the econometric model. In particular, this 
+section emphasizes the impact of remittance flows on ratings. We also provide an empirical 
+analysis for countries with a high share of remittances (as a percentage of GDP). Finally, section 
+IV provides concluding remarks and sketches the major policy implications that follow from this 
+research. by reducing the political will to implement reforms and pushing real exchange appreciation. These 
+findings are consistent with Amuedo-Dorantes and Pozo (2004) who relate higher remittance flows to 
+the reduction of the receiving country's competitiveness. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 12 © OECD 2009 II. REVIEW OF THE LITERATURE Two dimensions are related to the analysis of rating agencies. The first considers the 
+impact of ratings on capital markets. The second, where a vast and relevant literature exists, 
+studies the determinants of ratings. Focusing on the impact on capital markets, Kaminsky and Schmukler (2001) find that 
+downgrades and upgrades have an impact on country risk and stock returns: these rating 
+changes are transmitted across countries, with neighbour-country effects being more significant. 
+They conclude that rating agencies may contribute to heighten financial instability. The study of 
+sovereign risk assessment has mainly focused on comparing ratings to market spreads. For the 
+period 1987-1994, Cantor and Packer (1996) find a greater impact on spreads from a rating 
+change in the case of Moody's or if it is related to speculative-grade countries. Reisen and Von 
+Maltzan (1999) show that, during the period 1989-1997, Fitch, Moody's and S&P downgrades 
+have a significant impact on spreads, contrary to upgrades, which were anticipated by the 
+market. For them, sovereign ratings have the potential to moderate euphoria among investors on 
+emerging markets but rating agencies failed to exploit that potential in the 1990s. Sy (2001) 
+highlights the strong negative relationship between ratings and EMBI+ spreads declines during 
+periods of high risk aversion (e.g., 1997-1998). Mora (2006) examines Moody's and S&P ratings 
+and concludes that the procyclicality of ratings is not ascertained when considering the post 
+Asian crisis years. Analysing sovereign ratings issued by the three agencies for 1993-2007, 
+Gaillard (2009) finds that the procyclicality of ratings was much sharper during periods of high 
+risk aversion (1997-1998 in particular) than periods of low risk aversion (2005-2007). He also 
+highlights the greater stability of Moody's ratings. In a different way, Cavallo, Powell and 
+Rigobon (2008) develop a simple Hausman specification test and find that there is some 
+informational content in sovereign ratings that is not completely captured by market spreads. 
+Additional tests reinforce their conclusion that ratings matter. Lastly, going beyond the 
+traditional  " ratings vs. spreads "  view, Roubini and Manasse (2005) present an original sovereign 
+risk assessment methodology by using a binary recursive tree. With this approach, they discuss 
+appropriate policy options to prevent crises. A key result that follows from this research is that 
+ratings do matter and they are an important piece to understand the behaviour of capital 
+markets. The literature focusing on sovereign ratings methodology has expanded since the mid 
+1990s. Cantor and Packer (1996) identify five variables that may explain S&P and Moody's 
+sovereign ratings: per capita income, inflation, external debt ratio, the indicator for economic 
+development and the default history. Jüttner and McCarthy (2000) show that Cantor and 
+Packer's model becomes less accurate after the Asian crisis. They suggest that the determinants 
+of 1998 ratings are the current account balance, the indicators for economic development and OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 13 default history, the interest rate differential vis-à-vis the USD, and the range of problematic 
+assets. Nevertheless, several follow-up studies corroborate Cantor and Packer's results. For 
+Afonso (2003), the most significant variables for 2002 ratings (per capita income, inflation, 
+indicators for economic development and default history) are already determinants for Cantor 
+and Packer. Moody's own study (Moody's, 2004) produces a similar finding: two of their four 
+explanatory variables (per capita GDP and external debt) are the same as Cantor and Packer's. 
+Moody's main finding is the incorporation of a political variable that significantly improves the 
+model. For Rowland (2005), the level of international reserves as a share of GDP, and the 
+openness of the economy are additional relevant determinants. Sutton's (2005) findings are 
+consistent with previous papers. He also considers the maturity structure of international 
+banking claims against both private and public sector entities in the country as a significant 
+variable. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 14 © OECD 2009 III. EMPIRICAL MODEL III.1. Data Description As noted in the previous section, the literature on sovereign ratings is extensive. We have 
+tried to focus on the most representative work to identify the variables considered by agencies 
+when assigning a rating to public borrowers. The traditional approach in the literature has 
+consisted in regressing the dependent variable (i.e. sovereign rating) on a series of 
+macroeconomic and institutional indicators. Table 1 summarizes the period and variables used by Cantor and Packer (1996), Rowland 
+and Torres (2004), Sutton (2005) and Mora (2006) to analyse the determinants of sovereign 
+ratings. All these articles study as a determinant of sovereign ratings the solvency ratio (i.e. 
+external debt over exports), a key variable in our analysis. Whereas Cantor and Packer's and 
+Sutton's analyses are based on a cross-country study, Rowland and Torres and Mora use panel 
+data to estimate rating determinants. Most of these studies use one or more of the available 
+ratings published by the three main rating agencies, Standard and Poor's, Moody's and Fitch. 
+Table 1 also contains our preferred model that summarizes our analysis of previous rating 
+models. Table 1. Summary of Models and Variables Year 
+Period 
+Sovereign Rating 
+Institutional rating GDP per capita 
+GDP growth 
+Inflation 
+Fiscal balance 
+Fiscal Balance/GDP 
+External balance 
+External Debt/GDP 
+External Debt / Exports Debt Service/GDP 
+Reserves 
+Reserves/GDP Current Account Balance 
+Current Account Balance/GDP 
+Ratios short-term bank/Total claims 
+Volatility External Flows 
+EMBI Dynamic 
+Default variable (diff. for each model 
+Indicator OECD 
+Corrruption Index Dummy European Union 
+Spread (lag) Cantor and Packer 
+1996 
+1995 @BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET Rowland and Torres 
+2004 
+1987-2001 @BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET Sutton 
+2005 
+2004 @BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET Mora 
+2006 
+1986-2001 @BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET Our model 
+2009 
+1993-2006 @BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET 
+@BULLET Dependent 
+Variable 
+Independent Variables Source: Authors based on Cantor and Packer (1996), Rowland and Torres (2004), Sutton (2005) and Mora (2006). OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 15 The results presented in Table 1 are straightforward. Sovereign ratings are associated to a 
+country's fundamentals and, in contrast with sovereign spreads (e.g., Eichengreen and Mody, 
+2000), only domestic factors are analysed. More precisely, macroeconomic conditions (e.g., 
+inflation rate, GDP growth), solvency ratios (e.g., external debt over exports, external debt 
+service over GDP) and structural aspects (e.g. GDP per capita, economic development) are 
+employed as determinants of sovereign ratings. 6 In this paper we use data on annual ratings from the three main rating agencies: Standard 
+and Poor's, Moody's and Fitch. The covered period is 1993-2006, the frequency is annual and the 
+initial sample includes 83 rated countries (excluding High Income countries according to World 
+Bank's definition). Ratings are transformed linearly (Table 2). Table 2. Linear Transformation of Ratings S&P 
+Moody's 
+Fitch 
+Linear transformation 
+AAA 
+Aaa 
+AAA 
+21 
+AA+ 
+Aa1 
+AA+ 
+20 
+AA 
+Aa2 
+AA 
+19 
+AA-
+Aa3 
+AA-
+18 
+A+ 
+A1 
+A+ 
+17 
+A 
+A2 
+A 
+16 
+A-
+A3 
+A-
+15 
+BBB+ 
+Baa1 
+BBB+ 
+14 
+BBB 
+Baa2 
+BBB 
+13 
+BBB-
+Baa3 
+BBB-
+12 
+BB+ 
+Ba1 
+BB+ 
+11 
+BB 
+Ba2 
+BB 
+10 
+BB-
+Ba3 
+BB-
+9 
+B+ 
+B1 
+B+ 
+8 
+B 
+B2 
+B 
+7 
+B-
+B3 
+B-
+6 
+CCC+ 
+Caa1 
+CCC+ 
+5 
+CCC 
+Caa2 
+CCC 
+4 
+CCC-
+Caa3 
+CCC-
+3 
+CC & C 
+Ca 
+CC & C 
+2 
+SD & D 
+C 
+DDD, DD & D 
+1 Source: Authors, based on previous linear transformations (see Cantor and Packer 1996 and Gaillard 2009). Ferri et al. 
+(1999) used both a linear and a nonlinear transformation of ratings. Their nonlinear transformation was based on 
+secondary market interest rate spreads. Such a transformation is impossible for our sample, due to the lack of data for 
+several countries. 6 Interestingly, the exchange rate is not directly studied in the standard models of sovereign ratings. However, balance 
+of payments' variables (which affect the exchange rate) are studied as determinants of sovereign ratings. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 16 © OECD 2009 Macroeconomic data come from the World Development Indicators and the International 
+Financial Statistics. The source of national debt data is the Global Development Finance (World 
+Bank). Table 3 provides a résumé of the main macroeconomic variables used across the different 
+rating models. In particular, exports data come from the Global Development Finance (GDF) and 
+workers´remittancesworkers´remittances figures come from the International Financial Statistics (IFS). 7 7 
+Data on exports from the Global Development Finance also include total workers' remittances 
+registered in the Balance of Payments. The GDF defines Exports of Goods, Services and Income (XGS) as 
+the total value of goods and services exported, and receipts of compensation of employees, and 
+investment income. In order to calculate our solvency ratio we first exclude workers' remittances and 
+compensation of employees from the XGS variable (solvency ratio without remittances) and then we 
+include workers' remittances (from the IFS) in the denominator of the solvency ratio (solvency ratio 
+with remittances). Workers' remittances, a transfer and not an income entry in the balance of 
+payments, are treated as compensation of employees in Global Development Finance because they are 
+often uneasy to distinguish from compensation of non-resident workers and migrants. We therefore 
+have usually workers' remittances and compensation of employees contained in the Export series. 
+Workers' remittances and compensation of employees comprise current transfers by migrant workers, 
+wages and salaries earned by non-resident workers. In addition, migrants' transfers, a part of capital 
+transfers, are treated as workers' remittances in Global Development Finance. We therefore restrict 
+our analysis to the series of  " workers remittances " , and exclude compensation of employees and 
+migrants' transfers (as estimated by GDF database). OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 17 Table 3. Descriptive Statistics for Variables (1993-2006) Variables 
+Obs 
+Mean 
+Std. Dev. GDP (current US$) 
+1661 
+7.13E+10 
+2.01E+11 
+GDP (constant 2000 US$) 
+1655 
+6.62E+10 
+1.73E+11 
+GDP growth (annual %) 
+1649 
+3.777404 
+6.394133 
+GDP per capita (constant 2000 US$) 
+1655 
+1904.606 
+1673.767 
+GDP per capita, PPP (current international $) 
+1636 
+4154.623 
+3159.793 
+Inflation, consumer prices (annual %) 
+1475 
+52.26535 
+337.7307 
+Inflation, GDP deflator (annual %) 
+1642 
+86.95552 
+642.4122 
+Consumer price index (2000 = 100) 
+1497 
+87.18809 
+54.11652 
+Real effective exchange rate index (2000 = 100) 
+772 
+4489.065 
+121757.5 
+Official exchange rate (LCU per US$, period average) 
+1590 
+503.812 
+1759.692 
+Changes in net reserves (BoP, current US$) 
+1441 
+-1.85E+09 
+1.26E+10 
+Current account balance (% of GDP) 
+1437 
+-3.532393 
+-7.884468 
+Current account balance (BoP, current US$) 
+1441 
+2.39E+08 
+1.05E+10 
+Exports of goods and services (BoP, current US$) 
+1441 
+1.95E+10 
+5.54E+10 
+Exports of goods, services and income (BoP, current US$) 
+1441 
+2.05E+10 
+5.80E+10 
+Foreign direct investment, net (BoP, current US$) 
+1419 
+1.50E+09 
+5.16E+09 
+Foreign direct investment, net inflows (% of GDP) 
+1463 
+3.352745 
+10.4849 
+Imports of goods and services (BoP, current US$) 
+1441 
+1.89E+10 
+4.85E+10 
+Imports of goods, services and income (BoP, current US$) 
+1441 
+2.14E+10 
+5.26E+10 
+Total reserves (% of external debt) 
+1408 
+46.78096 
+125.9236 
+Total reserves (includes gold, current US$) 
+1545 
+1.13E+10 
+6.08E+10 
+Total reserves in months of imports 
+1412 
+3.935548 
+3.113531 
+Total reserves minus gold (current US$) 
+1545 
+1.07E+10 
+6.00E+10 
+Workers' remittances, receipts (BoP, current US$) 
+1076 
+1.03E+09 
+2.37E+09 
+Net capital account (BoP, current US$) 
+1073 
+8.98E+07 
+9.64E+08 
+Bank capital to assets ratio (%) 
+391 
+10.40614 
+3.903248 
+Bank nonperfoming loans to total gross loans (%) 
+422 
+10.42891 
+8.365045 
+Risk premium on lending (%) 
+562 
+8.088065 
+14.34093 
+S&P/EMDB indexes (annual % change) 
+425 
+18.53672 
+47.35008 
+Export quantum/quantity index (2000 = 100) 
+1179 
+94.06167 
+51.80754 
+Import value index (2000 = 100) 
+1284 
+95.04032 
+48.91408 
+Gross National Product 
+1483 
+6.84E+10 
+1.81E+11 
+Ratings Fitchs 
+485 
+9.735547 
+3.015993 
+Ratings Moodys 
+603 
+9.972587 
+3.324188 
+Ratings Standard and Poors 
+614 
+9.74107 
+2.983933 
+Fiscal Budget 
+858 
+-2.447704 
+4.318253 
+Workers Remittances 
+1076 
+1.03E+09 
+2.37E+09 
+Workers Remittances / GDP 
+1072 
+0.0369062 
+0.0476944 
+Volatility of GDP Growth 
+1378 
+3.486176 
+4.01902 
+Volatility of External flows (incl. remittances) 
+1150 
+0.0049457 
+0.0309158 
+Volatility of External flows (excl. remittances) 
+1150 
+0.0050462 
+0.030922 
+Solvency Ratio (Debt / Exports) 
+1261 
+240.9641 
+321.0831 
+Solvency Ratio (Debt / Exports) excl. remittances 
+1340 
+247.5379 
+319.7211 Sources: Global Development Finance, World Development Indicators, International Financial Statistics, 2009; Fitch 
+(2009), Moody's (2009), S&P (2009). III.2. Testing Previous Models for Sovereign Ratings: The Effect of Remittances We first test the four representative models proposed in the literature. This research has 
+used the solvency ratio (i.e. total external debt-to-exports ratio) as a significant and key variable Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 18 © OECD 2009 to explain sovereign ratings. We intend to identify the most relevant determinants of ratings. In 
+contrast to previous studies, our sample includes a large number of countries and covers a 14-
+year period. We run OLS and fixed-effect panel data regressions, using the sovereign rating of 
+the three rating agencies as the dependent variable. 8 Moreover, we are interested in analysing the impact of remittances on rating agencies. As 
+presented, remittance flows can be shock absorbers for the economy and play a role in reducing 
+the country's vulnerability. More generally, remittances can improve creditworthiness and 
+thereby facilitate access to international capital markets. We introduce remittances in the solvency ratio's denominator to capture the entire effect 
+of the current account incomes, as our second core variable (i.e. volatility of external flows) is not 
+studied in the literature. These revenues in the balance of payments may serve as a cushion 
+against external shocks and then reduce the risk of default on external debt. In fact, since we are 
+interested in the country's capacity to pay the entire total external debt (private and public), it is 
+relevant to include remittances in this ratio, to capture total incomes received by nationals in the 
+balance of payments. Annex 1 exhibits the evolution of our solvency ratio for Latin American and Caribbean 
+countries, where the relative impact of remittances in debt indicators remains heterogeneous. In 
+general, the effect of remittances is higher in Central American and Caribbean countries (e.g., 
+Dominican Republic, El Salvador, Guatemala, and Jamaica) than in other countries of the region 
+(e.g. Argentina, Brazil, Chile, Peru, and Venezuela). Following the literature review, we opt for testing our hypothesis on a group of models 
+on sovereign ratings. Annex 2 summarises results of four representative models (Cantor and 
+Packer, 1996; Rowland and Torres, 2004; Sutton, 2005; Mora, 2006), for the three agencies over the 
+period 1993-2006. To quantify the impact of remittances on sovereign ratings, we test these 
+standard models for ratings by excluding/including the flow of remittances in the external debt 
+to exports ratio. More precisely, we use both ratios, total debt over exports of goods and services, 
+and workers' remittances (TDX ) and total debt over exports of goods and services ( wr 
+TDX _ ). Results in Annex 2 show that, for most models, the ratio debt over exports (with or 
+without remittances) is negative and significant for the three agencies. 9 Indeed, it is a key and 
+relevant variable explaining sovereign ratings. For instance, taking Cantor and Packer (1996) 
+model, columns 1 to 6 in Annex 2a show that the foreign currency debt to exports ratio is 
+statistically significant at 1 per cent and negatively correlated with sovereign ratings. In addition to this ratio, other variables are crucial to explain ratings: GDP per capita, 
+inflation rate, the historical default and the institutional stability (see Cantor and Packer, 1996; 
+and Moody's, 2004). Finally, when comparing the impact of including and excluding remittances 
+on the ratio debt over exports, the value of the coefficient is almost the same for both cases (in 
+absolute terms), for all rating models studied. These results suggest that the impact of workers' remittances on CRAs' sovereign 
+methodologies is small. Indeed, an inclusion of remittances implies a reduction of the solvency 8 OLS estimations are not reported but can be provided upon request. 
+9 The exception is the estimation of Fitch ratings by Mora (2006). OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 19 ratio and consequently a higher coefficient (in absolute value) can then compensate for the 
+ " remittances effect "  in the sovereign rating. This finding is explained empirically for our general 
+model. III.3. Proposing a General Model and Testing Effect from Remittances Traditional models on the determinants of ratings include a solvency indicator, such as 
+the debt to exports ratio. By introducing remittance flows (as suggested by Ratha, 2005), we have 
+tested if they play a role in reducing external vulnerabilities. In addition, we introduce a 
+consistent explanatory variable for sovereign ratings in which remittances can play a crucial role: 
+the volatility of external flows. As specified above, when compared to other external flows (i.e. exports, portfolio flows, 
+FDI flows, ODA), remittances display a much lower volatility and lower correlation to these 
+flows; they can act as a cushion vis-à-vis capital flights. We assess the volatility of external flows 
+as a second channel through which remittance flows are likely to affect sovereign ratings. Our 
+hypothesis is that remittances can reduce the total volatility of inward external flows, which is 
+itself a powerful explanatory variable for sovereign ratings. We use the variance as a measure of external flows volatility. We decompose the variance 
+of inward external flows as follows: ( ) ∑ 
+∑ = 
+≠ + 
+⋅ 
+= N i N j 
+i t 
+j 
+t 
+i 
+t 
+j 
+t 
+i 
+t 
+i 
+t 
+i 
+t X 
+X 
+Cov 
+w 
+w 
+X 
+Var 
+w 
+flows 
+external 
+Var 1 , 
+, 
+, 
+, 
+, 2 
+, 
+, ) 
+, 
+( 
+2 
+) 
+( 
+_ α where t flows 
+external 
+Var , ) 
+_ 
+( α corresponds to the variance of inward external flows of country α at time t, t i w , is the weight of the external flow i with respect to the total external flows in country α , ) 
+( ,t i X 
+Var is the variance of the external flow i as a share of GDP between t-4 and t, ) 
+, 
+( , 
+, 
+t 
+j 
+t 
+i X 
+X 
+Cov is the covariance between the external flows over GDP i and j and from t-4 to t. Figures 3a and 3b present the volatility of external flows by including and excluding 
+remittances (see Annex 3 for the evolution of the volatility of external flows for Latin American 
+countries during 1993-2007). There is a considerable reduction of external flows volatility for 
+some South and Central American countries with high levels of remittances over GDP (i.e. El 
+Salvador, Guatemala, Dominican Republic, Ecuador, Honduras and Colombia). Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 20 © OECD 2009 Figure 3a. Average Volatility of External Flows With and Without Workers' Remittances 
+(Average 1993-2007) Source: Authors' calculation, based on Global Development Finance and International Financial Statistics, 2009. Figure 3b. Percent Change on Volatility Excluding Remittances 
+(Average 1993-2007) 0 10 20 30 40 50 60 70 80 90 100 El Salvador 
+Guatemala 
+Dominican 
+Republic 
+Ecuador 
+Honduras 
+Colombia 
+Bolivia 
+Peru 
+Nicaragua 
+Mexico 
+Paraguay Costa Rica 
+Brazil 
+Uruguay 
+Argentina 
+Venezuela 
+Chile Source: Authors' calculation, based on Global Development Finance and International Financial Statistics, 2009. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 21 Considering the results from the four standard models and our new volatility indicator 
+presented above, we propose the following model for our analysis (we name it General Model): t 
+i 
+t 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i t 
+i 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i EMBI 
+indicator 
+Volat 
+serves 
+Default TDX 
+CA 
+budg 
+Fisc 
+Inflat 
+growth 
+GDP 
+pc 
+P 
+GD 
+Rating , 
+, 
+10 
+, 
+9 
+, 
+8 
+, 
+7 , 
+6 
+, 
+5 
+, 
+4 
+, 
+3 
+, 
+2 
+1 
+0 
+, _ 
+Re _ 
+_ 
+_ ε 
+τ 
+β 
+β 
+β 
+β β 
+β 
+β 
+β 
+β 
+β 
+β + 
++ 
++ 
++ 
++ 
++ + 
++ 
++ 
++ 
++ 
++ 
+= where t 
+i Rating , corresponds to the transformed rating of country i at time t (see Table 2), pc 
+P 
+GD _ is the GDP per capita in current international dollars, 
+growth 
+GDP _ is the product's growth, Inflat corresponds to annual inflation, 
+budg 
+Fisc _ is the annual balance budget as a share of GDP, CA is the current account position (as a share of GDP), TDX is the ratio of total 
+debt to exports, Default is a dummy variable for countries taking value 1 for countries having experienced a default during the previous 20 years, serves 
+Re is the ratio of reserves to GDP, indicator 
+Volat _ 
+is the external flows volatility, EMBI is a dummy variable for those countries covered by the Bond Index calculated by JP Morgan, t τ is a year fixed effect and t i, ε is an error term. Within this setup, 6 β and 9 
+β measure the elasticity of sovereign ratings with respect to the debt to exports ratio and the external flows volatility respectively, after controlling for all the 
+other factors (GDP, inflation, volatility, etc.). The term t τ is capturing differences in sovereign rating across time not explained by the other determinants. In this model, we are mainly interested in the variables that can be affected by the flow of 
+remittances, particularly the volatility indicator (i.e. the volatility of inward external flows) and 
+the solvency ratio (i.e. the debt to exports ratio). 10 Tables 4a and 4b show the results for our 
+general model and the three rating agencies. We run OLS and fixed-effect panel data regressions, 
+the sovereign rating of the three agencies being the dependent variable and the volatility 
+indicator and the solvency ratio, including and excluding remittances, being two of the many 
+independent variables used. 11 10 As for the case of the models presented above, we build an artificial ratio by subtracting the total 
+amount of Workers' Remittances from the variable Total Exports, and we name it 
+wr 
+TDX _ , this is, the debt to exports ratio excluding workers' remittances. Again, the coefficients for the variable Total 
+Debt/Exports with and without remittances are very similar. By the same, in order to analyse the 
+impact of remittances through the volatility of external flows, we subtract Workers' Remittances to the 
+calculation of the volatility of external flows, and we name it wr 
+indicator 
+Volat 
+_ 
+_ , this is, the volatility of external flows by excluding workers' remittances. A coefficient test shows that they are not 
+significantly different from the previous regression. 
+11 A complementary approach consisted in defining a variable taking the difference between the two 
+solvency ratios and volatilities of external flows, this is:  
+ 
+   
+ 
+  + 
+− 
+ 
+ 
+   
+ 
+  
+= 
+∆ 
+ces 
+remit 
+Exports Debt 
+Exports Debt 
+tan 1 and remit 
+without 
+remit 
+with Volat 
+Volat _ 
+_ 
+2 − 
+= 
+∆ , and test for the significance of these variables in the general model. For the first gap, when including them in the model together with the 
+ratio debt over exports it was significant at 1%, but it becomes non-significant when excluding the 
+ratio. The second gap is not significant in the model at the 5% level (except for Fitch). Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 22 © OECD 2009 Table 4a. General Model – OLS Estimation with time effect (i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+With 
+remittances 
+ME 
+Without 
+Remittances 
+ME 
+With 
+remittances 
+ME 
+Without 
+Remittances 
+ME 
+With 
+remittances 
+ME 
+Without 
+Remittances 
+ME GDP per capital (PPP) 
+0.0004*** 1.64941 0.0004*** 1.64941 0.0005*** 2.06176 0.0004*** 1.64941 0.0004*** 1.64941 0.0004*** 1.64941 [0.0000] 
+[0.0000] 
+[0.0000] 
+[0.0000] 
+[0.0000] 
+[0.0000] 
+GDP growth (annual) 
+0.0294 0.11148 0.0262 0.09935 0.0506* 0.19187 0.0392 0.14864 0.0346 0.1312 0.0299 0.11338 [0.0313] 
+[0.0305] 
+[0.0281] 
+[0.0271] 
+[0.0327] 
+[0.0319] 
+Annual inflation 
+-0.0022** -0.107 -0.0022** -0.107 -0.0007 -0.03405 -0.0008 -0.03891 -0.0023 -0.11187 -0.0024* -0.11673 [0.0010] 
+[0.0010] 
+[0.0007] 
+[0.0007] 
+[0.0014] 
+[0.0014] 
+Fiscal Budget 
+0.0468 -0.11435 0.0277 -0.06768 -0.0969*** 0.23676 -0.0825** 0.20157 -0.0086 0.02101 -0.0155 0.03787 [0.0341] 
+[0.0331] 
+[0.0353] 
+[0.0336] 
+[0.0430] 
+[0.0413] 
+Current Account (% GDP) 
+-0.1896*** 0.67197 -0.1851*** 0.65602 -0.1362*** 0.48271 -0.1545*** 0.54757 -0.1372*** 0.48626 -0.1490*** 0.52808 [0.0227] 
+[0.0215] 
+[0.0213] 
+[0.0201] 
+[0.0226] 
+[0.0214] 
+Solvency Ratio (debt/exports) 
+-0.0101*** -2.22517 -0.0111*** -2.44548 -0.0129*** -2.84205 -0.0130*** -2.86408 -0.0124*** -2.73189 -0.0132*** -2.90814 [0.0013] 
+[0.0013] 
+[0.0014] 
+[0.0012] 
+[0.0017] 
+[0.0015] 
+Default dummy (20 years) 
+-1.7469*** -1.27626 -1.9368*** -1.415 -2.6050*** -1.90318 -2.4498*** -1.78979 -1.8520*** -1.35304 -1.8410*** -1.34501 [0.2625] 
+[0.2499] 
+[0.2691] 
+[0.2501] 
+[0.3246] 
+[0.3058] 
+Reserves Ratio 
+0.0849*** 1.30669 0.0811*** 1.24821 0.0511*** 0.78648 0.0468*** 0.7203 0.0964*** 1.48369 0.0746*** 1.14816 [0.0110] 
+[0.0106] 
+[0.0108] 
+[0.0102] 
+[0.0198] 
+[0.0166] 
+Volatility External Flows 
+-266.4333*** -1.29213 -193.2743*** -0.93733 
+-11.8300* -0.05737 -14.3001** 
+-0.06935 -188.9302*** -0.91626 -157.2313*** -0.76253 
+[53.7073] 
+[42.4545] 
+[7.0292] 
+[6.8833] 
+[61.0493] 
+[46.1474] 
+EMBI dummy 
+0.5312** 0.10882 0.6891*** 0.14117 0.2792 0.0572 0.4602** 0.09428 0.2921 0.05984 0.4524 0.09268 [0.2341] 
+[0.2303] 
+[0.2355] 
+[0.2241] 
+[0.2960] 
+[0.2870] 
+Observations 
+374 
+398 
+361 
+390 
+284 
+305 
+Number of country_id 
+0.575 
+0.597 
+0.599 
+0.632 
+0.535 
+0.547 
+R-squared 
+Standard errors in brackets 
+*** p<0.01, ** p<0.05, * p<0.1 S&P 
+Moodys 
+Fitch Note: M.E. refers to the product between sample mean and the coefficient for each variable. Source: Authors' calculation. Table 4b. General Model – Fixed Effect Estimation with time effect (i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+With 
+remittances 
+ME 
+Without 
+Remittances 
+ME 
+With 
+remittances 
+ME 
+Without 
+Remittances 
+ME 
+With 
+remittances 
+ME 
+Without 
+Remittances 
+ME GDP per capital (PPP) 
+0.0010*** 
+4.1235 
+0.0010*** 
+4.1235 
+0.0012*** 
+4.9482 
+0.0011*** 
+4.5359 
+0.0010*** 
+4.1235 
+0.0010*** 
+4.1235 
+[0.0001] 
+[0.0001] 
+[0.0001] 
+[0.0001] 
+[0.0001] 
+[0.0001] 
+GDP growth (annual) 
+-0.0249 
+-0.0944 
+-0.03 
+-0.1138 
+-0.0540*** 
+-0.2048 
+-0.0536*** 
+-0.2032 
+-0.0126 
+-0.0478 
+-0.0119 
+-0.0451 
+[0.0219] 
+[0.0202] 
+[0.0177] 
+[0.0170] 
+[0.0229] 
+[0.0215] 
+Annual inflation 
+-0.0013** 
+-0.0632 
+-0.0012** 
+-0.0584 
+-0.0003 
+-0.0146 
+-0.0003 
+-0.0146 
+-0.0011 
+-0.0535 
+-0.001 
+-0.0486 
+[0.0006] 
+[0.0006] 
+[0.0004] 
+[0.0004] 
+[0.0008] 
+[0.0008] 
+Fiscal Budget 
+-0.0204 
+0.0498 
+-0.0149 
+0.0364 
+-0.0743*** 
+0.1815 
+-0.0453* 
+0.1107 
+-0.1141** 
+0.2788 
+-0.1288*** 
+0.3147 
+[0.0332] 
+[0.0290] 
+[0.0282] 
+[0.0257] 
+[0.0495] 
+[0.0424] 
+Current Account (% GDP) 
+-0.1330*** 
+0.4714 
+-0.1375*** 
+0.4873 
+-0.1031*** 
+0.3654 
+-0.1140*** 
+0.4040 
+-0.0840*** 
+0.2977 
+-0.0842*** 
+0.2984 
+[0.0208] 
+[0.0178] 
+[0.0176] 
+[0.0154] 
+[0.0187] 
+[0.0178] 
+Solvency Ratio (debt/exports) 
+-0.0121*** 
+-2.6658 
+-0.0111*** 
+-2.4455 
+-0.0084*** 
+-1.8506 
+-0.0072*** 
+-1.5863 
+-0.0056** 
+-1.2338 
+-0.0053*** 
+-1.1677 
+[0.0018] 
+[0.0016] 
+[0.0015] 
+[0.0014] 
+[0.0022] 
+[0.0020] 
+Default dummy (20 years) 
+-1.2455*** 
+-0.9099 
+-1.1585*** 
+-0.8464 
+-0.4639 
+-0.3389 
+-0.3248 
+-0.2373 
+-0.2517 
+-0.1839 
+-0.3075 
+-0.2247 
+[0.4294] 
+[0.4079] 
+[0.3641] 
+[0.3577] 
+[0.6137] 
+[0.5871] 
+Reserves Ratio 
+0.0091 
+0.1401 
+0.0058 
+0.0893 
+0.0335** 
+0.5156 
+0.0249** 
+0.3832 
+-0.0176 
+-0.2709 
+-0.0214 
+-0.3294 
+[0.0167] 
+[0.0144] 
+[0.0139] 
+[0.0127] 
+[0.0270] 
+[0.0234] 
+Volatility External Flows 
+-155.7120*** -0.7552 -131.2598*** -0.6366 
+-7.4536* 
+-0.0361 
+-8.7014** 
+-0.0422 -173.4265*** -0.8411 -115.0774*** -0.5581 
+[37.6048] 
+[28.3887] 
+[3.8138] 
+[3.7647] 
+[42.6915] 
+[32.8760] 
+EMBI dummy 
+0.5923** 
+0.1213 
+0.6037** 
+0.1237 
+0.0683 
+0.0140 
+0.0673 
+0.0138 
+0.4242 
+0.0869 
+0.3523 
+0.0722 
+[0.2979] 
+[0.2595] 
+[0.2509] 
+[0.2442] 
+[0.4211] 
+[0.3655] 
+Observations 
+360 
+398 
+353 
+390 
+273 
+305 
+Number of country_id 
+43 
+47 
+39 
+44 
+41 
+45 
+R-squared 
+0.528 
+0.535 
+0.571 
+0.556 
+0.455 
+0.439 
+Standard errors in brackets 
+*** p<0.01, ** p<0.05, * p<0.1 S&P 
+Moodys 
+Fitch Note: M.E. refers to the product between sample mean and the coefficient for each variable. Source: Authors' calculation. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 23 Results on OLS and Fixed Effect Estimations do not vary considerably. 12 We describe 
+only the results for the fixed effect estimation with time effect. First, we analyse the regressions 
+including remittances in the volatility of external flows as well as in the solvency ratio. Not 
+surprisingly, regressions (i), (iii) and (v) in Table 4b reveal that GDP per capita is positive and 
+significant at the 1 per cent level. GDP growth, on the contrary, is not significant for our sample 
+and is negatively correlated with ratings (the exception being for Moody's). A higher inflation is 
+related to a lower rating but this result is only significant for S&P. The balance budget is negative 
+and significant for Fitch. Although this result could be unexpected, it is not uncommon in the 
+literature (Cantor and Packer 1996, Mora 2006), and revisits the debate on whether current 
+account deficits display strengths or weaknesses the country's economic performance. As stated 
+by Mora (2006), better rated countries are able to run current account deficits and borrow more 
+easily from abroad; therefore a deficit could be seen as a sign of strength (regardless of whether it 
+is because they are rated higher or whether the higher rating is correlated with factors that allow 
+the country to run deficits). Both the debt to exports ratio and the external flows volatility 
+variable are consistently negative and significant for all rating agencies. Indeed, additionally to 
+the standard variable used to explain the impact of remittances on ratings (i.e. the solvency ratio), 
+the new variable (i.e. the volatility indicator) helps to explain ratings. The variable default is 
+negatively correlated to the sovereign rating, as expected, and is significant for S&P. The 
+reserves-to-GDP ratio is positively related to S&P and Moody's ratings, highlighting the 
+increasing role of precautionary reserves for impeding defaults. Regressions (ii), (iv) and (vi) 
+consider the new variables excluding remittances from both the debt to exports ratio and the 
+external flows volatility variable: they show very similar results. III.4. Counterfactual analysis for Latin America – General Model To assess the potential effect that the modified solvency ratio and modified volatility 
+indicator could have on ratings for Latin American countries, we construct a simple 
+counterfactual scenario, looking at the rating evolution when remittance flows are taken into 
+account. We use the observed debt to exports ratio and the counterfactual debt to exports ratio 
+that we estimated for the previous regressions, this is, excluding remittance flows (TDX_wr). By 
+the same token, we use the observed volatility indicator and the counterfactual volatility 
+indicator that we estimated for the previous regressions, this is, excluding remittance flows 
+(volat_indicator_wr). We estimate our initial model with the counterfactual variable: 12 We check for the presence of multicollinearity in the general model by computing the variance inflation factors. The tolerance for all variables included in the model was close to 1, confirming the absence of 
+collinearity between regressors. As a robustness check, we also estimate correlations between fixed effects 
+and country ratings. We find a correlation of 0.25 for S&P, 0.30 for Moody's and 0.24 for Fitch, which is 
+reasonably low. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 24 © OECD 2009 t 
+i 
+t 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i t 
+i 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i EMBI 
+wr 
+indicator 
+Volat 
+serves 
+Default wr 
+TDX 
+CA 
+budg 
+Fisc 
+Inflat 
+growth 
+GDP 
+pc 
+P 
+GD 
+Rating , 
+, 
+10 
+, 
+9 
+, 
+8 
+, 
+7 , 
+6 
+, 
+5 
+, 
+4 
+, 
+3 
+, 
+2 
+1 
+0 
+, _ 
+_ 
+Re _ 
+_ 
+_ 
+_ ε 
+τ 
+β 
+β 
+β 
+β β 
+β 
+β 
+β 
+β 
+β 
+β + 
++ 
++ 
++ 
++ 
++ + 
++ 
++ 
++ 
++ 
++ 
+= and we obtain the vector β ˆ as the fixed-effect estimator. Then, we use the observed debt to exports ratio (TDX) as well as the external flows volatility variable (volat_indicator) and calculate the change in the rating using these both variables and the β ˆ coefficients. We obtain the potential improvement in the sovereign ratings for the Latin American countries included in the 
+sample. Annexes 4a, 4b, and 4c depict i) the observed rating for S&P, Moody's and Fitch, respectively ( " Observed "  Y in the figures); ii) the predicted rating ( " Predicted "  Y ˆ in the figures) estimated taking into account the TDX_wr ratio (debt to exports ratio excluding remittances) and 
+the volat_indicator_wr ratio (volatility of external flows excluding remittances); iii) the 
+counterfactual rating in the scenario including workers' remittances in our variable of interests, debt/exports and volatility of external flows ( " Counterfactual "  Y 
+~ in the figures). Figure 4 compares three types of ratings: the observed rating, the predicted rating 
+(estimated from a model by excluding remittances from the solvency ratio and from the external 
+flows volatility) and the counterfactual rating (calculated from the estimators of the predicted 
+model and by including remittances in the two core explanatory variables: solvency ratio and 
+volatility of external flows). Figure 4. Observed, Predicted and Counterfactual Ratings in 2006 Standard and Poor's -2 -1.5 -1 -0.5 0 0.5 1 1.5 2 2.5 3 El Salvador 
+Guatemala 
+Ecuador Dom. Rep. 
+Bolivia 
+Colombia 
+Peru 
+Paraguay 
+Mexico Costa Rica 
+Uruguay 
+Brazil 
+Argentina 
+Panama 
+Venezuela 
+Chile Counterfactual -Predicted 
+Counterfactual -Observed OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 25 Moody's -2 -1.5 -1 -0.5 0 0.5 1 1.5 2 2.5 3 El Salvador 
+Nicaragua 
+Honduras 
+Guatemala 
+Ecuador Dom. Rep. 
+Colombia 
+Bolivia 
+Peru 
+Mexico 
+Paraguay 
+Brazil Costa Rica 
+Uruguay 
+Argentina 
+Panama 
+Venezuela 
+Chile Counterfactual -Predicted 
+Counterfactual -Observed Fitch -4 -3 -2 -1 0 1 2 3 El Salvador 
+Guatemala 
+Ecuador Dom. Rep 
+Bolivia 
+Colombia 
+Peru 
+Mexico Costa Rica 
+Uruguay 
+Brazil 
+Argentina 
+Panama 
+Venezuela 
+Chile Counterfactual -Predicted 
+Counterfactual -Observed Note: Unity is equivalent to one notch. Source: Authors based on of Fitch (2008a), Moody's (2008a) and Standard and Poor's (2007). Figure 4 presents the ratings given by Fitch, Moody's and Standard and Poor's in 2006. 
+For instance, by analysing the case of S&P, we note that for countries with high levels of 
+remittances over GDP (e.g., El Salvador, Guatemala, Ecuador and Dominican Republic), there is 
+a relative high difference between the predicted rating and the counterfactual rating, showing 
+that by including remittances, estimated ratings can improve for these countries. For the case of 
+El Salvador, estimated rating can improve close to one notch when remittances are included. 
+However, a question remains: are CRAs already including remittances in their own models? By 
+comparing the counterfactual rating and the observed rating, these ratings do not change 
+considerably for countries with high levels of remittances over GDP. Indeed, for other countries, Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 26 © OECD 2009 like Uruguay or Venezuela, changes are substantially more important. Moreover, for the set of 
+countries with high levels of remittances, it is not clear that the observed rating is less favourable 
+than the counterfactual rating (positive sign in the figure). For the case of El Salvador and 
+Guatemala, observed ratings are more favourable than the counterfactual rating, meaning that 
+Standard and Poor's ratings are more favourable than those yielded in a statistical model 
+including remittances. By contrast, for Ecuador and Dominican Republic, the inverse case is 
+found: the statistical model with remittances is more favourable than Standard and Poor's. Including the debt to exports ratio and the volatility of external flows in the estimation 
+does not substantially alter the results. We infer that including remittances in the rating agencies' 
+model does not improve most Latin American countries' ratings. To check the robustness of this 
+result, we test the opposite estimation, using the variables TDX and Volat_indicator as follows: t 
+i 
+t 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i t 
+i 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i EMBI 
+indicator 
+Volat 
+serves 
+Default TDX 
+CA 
+budg 
+Fisc 
+Inflat 
+growth 
+GDP 
+pc 
+P 
+GD 
+Rating , 
+, 
+10 
+, 
+9 
+, 
+8 
+, 
+7 , 
+6 
+, 
+5 
+, 
+4 
+, 
+3 
+, 
+2 
+1 
+0 
+, _ 
+Re _ 
+_ 
+_ ε 
+τ 
+β 
+β 
+β 
+β β 
+β 
+β 
+β 
+β 
+β 
+β + 
++ 
++ 
++ 
++ 
++ + 
++ 
++ 
++ 
++ 
++ 
+= and doing the counterfactual with the variable excluding remittances (TDX_wr). These results 
+are very similar to those presented in Annex 4. 13 III.5. Model for High-Remittance Receptors Sovereign ratings are the output of a qualitative and quantitative analysis of credit risk. 
+They are generally assigned on a case-by-case basis. This is in line with previous research (e.g. 
+Roubini and Manasse, 2005) showing that there is not a single model to rate countries, which 
+implies that not all variables have the same impact on ratings. In that context, the wide range of countries in the sample does not permit to fully isolate 
+the impact of remittances. Initially, we would expect that for those countries where remittances 
+have a non-negligible weight in the economy (as a share of GDP), the change in our two 
+benchmark variables (i.e. solvency ratio and volatility indicator) including and excluding 
+remittances would be significant. For this reason, we calculate a threshold variable (for each 
+country and year) taking the value 1 when the ratio Remittances/GDP is higher than a given 
+threshold and zero otherwise. The objective is to identify those countries and years where 
+remittances are more important. Note that this dummy is non constant over time, and therefore 
+can be included in the fixed-effect panel. Then, we calculate a crossed term with the non-constant 
+dummy and the variables TDX and Volat_indicator, that will detect the interaction effect between 
+countries with a high share of remittances and our variable of interest. 14 13 These results are not reported but they can be provided upon request. 
+14 We tested other configurations to take into account the importance of isolating those ratings most 
+likely to be affected by remittance flows. We included the remittances to GDP ratio as an explanatory 
+variable, but this was not significant for the sample. Also, we split the sample into different groups, OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 27 Thus, we test the following model for the whole sample: t 
+i 
+i 
+t t 
+i 
+t 
+i 
+t 
+i 
+t 
+i t 
+i 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i 
+t 
+i Threshold indicator 
+Volat 
+Threshold 
+TDX 
+Threshold 
+EMBI 
+indicator 
+Volat 
+serves Default 
+TDX 
+CA 
+budg 
+Fisc 
+Inflat 
+growth 
+GDP 
+pc 
+P 
+GD 
+Rating , 
+13 , 
+12 
+11 
+, 
+10 
+, 
+9 
+, 
+8 , 
+7 
+, 
+6 
+, 
+5 
+, 
+4 
+, 
+3 
+, 
+2 
+1 
+0 
+, _ 
+_ 
+Re _ 
+_ 
+_ ε 
+ν 
+τ 
+β β 
+β 
+β 
+β 
+β β 
+β 
+β 
+β 
+β 
+β 
+β 
+β + 
++ 
++ 
++ × 
++ 
+× 
++ 
++ 
++ 
++ + 
++ 
++ 
++ 
++ 
++ 
++ 
+= where Threshold takes the value 1 when the ratio Remittances/GDP is higher than a given percentage and zero otherwise. TDX 
+Threshold × and indicator 
+Volat 
+Threshold 
+_ 
+× are the interaction effects between countries with a high share of remittances and the ratio debt over 
+exports and the volatility of external flows respectively. Table 5 summarizes the results using two different thresholds: 3.5 and 5.0 per cent, 
+respectively. 15 Table 5. Regression with Threshold Model S & P 
+M E 
+M o o d y s 
+M E 
+F i t c h 
+M E 
+S & P 
+M E 
+M o o d y s 
+M E 
+F i t c h 
+M E 
+GDP per capital (PPP) 
+0.0010*** 
+4.1235 
+0.0011*** 
+4.5359 
+0.0009*** 
+3.7112 
+0.0010*** 
+4.1235 
+0.0011*** 
+4.5359 
+0.0009*** 
+3.7112 
+[10.66] 
+[11.55] 
+[7.016] 
+[10.02] 
+[11.05] 
+[6.713] 
+GDP growth (annual) 
+-0.0403* 
+-0.1528 
+-0.0411** 
+-0.1558 
+-0.0293 
+-0.1111 
+-0.0391* 
+-0.1483 
+-0.0404** 
+-0.1532 
+-0.0182 
+-0.0690 
+[-1.793] 
+[-2.105] 
+[-1.276] 
+[-1.700] 
+[-2.046] 
+[-0.769] 
+Annual inflation 
+-0.0013** 
+-0.0632 
+-0.0002 
+-0.0097 
+-0.0013* 
+-0.0632 
+-0.0013** 
+-0.0632 
+-0.0002 
+-0.0097 
+-0.0013 
+-0.0632 
+[-2.313] 
+[-0.580] 
+[-1.657] 
+[-2.253] 
+[-0.528] 
+[-1.631] 
+Fiscal Budget 
+-0.0266 
+0.0650 
+-0.1006*** 
+0.2458 
+-0.1322*** 
+0.3230 
+-0.0129 
+0.0315 
+-0.0940*** 
+0.2297 
+-0.1380*** 
+0.3372 
+[-0.807] 
+[-3.454] 
+[-2.881] 
+[-0.385] 
+[-3.194] 
+[-2.935] 
+Current Account (% GDP) 
+-0.1434*** 
+0.5082 
+-0.0864*** 
+0.3062 
+-0.0987*** 
+0.3498 
+-0.1513*** 
+0.5362 
+-0.0874*** 
+0.3098 
+-0.0903*** 
+0.3200 
+[-6.295] 
+[-4.281] 
+[-4.939] 
+[-6.450] 
+[-4.294] 
+[-4.462] 
+Default dummy (20 years) 
+-1.3138*** 
+-0.9598 
+-0.5424 
+-0.3963 
+-0.1716 
+-0.1254 
+-1.0027** 
+-0.7326 
+-0.4581 
+-0.3347 
+-0.2202 
+-0.1609 
+[-3.274] 
+[-1.570] 
+[-0.299] 
+[-2.480] 
+[-1.317] 
+[-0.374] 
+Reserves Ratio 
+-0.0066 
+-0.1016 
+0.0244* 
+0.3755 
+-0.0514* 
+-0.7911 
+0.0079 
+0.1216 
+0.0303** 
+0.4663 
+-0.0421 
+-0.6480 
+[-0.418] 
+[1.773] 
+[-1.920] 
+[0.497] 
+[2.204] 
+[-1.543] 
+Volatility External Flows 
+-312.0530*** -1.5134 -195.1693*** -0.9465 -249.3902*** -1.2095 
+-342.0850*** -1.6590 -206.4371*** -1.0012 -227.5125*** -1.1034 
+[-5.696] 
+[-3.875] 
+[-4.564] 
+[-6.104] 
+[-4.047] 
+[-4.155] 
+EMBI dummy 
+1.0101*** 
+0.2069 
+0.4642* 
+0.0951 
+0.8636** 
+0.1769 
+1.0865*** 
+0.2226 
+0.4466 
+0.0915 
+0.9120** 
+0.1868 
+[3.601] 
+[1.673] 
+[2.211] 
+[3.825] 
+[1.595] 
+[2.260] 
+Threshold dummy x (Debt/exports) 
+-0.0024 
+-0.5288 
+0.0011 
+0.2423 
+-0.0059 
+-1.2999 
+-0.0026 
+-0.5728 
+0.0006 
+0.1322 
+-0.0126 
+-2.7760 
+[-0.528] 
+[0.424] 
+[-1.248] 
+[-0.467] 
+[0.210] 
+[-1.624] 
+Threshold dummy x (Volat. External flows 249.2837** 
+1.2090 
+192.9201** 
+0.9356 
+125.1364 
+0.6069 
+344.1124*** 1.6689 266.8429*** 1.2941 
+199.7961 
+0.9690 
+[2.188] 
+[2.036] 
+[1.202] 
+[2.872] 
+[2.703] 
+[1.362] 
+Solvency Ratio (debt/exports) 
+-0.0138*** 
+-3.0403 
+-0.0073*** 
+-1.6083 
+-0.0033 
+-0.7270 
+-0.0142*** 
+-3.1285 
+-0.0073*** 
+-1.6083 
+-0.0030 
+-0.6609 
+[-7.347] 
+[-4.252] 
+[-1.368] 
+[-7.378] 
+[-4.188] 
+[-1.181] 
+Threshold dummy 
+1.9482*** 
+0.6561 
+0.4949 
+0.1667 
+2.2861*** 
+0.7699 
+1.6866** 
+0.5680 
+-0.1518 
+-0.0511 
+0.9084 
+0.3059 
+[2.800] 
+[1.048] 
+[2.735] 
+[2.076] 
+[-0.302] 
+[0.671] 
+Observations 
+334 
+314 
+253 
+334 
+314 
+253 
+Number of country_id 
+43 
+39 
+41 
+43 
+39 
+41 
+R-squared 
+0.59 
+0.57 
+0.50 
+0.57 
+0.56 
+0.47 
+t statistics in brackets 
+*** p<0.01, ** p<0.05, * p<0.1 
+Note: M.E. refers to the product between the sample mean and the coefficient for each variable. For interactive variables the M.E. is calculated only for countries with threshold dummy equal to 1. Threshold: 3.5% 
+Threshold: 5.0% Source: Authors' calculation. following the World Bank classification (lower income/middle income/higher income, etc.) and 
+performed regressions on each group. Finally, we opted for the non-constant dummy variable. 
+15 We test for the robustness of the estimation by running a pooled regression with all observations, 
+should the individual effects affect the estimation. We find that for both specifications (general and 
+threshold model), the solvency ratio and the volatility of external flows are consistently significant 
+and negative. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 28 © OECD 2009 Regressions in Table 5 allow isolating the effect that remittances can have for those 
+countries where they are more important. With the 3.5 per cent threshold, the dummy variable is 
+significant for two agencies. The interactive term for the volatility of external flows, also, is 
+positive and significant. Increasing the threshold to 5 per cent does have a significant and 
+positive effect on the dummy variable for S&P only. It does affect the interactive variable, with a 
+positive and significant effect on the sovereign rating (S&P and Moody's). By contrast, the 
+interactive dummy variable of the solvency ratio is not significant. 16 This result suggests that for remittance-dependent countries, high remittances do not 
+have necessarily a direct effect on ratings (the dummy variable remittances over GDP is 
+significant for some agencies and dependent on the threshold used). If a country is highly 
+dependent on remittances, this does not automatically mean that markets' perception about this 
+country is going to improve. However, the solvency ratio and the external flows volatility variable (by including 
+remittances) are significant for most of the CRAs. Moreover, the interaction term between the 
+remittances to GDP ratio and the flows volatility is significant to explain ratings, denoting that 
+the negative impact of the volatility of external flows on ratings is reduced. In other words, 
+remittances have above all an indirect and positive impact on ratings through a premium 
+(captured with the interactive dummy variable remittances over GDP and the volatility of 
+external flows). Indeed, there is an insight. The indirect impact of remittances on ratings goes 
+mainly through the volatility of external flows (and not through the solvency ratio, as argued in 
+previous research on sovereign ratings and remittances). For countries where the remittances to GDP ratio is higher than 5 per cent, the elasticity 
+of the rating with respect to the external flows variable is 12 
+9 β 
+β + . Since 12 β is positive, the weight of the external flows variable is reduced. We find that including an interaction term 
+between the remittances to GDP ratio and the external flows variable denotes a more inelastic 
+rating for those countries where precisely remittances are more important. For countries with 
+high remittances to GDP ratio, there is an indirect effect of remittances. Besides, the negative 
+impact of the volatility of external flows on their ratings can be attenuated. In any case, as it is 
+depicted in Annex 5, the effect is somehow limited. Results support the view that CRAs do take remittance flows into account to rate 
+sovereigns. This variable turns out to be significant for a limited set of countries, specifically 
+those that are small in size and classified in the low and middle income categories. A favourable 
+trend of remittances can improve ratings but the reverse scenario also applies. Such findings 
+explain why in the current economic crisis, five out of the seven rated countries with the highest 
+remittances to GDP ratios in the region have been downgraded or have faced a worsening of 
+their rating outlook (from positive to stable or from stable to negative). 17 16 For the threshold model, we also estimate correlations between fixed effects and country ratings. The 
+correlation with S&P is -0.01, 0.28 for Moody's and 0.24 for Fitch. These low correlations allow us to 
+believe that estimation and prediction do not depend solely on the countries' fixed effect. 
+17 Since September 2008, Jamaica, El Salvador, Guatemala, Dominican Republic, and Ecuador have been 
+downgraded and/or their outlooks have worsened. The two countries with stable ratings are OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 29 However, the impact of including remittances in both the solvency ratio and the external 
+flows volatility ratio remains weak with respect to other fundamental variables that affect 
+ratings. This suggests that other factors, such as the reduction of debt service, the lowering of the 
+foreign currency debt and the deepening of local currency financial markets may be more 
+relevant to explain ratings. III.6. Shadow ratings for unrated countries by CRAs The credit rating issued by major international rating agencies is a key aspect affecting a 
+sovereign's access to capital markets. Even if sovereign bonds do not always need ratings to be 
+placed in the international capital markets, it is common practice to have them rated, given the 
+necessity of institutional investors to have a benchmark for credit risk. Indeed, while their 
+participation is not strictly needed in a legal sense, domestic or international prudential 
+regulations, which rely on ratings and place limits on the purchase of unrated securities, make 
+them necessary in practice. 18 This is even more important today than in the past because other 
+capital markets' signals about credit risk that existed in the past are no longer valid today 
+(Flandreau, Flores, Gaillard and Nieto, 2009). Moreover, sovereign ratings generate externalities. First, they might help to draw more 
+investors' attention and therefore attract more capital flows. Sovereign ratings can be considered 
+a benchmark for investors' decisions in private bond and equity markets as well as in foreign 
+direct investment. Second, sovereign ratings are often the ceiling for sub-sovereign as well as 
+corporate foreign currency ratings. Somewhat surprisingly, given the benefits of a rating, a large number of developing 
+countries remain unrated today. High fixed costs, lack of information and of incentives may be 
+responsible for this. According to Ratha, De and Mohapatra (2007),  " 70 developing countries – 
+mostly poor – and 12 high-income countries do not have a rating from a major rating agency. Of 
+the 86 developing countries that have been rated, the rating was established in 2004 or earlier for 
+15 countries " . Similar results are found for the coverage made by investment banks in their 
+reports to developing and emerging countries (Nieto-Parra and Santiso, 2007). 19 What would be the  " shadow ratings "  for unrated Latin American and Caribbean 
+countries? Table 6 presents two series of periods covering shadow and potential ratings Honduras and Nicaragua. Guyana and Haiti are not taking into account given they do not have 
+ratings. 
+18 Moreover, the Basel II regulatory framework could penalize unrated securities (Basel Committee on 
+Banking Supervision, 2005). 19 Country coverage by leading investment banks and leading emerging-market benchmarks like the 
+EMBI produced by JP Morgan for the bond markets or leading global banks like Citigroup, Deutsche 
+Bank, HSBC, JP Morgan or Morgan Stanley, rarely cover or sample more than 35 economies. The 
+other 120 developing countries simply do not exist for global financial-market investors. Only 10 
+countries enjoyed systematic coverage from the major financial institutions. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 30 © OECD 2009 respectively for each country and agency. 20 The naming  " shadow ratings "  concerns unrated 
+countries for a given year and a specific agency, while  " potential ratings "  refer to countries that 
+were already assigned a rating by a specific agency for a given year. Table 6. Shadow and Potential Ratings by CRA and by Country "Shadow ratings" 
+"Potential ratings" S&P 
+Moody's 
+Fitch 
+S&P 
+Moody's 
+Fitch Argentina 
+NA 
+NA 
+1993:1997 
+1993:2006 
+1993:2006 
+1997:2006 Bolivia 
+1993:1997 
+1993:1997 
+1993:2003 
+1998:2006 
+1998:2006 
+2004:2006 Brazil 
+1993 
+NA 
+1993 
+1994:2005 
+1993:2005 
+1994:2005 Chile 
+NA 
+1993:1998 
+1993:1995 
+1993:2006 
+1999:2006 
+1996:2006 Colombia 
+NA 
+NA 
+1993 
+1993:2006 
+1993:2006 
+1994:2006 Costa Rica 
+1995:1996 
+1995:1996 
+1995:1997 
+1997:2006 
+1997:2006 
+1998:2006 Dominican Rep. 
+1995:1996 
+1995:1998 
+1995:2002 
+1997:2006 
+1999:2006 
+2003:2006 Ecuador 
+1993:1999 
+1993:1996 
+1993:2001 
+2000:2006 
+1997:2006 
+2002:2006 El Salvador 
+1993:1995 
+1993:2001 
+1993:1995 
+1996:2006 
+2002:2006 
+1996:2006 Guatemala 
+1993:2000 
+1993:1996 
+1993:2005 
+2001:2006 
+1997:2006 
+2006 Honduras 
+1993:2006 
+1993:1998 
+1993:2006 
+NA 
+1999:2006 
+NA Mexico 
+NA 
+NA 
+1993:1995 
+1993:2006 
+1993:2006 
+1995:2006 Nicaragua 
+2002:2006 
+NA 
+2002:2006 
+NA 
+2002:2006 
+NA Panama 
+1994:1996 
+1994:1996 
+1994:1997 
+1997:2006 
+1997:2006 
+1998:2006 Paraguay 
+NA 
+1995:1997 
+1995:2006 
+1995:2006 
+1998:2006 
+NA Peru 
+1993:1996 
+1993:1998 
+1993:1998 
+1997:2006 
+1999:2006 
+1999:2006 Uruguay 
+NA 
+NA 
+NA 
+2002:2006 
+2002:2006 
+2002:2006 Venezuela 
+NA 
+NA 
+NA 
+2003:2006 
+2003:2006 
+2003:2006 Note: This table presets the periods covering shadow ratings for the general model. Periods covering Shadow 
+ratings for unrated and highly dependent countries are exhibited in Annex 6. Source: The authors based on Fitch (2008a), Moody's (2008a) and S&P (2007). In Annex 4,  " shadow "  and  " potential "  ratings are calculated for the general model. 21 As 
+we noted before, CRAs do not have a unique model to assign ratings. Therefore, we calculate as 
+well  " shadow ratings "  for unrated and highly dependent countries (see Annex 5). In particular, 
+shadow ratings are estimated for Latin American and Caribbean countries which are highly 
+dependent on remittances (i.e. Honduras, El Salvador, Nicaragua, Guatemala, Dominican 20 Shadow ratings were reassessed including the fixed effect independently. The reassessed ratings for 
+S&P were: Bolivia, Costa Rica, Dominican Republic, Ecuador, El Salvador and Guatemala. For 
+Moody's: Bolivia, Chile, Costa Rica, Dominican Republic, Honduras, Panama, Paraguay and Peru. For 
+Fitch: Bolivia, Chile, Dominican Republic, Ecuador, Nicaragua and Panama. 
+21 More precisely,  " shadow "  and  " potential "  ratings are considered equally as  " predicted ratings "  and 
+compared with the counterfactual ratings. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 31 Republic and Ecuador) according to a specific model. For instance, the shadow ratings of Fitch 
+for Honduras and Nicaragua are B-and CCC+ respectively, while the shadow ratings of S&P for 
+these both countries are B. As pointed by Nieto-Parra and Santiso (2007), a partnership agreement could be reached 
+between a leading international organisation, supported by donor agencies, and a  " market 
+maker "  in emerging markets, in order to boost country coverage. Experiences of public-private 
+partnerships have already been implemented in order to improve country coverage. For some 
+years now, Standard & Poor's, one of the leading rating agencies, has provided coverage for 
+African sovereigns, with the support of UNDP (United Nations Development Programme). In 
+2006, 14 sovereigns were rated. Likewise, aiming to improve the region's economic coverage, the 
+OECD Development Centre and the African Development Bank launched the African Economic 
+Outlook in 2001. By providing a number of indicators (on macroeconomic performance but also 
+aid flows, exports, public finances, FDI, poverty, income distribution, employment, trade 
+diversification, civil tensions and health, among others) and country-level analysis, the report 
+provides key economic, financial and political factors to determine sovereign ratings in the 
+region. A potential partnership can facilitate the understanding of the benefits of ratings to 
+interested governments and encourage their request. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 32 © OECD 2009 IV. CONCLUSION This paper analyses the impact of remittance flows on sovereign ratings for developing 
+and emerging countries over the period 1993-2006. Our hypothesis is that they may have served 
+to significantly reduce country risk for smaller economies. In order to capture the impact of 
+remittances on sovereign risk, we focus on two core variables. We test a traditional solvency 
+ratio, already used in the literature and we introduce another determinant, the volatility of 
+external flows. First, using a model of the determinants of sovereign ratings and then a counterfactual 
+estimation, we find that the impact of including remittances in both the solvency ratio and the 
+external flows volatility on ratings is modest. This suggests that other factors, such as the 
+reduction of debt service, the lowering of the foreign currency debt and the deepening of local 
+currency financial markets may be more relevant to explain ratings. Second, there is no single model to rate countries and variables highlighted by agencies 
+do not have the same impact on sovereign ratings. 22 In that context we estimated a specific model 
+for countries with relatively high levels of remittances. Our results support the view that 
+remittance flows have an influence on small low and middle income Central American and 
+Caribbean countries. This impact of remittances depends more on the volatility of external flows 
+than on the solvency ratio (debt over exports). Nevertheless, the recent wave of downgrades of 
+several remittance-dependent countries due to the drop in remittances may suggest that those 
+have procyclical effects in times of market turmoil (five out of the seven rated countries with the 
+highest remittances to GDP ratios have been downgraded or have faced a worsening of their 
+rating outlook since September 2008). Third, this research also provides shadow ratings for countries which are not rated by the 
+three main CRAs, in particular some Central American and Caribbean countries, where relative 
+remittance flows are high. Our analysis provides useful information on the potential ratings of 
+these countries, thus indicating their creditworthiness to international investors. In that context, a 
+public-private partnership could be reached in order to boost country coverage. Such initiatives 
+are not without precedent: for some years Standard & Poor's has provided rating coverage of 
+some African sovereigns with support from the United Nations Development Programme. 
+Additionally, other types of partnership can also be envisaged at the inter-governmental level, 
+involving public officials with an interest in these regions. Public donors both from OECD and 
+non-OECD countries, gathered at the Development Centre, may be interested to deploy an 
+initiative for sovereign rating's coverage, as a way to enhance countries' financial visibility and 
+encourage cooperation. 22 This goes in line with previous research (Roubini and Manasse, 2005). OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 33 ANNEXES Annex 1 
+Ratio of External debt over Exports (tdoverx_wr) and over Exports and Remittances (tdoverx) 
+Latin American and Caribbean countries 0 50 100 150 200 250 300 350 400 450 500 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Argentina tdoverx 
+tdoverx_wr 0 50 100 150 200 250 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Belize tdoverx 
+tdoverx_wr 0 100 200 300 400 500 600 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Bolivia tdoverx 
+tdoverx_wr 0 50 100 150 200 250 300 350 400 450 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Brazil tdoverx 
+tdoverx_wr 0 20 40 60 80 100 120 140 160 180 200 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Chile tdoverx 
+tdoverx_wr 0 50 100 150 200 250 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Colombia tdoverx 
+tdoverx_wr 0 20 40 60 80 100 120 140 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Costa Rica tdoverx 
+tdoverx_wr 0 50 100 150 200 250 300 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Dominica tdoverx 
+tdoverx_wr 0 20 40 60 80 100 120 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Dominican Republic tdoverx 
+tdoverx_wr 0 50 100 150 200 250 300 350 400 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Ecuador tdoverx 
+tdoverx_wr 0 50 100 150 200 250 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 El Salvador tdoverx 
+tdoverx_wr 0 50 100 150 200 250 300 350 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Grenada tdoverx 
+tdoverx_wr Source: Global Development Finance and International Financial Statistics, 2009. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 34 © OECD 2009 Annex 1 (cont.) 
+Ratio of External debt over Exports (tdoverx_wr) and over Exports and Remittances (tdoverx) 
+Latin American and Caribbean countries 0 20 40 60 80 100 120 140 160 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Guatemala tdoverx 
+tdoverx_wr 0 50 100 150 200 250 300 350 400 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Guyana tdoverx 
+tdoverx_wr 0 500 1000 1500 2000 2500 3000 3500 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Haiti tdoverx 
+tdoverx_wr 0 50 100 150 200 250 300 350 400 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Honduras tdoverx 
+tdoverx_wr 0 20 40 60 80 100 120 140 160 180 200 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Jamaica tdoverx 
+tdoverx_wr 0 50 100 150 200 250 300 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Latin America and Caribbean tdoverx 
+tdoverx_wr 0 50 100 150 200 250 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Mexico tdoverx 
+tdoverx_wr 0 500 1000 1500 2000 2500 3000 3500 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Nicaragua tdoverx 
+tdoverx_wr 0 20 40 60 80 100 120 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Panama tdoverx 
+tdoverx_wr 0 20 40 60 80 100 120 140 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Paraguay tdoverx 
+tdoverx_wr 0 100 200 300 400 500 600 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Peru tdoverx 
+tdoverx_wr 0 50 100 150 200 250 300 350 400 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Uruguay tdoverx 
+tdoverx_wr 0 50 100 150 200 250 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Venezuela tdoverx 
+tdoverx_wr Source: Global Development Finance and International Financial Statistics, 2009. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 35 Annex 2 
+Annex 2a. Determinants of Sovereign Ratings (1993-2006) 
+Cantor and Packer (1996), Rowland and Torres (2004) (i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+(xii) With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances gdp_per_cap_ppp_curr 
+0.0011*** 
+0.0011*** 
+0.0012*** 
+0.0012*** 
+0.0011*** 
+0.0011*** 
+[12.59] 
+[12.44] 
+[15.38] 
+[15.23] 
+[10.58] 
+[10.58] 
+gdp_growth_annual 
+-0.0729*** 
+-0.0720*** 
+-0.0516*** 
+-0.0507*** 
+-0.0467** 
+-0.0468** 
+-0.0086 
+-0.0086 
+-0.0023 
+-0.003 
+-0.0466** 
+-0.0478** 
+[3.61] 
+[3.55] 
+[3.20] 
+[3.13] 
+[2.27] 
+[2.28] 
+[0.40] 
+[0.40] 
+[0.12] 
+[0.15] 
+[2.30] 
+[2.36] 
+inflat_annual 
+-0.0012* 
+-0.0012* 
+-0.0003 
+-0.0004 
+-0.001 
+-0.001 
+-0.0012 
+-0.0012 
+-0.0010** 
+-0.0010* 
+-0.0003 
+-0.0003 
+[1.92] 
+[1.88] 
+[0.91] 
+[0.93] 
+[1.25] 
+[1.23] 
+[1.60] 
+[1.60] 
+[1.98] 
+[1.96] 
+[0.41] 
+[0.44] 
+fisc_budget_our 
+0.0184 
+0.0193 
+-0.0427* 
+-0.0415* 
+-0.1157*** 
+-0.1145*** 
+[0.66] 
+[0.69] 
+[1.81] 
+[1.75] 
+[3.22] 
+[3.19] 
+current_account_bal_%gdp 
+-0.1543*** 
+-0.1535*** 
+-0.1109*** 
+-0.1105*** 
+-0.0774*** 
+-0.0783*** 
+[8.75] 
+[8.64] 
+[7.77] 
+[7.69] 
+[4.53] 
+[4.58] 
+tdoverx 
+-0.0129*** 
+-0.0116*** 
+-0.0088*** 
+-0.0076*** 
+-0.0071*** 
+-0.0065*** 
+0.0089*** 
+0.0093*** 
+0.0070*** 
+0.0066*** 
+0.0180*** 
+0.0164*** 
+[7.58] 
+[7.18] 
+[6.25] 
+[5.86] 
+[3.66] 
+[3.56] 
+[3.20] 
+[3.62] 
+[2.66] 
+[2.75] 
+[6.11] 
+[6.08] 
+default_20 
+-0.8783** 
+-0.7872** 
+-0.3678 
+-0.3079 
+0.0096 
+0.0755 
+-2.3087*** 
+-2.3789*** 
+-1.3330*** 
+-1.3697*** 
+-0.3488 
+-0.5101 
+[2.27] 
+[2.03] 
+[1.14] 
+[0.95] 
+[0.02] 
+[0.15] 
+[5.32] 
+[5.50] 
+[3.19] 
+[3.29] 
+[0.67] 
+[0.97] 
+tdovergnp 
+-0.0581*** 
+-0.0602*** 
+-0.0385*** 
+-0.0391*** 
+-0.0734*** 
+-0.0727*** 
+[7.68] 
+[7.99] 
+[5.70] 
+[5.75] 
+[9.70] 
+[9.68] 
+tdtdsovergnp 
+0.0491* 
+0.0479* 
+0.0374 
+0.0391 
+0.0384 
+0.0435 
+[1.86] 
+[1.82] 
+[1.56] 
+[1.64] 
+[1.45] 
+[1.64] 
+res_gnp 
+0.0375** 
+0.0385** 
+0.0538*** 
+0.0547*** 
+0.0596*** 
+0.0614*** 
+[2.38] 
+[2.45] 
+[3.77] 
+[3.84] 
+[3.05] 
+[3.14] 
+openness 
+0.0025 
+0.0035 
+-0.0047 
+-0.0045 
+0.0178** 
+0.0170** 
+[0.31] 
+[0.45] 
+[0.66] 
+[0.64] 
+[2.19] 
+[2.10] 
+log_res log_bank_res_to_bank_assets log_tdtdsoverx log_tdovergnp Observations 
+427 
+428 
+417 
+418 
+334 
+335 
+497 
+497 
+477 
+477 
+363 
+363 
+Number of country_id 
+49 
+49 
+46 
+46 
+47 
+47 
+55 
+55 
+49 
+49 
+50 
+50 
+R-squared 
+0.53 
+0.52 
+0.57 
+0.56 
+0.45 
+0.45 
+0.27 
+0.27 
+0.22 
+0.23 
+0.33 
+0.33 
+Absolute value of t statistics in brackets 
+* significant at 10%; ** significant at 5%; *** significant at 1% Cantor and Packer 
+S&P 
+Moodys 
+Fitch Rowland and Torres 
+S&P 
+Moodys 
+Fitch Source: Authors' calculation. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 36 © OECD 2009 Annex 2 (cont.) 
+Annex 2b. Determinants of Sovereign Ratings (1993-2006) 
+Sutton (2005) (xiii) 
+(xiv) 
+(xv) 
+(xvi) 
+(xvii) 
+(xviii) With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances gdp_per_cap_ppp_curr gdp_growth_annual inflat_annual fisc_budget_our current_account_bal_%gdp tdoverx default_20 
+-2.2285*** 
+-2.2598*** 
+-1.2746*** 
+-1.3135*** 
+-0.3887 
+-0.4226 
+[5.64] 
+[5.73] 
+[3.43] 
+[3.53] 
+[0.81] 
+[0.88] 
+tdovergnp tdtdsovergnp res_gnp openness log_res 
+1.8452*** 
+1.8383*** 
+1.6582*** 
+1.6515*** 
+1.9091*** 
+1.9046*** 
+[9.72] 
+[9.69] 
+[10.46] 
+[10.39] 
+[9.06] 
+[9.03] 
+log_bank_res_to_bank_assets 
+-0.8874*** 
+-0.8789*** 
+-0.6375*** 
+-0.6345*** 
+-0.9255*** 
+-0.9210*** 
+[5.33] 
+[5.27] 
+[4.48] 
+[4.44] 
+[4.65] 
+[4.61] 
+log_tdtdsoverx 
+0.8156*** 
+0.8232*** 
+0.9460*** 
+0.9063*** 
+0.7199*** 
+0.7167*** 
+[4.07] 
+[4.13] 
+[5.23] 
+[4.98] 
+[3.45] 
+[3.42] 
+log_tdovergnp 
+-1.7675*** 
+-1.7797*** 
+-1.3803*** 
+-1.3590*** 
+-1.7545*** 
+-1.7517*** 
+[6.43] 
+[6.46] 
+[5.74] 
+[5.63] 
+[6.34] 
+[6.33] 
+Observations 
+488 
+488 
+479 
+479 
+361 
+361 
+Number of country_id 
+55 
+55 
+50 
+50 
+49 
+49 
+R -s q u a r e d 
+0 . 4 
+0 . 4 
+0 . 3 8 
+0 . 3 7 
+0 . 4 2 
+0 . 4 2 
+Absolute value of t statistics in br Absolute value of t statistics in brackets 
+* significant at 10%; ** significant* significant at 10%; ** significant at 5%; *** significant at 1% Moodys 
+Fitch Sutton 
+S&P Source: Authors' calculation. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 37 Annex 2 (cont.) 
+Annex 2c. Determinants of Sovereign Ratings (1993-2006) 
+Mora (2006) (i) 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+(x) 
+(xi) 
+(xii) 
+With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances With 
+Remittances Without 
+Remittances 
+gdp_per_cap_ppp_curr 
+0.0012*** 
+0.0012*** 
+0.0014*** 
+0.0015*** 
+0.0010*** 
+0.0010*** 
+0.0001 
+0.0002 
+0.0002*** 
+0.0011 
+-0.0022 
+0.0001 
+[10.34] 
+[10.37] 
+[14.06] 
+[14.18] 
+[6.52] 
+[6.50] 
+[1.18] 
+[1.22] 
+[2.99] 
+[0.65] 
+[4.68] 
+[2.43] 
+gdp_growth_annual 
+-0.0877*** 
+-0.0871*** 
+-0.0741*** 
+-0.0746*** 
+-0.0574** 
+-0.0587** 
+0.1089*** 
+0.1098*** 
+0.0001 
+0.0680*** 
+0.0001 
+-0.3482 
+[4.57] 
+[4.55] 
+[4.40] 
+[4.46] 
+[2.54] 
+[2.60] 
+[5.11] 
+[5.17] 
+[1.97] 
+[3.01] 
+[0.76] 
+[4.72] 
+inflat_annual 
+-0.0012 
+-0.001 
+-0.0005 
+-0.0005 
+-0.0034 
+-0.0039 
+-0.0082 
+-0.0079 
+0.0011 
+0.0001 
+0.0008 
+0.0859*** 
+[0.18] 
+[0.15] 
+[0.62] 
+[0.62] 
+[0.32] 
+[0.37] 
+[1.10] 
+[1.06] 
+[0.07] 
+[2.15] 
+[0.52] 
+[1.89] 
+fisc_budget_our 
+0.0353 
+0.0358 
+-0.0645** 
+-0.0653** 
+-0.0141 
+-0.0158 
+0.0199 
+0.0206 
+-0.0033* 
+0.0541 
+0.0776** 
+0.0011 
+[1.22] 
+[1.24] 
+[2.54] 
+[2.58] 
+[0.35] 
+[0.39] 
+[0.62] 
+[0.64] 
+[1.44] 
+[0.15] 
+[0.10] 
+[0.94] 
+current_account_bal_%gdp 
+-0.0931*** 
+-0.0929*** 
+-0.0788*** 
+-0.0796*** 
+-0.0708*** 
+-0.0713*** 
+0.0549*** 
+0.0553*** 
+0.0206 
+0.0207 
+0.0273 
+0.0275 
+[4.96] 
+[4.95] 
+[4.67] 
+[4.74] 
+[3.02] 
+[3.03] 
+[2.64] 
+[2.66] 
+[1.44] 
+[1.45] 
+[1.44] 
+[1.45] 
+tdoverx 
+-0.0041* 
+-0.0039* 
+-0.0041** 
+-0.0045** 
+0.0036 
+0.003 
+-0.0041* 
+-0.0037 
+0.0462** 
+0.0463** 
+-0.3658 
+-0.0019 
+[1.87] 
+[1.87] 
+[2.07] 
+[2.40] 
+[1.42] 
+[1.22] 
+[1.67] 
+[1.60] 
+[4.75] 
+[1.43] 
+[1.06] 
+[0.13] 
+default_20 
+-0.4623 
+-0.4338 
+-0.135 
+-0.1095 
+0.4407 
+0.4112 
+0.0814 
+0.1105 
+0.0677*** 
+0.0002*** 
+0.0852*** 
+0.0784** 
+[0.93] 
+[0.87] 
+[0.31] 
+[0.26] 
+[0.73] 
+[0.68] 
+[0.15] 
+[0.20] 
+[0.60] 
+[4.78] 
+[2.40] 
+[0.52] 
+spread 
+-0.0010*** 
+-0.0010*** 
+-0.0003*** 
+-0.0003*** 
+-0.0011*** 
+-0.0011*** 
+0.0005*** 
+0.0004*** 
+0.0263 
+-0.0032** 
+0.0002* 
+0.0002* 
+[8.38] 
+[8.41] 
+[3.30] 
+[3.19] 
+[7.62] 
+[7.54] 
+[3.29] 
+[3.26] 
+[2.15] 
+[2.01] 
+[1.94] 
+[0.72] 
+Observations 
+225 
+226 
+229 
+230 
+194 
+195 
+225 
+226 
+229 
+230 
+194 
+195 
+Number of country_id 
+27 
+28 
+27 
+28 
+25 
+26 
+27 
+28 
+27 
+28 
+25 
+26 
+R-squared 
+0.76 
+0.76 
+0.72 
+0.72 
+0.69 
+0.69 
+0.35 
+0.35 
+0.33 
+0.33 
+0.37 
+0.37 
+Absolute value of t statistics in brackets 
+* significant at 10%; ** significant at 5%; *** significant at 1% Mora (level variable) 
+S&P 
+Moodys 
+Fitch Mora (lagged variable) 
+S&P 
+Moodys 
+Fitch Source: Authors' calculation. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 38 © OECD 2009 Annex 3 
+Volatility of Inward External Flows with and without Workers' Remittances 0 0.0005 0.001 0.0015 0.002 0.0025 0.003 0.0035 0.004 0.0045 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Argentina Volat External Flows Volat External Flows (without remitt.) 0 0.0005 0.001 0.0015 0.002 0.0025 0.003 0.0035 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Bolivia Volat External Flows Volat External Flows (without remitt.) 0 0.00005 0.0001 0.00015 0.0002 0.00025 0.0003 0.00035 0.0004 0.00045 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Brazil Volat External Flows Volat External Flows (without remitt.) 0 0.0002 0.0004 0.0006 0.0008 0.001 0.0012 0.0014 0.0016 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Chile Volat External Flows Volat External Flows (without remitt.) 0 0.00005 0.0001 0.00015 0.0002 0.00025 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Colombia Volat External Flows Volat External Flows (without remitt.) 0 0.0005 0.001 0.0015 0.002 0.0025 0.003 0.0035 0.004 0.0045 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Costa Rica Volat External Flows Volat External Flows (without remitt.) 0 0.001 0.002 0.003 0.004 0.005 0.006 0.007 0.008 0.009 0.01 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Dominican Repubic Volat External Flows Volat External Flows (without remitt.) 0 0.0005 0.001 0.0015 0.002 0.0025 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Ecuador Volat External Flows Volat External Flows (without remitt.) 0 0.0002 0.0004 0.0006 0.0008 0.001 0.0012 0.0014 0.0016 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 El Salvador Volat External Flows Volat External Flows (without remitt.) 0 0.0001 0.0002 0.0003 0.0004 0.0005 0.0006 0.0007 0.0008 0.0009 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Guatemala Volat External Flows Volat External Flows (without remitt.) 0 0.0005 0.001 0.0015 0.002 0.0025 0.003 0.0035 0.004 0.0045 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 Mexico Volat External Flows Volat External Flows (without remitt.) 0 0.005 0.01 0.015 0.02 0.025 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Nicaragua Volat External Flows Volat External Flows (without remitt.) 0 0.001 0.002 0.003 0.004 0.005 0.006 0.007 0.008 0.009 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Paraguay Volat External Flows Volat External Flows (without remitt.) 0 0.0002 0.0004 0.0006 0.0008 0.001 0.0012 0.0014 0.0016 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Peru Volat External Flows Volat External Flows (without remitt.) 0 0.0005 0.001 0.0015 0.002 0.0025 0.003 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Uruguay Volat External Flows Volat External Flows (without remitt.) 0 0.002 0.004 0.006 0.008 0.01 0.012 0.014 0.016 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Venezuela Volat External Flows Volat External Flows (without remitt.) 0 0.001 0.002 0.003 0.004 0.005 0.006 0.007 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Honduras Volat External Flows Volat External Flows (without remitt.) 0 0.01 0.02 0.03 0.04 0.05 0.06 0.07 0.08 0.09 0.1 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Panama Volat External Flows Volat External Flows (without remitt.) Source: Global Development Finance and International Financial Statistics, 2009. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 39 Annex 4 
+Annex 4a. Counterfactual Analysis for Latin America – S&P -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Argentina Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Bolivia Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Brazil Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Chile Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Colombia Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Costa Rica Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Dominican Repubic Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Ecuador Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating El Salvador Observed 
+Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Guatemala Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Honduras Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Mexico Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Panama Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Paraguay Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Peru Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Uruguay Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Venezuela Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Nicaragua Observed Predicted Counterf. A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-Source: Authors' calculation. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 40 © OECD 2009 Annex 4 (cont.) 
+Annex 4b. Counterfactual Analysis for Latin America – Moody's -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Moodys Rating Argentina Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Bolivia Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Brazil Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Chile Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Colombia Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Costa Rica Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Dominican Repubic Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Ecuador Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating El Salvador Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Guatemala Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Honduras Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Mexico Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Panama Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Paraguay Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Peru Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Uruguay Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Venezuela Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Nicaragua Observed Predicted Counterf. A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 Source: Authors' calculation. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 41 Annex 4 (cont.) 
+Annex 4c. Counterfactual Analysis for Latin America – Fitch -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Argentina Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Bolivia Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Brazil Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Chile Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Colombia Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Costa Rica Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Dominican Repubic Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Ecuador Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating El Salvador Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Guatemala Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Honduras Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Mexico Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Panama Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Paraguay Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Peru Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Uruguay Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Venezuela Observed Predicted Counterf. -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Nicaragua Observed Predicted Counterf. A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-Source: Authors' calculation. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 42 © OECD 2009 Annex 5 
+Annex 5a. Predicted vs. observed analysis for Latin America – S&P All -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Argentina Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Bolivia Observ ed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Rating Brazil Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Chile Observ ed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Colombia Observed 
+Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Costa Rica Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Dominican Repubic Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Ecuador Observed Predicted 0 2 4 6 8 10 12 14 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 El Salvador Observed 
+Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Guatemala Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Mexico Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Nicaragua Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Paraguay Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Peru Observ ed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Uruguay Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Venezuela Observ ed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Honduras Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Panama Observed Predicted A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-Source: Authors' calculation. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 43 Annex 5 (cont.) 
+Annex 5b. Predicted vs. observed analysis for Latin America – Moody's All -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Argentina Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Bolivia Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Brazil Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Chile Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Colombia Observed 
+Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Costa Rica Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Dominican Repubic Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Ecuador Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 El Salvador Observed 
+Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Guatemala Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Mexico Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Nicaragua Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Paraguay Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Peru Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Uruguay Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Venezuela Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Honduras Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Panama Observed Predicted A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 A1 
+A2 
+A3 
+Baa1 
+Baa2 
+Baa3 
+Ba1 
+Ba2 
+Ba3 
+B1 
+B2 
+B3 
+Caa1 
+Caa2 
+Caa3 Source: Authors' calculation. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 44 © OECD 2009 Annex 5 (cont.) 
+Annex 5c. Predicted vs. observed analysis for Latin America – Fitch All -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Argentina Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Bolivia Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Brazil Observed Predicted 13 13.5 14 14.5 15 15.5 16 16.5 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Chile Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Colombia Observed 
+Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Costa Rica Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Dominican Repubic Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Ecuador Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 El Salvador Observed 
+Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Guatemala Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Mexico Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Nicaragua Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Paraguay Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Peru Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Uruguay Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Venezuela Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Honduras Observed Predicted -1 1 3 5 7 9 11 13 15 17 1993 
+1994 
+1995 
+1996 
+1997 
+1998 
+1999 
+2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 Panama Observed Predicted A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-A+ 
+A 
+A-
+BBB+ 
+BBB 
+BBB-
+BB+ 
+BB 
+BB-
+B+ 
+B 
+B-
+CCC+ 
+CCC 
+CCC-Source: Authors' calculation. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 45 Annex 6 
+Periods of covering shadow ratings for the model for High-Remittance Receptors S&P 
+Moody's 
+Fitch Bolivia 
+1993:1997 
+1993:1997 
+1993:2003 Chile 
+1993:1998 Costa Rica 
+1995:1996 
+1995:1996 Dominican Rep. 
+1995:1996 
+1995:1998 
+1995:2002 Ecuador 
+1993:2001 El Salvador 
+1993:1995 Guatemala 
+1993:2000 
+1993:2005 Honduras 
+1993:2006 
+1993:1998 
+1993:2006 Nicaragua 
+2002:2006 
+2002:2006 Paraguay 
+1995:2006 Peru 
+1993:1998 Source: Authors based on Fitch (2008a), Moody's (2008a) and S&P (2007). Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 46 © OECD 2009 REFERENCES AFONSO A. (2003),  " Understanding the Determinants of Sovereign Debt Ratings: Evidence for the Two 
+Leading Agencies " , Journal of Finance and Economics, Vol. 27, No.1. AMUEDO-DORANTES C. and S. POZO (2004),  " Workers' Remittances and the Real Exchange Rate: A Paradox of 
+Gifts " , World Development Vol. 32, No. 8. BASEL COMMITTEE ON BANKING SUPERVISION (2005)  " International Convergence of Capital Measurement and 
+Capital Standards: a Revised Framework " , November, Basel, BIS. BUGAMELLI M. and F. PATERNO (2005),  " Do Workers' Remittances Reduce the Probability of Current Account 
+Reversals? " , World Bank Policy Research Working Paper No.3766. CANTOR R. and F. PACKER (1996),  " Determinants and Impact of Sovereign Credit Ratings " , Federal Reserve Bank 
+of New York, Economic Policy Review, October, New York. CAVALLO E., A. POWELL and R. RIGOBON (2008),  " Do Credit Rating Agencies Add Value? Evidence from the 
+Sovereign Rating Business Institutions " , Inter-American Development Bank, Working Paper No.647, 
+Washington, DC. CHAMI R., A. BARAJAS, T. COSIMANO, C. FULLENKAMP, M. GAPEN, and P. MONTIEL (2008),  " Macroeconomic 
+Consequences of Remittances " , International Monetary Fund, IMF Occasional Paper No.259, 
+Washington, DC. EICHENGREEN B. and A. MODY (2000),  " What Explains Changing Spreads on Emerging Market Debt? "  in 
+EDWARDS S. (ed.), Capital Flows and The Emerging Economies: Theories, Evidence, and Controversies, 
+Chicago, University of Chicago Press. ESTEVES R. and D. KHOUDOUR-CASTERAS (2009),  " A Fantastic Rain of Gold: European Migrants' Remittances 
+and Balance of Payment Adjustment during the Gold Standard Period " , Forthcoming Journal of 
+Economic History. FAJNZYLBER P. and J. H. LOPEZ (2007),  " Close to Home. The Development Impact of Remittances in Latin 
+America " , World Bank, Washington, DC. FERRI G., L.-G. LIU and J. STIGLITZ (1999),  " The Procyclical Role of Rating Agencies: Evidence from the East 
+Asian Crisis " , Economic Notes, Banca Monte dei Paschi di Siena SpA, n°3. FITCH RATINGS (2007),  " Sovereign Rating Methodology " , October 12. FITCH RATINGS (2008a),  " Complete Sovereign Rating History " , January 30. FITCH RATINGS (2008b),  " Republic of El Salvador " , February 28. FITCH RATINGS (2009), fitchratings.com. FLANDREAU M., J. H. FLORES, N. GAILLARD and S. NIETO-PARRA (2009),  " The End of Gatekeeping: 
+Underwriters and the Quality of Sovereign Bond Markets, 1815-2007 " , NBER Working Paper No. 
+15128. GAILLARD N. (2009),  " Fitch, Moody's and S&P's Sovereign Ratings and EMBI Global Spreads: Lessons from 
+1993-2007 " , International Research Journal of Finance and Economics, Vol.26, April. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 47 JUTTNER J. D. and J. MC CARTHY (2000),  " Modelling a Rating Crisis " , Macquarie University, Sydney. KAMINSKY G. and S. SCHMUKLER (2001),  " Emerging Markets Instability: Do Sovereign Ratings Affect Country 
+Risk and Stock Returns? " , World Bank Working Paper 2678, Washington, DC. MOODY'S INVESTORS SERVICE (2004),  " A Quantitative Model for Foreign Currency Government Bond Ratings " , 
+February. MOODY'S INVESTORS SERVICE (2008a),  " Sovereign Default and Recovery Rates, 1983-2007 " , March. MOODY'S INVESTORS SERVICE (2008b),  " Sovereign Bond Ratings " , September. MOODY'S INVESTORS SERVICE (2009), moodys.com. MORA N. (2006),  " Sovereign credit ratings: guilty beyond reasonable doubt? " , Journal of Banking and Finance 
+Vol.30. NIETO-PARRA S. and J. SANTISO (2007),  " In Search of a Better World: Financial Markets and Developing 
+Countries " , Policy Insights No.37, February. RATHA D. (2004),  " Understanding the Importance of Remittance Flows " , Migration Policy Institute, 
+Washington, DC. RATHA D. (2005),  " Leveraging Remittances for International Capital Market Access " , November 18, World 
+Bank, Washington, DC. RATHA D., P. DE and S. MOHAPATRA (2007),  " Shadow Sovereign Ratings For Unrated Developing Countries " , 
+Development Prospects Group, World Bank, World Bank Policy Research Working Paper 4269, June, 
+Washington, DC. REISEN H. and J. VON MALTZAN (1999),  " Boom and Bust and Sovereign Ratings " , International Finance, 
+Blackwell Publishing, vol. 2(2), pages 273-93, July. ROUBINI N. and P. MANASSE (2005),  "  " Rules of Thumb "  for Sovereign Debt Crises " , International Monetary 
+Fund, IMF Working Paper 05/42, Washington, DC. ROWLAND P. and J. L. TORRES (2004),  " Determinants of Spread and Creditworthiness for Emerging Market 
+Sovereign Debt: A Panel Data Study " , Banco de la República de Colombia, Borradores de Economía, 
+Bogota. ROWLAND P. (2005),  " Determinants of Spread, Credit Ratings and Creditworthiness for Emerging Market 
+Sovereign Debt: A Follow-Up Study Using Pooled Data Analysis. "  Mimeo, Banco de la República, 
+Bogota. STANDARD AND POOR'S (2005),  " Sovereign Report Card: EMBIG " , Commentary Report, September 19. STANDARD AND POOR'S (2007),  " Sovereign Ratings History Since 1975 " , January 3. STANDARD AND POOR'S (2009), standardandpoors.com. SUTTON G. (2005),  " Potentially endogenous borrowing and developing country sovereign credit ratings " , 
+Bank for International Settlements, BIS Occasional Paper No.5, Basel. SY A. (2001),  " Emerging Market Bond Spreads and Sovereign Credit Ratings: Reconciling Market Views with 
+Economic Fundamentals " , International Monetary Fund, IMF Working Paper 01/165, Washington, 
+DC. WORLD BANK (2006),  " Global Economic Prospects: Economic Implications of Remittances and Migration " . 
+Washington, D.C. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 48 © OECD 2009 OTHER TITLES IN THE SERIES/ 
+AUTRES TITRES DANS LA SÉRIE The former series known as  " Technical Papers "  and  " Webdocs "  merged in November 2003 into  " Development Centre Working Papers " . In the new series, former Webdocs 1-17 follow former Technical Papers 1-212 as Working Papers 213-229. All these documents may be downloaded from: http://www.oecd.org/dev/wp or obtained via e-mail (dev.contact@oecd.org). Working Paper No.1, Macroeconomic Adjustment and Income Distribution: A Macro-Micro Simulation Model, by François Bourguignon, 
+William H. Branson and Jaime de Melo, March 1989. 
+Working Paper No. 2, International Interactions in Food and Agricultural Policies: The Effect of Alternative Policies, by Joachim Zietz and 
+Alberto Valdés, April, 1989. 
+Working Paper No. 3, The Impact of Budget Retrenchment on Income Distribution in Indonesia: A Social Accounting Matrix Application, by 
+Steven Keuning and Erik Thorbecke, June 1989. 
+Working Paper No. 3a, Statistical Annex: The Impact of Budget Retrenchment, June 1989. 
+Document de travail No. 4, Le Rééquilibrage entre le secteur public et le secteur privé : le cas du Mexique, par C.-A. Michalet, juin 1989. 
+Working Paper No. 5, Rebalancing the Public and Private Sectors: The Case of Malaysia, by R. Leeds, July 1989. 
+Working Paper No. 6, Efficiency, Welfare Effects and Political Feasibility of Alternative Antipoverty and Adjustment Programs, by Alain de 
+Janvry and Elisabeth Sadoulet, December 1989. 
+Document de travail No. 7, Ajustement et distribution des revenus : application d'un modèle macro-micro au Maroc, par Christian Morrisson, 
+avec la collaboration de Sylvie Lambert et Akiko Suwa, décembre 1989. 
+Working Paper No. 8, Emerging Maize Biotechnologies and their Potential Impact, by W. Burt Sundquist, December 1989. 
+Document de travail No. 9, Analyse des variables socio-culturelles et de l'ajustement en Côte d'Ivoire, par W. Weekes-Vagliani, janvier 1990. 
+Working Paper No. 10, A Financial Computable General Equilibrium Model for the Analysis of Ecuador's Stabilization Programs, by André 
+Fargeix and Elisabeth Sadoulet, February 1990. 
+Working Paper No. 11, Macroeconomic Aspects, Foreign Flows and Domestic Savings Performance in Developing Countries: A  " State of The 
+Art "  Report, by Anand Chandavarkar, February 1990. 
+Working Paper No. 12, Tax Revenue Implications of the Real Exchange Rate: Econometric Evidence from Korea and Mexico, by Viriginia 
+Fierro and Helmut Reisen, February 1990. 
+Working Paper No. 13, Agricultural Growth and Economic Development: The Case of Pakistan, by Naved Hamid and Wouter Tims, 
+April 1990. 
+Working Paper No. 14, Rebalancing the Public and Private Sectors in Developing Countries: The Case of Ghana, by H. Akuoko-Frimpong, 
+June 1990. 
+Working Paper No. 15, Agriculture and the Economic Cycle: An Economic and Econometric Analysis with Special Reference to Brazil, by 
+Florence Contré and Ian Goldin, June 1990. 
+Working Paper No. 16, Comparative Advantage: Theory and Application to Developing Country Agriculture, by Ian Goldin, June 1990. 
+Working Paper No. 17, Biotechnology and Developing Country Agriculture: Maize in Brazil, by Bernardo Sorj and John Wilkinson, 
+June 1990. 
+Working Paper No. 18, Economic Policies and Sectoral Growth: Argentina 1913-1984, by Yair Mundlak, Domingo Cavallo, Roberto 
+Domenech, June 1990. 
+Working Paper No. 19, Biotechnology and Developing Country Agriculture: Maize In Mexico, by Jaime A. Matus Gardea, Arturo Puente 
+Gonzalez and Cristina Lopez Peralta, June 1990. 
+Working Paper No. 20, Biotechnology and Developing Country Agriculture: Maize in Thailand, by Suthad Setboonsarng, July 1990. 
+Working Paper No. 21, International Comparisons of Efficiency in Agricultural Production, by Guillermo Flichmann, July 1990. 
+Working Paper No. 22, Unemployment in Developing Countries: New Light on an Old Problem, by David Turnham and Denizhan Eröcal, 
+July 1990. 
+Working Paper No. 23, Optimal Currency Composition of Foreign Debt: the Case of Five Developing Countries, by Pier Giorgio Gawronski, 
+August 1990. 
+Working Paper No. 24, From Globalization to Regionalization: the Mexican Case, by Wilson Peres Núñez, August 1990. 
+Working Paper No. 25, Electronics and Development in Venezuela: A User-Oriented Strategy and its Policy Implications, by Carlota Perez, 
+October 1990. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 49 Working Paper No. 26, The Legal Protection of Software: Implications for Latecomer Strategies in Newly Industrialising Economies (NIEs) and 
+Middle-Income Economies (MIEs), by Carlos Maria Correa, October 1990. 
+Working Paper No. 27, Specialization, Technical Change and Competitiveness in the Brazilian Electronics Industry, by Claudio R. Frischtak, 
+October 1990. 
+Working Paper No. 28, Internationalization Strategies of Japanese Electronics Companies: Implications for Asian Newly Industrializing 
+Economies (NIEs), by Bundo Yamada, October 1990. 
+Working Paper No. 29, The Status and an Evaluation of the Electronics Industry in Taiwan, by Gee San, October 1990. 
+Working Paper No. 30, The Indian Electronics Industry: Current Status, Perspectives and Policy Options, by Ghayur Alam, October 1990. 
+Working Paper No. 31, Comparative Advantage in Agriculture in Ghana, by James Pickett and E. Shaeeldin, October 1990. 
+Working Paper No. 32, Debt Overhang, Liquidity Constraints and Adjustment Incentives, by Bert Hofman and Helmut Reisen, 
+October 1990. 
+Working Paper No. 34, Biotechnology and Developing Country Agriculture: Maize in Indonesia, by Hidjat Nataatmadja et al., January 1991. 
+Working Paper No. 35, Changing Comparative Advantage in Thai Agriculture, by Ammar Siamwalla, Suthad Setboonsarng and Prasong 
+Werakarnjanapongs, March 1991. 
+Working Paper No. 36, Capital Flows and the External Financing of Turkey's Imports, by Ziya Önis and Süleyman Özmucur, July 1991. 
+Working Paper No. 37, The External Financing of Indonesia's Imports, by Glenn P. Jenkins and Henry B.F. Lim, July 1991. 
+Working Paper No. 38, Long-term Capital Reflow under Macroeconomic Stabilization in Latin America, by Beatriz Armendariz de Aghion, 
+July 1991. 
+Working Paper No. 39, Buybacks of LDC Debt and the Scope for Forgiveness, by Beatriz Armendariz de Aghion, July 1991. 
+Working Paper No. 40, Measuring and Modelling Non-Tariff Distortions with Special Reference to Trade in Agricultural Commodities, by 
+Peter J. Lloyd, July 1991. 
+Working Paper No. 41, The Changing Nature of IMF Conditionality, by Jacques J. Polak, August 1991. 
+Working Paper No. 42, Time-Varying Estimates on the Openness of the Capital Account in Korea and Taiwan, by Helmut Reisen and Hélène 
+Yèches, August 1991. 
+Working Paper No. 43, Toward a Concept of Development Agreements, by F. Gerard Adams, August 1991. 
+Document de travail No. 44, Le Partage du fardeau entre les créanciers de pays débiteurs défaillants, par Jean-Claude Berthélemy et Ann 
+Vourc'h, septembre 1991. 
+Working Paper No. 45, The External Financing of Thailand's Imports, by Supote Chunanunthathum, October 1991. 
+Working Paper No. 46, The External Financing of Brazilian Imports, by Enrico Colombatto, with Elisa Luciano, Luca Gargiulo, Pietro 
+Garibaldi and Giuseppe Russo, October 1991. 
+Working Paper No. 47, Scenarios for the World Trading System and their Implications for Developing Countries, by Robert Z. Lawrence, 
+November 1991. 
+Working Paper No. 48, Trade Policies in a Global Context: Technical Specifications of the Rural/Urban-North/South (RUNS) Applied General 
+Equilibrium Model, by Jean-Marc Burniaux and Dominique van der Mensbrugghe, November 1991. 
+Working Paper No. 49, Macro-Micro Linkages: Structural Adjustment and Fertilizer Policy in Sub-Saharan Africa, by Jean-Marc Fontaine 
+with the collaboration of Alice Sindzingre, December 1991. 
+Working Paper No. 50, Aggregation by Industry in General Equilibrium Models with International Trade, by Peter J. Lloyd, December 1991. 
+Working Paper No. 51, Policy and Entrepreneurial Responses to the Montreal Protocol: Some Evidence from the Dynamic Asian Economies, by 
+David C. O'Connor, December 1991. 
+Working Paper No. 52, On the Pricing of LDC Debt: an Analysis Based on Historical Evidence from Latin America, by Beatriz Armendariz 
+de Aghion, February 1992. 
+Working Paper No. 53, Economic Regionalisation and Intra-Industry Trade: Pacific-Asian Perspectives, by Kiichiro Fukasaku, 
+February 1992. 
+Working Paper No. 54, Debt Conversions in Yugoslavia, by Mojmir Mrak, February 1992. 
+Working Paper No. 55, Evaluation of Nigeria's Debt-Relief Experience (1985-1990), by N.E. Ogbe, March 1992. 
+Document de travail No. 56, L'Expérience de l'allégement de la dette du Mali, par Jean-Claude Berthélemy, février 1992. 
+Working Paper No. 57, Conflict or Indifference: US Multinationals in a World of Regional Trading Blocs, by Louis T. Wells, Jr., March 1992. 
+Working Paper No. 58, Japan's Rapidly Emerging Strategy Toward Asia, by Edward J. Lincoln, April 1992. 
+Working Paper No. 59, The Political Economy of Stabilization Programmes in Developing Countries, by Bruno S. Frey and Reiner 
+Eichenberger, April 1992. 
+Working Paper No. 60, Some Implications of Europe 1992 for Developing Countries, by Sheila Page, April 1992. 
+Working Paper No. 61, Taiwanese Corporations in Globalisation and Regionalisation, by Gee San, April 1992. 
+Working Paper No. 62, Lessons from the Family Planning Experience for Community-Based Environmental Education, by Winifred 
+Weekes-Vagliani, April 1992. 
+Working Paper No. 63, Mexican Agriculture in the Free Trade Agreement: Transition Problems in Economic Reform, by Santiago Levy and 
+Sweder van Wijnbergen, May 1992. 
+Working Paper No. 64, Offensive and Defensive Responses by European Multinationals to a World of Trade Blocs, by John M. Stopford, 
+May 1992. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 50 © OECD 2009 Working Paper No. 65, Economic Integration in the Pacific Region, by Richard Drobnick, May 1992. 
+Working Paper No. 66, Latin America in a Changing Global Environment, by Winston Fritsch, May 1992. 
+Working Paper No. 67, An Assessment of the Brady Plan Agreements, by Jean-Claude Berthélemy and Robert Lensink, May 1992. 
+Working Paper No. 68, The Impact of Economic Reform on the Performance of the Seed Sector in Eastern and Southern Africa, by Elizabeth 
+Cromwell, June 1992. 
+Working Paper No. 69, Impact of Structural Adjustment and Adoption of Technology on Competitiveness of Major Cocoa Producing Countries, 
+by Emily M. Bloomfield and R. Antony Lass, June 1992. 
+Working Paper No. 70, Structural Adjustment and Moroccan Agriculture: an Assessment of the Reforms in the Sugar and Cereal Sectors, by 
+Jonathan Kydd and Sophie Thoyer, June 1992. 
+Document de travail No. 71, L'Allégement de la dette au Club de Paris : les évolutions récentes en perspective, par Ann Vourc'h, juin 1992. 
+Working Paper No. 72, Biotechnology and the Changing Public/Private Sector Balance: Developments in Rice and Cocoa, by Carliene Brenner, 
+July 1992. 
+Working Paper No. 73, Namibian Agriculture: Policies and Prospects, by Walter Elkan, Peter Amutenya, Jochbeth Andima, Robin 
+Sherbourne and Eline van der Linden, July 1992. 
+Working Paper No. 74, Agriculture and the Policy Environment: Zambia and Zimbabwe, by Doris J. Jansen and Andrew Rukovo, 
+July 1992. 
+Working Paper No. 75, Agricultural Productivity and Economic Policies: Concepts and Measurements, by Yair Mundlak, August 1992. 
+Working Paper No. 76, Structural Adjustment and the Institutional Dimensions of Agricultural Research and Development in Brazil: Soybeans, 
+Wheat and Sugar Cane, by John Wilkinson and Bernardo Sorj, August 1992. 
+Working Paper No. 77, The Impact of Laws and Regulations on Micro and Small Enterprises in Niger and Swaziland, by Isabelle Joumard, 
+Carl Liedholm and Donald Mead, September 1992. 
+Working Paper No. 78, Co-Financing Transactions between Multilateral Institutions and International Banks, by Michel Bouchet and Amit 
+Ghose, October 1992. 
+Document de travail No. 79, Allégement de la dette et croissance : le cas mexicain, par Jean-Claude Berthélemy et Ann Vourc'h, 
+octobre 1992. 
+Document de travail No. 80, Le Secteur informel en Tunisie : cadre réglementaire et pratique courante, par Abderrahman Ben Zakour et 
+Farouk Kria, novembre 1992. 
+Working Paper No. 81, Small-Scale Industries and Institutional Framework in Thailand, by Naruemol Bunjongjit and Xavier Oudin, 
+November 1992. 
+Working Paper No. 81a, Statistical Annex: Small-Scale Industries and Institutional Framework in Thailand, by Naruemol Bunjongjit and 
+Xavier Oudin, November 1992. 
+Document de travail No. 82, L'Expérience de l'allégement de la dette du Niger, par Ann Vourc'h et Maina Boukar Moussa, novembre 1992. 
+Working Paper No. 83, Stabilization and Structural Adjustment in Indonesia: an Intertemporal General Equilibrium Analysis, by David 
+Roland-Holst, November 1992. 
+Working Paper No. 84, Striving for International Competitiveness: Lessons from Electronics for Developing Countries, by Jan Maarten de Vet, 
+March 1993. 
+Document de travail No. 85, Micro-entreprises et cadre institutionnel en Algérie, par Hocine Benissad, mars 1993. 
+Working Paper No. 86, Informal Sector and Regulations in Ecuador and Jamaica, by Emilio Klein and Victor E. Tokman, August 1993. 
+Working Paper No. 87, Alternative Explanations of the Trade-Output Correlation in the East Asian Economies, by Colin I. Bradford Jr. and 
+Naomi Chakwin, August 1993. 
+Document de travail No. 88, La Faisabilité politique de l'ajustement dans les pays africains, par Christian Morrisson, Jean-Dominique Lafay 
+et Sébastien Dessus, novembre 1993. 
+Working Paper No. 89, China as a Leading Pacific Economy, by Kiichiro Fukasaku and Mingyuan Wu, November 1993. 
+Working Paper No. 90, A Detailed Input-Output Table for Morocco, 1990, by Maurizio Bussolo and David Roland-Holst November 1993. 
+Working Paper No. 91, International Trade and the Transfer of Environmental Costs and Benefits, by Hiro Lee and David Roland-Holst, 
+December 1993. 
+Working Paper No. 92, Economic Instruments in Environmental Policy: Lessons from the OECD Experience and their Relevance to Developing 
+Economies, by Jean-Philippe Barde, January 1994. 
+Working Paper No. 93, What Can Developing Countries Learn from OECD Labour Market Programmes and Policies?, by Åsa Sohlman with 
+David Turnham, January 1994. 
+Working Paper No. 94, Trade Liberalization and Employment Linkages in the Pacific Basin, by Hiro Lee and David Roland-Holst, 
+February 1994. 
+Working Paper No. 95, Participatory Development and Gender: Articulating Concepts and Cases, by Winifred Weekes-Vagliani, 
+February 1994. 
+Document de travail No. 96, Promouvoir la maîtrise locale et régionale du développement : une démarche participative à Madagascar, par 
+Philippe de Rham et Bernard Lecomte, juin 1994. 
+Working Paper No. 97, The OECD Green Model: an Updated Overview, by Hiro Lee, Joaquim Oliveira-Martins and Dominique van der 
+Mensbrugghe, August 1994. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 51 Working Paper No. 98, Pension Funds, Capital Controls and Macroeconomic Stability, by Helmut Reisen and John Williamson, 
+August 1994. 
+Working Paper No. 99, Trade and Pollution Linkages: Piecemeal Reform and Optimal Intervention, by John Beghin, David Roland-Holst 
+and Dominique van der Mensbrugghe, October 1994. 
+Working Paper No. 100, International Initiatives in Biotechnology for Developing Country Agriculture: Promises and Problems, by Carliene 
+Brenner and John Komen, October 1994. 
+Working Paper No. 101, Input-based Pollution Estimates for Environmental Assessment in Developing Countries, by Sébastien Dessus, 
+David Roland-Holst and Dominique van der Mensbrugghe, October 1994. 
+Working Paper No. 102, Transitional Problems from Reform to Growth: Safety Nets and Financial Efficiency in the Adjusting Egyptian 
+Economy, by Mahmoud Abdel-Fadil, December 1994. 
+Working Paper No. 103, Biotechnology and Sustainable Agriculture: Lessons from India, by Ghayur Alam, December 1994. 
+Working Paper No. 104, Crop Biotechnology and Sustainability: a Case Study of Colombia, by Luis R. Sanint, January 1995. 
+Working Paper No. 105, Biotechnology and Sustainable Agriculture: the Case of Mexico, by José Luis Solleiro Rebolledo, January 1995. 
+Working Paper No. 106, Empirical Specifications for a General Equilibrium Analysis of Labor Market Policies and Adjustments, by Andréa 
+Maechler and David Roland-Holst, May 1995. 
+Document de travail No. 107, Les Migrants, partenaires de la coopération internationale : le cas des Maliens de France, par Christophe Daum, 
+juillet 1995. 
+Document de travail No. 108, Ouverture et croissance industrielle en Chine : étude empirique sur un échantillon de villes, par Sylvie 
+Démurger, septembre 1995. 
+Working Paper No. 109, Biotechnology and Sustainable Crop Production in Zimbabwe, by John J. Woodend, December 1995. 
+Document de travail No. 110, Politiques de l'environnement et libéralisation des échanges au Costa Rica : une vue d'ensemble, par Sébastien 
+Dessus et Maurizio Bussolo, février 1996. 
+Working Paper No. 111, Grow Now/Clean Later, or the Pursuit of Sustainable Development?, by David O'Connor, March 1996. 
+Working Paper No. 112, Economic Transition and Trade-Policy Reform: Lessons from China, by Kiichiro Fukasaku and Henri-Bernard 
+Solignac Lecomte, July 1996. 
+Working Paper No. 113, Chinese Outward Investment in Hong Kong: Trends, Prospects and Policy Implications, by Yun-Wing Sung, 
+July 1996. 
+Working Paper No. 114, Vertical Intra-industry Trade between China and OECD Countries, by Lisbeth Hellvin, July 1996. 
+Document de travail No. 115, Le Rôle du capital public dans la croissance des pays en développement au cours des années 80, par Sébastien 
+Dessus et Rémy Herrera, juillet 1996. 
+Working Paper No. 116, General Equilibrium Modelling of Trade and the Environment, by John Beghin, Sébastien Dessus, David Roland-
+Holst and Dominique van der Mensbrugghe, September 1996. 
+Working Paper No. 117, Labour Market Aspects of State Enterprise Reform in Viet Nam, by David O'Connor, September 1996. 
+Document de travail No. 118, Croissance et compétitivité de l'industrie manufacturière au Sénégal, par Thierry Latreille et Aristomène 
+Varoudakis, octobre 1996. 
+Working Paper No. 119, Evidence on Trade and Wages in the Developing World, by Donald J. Robbins, December 1996. 
+Working Paper No. 120, Liberalising Foreign Investments by Pension Funds: Positive and Normative Aspects, by Helmut Reisen, 
+January 1997. 
+Document de travail No. 121, Capital Humain, ouverture extérieure et croissance : estimation sur données de panel d'un modèle à coefficients 
+variables, par Jean-Claude Berthélemy, Sébastien Dessus et Aristomène Varoudakis, janvier 1997. 
+Working Paper No. 122, Corruption: The Issues, by Andrew W. Goudie and David Stasavage, January 1997. 
+Working Paper No. 123, Outflows of Capital from China, by David Wall, March 1997. 
+Working Paper No. 124, Emerging Market Risk and Sovereign Credit Ratings, by Guillermo Larraín, Helmut Reisen and Julia von 
+Maltzan, April 1997. 
+Working Paper No. 125, Urban Credit Co-operatives in China, by Eric Girardin and Xie Ping, August 1997. 
+Working Paper No. 126, Fiscal Alternatives of Moving from Unfunded to Funded Pensions, by Robert Holzmann, August 1997. 
+Working Paper No. 127, Trade Strategies for the Southern Mediterranean, by Peter A. Petri, December 1997. 
+Working Paper No. 128, The Case of Missing Foreign Investment in the Southern Mediterranean, by Peter A. Petri, December 1997. 
+Working Paper No. 129, Economic Reform in Egypt in a Changing Global Economy, by Joseph Licari, December 1997. 
+Working Paper No. 130, Do Funded Pensions Contribute to Higher Aggregate Savings? A Cross-Country Analysis, by Jeanine Bailliu and 
+Helmut Reisen, December 1997. 
+Working Paper No. 131, Long-run Growth Trends and Convergence Across Indian States, by Rayaprolu Nagaraj, Aristomène Varoudakis 
+and Marie-Ange Véganzonès, January 1998. 
+Working Paper No. 132, Sustainable and Excessive Current Account Deficits, by Helmut Reisen, February 1998. 
+Working Paper No. 133, Intellectual Property Rights and Technology Transfer in Developing Country Agriculture: Rhetoric and Reality, by 
+Carliene Brenner, March 1998. 
+Working Paper No. 134, Exchange-rate Management and Manufactured Exports in Sub-Saharan Africa, by Khalid Sekkat and Aristomène 
+Varoudakis, March 1998. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 52 © OECD 2009 Working Paper No. 135, Trade Integration with Europe, Export Diversification and Economic Growth in Egypt, by Sébastien Dessus and 
+Akiko Suwa-Eisenmann, June 1998. 
+Working Paper No. 136, Domestic Causes of Currency Crises: Policy Lessons for Crisis Avoidance, by Helmut Reisen, June 1998. 
+Working Paper No. 137, A Simulation Model of Global Pension Investment, by Landis MacKellar and Helmut Reisen, August 1998. 
+Working Paper No. 138, Determinants of Customs Fraud and Corruption: Evidence from Two African Countries, by David Stasavage and 
+Cécile Daubrée, August 1998. 
+Working Paper No. 139, State Infrastructure and Productive Performance in Indian Manufacturing, by Arup Mitra, Aristomène Varoudakis 
+and Marie-Ange Véganzonès, August 1998. 
+Working Paper No. 140, Rural Industrial Development in Viet Nam and China: A Study in Contrasts, by David O'Connor, September 1998. 
+Working Paper No. 141,Labour Market Aspects of State Enterprise Reform in China, by Fan Gang,Maria Rosa Lunati and David 
+O'Connor, October 1998. 
+Working Paper No. 142, Fighting Extreme Poverty in Brazil: The Influence of Citizens' Action on Government Policies, by Fernanda Lopes 
+de Carvalho, November 1998. 
+Working Paper No. 143, How Bad Governance Impedes Poverty Alleviation in Bangladesh, by Rehman Sobhan, November 1998. 
+Document de travail No. 144, La libéralisation de l'agriculture tunisienne et l'Union européenne: une vue prospective, par Mohamed 
+Abdelbasset Chemingui et Sébastien Dessus, février 1999. 
+Working Paper No. 145, Economic Policy Reform and Growth Prospects in Emerging African Economies, by Patrick Guillaumont, Sylviane 
+Guillaumont Jeanneney and Aristomène Varoudakis, March 1999. 
+Working Paper No. 146, Structural Policies for International Competitiveness in Manufacturing: The Case of Cameroon, by Ludvig Söderling, 
+March 1999. 
+Working Paper No. 147, China's Unfinished Open-Economy Reforms: Liberalisation of Services, by Kiichiro Fukasaku, Yu Ma and Qiumei 
+Yang, April 1999. 
+Working Paper No. 148, Boom and Bust and Sovereign Ratings, by Helmut Reisen and Julia von Maltzan, June 1999. 
+Working Paper No. 149, Economic Opening and the Demand for Skills in Developing Countries: A Review of Theory and Evidence, by David 
+O'Connor and Maria Rosa Lunati, June 1999. 
+Working Paper No. 150, The Role of Capital Accumulation, Adjustment and Structural Change for Economic Take-off: Empirical Evidence from 
+African Growth Episodes, by Jean-Claude Berthélemy and Ludvig Söderling, July 1999. 
+Working Paper No. 151, Gender, Human Capital and Growth: Evidence from Six Latin American Countries, by Donald J. Robbins, 
+September 1999. 
+Working Paper No. 152, The Politics and Economics of Transition to an Open Market Economy in Viet Nam, by James Riedel and William 
+S. Turley, September 1999. 
+Working Paper No. 153, The Economics and Politics of Transition to an Open Market Economy: China, by Wing Thye Woo, October 1999. 
+Working Paper No. 154, Infrastructure Development and Regulatory Reform in Sub-Saharan Africa: The Case of Air Transport, by Andrea 
+E. Goldstein, October 1999. 
+Working Paper No. 155, The Economics and Politics of Transition to an Open Market Economy: India, by Ashok V. Desai, October 1999. 
+Working Paper No. 156, Climate Policy Without Tears: CGE-Based Ancillary Benefits Estimates for Chile, by Sébastien Dessus and David 
+O'Connor, November 1999. 
+Document de travail No. 157, Dépenses d'éducation, qualité de l'éducation et pauvreté : l'exemple de cinq pays d'Afrique francophone, par 
+Katharina Michaelowa, avril 2000. 
+Document de travail No. 158, Une estimation de la pauvreté en Afrique subsaharienne d'après les données anthropométriques, par Christian 
+Morrisson, Hélène Guilmeau et Charles Linskens, mai 2000. 
+Working Paper No. 159, Converging European Transitions, by Jorge Braga de Macedo, July 2000. 
+Working Paper No. 160, Capital Flows and Growth in Developing Countries: Recent Empirical Evidence, by Marcelo Soto, July 2000. 
+Working Paper No. 161, Global Capital Flows and the Environment in the 21st Century, by David O'Connor, July 2000. 
+Working Paper No. 162, Financial Crises and International Architecture: A  " Eurocentric "  Perspective, by Jorge Braga de Macedo, 
+August 2000. 
+Document de travail No. 163, Résoudre le problème de la dette : de l'initiative PPTE à Cologne, par Anne Joseph, août 2000. 
+Working Paper No. 164, E-Commerce for Development: Prospects and Policy Issues, by Andrea Goldstein and David O'Connor, 
+September 2000. 
+Working Paper No. 165, Negative Alchemy? Corruption and Composition of Capital Flows, by Shang-Jin Wei, October 2000. 
+Working Paper No. 166, The HIPC Initiative: True and False Promises, by Daniel Cohen, October 2000. 
+Document de travail No. 167, Les facteurs explicatifs de la malnutrition en Afrique subsaharienne, par Christian Morrisson et Charles 
+Linskens, octobre 2000. 
+Working Paper No. 168, Human Capital and Growth: A Synthesis Report, by Christopher A. Pissarides, November 2000. 
+Working Paper No. 169, Obstacles to Expanding Intra-African Trade, by Roberto Longo and Khalid Sekkat, March 2001. 
+Working Paper No. 170, Regional Integration In West Africa, by Ernest Aryeetey, March 2001. 
+Working Paper No. 171, Regional Integration Experience in the Eastern African Region, by Andrea Goldstein and Njuguna S. Ndung'u, 
+March 2001. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 53 Working Paper No. 172, Integration and Co-operation in Southern Africa, by Carolyn Jenkins, March 2001. 
+Working Paper No. 173, FDI in Sub-Saharan Africa, by Ludger Odenthal, March 2001 
+Document de travail No. 174, La réforme des télécommunications en Afrique subsaharienne, par Patrick Plane, mars 2001. 
+Working Paper No. 175, Fighting Corruption in Customs Administration: What Can We Learn from Recent Experiences?, by Irène Hors; 
+April 2001. 
+Working Paper No. 176, Globalisation and Transformation: Illusions and Reality, by Grzegorz W. Kolodko, May 2001. 
+Working Paper No. 177, External Solvency, Dollarisation and Investment Grade: Towards a Virtuous Circle?, by Martin Grandes, June 2001. 
+Document de travail No. 178, Congo 1965-1999: Les espoirs déçus du « Brésil africain », par Joseph Maton avec Henri-Bernard Solignac 
+Lecomte, septembre 2001. 
+Working Paper No. 179, Growth and Human Capital: Good Data, Good Results, by Daniel Cohen and Marcelo Soto, September 2001. 
+Working Paper No. 180, Corporate Governance and National Development, by Charles P. Oman, October 2001. 
+Working Paper No. 181, How Globalisation Improves Governance, by Federico Bonaglia, Jorge Braga de Macedo and Maurizio Bussolo, 
+November 2001. 
+Working Paper No. 182, Clearing the Air in India: The Economics of Climate Policy with Ancillary Benefits, by Maurizio Bussolo and David 
+O'Connor, November 2001. 
+Working Paper No. 183, Globalisation, Poverty and Inequality in sub-Saharan Africa: A Political Economy Appraisal, by Yvonne M. Tsikata, 
+December 2001. 
+Working Paper No. 184, Distribution and Growth in Latin America in an Era of Structural Reform: The Impact of Globalisation, by Samuel 
+A. Morley, December 2001. 
+Working Paper No. 185, Globalisation, Liberalisation, Poverty and Income Inequality in Southeast Asia, by K.S. Jomo, December 2001. 
+Working Paper No. 186, Globalisation, Growth and Income Inequality: The African Experience, by Steve Kayizzi-Mugerwa, December 2001. 
+Working Paper No. 187, The Social Impact of Globalisation in Southeast Asia, by Mari Pangestu, December 2001. 
+Working Paper No. 188, Where Does Inequality Come From? Ideas and Implications for Latin America, by James A. Robinson, 
+December 2001. 
+Working Paper No. 189, Policies and Institutions for E-Commerce Readiness: What Can Developing Countries Learn from OECD Experience?, 
+by Paulo Bastos Tigre and David O'Connor, April 2002. 
+Document de travail No. 190, La réforme du secteur financier en Afrique, par Anne Joseph, juillet 2002. 
+Working Paper No. 191, Virtuous Circles? Human Capital Formation, Economic Development and the Multinational Enterprise, by Ethan 
+B. Kapstein, August 2002. 
+Working Paper No. 192, Skill Upgrading in Developing Countries: Has Inward Foreign Direct Investment Played a Role?, by Matthew 
+J. Slaughter, August 2002. 
+Working Paper No. 193, Government Policies for Inward Foreign Direct Investment in Developing Countries: Implications for Human Capital 
+Formation and Income Inequality, by Dirk Willem te Velde, August 2002. 
+Working Paper No. 194, Foreign Direct Investment and Intellectual Capital Formation in Southeast Asia, by Bryan K. Ritchie, August 2002. 
+Working Paper No. 195, FDI and Human Capital: A Research Agenda, by Magnus Blomström and Ari Kokko, August 2002. 
+Working Paper No. 196, Knowledge Diffusion from Multinational Enterprises: The Role of Domestic and Foreign Knowledge-Enhancing 
+Activities, by Yasuyuki Todo and Koji Miyamoto, August 2002. 
+Working Paper No. 197, Why Are Some Countries So Poor? Another Look at the Evidence and a Message of Hope, by Daniel Cohen and 
+Marcelo Soto, October 2002. 
+Working Paper No. 198, Choice of an Exchange-Rate Arrangement, Institutional Setting and Inflation: Empirical Evidence from Latin America, 
+by Andreas Freytag, October 2002. 
+Working Paper No. 199, Will Basel II Affect International Capital Flows to Emerging Markets?, by Beatrice Weder and Michael Wedow, 
+October 2002. 
+Working Paper No. 200, Convergence and Divergence of Sovereign Bond Spreads: Lessons from Latin America, by Martin Grandes, 
+October 2002. 
+Working Paper No. 201, Prospects for Emerging-Market Flows amid Investor Concerns about Corporate Governance, by Helmut Reisen, 
+November 2002. 
+Working Paper No. 202, Rediscovering Education in Growth Regressions, by Marcelo Soto, November 2002. 
+Working Paper No. 203, Incentive Bidding for Mobile Investment: Economic Consequences and Potential Responses, by Andrew Charlton, 
+January 2003. 
+Working Paper No. 204, Health Insurance for the Poor? Determinants of participation Community-Based Health Insurance Schemes in Rural 
+Senegal, by Johannes Jütting, January 2003. 
+Working Paper No. 205, China's Software Industry and its Implications for India, by Ted Tschang, February 2003. 
+Working Paper No. 206, Agricultural and Human Health Impacts of Climate Policy in China: A General Equilibrium Analysis with Special 
+Reference to Guangdong, by David O'Connor, Fan Zhai, Kristin Aunan, Terje Berntsen and Haakon Vennemo, March 2003. 
+Working Paper No. 207, India's Information Technology Sector: What Contribution to Broader Economic Development?, by Nirvikar Singh, 
+March 2003. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 54 © OECD 2009 Working Paper No. 208, Public Procurement: Lessons from Kenya, Tanzania and Uganda, by Walter Odhiambo and Paul Kamau, 
+March 2003. 
+Working Paper No. 209, Export Diversification in Low-Income Countries: An International Challenge after Doha, by Federico Bonaglia and 
+Kiichiro Fukasaku, June 2003. 
+Working Paper No. 210, Institutions and Development: A Critical Review, by Johannes Jütting, July 2003. 
+Working Paper No. 211, Human Capital Formation and Foreign Direct Investment in Developing Countries, by Koji Miyamoto, July 2003. 
+Working Paper No. 212, Central Asia since 1991: The Experience of the New Independent States, by Richard Pomfret, July 2003. 
+Working Paper No. 213, A Multi-Region Social Accounting Matrix (1995) and Regional Environmental General Equilibrium Model for India 
+(REGEMI), by Maurizio Bussolo, Mohamed Chemingui and David O'Connor, November 2003. 
+Working Paper No. 214, Ratings Since the Asian Crisis, by Helmut Reisen, November 2003. 
+Working Paper No. 215, Development Redux: Reflections for a New Paradigm, by Jorge Braga de Macedo, November 2003. 
+Working Paper No. 216, The Political Economy of Regulatory Reform: Telecoms in the Southern Mediterranean, by Andrea Goldstein, 
+November 2003. 
+Working Paper No. 217, The Impact of Education on Fertility and Child Mortality: Do Fathers Really Matter Less than Mothers?, by Lucia 
+Breierova and Esther Duflo, November 2003. 
+Working Paper No. 218, Float in Order to Fix? Lessons from Emerging Markets for EU Accession Countries, by Jorge Braga de Macedo and 
+Helmut Reisen, November 2003. 
+Working Paper No. 219, Globalisation in Developing Countries: The Role of Transaction Costs in Explaining Economic Performance in India, 
+by Maurizio Bussolo and John Whalley, November 2003. 
+Working Paper No. 220, Poverty Reduction Strategies in a Budget-Constrained Economy: The Case of Ghana, by Maurizio Bussolo and 
+Jeffery I. Round, November 2003. 
+Working Paper No. 221, Public-Private Partnerships in Development: Three Applications in Timor Leste, by José Braz, November 2003. 
+Working Paper No. 222, Public Opinion Research, Global Education and Development Co-operation Reform: In Search of a Virtuous Circle, by Ida 
+Mc Donnell, Henri-Bernard Solignac Lecomte and Liam Wegimont, November 2003. 
+Working Paper No. 223, Building Capacity to Trade: What Are the Priorities?, by Henry-Bernard Solignac Lecomte, November 2003. 
+Working Paper No. 224, Of Flying Geeks and O-Rings: Locating Software and IT Services in India's Economic Development, by David 
+O'Connor, November 2003. 
+Document de travail No. 225, Cap Vert: Gouvernance et Développement, par Jaime Lourenço and Colm Foy, novembre 2003. 
+Working Paper No. 226, Globalisation and Poverty Changes in Colombia, by Maurizio Bussolo and Jann Lay, November 2003. 
+Working Paper No. 227, The Composite Indicator of Economic Activity in Mozambique (ICAE): Filling in the Knowledge Gaps to Enhance 
+Public-Private Partnership (PPP), by Roberto J. Tibana, November 2003. 
+Working Paper No. 228, Economic-Reconstruction in Post-Conflict Transitions: Lessons for the Democratic Republic of Congo (DRC), by 
+Graciana del Castillo, November 2003. 
+Working Paper No. 229, Providing Low-Cost Information Technology Access to Rural Communities In Developing Countries: What Works? 
+What Pays? by Georg Caspary and David O'Connor, November 2003. 
+Working Paper No. 230, The Currency Premium and Local-Currency Denominated Debt Costs in South Africa, by Martin Grandes, Marcel 
+Peter and Nicolas Pinaud, December 2003. 
+Working Paper No. 231, Macroeconomic Convergence in Southern Africa: The Rand Zone Experience, by Martin Grandes, December 2003. 
+Working Paper No. 232, Financing Global and Regional Public Goods through ODA: Analysis and Evidence from the OECD Creditor 
+Reporting System, by Helmut Reisen, Marcelo Soto and Thomas Weithöner, January 2004. 
+Working Paper No. 233, Land, Violent Conflict and Development, by Nicolas Pons-Vignon and Henri-Bernard Solignac Lecomte, 
+February 2004. 
+Working Paper No. 234, The Impact of Social Institutions on the Economic Role of Women in Developing Countries, by Christian Morrisson 
+and Johannes Jütting, May 2004. 
+Document de travail No. 235, La condition desfemmes en Inde, Kenya, Soudan et Tunisie, par Christian Morrisson, août 2004. 
+Working Paper No. 236, Decentralisation and Poverty in Developing Countries: Exploring the Impact, by Johannes Jütting, 
+Céline Kauffmann, Ida Mc Donnell, Holger Osterrieder, Nicolas Pinaud and Lucia Wegner, August 2004. 
+Working Paper No. 237, Natural Disasters and Adaptive Capacity, by Jeff Dayton-Johnson, August 2004. 
+Working Paper No. 238, Public Opinion Polling and the Millennium Development Goals, by Jude Fransman, Alphonse L. MacDonnald, 
+Ida Mc Donnell and Nicolas Pons-Vignon, October 2004. 
+Working Paper No. 239, Overcoming Barriers to Competitiveness, by Orsetta Causa and Daniel Cohen, December 2004. 
+Working Paper No. 240, Extending Insurance? Funeral Associations in Ethiopia and Tanzania, by Stefan Dercon, Tessa Bold, Joachim 
+De Weerdt and Alula Pankhurst, December 2004. 
+Working Paper No. 241, Macroeconomic Policies: New Issues of Interdependence, by Helmut Reisen, Martin Grandes and Nicolas Pinaud, 
+January 2005. 
+Working Paper No. 242, Institutional Change and its Impact on the Poor and Excluded: The Indian Decentralisation Experience, by 
+D. Narayana, January 2005. 
+Working Paper No. 243, Impact of Changes in Social Institutions on Income Inequality in China, by Hiroko Uchimura, May 2005. OECD Development Centre Working Paper No. 282 DEV/DOC(2009)7 © OECD 2009 55 Working Paper No. 244, Priorities in Global Assistance for Health, AIDS and Population (HAP), by Landis MacKellar, June 2005. 
+Working Paper No. 245, Trade and Structural Adjustment Policies in Selected Developing Countries, by Jens Andersson, Federico Bonaglia, 
+Kiichiro Fukasaku and Caroline Lesser, July 2005. 
+Working Paper No. 246, Economic Growth and Poverty Reduction: Measurement and Policy Issues, by Stephan Klasen, (September 2005). 
+Working Paper No. 247, Measuring Gender (In)Equality: Introducing the Gender, Institutions and Development Data Base (GID), 
+by Johannes P. Jütting, Christian Morrisson, Jeff Dayton-Johnson and Denis Drechsler (March 2006). 
+Working Paper No. 248, Institutional Bottlenecks for Agricultural Development: A Stock-Taking Exercise Based on Evidence from Sub-Saharan 
+Africa by Juan R. de Laiglesia, March 2006. 
+Working Paper No. 249, Migration Policy and its Interactions with Aid, Trade and Foreign Direct Investment Policies: A Background Paper, by 
+Theodora Xenogiani, June 2006. 
+Working Paper No. 250, Effects of Migration on Sending Countries: What Do We Know? by Louka T. Katseli, Robert E.B. Lucas and 
+Theodora Xenogiani, June 2006. 
+Document de travail No. 251, L'aide au développement et les autres flux nord-sud : complémentarité ou substitution ?, par Denis Cogneau et 
+Sylvie Lambert, juin 2006. 
+Working Paper No. 252, Angel or Devil? China's Trade Impact on Latin American Emerging Markets, by Jorge Blázquez-Lidoy, Javier 
+Rodríguez and Javier Santiso, June 2006. 
+Working Paper No. 253, Policy Coherence for Development: A Background Paper on Foreign Direct Investment, by Thierry Mayer, July 2006. 
+Working Paper No. 254, The Coherence of Trade Flows and Trade Policies with Aid and Investment Flows, by Akiko Suwa-Eisenmann and 
+Thierry Verdier, August 2006. 
+Document de travail No. 255, Structures familiales, transferts et épargne : examen, par Christian Morrisson, août 2006. 
+Working Paper No. 256, Ulysses, the Sirens and the Art of Navigation: Political and Technical Rationality in Latin America, by Javier Santiso 
+and Laurence Whitehead, September 2006. 
+Working Paper No. 257, Developing Country Multinationals: South-South Investment Comes of Age, by Dilek Aykut and Andrea 
+Goldstein, November 2006. 
+Working Paper No. 258, The Usual Suspects: A Primer on Investment Banks' Recommendations and Emerging Markets, by Sebastián Nieto-
+Parra and Javier Santiso, January 2007. 
+Working Paper No. 259, Banking on Democracy: The Political Economy of International Private Bank Lending in Emerging Markets, by Javier 
+Rodríguez and Javier Santiso, March 2007. 
+Working Paper No. 260, New Strategies for Emerging Domestic Sovereign Bond Markets, by Hans Blommestein and Javier Santiso, April 
+2007. 
+Working Paper No. 261, Privatisation in the MEDA region. Where do we stand?, by Céline Kauffmann and Lucia Wegner, July 2007. 
+Working Paper No. 262, Strengthening Productive Capacities in Emerging Economies through Internationalisation: Evidence from the 
+Appliance Industry, by Federico Bonaglia and Andrea Goldstein, July 2007. 
+Working Paper No. 263, Banking on Development: Private Banks and Aid Donors in Developing Countries, by Javier Rodríguez and Javier 
+Santiso, November 2007. 
+Working Paper No. 264, Fiscal Decentralisation, Chinese Style: Good for Health Outcomes?, by Hiroko Uchimura and Johannes Jütting, 
+November 2007. 
+Working Paper No. 265, Private Sector Participation and Regulatory Reform in Water supply: the Southern Mediterranean Experience, by 
+Edouard Pérard, January 2008. 
+Working Paper No. 266, Informal Employment Re-loaded, by Johannes Jütting, Jante Parlevliet and Theodora Xenogiani, January 2008. 
+Working Paper No. 267, Household Structures and Savings: Evidence from Household Surveys, by Juan R. de Laiglesia and Christian 
+Morrisson, January 2008. 
+Working Paper No. 268, Prudent versus Imprudent Lending to Africa: From Debt Relief to Emerging Lenders, by Helmut Reisen and Sokhna 
+Ndoye, February 2008. 
+Working Paper No. 269, Lending to the Poorest Countries: A New Counter-Cyclical Debt Instrument, by Daniel Cohen, Hélène Djoufelkit-
+Cottenet, Pierre Jacquet and Cécile Valadier, April 2008. 
+Working Paper No.270, The Macro Management of Commodity Booms: Africa and Latin America's Response to Asian Demand, by Rolando 
+Avendaño, Helmut Reisen and Javier Santiso, August 2008. 
+Working Paper No. 271, Report on Informal Employment in Romania, by Jante Parlevliet and Theodora Xenogiani, July 2008. 
+Working Paper No. 272, Wall Street and Elections in Latin American Emerging Democracies, by Sebastián Nieto-Parra and Javier Santiso, 
+October 2008. 
+Working Paper No. 273, Aid Volatility and Macro Risks in LICs, by Eduardo Borensztein, Julia Cage, Daniel Cohen and Cécile Valadier, 
+November 2008. 
+Working Paper No. 274, Who Saw Sovereign Debt Crises Coming?, by Sebastián Nieto-Parra, November 2008. 
+Working Paper No. 275, Development Aid and Portfolio Funds: Trends, Volatility and Fragmentation, by Emmanuel Frot and Javier Santiso, 
+December 2008. 
+Working Paper No. 276, Extracting the Maximum from EITI, by Dilan Ölcer, February 2009. 
+Working Paper No. 277, Taking Stock of the Credit Crunch: Implications for Development Finance and Global Governance, by Andrew Mold, 
+Sebastian Paulo and Annalisa Prizzon, March 2009. 
+Working Paper No. 278, Are All Migrants Really Worse Off in Urban Labour Markets? New Empirical Evidence from China, by Jason Gagnon, 
+Theodora Xenogiani and Chunbing Xing, June 2009. Are Workers' Remittances Relevant for Credit Rating Agencies? DEV/DOC(2009)7 56 © OECD 2009 Working Paper No. 279, Herding in Aid Allocation, by Emmanuel Frot and Javier Santiso, June 2009. 
+Working Paper No. 280, Coherence of Development Policies: Ecuador's Economic Ties with Spain and their Development Impact, by Iliana Olivié, 
+July 2009. 
+Working Paper No. 281, Revisiting Political Budget Cycles in Latin America, by Sebastián Nieto-Parra and Javier Santiso, August 2009. 

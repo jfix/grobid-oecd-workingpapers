@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<address>
+								<addrLine>D40, E20</addrLine>,
+								<postCode>E60</postCode>,
+								<postCode>F40</postCode>,
+								<postCode>H11</postCode>,
+								<postCode>H40</postCode>,
+								<postCode>H50</postCode>,
+								<postCode>H60</postCode>,
+								<postCode>J20</postCode>,
+								<postCode>L11</postCode>,
+								<postCode>L50</postCode>,
+								<postCode>L51</postCode>,
+								<postCode>L53</postCode>,
+								<region>O47</region>
+								<addrLine>2 rue André Pascal</addrLine>,
+								<postCode>75775</postCode>
+								<settlement>Paris Cedex 16</settlement>,
+								<country>France.</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

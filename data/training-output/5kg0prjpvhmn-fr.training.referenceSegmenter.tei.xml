@@ -1,0 +1,78 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_0"/>
+    </teiHeader>
+    <text xml:lang="en">
+        <listBibl>
+        <bibl><label>1.</label> Nous remercions la Société du Grand Paris et le Forum International des Transports de me<lb/> donner le privilège de partager ces quelques réflexions avec ses participants. Nous tenons aussi à<lb/> remercier les participants aux réunions organisées dans le cadre du Grand Paris, le 15 et 25 mars,<lb/> 2011. En particulier, je tiens à remercier C. Barbe (SGP), J-J. Becker (CGDD), J-V. Bonifas<lb/> (SGP), G. Charasse (SGP), M. Gaudry, V. Gollain (ARD), P-A. Jeanneney (SGP), C. Lecomte<lb/> (CGEDD), S. Marchand (INSEE), F.. Maurel (CGDD), A. Missoffe (SGP), J-P. Ourliac<lb/> (CGEDD), J. Poulit (DHUP), E. Quinet (ENPC), A. Sauvant (RFF), J. Senèze (SGP) et<lb/> K. Van Dender (OCDE). Enfin, j&apos;ai aussi bénéficié des commentaires J.-C. Prager (SGP) et de<lb/> J.-F. Thisse (UCL), ainsi que des suggestions de N. Picard (UCP) et de S. Pahaut (ULB). Une<lb/> partie des éléments de ce présent document est discuté dans Beaude et de Palma (2011).<lb/> </bibl>
+<bibl>Guillaume Monchambert a contribué à la section sur les économies d&apos;agglomération. Les<lb/> chercheurs engagés sur ces projets et moi-même avons bénéficié de nombreuses discussions<lb/> constructives avec Matthieu de Lapparent, qui a de plus trouvé le temps de relire et commenter ce<lb/> manuscrit. Stephen Perkins et Kurt Van Dender nous ont permis d&apos;améliorer le texte.<lb/> </bibl>
+        <bibl><label>2.</label> Ils représentent $70%$70 % des déplacements motorisés en Île-de-France. Par ailleurs, la part<lb/> modale des transports en commun est de $64%$64 % à Paris intra muros, contre seulement<lb/> $23%$23 % et $10%$10 % en petite et grande couronne respectivement.<lb/> </bibl>
+        <bibl><label>3.</label> Selon l&apos;INSEE, indépendamment de ce projet, un million de personnes supplémentaires<lb/> habiteraient en Île-de-France en 2030 si les tendances démographiques et migratoires récentes se<lb/> poursuivaient (Leon, 2006).<lb/> </bibl>
+        <bibl><label>4.</label> Pour le projet Arc Express (tracé de 60 kilomètres), le coût estimé est de 5 milliards d&apos;euros pour<lb/> les tronçons prioritaires (Nord et Sud) et de 6 milliards pour l&apos;ensemble de la rocade.<lb/> </bibl>
+        <bibl><label>5.</label> On notera que ce type de mécanisme d&apos;enchère est au centre du modèle d&apos;équilibre général<lb/> urbain, MUSSA (ce mécanisme est expliqué par Martinez, 1996).<lb/> </bibl>
+        <bibl><label>6.</label> Voir néanmoins la note historique de Dos Santos et Thisse (1996) sur W. Launhardt en 1885,<lb/> prédécesseur d&apos;Hotelling.<lb/> </bibl>
+        <bibl><label>7.</label> Pierre Mongin, l&apos;un des acteurs du Grand Paris, insistait récemment sur le fait qu&apos;il était essentiel<lb/> de modéliser la ville comme un système ouvert.<lb/> </bibl>
+        <bibl><label>8.</label> http://www.wmaker.net/grandparis/Les-7-poles-de-developpement-du-Grand-Paris_a277.html.<lb/> 26<lb/> A. de Palma — Document de référence 2011-28 — © OCDE/FIT, 2011<lb/> </bibl>
+        <bibl><label>9.</label> Voir aussi les articles de la Table Ronde 140, Bénéfices économiques élargis du secteur des<lb/> transports, en particulier l&apos;article de D. J. Graham et celui de G. Weisbrod et de B. Alstadt :<lb/> http://www.internationaltransportforum.org/Pub/pdf/08rt140F.pdf.<lb/> </bibl>
+        <bibl><label>10.</label> Source : transparents préparés par Alex Anas pour le Grand Paris en 2011 : A Regional<lb/> Economy, Land Use and Transportation Model, RELU-TRAN.<lb/> </bibl>
+        <bibl><label>11.</label> Le lecteur moins familier avec les questions techniques peut passer directement à la dernière<lb/> section.<lb/> </bibl>
+        <bibl><label>12.</label> Il y a 1 300 communes et 5 200 IRIS en Île-de-France.<lb/> </bibl>
+<bibl>A. de Palma — Document de référence 2011-28 — © OCDE/FIT, 2011<lb/> </bibl>
+        <bibl><label>27<lb/> RÉFÉRENCES</label><lb/> Anas, A., R. J. Arnott et K. Small, 1998, Urban Spatial Structure, Journal of Economic Literature, 36,<lb/> 1426-1464.<lb/> </bibl>
+<bibl>Anas, A. et Y. Liu, 2007, A regional economy, land use, and transportation model (RELU-TRAN):<lb/> formulation, algorithm design and testing. Journal of Regional Science, 47(3), 415–455.<lb/> </bibl>
+<bibl>Anderson, S., A. de Palma et J.-F. Thisse, 1992, A Discrete Choice Theory of Product Differentiation,<lb/> The MIT Press: Cambridge.<lb/> </bibl>
+<bibl>Batty, M., 2008, Fifty years of Urban Modelling: Macro-Statics to Micro-Dynamics, dans<lb/> S. Albeverio, D. Andrey, P. Giordano, and A. Vancheri, Eds, The Dynamics of Complex Urban<lb/> Systems: An Interdisciplinary Approach, Physica-Verlag, Heidelberg, 1-20.<lb/> </bibl>
+<bibl>Ben-Akiva, M. et S. Lerman, 1985, Discrete Choice Analysis: Theory and Application to Travel<lb/> Demand, MIT Press: Cambridge.<lb/> </bibl>
+<bibl>Borning, A., P. Waddell et R. Forster, 2008, Urbansim: Using simulation to inform public deliberation<lb/> and decision-making. Digital Government: Advanced Research and Case Studies, 439–463.<lb/> </bibl>
+<bibl>Brocker J. et J. Mercenier, 2011, General equilibrium models for transportation economics, in<lb/> A. de Palma, R. Vickerman, R. Lindsey and E. Quinet, eds. Handbook of Transport Economics,<lb/> Edward Elgar, Cheltenham, UK.<lb/> </bibl>
+<bibl>Chamberlin, E., 1933, The Theory of Monopolistic Competition. Cambridge, Mass.: Harvard<lb/> University Press.<lb/> </bibl>
+<bibl>Chiappori, P.-A., A. de Palma and Nathalie Picard, 2011, Couple Residential Location and Spouses<lb/> Workplaces, University of Columbia, Département d&apos;Économie, mimeo.<lb/> </bibl>
+<bibl>Ciccone, A., et R.E. Hall, 1996, Productivity and the density of economic activity. American<lb/> Economic Review 86(1), 54–70.<lb/> </bibl>
+<bibl>Ciccone, A., 2002, Agglomeration effects in Europe, European Economic Review, 46(2), 213-227<lb/> </bibl>
+<bibl>Combes, P-P., G. Duranton, L., Gobillon, D. Puga, D. et S. Roux, 2009, The productivity advantages<lb/> of large cities: Distinguishing agglomeration from firm selection. Discussion Paper 7191, Centre<lb/> for Economic Policy Research.<lb/> </bibl>
+<bibl>de Lapparent, M., A. de Palma et N. Picard (2011). A dynamic model of residential location and<lb/> tenure choice, Centre d&apos;économie de la Sorbonne, mimeo.<lb/> 28<lb/> A. de Palma — Document de référence 2011-28 — © OCDE/FIT, 2011<lb/> </bibl>
+<bibl>De La Roca, J. et D. Puga, 2010, Learning by working in dense cities. 36ª Reunión da Asociación<lb/> Española<lb/> de<lb/> Ciencia<lb/> Regional,<lb/> Badajoz,<lb/> disponible<lb/> sur<lb/> Princeton.edu/~erossi/CURE2010/esurban_seminar.pdf.<lb/> </bibl>
+<bibl>de Palma, A., V. Ginsburgh, Y.Y. Papageorgiou et J.F. Thisse, 1985, The Principle of Minimum<lb/> Differentiation Holds under Sufficient Heterogeneity, Econometrica, 53, 767-781.<lb/> </bibl>
+<bibl>de Palma, A., 2009, Rational behavior, Risk Aversion: High Stakes for Society, OECD Round<lb/> Table 144, International Transport Forum, 23-49.<lb/> </bibl>
+<bibl>de Palma, A. et C. Lefèvre, 1983a, Bifurcation and Behaviour of Complex Systems, Applied<lb/> Mathematics and Computation, 14(18 B), 339-355.<lb/> </bibl>
+<bibl>de Palma, A. et C. Lefèvre, 1983b, Individual Decision-Making in Dynamic Collective Systems,<lb/> Journal of Mathematical Sociology, 9, 103-124.<lb/> </bibl>
+<bibl>de Palma, A., Kilani, M., De Lara, M. et S. Piperno, 2011, Cordon Pricing in the monocentic city:<lb/> theory and application to Paris Region. Louvain Economic Review, in Urban Studies and<lb/> Economic Geography: A special Issue in Honour of Masahia Fujita, F. Jouneau-Sion, and<lb/> M. Kilani, eds. 77(2-3), 105-124.<lb/> </bibl>
+<bibl>de Palma A., K. Motamedi, N. Picard et P. Waddell, 2007, Accessibility and environmental quality:<lb/> inequality in the Paris housing market, European Transport, 36, 47-74.<lb/> </bibl>
+<bibl>de Palma, A., Picard, N. et Waddell, P. 2007, Discrete choice models with capacity constraints: An<lb/> empirical analysis of the housing market of the greater Paris region. Journal of Urban Economics,<lb/> 62(2), 204-230.<lb/> </bibl>
+<bibl>de Palma, A. et O. Beaude, 2011, État de l&apos;art des méthodes d&apos;analyse socio-économiques dans le<lb/> cadre d&apos;un projet urbain, École Normale Supérieure de Cachan, Département Économie et<lb/> Gestion.<lb/> </bibl>
+<bibl>Dixit, A. et J.E. Stiglitz, 1977, Monopolistic Competition and Opti-mum Product Diversity, American<lb/> Economic Review, 1977, 67 (3), 297-308.<lb/> </bibl>
+<bibl>Dos Santos Ferreira, R. et J.-F. Thisse, 1996, Horizontal and Vertical Differentiation : The Launhardt<lb/> model, International Journal of Industrial Organization, 14, 485-506.<lb/> </bibl>
+<bibl>Fajgelbaum, P., G. Grossman et E. Helpman, 2011, Income Distribution, Product Quality, and<lb/> International Trade, Université de Harvard, Départment d&apos;économie.<lb/> </bibl>
+<bibl>Forrester, J.W., 1969, Urban Dynamics, Productivity Press.<lb/> </bibl>
+<bibl>Fujita, M. et J.-F. Thisse, 2001. Economics of Agglomeration. Cambridge, University Press.<lb/> </bibl>
+<bibl>Haken, H, 1993, Advanced Synergetics: Instability Hierarchies of Self-Organizing Systems and<lb/> Devices. New York: Springer-Verlag.<lb/> </bibl>
+<bibl>Henderson, J. V., 2005, Urbanization and growth. In Aghion, P. and Durlauf, S., (Eds.), Handbook of<lb/> Economic Growth, Elsevier,1543–1591.<lb/> </bibl>
+<bibl>A. de Palma — Document de référence 2011-28 — © OCDE/FIT, 2011<lb/> </bibl>
+<bibl>29<lb/> </bibl>
+<bibl>Hotelling, H. 1929, Stability in Competition, The Economic Journal, 39, 53, 41-57.<lb/> </bibl>
+<bibl>Krugman, P.R., 1995, Development, Geography, and Economic Theory, Cambridge, MA, The MIT<lb/> Press.<lb/> </bibl>
+<bibl>Lafourcade, M. et J.-F. Thisse, 2011, New economic geography: the role of transport costs, in A. de<lb/> Palma, R. Vickerman, R. Lindsey and E. Quinet, eds. Handbook of Transport Economics,<lb/> Edward Elgar, Cheltenham, UK.<lb/> </bibl>
+<bibl>Léon, O. et P. Godefroy, P., 2006, Projections régionales de population à l&apos;horizon 2030. Rapport<lb/> technique, INSEE Pôle emploi-population.<lb/> </bibl>
+<bibl>Lösch A., 1940, Die räumliche Ordnung der Wirtschaft, Iéna, 1940<lb/> </bibl>
+<bibl>Martínez. F.J., 1996, MUSSA: A Land Use Model for Santiago City. Transportation Research Record<lb/> 1552: Transportation Planning and Land Use at State, Regional and Local Levels, 126-134.<lb/> </bibl>
+<bibl>Mansour, M. et A. de Palma, 1984, On the Stochastic Modelling of Systems with Non-Local<lb/> Interactions, Physica, 128 a, 377-382.<lb/> </bibl>
+<bibl>Mion, G., et P. Naticchioni, 2009, The spatial sorting and matching of skills and firms. Canadian<lb/> Journal of Economics, Canadian Economics Association 42 (1), 2855.<lb/> </bibl>
+<bibl>Nicolis, G. et I. Prigogine, 1977, Self Organization in Non-Equilibrium Systems, J. Wiley and Sons:<lb/> New York.<lb/> </bibl>
+<bibl>Overman, H. G., et Puga, D., 2010, Labour pooling as a source of agglomeration: An empirical<lb/> investigation. Dans E. L. Glaeser (ed.) Agglomeration Economics. Chicago, il: Chicago<lb/> University Press.<lb/> </bibl>
+<bibl>POULIT J. (1974). Urbanisme et transport : les critères d&apos;accessibilité et de développement urbain.<lb/> SETRA, Division urbaine, Ministère de l&apos;équipement, Paris.<lb/> </bibl>
+<bibl>Prigogine, Y., 1996, La fin des certitudes, Éditions Odile Jacob (avec la collaboration d&apos;Isabelle<lb/> Stengers).<lb/> </bibl>
+<bibl>Quigley, J. M. 2008, Urban economics, dans The New Palgrave Dictionary of Economics, S. N.<lb/> Durlauf et L. E. Blume, Eds. Palgrave Macmillan.<lb/> </bibl>
+<bibl>Rice, P, A, Venables, et P. Patacchini, 2006, Spatial Determinants of Productivity : Analysis of the<lb/> regions of Great Britain, Regional Science and Urban Economics, 36, 727-752.<lb/> </bibl>
+<bibl>Schelling, Thomas C., 1978, Micromotives and macrobehaviour. Norton and Co., New York.<lb/> </bibl>
+<bibl>Strange, W C., 2008, Urban Agglomeration, dans The New Palgrave Dictionary of Economics, S. N.<lb/> Durlauf et L. E. Blume, Eds. Palgrave Macmillan.<lb/> </bibl>
+<bibl>Tabuchi, T., 2011, City formation and transport costs, in A. de Palma, R. Vickerman, R. Lindsey and<lb/> E. Quinet, eds. Handbook of Transport Economics, Edward Elgar, Cheltenham, UK.<lb/> 30<lb/> A. de Palma — Document de référence 2011-28 — © OCDE/FIT, 2011<lb/> </bibl>
+<bibl>Thisse, J.F., 2011, Geographical Economics: A historical Perspective. Louvain Economic Review, in<lb/> Urban Studies and Economic Geography: A special Issue in Honour of Masahia Fujita, F.<lb/> Jouneau-Sion, and M. Kilani, eds. 77(2-3), 141-168.<lb/> </bibl>
+<bibl>Thünen, J. H. von, 1826, Der isoli[e]rte Staat in Beziehung auf Landwirtschaft und Nationalökonomie,<lb/> Hamburg, Perthes, 1826<lb/> </bibl>
+<bibl>Trannoy, A., 2011, Equity dimensions of transport policies, in A. de Palma, R. Vickerman, R. Lindsey<lb/> and E. Quinet, eds. Handbook of Transport Economics, Edward Elgar, Cheltenham, UK.<lb/> </bibl>
+<bibl>Waddell, P., G.F. Ulfarsson, J.P. Franklin et J. et Lobb, 2007, Incorporating land use in metropolitan<lb/> transportation planning. Transportation Research Part A: Policy and Practice, 41(5), 382–410.<lb/> </bibl>
+<bibl>Weibull J.W., 1980, On the numerical measurement of accessibility. Environment and Planning A, 12,<lb/> 53–67.<lb/> </bibl>
+<bibl>Weidlich, W. et G. Haag, 1987, A dynamic phase transition model for spatial agglomeration<lb/> processes, Journal of Regional Science, 27, 529-569.</bibl>
+        </listBibl>
+    </text>
+</tei>
+

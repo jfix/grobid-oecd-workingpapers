@@ -1,0 +1,2530 @@
+Please cite this paper as: Sanchez-Serra, D. (2016),  " Functional Urban Areas in 
+Colombia " , OECD Regional Development Working Papers, 
+2016/08, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/5jln4pn1zqq5-en OECD Regional Development Working 
+Papers 2016/08 Functional Urban Areas in 
+Colombia Daniel Sanchez-Serra JEL Classification: R12, R23 OECD REGIONAL DEVELOPMENT WORKING PAPERS This series is designed to make available to a wider readership selected studies on regional development 
+issues prepared for use within the OECD. Authorship is usually collective, but principal authors are named. 
+The papers are generally available only in their original language English or French with a summary in the 
+other if available. OECD Working Papers should not be reported as representing the official views of the OECD or of its 
+member countries. The opinions expressed and arguments employed are those of the author(s). The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli authorities. 
+The use of such data by the OECD is without prejudice to the status of the Golan Heights, East Jerusalem 
+and Israeli settlements in the West Bank under the terms of international law. This document and any map included herein are without prejudice to the status of or sovereignty over any 
+territory, to the delimitation of international frontiers and boundaries and to the name of any territory, city 
+or area. Working Papers describe preliminary results or research in progress by the author(s) and are published to 
+stimulate discussion on a broad range of issues on which the OECD works. Comments on Working Papers 
+are welcomed, and may be sent to either gov.contact@oecd.org or the Public Governance and Territorial 
+Development Directorate, OECD, 2 rue André-Pascal, 75775 Paris Cedex 16, France. Authorised for publication by Rolf Alter, Director, Public Governance and Territorial Development 
+Directorate, OECD. -----------------------------------------------------------------------------
+OECD Regional Development Working Papers are published on 
+http://www.oecd.org/gov/regional/workingpapers 
+-----------------------------------------------------------------------------Applications for permission to reproduce or translate all or part of this material should be made to: OECD 
+Publishing, rights@oecd.org or by fax 33 1 45 24 99 30. © OECD 2016 2 FUNCTIONAL URBAN AREAS IN COLOMBIA By Daniel Sanchez-Serra 1 Abstract: This paper applies the OECD-EU methodology to identify the functional urban areas (FUAs) in 
+Colombia. Using the municipal boundaries, population grid data and inter-municipalities commuting flows 
+from the 2005 population census, the paper identifies 53 FUAs accounting for 27 million people, or 63% of 
+the national population. The resulting FUAs are then compared with the existing national definition 
+(Misión del Sistema de Ciudades) and the legally constituted metropolitan areas in Colombia. Finally, 
+using the OECD-EU methodology already applied to OECD countries, the eight largest FUAs in Colombia 
+are compared with the 281 largest FUA in OECD countries, through a set of economic, social and 
+environmental indicators. The application of the OECD-EU methodology allows to identify the whole 
+system of urban areas in Colombia, with the same criterion; it thus provides a complementary tool to the 
+national and city government to better plan and design future urban policy strategies. For example, this 
+paper finds that metropolitan areas in Colombia have smaller commuting areas relative to OECD average 
+and that improvements in the transport infrastructure may strengthen the economic integration of 
+Colombian metropolitan areas. JEL classification code: R12, R23 Key words: metropolitan areas, functional definition, GIS data Acknowledgements: This work has received financial support from the Departamento Nacional de Planeación (DNP) of 
+Colombia. Elizabeth Cristina Arciniegas Muñoz, Adriana Sabogal Moreno, Oscar Javier Quiroz Porras, 
+Simón Mesa, José Antonio Pinzón Bermudez, Jairo Castillo, Diego Mora and Jorge Armando Rueda (DNP 
+Colombia); Ana Paola Gómez; Diego López and Sandra Yaneth Rodriguez Figueroa (DANE, Colombia) 
+are gratefully acknowledged for their valuable comments on previous versions of the paper and for 
+providing relevant information and data. The author also gratefully acknowledges Luiz de Mello and 
+Monica Brezzi (OECD) for their guidance and comments. A preliminary version of this working paper has 
+been presented at the Working Party of Territorial Indicators (20 th April 2016). 1 Daniel Sanchez-Serra (daniel.sanchezserra@oecd.org). 3 TABLE OF CONTENTS 1. Introduction ........................................................................................................................................... 4 
+2. From administrative to FUAs in Colombia: National definitions ......................................................... 5 
+National definition of cities ................................................................................................................... 6 
+Legally constituted metropolitan areas in Colombia ............................................................................. 7 
+3. Apply the OECD-EU methodology to identify FUAs in Colombia ..................................................... 8 
+Step 1: Identification of the city centres ................................................................................................ 8 
+Step 2: Identification of interconnected city centres ........................................................................... 11 
+Step 3: Definition of the commuting zone of the FUA ....................................................................... 11 
+4. Main results......................................................................................................................................... 13 
+Spatial distribution of urban population and identification of the larger metropolitan areas .............. 13 
+Characteristics of the system of FUAs in Colombia. .......................................................................... 14 
+Characteristics of the eight metropolitan areas (FUAs with population above 500 000 inhabitants) 
+in Colombia. ........................................................................................................................................ 17 
+Comparative analysis between the definition of cities by the  " Misión del Sistema de Ciudades "  
+and the FUAs identified by the OECD-EU method ............................................................................ 20 
+Comparative analysis between the legal constituted metropolitan areas in Colombia and the 
+FUAs identified by the OECD-EU method ......................................................................................... 21 
+5. Conclusions ......................................................................................................................................... 22 
+References ............................................................................................................................................... 24 
+Annex I. List of municipalities by Functional Urban Area in Colombia (based on the 
+OECD-EU methodology and 15% of commuting threshold) ................................................................. 25 
+Annex II. List of municipalities by Functional Urban Area in Colombia (based on the 
+OECD-EU methodology and 15% of commuting threshold) ................................................................. 27 
+Annex III. Functional Urban Areas in Colombia using an alternative threshold of 
+commuting (10%) ................................................................................................................................... 29 
+Annex IV. Methodology to adjust GDP, total employed and unemployed at metropolitan level .......... 32 Figures 
+Figure 1. Urban and non-urban population density: Bogotá and Medellín ............................................. 6 
+Figure 2. City system in Colombia (based on the National definition of cities) ..................................... 7 
+Figure 3. City centres in Colombia (based on the OECD-EU methodology) ....................................... 10 
+Figure 4. Extension of the city and commuting zone in eight FUAs in Colombia ............................... 12 
+Figure 5. Population size and extension of the 53 FUAs in Colombia (reference year 2005) .............. 13 
+Figure 6. Total population by FUA (reference year 2005) ................................................................... 14 
+Figure 7. Proportion of FUAs by population size (year 2005) ............................................................. 14 
+Figure 8. Share of population in the commuting zone over total functional urban population............. 15 
+Figure 9. Distribution of the size of the municipalities by quartile in Colombia, Mexico and Chile ... 16 
+Figure 10. Private and public transport investment over GDP ............................................................... 16 
+Figure 11. Concentration of population, GDP and employment in OECD metropolitan areas, 2013 .... 17 
+Figure 12. Per cent of national GDP growth contributed by the metropolitan areas 2000-13 ................ 18 
+Figure 13. Old and young metropolitan dependency ratio; Colombia and OECD countries .................. 19 
+Figure 14. Countries ranked by youth dependency ratio at metropolitan level, 2014 ............................ 19 
+Figure 15. Percentage difference in area and population between the official and the 
+OECD-EU definitions, 2005 ................................................................................................. 20 
+Figure 16. Comparison between the six metropolitan areas recognised by Lay in Colombia 
+and the OECD-EU FUAs ...................................................................................................... 22 
+Figure A.1. 51 FUA in Colombia (based on the OECD-EU methodology and 10% of commuting) ...... 29 
+Table A.1. List of municipalities by Functional Urban Area in Colombia ............................................. 30 4 1. Introduction Today more than half of the world's population lives in cities and the world urban population is expected 
+to have reached 84 per cent by 2050 (UN, 2014). Socio-economic forces attract firms and individuals in 
+cities, creating an interconnected economic and social space that extends administrative municipal 
+boundaries. How the urban systems of a country function, that is to say the connections among cities and 
+between cities and their surrounding areas, has an important impact on the national prosperity and quality 
+of life of all residents. While traditionally cities are identified through administrative boundaries, these might not capture all the 
+socio-economic interactions generated by individuals or firms. Cities may grow in population or spatially 
+beyond the administrative boundaries; for instance, people may live in a locality and work or regularly go 
+for leisure to a different municipality. Additionally, boundaries of administrative units may evolve over 
+time as a result of historical or political events. Identifying metropolitan areas as functional urban areas, rather than administrative urban areas, has the 
+advantage of better describing the reality of where people live and work, and in turn can change the way 
+policies are planned and implemented. Indeed, a better adaptation and integration of the policies to the 
+local realities might help central governments to implement specific urban policies and promote metro-
+wide cooperation. In other words, defining urban areas as functional economic units can better guide the 
+way national and city governments plan infrastructure, transportation, housing, schools, space for culture 
+and recreation. Improved planning will make urban areas more competitive to support job creation, and 
+more attractive for their residents. Several methodologies to identify Functional Urban Areas (FUAs) have been developed at the national 
+level in various countries (Brezzi et al. 2012). In the case of Colombia, the 1991 Constitution recognised 
+the institution of metropolitan areas on the base of voluntary agreements between two or more 
+municipalities. Later on, in 2012, the Misión del Sistema de Ciudades developed a national methodology to 
+delimitate urban areas which is described in DNP (2012) and Duranton (2013). This methodology 
+identifies 56 cities of which 18 were identified using a functional approach (aggregating municipalities 
+iteratively based on a 10% commuting threshold and a population for at least 100 000 inhabitants) and 
+38 cities according to their population (municipalities with a population above 100 000 inhabitants), their 
+administrative status (capitals of the department), or their role at the sub-regional level. Based on this 
+methodology, the Departamento Nacional de Planeación (DNP) was able to analyse the urbanisation 
+process experienced in Colombia as well as the characteristics of the system of cities identified. Moreover, 
+it was used to plan and design the long-term policy in Colombia. Indeed, recognising the importance of cities in the economic, social and environmental development, the 
+Colombian National Council of Economic and Social Policy (CONPES) issued the document  " Política 
+Nacional para Consolidar el Sistema de Ciudades en Colombia "  in 2014 (CONPES 3819, 2014). The 
+document aims at designing a long-term policy to consolidate a system of cities that takes better account of 
+the benefits of urbanisation and agglomeration, while reducing negative externalities and regional 
+disparities. A certain number of recommendations are included in the document according to the objectives 
+and action plan defined by the Misión del Sistema de Ciudades, DNP (2012). This document is the basis 
+for the national policy strategy. In a globalised world, policy makers and residents are seeking to compare their city's performance with 
+similar realities around the world to find inspiration for implementing successful new policy ideas. In order 
+to overcome the heterogeneity of methodologies existing worldwide to delimitate metropolitan areas, in 
+2012, the OECD-EU developed a new international approach to classifying urban areas. This new purely 
+functional methodology had the aim to better monitor urban development within and across countries 5 (OECD, 2012). According to this definition, urban areas in OECD countries are defined as functional 
+economic units characterised by densely inhabited  " city centres "  and surrounding  " commuting zones "  
+integrated with the centres through high travel-to-work flows (so called Functional Urban Areas-FUAs). So far, the OECD-EU methodology to identify FUAs has been applied in all OECD countries 2 , with the 
+exceptions of Iceland, Israel, Latvia, New Zealand and Turkey. The FUAs, together with the socio-
+economic, environmental and governance indicators of the OECD Metropolitan Database, has proved to be 
+an essential tool for national policy-making and has been used for international comparison. This paper has a threefold objective: first, it identifies the FUAs in Colombia according to the OECD-EU 
+method. Secondly, it compares such a definition with the existing national definition and the legally 
+constituted metropolitan areas in Colombia, to better understand the main differences and commonalities. 
+Finally, it analyses the main characteristics of the system of cities identified in Colombia and compares 
+them with the system of cities in OECD member countries. A fine grained analysis is done by focusing on 
+the metropolitan areas (FUAs with a population above 500 000 inhabitants). Two main conclusions can be drawn by this exercise. First, the OECD-EU methodology applied to 
+Colombia provides a coherent description of the national system of urban areas of different population 
+sizes. Such a result can complement the existing national definition or the legally constituted metropolitan 
+areas in Colombia to help national and local governments implement the recently designed action plan to 
+increase the benefits of urbanisation while reducing negative externalities. Second, the results of this study 
+shows that, compared to other countries, Colombia is characterised by a large share of small FUAs and by 
+a low number of FUAs with commuting zone, signalling possible barriers, for example inadequate 
+transport infrastructure, for cities to benefit from agglomeration economies. The paper is structured as follows: Section two presents the national urban definitions currently available 
+in Colombia. The third section presents the OECD-EU methodology developed to identify FUAs in OECD 
+countries and its application to the case of Colombia. The fourth section explores the main characteristics 
+of the FUAs identified in Colombia. This section benchmarks the metropolitan areas (the largest FUAs, 
+with population above 500 000) identified in Colombia with the OECD-EU method with other OECD 
+metropolitan areas. This section also compares these results with respect to the official national definitions 
+of metropolitan areas in Colombia. Section fifth presents the conclusions. 2. From administrative to FUAs in Colombia: National definitions Cities adapt their urban structures to accommodate the needs generated by the rapid growth (Knight, 1995). 
+The changes experienced in the localisation of the economic activity, local services and the housing 
+provision in Colombia over the past 60 years have generated a new urban environment (CONPES 3819, 
+2014). Indeed, some Colombian cities now extend beyond the current municipal boundaries. For example, 
+the distribution of population in Bogotá and Medellín shows that highly densely populated areas exist 
+beyond the administrative boundaries (Figure 1). 2 The methodology has been applied to two Latin American countries so far, namely, Chile and Mexico. 6 Figure 1. Urban and non-urban population density: Bogotá and Medellín Note: Based on population density per km 2 and defining urban area all grid cells of 1km 2 with a population density above 
+1 500 inhabitants per km 2 . These maps are for illustrative purposes and are without prejudice to the status of or sovereignty over any 
+territory covered by this map. Source: Author's calculations based on population density at 1km 2 (2005 census year). National definition of cities With the objective to capture the real extension of the Colombian system of cities, and thus capturing the 
+internal dynamics of cities, the relations between cities and the relation between the cities and their 
+territory of influence, the Misión del Sistema de Ciudades developed a methodology that identifies urban 
+areas as functional economic areas, to reflect the space where people live and work (CONPES 3819, 2014). 
+This approach consists of four iterative steps: i) identify all municipalities that are connected by having at 
+least 10% of their resident labour force commuting to work in another municipality (even if not 
+contiguous). All these municipalities are then aggregated in a new geographical area; ii) the new 
+geographical areas (aggregations of municipalities from the first step) are considered as candidate cities if 
+at least they concentrate 100 000 people inside the area (2010 data was used in this second step); iii) add to 
+the list of candidate cities all the capitals of the departments and cities considered providers of services to 
+the region, both with a population below 100 000; and finally iv) add to the list of cities all municipalities 
+with a population of at least 100 000 inhabitants (only if they were not previously included in the list). According to this methodology, 56 cities are identified among which 18 are considered as functional cities 
+(groups of municipalities) and 38 monocentric (single municipalities) (Figure 2). The Colombian system of 
+cities accounts for 65% of the total national population (around 30 million of people in 2010). 
+Additionally, cities are distributed across all the territory but mainly concentrated in the west and centre 
+part of the country. 7 Figure 2. City system in Colombia (based on the National definition of cities) Note: COL01 Bogotá, COL02 Medellín, COL03 Cali, COL04 Barranquilla, COL05 Cartagena, COL06 Bucaramanga, COL07 Cúcuta, 
+COL08 Pereira, COL09 Villavicencio, COL10 Armenia, COL11 Pasto, COL12 Manizales, COL13 Rionegro, COL14 Tunja, COL15 
+Tuluá, COL16 Girardot, COL17 Sogamoso, COL18 Duitama, COL19 Ibagué, COL20 Santa Marta, COL21 Valledupar, COL22 
+Montería, COL23 Neiva, COL24 Popayán, COL25 Sincelejo, COL26 Riohacha, COL27 Florencia, COL28 Yopal, COL29 Quibdó, 
+COL30 Buenaventura, COL31 Palmira, COL32 Barrancabermeja, COL33 Apartadó, COL34 Cartago, COL35 Arauca, COL36 San 
+Andrés de Cuerquía, COL37 San José del Guaviare, COL38 Mocoa, COL39 Leticia, COL40 Mitú, COL41 Inírida, COL42 Puerto 
+Carreño, COL43 Guadalajara de Buga, COL44 San Andrés de Tumaco, COL45 Fusagasugá, COL46 Maicao, COL47 Ciénaga, 
+COL48 Ocaña, COL49 Ipiales, COL50 Caucasia, COL51 Turbo, COL52 Pamplona, COL53 San Gil, COL54 Puerto Asís, COL55 
+Honda, COL56 Málaga. These 56 cities have been classified in two categories: FUAs (from COL01 to COL18) and Monocentric cities (COL19-COL56). Note: This map is for illustrative purposes and is without prejudice to the status of or sovereignty over any territory covered by this 
+map. Source: Author's calculations based on CONPES 3819 (2014). Legally constituted metropolitan areas in Colombia The constitutional reform of 1975 introduced in Colombia the administrative and political concept of 
+metropolitan areas in Colombia. The possibility of creating metropolitan areas was mainly to facilitate the 8 production and delivery of better public services between two or more municipalities. Along the same 
+lines, the Constitution of 1991 which replaced the previous constitution, also considered the creation of 
+metropolitan areas (articles 319 and 325). The definition and constitution of a metropolitan area was regulated by the law 128/1994 (then abrogated 
+and substituted by the law 1625/2013). This law defines a metropolitan area as an administrative entity 
+formed by two or more municipalities integrated around a core municipality (Article 2). According to the 
+law, the new administrative entity called metropolitan area can be constituted only when a set of 
+municipalities, which are not necessarily to be from the same department, display high economic, social 
+and physical relations among them. Importantly, the process to constitute a metropolitan area in Colombia 
+according to the law 1625/2013 has to be promoted by the mayors of the municipalities concerned, a third 
+of the council of the municipality, a 5% of the electoral roll of the municipalities involved and the 
+Governor(s) of the departments to which the municipalities that intend to integrate a Metropolitan Area 
+belong to (Article 8). The promoters draft the document for the constitution of the metropolitan area (in 
+which the municipalities involved will appear and the justification for the constitution of the metropolitan 
+area will be provided) and subsequently call for a popular referendum. If the result of the referendum is 
+favourable for the constitution of the metropolitan area, mayors and presidents of the respective municipal 
+councils must formalise the creation of the area within thirty days (Congreso de Colombia, 2013; Proyecto 
+de Acto Legislativo 088 de la Cámara de Representantes). Today Colombia has recognised by law six metropolitan areas: Barranquilla, Bucaramanga, Centro 
+Occidente, Cúcuta, Valle de Aburrá and Valle del Cacique Upar. These metropolitan areas have legal 
+status as well as administrative and fiscal autonomy. However, there are still several metropolitan areas 
+which have only been recognised but not yet institutionalised. Some examples are the metropolitan areas of 
+Bogotá, Cali, Popayán, Tunja or the binational and trinational metropolitan areas of Ipiales (Colombia-
+Ecuador), Arauca-El Amparo (Colombia-Venezuela) or Leticia-Tabatinga (Colombia-Brazil-Peru). According to the Colombian legislation municipalities inside a constituted metropolitan area do not lose 
+political, economic and administrative autonomy, but are organized to manage together services (e.g. 
+transportation) that require administrative agreements and supranational institutions. However, and mainly 
+due to both, the administrative decentralisation process as well as the fiscal reforms experienced recently in 
+Colombia, certain metropolitan areas have not been institutionalised (Carrión, 2009). 3. Apply the OECD-EU methodology to identify FUAs in Colombia The OECD, in collaboration with the European Union, has developed a methodology for defining urban 
+areas as functional economic places in a consistent way across countries. Using population density and 
+travel-to-work flows as key information, urban areas emerge as characterised by densely inhabited city 
+centres and less-populated municipalities whose labour market is highly integrated with the city centres 
+(OECD, 2012). The methodology consists of three main steps: i) identification of contiguous densely 
+inhabited city centres; ii) identification of interconnected city centres that are part of the same functional 
+area; and iii) definition of the outlying area or commuting zone of the FUA, linked by commuting flows to 
+the city centres. So far, the methodology has been applied to 30 OECD countries, and a total of 1 197 
+FUAs have been identified. All in all, these FUAs concentrate two thirds of the OECD population (OECD, 
+2013). Step 1: Identification of the city centres Gridded population data are used to define urbanised areas or  " urban high-density clusters "  over the 
+national territory, ignoring administrative boundaries. This use of population grid data to identify city 
+centres compensates for the fact that traditional administrative units are unevenly sized and vary greatly 9 within and between countries. Based on an intense density analysis, Colombian urban clusters have been 
+defined based on population and thresholds similar to the majority of OECD countries 3 . Concretely, a core 
+population criterion of 50 000 people and a density criterion of 1 500 persons per km 2 have been applied. The identification of city centres can be divided in three steps: i) all grid cells 4 of 1 km 2 with a density of 
+more than 1 500 inhabitants per km 2 are selected; ii) high density clusters are defined as an aggregation of 
+continuous high density 1 km 2 grid cells. Gaps are filled and only the clusters with a minimum population 
+of 50 000 inhabitants are kept as a high density cluster; iii) an urban core is made up of contiguous 
+municipalities (based on 2005 boundaries) that have more than 50% of their populations living within 
+ " high density "  cells. DANE (2014) has applied this methodology to the Colombian context by using 1 km 2 grid population data 
+based on the 2005 census 5 . According to that, DANE has identified 59 cities 6 in Colombia which account 
+for 80 municipalities (7.1% of the municipalities of the country). Additionally, these cities concentrate 
+more than half of the national population (23,801,612 inhabitants in 2005). A visual representation of these 
+results is provided in Figure 3. 3 A population density threshold of 1 500 inhabitants per km 2 has been applied in all European countries, Japan, 
+Korea, Chile and Mexico, while a population density of 1 000 inhabitants per km 2 has been applied in 
+Canada, the United States and Australia. Additionally, a population threshold of 50 000 inhabitants was 
+used in all European countries, the United States, Chile, Canada and Australia, while a larger population 
+threshold of 100 000 inhabitants was applied in Japan, Korea and Mexico. For more details see figure A.5 
+in OECD (2016), OECD Regions at a Glance 2016. 4 DANE has constructed a raster map allocating in each of the grid cells of 1km 2 the total population based on the last 
+2005 general census in Colombia. 5 The 2005 census data is the most detailed population information currently available in Colombia. 6 Two cities (San Andrés de Tumaco and Maicao) were included manually to the list due to methodological reasons. 10 Figure 3. City centres in Colombia (based on the OECD-EU methodology) CO001 Bogotá D.C., CO002 Medellín, CO003 Cali, CO004 Barranquilla, CO005 Bucaramanga, CO006 Cartagena, CO007 Cúcuta, 
+CO008 Pereira, CO009 Ibagué, CO010 Manizales, CO011 Santa Marta, CO012 Pasto, CO013 Armenia, CO014 Villavicencio, 
+CO015 Valledupar, CO016 Neiva, CO017 Buenaventura, CO018 Montería, CO019 Palmira, CO020 Popayán, CO021 Sincelejo, 
+CO022 Barrancabermeja, CO023 Tuluá, CO024 Tunja, CO025 Riohacha, CO026 Cartago, CO027 Florencia, CO028 Apartadó, 
+CO029 Girardot, CO030 Mosquera, CO031 Quibdó, CO032 Facatativá, CO033 Buga, CO034 Piedecuesta, CO035 Duitama, CO036 
+Sogamoso, CO037 Ciénaga, CO038 Yopal, CO039 Zipaquirá, CO040 Fusagasugá, CO041 Chía, CO042 Yumbo, CO043 Ocaña, 
+CO044 Magangué, CO045 La Dorada, CO046 San Andrés de Tumaco, CO047 Caucasia, CO048 Ipiales, CO049 Rionegro, CO050 
+Aguachica, CO051 Caldas, CO052 Jamundí, CO053 Sabanalarga, CO054 Maicao, CO055 Fundación, CO056 Espinal, CO057 
+Arauca, CO058 Santa Rosa de Cabal, CO059 El Carmen de Bolívar. Note: This map is for illustrative purposes and is without prejudice to the status of or sovereignty over any territory covered by this 
+map. The list of municipalities by city centre is presented in Annex I. Source: Author's elaboration based on DANE (2014) computations. 11 Step 2: Identification of interconnected city centres Based on the commuting data derived from the 2005 census 7 , 10 cities over a total of 59 (identified in step 
+1 above) are highly interconnected. Based on the OECD-EU methodology, two city centres are considered 
+integrated and thus part of the same polycentric urban system if more than 15% of the population of any of 
+the city centre commutes to work in another city centre. Using this function, it is possible to identify four 
+polycentric FUA, namely, Bogotá, Bucaramanga, Medellín and Cali. Indeed, it is observed that the city 
+centre of Bogotá is highly interconnected with two neighbouring cities namely, Chía and Mosquera, in 
+which around 25% of the labour force works in Bogotá. Similarly, Medellín is highly connected with 
+Caldas where almost 40% of the labour force works in Medellín. Bucaramanga receives more than 28% of 
+the labour force of Piedecuesta. Finally, Cali receives more than 15% of the labour force of each of the two 
+neighbouring cities called Yumbo and Jamundí. As a result, 53 city centres are identified in Colombia 
+(4 polycentric and 49 monocentric). Step 3: Definition of the commuting zone of the FUA The final step of the methodology consists in delineating the commuting zone of the FUAs. The 
+commuting zone can be defined as the  " worker catchment area "  of the urban labour market, outside the 
+densely inhabited city centre. In order to delineate the extension of the commuting zone, municipalities 
+were assigned to each city centre if at least 15% of the population in the municipality goes to work to the 
+city centre. Based on this methodology, commuting zones are identified in eight out of 53 cities (15% of the FUAs 
+identified in Colombia). Figure 4 provides a visual representation of the extension of the city centre and the 
+commuting zone of each of these eight FUAs. 7 Census data is the most detailed information currently available in Colombia. 12 Figure 4. Extension of the city and commuting zone in eight FUAs in Colombia Bogotá 
+Medellín 
+Cali Barranquilla 
+Cartagena 
+Armenia Tunja 
+Ipiales Note: These maps are for illustrative purposes and are without prejudice to the status of or sovereignty over any territory covered by this map. 
+The name of the municipalities included in each FUA are available in Annex II. 
+Source: Author's calculations based on 2005 population census data. 13 4. Main results Spatial distribution of urban population and identification of the larger metropolitan areas According to the OECD-EU methodology, Colombia accounts for 53 FUAs of different population size, 
+distributed mainly in the west and centre of the country; the total urban population in 2005 (census year) is 
+around 27 million people or 63% of the national population (Figure 5). 8 As Figure 6 shows, there are 
+10 FUAs with a population below 100 000 inhabitants and only 8 FUAs have a population above 500 000. 
+While Bogotá, Medellín, Cali and Barranquilla, concentrate a population above 1.5 mln, Bucaramanga, 
+Cartagena, Cúcuta and Pereira have a population between 0.5 mln and 1.5 mln. Figure 5. Population size and extension of the 53 FUAs in Colombia (reference year 2005) COL01 Bogotá D.C., COL02 Medellín, COL03 Cali, COL04 Barranquilla, COL05 Cartagena, COL06 Bucaramanga, COL07 Cúcuta, 
+COL08 Pereira, COL09 Ibagué, COL10 Manizales, COL11 Santa Marta, COL12 Pasto, COL13 Armenia, COL14 Villavicencio, 
+COL15 Montería, COL16 Valledupar, COL17 Buenaventura, COL18 Neiva, COL19 Palmira, COL20 Popayán, COL21 Sincelejo, 
+COL22 Barrancabermeja, COL23 Tuluá, COL24 Tunja, COL25 Riohacha, COL26 San Andrés de Tumaco, COL27 Florencia, COL28 
+Apartadó, COL29 Girardot, COL30 Cartago, COL31 Maicao, COL32 Magangué, COL33 Sogamoso, COL34 Guadalajara de Buga, 
+COL35 Ipiales, COL36 Quibdó, COL37 Fusagasugá, COL38 Facatativá, COL39 Duitama, COL40 Yopal, COL41 Ciénaga, COL42 
+Zipaquirá, COL43 Rionegro, COL44 Ocaña, COL45 La Dorada, COL46 Caucasia, COL47 Sabanalarga, COL48 Aguachica, COL49 
+Espinal, COL50 Arauca, COL51 Santa Rosa de Cabal, COL52 El Carmen de Bolívar, COL53 Fundación. Note: These maps are for illustrative purposes and are without prejudice to the status of or sovereignty over any territory covered by 
+this map. Source: Author's calculations based on 2005 population census data. 8 See Annex II for the full list of municipalities included in the 53 FUAs identified in Colombia. 14 Figure 6. Total population by FUA (reference year 2005) FUAs with a population above 500 000 inhabitants (in black) and rest of FUAs (in blue) Note: According to the OECD-EU methodology, metropolitan areas are defined as the FUAs with population above 500 000. Source: Author's calculations based on 2005 population census data. Characteristics of the system of FUAs in Colombia. The functional urban system in Colombia is dominated by small FUAs. Figure 7 shows that 60% of the 
+FUAs in Colombia are FUAs with less than 200 000 inhabitants, compared to OECD and EU countries 
+where small urban areas represent 42% and 48% of FUAs, respectively. Figure 7. Proportion of FUAs by population size (year 2005) Note: Europe (23) refers to: Austria, Belgium, Switzerland, Czech Republic, Germany, Denmark, Estonia, Spain, Finland, France, 
+Greece, Hungary, Ireland, Italy, Luxembourg, Netherlands, Norway, Poland, Portugal, Sweden, Slovenia, Slovak Republic and the 
+United Kingdom. 1 197 FUAs were identified in 30 OECD countries, of which 659 are in 23 OECD-EU countries. 53 FUAs were 
+identified in Colombia. Source: Author's calculations based on 2005 population census data. 7,585,390 3,264,061 2,379,173 
+1,946,276 1,077,486 
+1,024,325 
+729,147 
+622,724 
+498,130 
+426,118 
+415,404 
+382,422 
+382,044 
+380,328 
+379,094 
+354,582 
+328,753 
+315,999 
+284,319 
+257,405 
+237,639 
+190,069 
+187,249 
+176,641 
+167,886 
+159,955 
+144,052 
+131,416 
+125,832 
+124,842 
+123,768 
+121,481 
+117,990 
+116,831 
+115,977 
+112,909 
+108,949 
+107,463 
+107,417 
+106,762 
+101,987 
+101,562 
+100,513 
+90,528 
+88,455 
+87,543 
+86,623 
+82,346 
+76,237 
+75,568 
+69,950 
+67,963 
+56,997 0 1,000,000 2,000,000 3,000,000 4,000,000 5,000,000 6,000,000 7,000,000 8,000,000 Bogotá D.C. 
+Medellín 
+Cali 
+Barranquilla 
+Cartagena 
+Bucaramanga 
+Cúcuta 
+Pereira 
+Ibagué 
+Manizales Santa Marta 
+Pasto 
+Armenia 
+Villavicencio 
+Montería 
+Valledupar 
+Buenaventura 
+Neiva 
+Palmira 
+Popayán 
+Sincelejo 
+Barrancabermeja 
+Tuluá 
+Tunja 
+Riohacha San Andres de Tumaco 
+Florencia 
+Apartadó 
+Girardot 
+Cartago 
+Maicao 
+Magangué 
+Sogamoso Guadalajara de Buga 
+Ipiales 
+Quibdó 
+Fusagasugá 
+Facatativá 
+Duitama 
+Yopal 
+Ciénaga 
+Zipaquirá 
+Rionegro 
+Ocaña La Dorada 
+Caucasia 
+Sabanalarga 
+Aguachica 
+Espinal 
+Arauca Santa Rosa de Cabal El Carmen de Bolívar 
+Fundación 7% 17% 34% 42% OECD (30) Higher than 1.5 mln Between 0.5 and 1.5 mln Between 0.2 and 0.5 mln Lower than 0.2 mln 8% 8% 24% 60% Colombia 4% 13% 35% 48% Europe (23) 15 Colombia's functional urban system is characterised by the low number of FUAs with commuting zone. 
+Indeed, only 15% of the FUAs identified in Colombia are formed by a city and a commuting zone, while 
+the rest of the FUAs do not have a commuting zone. As a result, only 3% of the population in the 
+Colombian FUAs is concentrated in the commuting zone, which is 21 percentage points below the OECD 
+average (Figure 8). Figure 8. Share of population in the commuting zone over total functional urban population (reference year 
+2005) Source: Author's calculations based on 2005 population census data. The reduced extension of the commuting zone in the Colombian FUAs is not associated to the size of the 
+municipalities or the commuting threshold selected to delimitate them. Colombian municipalities have 
+been traditionally considered to be rather large (Duranton, 2015b) but the median extension of the 
+municipalities in Colombia does not differ largely from other Latin American countries such as Mexico 
+and Chile (Figure 9). Even applying to the OECD-EU methodology a lower commuting threshold of 10% 
+of workforce (threshold applied by the Misión del Sistema de Ciudades (CONPES 3819, 2014)), rather 
+than 15%, the extension of the commuting zones does not change significantly (4.3% of the FUA's total 
+population). 9 The result confirms previous studies on the extension of urban areas in Colombia (Duranton, 
+2013 and 2015a). 9 The results derived from the application of the OECD-EU methodology to Colombia by using a 10% commuting 
+threshold flow can be seen in Annex III. 80% 69% 54% 
+52% 
+47% 
+46% 
+45% 
+44% 
+42% 
+40% 
+39% 
+38% 
+38% 
+37% 
+36% 
+36% 
+32% 
+31% 
+30% 
+29% 
+24% 
+24% 
+22% 
+22% 
+22% 
+21% 
+19% 
+14% 
+12% 
+11% 
+10% 3% 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% Country ( No. of cities) 16 Figure 9. Distribution of the size of the municipalities by quartile in Colombia, Mexico and Chile Note: The municipalities in each country are presented in 4 quartiles according to their distribution. Intermediate value (between 
+quartile 2 and quartile 3) refers to the median. Source: Author's calculations based on census data. The inadequate transport infrastructure seems to be the main reason behind the reduced extension of the 
+labour markets areas in Colombia. Despite the increases observed in the last years, the levels of investment 
+in road quality in Colombia have been below the recommended levels (3%-6% of the GDP 10 ). According 
+to data from DNP and DANE, the share of public and private transport investment over the GDP has 
+reached in 2010 the level of 1.3% (Figure 10) highlighting the need to increase this share to improve the 
+connectivity between territories and easing the movement of people, goods and services. Figure 10. 
+Private and public transport investment over GDP Source: FEDESARROLLO (2012). 10 Recommended level established by the World Bank (2007). 0 200 400 600 800 1000 1200 1400 1600 1800 Chile 
+Mexico 
+Colombia Area (km 2 ) Q3 Q3 
+Q3 Q2 Q2 
+Q2 634 (km 2 ) 232 (km 2 ) 284 (km 2 ) Median 48,869 (km 2 ) 
+53,256 (km 2 ) 
+65,565 (km 2 ) 6 (km 2 ) 
+2 (km 2 ) 
+16 (km 2 ) 17 Characteristics of the eight metropolitan areas (FUAs with population above 500 000 inhabitants) in 
+Colombia. The eight Colombian metropolitan areas (FUAs with population above 500 000 inhabitants) concentrate 
+44% of the national population, 47% of the employment and 51% of the GDP (Figure 11). The 
+concentration of GDP in Colombian metropolitan areas is similar to Greece and Austria (52% and 51% 
+respectively). Similarly to the 281 OECD metropolitan areas, metropolitan areas in Colombia tend to have 
+an agglomeration effect showing higher concentration levels in GDP than in employment or population. Figure 11. 
+Concentration of population, GDP and employment in OECD metropolitan areas, 2013 Note: The OECD-EU definition of FUAs has not been applied to Iceland, Israel, Latvia, New Zealand and Turkey. Luxemburg does 
+not appear in the figure since it has a population below 500 000 inhabitants. Values refer to the year 2012 for Austria, Colombia, 
+Estonia, Finland, France, Germany, Hungary, Ireland, Italy, Japan, Norway, Poland, Spain, Sweden and Switzerland, while 2011 for 
+Slovenia. Metropolitan GDP figures are estimates based on GDP data at TL3 level except for Australia, Canada, Chile, Colombia and 
+Mexico were TL2 are used. United States figures are provided by the U.S. Bureau of Economic Analysis. Metropolitan employment 
+figures are estimates based on employment data at TL3 level except for Chile, Colombia, Mexico, Poland and Portugal were TL2 are 
+used and NOG for Canada. Australian and the United States employment figures are provided by the Australian Bureau of Statistics 
+and U.S. Bureau of Labour Statistics respectively. Metropolitan population figures are estimates based on municipal figures for the 
+last two census available for each country. For more details in the methodology, see Annex IV. Source: Author's calculations based on OECD (2016) and data from OECD metropolitan database. Metropolitan areas in Colombia accounted for almost 50% of the national GDP growth during the period 
+2000-12 (Figure 12). This share is similar to the contribution of the metropolitan areas in Austria and 
+Ireland (47% and 49% respectively) and 22 percentage points below the OECD metropolitan average 
+highlighting the existence of unexploited potential of metropolitan economic development. The capital city 
+of Bogotá D.C accounted for 24% of the national GDP growth for the same period, similar to the 
+metropolitan area of Madrid in Spain and Warsaw in Poland (25% and 19% respectively). 0 10 20 30 40 50 60 70 80 Share of national GDP 
+Share of national employment 
+Share of national population 
+% Country ( No. of cities) 18 Figure 12. 
+Per cent of national GDP growth contributed by the metropolitan areas 2000-13 Note: The OECD-EU definition of FUAs has not been applied to Iceland, Israel, Latvia, New Zealand and Turkey. The FUA of 
+Luxembourg does not appear in the figure since it has a population below 500 000 inhabitants. Available years: Austria, Colombia, 
+Germany, Estonia, Spain, Finland, France, Hungary, Ireland, Italy, Poland, Sweden 2000-12; Switzerland and Norway 2008-12; 
+Japan 2001-12; Mexico 2003-13 and the United States 2001-13. Italy, Greece and Portugal are excluded from the figure due to lack 
+of data on comparable years. Metropolitan GDP figures are estimates based on GDP data at TL3 level except for Australia, Colombia, 
+Canada, Chile and Mexico were TL2 are used. United States figures are provided by the U.S. Bureau of Economic Analysis. Source: Author's calculations based on OECD (2016) and data from OECD metropolitan database. The largest FUAs in Colombia are experiencing the population ageing effect 11 but at a lower path than the 
+OECD metropolitan areas (Figure 13). Indeed, these FUAs are observing a double demographic trend. On 
+the one hand, an increase in the proportion of elderly population over the working age population (old age 
+dependency rate). On the other hand, a decrease of the proportion of youth population over the working 
+age population (youth dependency rate). Concretely, the decline in the fertility rate in Colombia resulted in 
+a decrease of the young population in the Colombian metropolitan areas, thus lowering the young 
+dependency rate in almost 12 percentage points during the period 2000-14 (from 46% to 34%). This 
+reduction was smaller when referring to the OECD metropolitan areas (from 39% to 26% over the same 
+period). Reversely, the rapid increase of the life expectancy in OECD metropolitan areas has been reflected 
+into high increases of the old age dependency ratio in OECD metropolitan area (from 18% to 22% over the 
+period 2000-14), a larger increase than the one observed in the eight metropolitan areas in Colombia (from 
+9% to 11% over the same period). 11 Despite the fact that a general trend is observed, it is important to mention that each city faces different challenges 
+depending on its stage of the demographic bonus. 0 
+50 
+100 (5, Amsterdam) NLD 
+(3, Zurich) CHE 
+(1, Bratislava) SVK 
+(1, Helsinki) FIN 
+(8, Madrid) ESP 
+(24, Munich) DEU 
+(8, Warsaw) POL 
+(3, Vienna) AUT 
+(8, Bogotá D.C.) COL 
+(1, Dublin) IRL 
+(3, Prague) CZE 
+(1, Ljubljana) SVN 
+(4, Brussels) BEL 
+(3, Stockholm) SWE 
+(15, London) GBR 
+(33, Mexico City) MEX 
+(3, Santiago) CHL 
+(266) OECD26 
+(9, Toronto) CAN 
+(70, Houston) USA 
+(1, Tallinn) EST 
+(10, Seoul Incheon) KOR 
+(6, Perth) AUS 
+(1, Budapest) HUN 
+(15, Paris) FRA 
+(1, Copenhagen) DNK 
+(36, Tokyo) JPN 
+(1, Oslo) NOR All metropolitan areas 
+Largest contributor (No. of cities, Largest contributor) Country % 19 Figure 13. 
+Old and young metropolitan dependency ratio; Colombia and OECD countries Note: The OECD-EU definition of FUAs has not been applied to Iceland, Israel, New Zealand and Turkey. The FUA of Luxembourg 
+does not appear in the figures since it has a population below 500 000 inhabitants. Country metropolitan average refers to the 
+average of all metropolitan areas in a country. Metropolitan population figures are estimates based on municipal figures for the last 
+two census available for each country. Source: Author's calculations based on data from OECD metropolitan database. Youth dependency rates are quite different across Colombian metropolitan areas (Figure 14). Colombian 
+metropolitan areas account for the third largest disparities in youth dependency rate among OECD 
+countries, only exceeded by Mexico and the United States. While Cúcuta is the metropolitan area in 
+Colombia with the largest youth dependency rate in the year 2014 (41%), Medellín accounts for the 
+smallest rate (29%) which is similar to other OECD metropolitan areas such as Lyon (France), Greater 
+Brisbane (Australia) and Santiago (Chile). Figure 14. 
+Countries ranked by youth dependency ratio at metropolitan level, 2014 Note: The OECD-EU definition of FUAs has not been applied to Iceland, Israel, Latvia, New Zealand and Turkey. The FUA of 
+Luxembourg does not appear in the figures since it has a population below 500 000 inhabitants. Country metropolitan average refers 
+to the average of all metropolitan areas in a country. Metropolitan population figures are estimates based on municipal figures for the 
+last two census available for each country. Source: Based on OECD (2016) Regions at a Glance and data from OECD metropolitan database. 0 5 10 15 20 25 30 35 40 45 50 2000 
+2001 
+2002 
+2003 
+2004 
+2005 
+2006 
+2007 
+2008 
+2009 
+2010 
+2011 
+2012 
+2013 
+2014 COL (8) Young dependency ratio 
+OECD (281) Young dependency ratio 
+COL (8) Old dependency ratio 
+OECD (281) Old dependency ratio Country (No. of cities) % 20 Comparative analysis between the definition of cities by the  " Misión del Sistema de Ciudades "  and the 
+FUAs identified by the OECD-EU method As described in the previous section, 56 cities were identified in Colombia based on the methodology 
+developed by the Misión del Sistema de Ciudades. All these cities had at least 100 000 inhabitants, and 
+among them, 18 were considered as polycentric cities, while the rest as monocentric. According to 2005 
+census figures, these 56 agglomerations accounted for a total of 27 745 201 people (65% of the national 
+population) and their extension covered 151 941 km 2 (13% of the national land). Some differences appear when comparing these 56 cities with regards the results of applying the OECD-
+EU methodology. Firstly, only 43 cities 12 were identified in both methods and only 15 of them showed 
+differences in terms of area and population. For these cities it can be observed that the extension and 
+population concentrated in the cities identified by the official definition tend to be larger than the ones 
+identified with the OECD-EU method, with the exception of Ipiales (Figure 15). Additionally, the 
+differences are less significant in terms of population than in terms of area. These differences are 
+particularly evident in the cities of Rionegro and Sogamoso where the resulting city derived from applying 
+the official definition covers a larger area (425% and 232% larger than the one identified with the OECD-
+EU method, respectively) or concentrates a higher share of population (171% and 41% larger, 
+respectively). These results seem to be coherent due to the fact that the official functional definition uses a 
+smaller commuting threshold than the OECD-EU method (10% and 15% respectively). However, Ipiales is 
+an exception to this rule since the population and area of the resulting city identified on the basis of the 
+official method is smaller than the FUA identified based on the OECD-EU method. Figure 15. 
+Percentage difference in area and population between the official and the OECD-EU definitions, 
+2005 Note: This figure only displays the FUAs identified in both methodologies (official functional definition and OECD-EU) that have a 
+difference in terms of population or area. Source: Author's calculations based on DANE (2014) and 2005 population census data. 12 . Bogotá D.C., Medellín, Cali, Barranquilla, Cartagena, Bucaramanga, Cúcuta, Pereira, Ibagué, Manizales, Santa 
+Marta, Pasto, Armenia, Villavicencio, Montería, Valledupar, Buenaventura, Neiva, Palmira, Popayán, 
+Sincelejo, Barrancabermeja, Tuluá, Tunja, Riohacha, San Andrés de Tumaco, Florencia, Apartadó, 
+Girardot, Cartago, Maicao, Sogamoso, Guadalajara de Buga, Ipiales, Quibdó, Fusagasugá, Duitama, Yopal, 
+Ciénaga, Rionegro, Ocaña, Caucasia and Arauca. 21 Additionally, some cities were not identified by one of these methods. On the one hand, 13 13 out of the 
+56 cities identified based on the methodology developed by the Misión del Sistema de Ciudades were not 
+captured by the OECD-EU method. This fact can be mainly due to the ad-hoc aggregation of candidate 
+cities in the national definition developed by the Misión del Sistema de Ciudades. On the other hand, 10 14 
+out of the 53 FUAs identified with the OECD-EU method were not observed when using the methodology 
+developed by the Misión del Sistema de Ciudades. The identification of 10 new cities not identified by the national definition stresses the relevance of the 
+application of the OECD-EU methodology for the better planning and implementation of future urban 
+policies in Colombia. Indeed, the identification of these cities could better support the analysis of the urban 
+system in Colombia and by extension could better help to plan and design the long-term urban policy 
+strategies in Colombia. Comparative analysis between the legal constituted metropolitan areas in Colombia and the FUAs 
+identified by the OECD-EU method Several size differences appear between the FUAs delimited by using the OECD-EU methodology and the 
+6 metropolitan areas legally constituted in Colombia, basically due to the different approaches used in both 
+procedures. Indeed, as described in the previous section, the official metropolitan areas recognised in 
+Colombia have been constituted on the base of voluntary agreements between two or more municipalities. 
+The legal framework for the recognition of metropolitan areas in Colombia is provided by the Law 1625 of 
+2013. Figure 16 provides the extension of the six metropolitan areas legally constituted and their corresponding 
+FUAs identified by applying the OECD-EU methodology. When comparing them, it can be observed the 
+following: i) the metropolitan area of the Centro Occidente is not identified when applying the OECD-EU 
+methodology; ii) the metropolitan area of Bucaramanga is identical in both cases; iii) the legally 
+constituted metropolitan areas of Barranquilla and Valle de Aburrá seem to do not capture the real 
+extension of the urban labour market, given the fact that the extension of the FUA identified using the 
+OECD-EU method is larger in terms of area covered; iv) the legally constituted metropolitan areas of 
+Cúcuta and Valle del Cacique Upar seem to cover a larger area extension than the one identified by using 
+the OECD-EU methodology. Since only six metropolitan areas have been legally constituted in Colombia, the 53 FUAs identified with 
+the OECD-EU methodology provide a more comprehensive picture of metro formation in the country. The 
+identification of several FUAs not legally constituted in Colombia shows that several opportunities are 
+being missed. Indeed, better delivery of public services across municipalities belonging to the same FUA 
+could be taking place if their where legally recognised as metropolitan areas. These results also point to the 
+need of strengthening and encouraging the constitution of metropolitan areas which belong to the same 
+FUA, by simplifying the procedure in law 1625/2013. The OECD-EU methodology could serve as a guide 
+to identify the municipalities that display high economic, social and territorial relations being this the first 
+criterion required to start the process to constitute a metropolitan area according to the law 1625/2013. 13 Mocoa, Leticia, Inírida, San José del Guaviare, Mitú, Puerto Carreño, San Andrés de Cuerquía, Turbo, Pamplona, 
+Málaga, San Gil, Honda and Puerto Asís. 14 Magangué, Facatativá, Zipaquirá, La Dorada, Sabanalarga, Aguachica, Espinal, Santa Rosa de Cabal, El Carmen de 
+Bolívar and Fundación. 22 Figure 16. 
+Comparison between the six metropolitan areas recognised by Law in Colombia and the OECD-
+EU FUAs Barranquilla 
+Bucaramanga 
+Centro Occidente Cúcuta 
+Valle de Aburrá 
+Valle del Cacique Upar Note: These maps are for illustrative purposes and are without prejudice to the status of or sovereignty over any territory covered by 
+this map. Source: Author's calculations. 5. Conclusions The main purpose of this paper is to identify the functional urban system in Colombia according to a 
+common methodology developed by the OECD-EU and already applied to 30 OECD countries. Once the 
+functional urban areas (FUA) of Colombia have been identified on the basis of 2005 census data, the 
+demographic and economic trends of the eight largest ones are measured and compared with the 
+281 largest OECD FUAs (OECD metropolitan areas). Based on the OECD-EU method and using municipal boundaries, population grid data and inter-
+municipalities commuting flows, 53 FUAs were identified in Colombia in the year 2005. These FUAs 
+accounted for almost 27 million people (63% of the national population) in 2005. The functional urban 
+system in Colombia is dominated by small FUAs and is characterised by a low number of FUAs with 23 commuting zone. Indeed, 60% of the FUAs identified in Colombia are urban areas with less than 200 000 
+inhabitants, much below the OECD average (42%). Additionally, only 15% of the FUAs identified in 
+Colombia have a commuting zone. As a result, it has been observed that only 3% of the population in 
+Colombian FUAs is concentrated in these peripheral areas of the FUAs, figure which is 21 percentage 
+points below the OECD average. This study points to the inadequacy of transport infrastructure as the main 
+reason behind these particularities. This paper also provides a preliminary international assessment of the socio-economic characteristics of 
+the eight metropolitan areas identified in Colombia (FUAs with a population above 500 000). As a 
+summary, the Colombian metropolitan areas concentrate a large share of national population, employment 
+and economic activity. Additionally, they account for almost 50% of the national GDP growth during the 
+period 2000-12, being the capital city the main contributor to this growth. With regard to the population 
+structure, Colombian metropolitan areas account for the third largest disparities in youth dependency rate 
+among OECD countries. However, the levels remain high in comparison with other OECD countries. In Colombia two ways to delimit metropolitan areas currently coexist: the methodology defined by the 
+Misión del Sistema de Ciudades to delimit metropolitan areas and the metropolitan areas legally 
+constituted. On the one hand, the Colombian constitution of 1991 recognised the constituency of 
+metropolitan areas on the base of voluntary agreements between two or more municipalities. On the other 
+hand, the Misión del Sistema de Ciudades developed in 2012 a national methodology to identify the system 
+of cities. This paper compared and analysed the results derived from each of the national definitions with 
+the results derived from the OECD-EU method. From this analysis some similarities in the size of cities 
+were observed. However, methodological differences give place to discrepancies in terms of population 
+and area. 15 The novelty of the OECD-EU method compared to the national ones is to detect all cities in a country with 
+the same criteria, thus providing an accurate picture of the national system of urban areas, regardless of the 
+administrative or legal status of cities. While six metropolitan areas have been legally constituted in 
+Colombia, the OECD-EU method identifies eight metropolitan areas and a total of 53 FUAs. The OECD-
+EU methodology provides a list of municipalities that have high socio-economic interactions, and thus can 
+guide national and local authorities' efforts to encourage the constitution of metropolitan areas for 
+municipalities belonging to the same FUA. Indeed, the formation of metropolitan areas favours the 
+emergence of agglomeration economies that can be translated into improved welfare for the population due 
+to the existence of economies of scale in the provision of public goods and services. All in all, the identification of Colombian FUAs based on the OECD-EU methodology provides a 
+complementary tool to the national and city government to better design and implement future urban 
+policies. The delimitation of these FUAs and their inclusion in the OECD Metropolitan Database also 
+allows to benchmark Colombian cities' performance with their international peers. 15 More precisely, the two methods identify 43 cities in the same way, 15 cities are present in both exercises but differ 
+in the boundaries and 10 cities are identified only by the OECD-EU methodology. 24 References Brezzi, M., Piacentini, M and D. Sanchez-Serra (2012),  " Measuring Metropolitan Areas: A Comparative 
+Approach in OECD Countries " , in E. Fernández Bazquez and F. Rubiera Morellón (eds.), Defining 
+the Spatial Scale in Modern Regional Analysis: New Challenges from Data at Local Level, 
+Advances in Spatial Science, Springer, pp. 71-89. Carrión Barrero, G. A. (2009),  " Los avatares de la institutionalidad metropolitana en Colombia: una breve 
+revisión a la aplicación de la Ley 128 de 1994 " , Desafios, Bogotá, Colombia. Congreso de Colombia (2013); Proyecto de acto legislativo 088 de la Cámara de Representantes. CONPES 3819 (2014),  " Política nacional para consolidar el Sistema de Ciudades en Colombia " , 
+Documento CONPES 3819, Bogotá. DANE (2014), Identificación de núcleos urbanos en Colombia, según metodología OCDE y Grilla 
+población DANE Censo 2005, Dirección de Geoestadística, Bogotá. DNP (2012), Algunos aspectos del análisis del sistema de ciudades colombiano, Bogotá, Colombia. Duranton, G. (2015a), A proposal to delineate Metropolitan Areas in Colombia, Revista Desarrollo y 
+Sostenibilidad 75, pp. 223-264. Duranton, G. (2015b), Agglomeration effects in Colombia, Journal of Regional Science. Duranton, G. (2013),  " Delineating metropolitan areas: Measuring spatial labour market networks through 
+commuting patterns " , in T. Watanabe, I. Uesugi and A. Ono (eds.), the Economics of interfirm 
+Networks, Volume 4 of the series Advances in Japanese Business and Economics pp 107-133. FEDESARROLLO (2012) Tendencia Económica. Informe mensual 125. 
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=37933658. Knight, R V. (1995), "Knowledge-based Development: Policy and Planning Implications for cities", Urban 
+Studies, 32 (2), 225-260. OECD (2016), OECD Regions at a Glance 2016, OECD Publishing, Paris, 
+http://dx.doi.org/10.1787/reg_glance-2016-en. OECD (2013), OECD Regions at a Glance 2013: OECD Publishing, Paris, 
+http://dx.doi.org/10.1787/reg_glance-2013-en. OECD (2012), Redefining Urban: A New Way to Measure Metropolitan Areas, OECD Publishing, 
+http://dx.doi.org/10.1787/9789264174108-en. UN (2014), World Urbanization Prospects. The 2014 Revision. Highlights, United Nations, New York. World Bank (2007), Infraestructura en América Latina y el Caribe: Acontecimientos recientes y desafíos 
+principales. Banco Mundial en coedición con Mayol Ediciones, Bogotá. 25 Annex I. List of municipalities by Functional Urban Area in Colombia (based on the OECD-EU 
+methodology and 15% of commuting threshold) ID City core 
+Name City core 
+ID municipality 
+Municipal name 
+Municipal population (year 2005) 
+CO001 
+Bogotá D.C. 
+11001 
+Bogotá D.C. 
+6,840,116 
+CO001 
+Bogotá D.C 
+25214 
+Cota 
+19,909 
+CO001 
+Bogotá D.C 
+25754 
+Soacha 
+401,996 
+CO002 
+Medellín 
+05001 
+Medellín 
+2,214,494 
+CO002 
+Medellín 
+05088 
+Bello 
+371,625 
+CO002 
+Medellín 
+05212 
+Copacabana 
+61,230 
+CO002 
+Medellín 
+05266 
+Envigado 
+174,150 
+CO002 
+Medellín 
+05360 
+Itagüí 
+234,973 
+CO002 
+Medellín 
+05380 
+La Estrella 
+52,571 
+CO002 
+Medellín 
+05631 
+Sabaneta 
+44,443 
+CO003 
+Cali 
+76001 
+Cali 
+2,119,843 
+CO004 
+Barranquilla 
+08001 
+Barranquilla 
+1,146,498 
+CO004 
+Barranquilla 
+08433 
+Malambo 
+101,280 
+CO004 
+Barranquilla 
+08758 
+Soledad 
+461,603 
+CO005 
+Bucaramanga 
+68001 
+Bucaramanga 
+516,460 
+CO005 
+Bucaramanga 
+68276 
+Floridablanca 
+254,600 
+CO005 
+Bucaramanga 
+68307 
+Girón 
+135,860 
+CO006 
+Cartagena 
+13001 
+Cartagena 
+893,033 
+CO007 
+Cúcuta 
+54001 
+Cúcuta 
+587,567 
+CO007 
+Cúcuta 
+54405 
+Los Patios 
+67,239 
+CO007 
+Cúcuta 
+54673 
+San Cayetano 
+4,493 
+CO007 
+Cúcuta 
+54874 
+Villa del Rosario 
+69,848 
+CO008 
+Pereira 
+66001 
+Pereira 
+443,442 
+CO008 
+Pereira 
+66170 
+Dos Quebradas 
+179,282 
+CO009 
+Ibagué 
+73001 
+Ibagué 
+498,130 
+CO010 
+Manizales 
+17001 
+Manizales 
+379,794 
+CO010 
+Manizales 
+17873 
+Villamaría 
+46,324 
+CO011 
+Santa Marta 
+47001 
+Santa Marta 
+415,404 
+CO012 
+Pasto 
+52001 
+Pasto 
+382,422 
+CO013 
+Armenia 
+63001 
+Armenia 
+280,881 
+CO013 
+Armenia 
+63130 
+Calarcá 
+73,720 
+CO014 
+Villavicencio 
+50001 
+Villavicencio 
+380,328 
+CO015 
+Valledupar 
+20001 
+Valledupar 
+354,582 
+CO016 
+Neiva 
+41001 
+Neiva 
+315,999 
+CO017 
+Buenaventura 
+76109 
+Buenaventura 
+328,753 
+CO018 
+Montería 
+23001 
+Montería 
+379,094 
+CO019 
+Palmíra 
+76520 
+Palmíra 
+284,319 
+CO020 
+Popayán 
+19001 
+Popayán 
+257,405 
+CO021 
+Sincelejo 
+70001 
+Sincelejo 
+237,639 
+CO022 
+Barrancabermeja 
+68081 
+Barrancabermeja 
+190,069 
+CO023 
+Tuluá 
+76834 
+Tuluá 
+187,249 
+CO024 
+Tunja 
+15001 
+Tunja 
+154,066 
+CO025 
+Riohacha 
+44001 
+Riohacha 
+167,886 
+CO026 
+Cartago 
+76147 
+Cartago 
+124,842 
+CO027 
+Florencia 
+18001 
+Florencia 
+144,052 
+CO028 
+Apartadó 
+05045 
+Apartadó 
+131,416 
+CO029 
+Girardot 
+25307 
+Girardot 
+97,889 
+CO029 
+Girardot 
+73275 
+Flandes 
+27,943 
+CO030 
+Mosquera 
+25286 
+Funza 
+61,391 
+CO030 
+Mosquera 
+25473 
+Mosquera 
+63,237 
+CO031 
+Quibdó 
+27001 
+Quibdó 
+112,909 
+CO032 
+Facatativá 
+25269 
+Facatativá 
+107,463 
+CO033 
+Buga 
+76111 
+Buga 
+116,831 
+CO034 
+Piedecuesta 
+68547 
+Piedecuesta 
+117,405 
+CO035 
+Duitama 
+15238 
+Duitama 
+107,417 
+CO036 
+Sogamoso 
+15759 
+Sogamoso 
+117,105 
+CO037 
+Ciénaga 
+47189 
+Ciénaga 
+101,987 
+CO038 
+Yopal 
+85001 
+Yopal 
+106,762 
+CO039 
+Zipaquirá 
+25899 
+Zipaquirá 
+101,562 
+CO040 
+Fusagasugá 
+25290 
+Fusagasugá 
+108,949 
+CO041 
+Chía 
+25175 
+Chía 
+97,907 
+CO042 
+Yumbo 
+76892 
+Yumbo 
+92,214 26 ID City core 
+Name City core 
+ID municipality 
+Municipal name 
+Municipal population (year 2005) 
+CO043 
+Ocaña 
+54498 
+Ocaña 
+90,528 
+CO044 
+Magangué 
+13430 
+Magangué 
+121,481 
+CO045 
+La Dorada 
+17380 
+La Dorada 
+72,936 
+CO045 
+La Dorada 
+25572 
+Puerto Saglar 
+15,519 
+CO046 
+Tumaco 
+52835 
+Tumaco 
+159,955 
+CO047 
+Caucasia 
+05154 
+Caucasia 
+87,543 
+CO048 
+Ipiales 
+52356 
+Ipiales 
+109,127 
+CO049 
+Rionegro 
+05615 
+Rionegro 
+100,513 
+CO050 
+Aguachica 
+20011 
+Aguachica 
+82,346 
+CO051 
+Caldas 
+05129 
+Caldas 
+67,994 
+CO052 
+Jamundí 
+76364 
+Jamundí 
+96,849 
+CO053 
+Sabanalarga 
+08638 
+Sabanalarga 
+86,623 
+CO054 
+Maicao 
+44430 
+Maicao 
+123,768 
+CO055 
+Fundación 
+47288 
+Fundación 
+56,997 
+CO056 
+Espinal 
+73268 
+Espinal 
+76,237 
+CO057 
+Arauca 
+81001 
+Arauca 
+75,568 
+CO058 
+Santa Rosa de Cabal 
+66682 
+Santa Rosa de Cabal 
+69,950 
+CO059 
+El Cármen de Bolívar 
+13244 
+El Cármen de Bolívar 
+67,963 27 Annex II. List of municipalities by Functional Urban Area in Colombia (based on the OECD-EU 
+methodology and 15% of commuting threshold) ID FUA 
+Name FUA 
+ID municipality 
+Municipal name 
+Municipal population 
+(year 2005) 
+CORE (1 refer to city / 0 
+refer to commuting zone) 
+COL01 
+Bogotá D.C. 
+11001 
+Bogotá D.C. 
+6,840,116 
+1 
+COL01 
+Bogotá D.C. 
+25754 
+Soacha 
+401,996 
+1 
+COL01 
+Bogotá D.C. 
+25175 
+Chía 
+97,907 
+1 
+COL01 
+Bogotá D.C. 
+25473 
+Mosquera 
+63,237 
+1 
+COL01 
+Bogotá D.C. 
+25286 
+Funza 
+61,391 
+1 
+COL01 
+Bogotá D.C. 
+25214 
+Cota 
+19,909 
+1 
+COL01 
+Bogotá D.C. 
+25126 
+Cajicá 
+45,391 
+0 
+COL01 
+Bogotá D.C. 
+25740 
+Sibaté 
+31,675 
+0 
+COL01 
+Bogotá D.C. 
+25377 
+La Calera 
+23,768 
+0 
+COL02 
+Medellín 
+05001 
+Medellín 
+2,214,494 
+1 
+COL02 
+Medellín 
+05088 
+Bello 
+371,625 
+1 
+COL02 
+Medellín 
+05360 
+Itagui 
+234,973 
+1 
+COL02 
+Medellín 
+05266 
+Envigado 
+174,150 
+1 
+COL02 
+Medellín 
+05129 
+Caldas 
+67,994 
+1 
+COL02 
+Medellín 
+05212 
+Copacabana 
+61,230 
+1 
+COL02 
+Medellín 
+05380 
+La Estrella 
+52,571 
+1 
+COL02 
+Medellín 
+05631 
+Sabaneta 
+44,443 
+1 
+COL02 
+Medellín 
+05308 
+Girardota 
+42,581 
+0 
+COL03 
+Cali 
+76001 
+Cali 
+2,119,843 
+1 
+COL03 
+Cali 
+76364 
+Jamundí 
+96,849 
+1 
+COL03 
+Cali 
+76892 
+Yumbo 
+92,214 
+1 
+COL03 
+Cali 
+76130 
+Candelaria 
+70,267 
+0 
+COL04 
+Barranquilla 
+08001 
+Barranquilla 
+1,146,498 
+1 
+COL04 
+Barranquilla 
+08758 
+Soledad 
+461,603 
+1 
+COL04 
+Barranquilla 
+08433 
+Malambo 
+101,280 
+1 
+COL04 
+Barranquilla 
+08078 
+Baranoa 
+51,565 
+0 
+COL04 
+Barranquilla 
+08296 
+Galapa 
+31,985 
+0 
+COL04 
+Barranquilla 
+08573 
+Puerto Colombia 
+27,825 
+0 
+COL04 
+Barranquilla 
+08634 
+Sabanagrande 
+25,399 
+0 
+COL04 
+Barranquilla 
+08685 
+Santo Tomás 
+23,877 
+0 
+COL04 
+Barranquilla 
+08520 
+Palmar de Varela 
+23,678 
+0 
+COL04 
+Barranquilla 
+08560 
+Ponedera 
+18,944 
+0 
+COL04 
+Barranquilla 
+08558 
+Polonuevo 
+13,901 
+0 
+COL04 
+Barranquilla 
+08832 
+Tubará 
+10,912 
+0 
+COL04 
+Barranquilla 
+08849 
+Usiacurí 
+8,809 
+0 
+COL05 
+Cartagena 
+13001 
+Cartagena 
+893,033 
+1 
+COL05 
+Cartagena 
+13836 
+Turbaco 
+63,057 
+0 
+COL05 
+Cartagena 
+13052 
+Arjona 
+60,418 
+0 
+COL05 
+Cartagena 
+13683 
+Santa Rosa 
+18,195 
+0 
+COL05 
+Cartagena 
+13873 
+Villanueva 
+17,576 
+0 
+COL05 
+Cartagena 
+13838 
+Turbaná 
+13,493 
+0 
+COL05 
+Cartagena 
+13222 
+Clemencia 
+11,714 
+0 
+COL06 
+Bucaramanga 
+68001 
+Bucaramanga 
+516,460 
+1 
+COL06 
+Bucaramanga 
+68276 
+Floridablanca 
+254,600 
+1 
+COL06 
+Bucaramanga 
+68307 
+Girón 
+135,860 
+1 
+COL06 
+Bucaramanga 
+68547 
+Piedecuesta 
+117,405 
+1 
+COL07 
+Cúcuta 
+54001 
+Cúcuta 
+587,567 
+1 
+COL07 
+Cúcuta 
+54874 
+Villa del Rosario 
+69,848 
+1 
+COL07 
+Cúcuta 
+54405 
+Los Patios 
+67,239 
+1 
+COL07 
+Cúcuta 
+54673 
+San Cayetano 
+4,493 
+1 
+COL08 
+Pereira 
+66001 
+Pereira 
+443,442 
+1 
+COL08 
+Pereira 
+66170 
+Dosquebradas 
+179,282 
+1 
+COL09 
+Ibagué 
+73001 
+Ibagué 
+498,130 
+1 
+COL10 
+Manizales 
+17001 
+Manizales 
+379,794 
+1 
+COL10 
+Manizales 
+17873 
+Villamaría 
+46,324 
+1 
+COL11 
+Santa Marta 
+47001 
+Santa Marta 
+415,404 
+1 
+COL12 
+Pasto 
+52001 
+Pasto 
+382,422 
+1 
+COL13 
+Armenia 
+63001 
+Armenia 
+280,881 
+1 
+COL13 
+Armenia 
+63130 
+Calarca 
+73,720 
+1 
+COL13 
+Armenia 
+63190 
+Circasia 
+27,443 
+0 
+COL14 
+Villavicencio 
+50001 
+Villavicencio 
+380,328 
+1 28 ID FUA 
+Name FUA 
+ID municipality 
+Municipal name 
+Municipal population 
+(year 2005) 
+CORE (1 refer to city / 0 
+refer to commuting zone) 
+COL15 
+Montería 
+23001 
+Montería 
+379,094 
+1 
+COL16 
+Valledupar 
+20001 
+Valledupar 
+354,582 
+1 
+COL17 
+Buenaventura 
+76109 
+Buenaventura 
+328,753 
+1 
+COL18 
+Neiva 
+41001 
+Neiva 
+315,999 
+1 
+COL19 
+Palmira 
+76520 
+Palmira 
+284,319 
+1 
+COL20 
+Popayán 
+19001 
+Popayán 
+257,405 
+1 
+COL21 
+Sincelejo 
+70001 
+Sincelejo 
+237,639 
+1 
+COL22 
+Barrancabermeja 
+68081 
+Barrancabermeja 
+190,069 
+1 
+COL23 
+Tuluá 
+76834 
+Tuluá 
+187,249 
+1 
+COL24 
+Tunja 
+15001 
+Tunja 
+154,066 
+1 
+COL24 
+Tunja 
+15204 
+Cómbita 
+12,981 
+0 
+COL24 
+Tunja 
+15476 
+Motavita 
+6772 
+0 
+COL24 
+Tunja 
+15500 
+Oicatá 
+2,822 
+0 
+COL25 
+Riohacha 
+44001 
+Riohacha 
+167,886 
+1 
+COL26 
+San Andres de Tumaco 
+52835 
+San Andres de Tumaco 
+159,955 
+1 
+COL27 
+Florencia 
+18001 
+Florencia 
+144,052 
+1 
+COL28 
+Apartadó 
+05045 
+Apartadó 
+131,416 
+1 
+COL29 
+Girardot 
+25307 
+Girardot 
+97,889 
+1 
+COL29 
+Girardot 
+73275 
+Flandes 
+27,943 
+1 
+COL30 
+Cartago 
+76147 
+Cartago 
+124,842 
+1 
+COL31 
+Maicao 
+44430 
+Maicao 
+123,768 
+1 
+COL32 
+Magangué 
+13430 
+Magangué 
+121,481 
+1 
+COL33 
+Sogamoso 
+15759 
+Sogamoso 
+117,105 
+1 
+COL34 
+Guadalajara de Buga 
+76111 
+Guadalajara de Buga 
+116,831 
+1 
+COL35 
+Ipiales 
+52356 
+Ipiales 
+109,127 
+1 
+COL35 
+Ipiales 
+52022 
+Aldana 
+6,850 
+0 
+COL36 
+Quibdó 
+27001 
+Quibdó 
+112,909 
+1 
+COL37 
+Fusagasugá 
+25290 
+Fusagasugá 
+108,949 
+1 
+COL38 
+Facatativá 
+25269 
+Facatativá 
+107,463 
+1 
+COL39 
+Duitama 
+15238 
+Duitama 
+107,417 
+1 
+COL40 
+Yopal 
+85001 
+Yopal 
+106,762 
+1 
+COL41 
+Ciénaga 
+47189 
+Ciénaga 
+101,987 
+1 
+COL42 
+Zipaquirá 
+25899 
+Zipaquirá 
+101,562 
+1 
+COL43 
+Rionegro 
+05615 
+Rionegro 
+100,513 
+1 
+COL44 
+Ocaña 
+54498 
+Ocaña 
+90,528 
+1 
+COL45 
+La Dorada 
+17380 
+La Dorada 
+72,936 
+1 
+COL45 
+La Dorada 
+25572 
+Puerto Salgar 
+15,519 
+1 
+COL46 
+Caucasia 
+05154 
+Caucasia 
+87,543 
+1 
+COL47 
+Sabanalarga 
+08638 
+Sabanalarga 
+86,623 
+1 
+COL48 
+Aguachica 
+20011 
+Aguachica 
+82,346 
+1 
+COL49 
+Espinal 
+73268 
+Espinal 
+76,237 
+1 
+COL50 
+Arauca 
+81001 
+Arauca 
+75,568 
+1 
+COL51 
+Santa Rosa de Cabal 
+66682 
+Santa Rosa de Cabal 
+69,950 
+1 
+COL52 
+El Carmen de Bolívar 
+13244 
+El Carmen de Bolívar 
+67,963 
+1 
+COL53 
+Fundación 
+47288 
+Fundación 
+56,997 
+1 
+Source: OECD elaboration based on DANE (2014) computations and 2005 census population. 29 Annex III. Functional Urban Areas in Colombia using an alternative threshold of commuting (10%) The main objective of this Annex III is to present the results of the OECD-EU methodology to 
+Colombia by applying a lower commuting threshold (10% instead of the 15% used). This 10% commuting 
+rate threshold is in line with the threshold set in the national methodology to delimitate functional urban 
+areas in Colombia (DNP, 2012). This national methodology and the results derived from its application to 
+Colombia is described in Section 2 of this paper. Figure 17 displays the location and the extension of the 
+Functional Urban Areas (FUA) by using this new commuting threshold. As a result, 51 FUAs are 
+identified. Table 1 presents the list of municipalities included in each of the 51 FUAs identified. It is 
+important to note that based on this new threshold, 6 polycentric FUAs have been identified namely, 
+Bogotá, Bucaramanga, Medellín, Cali, Barranquilla and Pereira. Figure A.1. 51 FUA in Colombia (based on the OECD-EU methodology and 10% of commuting) COL01 Bogotá D.C., COL02 Medellín, COL03 Cali, COL04 Barranquilla, COL05 Cartagena, COL06 Bucaramanga, COL07 Cúcuta, 
+COL08 Pereira, COL09 Ibagué, COL10 Manizales, COL11 Armenia, COL12 Santa Marta, COL13 Villavicencio, COL14 Pasto, 
+COL15 Montería, COL16 Valledupar, COL17 Buenaventura, COL18 Neiva, COL19 Palmira, COL20 Popayán, COL21 Sincelejo, 
+COL22 Tuluá, COL23 Barrancabermeja, COL24 Rionegro, COL25 Tunja, COL26 Riohacha, COL27 San Andrés de Tumaco, COL28 
+Sogamoso, COL29 Florencia, COL30 Girardot, COL31 Apartadó, COL32 Cartago, COL33 Maicao, COL34 Magangué, COL35 
+Zipaquirá, COL36 Guadalajara de Buga, COL37 Ipiales, COL38 Quibdó, COL39 Duitama, COL40 Fusagasugá, COL41 Facatativá, 
+COL42 Yopal, COL43 Ciénaga, COL44 Ocaña, COL45 La Dorada, COL46 Caucasia, COL47 Aguachica, COL48 Espinal, COL49 
+Arauca, COL50 El Carmen de Bolívar, COL51 Fundación, Note: This map is for illustrative purposes and is without prejudice to the status of or sovereignty over any territory covered by this 
+map. Source: OECD elaboration based on DANE (2014) computations and 2005 census population. 30 Table A.1.List of municipalities by Functional Urban Area in Colombia (based on the OECD-EU methodology 
+and 10% of commuting threshold) ID FUA 
+Name FUA 
+ID municipality 
+Municipal name Municipal population 
+(year 2005) CORE (1 refers to city / 0 refers to 
+commuting zone) 
+COL01 
+Bogotá D.C. 
+11001 
+Bogotá D.C. 
+6,840,116 
+1 
+COL01 
+Bogotá D.C. 
+25754 
+Soacha 
+401,996 
+1 
+COL01 
+Bogotá D.C. 
+25175 
+Chía 
+97,907 
+1 
+COL01 
+Bogotá D.C. 
+25473 
+Mosquera 
+63,237 
+1 
+COL01 
+Bogotá D.C. 
+25286 
+Funza 
+61,391 
+1 
+COL01 
+Bogotá D.C. 
+25214 
+Cota 
+19,909 
+1 
+COL01 
+Bogotá D.C. 
+25430 
+Madrid 
+62,436 
+0 
+COL01 
+Bogotá D.C. 
+25126 
+Cajicá 
+45,391 
+0 
+COL01 
+Bogotá D.C. 
+25740 
+Sibaté 
+31,675 
+0 
+COL01 
+Bogotá D.C. 
+25377 
+La Calera 
+23,768 
+0 
+COL01 
+Bogotá D.C. 
+25785 
+Tabio 
+20,850 
+0 
+COL01 
+Bogotá D.C. 
+25099 
+Bojacá 
+8,879 
+0 
+COL02 
+Medellín 
+05001 
+Medellín 
+2,214,494 
+1 
+COL02 
+Medellín 
+05088 
+Bello 
+371,625 
+1 
+COL02 
+Medellín 
+05360 
+Itagui 
+234,973 
+1 
+COL02 
+Medellín 
+05266 
+Envigado 
+174,150 
+1 
+COL02 
+Medellín 
+05129 
+Caldas 
+67,994 
+1 
+COL02 
+Medellín 
+05212 
+Copacabana 
+61,230 
+1 
+COL02 
+Medellín 
+05380 
+La Estrella 
+52,571 
+1 
+COL02 
+Medellín 
+05631 
+Sabaneta 
+44,443 
+1 
+COL02 
+Medellín 
+05308 
+Girardota 
+42,581 
+0 
+COL02 
+Medellín 
+05079 
+Barbosa 
+42,453 
+0 
+COL02 
+Medellín 
+05318 
+Guarne 
+39,541 
+0 
+COL03 
+Cali 
+76001 
+Cali 
+2,119,843 
+1 
+COL03 
+Cali 
+76364 
+Jamundí 
+96,849 
+1 
+COL03 
+Cali 
+76892 
+Yumbo 
+92,214 
+1 
+COL03 
+Cali 
+76130 
+Candelaria 
+70,267 
+0 
+COL03 
+Cali 
+19573 
+Puerto Tejada 
+44,324 
+0 
+COL03 
+Cali 
+19845 
+Villa Rica 
+14,326 
+0 
+COL03 
+Cali 
+76869 
+Vijes 
+9,781 
+0 
+COL03 
+Cali 
+19513 
+Padilla 
+8,336 
+0 
+COL04 
+Barranquilla 
+08001 
+Barranquilla 
+1,146,498 
+1 
+COL04 
+Barranquilla 
+08758 
+Soledad 
+461,603 
+1 
+COL04 
+Barranquilla 
+08433 
+Malambo 
+101,280 
+1 
+COL04 
+Barranquilla 
+08638 
+Sabanalarga 
+86,623 
+1 
+COL04 
+Barranquilla 
+08078 
+Baranoa 
+51,565 
+0 
+COL04 
+Barranquilla 
+08296 
+Galapa 
+31,985 
+0 
+COL04 
+Barranquilla 
+08573 
+Puerto Colombia 
+27,825 
+0 
+COL04 
+Barranquilla 
+47745 
+Sitionuevo 
+26,867 
+0 
+COL04 
+Barranquilla 
+08634 
+Sabanagrande 
+25,399 
+0 
+COL04 
+Barranquilla 
+08685 
+Santo Tomás 
+23,877 
+0 
+COL04 
+Barranquilla 
+08520 
+Palmar de Varela 
+23,678 
+0 
+COL04 
+Barranquilla 
+08560 
+Ponedera 
+18,944 
+0 
+COL04 
+Barranquilla 
+08558 
+Polonuevo 
+13,901 
+0 
+COL04 
+Barranquilla 
+08832 
+Tubará 
+10,912 
+0 
+COL04 
+Barranquilla 
+08849 
+Usiacurí 
+8,809 
+0 
+COL05 
+Cartagena 
+13001 
+Cartagena 
+893,033 
+1 
+COL05 
+Cartagena 
+13836 
+Turbaco 
+63,057 
+0 
+COL05 
+Cartagena 
+13052 
+Arjona 
+60,418 
+0 
+COL05 
+Cartagena 
+13683 
+Santa Rosa 
+18,195 
+0 
+COL05 
+Cartagena 
+13873 
+Villanueva 
+17,576 
+0 
+COL05 
+Cartagena 
+13838 
+Turbaná 
+13,493 
+0 
+COL05 
+Cartagena 
+13222 
+Clemencia 
+11,714 
+0 
+COL06 
+Bucaramanga 
+68001 
+Bucaramanga 
+516,460 
+1 
+COL06 
+Bucaramanga 
+68276 
+Floridablanca 
+254,600 
+1 
+COL06 
+Bucaramanga 
+68307 
+Girón 
+135,860 
+1 
+COL06 
+Bucaramanga 
+68547 
+Piedecuesta 
+117,405 
+1 
+COL07 
+Cúcuta 
+54001 
+Cúcuta 
+587,567 
+1 
+COL07 
+Cúcuta 
+54874 
+Villa del Rosario 
+69,848 
+1 
+COL07 
+Cúcuta 
+54405 
+Los Patios 
+67,239 
+1 
+COL07 
+Cúcuta 
+54673 
+San Cayetano 
+4,493 
+1 31 Table A.1.List of municipalities by Functional Urban Area in Colombia (based on the OECD-EU methodology 
+and 10% of commuting threshold) (continued) ID FUA 
+Name FUA 
+ID municipality 
+Municipal name 
+Municipal population 
+(year 2005) 
+CORE (1 refers to city / 0 refers to 
+commuting zone) 
+COL08 
+Pereira 
+66001 
+Pereira 
+443,442 
+1 
+COL08 
+Pereira 
+66170 
+Dosquebradas 
+179,282 
+1 
+COL08 
+Pereira 
+66682 
+Santa Rosa de Cabal 
+69,950 
+1 
+COL09 
+Ibagué 
+73001 
+Ibagué 
+498,130 
+1 
+COL10 
+Manizales 
+17001 
+Manizales 
+379,794 
+1 
+COL10 
+Manizales 
+17873 
+Villamaría 
+46,324 
+1 
+COL11 
+Armenia 
+63001 
+Armenia 
+280,881 
+1 
+COL11 
+Armenia 
+63130 
+Calarca 
+73,720 
+1 
+COL11 
+Armenia 
+63401 
+La Tebaida 
+33,501 
+0 
+COL11 
+Armenia 
+63190 
+Circasia 
+27,443 
+0 
+COL12 
+Santa Marta 
+47001 
+Santa Marta 
+415,404 
+1 
+COL13 
+Villavicencio 
+50001 
+Villavicencio 
+380,328 
+1 
+COL13 
+Villavicencio 
+50606 
+Restrepo 
+10,178 
+0 
+COL14 
+Pasto 
+52001 
+Pasto 
+382,422 
+1 
+COL14 
+Pasto 
+52480 
+Nariño 
+4,183 
+0 
+COL15 
+Montería 
+23001 
+Montería 
+379,094 
+1 
+COL16 
+Valledupar 
+20001 
+Valledupar 
+354,582 
+1 
+COL17 
+Buenaventura 
+76109 
+Buenaventura 
+328,753 
+1 
+COL18 
+Neiva 
+41001 
+Neiva 
+315,999 
+1 
+COL19 
+Palmira 
+76520 
+Palmira 
+284,319 
+1 
+COL20 
+Popayán 
+19001 
+Popayán 
+257,405 
+1 
+COL21 
+Sincelejo 
+70001 
+Sincelejo 
+237,639 
+1 
+COL22 
+Tuluá 
+76834 
+Tuluá 
+187,249 
+1 
+COL22 
+Tuluá 
+76036 
+Andalucía 
+18,196 
+0 
+COL23 
+Barrancabermeja 
+68081 
+Barrancabermeja 
+190,069 
+1 
+COL24 
+Rionegro 
+05615 
+Rionegro 
+100,513 
+1 
+COL24 
+Rionegro 
+05440 
+Marinilla 
+45,548 
+0 
+COL24 
+Rionegro 
+05148 
+El Carmen de Viboral 
+41,012 
+0 
+COL25 
+Tunja 
+15001 
+Tunja 
+154,066 
+1 
+COL25 
+Tunja 
+15204 
+Cómbita 
+12,981 
+0 
+COL25 
+Tunja 
+15476 
+Motavita 
+6,772 
+0 
+COL25 
+Tunja 
+15187 
+Chivatá 
+5,049 
+0 
+COL25 
+Tunja 
+15500 
+Oicatá 
+2,822 
+0 
+COL26 
+Riohacha 
+44001 
+Riohacha 
+167,886 
+1 
+COL27 
+San Andres de Tumaco 
+52835 
+San Andres de Tumaco 
+159,955 
+1 
+COL28 
+Sogamoso 
+15759 
+Sogamoso 
+117,105 
+1 
+COL28 
+Sogamoso 
+15491 
+Nobsa 
+15,194 
+0 
+COL28 
+Sogamoso 
+15806 
+Tibasosa 
+12,626 
+0 
+COL28 
+Sogamoso 
+15272 
+Firavitoba 
+6,316 
+0 
+COL28 
+Sogamoso 
+15362 
+Iza 
+2,116 
+0 
+COL29 
+Florencia 
+18001 
+Florencia 
+144,052 
+1 
+COL30 
+Girardot 
+25307 
+Girardot 
+97,889 
+1 
+COL30 
+Girardot 
+73275 
+Flandes 
+27,943 
+1 
+COL30 
+Girardot 
+25612 
+Ricaurte 
+8,145 
+0 
+COL31 
+Apartadó 
+05045 
+Apartadó 
+131,416 
+1 
+COL32 
+Cartago 
+76147 
+Cartago 
+124,842 
+1 
+COL33 
+Maicao 
+44430 
+Maicao 
+123,768 
+1 
+COL34 
+Magangué 
+13430 
+Magangué 
+121,481 
+1 
+COL35 
+Zipaquirá 
+25899 
+Zipaquirá 
+101,562 
+1 
+COL35 
+Zipaquirá 
+25200 
+Cogua 
+18,276 
+0 
+COL36 
+Guadalajara de Buga 
+76111 
+Guadalajara de Buga 
+116,831 
+1 
+COL37 
+Ipiales 
+52356 
+Ipiales 
+109,127 
+1 
+COL37 
+Ipiales 
+52022 
+Aldana 
+6,850 
+0 
+COL38 
+Quibdó 
+27001 
+Quibdó 
+112,909 
+1 
+COL39 
+Duitama 
+15238 
+Duitama 
+107,417 
+1 
+COL40 
+Fusagasugá 
+25290 
+Fusagasugá 
+108,949 
+1 
+COL41 
+Facatativá 
+25269 
+Facatativá 
+107,463 
+1 
+COL42 
+Yopal 
+85001 
+Yopal 
+106,762 
+1 
+COL43 
+Ciénaga 
+47189 
+Ciénaga 
+101,987 
+1 
+COL44 
+Ocaña 
+54498 
+Ocaña 
+90,528 
+1 
+COL45 
+La Dorada 
+17380 
+La Dorada 
+72,936 
+1 32 Table A.1.List of municipalities by Functional Urban Area in Colombia (based on the OECD-EU methodology 
+and 10% of commuting threshold) (continued) COL45 
+La Dorada 
+25572 
+Puerto Salgar 
+15,519 
+1 
+COL46 
+Caucasia 
+05154 
+Caucasia 
+87,543 
+1 
+COL47 
+Aguachica 
+20011 
+Aguachica 
+82,346 
+1 
+COL48 
+Espinal 
+73268 
+Espinal 
+76,237 
+1 ID FUA 
+Name FUA 
+ID municipality 
+Municipal name 
+Municipal population 
+(year 2005) 
+CORE (1 refers to city / 0 refers to 
+commuting zone) 
+COL49 
+Arauca 
+81001 
+Arauca 
+75,568 
+1 
+COL50 
+El Carmen de Bolívar 
+13244 
+El Carmen de Bolívar 
+67,963 
+1 
+COL51 
+Fundación 
+47288 
+Fundación 
+56,997 
+1 Source: OECD elaboration based on DANE (2014) computations and 2005 census population. Annex IV. Methodology to adjust GDP, total employed and unemployed at metropolitan level The proposed methodology uses the socio-economic values (GDP, employment and unemployment) 
+in TL3 regions as data inputs and the distribution of population based on census data. The suggested 
+methodology is composed of three main steps: ● Step 1: Intersect the municipal boundaries with the TL3 boundaries by the use of GIS techniques; ● Step 2: Attribute each municipality a GDP value by weighting for the population in each 
+municipality; and ● Step 3: Calculate the sum of municipalities' GDP values belonging to each metro area. A similar 
+technique is applied to estimate employment and unemployment in metropolitan areas with working age 
+population (15-65 years old) used as data input in step 2. It has to be noted that the estimates of GDP, employment and unemployment in the metropolitan areas 
+do not adhere to international standards; the comparability among countries relies on the use of the same 
+methodology applied to areas defined with the same criteria. 

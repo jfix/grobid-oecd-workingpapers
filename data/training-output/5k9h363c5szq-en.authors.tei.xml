@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Gerlinde</forename>
+								 <surname>Verbist</surname>,
+							</persName>
+							<persName>
+								 <forename>Michael</forename>
+								 <middlename>F</middlename>.
+								 <surname>Förster</surname>,
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Maria</forename>
+								<surname>Vaalavuo</surname>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Gerlinde</forename>
+								 <surname>Verbist</surname>,
+							</persName>
+							<persName>
+								<forename>Michael</forename>
+								 <surname>Förster</surname>,
+							</persName>
+							<persName>
+								 <forename>Maria</forename>
+								 <surname>Vaalavuo</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

@@ -1,0 +1,293 @@
+(0.7007) 
+-4.0614*** 
+(0.6949) 
+-4.0803*** 
+(0.6000) 
+-3.8623*** 
+(0.5287) 
+-3.8038*** 
+(0.6015) 
+
+Reform Level (RL) 
+2.6056** 
+(1.2235) 
+2.5934** 
+(1.2214) 
+4.2357*** 
+(0.9933) 
+1.6128** 
+(0.8082) 
+2.2841** 
+(0.9295) 
+
+Change of Reform Level 
+(∆RL) 
+
+-6.0517** 
+(2.4138) 
+-5.8260** 
+(2.3526) 
+-7.8700*** 
+(2.2691) 
+-8.5305*** 
+(2.0802) 
+-4.7236** 
+(2.1209) 
+
+Reform Complementarity 
+(–RC) 
+-13.5806*** 
+(2.3834) 
+-13.4071*** 
+(2.3456) 
+-11.7757*** 
+(2.0194) 
+-10.7105*** 
+(1.7793) 
+-13.1942*** 
+(2.0521) 
+
+Change of Reform 
+Complementarity (–∆RC) 
+
+10.0923*** 
+(2.6231) 
+10.0360*** 
+(2.6161) 
+6.5630*** 
+(2.2592) 
+8.7673*** 
+(2.1178) 
+14.5116*** 
+(2.4276) 
+
+Lagged [–∆RC (-1)] 
+3.8348* 
+(2.1326) 
+3.8669* 
+(2.1283) 
+– 
+– 
+3.1635* 
+(1.9188) 
+
+Lagged [–∆RC (-2)] 
+6.4701*** 
+(1.7519) 
+6.4643*** 
+(1.7494) 
+– 
+– 
+6.6709*** 
+(1.8964) 
+
+Government expenditure (% 
+of GDP) 
+-0.3135*** 
+(0.0992) 
+-0.3177*** 
+(0.0985) 
+-0.3615*** 
+(0.0950) 
+-0.3607*** 
+(0.0849) 
+– 
+
+Foreign direct investment 
+(FDI), net inflows (% of GDP) 
+0.2054*** 
+(0.0448) 
+0.2040*** 
+(0.0446) 
+0.2022*** 
+(0.0462) 
+0.1433*** 
+(0.0446) 
+– 
+
+Secondary school enrolment 
+(% gross) 
+0.1586*** 
+(0.0607) 
+0.1493*** 
+(0.0567) 
+0.1459** 
+(0.0597) 
+– 
+– 
+
+Oil rents (% of GDP) 
+0.1827** 
+(0.0921) 
+0.1693* 
+(0.0866) 
+0.1940** 
+(0.0941) 
+– 
+– 
+
+Urban population (% of total) -0.6207*** 
+(0.2090) 
+-0.6420*** 
+(0.2027) 
+-0.6249*** 
+(0.2107) 
+– 
+– 
+
+Agriculture (% of GDP) 
+0.3009*** 
+(0.0749) 
+– 
+0.2979*** 
+(0.0746) 
+– 
+– 
+
+Industry (% of GDP) 
+0.2630*** 
+(0.0763) 
+– 
+0.2404*** 
+(0.0748) 
+– 
+– 
+
+Services (% of GDP) 
+– 
+-0.2825*** 
+(0.0612) 
+– 
+– 
+– 
+
+Constant 
+16.8145 
+(14.4475) 
+47.1689*** 
+(12.7273) 
+16.8663 
+(13.6052) 
+15.1235*** 
+(5.1011) 
+5.4308 
+(5.7718) 
+
+Number of observations 
+326 
+326 
+336 
+551 
+589 
+
+R 
+2 (within) 
+0.62 
+0.62 
+0.61 
+0.48 
+0.49 
+
+F-test 
+33.3 
+35.9 
+38.3 
+67.5 
+77.0 
+
+Note: Country fixed effects are not reported. The negative of RC, ∆RC, ∆RC(-1) and ∆RC(-2) are reported in the table, so that a 
+positive change in reform complementarity (i.e. a decrease in the standard deviation) corresponds to an increase in real GDP 
+growth (and vice-versa). Asterisks (*) denote significance at the 10 percent level (*), 5 percent level (**) and 1 percent level (***). 
+
+REFERENCES 
+
+Aghion, P. and O. Blanchard (1994).  " On the speed of transition in Central Europe " , NBER 
+Macroeconomics Annual 1994, N° 9, pp. 283-330, MIT Press. 
+
+Alam, A. and A. Banerji (2000).  " Uzbekistan and Kazakhstan: A tale of two transition paths " , World 
+Bank Policy Research Working Paper, (2472). 
+
+Braga de Macedo, J. and J. Oliveira Martins (2008).  " Growth, reform indicators and policy 
+complementarities " , Economics of Transition, N° 16(2), pp. 141-164. 
+
+Braga de Macedo, J., J. Oliveira Martins and B. Rocha (2010),  " Policy complementarities and 
+Growth " , OECD/CESifo/Ifo Workshop  " Regulation: Political Economy, Measurement and 
+Effects on Performance " , Munich, January 2010. 
+
+Campos, N. F. and F. Coricelli (2002),  " Growth in transition: what we know, what we don't and what 
+we should " , William Davidson Working Paper, (470). 
+
+Coricelli, F. and M. Maurel (2011),  " Growth and crisis in transition: A comparative 
+perspective " , Review of International Economics, N°19(1), pp. 49-64. 
+
+Dabrowski, M. (1996),  " Different strategies of transition to a market economy: how do they work in 
+practice? " , World Bank Policy Research Working Paper, (1579). 
+
+De Melo, M., C. Denizer, A. Gelb and S. Tenev (2001),  " Circumstance and choice: The role of initial 
+conditions and policies in transition economies " , The World Bank Economic Review, N°15(1), 
+pp. 1-31. 
+
+Dewatripont, M. and G. Roland (1992),  " The virtues of gradualism and legitimacy in the transition to 
+a market economy " , The Economic Journal, 102(411), pp. 291-300. 
+
+EBRD (1994-2012),  " Transition Report "  (several issues), European Bank for Reconstruction and 
+Development, London. 
+
+Falcetti, E., Raiser, M. and Sanfey, P. (2002). 'Defying the odds: Initial conditions, reforms, and 
+growth in the first decade of transition', Journal of Comparative Economics, 30, pp. 229-250. 
+
+Gates, S., P. Milgrom and J. Roberts (1994),  " Complementarities in the transition from socialism: A 
+firm-level analysis " , in: McMillan, J. and B. Naughton (Eds.), Reforming Asian socialism: The 
+growth of market institutions, University of Michigan Press. 
+
+Hartwell, C. A. (2012),  " Financial Liberalization and Crises in Transition Economies: What Have 20+ 
+Years Taught Us? " , Skolkovo Business School IEMS. 
+
+Hausmann, R., D. Rodrik and A. Velasco (2005),  " Growth diagnostics " , The Washington Consensus 
+Reconsidered: Towards a New Global Governance, Oxford University Press, pp. 324-355. 
+
+Hoen, H. W. and Irnazarov, F. (2012). 'Market reform and institutional change in Kazakhstan and 
+Uzbekistan: paradoxes and prospects', in: Ahrens, J. and Hoen, H.W. (Eds.), Institutional 
+Reform in Central Asia: Politico-Economic Challenges. 
+
+IMF (2011),  " Republic of Kazakhstan: Selected Issues " , IMF Country Report No. 11/151. IMF, 
+Washington, D.C. 
+
+IMF (2012),  " Republic of Kazakhstan 2012 Article IV Consultation " , IMF Country Report No. 
+12/164. IMF, Washington, D.C. 
+
+Lipsey, R. G. and Lancaster, K. (1956). 'The general theory of second best', The review of economic 
+studies, 24(1), pp. 11-32. 
+
+Rodrik, D. (2005),  " Growth strategies " , in: Aghion, P. and S. N. Durlauf (Eds.), Handbook of 
+economic growth, Volume 1A, pp. 967-1014. 
+
+Sachs, J. and W. T. Woo (1994),  " Structural factors in the economic reforms of China, Eastern 
+Europe, and the former Soviet Union " , Economic Policy, 9(18), pp. 101-145. 
+
+Staehr, K. (2005),  " Reforms and economic growth in transition economies: Complementarity, 
+sequencing and speed " , The European Journal of Comparative Economics, 2(2), pp. 177-202. 
+
+Topkis, D. M. (1978),  " Minimizing a submodular function on a lattice " , Operations research, 26(2), 
+pp. 305-321. 
+
+Topkis, D. M. (1998), Supermodularity and complementarity, Princeton, NJ: Princeton University 
+Press. 
+
+World Bank (1995),  " Financing Government in the Transition: Bulgaria. The Political Economy of 
+Tax Policies, Tax Bases and Tax Evasion " , Bogetic, Z. and A. Hillman (Eds.), World Bank 
+Publications, Washington, D.C. 
+
+World Bank (2000),  " Making transition work for everyone: poverty and inequality in Europe and 
+Central Asia " , World Bank Publications, Washington, D.C. 
+
+World Bank (2002),  " Transition: The First Ten Years. Analysis and Lessons for Eastern Europe and 
+the Former Soviet Union " , Mitra, P. K., and M. Selowsky (Eds.), World Bank Publications, 
+Washington, D.C. 
+
+World Bank (2005),  " Economic Growth in the 1990s: Learning from a Decade of Reform " , Zagha, R. 
+and G. T. Nankani (Eds.), World Bank Publications, Washington, D.C. 
+
+World Bank (2013), World Development Indicators Databank (WB/WDI), World Bank, Washington, 
+D.C. 
+

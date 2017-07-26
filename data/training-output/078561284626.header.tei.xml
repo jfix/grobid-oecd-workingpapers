@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="078561284626"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<note type="other">Please cite this paper as:<lb/> Yermo, J. (2007), &quot; Reforming the Valuation and Funding of<lb/> Pension Promises: Are Occupational Pension Plans Safer? &quot; ,<lb/> OECD Working Papers on Insurance and Private Pensions,<lb/> No. 13, OECD Publishing, Paris.<lb/></note>
+
+	<idno>http://dx.doi.org/10.1787/078561284626<lb/></idno>
+
+	<note type="other">OECD Working Papers on Insurance and<lb/> Private Pensions No. 13<lb/></note>
+
+	<docTitle>
+	<titlePart>Reforming the Valuation and<lb/> Funding of Pension<lb/> Promises<lb/> ARE OCCUPATIONAL PENSION PLANS SAFER?<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Juan Yermo<lb/></docAuthor>
+	</byline>
+
+	<note type="other">JEL Classification: G18, G23, J32<lb/></note>
+
+	<docTitle>
+	<titlePart>REFORMING THE VALUATION AND FUNDING OF PENSION PROMISES:<lb/> ARE OCCUPATIONAL PENSION PLANS SAFER?<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>Juan Yermo<lb/></docAuthor>
+	</byline>
+
+	<date>September 2007<lb/></date>
+
+	<note type="other">OECD WORKING PAPER ON INSURANCE AND PRIVATE PENSIONS<lb/> No. 13<lb/> ———————————————————————————————————————<lb/></note>
+
+	<byline>
+	<affiliation>Financial Affairs Division, Directorate for Financial and Enterprise Affairs<lb/> Organisation for Economic Co-operation and Development<lb/></affiliation>
+	</byline>
+
+	<address>2 Rue André Pascal, Paris 75116, France<lb/></address>
+
+	<ptr type="web">www.oecd.org/daf/fin/wp<lb/></ptr>
+
+	<div type="abstract">ABSTRACT/RÉSUMÉ<lb/> Reforming the valuation and funding of pension promises: are occupational pension plans safer?<lb/> This paper assesses current regulatory and accounting developments in the OECD area against their<lb/> purported goals. It specifically considers the different approaches to valuing pension liabilities and<lb/> questions the possibility of convergence between funding and business accountants&apos; valuation standards<lb/> for pension liabilities. It concludes that the trend towards market-based valuation methods in business<lb/> accounting is not entirely consistent with the parallel exercise undertaken by many pension regulators.<lb/> Since valuation methods for funding purposes are likely to continue moving towards a market-based<lb/> model, policymakers should be all the more cautious in setting funding regulations so as to provide<lb/> sufficient flexibility to pension funds in covering funding deficits while providing incentives to establish<lb/> funding buffers in good economic times. We also argue that accounting rules and regulatory changes are<lb/> driving plan design in some OECD countries such as Japan, the Netherlands and the United Kingdom and<lb/> can lead to procyclical investment behaviour by pension funds.<lb/> JEL codes: G18, G23, J32<lb/></div>
+
+	<keyword>Keywords: Pension funds, defined benefit, funding rules, investment, discount rates, accounting, valuation<lb/></keyword>
+
+	<p type="introduction">methods, actuarial methods, fair value.<lb/> *****<lb/> Réformer l&apos;estimation et le financement des promesses sur les retraites: les plans de retraite<lb/> professionnels sont-ils plus sûrs ?<lb/> L&apos;auteur évalue dans ce document les évolutions actuelles des dispositions réglementaires et<lb/> comptables dans la zone OCDE au regard de leurs objectifs supposés. Il examine plus précisément les<lb/> différentes méthodes d&apos;évaluation des engagements au titre des retraites, et s&apos;interroge sur la possibilité<lb/> d&apos;une convergence entre les méthodes d&apos;évaluation de ces engagements utilisées aux fins de financement,<lb/> d&apos;une part, et celles employées par les comptables d&apos;entreprises, d&apos;autre part. L&apos;auteur parvient à la<lb/> conclusion que l&apos;évolution de la comptabilité d&apos;entreprise vers des méthodes d&apos;évaluation fondées sur les<lb/> mécanismes de marché ne concorde par tout à fait avec l&apos;exercice parallèle entrepris par de nombreuses<lb/> instances de réglementation des retraites. Selon l&apos;auteur, il est probable que les méthodes d&apos;évaluation<lb/> utilisées aux fins de financement continueront à évoluer vers un modèle fondé sur les mécanismes de<lb/> marché. Compte tenu de cette tendance, les responsables de l&apos;action publique devraient se montrer<lb/> extrêmement prudents dans l&apos;élaboration des règles de financement, de manière à laisser aux organismes de<lb/> retraite des marges de manoeuvre suffisantes pour couvrir leurs déficits de financement, tout en les incitant<lb/> à constituer des fonds de réserve en période de conjoncture économique favorable. Toujours selon l&apos;auteur,<lb/> les modifications des dispositions comptables et réglementaires influent sur la conception des plans de<lb/> retraite dans certains pays de l&apos;OCDE, comme le Japon, les Pays-Bas et le Royaume-Uni, et elles peuvent<lb/> déboucher sur des comportements d&apos;investissement procycliques de la part des organismes de retraite.<lb/> JEL codes : G18, G23, J32<lb/></p>
+
+	<keyword>Mots clés : organismes de retraite, prestation définie, règles de financement, investissement, taux<lb/> d&apos;actualisation, comptabilité, méthodes d&apos;évaluation, methods actuarielles, juste valeur.<lb/></keyword>
+
+	<note type="copyright">Copyright OECD, 2007<lb/></note>
+
+	<note type="other">Applications for permission to reproduce or translate all, or part of, this material should be made to:<lb/> Head of Publications Service, OECD,</note>
+
+	<address>2 rue André-Pascal, 75775 Paris Cédex 16, France.<lb/></address>
+
+	<docTitle>
+	<titlePart>REFORMING THE VALUATION AND FUNDING OF PENSION PROMISES: ARE<lb/> OCCUPATIONAL PENSION PLANS SAFER?<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>by Juan Yermo 1<lb/></docAuthor>
+	</byline>
+
+	<p type="introduction">I. Introduction<lb/> Since 2001, occupational 2 defined benefit (DB) pension plans in OECD countries have experienced<lb/> an adverse funding situation, that is, a low ratio of assets to liabilities. The decline in funding ratios can be<lb/> traced to the low interest rate environment and poor equity market returns, together with longer term<lb/> pressures such as revisions in life expectancy assumptions. 3 Various regulatory initiatives have been<lb/> undertaken to address these funding gaps, some providing forbearance to plan sponsors, others aiming at<lb/> improving benefit protection outright. 4 At the same time, new accounting standards have been introduced<lb/> which aim at shining a bright light on what has been historically a rather obscure but major component of<lb/> the balance sheet of pension plan sponsors.<lb/> Policymakers face a difficult dilemma. If funding rules are tightened too much, employers may<lb/> altogether abandon DB plans. On the other hand, lax funding rules may expose workers to benefit losses if<lb/> underfunded plans are terminated by insolvent employers. A key question for policymakers (and the<lb/> actuarial and accounting professions) is to determine whether certain valuation methods used by regulators<lb/> and accountants may portray a misleading picture of the health of DB plans. In addition, it may be asked<lb/> why funding ratios were not higher in the good years, like the 1990s, given the possibility of adverse<lb/> developments in asset values and interest rates. Policymakers need to consider how regulations should be<lb/> reformed in order to best protect pension promises. Such deliberations should also take into consideration<lb/> the reform in accounting standards, as shareholders can be a powerful agent of change.<lb/> This chapter extends the discussion on funding by assessing current regulatory and accounting<lb/> developments in the OECD area against their purported goals. It specifically considers the different<lb/> approaches to valuing pension liabilities and questions the possibility of convergence between funding and<lb/> business accountants&apos; valuation standards for pension liabilities. The main conclusions are as follows:<lb/>  Valuation methods for funding and business accounting purposes are likely to continue moving<lb/> towards a market-based model. Given this trend, policymakers should be all the more cautious in<lb/> 1 The author is principal administrator of the private pensions unit at the OECD. He would like to thank the Delegates<lb/> to the OECD Working Party on Private Pensions, André Laboul (OECD), Chinu Patel (Watson Wyatt) and<lb/> Colin Pugh (independent consultant) for their comments on previous versions of this paper. The views<lb/> expressed are the sole responsibility of the author and do not necessarily reflect those of the OECD or its<lb/> member countries.<lb/> 2 According to the OECD pensions taxonomy, an occupational pension plan is linked to an employment relationship<lb/> between the plan member and the entity that establishes the plan (the plan sponsor). Occupational plans<lb/> may be established by employers or groups of employers (e.g. industry associations), professional and<lb/> labour associations (e.g. trade unions). Generally, the plan sponsor is responsible for making contributions<lb/> under the terms of occupational pension plans, but employees may be also required to contribute. Sponsors<lb/> may also have administrative or oversight responsibilities for these plans.<lb/> 3 See, for example, Schich (2005). Funding ratios recovered in 2006 as a result of rising long-term interest rates.<lb/> 4 See Pugh (2007) in this volume for a description of recent reforms to funding regulations. The OECD<lb/> Recommendation on Guidelines on Funding and Benefit Security in Occupational Pension Plans is the<lb/> international standard on these regulatory issues (OECD (2007)).</p>
+
+		</front>
+	</text>
+</tei>

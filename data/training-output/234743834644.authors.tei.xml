@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Ian</forename>
+								 <middlename>SUE</middlename>
+								 <surname>WING</surname>,
+							</persName>
+							<persName>
+								 <forename>William</forename>
+								 <middlename>P</middlename>.
+								 <surname>ANDERSON</surname>,
+							</persName>
+							<persName>
+								 <forename>T</forename>.
+								 <middlename>R</middlename>.
+								 <surname>Lakshaman</surname>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Ian</forename>
+								<middlename>Sue</middlename>
+								<surname>Wing</surname> ,
+							</persName>
+							<persName>
+								 <forename>William</forename>
+								<middlename>P</middlename> .
+								 <surname>Anderson</surname>and
+							</persName>
+							<persName>
+								 <forename>T</forename> .
+								 <middlename>R</middlename>.
+								<surname>Lakshmanan</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

@@ -1,0 +1,1408 @@
+Please cite this paper as: Bonesmo Fredriksen, K. (2012),  " Income Inequality in the 
+European Union " , OECD Economics Department Working 
+Papers, No. 952, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/5k9bdt47q5zt-en OECD Economics Department Working 
+Papers No. 952 Income Inequality in the 
+European Union Kaja Bonesmo Fredriksen JEL Classification: C81, D31, D63, H23, Z18 Unclassified ECO/WKP(2012)29 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 16-Apr-2012 
+___________________________________________________________________________________________ 
+English -Or. English ECONOMICS DEPARTMENT INCOME INEQUALITY IN THE EUROPEAN UNION ECONOMICS DEPARTMENT WORKING PAPERS No. 952 by Kaja Bonesmo Fredriksen All OECD Economics Department Working Papers are available on the OECD's Internet website at 
+www.oecd.org/eco/workingpapers JT03319905 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. ECO/WKP(2012)29 
+Unclassified English -Or. English ECO/WKP(2012)29 2 ABSTRACT/RÉSUMÉ Income inequality in the European Union Poor growth performance over the past decades in Europe has increased concerns for rising income 
+dispersion and social exclusion. European authorities have recently launched the Europe 2020 strategy 
+which aims to improve social inclusion in Europe on top of already existing European regional policies 
+aiming to reduce regional disparities through stimulating growth in areas where incomes are relatively low. 
+While it is most common to confine measures of inequality to national borders, the existence of such 
+union-wide objectives and policies motivates measuring income dispersion among all Europeans in this 
+paper. Towards the end of the 2000s the income distribution in Europe was more unequal than in the 
+average OECD country, albeit notably less so than in the United States. It is the within-country, not the 
+between-country dimension, which appears to be most important. Inequality in Europe has risen quite 
+substantially since the mid 1980s. While the EU enlargement process has contributed to this, it is not the 
+only explanation since inequality has also increased within a  " core "  of 8 European countries. Large income 
+gains among the 10% top earners appear to be a main driver behind this evolution. JEL Classification: C81 ; D31 ; D63 ; H23 ; Z18 
+Keywords: European Union; income inequality; Gini; convergence; top incomes; redistribution * * * * * L'inégalité des revenus dans l'Union européenne La faible croissance en Europe au cours des dernières décennies a augmenté les inquiétudes concernant la 
+répartition des revenus et l'exclusion sociale. Les autorités européennes ont récemment lancé la stratégie 
+Europe 2020 qui vise à améliorer l'insertion sociale en Europe en plaçant cet objectif au dessus des 
+politiques régionales européennes déjà existantes afin de réduire les disparités régionales en stimulant la 
+croissance dans les zones où les revenus sont relativement bas. Alors que l'inégalité est, le plus 
+fréquemment, mesurée par pays, le fait de mettre en place des objectifs et des politiques à l'échelle 
+européenne explique pourquoi ce rapport traite de l'inégalité des revenus entre tous les Européens. Vers la 
+fin des années 2000, la distribution des revenus en Europe était plus inégalitaire que la moyenne de la zone 
+de l'OCDE mais beaucoup moins qu'aux États-Unis. Ce sont les inégalités à l'intérieur des pays et non 
+entre pays qui semblent le plus importantes. L'inégalité en Europe a sensiblement augmenté depuis la 
+moitié des années 80. Même si l'élargissement a contribué à cette hausse, ce n'est pas la seule explication 
+puisque l'inégalité a aussi augmenté au sein d'un groupe de 8 pays faisant parti de l'Union sur toute la 
+période considérée. D'importants gains de revenus pour les 10% les mieux rémunérés apparaissent comme 
+étant la raison principale de cette évolution. Classification : C81 ; D31 ; D63 ; H23 ; Z18 
+Mots clés: L'Union européenne; l'inégalité des revenus; Gini; la convergence; hauts revenus; la 
+redistribution. © OECD (2012) 
+You can copy, download or print OECD content for your own use, and you can include excerpts from OECD publications, databases and 
+multimedia products in your own documents, presentations, blogs, websites and teaching materials, provided that suitable 
+acknowledgment of OECD as source and copyright owner is given. All requests for commercial use and translation rights should be 
+submitted to rights@oecd.org ECO/WKP(2012)29 3 TABLE OF CONTENTS INCOME INEQUALITY IN THE EUROPEAN UNION .............................................................................. 4 1. Introduction .............................................................................................................................................. 4 
+2. Income growth, but not necessarily (and as much) for all ....................................................................... 5 
+EU disposable income growth has been slightly below OECD average with large differences 
+between countries .................................................................................................................................. 5 
+Distribution of income growth has become more unequal driven by changes in the extremes ............ 6 
+3. Creating a single European Union income distribution ......................................................................... 11 
+The data are adjusted for household composition and price level differences .................................... 12 
+Inequality can be measured in a number of at times complementary ways ........................................ 13 
+Results point to higher aggregate inequality in the EU compared to national studies ........................ 14 
+4. Conclusions ............................................................................................................................................ 18 BIBLIOGRAPHY ......................................................................................................................................... 20 ANNEX: MICRO-VERSUS MACRO DATA............................................................................................. 22 Tables 1. Annual percentage growth in total household disposable income ........................................................... 6 
+2. Average annual real disposable income growth per decile and country, mid-1980s to 2008 ................ 10 
+3. Average annual real disposable income growth per decile, mid-1990s to 2008 .................................... 10 
+4. National Gini indices ............................................................................................................................. 11 
+5. Gini coefficients from different sources ................................................................................................ 14 
+6. State of inequality in the Union, 2008 ................................................................................................... 14 
+7. A selection of the literature on EU inequality ........................................................................................ 15 
+8. State of inequality in the Union, exchange rates, 2008, ......................................................................... 16 
+9. EU inequality, based on PPPs, from the mid-1980s to 2008 ................................................................. 16 
+10. Original eight countries, mid 1980s until 2008, PPP ........................................................................... 17 
+11. The role of so-called "catching up economies".................................................................................... 18 
+A.1. Growth in total disposable income, mid 1990s to end 2000s ............................................................. 22 Figures 1. Income growth of European deciles, mid-1980s to 2008 ........................................................................ 7 
+2. Income growth according to decile .......................................................................................................... 7 Boxes Box 1. Causes of inequality ........................................................................................................................ 8 ECO/WKP(2012)29 4 INCOME INEQUALITY IN THE EUROPEAN UNION By Kaja Bonesmo Fredriksen 1 1. Introduction Many European countries have faced sluggish growth over the past decades and the trend has 
+worsened in recent years. Contrary to economic booms when most individuals are likely to see substantial 
+increases in their income, low growth tends to bring out concerns about stagnating incomes, rising 
+inequality and poverty. The recession of the past few years has not only increased attention to rising 
+inequalities in OECD countries, but also evoked growing academic and political interest in finding broader 
+measures for economic performance than GDP growth. These have included social dimensions, such as 
+income dispersion, and various indicators of wellbeing. 2 While inequality is often viewed from a national perspective, there are good reasons to analyse it for 
+Europe as a whole. Union-wide policies and objectives are already in place in a number of areas. In the 
+social sphere, the Europe 2020 strategy defines inclusive growth as one of three main priorities for the 
+European Union (EU) and one of the headline targets is 20 million less Europeans in or at risk of poverty 
+and social exclusion by 2020. According to Eurostat, the number of such individuals amounted to 
+115 million in 2010. European regional policies, which are absorbing more than a third of EU budget 
+(OECD 2007), have also focused on stimulating growth in areas where incomes are relatively low to 
+reduce regional disparities. Policies for redistributing individual incomes remain however at the sole 
+charge of national governments. Finally, with deeper integration Europeans are likely to look more beyond 
+their national borders when they make relative income comparisons. There are, however, important methodological challenges to measuring income dispersion in the 
+European Union as a whole. Creating meaningful statistics that summarise cross-country heterogeneity in 
+income levels and distributions from scarce and often not fully comparable income data is not easy. For 
+this reason much of the existing literature on inequality in the EU still focuses on national levels and trends 
+in inequality, which is at times complemented by attempts at clustering countries showing similar 
+characteristics. Eurostat publishes measures of income dispersion and poverty in the EU as weighted 
+averages of national inequality indicators. Measures of European Union-wide inequality that take into 
+account income dispersion between European countries are rare. This paper provides a picture of the state and evolution of inequality in the European Union using 
+OECD average household disposable income data per decile from the Income Distribution and Poverty 
+Database. It includes 20 EU countries and for most of them covers a time span from the mid-1980s until 
+2008. 3 1. The author is seconded from the Norwegian Ministry of Finance and works at the Economics Department 
+of the OECD. This is one of the technical working papers prepared as background for the Economic 
+Survey of the European Union 2012. The author would like to thank Sebastian Barnes especially, and also 
+Piritta Sorsa and Peter Hoeller for their useful comments and suggestions, Isabelle Duong and Clara Garcia 
+for meticulous statistical work and Olivier Besson for excellent editorial support. The paper does not aim to put on the table any new evidence why inequality differs among 
+European countries nor what has driven the change in inequality over time. The main contribution of the 2. 
+The conclusions of the Stiglitz-Fitoussi-Sen Commission initiated in 2008 provide a good example. 3. 
+Bulgaria, Estonia, Latvia, Lithuania, Malta and Romania are not included in the database. Austria, 
+Belgium, the Czech Republic, Ireland, Poland, Portugal and Spain are excluded from the time serie 
+analysis because of a statistical break in 2004. ECO/WKP(2012)29 5 paper is twofold: Exploit the rich time dimension in the OECD database to analyse how income growth 
+over time has been shared among individuals in European countries as well as to go beyond the traditional 
+national approach and consider inequality in the Union as a whole. The methodology used for the latter is 
+inspired by among others Brandolini (2007) who looks at EU inequality and Milanovic (2002) who looks 
+at global inequality using household survey sources. Given the difficulty of the exercise, an additional aim 
+of the paper is to ensure transparency in the results obtained by properly accounting for the methodological 
+challenges as well as the methodological choices made. Section 2 reviews how growth in total income over 
+the past 25 years has been shared among deciles in EU countries. The approach in this section remains 
+ " national "  in the sense that the EU-aggregates are population-weighted national averages. The measure of 
+inequality for the European Union as a whole is then presented in Section 3. Section 4 summarises the 
+results. 2. Income growth, but not necessarily (and as much) for all EU disposable income growth has been slightly below OECD average with large differences between 
+countries Over the past 25 years, household disposable income per capita rose on average by almost 70% in the 
+OECD (3.1% annually), with somewhat smaller annual growth over the past 15 years (Table 1). In the EU, 
+average annual growth was 2.5%. Unsurprisingly, there was quite a difference between the fastest and 
+slowest growing European countries, a token of the area's heterogeneity. This also underlines the 
+importance of including the between-country dimension when analyzing inequality over time. Italians have 
+seen the lowest growth in their incomes since 1995 while the so-called  " catching up economies "  such as 
+Ireland, Poland and the Slovak Republic have gained the most. Compared to both the United States and the 
+whole OECD, Europeans on average and especially in the euro area appear to have lost ground, mainly 
+because the performance of the European  " core " , Germany and Italy, has been relatively weak. ECO/WKP(2012)29 6 Table 1. Annual percentage growth in total household disposable income Disposable Income 1985-2010 
+1995-2010 
+Austria 
+2.35 
+1.30 
+Belgium 
+2.38 
+1.34 
+Czech Republic 
+.. 
+3.09 
+Denmark 
+1.79 
+1.40 
+Finland 
+3.18 
+3.51 
+France 
+2.57 
+2.17 
+Germany 
+1.92 
+0.74 
+Greece 
+.. 
+2.88 
+Hungary 
+.. 
+1.10 
+Ireland 
+.. 
+5.15 
+Italy 
+0.73 
+0.32 
+Luxembourg 
+.. 
+.. 
+Netherlands 
+2.00 
+1.37 
+Poland 
+.. 
+4.31 
+Portugal 
+.. 
+2.47 
+Slovak Republic 
+.. 
+6.09 
+Slovenia 
+.. 
+3.73 
+Spain 
+3.97 
+2.71 
+Sweden 
+2.42 
+2.87 
+United Kingdom 
+3.81 
+2.67 
+EA-15 
+2.18 
+1.38 
+EU-21 1) 2.52 
+1.78 
+United States 
+3.82 
+3.42 
+OECD total 2) 3.13 
+2.48 1. 
+Includes Austria, Belgium, the Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, 
+Luxemburg, the Netherlands, Poland, Portugal, the Slovak Republic, Slovenia, Spain, Sweden and the United Kingdom. 2. . 
+OECD aggregate for net household disposable income does not include Chile, Israel, Luxemburg and Turkey. Source: OECD, National Account Data. However, how each individual benefits from aggregate disposable income growth depends on how its 
+distribution evolves. Income growth can be very concentrated in a few hands, a well-known phenomenon 
+from developing and emerging market economies, and there is evidence that this is increasingly the case 
+for advanced economies as well (OECD, 2012). Because macro data derived from the national accounts 
+only consider national averages, to see how income growth is shared between individuals it is necessary to 
+turn to individual-level data, either based on household income surveys or tax data. There are some caveats 
+with micro data, most notably a tendency not to capture very well the extremes of the distribution and 
+therefore to underestimate inequality. Because of this, and other conceptual differences, there will always 
+be discrepancies between micro data and macro data (Annex 1). Distribution of income growth has become more unequal driven by changes in the extremes The micro data used in this study is derived from national disposable income surveys and covers the 
+entire population. It has been harmonised by national experts via pre-established conventions and 
+definitions which enhances cross-country comparability. Another advantage of this particular database is 
+that for many countries it goes back to mid-1980s, making it possible to see how inequality has evolved 
+over a longer period during which the Union underwent many important changes, notably the addition of 
+several new countries. ECO/WKP(2012)29 7 Annual average income growth over the past 25 years has been quite low for most deciles in Europe, 
+though some still saw their income grow quite substantially (Figure 1). Part of this difference is due to 
+differences in aggregate growth performance of European countries. In Greece, for instance, all deciles 
+have seen their income grow more than any German decile has. But there has also been a clear pattern 
+between income growth and income ranking, which becomes even clearer when countries that are outliers 
+in terms of growth performance 4 Figure 1. Income growth of European 
+1 deciles, mid-1980s to 2008 2 are excluded (Figure 2). 1. 
+The sub-sample from mid 1980s to 2008 includes Denmark, Finland, France, Germany, Greece, Italy, Luxemburg, the 
+Netherlands, Sweden and the United Kingdom. From the mid 1990s, Hungary is added to the sample. 2. 
+Frequency refers to the number of observations (deciles) that fall in a given income growth range. Source: OECD Income Distribution and Poverty Database. Figure 2. Income growth according to decile Average annual change between mid-1980s and 2008 1. 
+Dots correspond to observations for Denmark, Finland, France, Germany, Italy, Luxembourg, the Netherlands, Sweden and the 
+United Kingdom. Source: OECD Income Distribution and Poverty Database. 4. 
+Because of the break in the time series in 2004, Ireland and Spain are not in the sub sample considered; 
+Greece is voluntarily excluded from the sample. 0 5 10 15 20 25 30 Under 
+0.5 0.5 to 
+1.0 1.0 to 
+1.5 1.5 to 
+2.0 2.0 to 
+2.5 2.5 to 
+3.0 3.0 to 
+3.5 3.5 to 
+4.0 4.0 to 
+4.5 4.5 to 
+5.0 5.0 or 
+more Frequency Per cent annual average income growth 1985-2008 0 5 10 15 20 25 30 Under 
+0.5 0.5 to 
+1.0 1.0 to 
+1.5 1.5 to 
+2.0 2.0 to 
+2.5 2.5 to 
+3.0 3.0 to 
+3.5 3.5 to 
+4.0 4.0 to 
+4.5 4.5 to 
+5.0 5.0 or 
+more Frequency Per cent annual average income growth 1995-2008 ECO/WKP(2012)29 8 In general the 10% highest income recipients have seen their incomes grow much more rapidly than 
+the rest of the population over the past 25 years (Box 1). This is not only a European phenomenon. Top 
+incomes have also been sprinting ahead in the United States. For the OECD as a whole, OECD (2012) 
+finds that from 1980 to 2008 the share of income captured by top income recipients rose in most OECD 
+countries, though there has been great variation with respect both to the extent of this increase and when it 
+started. A second, less striking, observation is that while income growth in European countries on average 
+has been similar from d2 to d9, the 10% poorest are losing out. Again, the same has happened (and has 
+even been more accentuated) in the United States. Box 1. Causes of inequality Cross-country differences in the level of disposable income inequality can be traced back to differences in labour 
+market outcomes, household composition, concentration of capital income and differences in the progressivity of tax 
+and transfer systems 
+1 . The OECD (2012)  " Less income inequality and more growth-Are they compatible? "  project 
+categorizes countries 
+2 into 5 groups according to inequality origins and finds great variation among EU countries. This 
+box summarizes the findings in this project, OECD (2011)  " Divided We Stand: Why Inequality keeps rising "  as well as 
+a few other recent studies on inequality and top incomes. The Scandinavian countries and Switzerland have low dispersion in labour earnings while cash transfers tend to 
+be universal and taxes are not very progressive. In Belgium, Czech Republic, Estonia, Finland, France, Italy, Slovak 
+Republic and Slovenia wage dispersion tends to be low but so does employment rates whereas part time rates are 
+high. Taxes and transfers are not highly progressive. Austria, Germany, Greece, Hungary, Luxembourg, Poland and 
+Spain are characterized by rather concentrated labour earnings but much redistribution happens at the family level. 
+The United Kingdom, Ireland and the Netherlands have high part time employment rates driving inequality in labour 
+market outcomes. Taxes and transfers have a sizeable redistributive impact. Portugal is the only European country in 
+the last group with high concentration in both labour, capital and self-employment income as well as a high poverty 
+rate. Transfers have little redistributive impact. Looking at the evolution of inequality over time reveals a more common pattern among European countries. The 
+top decile appears to be capturing an increasing share of total income. The same holds true in largely all OECD 
+countries that have seen a rise in income dispersion over the past two decades. Indeed, the rise in top incomes in 
+continental Europe appears rather modest compared to what has been the case in some Anglo-Saxon countries and 
+notably the United States, especially if one looks at the top 1% of the distribution. 
+3 There is no consensus around the 
+causes for this development. Prominent explanations found in the literature include both changes in taxation, labour 
+market institutions as well as globalization and technological change. Many OECD countries have seen a decline in the progressivity of the tax schedule at the upper tail of the income 
+distribution 
+4 over the past decade due to both a decline in top marginal tax rates and an increased income threshold 
+from which rates apply. In Europe the picture has been mixed with tax progressivity among top earners decreasing 
+quite substantially in Denmark and Ireland, and to a smaller extent, in France, while it has increased in the Czech 
+Republic, Hungary, Greece and the Netherlands. Only marginal changes have occurred in the other countries. In 
+addition to the changes in the personal income tax schedule, wealth taxes have been recently been abolished in 
+Austria (1997), Denmark (1997), Germany (1997), Finland (2006), Luxemburg (2006), Sweden (2007) and Spain 
+(2008). Restricting the analysis to the top 1% of the distribution, Piketty et al. (2011) find a strong negative relationship 
+between top income shares and top income tax rates over the period 1975 to 2008. No country has seen a rise in the 
+share of top incomes without significant cuts in top rate tax rates. The correlation appears to be stronger in Anglo-
+Saxon countries than in some European countries. Top rate tax cuts are found to increase the income of the richest 
+mainly because they induce top earners to bargaining more for higher salaries and not because they work more or 
+resort to less tax avoidance. Globalization and technological change may also have led to an increase in the return to skills and thus incomes 
+in the top decile relative to the rest of the population. At the utmost extreme of the distribution, higher returns for certain 
+types of talent, notably in the sport and entertainment industry as well as financial traders, are likely to have 
+contributed to increased relative income of the top 1% (Rosen, 1981; Gordon and Dew-Becker, 2008). The reward for 
+managerial skills is also likely to have been positively affected from globalization among other things as a result of 
+improved alternative carrier options available and internationalized competition for managers which have strengthened ECO/WKP(2012)29 9 their bargaining power. Growing use of performance related pay, and particularly for CEOs and finance professionals, 
+adds weight to these explanations especially in the case of United States. At the other end of the distribution, the bottom decile in Europe has on average seen lower income growth than 
+the rest of the population. Certain facets of globalization may shed some light over this development. More 
+international trade may have lowered employment or reduced the relative earnings of low-income workers if high-
+income workers work disproportionately in (high-productivity) exporting firms. Changes in the labour market may also 
+have played a role. The strength of labour market institutions and policies has on average declined over the past 20 to 
+25 years in many OECD countries. This may have had an adverse effect on low earners in the countries concerned. 
+However, many such policies (e.g. employment protection legislation, minimum wage) have opposite effects on 
+employment and wage dispersion leaving the final impact on inequality undetermined. __________________________________________________ 1. A tax is considered to be progressive when the tax paid by of high income groups constitutes a higher share of their income than for lower earners. Similarly, a transfer is considered to be progressive when it constitutes a larger share of a low income than a higher income (relative progressivity). 2. The benchmark is the OECD average. 3. Observations based on tax data. Includes all income subjected to the personal income tax. 4. Earnings are between the gross average wage and 167% of the gross average wage. Going beyond this general picture, there are some interesting outliers (Tables 2 and 3): @BULLET Disposable income growth has been very low almost throughout the distribution in both Germany 
+and the Netherlands, in particular in the lower deciles. This is especially evident from the mid-
+1990s to 2008 when 30% of the poorest Germans actually had negative real income growth. 
+Koske et al. (2012) note Germany is the only country that has seen an increase in labour earnings 
+inequality from the mid 1990s to the end 2000s driven by increasing inequality in the bottom half 
+of the distribution. Recent years wage moderation can to some extent be explained by weakening 
+power of unions since the mid-1990s, as well as a set of reforms in 2003 meant to increase the 
+flexibility of the labour market (Burda and Hunt, 2011). Evidence suggests that unions reduce 
+income disparities, though there may be some cross-country variation in the link between the two 
+(Koske et al., 2012). The tax and transfer system mitigated some of these effects in Germany at least over the 
+latter period since the inequality reducing effect of both taxes and particularly public transfers 
+increased from the mid-1990s to mid-2000s (OECD, 2008). This has not happened in the 
+Netherlands. An extensive overhaul of the Dutch social security system starting in the early 
+1980s is probably the main cause why Förster and Pearson (2002) find a larger loss of disposable 
+income in the lowest decile in the Netherlands compared to the loss in market income from the 
+mid-1980s to mid-1990s. From 1995 to 2005, taxes in the Netherlands became more progressive, 
+whereas the inequality reducing effect of social transfers continued declining. @BULLET In the United Kingdom the poorest 10% of the population have fared particularly badly compared 
+with the rest of the population. Both higher unemployment, which began climbing from the early 
+1980s, and big increases in the number of inactive persons during recessions in the 1980s and 
+1990s are likely to have contributed, however cannot fully explain what has happened since other 
+OECD countries have seen similar changes in labour market outcomes. Also, the increasing trend 
+in unemployment was reversed from the mid-1990s. What makes the United Kingdom stand out 
+is an important increase in the dispersion of earnings (Förster and Pearson, 2002). Policy changes are also likely to have contributed to low income growth in the bottom of the 
+distribution. Brandolini and Smeeding (2009) document a very significant drop in the equalizing ECO/WKP(2012)29 10 effect of taxes and transfers in the United Kingdom from the early 1980s, although this trend 
+appears to be reversed since the turn of the century. Focusing only on the period between the mid 
+1990s and mid 2000s, OECD (2008) finds no change in the redistributive impact of taxes and 
+transfers. @BULLET Contrary to what happened in most countries, the lowest deciles in Greece and Hungary gained 
+over the period compared to the rest of the population. This is also the case for the poorest 
+Italians from the mid-1990s. In Italy the redistributive impact of taxes and transfers increased 
+significantly from the mid 1990s to mid 2000s while no such data is available for Greece. Table 2. Average annual real disposable income growth per decile and country, mid-1980s to 2008 1 Decile/Country 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Denmark 
+0.86 
+1.03 
+0.93 
+0.99 
+1.05 
+1.07 
+1.08 
+1.10 
+1.12 
+1.96 
+Finland 
+1.40 
+1.18 
+1.41 
+1.59 
+1.77 
+1.90 
+2.00 
+2.10 
+2.24 
+3.36 
+France 
+1.89 
+1.29 
+1.40 
+1.39 
+1.30 
+1.23 
+1.15 
+1.10 
+1.14 
+1.48 
+Germany 
+0.21 
+0.38 
+0.53 
+0.52 
+0.53 
+0.56 
+0.60 
+0.70 
+0.85 
+1.64 
+Greece 
+4.80 
+3.29 
+2.90 
+2.73 
+2.66 
+2.61 
+2.49 
+2.38 
+2.38 
+2.12 
+Italy 
+0.45 
+0.64 
+0.63 
+0.70 
+0.82 
+0.85 
+0.87 
+0.92 
+1.01 
+1.53 
+Luxemburg 
+2.07 
+2.34 
+2.64 
+2.72 
+2.79 
+2.83 
+2.82 
+2.92 
+3.11 
+4.37 
+Netherlands 
+-0.11 
+0.65 
+0.89 
+1.01 
+1.09 
+1.13 
+1.16 
+1.20 
+1.33 
+2.64 
+Sweden 
+1.94 
+1.49 
+1.80 
+2.10 
+2.33 
+2.43 
+2.54 
+2.59 
+2.65 
+3.42 
+UK 
+0.46 
+2.16 
+2.41 
+2.39 
+2.44 
+2.46 
+2.50 
+2.60 
+2.83 
+4.17 
+Weighted EU average 
+0.87 
+1.14 
+1.24 
+1.27 
+1.28 
+1.31 
+1.34 
+1.36 
+1.48 
+2.23 
+US 
+0.08 
+0.69 
+0.53 
+0.51 
+0.57 
+0.65 
+0.72 
+0.79 
+0.89 
+1.75 1. 
+Average household income per decile deflated by the consumer price index. EU average weighted with population size. Source: OECD Income Distribution and Poverty Database. Table 3. Average annual real disposable income growth per decile, mid-1990s to 2008 Decile/Country 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+Denmark 
+0.30 
+0.77 
+0.84 
+0.94 
+1.04 
+1.11 
+1.13 
+1.17 
+1.23 
+2.69 
+Finland 
+1.38 
+1.38 
+1.72 
+2.06 
+2.26 
+2.38 
+2.46 
+2.46 
+2.55 
+4.79 
+France 
+1.21 
+1.39 
+1.37 
+1.38 
+1.31 
+1.21 
+1.16 
+1.15 
+1.22 
+2.36 
+Germany 
+-0.14 
+-0.20 
+-0.03 
+0.02 
+0.16 
+0.18 
+0.21 
+0.25 
+0.35 
+1.32 
+Greece 
+6.10 
+4.74 
+4.36 
+3.95 
+3.71 
+3.51 
+3.37 
+3.28 
+3.28 
+3.02 
+Italy 
+2.61 
+1.59 
+1.14 
+1.06 
+0.94 
+0.91 
+0.81 
+0.84 
+0.87 
+0.94 
+Luxemburg 
+1.26 
+1.66 
+1.91 
+1.98 
+2.21 
+2.28 
+2.26 
+2.15 
+2.42 
+3.71 
+Netherlands 
+-0.27 
+0.43 
+0.45 
+0.40 
+0.35 
+0.31 
+0.30 
+0.36 
+0.56 
+2.44 
+Sweden 
+0.75 
+1.33 
+1.97 
+2.48 
+2.79 
+3.00 
+3.18 
+3.30 
+3.42 
+4.28 
+UK 
+0.51 
+2.55 
+2.58 
+2.52 
+2.44 
+2.43 
+2.47 
+2.49 
+2.63 
+3.98 
+Weighted EU average 
+1.06 
+1.28 
+1.28 
+1.28 
+1.24 
+1.22 
+1.23 
+1.26 
+1.31 
+2.26 
+Hungary 
+3.79 
+4.25 
+4.09 
+3.93 
+3.74 
+3.64 
+3.63 
+3.15 
+2.73 
+2.91 
+Weighted EU average 2 
+1.15 
+1.37 
+1.36 
+1.35 
+1.32 
+1.29 
+1.30 
+1.32 
+1.35 
+2.28 
+US 
+-0.35 
+0.46 
+0.51 
+0.53 
+0.62 
+0.71 
+0.78 
+0.87 
+0.94 
+1.20 Source: OECD Income Distribution and Poverty Database. Given these country-specificities it is not surprising to find that aggregate inequality measured by the 
+Gini index has evolved somewhat differently across European countries (Table 4). The Gini index is an 
+aggregate measure of inequality that provides a simple and robust picture of inequality across the whole 
+distribution. By construction, it is between 0 and 1, and it takes the value of 0 when everyone has the same 
+income, and the value 1 when aggregate income is in the hands of only one individual. From the mid-
+1990s to 2008 the Gini decreased (meaning more equality) in Greece, Hungary and Italy, while it increased ECO/WKP(2012)29 11 in the other countries for which data for the two periods is available. The increase was particularly strong 
+in Sweden and the Netherlands. Over the last 4 years, a period during which comparable data is available 
+for more countries, the biggest change in the Gini happened in the East-European countries where 
+inequality decreased and in Sweden where it increased. Table 4. National Gini indices 1 Mid 80 
+Mid 90 
+Early 2000 
+Mid 2000 
+2008 Difference 
+mid-1990s-
+2008 
+Austria 
+X 
+X 
+X 
+0.27 
+0.26 
+N/A 
+Belgium 
+X 
+X 
+X 
+0.27 
+0.26 
+N/A 
+Czech Republic 
+X 
+X 
+X 
+0.27 
+0.26 
+N/A 
+Denmark 
+0.22 
+0.21 
+0.23 
+0.23 
+0.25 
+0.03 
+Finland 
+0.21 
+0.23 
+0.26 
+0.27 
+0.26 
+0.03 
+France 
+0.30 
+0.28 
+0.29 
+0.29 
+0.29 
+0.02 
+Germany 
+0.25 
+0.27 
+0.26 
+0.28 
+0.30 
+0.03 
+Greece 
+0.34 
+0.34 
+0.34 
+0.32 
+0.31 
+-0.03 
+Hungary 
+X 
+0.29 
+0.29 
+0.29 
+0.27 
+-0.02 
+Ireland 
+X 
+X 
+X 
+0.31 
+0.29 
+N/A 
+Italy 
+0.31 
+0.35 
+0.34 
+0.35 
+0.34 
+-0.01 
+Netherlands 
+0.23 
+0.25 
+0.29 
+0.28 
+0.29 
+0.04 
+Poland 
+X 
+X 
+X 
+0.35 
+0.31 
+N/A 
+Portugal 
+X 
+X 
+X 
+0.38 
+0.35 
+N/A 
+Slovakia 
+X 
+X 
+X 
+0.27 
+0.26 
+N/A 
+Slovenia 
+X 
+X 
+X 
+0.45 
+0.42 
+N/A 
+Spain 
+X 
+X 
+X 
+0.32 
+0.32 
+N/A 
+Sweden 
+0.21 
+0.21 
+0.24 
+0.23 
+0.26 
+0.05 
+UK 
+0.29 
+0.31 
+0.36 
+0.33 
+0.34 
+0.03 1. 
+The X refers to years for which there is either no data or the data available is not comparable to the most recent years because 
+of breaks in the time series. Source: OECD Income Distribution and Poverty Database. Finally, it is important to keep in mind that even if all deciles were to grow at exactly the same 
+positive rate (which implies that most measures of inequality would remain unchanged), the higher one 
+goes up in the distribution, the higher the absolute gain in income would be. Consider the example of 
+Denmark: Over the period from the mid-1990s to 2008, the Danes in the lowest decile saw their income 
+rise by 1% whereas those in the highest decile increased their income by 29%. Given what they earned in 
+1995, by 2008 the poorest 10% earned 1100 DKK more in absolute terms and the richest 109 000 DKK 
+more. Imagine now that the poorest would have captured an equal share of total income growth, and thus 
+also increased their income their 1995 incomes by 29%. Their absolute income would then be 25 000 
+DKK, which is still a lot less than the richest 10% gained in absolute terms. The reverse is of course also 
+true, a given negative income growth rate implies higher absolute income losses in the upper part of the 
+distribution. 3. Creating a single European Union income distribution Until now EU aggregates have been obtained by taking into account differences in the size of the 
+population between countries. This way of measuring inequality in European countries is in line with 
+Eurostat's official statistics and retains a national perspective on inequality: What matters for the 
+individual is the relative income position in their own country. However, for the reasons outlined it the 
+introduction to this paper, it is also valuable to measure inequality in Europe as whole. To do this one must 
+take into account between-country inequality which is likely to be large given the heterogeneity of the ECO/WKP(2012)29 12 countries in the Union. In this approach to EU inequality, the poorest 10% of Europeans are not the sum of 
+the 10% poorest in all countries but are likely to be disproportionately from the lower income Eastern 
+European countries, and conversely the richest 10% are likely to come from the original EU and the Nordic 
+countries. The aim of this section is to construct such an aggregate measure of inequality for the whole EU that 
+encompasses both within-and between country inequalities. A single European income distribution for the 
+whole population was created by stacking the average income of each decile for every country. Income 
+dispersion was then measured both by the Gini index as well as the q5/q1 and p90/p10 ratios weighting for 
+differences in total population since the number of persons receiving average income of decile x in country 
+y depends on the total population of country y. 5 The data are adjusted for household composition and price level differences The final sample is as such divided into non-identically 
+sized (income, population) groups. Measuring inequality is not simple, and there are added problems in a cross-country context. Micro 
+data sources are generally based on household surveys, and must therefore be adjusted to take into account 
+differences in household composition. These differences are generally dealt with using an equivalence 
+scale that adjusts for the number of people in the household and whether they are adults or children. There 
+are many such equivalence scales to choose from. Szulc (2006) argues that the original OECD equivalence 
+scale 6 may be more appropriate to use for Poland and other  " less developed "  countries than the modified 
+OECD equivalence scale 7 as households in such countries tend to spend a higher share of their income on 
+food where economies of scale are generally low and a lower share on housing were economies of scale 
+are generally larger. The data for this paper is adjusted using the square root scale 8 The income needed to purchase a given amount of goods by households is likely to vary by region 
+since price levels differ. National income data typically do not adjust for differences in price levels within 
+a county, nor does the OECD database. When measuring inequality across countries where the standard of 
+living generally varies much more, taking this into account becomes even more important. This can be 
+done using either PPP or nominal exchange rates. PPP measures the price for a same basket of goods in 
+different countries and as such overcomes the problem of market exchange rates that are not only 
+influenced by relative price levels, but also by other factors. . The PPP method has however problems of its own, notably that the content of a typical consumption 
+basket varies across countries and along the income distribution. Conform to what is common in the 
+literature, PPP conversion is still the option preferred in this paper. For comparison purposes, results are 
+also presented using nominal exchange rates. The latter shows a much higher level of inequality, which is 
+consistent both with theory and the literature. 5. 
+The ineqdec0 command in Stata was used to measure inequality. The function aw was used to weight for 
+differences in population size. 6. 
+Assigns a value of 1 to the first household member, of 0.7 to each additional adult member and of 0.5 to 
+each child. 7. 
+Assigns a value of 1 to the household head, of 0.5 to each additional adult member and of 0.3 to each child. 8. 
+Divides household income by the square root of household size. ECO/WKP(2012)29 13 Inequality can be measured in a number of at times complementary ways Many inequality measures exist and the choice of indicator is not neutral in the sense that they focus 
+on different distributional aspects, and also differ somewhat in their sensitivity to changes in the tails 
+versus the middle of the distribution. Evans et al. (2004) show that while the Gini, Theil and Robin Hood 
+indexes as well as the q5/q1 quintile ratio are highly correlated, the coefficient of variation and the p90/p10 
+percentile ratio are less well correlated with the others. In this paper, results are mainly reported using the 
+Gini index which is the most frequently used measure of inequality. However, a drawback of the Gini index is that it does not allow one to focus on particular segments of 
+the income distribution. Using income ratios between various quintiles, percentiles and deciles allows a 
+more detailed picture of how one distribution differs from another which is why results for EU inequality 
+measured by the p90/p10 and q5/q1 ratios are also presented. The two complement each other in the sense 
+that while the former is necessary to analyse the very top of the distribution, it is also likely less robust than 
+the q5/q1 ratio as the income data for the lowest decile probably includes households with temporary or 
+artificially low income such as students or tax avoiders (though the extent of the problem is difficult to 
+know). A problem specific to the OECD Income Distribution and Poverty database is that income is reported 
+as average income per decile. Inequality within each decile is therefore lost in the final results. There is no 
+way to truly by-pass this problem 9 9 . 
+The authors of the World Bank Development Report 2006 argue that estimating Lorenz curves instead of 
+assigning everyone inside a group the average income is a better approach. In order to do this, one has to 
+make an assumption about the shape of the income distribution within the group for which only average 
+income is available. Milanovic (2006) assumes a log-normal income distribution in all countries in his 
+measure of world inequality. . However, one can indicatively evaluate the size of the bias, which 
+depends on the convexity of the Lorenz curve (the degree of intra-decile inequality), by comparing income 
+dispersion calculated using the OECD Income Distribution and Poverty database with a different database 
+which reports the income of every household such as Eurostat's and the Luxemburg Income Study (LIS). 
+The correlation between the national Gini coefficients calculated on OECD data and the Eurostat and LIS 
+numbers in table 5 is 0.97 and 0.86 respectively, whereas that between the Eurostat and LIS numbers is 
+0.89. This exercise is, however, incomplete because there are differences between the databases other than 
+that the OECD micro base reports income per decile that will affect the correlations. OECD (2008) 
+Growing Unequal concludes that for most OECD-countries the difference between the data sources is 
+small, although it is non-negligible in some cases. ECO/WKP(2012)29 14 Table 5. Gini coefficients from different sources Most recent year OECD 
+Eurostat 
+LIS 
+Austria 
+0.265 
+0.260 
+0.257 
+Belgium 
+0.271 
+0.280 
+0.279 
+Czech Rebublic 
+0.268 
+0.260 
+.. 
+Denmark 
+0.232 
+0.240 
+0.228 
+Finland 
+0.269 
+0.260 
+0.252 
+France 
+0.281 
+0.280 
+0.278 
+Germany 
+0.298 
+0.260 
+0.275 
+Greece 
+0.321 
+0.330 
+0.333 
+Hungary 
+0.291 
+0.280 
+0.295 
+Ireland 
+0.328 
+0.320 
+0.313 
+Italy 
+0.352 
+0.330 
+0.333 
+Luxemburg 
+0.258 
+0.260 
+0.260 
+Netherlands 
+0.271 
+0.270 
+0.231 
+Poland 
+0.372 
+0.360 
+0.313 
+Portugal 
+0.385 
+0.380 
+.. 
+Slovak Republic 
+0.268 
+0.260 
+.. 
+Spain 
+0.319 
+0.320 
+0.336 
+Sweden 
+0.234 
+0.230 
+0.252 
+United Kingdom 
+0.335 
+0.340 
+0.343 Source: OECD (2008) Growing Unequal. Results point to higher aggregate inequality in the EU compared to national studies Income dispersion in the European Union (EU-20) is high, although lower than in the United States Table 6. State of inequality in the Union 
+1 , 2008 EU 
+Total sample 
+Sub-sample 2) Gini 
+0.328 
+0.312 
+p90/p10 
+4.864 
+5.489 
+p75/p25 
+2.128 
+1.917 1. 
+Countries included are: Austria, Belgium, the Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary (2007), 
+Ireland, Italy, Luxemburg, the Netherlands, Poland, Portugal, Spain, Slovenia, the Slovak Republic, Sweden and the UK. 2. 
+The sub-sample includes all countries for which comparable data is available from the mid-1980s (baseline 1 in Table 8). Source: OECD Income Distribution and Poverty Database. In 2008 the Gini index for the European Union was 0.33 (Table 6). This is broadly in line with 
+previous findings in the scarce literature that exists on EU inequality (Table 7). Some differences are to be 
+expected as the studies do not always include the same countries, nor refer to the same time period. 
+Unsurprisingly, the result obtained (0.33) is higher than inequality calculated both as a simple average of 
+national Gini indexes (0.29) and a population-weighted average (0.31) since the latter two methods do not 
+take into account the between-country component of European inequality. Inequality in Europe is somewhat higher compared with the average national Gini indicator for the 
+OECD as whole which is 0.30. However, if one constrains the comparison to economies of comparable 
+size, which is probably more relevant, the European Union appears less unequal. In 2008, the Gini index 
+for the United States was 0.38. The difference appears to be in both ends of distribution, as both the top 
+and bottom deciles are closer to the median in Europe. Lower inequality in Europe than in the United 
+States is also what the literature tends to find (Table 7). ECO/WKP(2012)29 15 Table 7. A selection of the literature on EU inequality Study 
+Countries considered 
+Period 
+Database 
+Numerical results 
+Main findings Dauderstädt and Keltek 
+(2011) 
+ " Immeasurable Inequality in 
+the European Union "  EU25 and EU27, China, 
+India, Russia, US 
+2005, 2006, 2007, 2008 
+Eurostat, World Bank d8/d2(PPP) = 5.67 for EU25 
+and 6.79 for EU27 in 2008. 
+d8/d2(exch) = 7.58 for 
+EU25 and 10.13 for EU27 in 
+2008. d8/d2 = 5.61 for India 
+in 2005, 8.34 for China in 
+2005, 8.96 for Russia in 
+2007 and 8.42 for the US in 
+2000. Inequality in the EU25 is smaller than in 
+comparable large economies. In EU27, inequality is 
+larger than in India (measured by consumption 
+data). When exchange rates are used instead of 
+PPP, inequality in EU25 is comparable (somewhat 
+lower) than that of the US, inequality in EU27 is 
+largest of all countries considered. EU inequality 
+has decreased over the period. Rodriguez-Pose and Tselios 
+(2009) "Mapping Regional 
+Personal Income 
+Distribution in Western 
+Europe: Income Per Capita 
+and Inequality" 102 NUTS I or II regions in 
+EU-13 
+1995-2000 
+ECHP 
+80% of total inequality is 
+within-region inequality. Inequality decreased slowly over the period. This 
+was mainly due to the within component, which also 
+explains the bulk of total inequality. Brandolini (2007) 
+ " Measurement of income 
+distribution in supranational 
+entities: The case of the 
+European Union "  EU15+Czech Republic, 
+Estonia, Hungary, Poland, 
+Slovak Republic, Slovenia, 
+US 2000 
+ECHP for the original 15 EU 
+countries, LIS for the rest Gini(PPP)= 0.33 for EU15, 
+0.30 for EU25, 0.29 for euro 
+area, 0.37 for the US. 
+Gini(exch)= 0.38 for EU25, 
+0.30 for EU15, 0.31 for euro 
+area, 0.37 for the US. Inequality is higher when exchange rates are used 
+rather than PPPs. Difference is particularly large for 
+EU21. Inequality is lower when the modified OECD 
+equivalence scale is used as opposed to the 
+original. Inequality for the EU as a whole is higher 
+than the population-weighted average of national 
+inequality. The enlargement to Eastern European 
+countries has significantly increased EU inequality. Boix (2004) 
+ " The Institutional 
+Accommodation of an 
+Enlarged Europe" Different variants of EU, 
+Australia, Canada, India, 
+US 1993 
+World Bank Household 
+Survey Database Gini(PPP)= 0.34 for EU15, 
+0.38 for EU25, 0.43 for 
+EU28, 0.394 for the US, 
+0.31 for Canada, 0.33 for 
+India. Inequality in the EU remained relatively low until the 
+entry of the Southern European countries. As 
+enlargements went on, inequality went up. With 
+Bulgaria and Romania in the EU, EU inequality 
+would be higher than in the US. 
+Papatheodorou et al (2003) 
+"Accounting for inequality in 
+the EU: Income disparities 
+between and within member 
+states and overall income 
+inequality" 1999 
+CHER 
+Theil index=0.18. 
+92% of overall EU inequality is attributed to income 
+disparities within member states. Beblo and Knaus (2000) 
+ " Measuring Income 
+Inequality in Euroland" Euro area 
+Mid 1990s 
+ECHP and LIS 
+Theil index=0.19. Differences in within country inequality make up 9% 
+of overall inequality. If Greece, Denmark and the 
+UK were to adopt the euro, inequality would 
+increase by 2.1%. ECO/WKP(2012)29 16 The Gini index for the United States is unadjusted for differences in price levels across the country, 
+whereas for the EU, the calculated Gini index takes into account at least the price differences between 
+countries. Dauderstädt and Keltek (2011) find that using exchange rates instead of PPP makes the EU-27 
+more unequal than the United States. When the OECD micro data is converted using exchange rates, the 
+EU Gini index climbs to 0.35 (Table 8). This is not very different from the result using PPPs and still 
+below the Gini index in the United States. It should also be kept in mind that prices probably vary much 
+more across Europe than the United States meaning that it need not be better to compare the EU Gini using 
+exchange rates and the Gini index for the United States. Table 8. State of inequality in the Union, exchange rates, 2008 EU Total sample 
+Gini 
+0.354 
+p90/p10 
+5.876 
+p75/p25 
+2.483 Source: OECD Income Distribution and Poverty Database. Within-country inequality is found to be more important than between country inequality A Theil decomposition of overall EU inequality reveals that inequality within countries explains most 
+of overall EU inequality. Its contribution amounts to 85% of total inequality, whereas the between-
+component is at cause for the remaining 15%. This result is line with what other studies have found (e.g. 
+Beblo and Knaus, 2000 and Papatheodorou et al., 2003). Both studies actually attribute an even smaller 
+role to the between dimension and conclude that it does not even explain 10% of total inequality, probably 
+because they use smaller samples. 10 Inequality in the EU has increased over time The results from such decomposition exercises are however sensitive 
+to certain methodological choices such as whether PPPs or exchange rates are used to make incomes 
+comparable across countries. Table 9. EU 
+1 inequality, based on PPPs, from the mid-1980s to 2008 Baseline 1 
+Mid 80 
+Mid 90 
+Ca 2000 
+Mid 2000 
+2008 
+Gini 
+0.278 
+0.291 
+0.307 
+0.306 
+0.312 
+p90/p10 
+3.533 
+4.213 
+4.810 
+4.801 
+5.489 
+p75/p25 
+2.005 
+2.021 
+1.992 
+1.885 
+1.917 
+Baseline 2 
+Mid 80 
+Mid 90 
+Ca 2000 
+Mid 2000 
+2008 
+Gini 
+N/A 
+0.301 
+0.315 
+0.312 
+0.317 
+p90/p10 
+N/A 
+4.257 
+4.287 
+4.767 
+4.912 
+p75/p25 
+N/A 
+2.045 
+1.995 
+2.194 
+2.127 1 
+Countries included in baseline 1 are: Denmark, Finland, France, Germany, Greece, Italy, Luxemburg, the Netherlands, Sweden 
+and the UK. Countries included in baseline 2 are: Idem + Hungary. Source: OECD Income Distribution and Poverty Database. 10 . 
+Beblo et. al use 1999 income data from the Consortium of Household Panels for European Research 
+(CHER) programme and includes the same countries as the OECD database with the exception of the 
+Czech Republic, Belgium and Sweden. Papatheodorou et al. include only the 11 founding members of the 
+European Monetary Union by combining Wave 2 (1995) of the European Community Household Panel 
+(ECHP) as with Luxemburg Income Survey (LIS) data from the mid 1990s. ECO/WKP(2012)29 17 Inequality has risen in the EU sample for which comparable data from the mid-1980s is available 
+(Table 9). Extending the analysis to include Hungary is possible, but at the cost of reducing the number of 
+years to keep a balanced panel (Baseline 2). However, the picture remains the same. Much of the increase 
+appears to have happened before the turn of the century. In the early 2000s inequality appears to have 
+stood still or even decreased somewhat, but in recent years it is yet again on the rise. The break in 2004 
+unfortunately prevents further enlargements of the sample. The increasing trend in inequality in Europe is not unique. Dispersion in household disposable income 
+also increased in most other OECD countries between the mid-1980s and the end-2000s (OECD, 2011). 
+From the mid-1990s and onwards, country patterns started diverging more and the average increase 
+became smaller. In the United States inequality has increased substantially since the mid-1980s, and much 
+more as compared to the EU baseline scenario. Most of the increase happened between 1984 and 1995 
+when the Gini index rose from 0.34 to 0.36 and in the earliest years of this century. Although it would be very interesting to disentangle the cyclical effects from the structural evolution 
+in inequality over time, in practice this is very hard to do. First of all, it is not obvious how inequality and 
+the cycle should interact. During a boom (bust) all incomes will increase (decrease) thus the net effect on 
+the Gini index is a priori undetermined. Financial market developments are however likely to impact 
+capital income in particular which is highly concentrated in the upper end of the distribution. Secondly, 
+even if there was a clear link between income dispersion and the cycle, policies and institutions are likely 
+to respond to the cycle so as to mitigate the impact on inequality making it very hard to evaluate the actual 
+cyclical component. EU enlargements, especially that of Eastern Europe, have contributed to rising inequality Expansions of the European Union over the period increased inequality. Adding Spain and Portugal 
+that joined the Union in 1986 as well as Austria, Finland and Sweden that joined in 1995, to the sample in 
+the mid-1990s increases the Gini indicator to 0.30 compared to 0.29 when only the 10 countries that where 
+a part of the European Union in 1985 are considered. The p9/p1 is on the contrary slightly reduced. The 
+increase in the Gini is, however, only due to the expansion in 1986, as the inclusion of Austria, Finland and 
+Sweden left inequality unchanged or even induced a slight decline. The expansion in 2004 led to a more 
+significant increase in inequality; adding the Czech Republic, Hungary, Poland, Slovakia and Slovenia to 
+the sample increases the Gini in 2008 from 0.31 to 0.33. Adhesions of new member states is however not 
+the only explanation for rising inequality as inequality in the 8 original countries for which comparable 
+data is available has also risen over the past 25 years (Table 10). Table 10. Original eight 
+1) countries, mid 1980s until 2008, PPP Original 8 countries 
+Mid 80 
+Mid 90 
+Ca 2000 
+Mid 2000 
+2008 
+Gini 
+0.280 
+0.295 
+0.309 
+0.308 
+0.314 
+p90/p10 
+4.422 
+4.656 
+4.810 
+5.067 
+5.489 
+p75/p25 
+2.008 
+2.137 
+2.091 
+1.885 
+1.917 1. 
+Countries included are: Denmark, France, Germany, Greece, Italy, Luxemburg, the Netherlands and the UK. Source: OECD Income Distribution and Poverty Database. Incomes have converged however between the  " catching-up "  countries and the rest of Europe To what extent is EU inequality driven by the developments in particular countries? Excluding the 
+catching up economies (Ireland, Portugal, Spain and the Eastern European countries) from the sample 
+reduces inequality (Table 11). This is probably mostly a result of these countries being poorer than the rest 
+of Europe but could also be accentuated by the fact that many of these are relatively unequal countries per ECO/WKP(2012)29 18 se. The choice of time period is dictated by the breaks in the data series, but fortunately also coincides with 
+the period over which most of the catching-up process is likely to have taken place (mid-1980s to 2000 for 
+Southern Europe and from mid-2000s for Eastern Europe). The effect of excluding both waves of catching up economies does narrow over time, indicating 
+income convergence between Ireland, Portugal and Spain with the rest of the EU from the mid-80s until 
+the turn of the century and likewise for the Eastern European countries from the mid-2000s. The latter 
+seems to have happened mostly because of the strong income growth in Poland. Table 11. The role of so-called  " catching up economies "  Inequality as measured by Gini index 
+Sample/year 
+Mid 80 
+Mid 90 
+Ca 2000 
+Whole sample 1 0.293 
+0.297 
+0.309 
+excl Ireland, Spain 
+0.276 
+0.291 
+0.305 
+Whole sample 2 X 
+0.310 
+0.320 
+excl. Ireland, Portugal, Spain 
+X 
+0.302 
+0.315 
+Sample/year 
+Mid 2000 2008 
+Whole sample 3 0.339 
+0.330 
+excl Eastern Europe 
+0.310 
+0.313 1. 
+Country sample includes: Austria, Belgium, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxemburg, the 
+Netherlands, Spain, Sweden and the UK. 2. 
+Country sample includes: Austria, Belgium, the Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, 
+Ireland, Italy, Luxemburg, the Netherlands, Portugal, Spain, Sweden and the UK. 3. 
+Country sample includes: Austria, Belgium, the Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary (2007), 
+Ireland, Italy, Luxemburg, the Netherlands, Poland, Portugal, Spain, Slovenia, the Slovak Republic, Sweden and the UK. Source: OECD Income Distribution and Poverty Database. Isolating the between-country component of EU inequality by looking at the dispersion in mean 
+national incomes over time allows a more formal assessment of whether or not income convergence has 
+taken place and the extent to which this is due to poorer countries catching up. However, this reduces the 
+number of observations greatly, so the Gini index is not calculated because of a severe small-sample bias 
+(Deltas, 2001). The variance (ratio of standard deviation to mean) in decile income decreased both from 
+the mid-1980s to 2000 (though most notably until the mid-1990s), and from the mid-2000s until 2008. This 
+reduction in the between component appears to be a pure catching up effect, as the variance increased 
+somewhat over the same periods when Spain, Ireland, Portugal and subsequently the East-European 
+countries were excluded from the samples. 4. Conclusions Using the OECD inequality and poverty data, this paper shows a general pattern since the mid-1980s 
+in European countries at the national level where top deciles capture an increasing part of the income 
+generated in the economy, while the poorest 10% are losing ground. A similar evolution has occurred in 
+most of the OECD area, including the United States where the rise in top incomes has been particularly 
+strong. A few European countries stand out from this pattern, leading to diverging evolutions in income 
+dispersion over time where inequality rising in some countries (especially strongly in Sweden and the 
+Netherlands), and decreasing in others (Greece and Hungary). There are good reasons why one should 
+measure inequality in the European Union not only as a (population weighted) average of inequality in 
+each member state, but also for the Union as a whole. While redistribution policies in the European Union 
+are mostly under the authority of national governments, EU regional policy is a union-wide policy aiming 
+at reducing inequality between regions making it important to assess its potential contribution to ECO/WKP(2012)29 19 inequalities. Concerns for social cohesion in the Union, including inequality, also appear now to be gaining 
+momentum. Considering inequality in the European Union as a whole allows to see what the differences in income 
+growth per decile has implied for inequality between individuals in the European Union, given that in 
+parallel to changes in the distribution of income within countries, some economies have grown more 
+rapidly than others. Inspired by among others Brandolini (2007) and Milanovic (2002), this paper 
+constructed an aggregate measure of EU-wide inequality that takes into account both within and between 
+inequality. Inequality in Europe is found to be high, though clearly below the level in the United States. 
+Furthermore, EU income inequality is found to have increased over the past 25 years, albeit at a slower 
+pace since 2000. Evidence of income convergence through the so-called catching up effect was found, which in itself 
+should have reduced inequality. Country adhesions over the period, and particularly the expansion to 
+Eastern Europe in 2004 did however act in the opposite direction, as both in the mid 1990s and end 2000s 
+inequality was higher when the new countries were added. Expansions of the Union is however not the 
+only explanation for the rise in income dispersion over the period since inequality also rose within the 8 
+countries in the sample that were part of the European Union in 1985. ECO/WKP(2012)29 20 BIBLIOGRAPHY Atkinson, A.B. (1996),  " Income distribution in Europe and the United States " . Oxford Review of 
+Economic Policy, Vol. 12, No 1. Beblo, M. and T. Knaus (2001),  " Measuring Income Inequality in Euroland " , Review of Income and 
+Wealth 47(3). Boix, C. (2004),  " The Institutional Accomodation of an Enlarged Europe " . Paper prepared for the 
+Friedrich-Ebert-Stiftung. Brandolini, A. (2007),  " Measurement of income distribution in supranational entities: The case of the 
+European Union " . Banca D'Italia, temi di discussion del Servizio Studi, No. 623, April 2007. Brandolini, A. and T.M. Smeeding (2009)  " Income Inequality in Richer and OECD Countries " . 
+Chapter 4 in W. Salverda, B. Nolan, T.M. Smeeding (eds.) The Oxford Handbook of Economic Inequality. 
+Oxford, Oxford University Press. Burda, M. and J. Hunt (2011),  " What explains the German labour market miracle in the great 
+recession? " , NBER Working Paper Series No. 17187, National Bureau of Economic research, June 2011. Dauderstädt, M. and C. Kelmtek (2011),  " Immeasurable Inequality in the European Union " , 
+Intereconomics, Volume 46, Number 1, 44-51. Deaton, Angus (2005),  " Measuring Poverty in a Growing World (or Measuring Growth in a Poor 
+World) " , The Review of Economics and Statistics, MIT Press, Vol. 87(2). Deltas. G. (2001),  " The Small-Sample Bias of the Gini Coefficient: Results and Implications for 
+Empirical Research " , The Review of Economics and Statistics, Vol. 85, No. 1, Feb. 2003. Domínguez-Domínguez, J. and J Núñez-Velázquez (2007),  " The evolution of economic inequality in 
+the EU countries during the nineties: A new methodological approach " , Published in John Bishop, Yoram 
+Amiel (ed.) Inequality and Poverty (Research on Economic Inequality, Volume 14), Emerald Group 
+Publishing Limited. Evans, W., M. Hout and S.E Mayer (2004),  " Assessing the effect of economic inequality " , in K. 
+Neckerman (ed.) Social Inequality, New York: Russell Sage Foundation Press. Förster, M. and M. Pearson (2002)  " Income Distribution and Poverty in the OECD area: Trends and 
+Driving Forces " , OECD Economic Studies, No. 34, 2002/I. Gordon, R.J. and I. Dew-Becker (2008),  " Controversies about the Rise in American Inequality: A 
+Survey " , NBER Working Paper, No. 13982. Hoeller, P. (2012), "Less Income Inequality and More Growth – Are they Compatible?: Part 4. Top 
+Incomes", OECD Economics Department Working Papers, No. 927, OECD Publishing. Joumard, I., M. Pisu and D. Bloch (2012),  " Less Income Inequality and More Growth – Are They 
+Compatible?: Part 3. Income Redistribution via Taxes and Transfers Across OECD Countries " , OECD 
+Economics Department Working Papers, No. 926, OECD Publishing. ECO/WKP(2012)29 21 Koen, C. and K. Goudswaard (1999),  " Social policy and income distribution: An empirical analysis 
+for the Netherlands " , MPRA Working paper, No. 20183, Published in Department of Economics Research 
+Memorandum No. 99.03 (1999). Koske, I., J. Fournier and I. Wanner (2012),  " Less Income Inequality and More Growth – Are They 
+Compatible?: Part 2. The Distribution of Labour Income " , OECD Economics Department Working Papers, 
+No. 925, OECD Publishing. Milanovic, B. (2002),  " True world income distribution, 1988 and 1993: First calculations based on 
+household surveys alone " , Economic Journal 112 (476), January. Milanovic, B. (2006),  " Global Income Inequality: What Is It And Why It matters? " , Policy Research 
+Working Paper Series 3865, The World Bank. OECD (2007), Economic Survey of the European Union 2007, OECD, Paris. OECD (2008), Growing Unequal, OECD, Paris. OECD (2011), Divided We Stand: Why Inequalities keep rising, OECD, Paris. Papatheodorou, C. and D. Pavlopoulos (2003),  " Accounting for inequality in the EU: Income 
+disparities between and within member states and overall income inequality " , MPRA Paper 209, 
+University Library of Munich, Germany. Petrakos, G., A. Rodiguez-Pose and A. Anagnostou (2005),  " Regional inequalities in the European 
+Union " , ZEI Studies in European Economics and Law, 2005, Vol. 7. Piketty T., E. Saez and S. Stantcheva (2011),  " Optimal Taxation of Top Labour Incomes: A Tale of 
+Three Elasticities " , CEPR Working Papers, No. 8675. Rodríguez-Pose, A. and V. Tselios (2009),  " Mapping Regional Personal Income Distribution in 
+Western Europe: Income Per Capita and Inequality " , Czech Journal of Economics and Finance Vol. 59(1), 
+Charles University Prague, Faculty of Social Sciences. Rosen, S. (1981),  " The Economics of Superstars " , American Economic Review, Vol. 71(5). Szulc, A. (2006),  " Poverty in Poland during the 1990s: Are the Results Robust? " , Review of Income 
+and Wealth, No 52. World Bank (2005),  " World Bank Development Report, 2006: Equity and Development " , Oxford 
+University Press, New York, for World Bank, Washington, DC. ECO/WKP(2012)29 22 ANNEX: MICRO-VERSUS MACRO DATA National account data only provide national averages, and can therefore only be used to determine the 
+difference in mean per capita income between countries, and not within country inequality. Since this 
+report aims to measure all income inequality, micro data must necessarily be used. A problem with micro data is representativeness. Household surveys cover only a sample of the total 
+population and the probability of including the few people that hold a significant part of total household 
+income is low. The problem is worsened since the rich have incentives to underreport their income for 
+taxation reasons. At the other end of the scale household surveys are also likely to under represent the 
+poorest. Two results follow: Using income data from household surveys is likely to lead researchers to 
+underestimate the level of inequality and it is likely not to pick up on substantial income growth in the very 
+top of the distribution. Add to this other conceptual differences beyond the question of sampling and underreporting between 
+micro-and macro data and it is no wonder that the growth in total disposable income is different as 
+Table A.1 illustrates. Some income components, such as employer social contributions, are accounted for 
+in national account data but not included in income data from household surveys. Also, different deflators 
+are used for the two data sources to pass from nominal to real income growth. National account data use 
+the expenditure price index (Fischer-index) whereas in household survey data the consumer price index 
+(Laspeyres-index) is used to deflate income data. In the former the weights assigned to each good are 
+updated more frequently to eliminate upper-level substitution bias which means that all else equal it will 
+grow slower over time. Table A.1. 
+Growth in total disposable income, mid 1990s to end 2000s Household 
+survey data National account 
+data 
+Austria 
+1.3 
+1.7 
+Belgium 
+1.0 
+1.3 
+Denmark 
+1.1 
+1.3 
+Finland 
+2.7 
+3.5 
+France 
+1.7 
+2.4 
+Germany 
+0.4 
+0.8 
+Greece 
+3.5 
+2.8 
+Ireland 
+5.0 
+7.1 
+Italy 
+1.0 
+0.7 
+Netherlands 
+0.8 
+1.7 
+Portugal 
+2.0 
+2.4 
+Spain 
+1.8 
+3.4 
+Sweden 
+3.0 
+3.0 
+UK 
+2.7 
+3.0 
+Czech Republic 
+2.4 
+2.9 
+Hungary 
+3.2 
+2.1 
+US 
+0.8 
+4.0 Source: OECD. The difference between the two data sources is particularly large for the United States. Although all 
+nominal income components contributed to this, the role of self-employment income has played a key role. 
+This income component is likely to be underestimated in survey data, and indeed its growth over time has 
+been much stronger according to US macro data. In addition to this government health care social benefits, ECO/WKP(2012)29 23 which are not included in the household income survey data for the United States, have grown rapidly over 
+the past decade. Applying the income shares of each decile from micro data to total household disposable income from 
+macro data gives an indication of how the discrepancy in macro versus micro data income growth affects 
+the results in the main paper. The relative orders of magnitude of income growth per decile for a given 
+country stay broadly the same as before. However, the fact that income growth per decile across countries 
+is now somewhat different from before could make a difference for between-country inequality. Such an exercise remains however partial. Scaling up total income by using national account data 
+automatically increases absolute dispersions in monetary incomes. However since the evolution in income 
+shares remains the same, it is not surprising that the country results are not much changed. Most aggregate 
+inequality measures (including the Gini) are scale-invariant, and so per definition the within-country 
+component of inequality is not affected. Also, because micro and macro data are so conceptually different, 
+one should be vary of using them simultaneously (Deaton, 2005). Finally, there are caveats with national 
+accounts data as well, so column two in Table A.1 should not be mistaken for the  " true numbers " . ECO/WKP(2012)29 24 WORKING PAPERS The full series of Economics Department Working Papers can be consulted at www.oecd.org/eco/workingpapers/ 951. Reducing poverty in Chile: cash transfers and better jobs 
+(April 2012) by Nicola Brandt 950. Tax reform in Norway: A focus on capital taxation 
+(April 2012) by Oliver Denk 949. The short-term effects of structural reforms: an empirical analysis 
+(March 2012) by Romain Bouis, Orsetta Causa, Lilas Demmou, Romain Duval and 
+Aleksandra Zdzienicka 948. Short-term gain or pain? A DSGE model-based analysis of the short-term effects of structural 
+reforms in labour and product markets 
+(March 2012) by Matteo Cacciatore, Romain Duval and Giuseppe Fiori 947. Do house prices impact consumption and interest rate?: Evidence from OECD countries using an 
+agnostic identification procedure 
+(March 2012) by Christophe André, Rangan Gupta and Patrick T. Kanda 946. Assessing the sensitivity of Hungarian debt sustainability to macroeconomic shocks under two 
+fiscal policy reactions 
+(March 2012) by Pierre Beynet and Edouard Paviot 945. Non-Keynesian effects of fiscal consolidation: an analysis with an estimated DSGE Model for the 
+Hungarian economy 
+(March 2012) by Szilárd Benk and Zoltán M. Jakab 944. Work incentives and recent reforms of the tax and benefit system in Hungary 
+(March 2012) by Tímea Ladányi and Rafal Kierzenkowski 943. Building blocks for a better functioning housing market in Chile 
+(February 2012) by Aida Caldera Sánchez 942. The impact of changes in second pension pillars on public finances in Central and Eastern Europe 
+(January 2012) by Balász Égert 941. Improving energy system efficiency in the Czech Republic 
+(January 2012) by Artur Radziwill 940. Structural change and the current account: the case of Germany 
+(January 2012) by Fabrizio Coricelli and Andreas Wörgötter 939. Reforming education in England 
+(January 2012) by Henrik Braconier 938. The nature of financial and real business cycles: The great moderation and banking sector pro-
+cyclicality 
+(January 2012) by Balázs Égert and Douglas Sutherland ECO/WKP(2012)29 25 937. Fiscal consolidation 
+Part 6. What are the best policy instruments for fiscal consolidation? 
+(January 2012) by Robert P. Hagemann 936. Fiscal consolidation 
+Part 5. What factors determine the success of consolidation efforts? 
+(January 2012) by Margit Molnar 935. Fiscal consolidation 
+Part 4. Case studies of large fiscal consolidation episodes 
+(January 2012) by Hansjörg Blöchliger, Dae-Ho Song and Douglas Sutherland 934. Fiscal consolidation 
+Part 3. Long-run projections and fiscal gap calculations 
+(January 2012) by Rossana Merola and Douglas Sutherland 933. Fiscal consolidation 
+Part 2. Fiscal multipliers and fiscal consolidations 
+(forthcoming) by Ray Barrell, Dawn Holland and Ian Hurst 932. Fiscal consolidation 
+Part 1. How much is needed and how to reduce debt to a prudent level? 
+(January 2012) by Douglas Sutherland, Peter Hoeller and Rossana Merola 931. Less income inequality and more growth – Are they compatible? 
+Part 8. The drivers of labour income inequality – A review of the recent literature 
+(April 2012) by Rafal Kierzenkowski and Isabell Koske 930. Less income inequality and more growth – Are they compatible? 
+Part 7. The drivers of labour earnings inequality – An analysis based on conditional and 
+unconditional quantile regressions 
+(January 2012) by Jean-Marc Fournier and Isabell Koske 929. Less income inequality and more growth – Are they compatible? 
+Part 6. The distribution of wealth 
+(January 2012) by Kaja Bonesmo Fredriksen 928. Less income inequality and more growth – Are they compatible? 
+Part 5. Poverty in OECD countries 
+(January 2012) by Mauro Pisu 927. Less income inequality and more growth – Are they compatible? 
+Part 4. Top incomes 
+(January 2012) by Peter Hoeller 926. Less income inequality and more growth – Are they compatible? 
+Part 3. Income redistribution via taxes and transfers across OECD countries 
+(January 2012) by Isabelle Joumard, Mauro Pisu and Debbie Bloch 

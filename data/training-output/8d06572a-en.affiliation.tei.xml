@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+
+						<affiliation>
+							<address>
+								<country>Australia</country>,
+								<country>Austria</country>,
+								<country>Belgium</country>,
+								<country>Canada</country>,
+								<country>Chile</country>,
+							</address>
+							<orgName type="institution">the Czech Republic</orgName>,
+							<address>
+								<country>Denmark</country>,
+								<region>Estonia</region>,
+								<country>Finland</country>,
+								<country>France</country>,
+								<country>Germany</country>,
+								<country>Greece</country>,
+								<country>Hungary</country>,
+								<country>Iceland</country>,
+								<country>Ireland</country>,
+								<country>Israel</country>,
+								<country>Italy</country>,
+								<country>Japan</country>,
+								<country>Korea</country>,
+								<country>Latvia</country>,
+								<country>Luxembourg</country>,
+								<settlement>Mexico</settlement>,
+								<country>the Netherlands</country>,
+							</address>
+							<orgName type="institution">New Zealand</orgName>,
+							<address>
+								<settlement>Norway</settlement>,
+								<country>Poland</country>,
+								<country>Portugal</country>,
+							</address>
+							<orgName type="institution">the Slovak Republic</orgName>,
+							<address>
+								<country>Slovenia</country>,
+								<country>Spain</country>,
+								<country>Sweden</country>,
+								<country>Switzerland</country>:
+								<country>Austria</country>,
+								<country>Canada</country>,
+								<country>Chile, Croatia</country>,
+								<country>Denmark, Egypt</country>,
+								<country>France, Germany</country>,
+								<country>Greece, Hungary</country>,
+								<country>Japan, Mexico, the Netherlands,</country>
+							</address>
+						</affiliation>
+
+						</author>
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

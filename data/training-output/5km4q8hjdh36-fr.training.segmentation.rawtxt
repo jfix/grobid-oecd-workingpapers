@@ -1,0 +1,854 @@
+DOCUMENT DE RÉFÉRENCE 2010 LA PRATIQUE DE L'ANALYSE COÛT-
+BÉNÉFICE DANS LES TRANSPORTS : 
+LE CAS DE LA FRANCE Émile QUINET, École des ponts et chaussées, 
+Paris Tech & Paris School of Economics, Paris, France Centre Conjoint de Recherche sur les Transports TABLE RONDE 
+21-22 octobre 2010, Mexique 17 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 1 CENTRE CONJOINT DE RECHERCHE SUR LES TRANSPORTS Document de référence N° 2010-17 Préparé pour la Table Ronde des 21 et 22 octobre 2010 sur L'incorporation des effets sociaux dans l'évaluation des 
+projets coûts/bénéfices LA PRATIQUE DE L'ANALYSE COÛT-BÉNÉFICE DANS 
+LES TRANSPORTS : 
+LE CAS DE LA FRANCE Emile QUINET Professeur émérite, École des ponts et chaussées 
+ParisTech, et Paris School of Economics 
+France Les points de vue exposés dans ce rapport sont ceux de son auteur et ne 
+représentent pas nécessairement ceux de l'École des ponts et chaussées, de la 
+Paris School of Economics, de l'OCDE ou du Forum International des Transports. Forum International des Transports 
+Le Forum International des Transports est une institution intergouvernementale 
+appartenant à la famille OCDE. Le Forum est une plate‐forme mondiale pour les décideurs 
+politiques et les parties intéressées. Son objectif est d'aider les responsables politiques et un 
+public plus large à mieux appréhender le rôle des transports en tant qu'élément clé de la 
+croissance économique, ainsi que leurs effets sur les composantes sociales et 
+environnementales du développement durable. Le Forum organise une Conférence pour les 
+Ministres et les représentants de la société civile chaque année au mois de mai à Leipzig, 
+Allemagne. 
+Les pays membres du Forum sont les suivants : Albanie, Allemagne, Arménie, 
+Australie, Autriche, Azerbaïdjan, Bélarus, Belgique, Bosnie‐Herzégovine, Bulgarie, Canada, 
+Corée, Croatie, Danemark, ERYM, Espagne, Estonie, États‐Unis, Finlande, France, Géorgie, 
+Grèce, Hongrie, inde, Irlande, Islande, Italie, Japon, Lettonie, Liechtenstein, Lituanie, 
+Luxembourg, Malte, Mexique, Moldavie, Monténégro, Norvège, Nouvelle‐Zélande, Pays‐Bas, 
+Pologne, Portugal, République tchèque, Roumanie, Royaume‐Uni, Russie, Serbie, Slovaquie, 
+Slovénie, Suède, Suisse, Turquie, Ukraine. Le Secrétariat du Forum se trouve à Paris. 
+
+Centre Conjoint de Recherches sur les Transports 
+
+L'OCDE et le Forum International des Transports ont créé en 2004 un Centre conjoint 
+de Recherche sur les Transports. Ce Centre mène des programmes coopératifs de recherche 
+couvrant tous les modes de transport, recherches qui visent à aider la formulation des 
+politiques dans les pays membres. A travers certains de ses travaux, le Centre apporte 
+également des contributions aux activités du Forum International des Transports. 
+
+Documents de référence CCRT 
+
+La série des documents de référence du CCRT rend les recherches menées par le 
+Centre Conjoint de Recherche sur les Transports ou entreprises à sa demande accessibles 
+aux chercheurs et professionnels du transport. L'objectif est de contribuer tant à la 
+compréhension du secteur des transports qu'à l'élaboration des politiques de transport. Les 
+documents de référence ne sont pas amendées par le CCRT ; ils ne reflètent que l'opinion de 
+leurs auteurs. Ils peuvent être déchargés à l'adresse suivante : www.internationaltransportforum.org/jtrc/DiscussionPapers/jtrcpapersfr.html Le site Web du Forum International des Transports est : 
+www.internationaltransportforum.org/homefr.html Pour de plus amples renseignements sur les Documents de référence et les autres activités 
+du CCRT, veuillez envoyer un courriel à : itf.contact@oecd.org E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 3 TABLE DES MATIÈRES 1. INTRODUCTION .................................................................................................................. 4 2. LES ORIGINES DES CHANGEMENTS DANS LA DOCTRINE ...................................... 5 2.1 Les progrès de l'analyse économique ........................................................................... 5 
+2.2 Les changements dans l'organisation sociale................................................................ 6 3. 
+LES DIRECTIVES D'ÉVALUATION DE PROJET ...................................................... 7 3.1 Le socle ancien .............................................................................................................. 7 
+3.2 Les novations d'après 2007 ......................................................................................... 10 4. LES ÉVALUATIONS DE PROGRAMMES ET PROJETS RÉCENTS ............................ 13 4.1 Les lois de Grenelle I et II ........................................................................................... 13 
+4.2 Le Schéma National des Infrastructures de Transport ................................................ 15 5. UN JUGEMENT D'ENSEMBLE : ANALYSE COÛT-BÉNÉFICE OU MULTI-
+CRITÈRE ? ............................................................................................................................... 19 5.1 Difficultés et avantages de l'analyse multi critères (AMC) ........................................ 19 
+5.2 Complémentarité de l'ACB et de l'AMC ................................................................... 21 6. QUELQUES PISTES POUR AMÉLIORER L'ANALYSE COÛT-BÉNÉFICE ............... 22 6.1 Les problèmes méthodologiques ................................................................................. 22 
+6.2 Les modalités de mise en oeuvre de l'ACB ................................................................. 23 7. CONCLUSION .................................................................................................................... 27 BIBLIOGRAPHIE ................................................................................................................... 28 Paris, Septembre 2010 4 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 1. INTRODUCTION La pratique de l'analyse coût bénéfice (ACB) est de longue tradition en France puisqu'elle 
+remonte à Dupuit (1849) mais elle reste toujours un sujet d'actualité. Cette pratique en effet résulte de 
+la rencontre de la théorie économique et des processus de décisions concernant les choix de projet. Or 
+ces deux volets changent constamment : les avancées et progrès de la théorie permettent des 
+perfectionnements constants des méthodes et outils techniques utilisés, et d'autre part des 
+modifications dans les processus de décisions et dans les organisations institutionnelles transforment 
+les besoins d'évaluations. Ces modifications permanentes connaissent dans certains pays des temps 
+forts de mutation rapide, et c'est actuellement le cas de la France, qui se trouve engagée dans des 
+transformations importantes. On sort en effet d'une période où la doctrine était fondée sur l'application 
+stricte du calcul économique traditionnel et la prééminence d'un critère unique, fondé sur la théorie 
+des surplus ; on entre dans une phase très nettement orientée vers des analyses multicritères dans 
+lesquelles l'analyse coût-bénéfice traditionnelle n'est qu'un élément de jugement. Ces transformations 
+sont en cours, pas encore achevées mais suffisamment clairement affirmées pour qu'il soit possible 
+d'en tracer les grands traits et de porter un jugement sur leurs causes et conséquences, ce qui est l'objet 
+de ce texte. 
+Dans la section suivante, on analysera les causes des changements en cours. Certaines viennent 
+des progrès de l'analyse économique ; outre les sujets traditionnels et toujours d'actualité que sont par 
+exemple le temps de transport et ses multiples facettes, elles concernent principalement la prise en 
+compte du risque et les conséquences des investissements sur la productivité et l'organisation spatiale 
+des activités. D'autres sont liées au cadre institutionnel, et résultent de la multiplication des décideurs, 
+de l'importance croissante accordée à l'environnement et à la concertation et des conséquences de la 
+libéralisation (concurrence entre opérateurs, financement privé). 
+On présentera ensuite la manière dont ces transformations du cadre de l'évaluation ont réagi sur 
+les procédures d'évaluation, et comment elles ont conduit à passer d'une doctrine uni-critère à une 
+doctrine multi-critère, non encore finalisée, mais qui vise à instaurer des processus d'évaluation 
+permettant l'amélioration des projets au cours de leur vie, en s'insérant dans des dialectiques 
+dynamiques de dialogues entre les analystes et les parties prenantes aux décisions concernant le projet. 
+Les directives correspondantes, quoique non encore achevées, marquent très clairement cette 
+orientation, confirmée par des indications sur les des études et recherches en cours, qui devraient 
+normalement nourrir des instructions à venir. 
+Ces orientations se sont déjà traduites dans les programmes et projets en cours et dans la manière 
+dont ils sont évalués. On fera dans la troisième partie l'état de ces premières manifestations, qui 
+montreront les avancées mais aussi les limites des procédures en gestation. 
+Il sera alors possible de porter un jugement sur ces évolutions, de faire apparaître ses points forts 
+et ses points faibles, les problèmes et enjeux qu'elles mettent en évidence, et les recherches qu'il 
+conviendrait de mener. On mettra l'attention d'abord sur le choix entre analyse multi-critère et 
+analyse coût –bénéfice, et il apparaîtra que ces deux formes, souvent opposées, sont en fait largement 
+complémentaires. On examinera ensuite les modifications et améliorations qu'il faudrait apporter à 
+l'analyse coût-bénéfice usuelle, qui devrait rester le socle de l'évaluation des projets. E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 5 2. LES ORIGINES DES CHANGEMENTS DANS LA DOCTRINE Depuis quelque temps, disons une dizaine d'années, des changements importants se sont produits 
+dans les conditions d'exercice de l'analyse coût bénéfice (ACB). Ils résultent de la conjonction des 
+progrès de l'analyse économique et des changements dans la société, et il est souvent difficile de 
+déceler lequel de ces deux facteurs a été le plus déterminant, tant est qu'il y a synergie entre les 
+préoccupations des chercheurs et les orientations du milieu social dans lequel ils vivent. C'est donc de 
+façon assez arbitraire qu'on classera chacun des facteurs qui vont être cités dans l'une ou l'autre des 
+deux catégories. 2.1 Les progrès de l'analyse économique On mettra du coté de l'analyse théorique les progrès continus faits dans l'appréciation des effets 
+des investissements sur les temps de transports et ses composantes telles que la fiabilité, le décalage 
+par rapport aux horaires souhaités ou encore l'articulation des transports avec le reste des activités, 
+tant au niveau des entreprises (logistique) qu'à celui des personnes (programmes d'activités). Parmi 
+les références sur ces thèmes, citons Mackie and alii 2003, Gunn 2007, Hensher 2011 forthcoming 
+pour les transports de voyageurs et Beuthe and alii 2008 pour les transports de marchandises, Bhat and 
+alii 2004 pour les programmes d'activité. Ces progrès se manifestent aussi dans la connaissance des 
+phénomènes de congestion, qui sont étudiés depuis longtemps en matière routière (après les travaux 
+initiaux de Arnott and alii 1993), mais sont moins bien connus dans le cas ferroviaire et aérien. 
+On y mettra aussi la meilleure connaissance des interactions entre les transports et l'espace. La 
+Nouvelle Economie Géographique (NEG) est en train progressivement de développer ses applications 
+à l'évaluation des projets (Ottaviano, Tabuchi and Thisse 2002, Venables 2007). On les retrouve aussi 
+dans les études sur les effets d'agglomérations –les gains de productivité issus de la proximité des 
+agents (entreprises et individus-et la mise au point de méthodes permettant de les quantifier (Graham 
+2007). Ces développements rencontrent-mais ne satisfont pas totalement-une demande constante des 
+décideurs politiques, qui réclament de connaître les conséquences des investissements sur le 
+développement économique et l'attraction des activités, les élus locaux espérant régulièrement que les 
+infrastructures mises en place dans leurs région permettront de favoriser son développement 
+économique. 
+L'incertitude s'est également introduite dans l'analyse, et ce sous deux formes. D'abord il 
+apparaît que les évaluations sont frappées de biais systématiques (Flyvberg 2009) ; les instructions de 
+Grande Bretagne ont acté ces biais et ont préconisé des moyens de les éviter, en les anticipant ; il est 
+possible que les instructions françaises prennent le même chemin, mais actuellement d'autres voies 
+sont explorées, en particulier la mise en place de systèmes d'audits permettant de les réduire sinon de 
+les éviter. La seconde forme d'incertitude est plus classique, elle correspond aux aléas centrés tels que 
+les connaissent et les modélisent les marchés financiers. L'attention se porte sur ces sujets au sein des 
+services d'étude concernés 1 , elle ne s'est pas encore traduite par des recommandations précises (en 
+dehors de celle qu'il convient de porter une attention spéciale à cet élément…) ni par l'énoncé d'une 
+doctrine ferme, mais il est assuré que les prochaines instructions en feront mention détaillée et précise. 1 Notons en particulier, dans le domaine du risque, la prochaine parution d'un rapport d'experts qui 
+insiste sur les méthodes d'évaluation des risques calquées sur celles d'évaluation des actifs financiers. 6 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 2.2 Les changements dans l'organisation sociale Ensuite, il est de plus en plus évident que notre monde est plein d'incertitudes, et la crise 
+économico-financière qui sévit actuellement en est une preuve supplémentaire. Le risque prend 
+également une importance accrue avec le développements des partenariats public privé (PPP) ; ceux-
+ci font leur apparition sous des formes diverses : privatisation des sociétés concessionnaires 
+d'autoroutes, des gestionnaires de certains aéroports, franchises pour les transports publics, 
+fragmentation et libéralisation de certaines parties de l'activité comme dans le transport ferroviaire. 
+Dans tous ces cas, les partenaires portent au risque une attention sensiblement plus élevée que ce qui 
+était le cas dans la situation du financement public qui était de règle antérieurement, où la puissance 
+publique seule en jeu en matière de financement présentait une aversion au risque plus faible. 
+Le risque se retrouve aussi augmenté par la libéralisation qui ouvre davantage de marchés à une 
+concurrence qui n'est pas une concurrence parfaite, mais prend la forme d'oligopoles (par exemple 
+dans les chemins de fer ou dans l'aviation) une forme de marché instable, qui présente de nombreuses 
+incertitudes quant à l'issue de la confrontation entre les acteurs (combien d'entrants, sur quelles 
+niches, comment se feront-ils concurrence, par les prix, les quantités… ?) et qui a des incidences fortes 
+sur les conditions de mise en oeuvre des analyses coût-bénéfice (Meunier and Quinet 2010, Sanchez-
+Borras 2010). Tout ceci contraste avec la relative stabilité que fournissaient les monopoles publics 
+antérieurs. 
+Une autre source de transformation réside dans la place prise par l'environnement. Depuis 
+longtemps l'environnement s'est introduit dans les ACB, par l'intermédiaire de la valorisation des 
+externalités. L'attention continue à se porter sur ces aspects. Ainsi récemment un rapport d'experts a 
+produit des recommandations pour la valeur du carbone à prendre en compte dans les calculs 
+économiques (Quinet and alii 2008) ; de même actuellement des réflexions se poursuivent pour mettre 
+à jour les autres valeurs unitaires des externalités. 
+L'environnement est intervenu de façon encore plus radicale à travers le processus politique. La 
+majorité issue des élections de 2007 a en effet fortement infléchi son action pour tenir compte des 
+préoccupations d'environnement. Ceci s'est traduit par ce qu'on a appelé le « Grenelle de 
+l'environnement ». Cette appellation est une référence aux accords dits accords de Grenelle (nommés 
+ainsi parce que les réunions d'où ils furent issus s'étaient tenus Boulevard de Grenelle) qui, à la suite 
+d'une concertation Etat-patronat-syndicats, avaient mis fin aux grèves de mai 1968. De même le 
+Grenelle de l'environnement (Grenelle website) était une concertation entre plusieurs acteurs de la vie 
+politique française : l'Etat, les collectivités territoriales, les entreprises, les syndicats et les associations 
+d'environnement. Il en est ressorti une forme de « gouvernance à 5 » qui a proposé au gouvernement 
+et au Parlement, qui les ont globalement entérinées, des mesures en faveur de l'environnement. Ces 
+mesures concernant tous les aspects de la vie sociale, comportent un volet sur les infrastructures de 
+transports. Le programme correspondant met fortement l'accent sur les infrastructures ferroviaires et 
+sur les transports publics et fait passer au second plan les infrastructures routières. L'action sur les 
+infrastructures de transport s'est aussi accompagné de réformes administratives significatives : les 
+administrations des transports et celles de l'environnement ont été fusionnées ; il semble que dans 
+cette fusion, la part belle soit revenue aux préoccupations d'environnement ; ainsi la direction des 
+routes, autrefois toute-puissante au sein du ministère des transports, a été supprimée, et ses effectifs 
+ont été répartis au sein du ministère dans le cadre d'une structure qui privilégie l'inter-modalité. 
+La gouvernance à 5 issue du Grenelle de l'environnement est une manifestation de la complexité 
+croissante des processus de décision, complexité qui n'est pas nouvelle, mais qui ne fait que 
+s'accentuer et constitue un des traits des évolutions en cours 
+. E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 7 3. LES DIRECTIVES D'ÉVALUATION DE PROJET 3.1 Le socle ancien Le socle ancien date de 2004 (instruction cadre du 25 Mars 2004 relative à l'harmonisation des 
+méthodes d'évaluation des grands projets d'infrastructure de transport et instruction du 27 mai 2005 de 
+mise à jour) 2 . Elle venait alors modifier une instruction de même nature qui datait de 1995, soit près de 
+10 ans auparavant ; elle apportait des modifications dans l'évaluation des effets externes et dans les 
+valeurs unitaires de ces effets externes ; elle comportait également des compléments d'ordre pratique, 
+tenant à la présentation des études, pour tenir compte des évolutions du contexte décisionnel et du 
+développement des débats publics. Elle se situait dans la même ligne de doctrine, affirmée dans le 
+rapport Boiteux and alii 2001 qui a inspiré la démarche correspondante, marquée par l'affirmation que 
+le bilan économique chiffré constitue le noyau central de l'évaluation, constituant un indicateur 
+irremplaçable de repérage et de hiérarchisation dans le processus de décision publique. Il est même 
+indiqué que cette méthode de calcul économique est la seule qui permette aujourd'hui des 
+comparaisons chiffrées entre différents projets d'investissement. On ne détaillera pas les modalités de 
+mise en oeuvre des calculs de rentabilité, car ces modalités sont classiques ; on notera simplement 
+l'accent mis sur un problème de calcul des avantages des usagers qui se présente dès qu'on veut 
+utiliser des valeurs du temps et des paramètres associés qui diffèrent de celles utilisées pour la 
+modélisation des trafics ; on risque alors de graves incohérences. Ce problème existe dès que les 
+circulaires recommandent des valeurs du temps normalisées, ce qui est en général le cas ; il est 
+particulièrement présent en France où souvent des voix se sont élevées pour recommander l'usage de 
+valeurs du temps tutélaires, modifiées par rapport aux valeurs de comportement pour tenir compte de 
+préférences collectives. 
+Mais, par rapport à cette doctrine, la circulaire de 2004 marque déjà quelques inflexions. Juste 
+après les affirmations fortes en faveur du calcul économique qui viennent d'être citées, il est dit que 
+l'évaluation d'un projet doit toutefois contenir bien d'autres éléments de clarification des choix publics 
+et que ces éléments sont soit quantitatifs soit qualitatifs. La circulaire insiste notamment sur l'équité 
+territoriale et sociale, et sur les effets structurants des transports en matière de développement 
+territorial. La nécessité est soulignée de fournir aux décideurs les éléments de l'évaluation qu'ils soient 
+ou non quantifiables ou monétarisables sur l'ensemble des critères qui déterminent les choix publics. 
+Enfin, dans ses développements, la circulaire accorde une place importante aux calculs de la rentabilité 
+financière du projet. 
+En outre, l'instruction –cadre souligne la nécessité de bien marquer pour chaque projet, et ce 
+sous forme de tests de sensibilité, les incertitudes et les risques à long terme liés à l'environnement 
+technique et économique, aux délais et conditions de réalisation des projets, aux différentes 
+hypothèses et valorisations retenues. 
+Selon ces objectifs, l'instruction détaille la manière de conduire les calculs de rentabilité et 
+fournit un ensemble harmonisé d'hypothèses concernant les conditions macroéconomiques, et les 
+valeurs unitaires qui interviennent. Les recommandations présentées sont parfaitement conformes à la 
+théorie économique et à la bonne pratique de l'époque. Une novation à signaler réside dans les 
+recommandations de calculer des indicateurs d'accessibilité comme moyen d'appréhender les 
+conséquences du projet sur l'organisation de l'espace. Mais en dehors de ce point, les principes 2 Pour une présentation plus détaillée de la doctrine antérieure à 2007, voir par exemple Quinet 2007. 8 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 généraux qu'elle définit en exergue et visant à tenir compte des effets structurants et de l'équité ne 
+sont accompagnés d'aucun outil permettant de les concrétiser. 
+Au total l'instruction –cadre de 2004 exprime des intentions qui dépassent le calcul économique 
+traditionnel, mais, au niveau des méthodes proposées, reste dans le cadre strict de ce calcul. Cette 
+instruction –cadre a été suivie d'une circulaire de mise à jour en 2005, dont le but essentiel était de 
+changer le taux d'actualisation (qui passe de 8% à 4%) et d'introduire la notion de coût des fonds 
+publics (valeur fixées à 1,3). Cette instruction devait être déclinée pour les différents modes de 
+transport, de façon à tenir compte de la spécificité de chacun d'eux. En fait, seule une des circulaires 
+d'application concernant les routes a été menée à un certain point d'aboutissement. Mais elle reste à 
+l'état de projet, et est actuellement appliquée à titre provisoire, sans avoir été officialisée. On en 
+présentera les grandes lignes dans l'encadré 1 ci-dessous : Encadré 1. Les principales recommandations du projet de circulaire 
+sur l'évaluation des projets routiers de 2007 Le texte rappelle des principes généraux sur la notion de projet, de scénario d'aménagement, de 
+scénario de référence. Il marque ensuite les différents stades de progression dans l'étude d'un projet, 
+distinguant l'étude d'opportunité et le débat public amont, où ce sont simplement les grandes lignes de 
+l'ouvrage qui sont définies (le fuseau du tracé peut varier de plusieurs kilomètres, et plusieurs fuseaux 
+peuvent être en concurrence), et les études d'APS et les enquêtes d'utilité publique, où le tracé est 
+beaucoup plus précisément défini (à quelques dizaines de mètres ou à la centaine de mètres près). Il 
+indique que les études amont doivent éclairer sur les comparaisons modales, le parti d'aménagement et 
+la faisabilité financière, et aboutir à la définition d'un grand fuseau de passage ; que les études aval 
+doivent choisir les variantes de tracé, le phasage et la priorité des différents projets. Il indique aussi 
+que chaque phase doit comporter l'évaluation des indicateurs de rentabilité, le calcul des éléments non 
+monétaires et l'analyse financière. Mais il ne fournit pas d'indication précise sur ce qu'il est possible 
+d'estimer et le degré de précision à rechercher à chaque phase. Ce texte donne des indications sur les études de trafic, en précisant les relations à utiliser pour les 
+choix d'itinéraires (ces modèles ne prennent pas en compte les choix horaires) et les règles pour tenir 
+compte de l'induction de trafic. Ces relations peuvent être utilisées soit « manuellement » dans les cas 
+les plus simples soit incorporées dans des modèles plus élaborés standardisés pour les études de 
+grande ampleur. La croissance du trafic dans le temps est également encadrée par la donnée 
+d'hypothèses hautes et basses ; pour les études plus importantes pour lesquelles par exemple il 
+apparaîtrait nécessaire de revenir aux facteurs fondamentaux, les évolutions des paramètres macro-
+économiques tels que PIB ou prix du pétrole sont imposées. E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 9 Les évaluations pour les bilans des usagers et ceux des autres acteurs sont très encadrées par des 
+valeurs numériques strictement définies et laissant peu de place aux choix des analystes, à la fois pour 
+éviter les biais stratégiques et pour assurer la comparaison entre les projets. Cette pratique est courante 
+en Europe, comme on le voit dans le rapport Heatco (Heatco 2006). On reproduit ici les valorisations 
+liées aux coûts pour les usagers et aux temps de trajet et conditions de confort, étant entendu que des 
+tableaux du même type existent pour l'environnement et la sécurité. 10 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 Le taux d'actualisation est fixé à 4% jusqu'en 2035, puis 3,5% jusqu'en 2054, et ensuite 3%. Les 
+différents indicateurs à calculer sont le bénéfice actualisé, calculé sur la base d'une durée de vie de 
+l'investissement de 50 ans et sans valeur résiduelle, le taux de rentabilité interne, le bénéfice par Euro 
+investi et le bénéfice par Euro public investi. Un chapitre est consacré à l'analyse de risque, et la 
+méthode privilégiée est l'analyse des ruptures possibles et l'élaboration de scénarios. A coté de ce volet correspondant à l'analyse coût bénéfice classique, est demandé une évaluation des 
+effets on monétaires. Ceux-ci sont nommément désignés. On y trouve : − Les effets sur l'accessibilité. Une méthodologie de calcul des indices d'accessibilité et de leurs 
+changements liés à la réalisation du projet. 
+− Les impacts sur le développement économique régional ou local. Ces impacts sont de deux 
+natures : d'abord les effets sur l'emploi, et pour eux des ratios sont donnés correspondants aux 
+effets directs d'embauche liée aux travaux de construction et d'exploitation. Ensuite les 
+conséquences sur l'activité économique font l'objet d'une procédure très complexe, fondée sur 
+des enquêtes auprès des responsables économiques locaux et régionaux et sur l'analyse de 
+données statistiques d'activité locale ; en les couplant avec les changements d'accessibilité 
+calculés précédemment, on en tire par des règles de classement fixées par la circulaire, une 
+estimation qualitative des conséquences escomptées du projet sur l'activité économique locale 
+ou régionale. On note toutefois que ces analyses sur l'emploi et le développement régional sont partielles ; elles ne 
+tiennent pas compte des effets macro-économiques sur les marchés correspondants. En termes plus 
+concrets et un peu réducteurs, elles ne disent pas si les suppléments d'emploi et d'activité économique 
+recensés sont des créations nettes ou s'accompagnent de réductions dans d'autres régions. Les effets non monétaires contiennent une troisième catégorie : l'évaluation de la gène apportée aux 
+usagers par les situations de congestion : on y définit des classes de qualité de service vues sous cet 
+angle. Ce point traduit le fait que les valeurs du temps indiquées plus haut traduisent mal les 
+inconvénients liés à la congestion, et que les études de trafic sont également mal adaptées à 
+l'évaluation des conditions de congestion (elles ne prennent pas en compte explicitement les situations 
+d'encombrement). La circulaire se termine par des prescriptions concernant l'évaluation financière. Cette évaluation est 
+sommaire : elle recense les recettes du projet et les compare aux dépenses du gérant d'infrastructure 
+par l'intermédiaire du calcul d'une Valeur Actuelle Nette déterminée par l'intermédiaire d'un taux 
+d'intérêt tiré des conditions du marché. L'analyse ne prend pas en compte explicitement la structure du 
+financement (capital ou emprunt), elle ne l'intègre que par le choix du taux d'intérêt qui est une sorte 
+de WACC, elle n'analyse pas les risques comme le feraient les acteurs d'un financement privé, ne 
+prenant pas en compte en particulier les coefficients de Debt Service Cover Ratio. Elle se borne à 
+fournir une première idée des possibilités de financement privé. 3.2 Les novations d'après 2007 Le ton et les orientations vont changer du tout au tout après 2007 et les impulsions données par le 
+nouveau gouvernement. La circulaire publiée le 9 décembre 2008 (Ministère de l'écologie 2008 a) est 
+inspirée par une ligne de pensée tout à fait différente comme le laisse entendre son titre : elle est 
+relative au « Référentiel d'évaluation du ministère » ; par ailleurs elle concerne l'ensemble des 
+champs de décision du Ministère, et pas seulement les transports. Elle propose une procédure E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 11 d'évaluation qui s'écarte très sensiblement du schéma antérieur où le coeur de l'évaluation était 
+constitué par l'analyse coût –bénéfice. Ici l'évaluation commence par une définition des objectifs 
+visés par le projet et une évaluation de la manière dont ce projet y répond, par comparaison avec les 
+autres alternatives envisageables. La manière d'effectuer ces comparaisons est d'analyser les impacts 
+du projet. Ces impacts sont classés selon les trois piliers du développement durable : Economie, 
+Social, Environnement. Une grille d'analyse est présentée ; elle est reproduite ci-joint. 
+On voit sur ce tableau que le critère du surplus n'apparaît plus nominativement, mais simplement 
+sous les titres de la compétitivité et d'impacts pour les ménages et pour les entreprises. 
+L'accent est mis sur le caractère pédagogique de la procédure, qui doit être conçue de façon à 
+susciter l'amélioration du projet tout au long de sa préparation et de la concertation à travers les débats 
+publics. Ce souci de bonne gestion de projet transparaît dans une autre circulaire datée du même jour 
+et relative à l' « Etablissement d'une charte qualité de l'évaluation au Ministère » (Ministère de 
+l'écologie 2008 b) : l'évaluation doit être impartial, transparente, pluraliste, exhaustive, il doit être 
+possible de suivre l'origine des éléments constitutifs de l'évaluation (traçabilité). Elle doit être tournée 
+vers la concertation par sa large mise à disposition auprès du public. 
+Notons enfin que la circulaire, très courte (6 pages), est en quelque sorte inachevée : elle ne 
+fournit pas de guide sur la manière de remplir ce tableau, les indicateurs à mesurer, les double-compte 
+à éviter ; ces taches sont laissées au soin de circulaires ultérieures qui détailleront les recommandations 
+par domaines et sont en cours de préparation. 
+Parallèlement à ce courant de doctrine, les services du ministère continuent d'améliorer les 
+procédures d'exécution des calculs économiques. Ainsi des travaux ont été menés pour fournir de 
+nouvelles évaluations du prix du carbone (Quinet 2008), et ces travaux suivaient l'analyse économique 
+la plus orthodoxe ; de même un rapport est en voie d'achèvement sur la prise en compte du risque ; il 
+est fondé sur les théories économiques d'évaluation des actifs financiers là aussi selon l'orthodoxie 
+économique. 
+On se trouve donc actuellement devant deux courants de pensée et deux lignes d'avancée, l'une 
+d'inspiration multicritère, fondée sur l'énumération et la quantification d'une grande quantité 
+d'impacts, et l'autre, clairement unicritère, sur la théorie des surplus. Depuis longtemps ces deux 
+courants de pensées existent en France, et ils se sont jusqu'ici opposés. On a assisté dans le passé à des 
+oscillations entre les deux : selon des périodes de l'ordre de la dizaine d'années, le balancier penche 
+tantôt d'un coté tantôt de l'autre. Le paradoxe de la situation actuelle est que pour le moment tout au 
+moins la tendance est plutôt syncrétique : les deux courants coexistent et sont en train de se développer 
+parallèlement. Les analyses multicritères (AMC) recommandées par la circulaire de 2008 connaîssent 
+une première application, à titre expérimental en quelque sorte, dans l'évaluation des projets issus du 
+Grenelle de l'environnement, tandis que ces mêmes projets font l'objet d'évaluations socio-
+économiques selon les principes de la circulaire de 2004. Comment s'articulent ces évaluations, c'est 
+ce qu'on va voir maintenant. 12 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 Tableau 1. Grille d'évaluation des projets E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 13 4. LES ÉVALUATIONS DE PROGRAMMES ET PROJETS RÉCENTS De nombreuses décisions concernant les projets d'infrastructure ont été prises depuis le tournant 
+de 2007-2008. On peut les présenter et les analyser selon le niveau de décision, en allant de l'amont et 
+du général, le niveau des plans à long terme vers l'aval et le particulier, celui de la définition technique 
+de projets déjà décidés. 4.1 Les lois de Grenelle I et II La décision la plus générale prise récemment fut le vote de deux lois destinées à faire passer dans 
+les actes les décisions issues de la concertation du Grenelle de l'environnement. La première loi est la 
+loi 2009-967 du 3 Août 2009 de programmation relative à la mise en oeuvre du Grenelle de 
+l'environnement. Dans la même ligne de pensée que la circulaire sur l'évaluation précitée dans la 
+section précédente, cette loi, qui ne concerne pas seulement les transports mais l'ensemble des 
+activités, définit d'abord des objectifs généraux, et notamment pour ce qui concerne les transports : la 
+lutte contre le changement climatique la promotion du développement durable à travers la réduction 
+des pollutions et la limitation des consommations d'espaces naturels. Parmi les moyens permettant de 
+satisfaire ces orientations, apparaissent le développement des transports collectifs (fluvial, ferroviaire, 
+cabotage maritime) ; suivent des objectifs généraux, par exemple pour les transports de marchandises, 
+la part modale du transport non-routier devrait passer de 14% à 25% d'ici 2022 pour les 
+marchandises. 
+Ces objectifs seront atteints par un ensemble coordonné de mesures développées dans la loi, 
+parmi lesquels arrivent en priorité l'entretien et la bonne utilisation des infrastructures existantes ainsi 
+que les mesures réglementaires ; les investissements d'infrastructures ne sont qu'un des moyens 
+disponibles, et pas le plus privilégié. 
+Les moyens en termes d'infrastructures nouvelles sont définis de façon assez précise, au moins 
+pour les investissements ferroviaires. Ainsi pour les transports de marchandises la loi prévoit la 
+réalisation de trois autoroutes ferroviaires à construire avec un objectif chiffré de réduction du trafic de 
+camions ; sont également mentionnés, là aussi avec quelques objectifs quantifiés, l'amélioration des 
+dessertes ferroviaires et fluviales des ports, les autoroutes de la mer, la liaison fluviale Seine-Nord. 
+En ce qui concerne les transports de voyageurs, l'accent est mis sur la poursuite du programme de 
+liaison nouvelle ferroviaires à grande vitesse, pour un total de 2000 km environ à l'horizon 2020 pour 
+l'établissement duquel plusieurs liaisons sont nommément citées. 14 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 Encadré 2 Les projets de Lignes nouvelles à grande vitesse de la loi de Grenelle I ― la ligne Sud-Europe―Atlantique, constituée d'un tronçon central Tours―Bordeaux et des trois 
+branches Bordeaux―Toulouse, Bordeaux―Hendaye et Poitiers―Limoges ; 
+― la ligne Bretagne―Pays de la Loire ; 
+― l'arc méditerranéen, avec le contournement de Nîmes et de Montpellier, la ligne 
+Montpellier―Perpignan et la ligne Provence-Alpes-Côte d'Azur ; 
+― la desserte de l'est de la France, avec l'achèvement de la ligne Paris―Strasbourg et des trois 
+branches de la ligne Rhin―Rhône ; 
+― l'interconnexion sud des lignes à grande vitesse en Ile-de-France ; 
+― les accès français au tunnel international de la liaison ferroviaire Lyon―Turin, qui fait l'objet d'un 
+traité franco-italien. Une liste complémentaire de 2500 km est également envisagée pour compléter le réseau précédent ou 
+suppléer à des liaisons de ce réseau qui ne pourraient pas être prêtes à temps. Un programme 
+d'extension des transports collectifs locaux est également indiqué, avec des objectifs quantifiés de 
+transports en commun en site propre tant en province qu'en Ile de France. La loi prévoit également la préparation d'un Schéma National des Infrastructures de transports, et 
+définit les critères qui devront présider au choix des liaisons qu'il comportera : 
+− le solde net d'émissions de gaz à effet de serre induites ou évitées par le projet rapporté à son 
+coût ; 
+− l'avancement d'autres projets et les perspectives de saturation des réseaux concernés ; 
+la performance environnementale (lutte contre le bruit, effet de coupure, préservation de la 
+biodiversité...) ; 
+− l'accessibilité multimodale, le développement économique, le désenclavement et 
+l'aménagement des territoires aux différentes échelles ; 
+− l'amélioration de l'efficacité, de la sécurité et de la cohérence du système de transport existant. 
+− la réalisation des objectifs d'accessibilité des personnes à mobilité réduite prévus par la 
+législation nationale. La loi insiste à de nombreuses reprises sur l'importance du suivi du déroulement des projets et de 
+la mesure de leur efficacité. Le mot « retour d'expérience » n'est pas cité, mais on sent que la chose 
+est présente tout au long du texte. De même, dans l'esprit du Grenelle de l'environnement, elle met 
+l'accent sur les procédures de concertation et sur les débats publics, dont l'issue attendue est justement 
+l'amélioration des projets et de leur efficacité. Ainsi un titre entier sur les cinq que contient la loi est 
+consacré à la gouvernance et à l'information. 
+La loi dite « Grenelle II » (loi du 29 juin 2010 portant engagement national pour 
+l'environnement) ne fournit pas d'indication supplémentaire concernant les programmes 
+d'investissement et les choix d'infrastructure, mais renforce les dispositions propres à assurer la 
+concertation dans les débats publics auxquels ils donnent lieu. 
+Notons que les engagements de ces deux lois, et plus particulièrement de la première, ont fait 
+l'objet d'une évaluation sommaire, menée sur la base des critères définis dans la loi même, et à partir 
+des informations existantes. Mais cette évaluation n'a pas servi de guide pour les décisions qu'elles 
+comportent. Datée d'octobre 2008, elle a plutôt consisté en une évaluation a posteriori de ces 
+engagements, alors que le projet de loi était déjà déposé au parlement, en juin 2008. En outre cette 
+évaluation est, de l'aveu de ses auteurs, imparfaite, car fondée sur des données très incomplètes : 
+« Cette évaluation ne peut néanmoins pas être qualifiée au sens strict du terme d'analyse coût-
+bénéfice ou d'analyse coût-avantage, modèle vers lequel devrait tendre, à terme, toute évaluation des E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 15 politiques publiques. En effet, les délais de réalisation de l'évaluation et la forme de cette loi de 
+programme rendent une telle analyse difficile voire impossible pour certains objectifs. Ceci est 
+particulièrement vrai pour certaines thématiques environnementales (biodiversité, santé-
+environnement, ...) pour lesquelles l'absence de valeurs tutélaires de référence ajoute une difficulté 
+supplémentaire à l'évaluation. ». 
+Cette mention manifeste à la fois le faible niveau des études préalables aux investissements 
+prévus par la loi et la difficulté pour les analystes de procéder à des évaluations selon les principes 
+définis par cette loi, principes qui sont identiques à ceux posés dans la circulaire de 2008 présentée à la 
+section précédente. 
+Notons qu'une évaluation interne (Etude d'impact du Projet de loi de Grenelle de 
+l'environnement 2008) a été faite des engagements du Grenelle à travers une méthode d'analyse coût-
+bénéfice. Cette évaluation est sommaire car on ne disposait pas d'analyse coût-bénéfice pour tous les 
+projets et toutes les mesures retenues. Cette évaluation a néanmoins permis de comparer pour chaque 
+objectif la rentabilité des mesures qu'il comportait. Il est apparu que plusieurs des mesures retenues 
+n'étaient rentables que pour des valorisations implicites (notamment du prix du carbone) nettement 
+supérieures à celles qui sont usuellement retenues. 
+Chaque année un rapport au Parlement (CGDD 2009) fait le point sur la mise en oeuvre des 
+engagements du Grenelle. Ce rapport porte sur la mise en oeuvre des moyens, pas sur le degré 
+d'avancement des objectifs. 4.2 Le Schéma National des Infrastructures de Transport La loi de Grenelle prévoit la présentation d'un Schéma National des Infrastructures de Transport 
+(SNIT). Avec un certain retard sur le calendrier original, un projet de SNIT a été publié le 13 juillet 
+2010 (Ministère de l'écologie 2010), en vue d'une concertation publique impliquant entre autres les 
+élus locaux concernés, de concertation interministérielle, d'un examen au Conseil économique, social 
+et environnemental (dans sa nouvelle composition), d'une large consultation du public, puis d'un 
+débat au parlement. Sa stratégie repose sur quatre axes : optimiser le système de transports existant ; 
+limiter les infrastructures nouvelles ; améliorer les performances du système de transport dans la 
+desserte des territoires et l'énergie ; réduire l'empreinte environnementale des infrastructures. Des 
+actions sont définies, au nombre d'une soixantaine, portant aussi bien sur l'entretien, l'exploitation, ou 
+le développement des infrastructures. En ce qui concerne les infrastructures, et dans le cadre de la 
+ligne politique déjà énoncée, l'accent est mis sur les objectifs définis dans la loi de Grenelle I : 
+@BULLET le renforcement de l'intermodalité au bénéfice du transport ferroviaire, 
+@BULLET la modernisation des grands ports maritimes, 
+@BULLET l'intégration environnementale renforcée des infrastructures de transport existantes, 
+@BULLET le recentrage du transport routier et du transport aérien, 
+@BULLET le soutien au développement du transport collectif. Pour chaque objectif, une liste de sous-objectifs, critères et indicateurs est proposé. Le tableau 
+ci-dessous présente les critères et indicateurs d'évaluation correspondants pour l'action 1 relative au 
+développement du transport ferroviaire. Tableau 2. Critères et indicateurs d'évaluation pour l'objectif relatif au 
+développement du transport ferroviaire 16 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 17 18 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 Si l'on se place maintenant au niveau des évaluations de projets, on retrouve des modalités 
+d'évaluation en plus grande conformité avec les pratiques et doctrines antérieures. Beaucoup de 
+projets inclus à la fois dans la loi de Grenelle et dans le SNIT ont déjà fait l'objet d'évaluations 
+détaillées, par exemple dans le cadre des débats publics préalables ou des enquêtes d'utilité publique. 
+Les dossiers correspondants n'ont pas de composition normalisée ; tous sont constitués d'analyses des 
+impacts du projet, en particulier sur l'économie locale et sur l'environnement ; ils comportent tous une 
+analyse socio-économique menée selon les termes des circulaires de 2004 et 2005, faisant apparaître 
+des indicateurs de rentabilité de l'opération, qui se résument en général au taux de rentabilité interne. E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 19 5. UN JUGEMENT D'ENSEMBLE : ANALYSE COÛT-BÉNÉFICE 
+OU MULTI-CRITÈRE ? 5.1 Difficultés et avantages de l'analyse multi critères (AMC) Le changement d'orientation intervenu en France n'est pas abouti. Les orientations générales 
+définies par la circulaire de 2008 n'ont pas fait l'objet de définition des modalités d'application. Même 
+l'avant-projet de SNIT récemment publié ne comporte pas encore d'évaluation selon les nouvelles 
+modalités, ce qui montre bien les difficultés à les mettre en oeuvre. Il faut se rendre compte de leur 
+ambition, puisqu'elles définissent les attentes des décideurs et ne tiennent pas compte des difficultés 
+qu'il peut y avoir à les satisfaire. Or de ce point de vue, deux ordre de difficultés majeurs apparaissent. 
+Le premier tient à l'existence de doubles comptes entre les différents critères ou objectifs 
+recensés. Si l'on se réfère au tableau 1 précédent, on voit par exemple les impacts sur le capital 
+humain qui recoupent ceux sur les entreprises, l'accès aux services essentiels qui recoupe les impacts 
+sur les ménages. Il convient de définir de façon plus précise là où commencent et là où finissent 
+chacun des impacts cités. La complexité de la tache peut être mesurée en rapprochant les 
+conséquences pour les entreprises et les ménages, qui comportent à l'évidence les gains de temps 
+procurés en général par les investissements d'infrastructures, des changements d'accessibilités : les 
+modalités actuelles d'évaluation impliquent les deux types d'indicateurs, mais les seconds ne sont que 
+la traduction des premiers en termes spatiaux agrégés. Plus généralement, la plupart des effets de 
+nature économique du tableau 1 précité passent par le canal des gains de temps ; ne les compte-t-on 
+pas deux fois en les analysant sous l'angle des gains de temps et sous l'angle des autres effets 
+envisagés ? 
+Le second tient à la possibilité de mesurer les effets correspondants. De ce point de vue, la grille 
+d'analyse n'apporte aucune valeur ajoutée, elle contribue à poser le problème sans en définir la 
+solution. Or il y a des impacts qu'on ne sait pas évaluer. La chose est claire pour des effets tels que la 
+compétitivité. Certes il faut prendre en compte les effets correspondants ; mais la difficulté est de 
+mesurer la relation de cause à effet entre la réalisation d'une infrastructure et les variations de 
+productivité qu'elle entraîne éventuellement dans les entreprises. Sur ce point des avancées 
+importantes ont été faites ces dernières années ; mais elles ne résultent pas des préconisations en 
+faveur d'une AMC de préférence à uneACB ; elles résultent des progrès de l'analyse économique 
+générale, avec notamment le développement de la nouvelle économie géographique. En l'absence de 
+ces avancées, l'AMC serait aussi impuissante à apprécier les effets sur la compétitivité que l'ACB 
+traditionnelle. 
+Un autre cas typique est celui de l'emploi déjà évoqué. On peut savoir avec une précision 
+suffisante combien de personnes sont employées à la construction ou à l'exploitation d'une 
+infrastructure nouvelle : il suffit pour cela d'observer la manière dont sont gérées les infrastructures 
+analogues déjà existantes ; on peut aussi par observation déterminer les emplois nécessaires pour la 
+fabrication des intrants que vont utiliser les fournisseurs des entreprises de travaux publics. Mais cette 
+évaluation quantitative ne prend pas en compte les réactions du marché du travail : une augmentation 
+de l'offre de travail de la part des entreprises de travaux publics doit normalement entraîner une hausse 
+des salaires sur tout ou partie du marché du travail et donc une baisse de l'emploi ; on ne sait pas si 
+l'augmentation que l'on calcule par les raisonnements mécaniques utilisés actuellement capture bien 
+tous les effets à prendre en compte. 
+On peut même facilement tomber dans le charlatanisme. Des méthodes simplistes de calcul des 
+emplois créés, passant sous silence les effets secondaires qu'on ne sait pas évaluer, présentent 20 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 l'avantage d'offrir des résultats simples à comprendre, qui sont d'une communication commode, 
+emportent facilement l'adhésion et font croire à la vérité. On échappe à un reproche souvent fait à 
+l'analyse coût-bénéfice que la décision est prise par l'ordinateur, et selon des procédures opaques, et 
+non par le décideur. Mais on tombe dans un travers similaire : le décideur qui semble davantage maître 
+de la décision, la fonde sur un résultat qu'il croit comprendre car il est simple mais qui peut être 
+fondamentalement erroné. 
+L'analyse multi-critère présente en revanche plusieurs avantages par rapport à l'analyse coût-
+bénéfice standard. Sous la réserve qui vient d'être évoquée que la simplicité peut être trompeuse, elle 
+fournit des résultats qui parlent davantage au décideur que la présentation d'un taux de rentabilité ou 
+d'un bénéfice actualisé. La communication est améliorée, ce qui est un avantage majeur dans les 
+situations de débat public, où les interlocuteurs n'ont pas, c'est naturel, la possibilité de bien 
+comprendre les subtilités de la théorie économique et du calcul des surplus. Ce point est d'autant plus 
+important que les décisions font de plus en plus intervenir des décideurs multiples aux points de vue 
+différents entre lesquels il est fondamental d'établir un langage commun. C'est le cas dans les débats 
+publics auxquels les grandes infrastructures sont soumises. Mais au-delà du cadre officiel de ces 
+débats publics réglementaires, on sait bien que les décisions concernant les infrastructures se 
+présentent comme un jeu complexe qui met en scène de multiples acteurs dont aucun n'a de pouvoir 
+décisif sur les autres. En simplifiant une situation d'ailleurs variable, on peut distinguer les groupes 
+suivants : 
+-Les décideurs politiques, qui sont eux-mêmes multiples et souvent en conflit : par exemple, 
+conflit entre le gouvernement central (soucieux d'une certaine rigueur dans l'allocation des 
+crédits) et les autorités locales (qui cherchent à attirer sur leur territoire le maximum 
+d'infrastructures), et qui sont préoccupés en outre de considérations d'équité et de répartition 
+des avantages. 
+-Les associations de « minorités actives » telles que les associations d'écologistes qui cherchent 
+à promouvoir une politique et des mesures en faveur de l'environnement. 
+-Le secteur privé (constructeurs de matériel, travaux publics) qui défend le développement de 
+son secteur d'activité. 
+-Les financiers qui cherchent des emplois aux ressources dont ils disposent, dans des 
+conditions qui soient pour eux les plus favorables. 
+-Enfin les économistes qui en général se présentent comme les défenseurs de l'efficacité à 
+travers l'ACB. On conçoit que dans ce contexte, les évaluations de projets ne soient plus un instrument à la 
+disposition d'une sorte de despote éclairé lui permettant de mettre en toute sérénité sur les projets qui 
+lui sont soumis un ordre de priorité reflétant l'intérêt collectif. Cette vision pouvait apparaître dans un 
+passé ancien comme une représentation simpliste mais commode de la réalité, mais elle n'a plus 
+maintenant de justification. Il faut considérer que les ACB et autres méthodes d'évaluation des projets 
+constituent en fait des arguments dans les discussions qui se développent entre ces acteurs ; chacun se 
+sert en utilisant les possibilités de manoeuvre que lui offrent leurs marges d'incertitude élevée. De ce 
+point de vue l'AMC est plus éclairante car elle fournit à chacun des groupes concernés une panoplie 
+lui permettant d'apprécier les impacts sur lesquels il est le plus sensible, alors que l'ACB usuelle ne 
+fournit qu'un indicateur global. 
+Dans un ordre d'idée similaire, l'AMC rend probablement plus facile la modification du projet 
+pour en améliorer les performances dans la mesure où, plus naturellement que l'ACB, elle sépare ces 
+performances et fait apparaître celles qui sont les moins satisfaisantes par rapport par exemple à des 
+projets similaires. E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 21 5.2 Complémentarité de l'ACB et de l'AMC Ceci ne doit pas faire oublier les mérites de l'ACB qui sont en quelque sorte complémentaires de 
+ceux de l'AMC. D'abord elle fournit un cadre général cohérent dans lequel les effets pris en compte 
+résultent d'hypothèses générales sur le fonctionnement de l'économie et, sous réserve que ces 
+hypothèses soient remplies, évite les doubles comptes, comme le prouve le fait que les impacts qu'elle 
+calcule peuvent s'additionner pour obtenir l'effet global. Ensuite, comme dans sa version la plus 
+courante, elle valorise les biens aux prix du marché – sous réserve de corrections du fait des 
+externalités qui sont également prises en compte d'après la disponibilité à payer des agents-, elle est en 
+un sens démocratique puisqu'elle intègre et respecte les choix des agents. 
+Enfin elle permet de prendre en compte des valorisations différentes, qui s'intègrent facilement 
+dans le calcul. Lorsqu'un décideur donne une valeur différente de la valeur de marché à un bien 
+particulier, il est possible à la fois de calculer la rentabilité du projet avec cette nouvelle valeur et de 
+déterminer de combien cette nouvelle valeur change les choix. La disposition d'une ACB permet 
+enfin, en face d'une décision résultant de la considération de critères multiples, de déterminer la valeur 
+implicite accordée par le décideur à ces critères. Ainsi, comme on l'a indiqué plus haut, l'analyse ex-
+post des décisions du Grenelle de l'environnement en faveur du changement climatique a fait 
+apparaître des mesures qui n'étaient justifiées que pour des valeurs très élevées du carbone, nettement 
+supérieures à celles couramment présentées actuellement dans la littérature. Dans un ordre d'idées 
+similaires, l'ACB peut, comme on le verra plus loin, être adaptée pour tenir compte de préoccupations 
+de redistribution, un effet couramment mis en avant par les tenants de l'AMC. 
+Au total, il y a certes opposition entre AMC et ACB, mais il y a aussi complémentarité, et si 
+l'opposition est fréquemment soulignée, la complémentarité ne l'est probablement pas assez, alors 
+qu'elle apparaît clairement si les deux méthodes sont menées de façon bien coordonnée. On peut 
+imaginer une procédure dans laquelle sont conduites une ACB et la présentation des effets 
+élémentaires. L'ACB donne un cadre qui assure la cohérence dans l'évaluation des effets et élimine 
+automatiquement les doubles comptes. Elle fournit des résultats exprimés en unités monétaires avec 
+des valorisations unitaires particulières – celles des disponibilités à payer des agents individuels-qu'il 
+est facile de modifier si, pour une raison ou une autre, les décideurs sont désireux d'en changer. Elle 
+permet, face à une décision fondée sur la considération des effets non monétarisés, de déterminer 
+quelle valeur unitaire implicite la sous-tend. 
+Lorsque des effets présentant un intérêt pour les décideurs ne sont pas pris en compte dans 
+l'ACB, c'est en général parce que leur impact est mal connu, et alors la chose importante à faire est de 
+mieux les connaître ; les introduire sous forme d'indicateurs non confirmés par l'analyse scientifique 
+dans une procédure d'analyse multi-critère n'est alors qu'un palliatif qui doit être utilisé avec 
+précaution car il est d'une validité scientifique incertaine. Si ils sont connus mais pas identifiés par 
+l'ACB courante, alors il faut mettre à jour les procédures en vigueur de l'ACB. Aussi, dans cette 
+optique syncrétique, on va maintenant examiner les problèmes que présente l'ACB traditionnelle et les 
+adaptations qu'il faudrait lui apporter pour lui permettre de mieux jouer son rôle. 
+Ajoutons à ces considérations les arguments bien connus que l'AMC prise isolément ouvre la 
+voie à l'arbitraire et à la subjectivité et que l'ACB seule fonctionne trop souvent comme une boite 
+noire incompréhensible, alors que leur conjugaison élimine ces deux défauts. 22 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 6. QUELQUES PISTES POUR AMÉLIORER L'ANALYSE COÛT-BÉNÉFICE On peut ranger ces pistes d'amélioration en deux catégories entre lesquelles il y a des 
+chevauchements. Dans la première on mettra celles qui s'adressent aux insuffisances du savoir 
+économique et dans la seconde celles que pose l'insertion de l'analyse coût-bénéfice dans le milieu de 
+la décision. 6.1 Les problèmes méthodologiques Beaucoup de ces problèmes tiennent à deux de ses caractéristiques essentielles qui résultent de ce 
+qu'elle est fondée, dans sa pratique actuelle, sur une analyse d'équilibre partiel, d'où il résulte qu'elle 
+n'est valable que si l'ensemble de l'économie est en situation de first best où les entreprises tarifient 
+au coût marginal – ce qui se produit naturellement si les marchés sont des marchés de concurrence 
+parfaite-. Il en résulte également qu'elle ne fournit que le surplus total, sans donner d'indication 
+valable sur sa composition, par exemple sur ceux qui bénéficient et ceux qui pâtissent du projet. Or ces 
+deux traits s'accordent très mal avec les conditions actuelles de l'activité économique et du processus 
+décisionnel. 
+Plusieurs facteurs éloignent les situations réelles actuelles des situations de concurrence parfaite. 
+Il y a d'abord les externalités telles que les externalités d'environnement ; l'ACB les a depuis 
+longtemps intégrées dans ses considérations. 
+Plus importantes et plus difficiles à traiter sont les situations de concurrence imparfaite, 
+monopole ou duopole maximisant leur profit, de plus en plus fréquentes dans le secteur des transports. 
+C'est le cas dans le transport aérien, où les marchés sont pour la plupart oligopolistiques ; c'est aussi le 
+cas dans le transport ferroviaire en Europe où la concurrence sur les rails s'est traduite pour la plupart 
+des marchés par l'apparition d'un petit nombre de concurrents, là aussi en situation d'oligopole. Dans 
+ces situations les pratiques usuelles de l'ACB doivent être modifiées ; mais il faut alors analyser la 
+nature de la concurrence et ses conséquences sur les prix pratiqués par les opérateurs, conséquences 
+qui diffèrent selon la structure du marché (Meunier and Quinet 2010, Nash and alii 2010). Il faut aussi 
+alors revoir les études de trafic en considérant que les prix des opérateurs sont endogènes et résultent 
+d'un équilibre de marché. Il faut tenir compte des variations de profits des entreprises dans le calcul 
+des surplus. 
+D'autres imperfections résident dans les secteurs autres que les transports ; on y constate en effet 
+en général des indices de Lerner positifs, indiquant un certain degré de pouvoir de marché (Laird and 
+alii 2005, Vickerman 2007). 
+Enfin les taxes sont presque toutes porteuses de pertes économiques. On peut intégrer ces pertes 
+par la prise en compte de coefficients de coûts des fonds publics. Des références sur les problèmes 
+théoriques correspondants sont Calthrop, de Borger and Proost 2009 et Mayeres and Proost 1997. 
+On peut analyser ces effets un par un, au prix de termes correcteurs à l'ACB classique. On peut 
+aussi substituer à l'ACB en équilibre partiel une analyse par le moyen de modèles d'équilibre général 
+(GEM). Cette dernière option présente l'avantage de fournir non seulement un indicateur d'ensemble 
+de la rentabilité de l'opération, le surplus collectif qu'elle engendre, mais aussi une répartition de ce 
+surplus selon les bénéficiaires (Brocker 2005). On répond ainsi de façon rigoureuse à une demande 
+fréquente des décideurs, qui souhaitent connaître les effets de répartition des projets. L'analyse par 
+l'intermédiaire de modèles d'équilibre général est en outre le seul moyen d'introduire des pondérations 
+dans les utilités individuelles, permettant de donner une importance particulière à telle ou telle E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 23 catégorie de la population, et donc de calculer un indicateur global qui respecte les choix collectifs en 
+matière de répartition des revenus. 
+Une difficulté particulière de l'ACB, peu évoquée, se présente dans le cas de pays de dimensions 
+limitées pour lesquels les flux de transports et les bénéficiaires des investissements sont pour une part 
+importante étrangers au pays où se localise l'infrastructure, comme c'est le cas dans de nombreux pays 
+européens. Il serait nécessaire alors, pour évaluer l'intérêt national d'un projet, de distinguer entre les 
+agents nationaux et les agents étrangers, tant pour les bénéficiaires que pour les payeurs. Cette tache 
+est rarement entreprise, et on conçoit les difficultés qu'elle recèle, mais on se rend compte aussi des 
+conséquences importantes qu'elle peut avoir sur les résultats de l'ACB et là aussi seules des 
+procédures impliquant la prise en compte de l'ensemble de l'économie, allant donc au-delà de 
+l'analyse partielle, peuvent convenir. 
+Un aspect particulier des demandes des décideurs concerne les effets spatiaux. L'analyse 
+économique a fait récemment beaucoup de progrès en ce domaine. Sur le plan des calculs de 
+modélisation, les modèles Land-Use-Transport-Integrated (LUTI) 3 se sont développés et fournissent, 
+en une sorte d'extension des modèles d'équilibre général, la répartition spatiale des activités et les 
+changements qu'y apporte le projet sous examen. Sur le plan de l'analyse théorique, la nouvelle 
+économie géographique (NEG) a jeté une lumière nouvelle sur les processus de développement des 
+agglomérations et sur les externalités d'agglomérations. 
+Bien évidement l'appréhension de tous ces écarts aux hypothèses d'économie de first-best est 
+encore loin d'avoir atteint son point de perfection. Mais de façon plus générale tous les paramètres et 
+mécanismes intervenant dans l'ACB méritent en permanence des améliorations. Des thèmes comme le 
+temps ou la congestion sont inépuisables et plus on avance plus on voit des progrès possibles. S'il faut 
+dégager des urgences dans les programmes de recherche dans ces domaines, on pourrait en signaler 
+deux, en dehors de l'approfondissement des effets spatiaux. D'abord la connaissance de la congestion 
+dans les transports publics, qui est très nettement en retard par rapport à la route, et dont l'absence 
+vicie les évaluations des projets de chemin de fer et d'aéroports. Ensuite l'analyse dynamiques des 
+décisions des usagers : la simple introspection de la manière dont les usagers prennent les décisions 
+montre que les modifications d'horaires sont les premières adaptations auxquelles on songe en face 
+d'une modification des conditions de l'offre, alors que la plupart des modèles sont d'essence statique 
+et ne prennent pas en compte les mécanismes correspondants. 6.2 Les modalités de mise en oeuvre de l'ACB A coté de ces questions qui ressortent de l'analyse économique, de ses insuffisances et de ses 
+progrès souhaitables, les autres pistes de progrès peuvent se ranger dans la manière dont l'ACB est 
+mise en oeuvre et intégrée dans les processus de décision. On voudrait à cet égard aborder deux 
+aspects : les incertitudes et marges de jeu des déterminations, sources de manipulations possibles de la 
+part des acteurs du processus de décision, et l'imparfaite utilisation de la méthode. 
+Les incertitudes et marges de jeu des résultats des ACB sont multiples et bien connues. Il y a 
+d'abord les risques qui se révèlent au cours de la réalisation et à la mise en service des 
+investissements, comme les incertitudes sur les coûts et sur les trafics. Ce sont celles qui résultent de 
+ce que les études de trafic, comme les études de coûts, utilisent des modèles complexes mettant en jeu, 
+au-delà des principes généraux qui les sous-tendent (par exemple un modèle de trafic du type logit 
+emboîté, ou un pont à haubans d'une portée donnée), de nombreuses données incertaines, des 
+relations multiples, des hypothèses secondaires et également de nombreux paramètres dont beaucoup 
+sont obtenues de façon subjective par estimations d'experts. Ces incertitudes sont bien maîtrisées par 
+la théorie économique et les moyens de les prendre en compte sont multiples ; les procédures les plus 
+simples partent de la loi de probabilité des variables aléatoires en cause et du degré d'aversion au 3 Voir Wegener 2004 et Wegener 2009. 24 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 risque de l'agent concerné. Ce facteur prend une importance accrue par le fait que, avec le 
+développement du financement privé, les agents qui interviennent ont des aversions au risque plus 
+fortes. Un autre type de risque est celui qui se révèle progressivement, et qui est passible de 
+traitements par des méthodes du type de la modélisation des actifs financiers (MEDAF). Ces méthodes 
+sont bien connues dans de nombreuses applications comme la finance ou la recherche opérationnelle 
+et il serait souhaitable et pas trop compliqué de les intégrer dans les analyses coût-bénéfices. 
+L'analyse théorique des situations de risque s'est considérablement développée et il est étrange que les 
+résultats obtenus ne soient guère intégrés dans l'ACB. 
+Dans le paragraphe précédent, on a supposé que les aléas étaient centrés et de moyenne nulle. 
+Une autre source d'incertitude réside dans le fait que les calculs de rentabilité sont en général biaisés. 
+Les coûts sont sous-estimés, les trafics et les rentabilités sont sur-estimés dans des proportions 
+variables mais souvent importantes. Plusieurs auteurs ont bien documenté ces faits, notamment 
+Flyvberg 2009. Les analyses et constatations qu'ils font analysent différentes sources de biais qu'à la 
+suite de Flyvberg 2009, on peut classer en raisons technologiques, raisons psychologiques et raisons 
+d'économie politique. Les plus importantes sont de l'avis général les raisons d'économie politique : 
+les agents qui présentent un projet et veulent le voir réaliser sont tentés de jouer sur les nombreuses 
+marges de jeu et incertitude que présentent les calculs pour les utiliser en faveur de leur thèses. 
+Comment se prémunir contre ces biais ? C'est probablement le point le plus important et le plus 
+difficile à traiter dans la pratique de l'analyse coût-bénéfice. 
+Plusieurs procédures sont envisageables pour cela. Parmi elles il y a d'abord la systématisation 
+des études ex-post, qui permet d'exercer une influence, au moins morale, sur les évaluations futures. 
+Ces études ex-post peuvent servir à mettre en place des comparaisons par classes de référence, 
+permettant de comparer l'estimation des coûts d'un projet particulier à la moyenne et à la distribution 
+des coûts d'un projet de même nature. Une autre méthode est de procéder à l'expertise des études. Les 
+modalités de mise en oeuvre sont multiples : un collège d'experts qui auditerait toutes les études d'un 
+secteur, ou la désignation pour chaque étude d'un groupe qui aurait en charge de l'expertiser. Dans ces 
+situations le problème est d'assurer l'indépendance et la qualité de l'expertise, dans un domaine étroit 
+où les experts sont peu nombreux, se connaissent, et ont souvent eu des contacts, parfois de 
+fournisseur à client, avec les organismes promoteurs de projets ; les débats récents autour du GIECC 
+montent combien cette indépendance est difficile à préserver. Ajoutons que l'expertise d'une étude 
+d'un projet est une affaire longue et coûteuse, qu'il faut disposer d'une masse d'informations pour 
+vérifier les moindres détails, car « le diable est dans les détails ». Une autre voie consiste à agir sur les 
+modalités de production des études et sur les relations entre les acteurs du projet. De ce point de vue, 
+le développement des acteurs privés dans le cadre des financements public-privé constitue une donnée 
+fondamentale. Elle est porteuse de risques car les investisseurs privés sont porteurs d'intérêts forts. Ils 
+utilisent leur pouvoir d'influence qui résulte d'abord des asymétries d'information dont ils sont 
+bénéficiaires et ensuite des modalités contractuelles de leurs interventions. Sur ce dernier point, 
+Flyvberg (2009) propose que les promoteurs d'un projet gardent un engagement en capital minimum 
+dans ce projet pour une certaine durée ; de même la conclusion des contrats entre les promoteurs et les 
+financeurs peut être l'occasion d'un contrôle du projet par des agents disposant à la fois d'une capacité 
+d'expertise et d'un intérêt à cette expertise 4 . Mais l'expertise sera vue alors d'un point de vue financier 
+et non sous l'angle de sa rentabilité collective. 
+Il est fréquent que les projets et particulièrement les grands projets internationaux impliquent de 
+multiples juridictions, par exemple un niveau régional, un niveau national et souvent un niveau 
+international (l'Union Européenne dans le cas du continent européen). Chacune de ces juridictions 
+participe à la décision, compte retirer un surplus du projet et ne souhaite pas contribuer audelà de ce 
+surplus. Le processus de décision est alors une négociation entre ces différentes organisations, même 4 Si elle est mal conçue, elle peut être une cause de déviation accrue, si par exemple l'expertise sur le 
+projet et sa rentabilité revient à un public mal averti et parcellisé. E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 25 lorsqu'il y a une certaine relation hiérarchique entre elles. Par exemple les régions ont des 
+compétences sur lesquelles l'Etat n'a pas de prise. Le processus courant est que les régions proposent 
+des projets au financement étatique, dans la perspective d'un partage des coûts de réalisation. Le 
+contrat qui en résultera est soumis aux mécanismes usuels d'incitation à l'effort et d'asymétrie 
+d'information, l'échelon le plus bas étant à priori le mieux informé. Cette situation a été analysée par 
+plusieurs auteurs. Florio 2007 propose un contrat fondé sur une vérification ex –post de la rentabilité 
+du projet. Caillaud and alii 1996 ont aussi exploré l'interêt de multiples juridictions à travers un 
+mécanisme de révélation et font apparaître les conditions d'une décentralisation bénéfique. 
+Le dernier point qu'on voudrait aborder réside dans les fonctions données à l'ACB. Celles-ci sont 
+actuellement très limitées. Elles se bornent en général à vérifier que chaque projet s'il était réalisé 
+aujourd'hui, aurait un taux de rentabilité ou un bénéfice actualisé acceptables. Et encore les modalités 
+de calcul du taux de rentabilité ou du bénéfice actualisé sont-elles peu satisfaisantes : la durée de vie 
+du calcul est nettement inférieure à celle de l'investissement projeté. Ainsi en France la durée de vie 
+fixée par les directives en vigueur est de 50 ans, alors que les durées de vie des investissements de 
+transports sont bien supérieures, et leurs conséquences sur la vie économique, à travers par exemple 
+l'occupation des sols, l'est encore plus ; en outre aucune valeur résiduelle n'est prise en compte. 
+De ce fait résultent plusieurs conséquences. D'abord en l'état actuel, les procédures ne sont pas 
+aptes à établir un échéancier des investissements ni à choisir entre variantes, puisque pour ces 
+opérations, il est nécessaire de déterminer les dates optimales de mises en service des opérations, ce 
+qui est impossible avec les limites de l'indicateur calculé. La programmation est donc impossible, 
+sauf de manière très grossière. On peut obtenir mieux de l'outil utilisé, d'autant que les méthodes pour 
+aboutir à ces résultats et trouver la programmation optimale existent (Maurice and alii 2008) et leur 
+mise en oeuvre montre que les indicateurs habituels (taux de rentabilité interne, ratio Bénéfice par Euro 
+investi) sont de mauvaise qualité. Mais pour les obtenir il faut tenir compte de ce que le bénéfice 
+diffère selon l'année de mise en service, et éviter les incohérences qui résulteraient de comparer des 
+opérations mises en service à des dates différentes mais dont la durée de vie est limitée à 50 ans sans 
+valeur résiduelle, ce qui ne correspond pas à une réalité. 
+En outre en se limitant à une durée de vie de 50 ans, on gomme les conséquences de long terme 
+qui sont loin d'être négligeables surtout avec des taux d'actualisation relativement bas (4% en France 
+avec une baisse au-delà de 30 ans, 3 % au Royaume –Uni, avec là aussi une baisse sur le long terme), 
+comme le sont aussi les taux d'intérêt du marché. Or le long terme est une préoccupation prégnante, 
+comme le montrent les débats sur le réchauffement planétaire, ou les interrogations concernant les 
+conséquences des infrastructures sur la structuration de l'espace. Mais pour étendre le calcul 
+économique au long terme, par exemple jusqu'à la centaine d'années et au-delà, il faut tenir compte de 
+plusieurs phénomènes ; d'abord les prix relatifs sont susceptibles de changer de façon très importante, 
+et pour intégrer ces modifications le modèle doit prendre en compte les interactions d'une façon 
+générale. L'analyse partielle qui oublie les effets de revenu doit céder la place à un modèle d'équilibre 
+générale. Par ailleurs les comportements peuvent changer et les fonctions d'utilité aussi ; de ce fait 
+l'analyse sur le long terme doit intégrer, à titre d'analyse de risque, des ruptures des paramètres. On 
+dispose de peu d'informations sur ces facteurs, mais si on est convaincu qu'ils jouent un rôle, mieux 
+vaut les prendre en compte explicitement plutôt que de les passer sous silence (ou les intégrer dans une 
+valeur résiduelle choisie de façon arbitraire). Des simulations effectuées en prenant pour exemple le 
+prix du carbone, un des biens dont le coût est susceptible de varier le plus fortement dans un avenir 
+lointain, montrent que l'extension de l'horizon et la prise en compte des variations de prix relatifs dans 
+un cadre macro-économique entraine des conséquences importantes sur les choix à faire ; à rentabilité 
+immédiate équivalents, les programmes d'infrastructures économisant le carbone prennent sur le long 
+terme un énorme avantage sur ceux qui sont consommateurs de carbone, mais ceci n'apparaît que si on 
+prend en compte des durées de vie de l'ordre de la centaine d'année et plus, nettement supérieures aux 
+durées actuellement prises en compte (Quinet 2010). 
+Enfin, sur un plan plus pratique, la plupart des instructions pour l'exécution des analyses coût-
+bénéfice restent très théoriques dans la mesure où elles ne distinguent pas la manière de mener les 26 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 analyses selon le stade du projet. Or les questions qu'on se pose, comme les informations dont on 
+dispose diffèrent sensiblement selon que l'on se place au niveau des schémas directeurs ou à celui du 
+choix des variantes techniques d'un même projet. Normalement c'est au niveau amont, à celui des 
+schémas directeurs, que les choix sont les plus lourds de conséquences, puisqu'ils engagent tout 
+l'avenir du projet ; malheureusement c'est actuellement à ce niveau que l'analyse coût-bénéfice est le 
+moins utilisée. Il serait nécessaire de fournir des méthodes permettant de l'adapter à ce stade de 
+décision. Ces méthodes devraient répondre à de multiples défis, en particulier : 
+-Aboutir à des résultats quantifiés à un stade de projet où d'habitude on sait peu de choses sur 
+lui. 
+-Se projeter sur le long terme ce qui implique la prise en compte de prix relatifs avec un 
+bouclage entre le secteur des transports et le reste de l'économie, mais, s'agissant du long 
+terme à travers une modélisation forcément grossière. 
+-Analyser de multiples scénarios correspondant à un balayage des éventualités susceptibles de 
+se réaliser dans le futur lointain. E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 27 7. CONCLUSION Sous l'influence des changements dans la société et des progrès dans l'analyse économique, la 
+doctrine d'évaluation des projets en France a connu depuis quelques années une transformation 
+radicale. Partant d'une situation en 2004-2005 où la doctrine était clairement à l'application de la 
+théorie économique des surplus et de l'analyse uni-critère, on s'est retrouvé à partir de 2007-2008 
+dans une doctrine très clairement multi-critère. Mais on voit que la mise en place des modalités 
+précises de cette doctrine est très lente. Ceci est du pour une part au mode de gouvernance introduit 
+par la concertation du Grenelle de l'environnement, une gouvernance à 5 faite d'essai-erreur, 
+d'expériences et de retours sur expérience. Mais ceci est du aussi au fait que l'établissement de critères 
+non redondants et couvrant tous les aspects intéressant les décideurs est chose difficile. Si l'on analyse 
+les forces et faiblesses des deux types d'évaluation, on s'aperçoit que les deux procédures sont autant 
+complémentaires que concurrentes ; l'analyse coût-bénéfice fournit un cadre rigoureux aux 
+présentations de l'analyse multi –critère, elle permet de mieux mesurer les relations de cause à effet 
+entre le projet et les impacts qu'on veut mesurer. C'est une raison pour porter l'attention sur les 
+progrès possibles de l'analyse coût –bénéfice, analysés dans la dernière partie. Ces progrès sont de 
+diverses natures. Ils portent d'abord sur les aspects méthodologiques : il est souhaitable que l'analyse 
+déborde le cadre partiel pour s'intégrer dans des modèles d'équilibre général ; cela permettrait de tenir 
+compte des effets de répartition spatiale, de la concurrence imparfaite, et de la répartition des 
+avantages, des préoccupations constantes des décideurs politiques. Il faudrait pour cela améliorer notre 
+stock de savoir sur ces sujets, sans parler de la poursuite des investigations sur les sujets classiques 
+comme la valeur du temps ou les modèles dynamiques. Enfin l'analyse coût –bénéfice devrait être 
+mieux et différemment utilisée ; elle est trop limitée dans la vérification de la rentabilité d'un projet 
+donné, elle néglige trop le long terme ; les méthodes qu'elle met en oeuvre sont bien adaptées pour 
+l'analyse des variantes d'un projet déjà choisi, mais elles ne peuvent pas être complètement mises en 
+oeuvre dans les stades amont, ceux où les décisions ont le plus besoin d'être éclairées. Les progrès sur 
+ces deux plans passent par la mise en oeuvre de méthodes nouvelles intégrant les conséquences des 
+projets sur l'ensemble de l'économie à travers des modèles généraux dépassant les hypothèses 
+d'équilibre partiel usuelles. 28 E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 BIBLIOGRAPHIE Arnott, R., de Palma, A., and R. Lindsey (1993) A Structural Model of Peak-Period Congestion: A 
+Traffic Bottleneck with Elastic Demand," American Economic Review, vol. 83(1), 161-179. 
+Beuthe M., Ch. Bouffioux, C. Krier and M. Mouchart (2008), A comparison of Conjoint, multi-
+criteria, conditional logit and neural network analyses for rank-ordered preference data, in M. 
+Ben-Akiva, H. Meersman and E. Van de Voorde, Recent developments in transport modelling, 
+Emerald Group Publishing Ltd., Bingley, UK., Ch. 9, 157-178. 
+Bhat, C.R., J.Y. Guo, S. Srinivasan, and A. Sivakumar (2004) A Comprehensive Econometric 
+Microsimulator for Daily Activity-Travel Patterns. In Transportation Research Record: Journal 
+of the Transportation Research Board 1894, pp. 57-66. 
+Boiteux, M. and L. Baumstark: 2001, `Transports: choix de investissements et co^ut des nuisances'. 
+Commissariat General du Plan, Paris. 
+Bröcker J. 2005. Spatial Effects of European Transport Initiatives: An Update. In Territorial impact of 
+EU transport and TEN policies, ESPON project 2.1.1, 
+http://www.espon.eu/mmp/online/website/content/projects/243/239/file_374/fr-
+2.1.1_revised.pdf 
+Caillaud B., Jullien B, Picard P. (1996) National vs European incentive policies :Bargaining, 
+information and coordination European Economic Review 40 ( 1996). 
+Calthrop, E., De Borger B., Proost S.,(2009),  " Cost-Benefit analysis of transport investments in 
+distorted economies "  Transportation research Part B forthcoming 
+CGDD (Commissariat Général du Développement Durable) 2009, Annual Report to the Parliament on 
+implementing France's Environment Round Table commitments. 
+Dupuit, Jules (1849). De l'influence des péages sur l'utilité des voies de communication. Annales des 
+ponts et chaussées, 17, mémoires et documents, 207. 
+Echenique, M. (2004): Econometric models of land use and transportation. In: Hensher, D.A., Button, 
+K.J. (Hg.): Transport Geography and Spatial Systems. Handbook 5 of Handbook in Transport. 
+Kidlington, UK: Pergamon/Elsevier Science, 185-202. 
+Etude d'impact du Projet de loi de Grenelle de l'environnement 2008. Mimeo Ministère de l'écologie. 
+Florio M (editor) 2007  " Cost benefit analysis and incentives in Evaluation "  Edward Elgar,2007. 
+Flyvberg B 2009, Survival of the unfittest : why the worst infrastructure gest built Oxford economic 
+review, volume 25 number 3 pp 344-367. 
+Graham DJ (2007a) 'Agglomeration, productivity and transport investment' Journal of Transport 
+Economics and Policy, 41, 317-343. 
+Grenelle de l'Environnement website: http://www.legrenelle-environnement.fr/grenelle-
+environnement/ 
+Gunn, H. F. (2007), An Introduction to the Valuation of Travel-Time Savings and Losses, in 
+Handbook of Transport Modelling, Second edition, Vol. 1., D. A. Hensher and K. J. Button, ed., 
+Elsevier Science Ltd. 
+HEATCO (2005) Current practice in project appraisals in Europe. Analysis of Country Reports. 
+Deliverable 1. http://heatco.ier.uni-stuttgart.de/ 
+Hensher D, Valuation of travel time savings, in « Handbook of transport economics » by de Palma A, 
+Lindsey R, Quinet E, and Vickerman R, Edward Elgar, forthcoming. 
+Laird J, Nellthorp H, Mackie P 2005 Network effects and total economic impact in transport appraisal 
+Transport Policy 12 (2005) 537–544. E. Quinet — Document de référence 2010-17 — © OCDE/FIT 2010 29 Loi Grenelle I :Loi 2009-967 du 3 Août 2009 de programmation relative à la mise en oeuvre du 
+Grenelle de l'environnement Journal Officiel de la République Française. 
+Loi Grenelle II : Loi du 29 juin 2010 portant engagement national pour l'environnement, Journal 
+Officiel de la République Française. 
+Mackie, P., Wardman, M., Fowkes, A., Whelan, G., Nellthorp, J. and J. Bates (2003), Values of travel 
+time savings in the UK -Summary Report, Report to the Department of Transport, Institute for 
+Transport Studies, University of Leeds, Leeds. 
+www.its.leeds.ac.uk/working/downloads/VOTSummary.pdf 
+Maurice J. Quinet E. and Sauvant A. (2007) Optimisation et decentralisation des investissements de 
+transports, Economie et Prévision, 2007, N°175-176, pp 31-51. 
+Mayeres, I., Proost, S. (1997), Optimal tax and public investment rules for congestion type of 
+externalities, Scandinavian Journal of Economics 99 (2), p. 261-279. 
+Meunier D and Quinet E (2010) Application of transport economics and imperfect competition. 
+Ministère de l'écologie 2010 Avant projet de Schéma National des Infrastructures de Transport soumis 
+à concertation. 
+Ministère de l'Equipement 2004 : instruction cadre du 25 Mars 2004 relative à l'harmonisation des 
+méthodes d'évaluation des grands projets d'infrastructure de transport. 
+Ministère de l'Equipement 2005 : circulaire du 27 Mai : Mise à jour de l'instruction cadre du 25 Mars 
+2004. 
+Ministère de l'écologie 2008 a Circulaire du 9 decembre 2008 relative à l'établissement d'une charte 
+qualité de l'évaluation. 
+Ministère de l'écologie 2008 b Circulaire du 9 decembre 2008 relative au référentiel d'évaluation au 
+ministère de l'écologie, de l'energie, du développement durable et de l'aménagement du 
+territoire. 
+Ministère de l'écologie 2010 Avant projet de Schéma National d'Infrastructures de Transport soumis à 
+concertation. 
+Ministère de l'Equipement 2007 projet de circulaire sur l'évaluation des projets routiers, document 
+interne. 
+Ministère de l'Equipement n°98-99 DU 20 OCTOBRE 1998 Méthodes d'évaluation economique des 
+investissements routiers en rase campagne. 
+Ottaviano, G.I.P., T. Tabuchi and J.-F. Thisse (2002) Agglomeration. 
+and trade revisited, International Economic Review 43, 409-436. 
+Quinet A., Baumstark, L., Celestin-Urbain J. 2008: La valeur tutelaire du carbone ; centre d'analyse 
+strategique, Paris. 
+Quinet E (2007)  " Cost Benefit Analysis of Transport Projects in France "  in  " Cost benefit analysis and 
+incentives in Evaluation "  edited by M Florio, Edward Elgar, 2007. 
+Quinet E (2010) Issues of Price definition in CBA : imperfect competition and relative prices 
+divergences, Transition Studies Reviw, DOI 10.1007/s11300-010-0164-0 
+Venables AJ (2007) `Evaluating urban transport improvements: cost-benefit analysis in the presence 
+of agglomeration and income taxation', Journal of Transport Economics and Policy, 41, 
+173-188. 
+Sanchez-Borras M, Nash C, Abrantes P and Lopez-Pita A (2010) Rail access charges and the 
+competitiveness os high speed trains Transport Policy, 17 pp 102-108. 
+Vickerman R 2007 Recent evolution of Research into the wider Economic Benefits of Transport 
+Infrastructure Investment Discussion paper n°2007-9, ITF. 
+Wegener, M. (2004): Overview of land-use transport models. In: Hensher, D.A., Button, K. (eds.): 
+Transport Geography and Spatial Systems. Handbook Kidlington: Pergamon/Elsevier Science, 
+127-146. 
+Wegener, M. (2009): From macro to micro – how much micro is too much?. Paper presented at the 
+International Seminar "Transport Knowledge and Planning Practice", University of Amsterdam, 
+October 2009. http://www.spiekermann-wegener.de/pub/pdf/MW_Amsterdam_ 151009.pdf. 

@@ -1,0 +1,2201 @@
+Please cite this paper as: Astolfi, R. et al. (2016),  " The use of short-term indicators and 
+survey data for predicting turning points in economic activity: 
+A performance analysis of the OECD system of CLIs during 
+the Great Recession " , OECD Statistics Working Papers, 
+2016/08, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/5jlz4gs2pkhf-en OECD Statistics Working Papers 
+2016/08 The use of short-term 
+indicators and survey data 
+for predicting turning points 
+in economic activity A PERFORMANCE ANALYSIS OF THE OECD 
+SYSTEM OF CLIS DURING THE GREAT 
+RECESSION Roberto Astolfi, Michela Gamba, 
+Emmanuelle Guidetti, Pierre-
+Alain Pionnier Unclassified STD/DOC(2016)8 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 20-May-2016 
+___________________________________________________________________________________________ 
+English -Or. English STATISTICS DIRECTORATE THE USE OF SHORT-TERM INDICATORS AND SURVEY DATA FOR PREDICTING TURNING 
+POINTS IN ECONOMIC ACTIVITY: A PERFORMANCE ANALYSIS OF THE OECD SYSTEM OF 
+CLIS DURING THE GREAT RECESSION WORKING PAPER No 74 Contact: Pierre-Alain Pionnier, Statistics Directorate 
+Tel. +(33-1) 45 24 88 35 
+E-mail: Pierre-Alain.PIONNIER@oecd.org JT03396365 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. STD/DOC(2016)8 
+Unclassified English -Or. English Cancels & replaces the same document of 18 May 2016 STD/DOC(2016)8 2 OECD STATISTICS WORKING PAPER SERIES The OECD Statistics Working Paper Series -managed by the OECD Statistics Directorate -is 
+designed to make available in a timely fashion and to a wider readership selected studies prepared by 
+OECD staff or by outside consultants working on OECD projects. The papers included are of a technical, 
+methodological or statistical policy nature and relate to statistical work relevant to the Organisation. The 
+Working Papers are generally available only in their original language -English or French -with a 
+summary in the other. OECD Working Papers should not be reported as representing the official views of the OECD or of its 
+member countries. The opinions expressed and arguments employed are those of the author. Working Papers describe preliminary results or research in progress by the author and are published to 
+stimulate discussion on a broad range of issues on which the OECD works. Comments on Working Papers 
+are welcomed, and may be sent to the Statistics Directorate, OECD, 2 rue André-Pascal, 75775 Paris 
+Cedex 16, France. This document and any map included herein are without prejudice to the status of or sovereignty over 
+any territory, to the delimitation of international frontiers and boundaries and to the name of any territory, 
+city or area. The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli 
+authorities. The use of such data by the OECD is without prejudice to the status of the Golan Heights, East 
+Jerusalem and Israeli settlements in the West Bank under the terms of international law. The release of this working paper has been authorised by Martine Durand, OECD Chief Statistician 
+and Director of the OECD Statistics Directorate. www.oecd.org/std/publicationsdocuments/workingpapers/ STD/DOC(2016)8 3 TABLE OF CONTENTS 1. Introduction .......................................................................................................................................... 5 
+2. Informing policy makers on recent evolutions of the business cycle: the OECD Main Economic 
+Indicators (MEI) database ............................................................................................................................ 6 
+2.1. 
+Quantitative indicators ................................................................................................................. 6 
+2.2. 
+Qualitative indicators ................................................................................................................... 8 
+3. Informing policy makers on future developments of the business cycle: the OECD System of 
+Composite Leading Indicators (CLIs).......................................................................................................... 9 
+3.1. 
+Chronology of events: what are the CLIs exactly anticipating? .................................................. 9 
+3.2. 
+Construction of OECD CLIs ..................................................................................................... 10 
+3.2.1. CLI components .................................................................................................................... 12 
+3.2.2. Leading properties of CLI components ................................................................................. 13 
+4. How well did the CLIs perform during the Great Recession? Ex-post and real-time analysis for G7 
+countries ..................................................................................................................................................... 14 
+4.1. 
+When were the turning points of the Great Recession first identified and announced? ............ 14 
+4.2. 
+Ex-post analysis ......................................................................................................................... 16 
+4.2.1. Assessment of CLI leading properties based on the latest CLI vintage ................................ 16 
+4.2.2. The Great Recession through the lenses of CLI components ................................................ 17 
+4.3. 
+Real-time analysis ..................................................................................................................... 19 
+4.3.1. Stability of turning points over time ...................................................................................... 20 
+4.3.2. Timeliness of the formal identification of turning points ...................................................... 24 
+5. Conclusion .......................................................................................................................................... 26 
+References .................................................................................................................................................. 27 
+Appendix 1 ................................................................................................................................................. 28 
+The OECD Main Economic Indicators (MEI) database and the characteristics of short-term statistics: 
+background information for Table 1 .......................................................................................................... 28 
+Business tendency and consumer surveys (BTCS) ............................................................................. 29 
+Financial indicators ............................................................................................................................. 29 
+Real indicators .................................................................................................................................... 29 
+International trade data ....................................................................................................................... 30 
+Employment data ................................................................................................................................ 30 
+Appendix 2 ................................................................................................................................................. 31 
+OECD CLI performance during the Great Recession in G7 countries ...................................................... 31 
+Appendix 3 ................................................................................................................................................. 35 
+Score system for the Press Release headlines ............................................................................................ 35 STD/DOC(2016)8 4 THE USE OF SHORT-TERM INDICATORS AND SURVEY DATA FOR PREDICTING 
+TURNING POINTS IN ECONOMIC ACTIVITY: A PERFORMANCE ANALYSIS OF THE OECD SYSTEM OF CLIS DURING THE GREAT RECESSION 
+1 By Roberto ASTOLFI, Michela GAMBA, Emmanuelle GUIDETTI and Pierre-Alain PIONNIER ABSTRACT Policy makers require timely and high quality statistics about the recent evolution of the business cycle and 
+its likely developments in the near future. In this respect, the OECD plays a leading role in providing 
+policy makers with a unique collection of internationally comparative high-frequency quantitative and 
+qualitative data included in the Main Economic Indicators (MEI) database. The MEI, released monthly, 
+offers an overview of recent developments of economies in the 34 OECD as well as major emerging 
+countries. In addition the MEI includes information on the Composite Leading Indicators (CLIs), a system 
+of indicators designed to anticipate the turning points in economic activity. After reviewing the main features of the statistics available in the MEI to inform policy makers, this paper 
+discusses the performance of the CLIs during the Great Recession. This performance is assessed using both 
+ex-post and real-time analyses. The analyses evaluate the ability of the OECD CLIs to anticipate the peak 
+and the subsequent trough of the Great Recession in G7 countries, and the extent to which the initial signal 
+has been maintained over time. Results suggest that the CLIs were able to anticipate the Great Recession in 
+G7 countries at an early stage, although, by their very nature, they could not give an indication about the 
+depth of the coming crisis. Our results confirm the conclusions previously reached by Gyomai and Guidetti 
+(2011) who relied on an ex-post analysis. RÉSUMÉ Les décideurs politiques ont besoin de statistiques à jour et de bonne qualité sur la conjoncture économique 
+récente et son évolution prévisible. L'OCDE joue un rôle important dans ce domaine avec la publication de 
+la base de données des Principaux Indicateurs Économiques (PIE) regroupant des statistiques mensuelles 
+quantitatives et qualitatives comparables au niveau international. Les PIE, publiés mensuellement, 
+permettent d'avoir une vue d'ensemble des développements économiques les plus récents survenus dans 
+les 34 pays de l'OCDE ainsi que dans les principaux pays émergents. Dans cette base de données figurent 
+également les Indicateurs Composites Avancés (ICA) de l'OCDE, élaborés pour anticiper les points de 
+retournement de l'activité économique. Après un examen des principales caractéristiques des statistiques disponibles dans les PIE, ce document 
+évalue la performance des Indicateurs Composites Avancés de l'OCDE pendant la Grande Récession. Des 
+analyses ex-post et en temps réel sont menées pour apprécier la capacité de ces indicateurs à anticiper le pic 
+et le creux de la Grande Récession dans les pays du G7, ainsi que la stabilité dans le temps des points de 
+retournement détectés. Les résultats suggèrent que les ICA ont été en mesure d'annoncer assez tôt les 
+points de retournement étudiés mais que, par leur nature même, ils ne pouvaient en aucun cas donner une 
+indication sur la profondeur de la crise à venir. Nos résultats confirment les conclusions précédemment 
+obtenues par Gyomai et Guidetti (2011) à partir d'une analyse ex-post. 1 The authors would like to thank Martine Durand, Oliver Roehn, Jean-Luc Schneider and Peter van de Ven for 
+useful comments on earlier drafts of this paper. STD/DOC(2016)8 5 1. 
+Introduction 1. 
+GDP and related national accounts' statistics provide policymakers with an essential barometer of 
+economic activity. Nevertheless, measuring economic activity, collecting and processing data from all 
+economic sectors necessarily takes some time. For instance, no single country publishes quarterly GDP 
+earlier than one month after the end of the reference quarter, and it may be substantially revised afterwards. 2. 
+The delay with which GDP is published explains why policy makers increasingly require 
+additional shorter-term indicators. Some of these indicators, such as industrial production or retail sales, 
+are used as direct inputs into the construction of national accounts and are often available at a higher, 
+generally monthly, frequency. Others, such as business tendency and consumer surveys, are not directly 
+used in the compilation of national accounts but provide very useful information for constructing early 
+estimates and short-term forecasts of quarterly GDP. 3. 
+The OECD plays a leading role in providing internationally comparable short-term indicators and 
+survey data to inform policymaking, both within and outside the Organisation. Indeed, the Main Economic 
+Indicators (MEI) database is one of the largest collections of infra-annual economic indicators for OECD 
+member and key partner countries dating back to the 1960s. The MEI database is widely downloaded by 
+economic analysts and other users. 4. 
+The MEI database is also extensively used by economists from the OECD Economics 
+Department in charge of the biannual OECD economic projections published in the OECD Economic 
+Outlook and of Interim Assessments of the global economic situation also published twice a year. For this 
+purpose, the Economics Department uses short-term indicator models to forecast GDP growth over the 
+next quarters 2 . In addition, the OECD Statistics Directorate uses the set of short-term MEI economic 
+indicators to compile the OECD Composite Leading Indicators (CLIs) that are published every month. The 
+objective of the CLIs is to anticipate turning points in economic activity relative to trend. These two OECD 
+forecasting activities reinforce and complement each other, as GDP growth is typically more difficult to 
+forecast in the neighbourhood of turning points, leading to an increased risk of forecasting errors around 
+these points. In turn, OECD projections of economic activity, and thus indirectly the underlying set of 
+short-term indicators, serve as a basis to assess the macro-economic policy requirements -monetary and 
+fiscal -going forward in both OECD and major emerging economies. 5. 
+After reviewing the main features of the MEI to inform policy makers on the recent evolution of 
+the business cycles, this paper briefly presents the methodology used by the OECD to compile the CLIs 
+and finally discusses the performance of the CLIs during the Great Recession. The performance is assessed 
+using both ex-post and real-time analyses. The analyses evaluate the ability of OECD CLIs to anticipate 
+the peak and the subsequent trough of the Great Recession in G7 countries, and the extent to which the 
+initial signal has been maintained over time. Results suggest that the CLIs were able to anticipate the Great 
+Recession in G7 countries some months in advance, although, by their very nature, they could not give an 
+indication about the depth of the coming crisis. Our results confirm the conclusions previously reached by 
+Gyomai and Guidetti (2011) who relied on an ex-post analysis. 2 A description of the OECD short-term indicator model and an analysis of their performance during the Great 
+Recession may be found in Pain et al. (2014). STD/DOC(2016)8 6 2. 
+Informing policy makers on recent evolutions of the business cycle: the OECD Main 
+Economic Indicators (MEI) database 6. 
+With the Main Economic Indicators (MEI) database, the OECD provides one of the largest 
+collections of infra-annual short-term indicators from the 1960s onwards covering OECD and major 
+emerging countries. The database consists of a wide range of high-frequency quantitative data including 
+quarterly national accounts, real indicators on production and sales, international trade data, financial and 
+monetary data, data on labour costs, producer and consumer prices. Besides these quantitative indicators, 
+the MEI database also includes a large collection of qualitative tendency surveys where firms and 
+households are asked monthly or quarterly about the past and current economic situation and their 
+expectations on future economic developments. These two sets of statistics are of high importance for 
+policy makers as they provide a picture of the recent development and likely evolution of the business 
+cycle. 7. 
+The OECD devotes constant efforts to enhance the quality of the MEI data in terms of accuracy, 
+transparency, timeliness, relevance, accessibility and international comparability, i.e. all dimensions 
+included in the OECD Quality Framework 3 . In addition, in recent years efforts have also been put into the 
+development of detailed methodological information, for both country-specific and international indicators. 
+Such information on the methodologies underlying the compilation of statistics provides data users with an 
+assessment as accurate as possible of the various dimensions of data quality, as well as of their 
+international comparability. 2.1. 
+Quantitative indicators 8. 
+Quantitative indicators provide short-term information on key sectors of economic activity 
+including industry, construction, wholesale and retail trade as well as a selection of market services. 
+Indicators cover production, sales, orders received, work started, work in progress, and stocks 
+accumulated. They are collected in almost all OECD countries at monthly or quarterly frequency using 
+surveys or administrative sources depending upon subjects and countries. 9. 
+Table 1 lists the main characteristics of short-term indicators available in the OECD Main 
+Economic Indicators (MEI) database in terms of data coverage, timeliness, frequency and international 
+comparability. Indicators are grouped in 5 subject areas. In addition to qualitative indicators from business 
+and consumer tendency surveys (see below), they consist of financial indicators, real indicators, 
+international trade and employment statistics. Additional background information can also be found in 
+Appendix 2. 3 See the Quality framework and guidelines for OECD statistical activities, available at: 
+http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=std/qfs%282011%291&doclanguage=en STD/DOC(2016)8 7 Table 1. Main characteristics of short-term statistics available at the OECD 4 Source: Main Economic Indicators (MEI) database, OECD. 
+Note Data coverage is strongly linked to the recommended target series as described in the OECD Data collection programme. While data at national level may provide more details in terms of sector breakdowns and coverage, the aim of the 
+OECD collection programme is to cover a comprehensive selection of short-term measures to fully capture the economic activity of a country. 
+Timeliness indicates the delay for which a series becomes available to the public. As the shortest delay is desirable in order to improve the leading property of an indicator, delays of extra periods from the standard are here documented. The 
+need for data harmonisation may introduce a short delay of 1 day between the moment where data are released at the country level and the moment they are released in the MEI database. 
+Frequency indicates the monthly or quarterly periodicity of short-term indicators. The frequency is expressed as a percentage (%) of the total available series. For each subject, the reference to standardised definitions is provided as a 
+benchmark for assessing international comparability. Any departure from the standard that may affect the comparability of indicators across countries is documented in this column, expressed as a percentage (%) of the overall achieved 
+comparability. 4 Appendix 1complements this Table. M 
+Q 
+M 
+Q 
+M 
+Q 
+M 
+Q 
+M 
+Q Australia  
+m-0 23 
+77 
+fair  
+m-0 
+ 
+ 
+ 
+m-2 38 
+63  
+ 
+m-2 
+ 
+ 
+ 
+d-15 
+ 
+ Austria  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ p oor 
+m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Belgium  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Canada 
+p oor 
+1  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-15 
+ 
+ Chile  m-1  fair  
+m-0 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-60 
+ 
+ Czech Rep ublic  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3 
+80 
+20  
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Denmark  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3 
+93 
+7  
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Estonia  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ 
+m-2 86 
+14  
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Finland  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ France  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ > d-75  
+ Germany  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Greece  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-60 
+ 
+ Hungary  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ m-3  
+ 
+ 
+d-75 
+ 
+ Iceland 
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+n.a.  
+m-0 
+ 
+ p oor 
+m-4  
+ 
+ 
+m-2 
+ 
+ 
+ > d-75  
+ Ireland 
+n.a. 
+n.a. 
+n.a. 
+n.a. 
+n.a.  
+m-0 
+ 
+ 
+ m-3 
+86 
+14  
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Israel  m-1  fair  
+m-0 
+ 
+ p oor 
+m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-35 
+ 
+ Italy  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ m-3  
+ 
+ 
+d-75 
+ 
+ Jap an  
+m-0 11 
+89  
+ 
+m-0 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-35 
+ 
+ Korea  
+m-0 
+ 
+ 
+ 
+m-0 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-35 
+ 
+ Luxembourg  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ > d-75  
+ M exico  m-1  fair  
+m-0 
+ 
+ p oor 
+m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-60 
+ 
+ Netherlands  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ New Zealand  
+m-0 
+ fair  
+m-0 
+ 
+ 
+ 
+m-2 13 
+88  
+ 
+m-2 
+ 
+ 
+ 
+d-35 
+ 
+ Norway  
+m-0 
+ fair  
+m-0 
+ 
+ 
+ 
+m-2 88 
+13  
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Poland  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ m-3  
+ 
+ > d-75  
+ Portugal  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Slovak Rep ublic  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ p oor m-2 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ > d-75  
+ Slovenia  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Sp ain  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Sweden  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ m-3 
+91 
+9  
+ 
+m-2 
+ 
+ 
+ 
+d-60 
+ 
+ Switzerland  
+m-0 65 
+35 
+fair  
+m-0 
+ 
+ 
+ m-3 
+44 
+56  
+ 
+m-2 
+ 
+ 
+ 
+d-75 
+ 
+ Turkey  
+m-0 
+ 
+ 
+ 
+m-0 
+ 
+ p oor 
+m-3  
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-60 
+ 
+ United Kingdom  
+m-0 93 
+7  
+ 
+m-0 
+ 
+ 
+ 
+m-2 85 
+15  
+ 
+m-2 
+ 
+ 
+ > d-75  
+ United States  
+m-0 
+ 
+ 
+ 
+m-0 
+ 
+ 
+ 
+m-1 
+ 
+ 
+ 
+m-2 
+ 
+ 
+ 
+d-15 
+ 
+ Brazil  
+m-0 
+ 
+fair 
+ 
+m-0 
+ fair 
+p oor m-2 
+ 
+ 
+ 
+m-2 
+ 
+ fair d-30 
+ 
+ China 
+n.a. 
+m-2  p oor  m-1  fair 
+p oor 
+m-3  
+ 
+ 
+ 
+ n.a 
+India  q-2  
+ 
+ 
+m-0 
+ fair 
+p oor 
+m-3  
+ 
+ 
+ 
+ n.a 
+Indonesia  
+m-0 
+13 
+87 
+fair 
+ 
+m-0 
+ fair 
+p oor 
+p oor  
+ 
+ 
+ 
+ n.a 
+Russian Federation  
+m-0 
+36 
+64 
+ 
+ m-1  fair 
+p oor m-2 
+ 
+ 
+ 
+ 
+ 
+ 
+d-30 
+ 
+ South Africa  
+m-0 
+ 
+ 
+ 
+m-0 
+ 
+ 
+ m-3  
+ 
+ 
+ 
+ fair d-30 
+ 
+  100% 
+p oor 
+less than half covered 
+fair 
+more than 3/4 covered EM PLOYM ENT Data 
+coverage Timeliness 
+(day s) Frequency 
+(%) Int'l comp arability 
+(%) Timeliness 
+(months) Frequency 
+(%) Int'l comp arability 
+(%) Int'l comp arability 
+(%) Int'l comp arability 
+(%) Frequency 
+(%) Frequency 
+(%) OECD MEI Database BRIICS OECD countries BUSINESS & CONSUM ER TENDENCY 
+FINANCIAL STATISTICS 
+REAL ECONOM Y 
+INTERNATIONAL TRADE Frequency 
+(%) Data 
+coverage Timeliness 
+(months) Int'l comp arability 
+(%) Data 
+coverage Timeliness 
+(months) Data 
+coverage Timeliness 
+(months) Data 
+coverage STD/DOC(2016)8 8 10. 
+While data coverage remains challenging for the BRIICS and a few OECD member countries, 
+overall it is satisfactory for the target series 5 in the real economy sector. The target for timeliness is a two-
+month delay compared to the reference period, although only a third of OECD countries meet this target 
+with the majority having a further delay of one to two months (see Table 1). As the quantitative short-term 
+statistics available at the OECD are usually collected via national statistical offices and central banks, they 
+normally follow agreed international standards, assuring their quality and comparability across countries. 2.2. 
+Qualitative indicators 11. 
+Business Tendency and Consumer Surveys (BTCS) are monthly qualitative statistics monitoring 
+the current economic situation and expectations for the near term. Historically, the main purpose of BTCS 
+was to collect information on business conditions for the benefit of respondents. Hence, surveys were 
+mainly carried out by trade associations. Nowadays, these surveys are also considered an important tool for 
+economic monitoring, nowcasting, short-term forecasting and economic research. 12. 
+As a consequence, a large number of private research institutes, national statistical offices and 
+Central Banks are currently involved in the collection and analysis of these data. Main BTCS users 
+include: 
+@BULLET International organisations such as the OECD, the International Monetary Fund (IMF), the 
+European Commission (EC), and the European Central Bank (ECB) 
+@BULLET National policymakers responsible for economic policy, mainly working in central banks or 
+economic and finance ministries 
+@BULLET Economic research institutes, national statistical institutes, businesses and economic analysts 
+in general 
+@BULLET Media 13. 
+Business Tendency Surveys generally cover four economic sectors: industry, construction, retail 
+trade and services. Agriculture and non-market services are not included as they generally respond slowly, 
+if at all, to movements in the business cycle. In addition to their sensitivity to business cycles, industry, 
+construction and trade are also interesting for economic analysis because movements in these sectors are 
+usually correlated, respectively, with three key macro-economic aggregates – industry with value added, 
+construction with gross fixed capital formation, and retail trade with private consumption. 14. 
+Consumer surveys also provide useful qualitative information for monitoring the current 
+economic situation. They are based on a sample of households who are asked about their intentions 
+regarding major purchases, their current economic situation compared to the recent past, and their 
+expectations for the immediate future. 15. 
+International comparability of BTS is less evident as no unique set of international standards 
+exists. In recent years, the OECD has encouraged countries to provide data in accordance with the updated 
+European Commission guidelines (see European Commission, 2014). A Handbook on Economic Tendency 
+Surveys, to which the OECD contributed, is due to be published in 2016 under the auspices of the United 
+Nations (see United Nations, 2016) with the aim of promoting the development of better and more 
+comparable data. Thanks to these international guidelines, and with very few exceptions, the BTCS data 
+collected by the OECD are now fully comparable across countries. 5 Details on the target list for each area can be found at http://www.oecd.org/statistics/data-collection/. STD/DOC(2016)8 9 16. 
+BTCS data are particularly attractive because they are not revised, usually available right at the 
+end of the month (see Table 1), and often provide advance warning of changes in aggregate economic 
+activity. Moreover, the cyclical profile of survey data is easy to detect because they contain no trend. In 
+addition, the data reflect assessments and expectations of the economic situation by market participants, 
+firm managers or consumers. 17. 
+Confidence indicators are derived from tendency survey results. They summarise key survey 
+variables in a single synthetic indicator that is well correlated with, for instance, GDP growth or output 
+growth in specific sectors. Because they are summary indicators, confidence indicators are easier to 
+understand by a wider audience. As an example, the European Commission compiles the Economic 
+Sentiment Indicator (ESI) 6 based on information on developments in industrial, construction, retail, 
+services and consumer confidence for the European Union and the Euro Area aggregates. 3. 
+Informing policy makers on future developments of the business cycle: the OECD System 
+of Composite Leading Indicators (CLIs) 18. 
+Short-term indicators and tendency surveys can be usefully combined to anticipate turning points 
+in economic activity relative to trend. This is precisely what is done in the OECD system of Composite 
+Leading Indicator (CLIs). 19. 
+The OECD system of CLIs was first developed in the early 1970s amidst renewed interest in 
+business cycle research. The deep and global recession of the mid-1970s reinforced the need for such a 
+tool, leading to the creation of a dedicated OECD Working Party on Cyclical Analysis and Leading 
+indicators in 1978. The work of this group established the broad parameters, shape, and purpose of the 
+OECD System of CLIs, whose underlying structure has remained broadly unchanged since 1981. 20. 
+Published on a monthly basis and covering almost all OECD countries 7 as well as the largest 
+emerging countries, the OECD CLIs are designed to anticipate turning points in GDP. They complement 
+quantitative point forecasts which are usually released at later stages and less frequently 8 . Contrary to 
+quantitative forecasts however, CLIs are optimised to detect a phase shift in the business cycle (from 
+expansion to contraction or vice-versa) and not to assess the speed or strength of a recovery or downturn. 
+In other words, CLIs must be judged for their ability to forecast turning points, not for their ability to track 
+GDP growth at every point in time -that is, CLIs provide event forecasts, the event being the occurrence of 
+a turning point in economic activity, and not point forecasts. 3.1. 
+Chronology of events: what are the CLIs exactly anticipating? 21. 
+The exact dating of turning points requires some time after they manifest. This is because any 
+dating algorithm 9 necessitates a certain number of observations after the turning point to be able to single 
+out a maximum (peak) or a minimum (trough) in the time series (see distance a in Figure 1). Nonetheless, a 
+constant monitoring of the evolution of CLI growth rates allows the OECD to announce to the public the 
+possibility that a turning point is approaching (distance b in Figure 1) even if the turning point has not yet 
+been formally identified. 6 Details on the construction of the ESI may be found in European Commission (2014). Monthly releases of this 
+sentiment indicator are available at: http://ec.europa.eu/economy_finance/db_indicators/surveys/index_en.htm. 7 No CLIs are compiled for Iceland and Luxembourg. 8 OECD short-term (point) forecasting models are presented in Sédillot and Pain (2003) and Pain et al. (2014). 9 The OECD employs a simplified version of the Bry-Boschan algorithm to date the turning points (Gyomai et al., 
+2016). STD/DOC(2016)8 10 22. 
+The early announcement of approaching peaks or troughs may lead by a certain number of 
+months the beginning of recessions and recoveries in economic activity (distance b+c in Figure 1). 
+However, recessions and recoveries in economic activity can only be observed after Quarterly National 
+Accounts (QNA) are released (distance b+c+d). As is the case for the CLIs, the formal identification of 
+turning points in QNA data also require time after they manifest (distance e). 23. 
+Hence, the ex-post analysis evaluates to what extent CLI turning points, located with hindsight 
+using all the information available today, lead peaks and troughs in GDP (distance a+c). On the other hand, 
+real time analysis is interested in (1) the lag between the initial announcement of a possible turning point 
+and the date at which it occurs in economic activity (distance b+c); and (2) the interval between the formal 
+identification of turning points in the CLI and GDP (distance c+d+e). Figure 1. Chronology of events 3.2. 
+Construction of OECD CLIs 24. 
+In the literature, three different definitions of the business cycle are considered: 
+@BULLET The  " classical business cycle " , defined on the basis of real GDP levels, with periods of 
+positive growth (expansion) and negative growth (contraction). 
+@BULLET The  " deviation from trend cycle "  (also known as the  " growth cycle " ) where a (smooth) trend 
+is removed from real GDP levels. In this case, cyclical upturns are characterised by periods of 
+growth faster than trend growth and cyclical downturns by periods of growth slower than 
+trend growth. 
+@BULLET The  " growth-rate cycle " , based on growth rates of the underlying reference series, with 
+periods of accelerations and decelerations in growth. 25. 
+The OECD CLIs focus on the second definition, i.e. the deviation from trend cycle. Figure 2 
+below illustrates CLI and GDP fluctuations for the OECD area as a whole. The two series show strong co-
+movements, with turning points in the CLI preceding those in overall economic activity, generally by 6 
+months. 26. 
+The OECD CLIs are constructed by combining a set of economic indicators that jointly provide 
+robust and early signals of future turning points in economic activity. Stringent criteria are applied to select 
+the indicators to be included in the CLIs. Their economic relevance, cyclical behaviour and statistical 
+quality criteria are closely scrutinised. Candidate components are pre-selected in order to cover, as far as 
+possible, the key sectors of the economy as well as measure early stages of production. The components c 
+d 
+e b Real-time analysis Quarterly National 
+Accounts Turning Point 
+Location a Ex-post analysis CLI 
+Turning Point Economic Activity 
+Turning point CLI Announcement of a 
+possible Turning Point CLI Turning Point 
+Location Quarterly National 
+Accounts Release STD/DOC(2016)8 11 also need to respond rapidly to changes in economic activity and be sensitive to expectations of future 
+activity. In addition, a number of practical aspects are considered, typically including the frequency of the 
+data (monthly series are preferred to quarterly), the revision patterns (series not subject to significant 
+revisions are preferred), the smoothness (noisy series provide more ambiguous signals), timeliness (being 
+available soon after the end of the reference period) and length of time series (long series without breaks 
+are preferred). The final set of components is selected so as to maximise the performance of the CLIs, 
+which is evaluated based on the number of missed or extra turning points, homogeneity of leads at turning 
+points and cross-correlation with the reference series (GDP). Figure 2. Composite Leading Indicator (CLI) and GDP for the OECD area, both de-trended Source: Main Economic Indicators, OECD. 27. 
+Before being aggregated into CLIs, all components are transformed in order to remove the 
+influence of those factors that may obscure the underlying cyclical pattern (trend, seasonality, calendar 
+effects and outliers). Series are then normalised and re-scaled to make them directly comparable. The 
+aggregation of component series to construct CLIs reduces the risk of false signals (detection of extra 
+turning points) or non-identification of peaks and troughs in the reference series. Figure 3 summarises the 
+steps of the OECD CLI initial construction and the monthly production process. STD/DOC(2016)8 12 Figure 3. OECD CLI construction workflow 3.2.1. 
+CLI components 28. 
+The number of components entering the CLIs varies for each country, ranging between five to 
+nine indicators. In general, CLIs include financial and monetary indicators, business tendency and 
+consumer surveys, and real economy indicators. Table 2 summarises the characteristics of CLI components 
+for the G7 countries and large emerging economies. 29. 
+As compared to real economy indicators, one advantage of business tendency and consumer 
+survey (BTCS) data as well as financial and monetary indicators is that they are not subject to statistical 
+revisions over time. For this reason, indicators belonging to that group are extensively used in the 
+construction of the CLIs, as shown in Table 2. On average, around 84% of CLI components for the G7 
+countries and large emerging economies are available within 60 days after the end of the reference period. 
+Remaining components that are not sufficiently timely need to be extrapolated; they are subsequently 
+revised when data become available. In order to benefit from the availability of most of the components, 
+CLI series that are published in month m end in month (m-2). 30. 
+The OECD re-assesses on a regular basis the performance of the CLIs in order to ensure their 
+reliability; obsolete and untimely components are regularly replaced. Whenever available, quarterly series 
+are replaced with monthly data. Major revisions were undertaken in 2002 and 2007 for OECD countries 
+and in 2010 for the emerging countries. Pre-selection @BULLET Setting a reference series 
+@BULLET Preparing a long list of 
+component candidates Filtering @BULLET Monthly interpolation 
+@BULLET Seasonal adjustment 
+@BULLET Outlier detection 
+@BULLET Cycle identification 
+@BULLET Normalisation Components-selection Aggregation Cyclical evaluation Individual component 
+candidates vs. 
+the reference series Cyclical evaluation Composites vs. 
+the reference series Presentation variants @BULLET Amplitude adjusted CLI 
+@BULLET Trend restored CLI 
+@BULLET Growth rates of the CLI Iteration STD/DOC(2016)8 13 3.2.2. 
+Leading properties of CLI components 31. 
+Although the OECD CLIs are designed to have a lead of 6 to 9 months relative to GDP, in 
+practice they have varying lead times depending on the country and period covered. With continuous 
+monitoring and recalibration, the OECD attempts to maintain the lead-lag range as narrow as possible in 
+order for users to have a reliable assessment of the vicinity of turning points in the reference series when 
+these are signalled by CLIs. While the OECD periodically revises the indicators, it also strives to 
+continuously improve the underlying econometric techniques for trend-filtering, as well as seasonal 
+adjustment and noise suppression methods while ensuring a minimum of revisions. Table 2. Characteristics of CLI components in G7 countries Countries 
+Components 
+total Components not subject to revisions (% of total components) Timeliness 
+(% of components 
+available 2 
+months after the 
+end of the 
+reference period, 
+or earlier) Last change 
+in CLIs 
+components Business 
+Tendency & 
+Consumer 
+Surveys Financial & 
+Monetary 
+statistics Canada 
+8 
+25 
+38 
+88 
+June 2007 
+France 
+9 
+56 
+22 
+100 
+April 2012 
+Germany 
+6 
+67 
+17 
+83 
+Dec 2002 
+Italy 
+6 
+50 
+17 
+67 
+April 2012 
+Japan 
+8 
+13 
+38 
+88 
+June 2007 
+United Kingdom 
+7 
+57 
+29 
+86 
+June 2007 
+United States 
+7 
+29 
+29 
+100 
+Dec 2002 Source: Main Economic Indicators, OECD. 32. 
+Financial statistics typically provide the earliest signals of upcoming turning points (see Table 3). 
+Both peaks and troughs are in general detected seven months before those of the reference series (GDP). 
+Soon after, these early signals are usually reinforced by the BTCS, then by trade statistics and real 
+indicators 10 . Given their average lead (between 1 and 2 months), employment indicators can be better 
+described as coincident indicators. 10 An asymmetry may be noted in the BTCS performance as the peaks are generally captured 6 months in advance 
+while the detection of the troughs requires two more months on average. Similarly, trade statistics detect different 
+turning points with a different lead at peaks and troughs. However, given the small size of the sample, these 
+results have to be taken with care. Real indicators have a similar predicting ability though the average 
+performance is the result of a high variation within this group of indicators. STD/DOC(2016)8 14 Table 3. Turning points detection in 5 main CLI components areas 
+Average values since the 1960s 11 CLI components areas 
+Peak 
+Trough Financial and monetary 
+7 
+7 
+Business and consumer tendency surveys 
+6 
+4 
+Trade statistics 
+3 
+5 
+Real Indicators 
+4 
+4 
+Employment 
+1 
+2 Source: Main Economic Indicators, OECD. 4. 
+How well did the CLIs perform during the Great Recession? Ex-post and real-time analysis 
+for G7 countries 33. 
+This section discusses the performance of the OECD System of Composite Leading Indicators 
+(CLIs) during the Great Recession. The assessment is based on an ex-post as well as a real-time analysis. 
+While the ex-post analysis uses the latest available information, the real-time analysis is based on the 
+components that were actually selected at the time of the compilation and dissemination of the CLIs, and 
+the provisional data that were available at that time. The two analyses evaluate the ability of OECD CLIs 
+to early detect the peak and the subsequent trough of the Great Recession in G7 countries, and the extent to 
+which the initial announcement has been maintained over time. 4.1. 
+When were the turning points of the Great Recession first identified and announced? 34. 
+Looking at the real-time performance of the CLIs, in September 2007, the CLI for the OECD 
+area as a whole had recorded a significant decline, which suggested that a possible deterioration in 
+economic activity 12 was approaching. Hence, the OECD CLI Press Release headlined  " Moderating 
+outlook " . Over the following months, the CLIs confirmed the initial symptoms.  " Weakening outlook "  and 
+ " Continued weakening outlook "  were the headings of the Press Releases in the last quarter of the year. In 
+January 2008, the signal further worsened and the message was turned into  " Downswing " . In the 
+subsequent months, the reading of the CLIs sharply declined to eventually reach levels as low as those seen 
+during the Oil Crisis in the 70s ( " Lowest level since 70s "  was the headline in February 2009) and even 
+lower than that ( " New low "  was announced in March 2009). Figure 4 illustrates the whole evolution of the 
+headings 13 . On the recovery side, the CLI identified the first signs of a likely improvement in economic 11 Canada, Germany, France, Italy, Japan, United Kingdom, United States, Brazil, India and Russia were considered 
+for the computation of averages. 12 Until April 2012, the Index of Industrial Production (IIP) has been used as the reference series for operational 
+purposes. This reflected the fact that real GDP figures needed to quantify the reference business cycle were 
+available on a quarterly basis for only half of the OECD countries (and initially none were available on a monthly 
+basis). Instead, the IIP was available for all OECD countries on a monthly and quarterly basis (Fulop and Gyomai, 
+2012). Of note is also the fact that the IIP represents the most  " cyclical "  component of GDP, accounting for 
+approximately 35% share of gross value added in the mid-1980s. The industrial sector, being a significant 
+consumer of services activities, also drives supply in a significant part of the private service sector. Since April 
+2012, in response to improvements in national statistical information systems (all OECD countries now produce 
+quarterly estimates of GDP) and because of the industrial sector's diminishing share in total GDP (direct and 
+indirect) in recent decades in most OECD economies, the CLI system has switched to using GDP as the reference 
+series. 13 See Appendix 3 for further details on how quantitative scores are assigned to the headlines of CLI Press Releases. STD/DOC(2016)8 15 activity in May 2009. On that occasion, the OECD headlined  " strong slowdown in the OECD area but the 
+pace of the deterioration is easing. "  Figure 4. Evolution of CLIs Press Releases headlines during the Great Recession, OECD area Note: The vertical lines identify the turning points detected by the CLIs for the OECD area as a whole (peak in June 
+2007 and trough in February 2009, marked in red) and GDP (marked in dotted black, with a peak in December 2007 
+and a trough in May 2009). Source: CLI Press Release, OECD. 35. 
+In both cases, at peak and trough, the OECD was able to signal the approaching turning points 
+thanks to the continuous monitoring of CLI growth rates, which initially recorded a significant reduction 
+and then turned negative. With hindsight 14 , the CLI for the OECD area as a whole peaked in June 2007, 
+hence seven months ahead of the corresponding peak for GDP, which took place in December 2007. 
+Similarly, ex-post analysis suggests that the CLI for the OECD area troughed in February 2009 while GDP 
+reached its minimum in May (both CLI and GDP turning points are included in Figure 4). 36. 
+The remainder of this section presents in more detail the results of both ex-post and real-time 
+analysis on how quickly the CLI anticipated the peak and the through of the crisis, as well as an evaluation 
+of the stability of the location of these turning points. 14 Based on CLIs data as of September 2014. STD/DOC(2016)8 16 4.2. 
+Ex-post analysis 4.2.1. 
+Assessment of CLI leading properties based on the latest CLI vintage 37. 
+The ex-post analysis shows that CLIs anticipated turning points in GDP for all G7 countries both 
+at the onset as well as at the end of the Great Recession (Table 4). For example, at the beginning of the 
+crisis, the CLI for the United States peaked in June 2007, 4 months before GDP had reached its own peak 
+(October 2007). In March 2009, the CLI revealed a trough that correctly led the following trough in the US 
+GDP. In this case, however, the leading period was much shorter as the CLI and the GDP troughs were 
+only two months apart. Such a difference in anticipating the peak and the through is indeed common to 
+other countries: on average, the lead for G7 countries during the Great Recession was 7 months for 
+detecting the peaks 15 , and 3 months for detecting the troughs. Table 4. Performance of OECD CLIs during the Great Recession 
+Based on current set of indicators -G7 countries Countries Peak 
+Trough CLI GDP 
+Lead (number of 
+months) and dates CLI GDP 
+Lead (number of 
+months) and dates 
+OECD Total 
+June 2007 
+6 
+Feb 2009 
+3 
+Canada 
+June 2007 
+12 
+June 2008 
+Feb 2009 
+4 
+June 2009 
+France 
+June 2007 
+7 
+Jan 2008 
+Feb 2009 
+4 
+June 2009 
+Germany 16 
+Jan 2007 
+14 
+Mar 2008 
+Feb 2009 
+4 
+June 2009 
+Italy 
+May 2007 
+9 
+Feb 2008 
+Mar 2009 
+2 
+May 2009 
+Japan 
+Jan 2007 
+13 
+Feb 2008 
+Mar 2009 
+1 
+Apr 2009 
+United Kingdom 
+June 2007 
+7 
+Jan 2008 
+Jan 2009 
+5 
+June 2009 
+United States 
+June 2007 
+4 
+Oct 2007 
+Mar 2009 
+2 
+May 2009 Source: Main Economic Indicators, OECD. 15 Excluding Germany and Japan. 16 The German peak in January 2007 marks the beginning of a mild slowdown of the CLI, most likely capturing 
+features of the national cycle. However, it is only in December 2007 that the decrease of the German CLI 
+deteriorates sharply as a result of the propagation of the crisis from the US to other countries. STD/DOC(2016)8 17 4.2.2. 
+The Great Recession through the lenses of CLI components 38. 
+The unfolding of deterioration of economic conditions in the United States and the subsequent 
+slowdown in the growth of economic activity as well as the propagation of the crisis from the US to the 
+other OECD countries can be further traced out by the analysing the various CLI components (see Table 
+5). 39. 
+The indicators included in the CLI for the US echo the conclusions reached by the Financial 
+Crisis Inquiry Commission in the United States (FCIC 2011). In its final report, the FCIC claimed that  " the 
+vulnerabilities that created the potential for crisis were years in the making "  and identified  " the collapse of 
+the housing bubble — fuelled by low interest rates, easy and available credit, scant regulation, and toxic 
+mortgages "  as  " the spark that ignited a string of events, which led to a full-blown crisis in the fall of 
+2008 "  17 . The analysis of the CLI components show that the spread of interest rates and the Business 
+climate indicator released by the Institute of Supply Management (ISM PMI) peaked in 2004 and 2005, 
+with no sign of recovery afterwards (see Table 5). Similarly, in January 2006, thus 21 months before GDP 
+recorded a peak, the CLI component recording the number of new dwellings started to decline for the first 
+time. 40. 
+The crisis quickly spread to other sectors of the economy and around the world. Financial 
+institutions and stock markets were soon affected. The share price index, included in most of the CLIs of 
+G7 countries, well captured the propagation of the crisis. The index reached a peak first in Japan in May 
+2007, leading the peak in the corresponding GDP by 9 months, and declined thereafter. The following 
+month, the share price indices for Canada, France and the United Kingdom also started to drop, 
+anticipating the turning point in overall economic activity by 11, 7 and 5 months, respectively. 41. 
+The diffusion of the crisis can also be observed through the decline in consumer and business 
+confidence. The US consumer sentiment indicator started to decelerate in January 2007 reflecting the 
+pessimism following the decline in real estate prices (see Figure 5). In France, the two consumer survey 
+components peaked in June and July 2007, respectively. Canada and the United Kingdom followed in 
+September 2007. Business confidence indicators also peaked well in advance of GDP in most G7 
+countries. Managers became more pessimistic about the economic situation as investment and households 
+consumption started to decrease, together with exports. In Germany, business tendency surveys anticipated 
+the peak in GDP with different leads: 16 months ahead for order inflows and export order books, 15 
+months for stocks of finished goods and 11 months for the overall business climate indicator. In Japan the 
+sales tendency component peaked in January 2007, whereas in Italy the two business tendency components 
+started declining in April and May 2007. 42. 
+The employment component in the US CLI started to bend in August 2007, only two months 
+prior the GDP, which is in line with the usual lower leading properties of these components (see Table 3). 17 Blundell-Wignall et al. (2008) provide additional information on the macroeconomic policies and the regulatory 
+framework at the origin of the crisis. STD/DOC(2016)8 18 Table 5. Date of occurrence of first peak and associated lead in detecting the beginning of the Great Recession 
+Current set of CLI components for G7 countries Indicators 
+Peak 
+date Lead 
+with 
+GDP Indicators 
+Peak 
+date Lead 
+with 
+GDP United States 
+(GDP: Oct 2007 & IIP: Dec 2007) 
+United Kingdom 
+(GDP: Nov 2007 & IIP: Jan 2008) Spread of interest rates 
+May-04 
+.. 
+Sterling 3 months interbank lending rate * 
+Oct-05 
+.. Business climate indicator (ISM PMI) 
+Nov-05 
+23 
+Production: future tendency 
+Mar-07 
+8 Dwellings started 
+Jan-06 
+21 
+Business climate indicator 
+May-07 
+6 Consumer sentiment 
+Jan-07 
+9 
+FTSE 100 share price index 
+Jun-07 
+5 Weekly Hours of Work Manuf. 
+Aug-07 
+2 
+Finished goods: level * 
+Jul-07 
+4 Share prices: NYSE Composite 
+Aug-07 
+2 
+Consumer confidence indicator 
+Sep-07 
+2 Net new orders -durable goods 
+Jan-08 
+-3 
+New car registrations 
+Nov-07 
+0 France 
+(GDP: Jan 2008 & IIP: Mar 2008) 
+Japan 
+(GDP: Feb 2008 & IIP Feb 2008) New passenger car registrations 
+May-05 
+.. 
+Ratio imports to exports 
+Mar-05 
+.. Permits issued for dwellings 
+Jun-06 
+19 
+Spread of interest rates 
+Apr-06 
+22 CPI Harmonised All items * 
+Feb-07 
+11 
+Construction Dwellings Started 
+Nov-06 
+15 SBF 250 share price index 
+Jun-07 
+7 
+Small Business Survey: Sales tendency 
+Jan-07 
+13 Expected level of life in France (CS) 
+Jun-07 
+7 
+Share prices (TOPIX) Tokyo 
+May-07 
+9 Consumer confidence indicator 
+Jul-07 
+6 
+Ratio loans to deposits * 
+Nov-07 
+3 Export order books (manuf.): level 
+Aug-07 
+5 
+Overtime hours manufacturing 
+Mar-08 
+-1 Production (manuf.): future tendency 
+Jan-08 
+0 
+Inventories to shipment ratio * 
+Mar-08 
+-1 Selling prices (Constr.): future tendency 
+Jan-08 
+0 Italy 
+(GDP: Feb 2008 & IIP: Apr 2008) 
+Germany 
+(GDP: Mar 2008 & IIP: Mar 2008) Consumer confidence indicator 
+Jul-06 
+19 
+Spread of interest rates 
+May-04 
+.. CPI All items * 
+Mar-07 
+11 
+Orders inflow/demand tendency 
+Nov-06 
+16 Production (manuf.): future tendency 
+Apr-07 
+10 
+Export order books: level 
+Nov-06 
+16 Order books (manuf.): level 
+May-07 
+9 
+Finished goods stocks: level * 
+Dec-06 
+15 Deflated net new orders 
+Jul-07 
+7 
+Business climate indicator 
+Apr-07 
+11 Imports from Germany CIF 
+May-08 
+-3 
+Total new orders manufacturing 
+Dec-07 
+3 Canada 
+(GDP: Jun 2008 & IIP: Jul 2008) Spread of interest rates 
+Jun-04 
+.. Business climate indicator (USA -PMI) 
+Nov-05 
+.. Deflated money supply (M1) 
+Dec-06 
+18 Ratio of inventories to shipments * 
+Feb-07 
+16 Share prices (S&P/TSX composite index) 
+Jul-07 
+11 Consumer confidence 
+Sep-07 
+9 Housing starts large cities 
+Oct-07 
+8 * = inverted series. 
+.. = lead is greater than 24 months (window evaluation is in between (-9) months and (+24) months). Source: Main Economic Indicators, OECD. STD/DOC(2016)8 19 Figure 5. Selected US CLI components, GDP Peak in October 2007 Source: Main Economic Indicators, OECD. 4.3. 
+Real-time analysis 43. 
+In this section, the above results on the performance of the G7 CLIs during the Great Recession 
+are complemented with a real-time analysis. Indeed, the ex-post analysis is based on the current set of CLIs 
+which may give a too favourable picture of their historical performance in signalling fluctuations in the 
+reference series. This is because currently available CLIs are evaluated after the underlying data have been 
+revised and more information has become available. Diebold and Rudebusch (1991) were among the first 
+to make this claim and to show that the forecasting performance of the Index of Leading Economic 
+Indicators (LEIs) released by the US Conference Board deteriorated significantly in a real-time framework. 44. 
+From their initial estimate to their latest release, the OECD CLIs may undergo both regular and 
+exceptional revisions: 
+@BULLET Regular revisions of the CLIs can be the result of a revision of the components by National 
+Statistical Offices 18 or can be due to the filtering process once new data points become 
+available. Since filters (extraction of the cycle, seasonal and trading-day adjustment, and 
+outlier detection) operate on the whole sample, the inclusion of a new data point may produce 
+a revision of the entire time series. 18 Although, as mentioned above, the impact of these revisions is limited since an important criterion for the 
+selection of indicators entering the construction of the CLIs is precisely that they should not be subject to 
+significant revisions. STD/DOC(2016)8 20 @BULLET Beyond the regular revision process, exceptional revisions can occur due mostly to the 
+implementation of new methodologies. For example, in December 2008 the OECD replaced 
+the Phase Average Trend (PAT) method with a double Hodrick Prescott (HP) filter in order to 
+extract the cyclical component of time series (Nilsson and Gyomai, 2011). Revisions can also 
+be ascribed to changes in the set of the indicators which are used to compile the CLIs. 
+Indicators may be replaced, should their performance deteriorate over time, and new series 
+can be added in order to reflect structural changes in the economy. 45. 
+The occurrence of regular revisions and changes in the methodology of CLIs are strong 
+arguments in favour of a real-time performance analysis. The OECD publishes on its website all CLI 
+vintages since the end of the 1990s or the beginning of the 2000s 19 , depending on the country. This limits 
+the real-time performance analysis to the last 15 years, but the Great Recession is fully covered in the real-
+time dataset. 46. 
+In what follows, real-time data are used to assess the ability of the OECD CLIs to identify the 
+peak and the trough during the Great Recession for all G7 countries by: (1) verifying whether the location 
+of these turning points has remained stable from one CLI monthly release to the next; and (2) determining 
+when these turning points could actually be identified. 4.3.1. 
+Stability of turning points over time 47. 
+A real-time assessment of the OECD CLIs' performance during the Great Recession shows that 
+the location of CLI turning points 20 remains broadly stable over time. From one release to the next, turning 
+points generally remain in a 3-month corridor, a result that can be considered fully satisfactory for 
+economic policy purposes. For instance, Figure 6 below shows that the June 2007 peak and the March 
+2009 trough identified for the United States remained very stable from one vintage to the next 21 . In January 
+2008, it was estimated that the CLI had reached a peak in June 2007 (see blue line). A similar stable 
+pattern can be observed for the trough anticipating the possible end of the crisis. In September 2009, a 
+trough was identified and located in February 2009. This date was shifted a month ahead in mid-2011 and 
+has remained unchanged since then (see red line). 48. 
+The analysis of the sign of CLI growth rates over the last three months provides additional 
+insights on the stability of turning-point dating. In practice, this is what the OECD does to interpret the 
+latest CLI results for the monthly Press Releases (see Box 1). Figure 7 shows that the dates at which the 
+CLI evolution over a period of three months changes sign also remain stable over time. 49. 
+Of particular note is the fact that in October 2007 (see the relevant  " vintage "  in Figure 7), the 3-
+month evolution of the US CLI showed a change for the first time, indicating that the CLI had started 
+declining back in August 2007 (see the relevant  " date "  in Figure 7). The message was then confirmed in 
+November 2007 and, on that occasion, the OECD announced a  " Possible downturn in the United States " , 
+two months in advance compared to the formal identification of the peak (January 2008, see Figure 6). 19 No electronically-supported files are available for earlier CLI releases. 20 The OECD relies on the Bry-Boschan (1971) algorithm for the formal identification of turning points in economic 
+activity on past data. In a nutshell, this algorithm identifies local peaks and troughs in the CLIs assuring that 
+minimum phase (distance between adjacent troughs and peaks) and cycle length criteria are met. Turning points 
+that are initially identified outside those limits are eventually eliminated. 21 See Appendix 2 for similar information on other G7 countries. STD/DOC(2016)8 21 Figure 6. Stability over vintages of turning points in the US CLI at the time of the Great Recession Note: The horizontal axis refers to CLI vintages and the vertical axis to the dates of CLI turning points. For instance, the blue line 
+shows that the June 2007 peak in the current US CLI (see vertical axis) was first detected in January 2008 (see horizontal axis) 
+and was already located in June 2007 at that time. The US GDP reached a peak in October 2007, as indicated in the legend. 
+Two exceptional statistical revisions are explicitly mentioned on Figure 6: a change in the filtering methodology of CLI 
+components and reference series that took place in December 2008 (the Phase Average Trend – PAT – filter was replaced with a 
+double Hodrick-Prescott filter, see Nilsson and Gyomai 2011) and a change in the reference series that took place in April 2012 
+(the index of industrial production – IIP – was replaced with GDP). Source: Main Economic Indicators, OECD. STD/DOC(2016)8 22 Figure 7. Sign of the US CLI evolution over 3 months 
+by date and vintage Note: The horizontal axis refers to CLI vintages and the vertical axis to time. Periods where the 3-month CLI evolution is negative 
+are marked in blue, those where the 3-month CLI evolution is positive are marked in red. What can be derived from the figure is 
+that the US CLI evolution over 3 months turned negative in August 2007 (see vertical axis). This sign change was first detected in 
+the October 2007 release of the US CLI (see horizontal axis). The 3-month evolution of the latest US CLI considered here 
+(September 2014 vintage: first column) also changes sign in August 2007 (see vertical axis). Source: Main Economic Indicators, OECD. STD/DOC(2016)8 23 Box 1 Locating turning points Simply looking at the sign of the CLI evolution over the recent past is admittedly a very simple approach 
+to identify turning points (Vaccara and Zarnowitz, 1977). Such an approach may have two drawbacks: 1. The precise dating of turning points may differ by a few months compared to the Bry-Boschan 
+methodology. 2. A few sign changes may in the end not correspond to actual turning points. The dates at which CLI evolutions change sign depend on the window over which these evolutions are 
+computed. Looking at CLI evolutions over a few months rather than just looking at monthly evolutions 
+typically stabilises the location of sign changes and reduces the risk of sending false signals. However, it 
+also lags the date at which they occur compared to the Bry-Boschan dating of turning points. Due to this 
+trade-off, the 3-month choice can be considered as a good compromise. The second drawback is due to the fact that the Bry-Boschan methodology discards business cycles that are 
+too short-lived or too close to each other. This is for instance what happened in 2006 to the United States 
+(see Figure 6): the evolution of the CLI over 3 months changed sign in April or May 2006 in all vintages 
+since July 2006 but it is only between the October 2006 and December 2007 vintages that the Bry-Boschan 
+methodology identified a turning point at that time. Afterwards, this provisional turning point is discarded 
+by the algorithm, but only because it is too close to the Great Recession, and not because data would have 
+been subsequently revised or because the algorithm would be unstable. Both the sign change over 3 months 
+and the Bry-Boschan methodology correctly identified that economic activity in the US was losing 
+momentum in 2006. Despite these two drawbacks, looking at the sign of the CLI evolution in the last 3 months remains a very 
+useful practice in order to assess the CLI results in real-time, not only for the United States but for all G7 
+countries. STD/DOC(2016)8 24 4.3.2. 
+Timeliness of the formal identification of turning points 50. 
+The formal identification of turning points requires time after their occurrence because dating 
+algorithms necessitate a certain number of observations after the turning point to be able to single out a 
+maximum (peak) or a minimum (trough) in the time series. This is not specific to the Bry-Boschan dating 
+algorithm employed by the OECD, as indeed all turning point detection techniques entail some time to 
+extract the underlying signal from noisy data (see Box 1). Tables 6 and 7 below report the dates of 
+occurrence of turning points for CLIs (column 1) and GDPs (column 2) as formally located by the OECD 
+dating algorithm, as well as the date when CLI turning points were first formally identified in real time 
+(column 3) and the GDP release date by national accounts (column 4). 51. 
+Before interpreting Tables 6 and 7, it is important to remind that the real-time performance of the 
+OECD CLIs can be assessed in two different ways, as indicated on the chronology of events (Figure 1): (i) 
+dates when CLI turning points are identified can be compared to dates when corresponding turning points 
+in GDP actually occur, or (ii) they can be compared to dates when turning points in GDP can be identified 
+based on national accounts' data. 52. 
+With only a few exceptions, CLI turning points during the Great Recession could be formally 
+identified approximately six months after they had occurred (difference between columns 1 and 3 in Tables 
+6 and 7). Note that this additional delay implies that CLI turning points could not always be formally 
+identified before turning points in GDP occurred. In other words, distance c in the chronology of events 
+could sometimes be reduced to zero or become slightly negative. This was especially the case for the 2009 
+trough. Nevertheless, two additional points are worth noticing here: 
+@BULLET Thanks to informal identification based on the sign of CLI growth rates, the OECD was able 
+to announce CLI turning points before they could be formally located by the dating algorithm 
+in some cases. For instance, this was the case for the United States, for which the CLI peak 
+was announced in November 2007, two months before its formal identification in January 
+2008. This was also the case for the OECD as a whole (Figure 4). This potential gain, 
+corresponding to distance b in the chronology of events, is difficult to assess in retrospect. 
+@BULLET In any case, the identification of the CLI turning points was generally in advance of the first 
+release of the quarterly GDP (difference between columns 3 and 4), thus providing reliable 
+information to policy makers on the forthcoming evolution of GDP. Moreover, the 
+identification of turning points in GDP based on quarterly national accounts' data also 
+requires some time, corresponding to distance e in the chronology of events. While this 
+additional delay is not reported in Tables 6 and 7, it can be estimated to roughly 5 months 
+based on currently available national accounts. STD/DOC(2016)8 25 Table 6. Identification of the 2007/2008 peak Countries 1. Date of CLI peak 
+(based on currently 
+available data) 2. Date of GDP peak and 
+ex-post lead (number of 
+months) 3. Date when the 
+CLI peak was first 
+formally identified 
+in real time 4. GDP release date by 
+National Accounts 
+(quarter corresponding to 
+the peak) [22] Canada 
+Jun 2007 
+Jun 2008 (12) 
+Feb 2008 
+Aug 2008 
+France 
+Jun 2007 
+Jan 2008 (7) 
+Jan 2008 
+May 2008 
+Germany 
+Jan 2007 
+Mar 2008 (14) [23] May 2008 
+Italy 
+May 2007 
+Feb 2008 (9) 
+Oct 2007 
+May 2008 
+Japan 
+Jan 2007 
+Feb 2008 (13) [24] Aug 2008 
+United Kingdom 
+Jun 2007 
+Jan 2008 (7) 
+Jan 2008 
+Apr 2008 
+United States 
+Jun 2007 
+Oct 2007 (4) 
+Jan 2008 
+Jan 2008 Source: OECD Main Economic Indicators, authors' computations. Notes: The difference between columns 1 and 2 corresponds to the ex-post lead of the CLI, i.e. to distance (a+c) in the chronology 
+of events (Figure 1). The difference between columns 1 and 3 corresponds to the time required by the dating algorithm to formally 
+identify a turning point, i.e. to distance a in the chronology of events. The difference between columns 1 and 4 corresponds to 
+distance (a+c+d) in the chronology of events. Table 7. Identification of the 2009 trough Countries 1. Date of CLI trough 
+(based on currently 
+available data) 2. Date of GDP trough 
+and ex-post lead (number 
+of months) 3. Date when the 
+CLI trough was 
+first formally 
+identified in real 
+time 4. GDP release date by 
+National Accounts 
+(quarter corresponding to 
+the trough) Canada 
+Feb 2009 
+Jun 2009 (4) 
+Sep 2009 
+Aug 2009 
+France 
+Feb 2009 
+Jun 2009 (4) 
+Jul 2009 
+Sep 2009 
+Germany 
+Feb 2009 
+Jun 2009 (4) 
+Sep 2009 
+Aug 2009 
+Italy 
+Mar 2009 
+May 2009 (2) 
+Jul 2009 
+Oct 2009 
+Japan 
+Mar 2009 
+Apr 2009 (1) 
+Oct 2009 
+Sep 2009 
+United Kingdom 
+Jan 2009 
+Jun 2009 (5) 
+Aug 2009 
+Sep 2009 
+United States 
+Mar 2009 
+May 2009 (2) 
+Sep 2009 
+Sep 2009 Source: OECD Main Economic Indicators, authors' computations. Notes: The difference between columns 1 and 2 corresponds to the ex-post lead of the CLI, i.e. to distance (a+c) in the 
+chronology of events (Figure 1). The difference between columns 1 and 3 corresponds to the time required by the 
+dating algorithm to formally identify a turning point, i.e. to distance a in the chronology of events. The difference 
+between columns 1 and 4 corresponds to distance (a+c+d) in the chronology of events. 22 This refers to the first release of quarterly GDP. It may correspond to a flash estimate in countries where such 
+estimate exists. 23 In December 2006, the OECD routine tentatively detected a peak in May 2006 for Germany. The signal remained 
+stable until October 2008 when the same turning point was gradually shifted ahead to May 2007. Subsequent 
+revisions have placed that peak in the interval January-May 2007. 24 A downturn in the CLI for Japan in January 2006 was first identified in September 2006. Since then, this turning 
+point has been shifted to January 2007 as indicated in Table 1 (first column). However, it would be misleading to 
+consider that the January 2007 turning point was announced as early as September 2006. STD/DOC(2016)8 26 5. 
+Conclusion 53. 
+Results presented in this paper suggest that the OECD CLIs were able to anticipate the Great 
+Recession in G7 countries at an early stage, although, by their very nature, they could not give an 
+indication on the depth of the coming crisis. Such results confirm the conclusion previously reached by 
+Gyomai and Guidetti (2011) who relied on an ex-post analysis. Admittedly, the leading properties of the 
+OECD CLIs are less good if real-time constraints are taken into account. However, statistical and 
+methodological revisions that occurred since the crisis do not seem to have shifted CLI turning points to 
+earlier dates, or to have artificially improved the CLI performance. The main reason why real-time data are 
+less favourable to the performance of the OECD CLIs is that some time is needed to formally identify 
+turning points once they manifest. About six months are typically required for the formal identification of 
+turning points. This means that, during the Great Recession, CLI turning points could not always be 
+formally identified before the actual occurrence of turning points in GDP. Nevertheless, informal 
+identification based on the sign of CLI growth rates allowed the OECD to announce CLI turning points 
+before they could be formally located by the dating algorithm in some cases. Moreover, most CLI turning 
+points could be identified before national accounts were released and, even more so, before turning points 
+in GDP could be formally identified based on national accounts' data. 54. 
+Analysing the forecasting errors made by the OECD during the Great Recession in G7 countries, 
+Pain et al. (2014) show that the information provided by the real-time CLIs could have helped to better 
+identify the early stages of the recovery in 2009 (Appendix 7 in Pain et al. 2014). Economists and 
+statisticians at the OECD are currently working together in order to better exploit the joint potential of the 
+CLIs and the short-term forecasting models. STD/DOC(2016)8 27 References Banbura M., Rünstler G. (2011): A Look into the Factor Model Black Box: Publication Lags and the Role of Hard 
+and Soft Data in Forecasting GDP. International Journal of Forecasting N°27, pp.333-346 Blundell-Wignall A., Atkinson P., Lee S. H. (2008): The Current Financial Crisis: Causes and Policy Issues. OECD 
+Journal: Financial Market Trends 
+http://www.oecd.org/daf/fin/financial-markets/41942872.pdf Bry G., Boschan C. (1971): Cyclical Analysis of Time Series: Selected Procedures and Computer Programs. NBER 
+Technical Paper N°20. Diebold F.X., Rudebusch G.D. (1991): Forecasting Output with the Composite Leading Index: A Real-Time 
+Analysis. Journal of the American Statistical Association, Vol.86, N°415, pp. 603-610 European Commission (2014): Joint harmonised EU programme of Business and Consumer surveys. User Guide 
+http://ec.europa.eu/economy_finance/db_indicators/surveys/documents/bcs_user_guide_en.pdf FCIC, (2011): Financial Crisis Inquiry Commission Final Report 
+http://cybercemetery.unt.edu/archive/fcic/20110310173545/http://c0182732.cdn1.cloudfiles.rackspacecloud.co 
+m/fcic_final_report_full.pdf Fulop G., Gyomai, G. (2012):  " Transition of the OECD CLI system to a GDP-based business cycle target " . OECD 
+background note 
+http://www.oecd.org/std/leading-indicators/49985449.pdf. Gyomai G., Ahmad N. and Astolfi R. (2016): The OECD System of Composite leading indicators Chapter 8. In 
+Eurostat Handbook on cyclical composite indicators, Luxembourg (forthcoming). Gyomai G. Guidetti E. (2011) The Performance of the OECD's Composite Leading Indicator during the 2007 
+Financial Crisis, The Statistics Newsletter -OECD Issue No. 51http://www.oecd.org/std/47632702.pdf Nilsson R., Gyomai G. (2011): Cycle Extraction: A comparison of the Phase-Average Trend Method, the Hodrick-
+Prescott and Christiano-Fitzgerald Filters. OECD Statistics Directorate Working Paper N°39. 
+http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=std/doc%282011%294&doclanguag 
+e=en OECD (2002): An Update of the OECD Composite Leading Indicators. 
+http://www.oecd.org/std/leading-indicators/2410332.pdf OECD (2003): Business Tendency Surveys: A Handbook. 
+http://www.oecd.org/std/leading-indicators/31837055.pdf OECD (2011): Quality framework and guidelines for OECD statistical activities. 
+http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=std/qfs%282011%291&doclanguage 
+=en OECD (2012): OECD System of Composite Leading Indicators. 
+http://www.oecd.org/std/leading-indicators/41629509.pdf Pain N., Lewis C., Dang T-T., Jin Y., Richardson P. (2014): OECD Forecasts during and after the Financial Crisis: A 
+Post-Mortem. OECD Economics Department Working Paper N°1107. 
+http://www.oecd-ilibrary.org/economics/oecd-forecasts-during-and-after-the-financial-crisis_5jz73l1qw1s1-en Sédillot F., Pain N. (2003): Indicator models of real GDP growth in selected OECD countries. OECD Economics 
+Department Working Paper N°364 
+http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?doclanguage=en&cote=eco/wkp%282003 
+%2918 Vaccara B. V. Zarnowitz (1977).  " How Good Are the Leading Indicators, Business and Economics " . Proceedings of 
+the Business and Economic Statistics Section (American Statistical Association), pp. 41–53. United Nations (2016): Handbook on Economic Tendency Surveys. Forthcoming. 
+http://unstats.un.org/unsd/nationalaccount/consultationDocs/draftETS-Handbook-May2014.pdf STD/DOC(2016)8 28 Appendix 1 The OECD Main Economic Indicators (MEI) database and the characteristics of short-term statistics: background information for Table 1 55. 
+There are currently 28,530 monthly and quarterly series available in the MEI database. This total 
+includes quarterly national accounts series, short-term indicators and economic tendency surveys. All MEI 
+series are updated on a rolling basis and available online. Among these series, users can access all  " target 
+indicators "  that OECD member countries are requested to provide. These  " target indicators "  are covered 
+by the OECD Data Collection Programme and correspond to short-term indicators needed by internal users 
+(namely the Economics Department and the Statistics Directorate) to undertake their work and those most 
+needed by external users. The OECD also releases on a monthly basis a paper publication containing a 
+range of core short-term indicators. These  " core indicators "  are selected to provide the best compromise 
+between relevance for economic analysis, country coverage and international comparability. The list of 
+these core indicators can be found in Table 8 below. Table 8 List of core short-term indicators in the MEI database Source: Main Economic Indicators database, OECD. National accounts 
+Competitiveness 
+Balance of payments 
+1 Gross domestic product 
+28 Hourly earnings 
+54 Current account balance 
+2 Private final consumption expenditure 
+29 Unit labour costs: total economy 
+55 Balance on goods 
+3 Government final consumption expenditure 30 Real effective exchange rate: CPI 
+56 Exports of goods 
+4 Gross fixed capital formation 
+31 Real effective exchange rate: ULC 
+57 Imports of goods 
+5 Change in inventories 
+32 Exchange rates: national currency per US dollar 
+58 Balance on services 
+6 Exports of goods and services 
+59 Exports of services 
+7 Imports of goods services 
+Business tendency surveys 
+60 Imports of services 
+8 GDP deflator 
+Manufacturing 
+61 Balance on income 
+33 Production: future tendency 
+62 Capital and financial balance 
+Production 
+34 Order books: level 
+63 Net direct investment 
+9 Production of total industry 
+35 Finished goods stocks 
+64 Direct investment abroad 
+10 Production in total manufacturing 
+36 Confidence indicator 
+65 Direct investment in reporting economy 
+11 Production of total construction 
+Construction 
+37 Order books: level 
+Interest rates – share prices 
+Retail sales 
+38 Employment: future tendency 
+66 Overnight interbank rate 
+12 Total retail trade 
+39 Confidence indicator 
+67 3-6 month interbank rate 
+13 Passenger car registrations 
+Retail sales 
+68 10-year Government bonds 
+40 Business situation: tendency 
+69 All shares price index 
+Orders 
+41 Business situation: future tendency 
+14 Permits issued for dwellings 
+42 Stocks level 
+International finance 
+43 Confidence indicator 
+70 Reserve assets 
+Labour 
+Services 
+15 Labour force: total 
+44 Business situation: tendency 
+Monetary aggregates 
+16 Labour force: men 
+45 Demand evolution: tendency 
+71 Narrow M oney 
+17 Labour force: woman 
+46 Demand evolution: future tendency 
+72 Broad M oney 
+18 Employment: total 
+47 Confidence indicator 
+19 Employment: men 
+Producer prices 
+20 Employment: women 
+Consumer tendency surveys 
+73 Domestic manufacturing 
+21 Employment rate: total 
+48 Consumer prices: future tendency 
+22 Employment rate: men 
+49 Confidence indicator 
+Consumer prices 
+23 Employment rate: women 
+74 All items 
+24 Unemployment: total 
+Composite leading indicator 
+75 Food 
+25 Unemployment: males 
+50 CLI: amplitude adjusted 
+76 Energy 
+26 Unemployment: females 
+77 All items less food less energy 
+27 Harmonised unemployment rate 
+International trade 
+78 Services Less housing 
+51 Imports c.i.f. or f.o.b. 
+79 Housing 
+52 Exports c.i.f. or f.o.b. 
+80 Harmonised CPI 
+53 Net trade STD/DOC(2016)8 29 Business tendency and consumer surveys (BTCS) 56. 
+Most business tendency surveys available in the MEI database cover manufacturing, retail trade 
+and construction sectors. Data for the services sector are available for European OECD countries and a few 
+other countries (Israel, Japan and Indonesia). With the sole exception of Ireland, Canada 25 , and Iceland 26 , 
+good data coverage is achieved for all OECD countries and the BRIICS. 57. 
+BTCS series are mostly monthly with the exception of two indicators (i.e., order inflows 
+tendency and capacity utilisation) that are only included in the quarterly questionnaires. Monthly BTCS 
+series are usually available at the end of the reference month. 58. 
+Beyond the OECD Handbook, the most recent international guidelines on BTCS are the User 
+Guide published in 2014 by the European Commission and the Handbook on Economic Tendency Surveys 
+to be published under the auspices of the United Nations in 2016. Financial indicators 59. 
+The following financial indicators are covered in the MEI database: monetary aggregates (M1, 
+M3), interest rates (immediate, 3-month and long-term interest rates on government bonds and spread of 
+interest rates), exchange rates, share prices and consumer price indices (CPIs). All financial indicators are 
+monthly and available at the end of the reference month. 60. 
+For CPIs, the Methodological Notes for the Compilation of G20 Consumer Price Index 27 
+describes possible issues for international comparability across G20 countries due to the owner occupied 
+housing component. The OECD standard guidelines for compiling monetary aggregates comply with the 
+European Central Bank framework for constructing Euro area monetary aggregates and are also consistent 
+with the IMF principles 28 . Note that EU countries not belonging to the euro area are also requested to 
+report data to the ECB according to the same framework. Real indicators 61. 
+Real indicators cover 5 main subjects: production, retail trade, work started, orders and stocks. 
+Standardized statistical classifications are used – NACE Rev.2 for European countries and ISIC Rev.4 for 
+other countries –, so that good international comparability is achieved across all OECD and BRIICS 
+countries. 62. 
+In general, production and retail trade are the two subjects with the largest coverage across 
+countries, whereas orders and work started are more difficult to obtain (e.g. not available for Austria, 
+Iceland, Mexico, the Slovak Republic, Turkey and all the BRIICS except South Africa). Real indicators are 
+usually available at a monthly frequency, two months after the end of the reference period. Note that, for 
+the United States, they are available one month earlier. 25 Data collection has been discontinued in 2005 and 2008 respectively. Canada currently only releases a consumer 
+confidence index. 26 No BTCS data available for Iceland. 27 See the notes at http://www.oecd.org/std/prices-ppp/CPI-G20-methodology.pdf. 28 National methodologies can be found here http://dsbb.imf.org/Applications/web/sddscountrylist/. STD/DOC(2016)8 30 International trade data 63. 
+Table 1 only focuses on total imports and exports of goods, which are usually available at a 
+monthly frequency two months after the end of the reference month. Data are available with a three month 
+delay for Hungary, Italy, Poland and Russia. More detailed monthly information, with a breakdown by 
+commodity, target and origin country, may be found in the UN Commodity Trade Statistics database 
+(COMTRADE). Employment data 64. 
+MEI employment data cover hours worked, employment rates, total employment and 
+unemployment rates. Employment and unemployment rates are available for all OECD countries with a 
+breakdown by age and gender. Total employment is available for all OECD countries with a breakdown by 
+economic activity. Hours worked are available for all OECD countries except for Chile and New Zealand. 
+The precise definition of hours worked may differ slightly across countries, especially in non-European 
+countries, without seriously affecting international comparability 29 . 65. 
+Hours worked, employment and unemployment rates are usually available at a quarterly 
+frequency, with a few countries for which data are available at a monthly frequency. All these series are 
+usually available 75 days after the end of the reference period. 29 European countries rely on a common definition but this is not the case for non-European countries. For instance, 
+Australia considers monthly hours worked in the total economy; Hungary, Japan and Korea consider monthly 
+hours worked in the manufacturing sector and Canada and the United States consider weekly hours worked in the 
+manufacturing sector. STD/DOC(2016)8 31 Appendix 2 OECD CLI performance during the Great Recession in G7 countries 66. 
+This Appendix provides additional information on the detection of turning points in G7 countries 
+other than the United States. The charts below provide information on the stability of turning points from 
+one CLI release to the next, and also indicate the dates at which these turning points could be formally 
+identified with the Bry-Boschan algorithm. These charts are similar to Figure 6 in the main text for the 
+United States. 67. 
+As for the United States, the horizontal axis refers to CLI vintages and the vertical axis to the 
+dates of CLI turning points. Two exceptional statistical revisions are explicitly mentioned on these charts: 
+a change in the filtering methodology of CLI components and reference series that took place in December 
+2008 (the Phase Average Trend – PAT – filter was replaced with a double Hodrick-Prescott filter, see 
+Nilsson and Gyomai 2011), and a change in the reference series that took place in April 2012 (the Index Of 
+Industrial Production – IIP – was replaced with GDP). Changes in CLI components are also indicated if 
+they were implemented during the considered time frame. 68. 
+As already mentioned in the main text, it is only for Japan that a major shift in the location of a 
+turning point occurred. In April 2012, the downturn corresponding to the beginning of the Great Recession 
+was shifted by approximately 9 months. This location shift is not due to the change of the reference series 
+that occurred at the same time but to a modification of the Bry-Boschan algorithm's parameters for Japan. 
+Note that this shift did not artificially improve but, on the contrary, deteriorated the historical performance 
+of the CLI for Japan. 69. 
+For other countries, the location of turning points during the Great Recession appears to be 
+stable. The dates at which these turning points were first formally identified using the Bry-Boschan 
+algorithm are reported in Tables 6 and 7 in the main text and also indicated on the following charts. Figure 8 Stability over vintages of turning points in the CLI for Canada at the time of the Great Recession Source: Main Economic Indicators, OECD. January-07 February-07 March-07 April-07 May-07 June-07 July-07 August-07 September-07 October-07 November-07 December-07 January-08 February-08 March-08 April-08 May-08 June-08 July-08 August-08 September-08 October-08 November-08 December-08 January-09 February-09 March-09 April-09 May-09 June-07 
+August-07 
+October-07 
+December-07 
+February-08 
+April-08 
+June-08 
+August-08 
+October-08 
+December-08 
+February-09 
+April-09 
+June-09 
+August-09 
+October-09 
+December-09 
+February-10 
+April-10 
+June-10 
+August-10 
+October-10 
+December-10 
+February-11 
+April-11 
+June-11 
+August-11 
+October-11 
+December-11 
+February-12 
+April-12 
+June-12 
+August-12 
+October-12 
+December-12 
+February-13 
+April-13 
+June-13 
+August-13 
+October-13 
+December-13 
+February-14 
+April-14 
+June-14 
+August-14 Dates of CLIs Turning Points Vintages Peak reached in June 2008 for GDP & in July 2008 for IIP 
+Trough reached in June 2009 for GDP & in July 2009 for IIP PAT to HP 
+IIP to GDP February 2008 September 2009 STD/DOC(2016)8 32 Figure 9 Stability over vintages of turning points in the CLI for France at the time of the Great Recession Source: Main Economic Indicators, OECD. Figure 10 Stability over vintages of turning points in the CLI for Germany at the time of the Great Recession Source: Main Economic Indicators, OECD. July-06 August-06 September-06 October-06 November-06 December-06 January-07 February-07 March-07 April-07 May-07 June-07 July-07 August-07 September-07 October-07 November-07 December-07 January-08 February-08 March-08 April-08 May-08 June-08 July-08 August-08 September-08 October-08 November-08 December-08 January-09 February-09 March-09 April-09 May-09 February-07 
+April-07 
+June-07 
+August-07 
+October-07 
+December-07 
+February-08 
+April-08 
+June-08 
+August-08 
+October-08 
+December-08 
+February-09 
+April-09 
+June-09 
+August-09 
+October-09 
+December-09 
+February-10 
+April-10 
+June-10 
+August-10 
+October-10 
+December-10 
+February-11 
+April-11 
+June-11 
+August-11 
+October-11 
+December-11 
+February-12 
+April-12 
+June-12 
+August-12 
+October-12 
+December-12 
+February-13 
+April-13 
+June-13 
+August-13 
+October-13 
+December-13 
+February-14 
+April-14 
+June-14 
+August-14 Dates of CLIs Turning Points Vintages Possible peak in October 2006 
+Peak reached in January 2008 for GDP & in March 2008 for IIP 
+Trough reached in June 2009 for GDP & in April 2009 for IIP PAT to HP 
+IIP to GDP January 2008 July 2009 July 2007 France CLI revised in 
+April 2012 March-06 April-06 May-06 June-06 July-06 August-06 September-06 October-06 November-06 December-06 January-07 February-07 March-07 April-07 May-07 June-07 July-07 August-07 September-07 October-07 November-07 December-07 January-08 February-08 March-08 April-08 May-08 June-08 July-08 August-08 September-08 October-08 November-08 December-08 January-09 February-09 March-09 April-09 May-09 October-06 
+December-06 
+February-07 
+April-07 
+June-07 
+August-07 
+October-07 
+December-07 
+February-08 
+April-08 
+June-08 
+August-08 
+October-08 
+December-08 
+February-09 
+April-09 
+June-09 
+August-09 
+October-09 
+December-09 
+February-10 
+April-10 
+June-10 
+August-10 
+October-10 
+December-10 
+February-11 
+April-11 
+June-11 
+August-11 
+October-11 
+December-11 
+February-12 
+April-12 
+June-12 
+August-12 
+October-12 
+December-12 
+February-13 
+April-13 
+June-13 
+August-13 
+October-13 
+December-13 
+February-14 
+April-14 
+June-14 
+August-14 Dates of CLIs Turning Points Vintages Possible peak in May 2006 
+Peak reached in March 2008 for both GDP & IIP 
+Trough reached in June 2009 for GDP & in May 2009 for IIP PAT to HP 
+IIP to GDP October 2008 September 2009 December 2006 STD/DOC(2016)8 33 Figure 11 Stability over vintages of turning points in the CLI for Italy at the time of the Great Recession Source: Main Economic Indicators, OECD. Figure 12 Stability over vintages of turning points in the CLI for Japan at the time of the Great Recession Note: the Index of Industrial Production (IIP) for Japan exhibits quite high volatility over the period 2006-2008. Three 
+close peaks potentially qualify as turning point: March 2006, February 2007 and February 2008. The Bry-Boschan 
+routine privileged March 2006. However, the change to GDP as reference series made the signal less noisy. As a 
+result, the Bry-Boschan routine shifted the peak to February 2008. Source: Main Economic Indicators, OECD. July-06 August-06 September-06 October-06 November-06 December-06 January-07 February-07 March-07 April-07 May-07 June-07 July-07 August-07 September-07 October-07 November-07 December-07 January-08 February-08 March-08 April-08 May-08 June-08 July-08 August-08 September-08 October-08 November-08 December-08 January-09 February-09 March-09 April-09 May-09 June-07 
+August-07 
+October-07 
+December-07 
+February-08 
+April-08 
+June-08 
+August-08 
+October-08 
+December-08 
+February-09 
+April-09 
+June-09 
+August-09 
+October-09 
+December-09 
+February-10 
+April-10 
+June-10 
+August-10 
+October-10 
+December-10 
+February-11 
+April-11 
+June-11 
+August-11 
+October-11 
+December-11 
+February-12 
+April-12 
+June-12 
+August-12 
+October-12 
+December-12 
+February-13 
+April-13 
+June-13 
+August-13 
+October-13 
+December-13 
+February-14 
+April-14 
+June-14 
+August-14 Dates of CLIs Turning Points Vintages Peak reached in February 2008 for GDP & in April 2008 for IIP 
+Trough reached in May 2009 for both GDP and IIP PAT to HP 
+IIP to GDP October 2007 July 2009 Italy CLI revised in April 2012 May-05 
+June-05 
+July-05 
+August-05 
+September-05 
+October-05 
+November-05 
+December-05 
+January-06 
+March-06 
+April-06 
+May-06 
+June-06 
+July-06 
+August-06 
+September-06 
+October-06 
+November-06 
+December-06 
+January-07 
+February-07 
+March-07 
+April-07 
+May-07 
+June-07 
+July-07 
+August-07 
+September-07 
+October-07 
+November-07 
+December-07 
+January-08 
+February-08 
+March-08 
+April-08 
+May-08 
+June-08 
+July-08 
+August-08 
+September-08 
+October-08 
+November-08 
+December-08 
+January-09 
+February-09 
+March-09 
+April-09 
+May-09 April-06 
+June-06 
+August-06 
+October-06 
+December-06 
+February-07 
+April-07 
+June-07 
+August-07 
+October-07 
+December-07 
+February-08 
+April-08 
+June-08 
+August-08 
+October-08 
+December-08 
+February-09 
+April-09 
+June-09 
+August-09 
+October-09 
+December-09 
+February-10 
+April-10 
+June-10 
+August-10 
+October-10 
+December-10 
+February-11 
+April-11 
+June-11 
+August-11 
+October-11 
+December-11 
+February-12 
+April-12 
+June-12 
+August-12 
+October-12 
+December-12 
+February-13 
+April-13 
+June-13 
+August-13 
+October-13 
+December-13 
+February-14 
+April-14 
+June-14 
+August-14 Dates of CLIs Turning Points Vintages Peak reached in February 2008 for both GDP & IIP 
+Trough reached in April 2009 for GDP & in May 2009 for IIP PAT to HP 
+IIP to GDP September 2006 October 2009 Japan CLI revised in 
+June 2007 STD/DOC(2016)8 34 Figure 13 Stability over vintages of turning points in the CLI for the United Kingdom at the time of the Great 
+Recession Source: Main Economic Indicators, OECD. January-06 February-06 March-06 April-06 May-06 June-06 July-06 August-06 September-06 October-06 November-06 December-06 January-07 February-07 March-07 April-07 May-07 June-07 July-07 August-07 September-07 October-07 November-07 December-07 January-08 February-08 March-08 April-08 May-08 June-08 July-08 August-08 September-08 October-08 November-08 December-08 January-09 February-09 March-09 April-09 May-09 April-06 
+June-06 
+August-06 
+October-06 
+December-06 
+February-07 
+April-07 
+June-07 
+August-07 
+October-07 
+December-07 
+February-08 
+April-08 
+June-08 
+August-08 
+October-08 
+December-08 
+February-09 
+April-09 
+June-09 
+August-09 
+October-09 
+December-09 
+February-10 
+April-10 
+June-10 
+August-10 
+October-10 
+December-10 
+February-11 
+April-11 
+June-11 
+August-11 
+October-11 
+December-11 
+February-12 
+April-12 
+June-12 
+August-12 
+October-12 
+December-12 
+February-13 
+April-13 
+June-13 
+August-13 
+October-13 
+December-13 
+February-14 
+April-14 
+June-14 
+August-14 Dates of CLIs Turning Points Vintages Possible peak in April 2006 
+Peak reached in January 2008 for both GDP & IIP 
+Trough reached in June 2009 for GDP & in May 2009 for IIP PAT to HP 
+IIP to GDP January 2008 August 2009 March 2007 STD/DOC(2016)8 35 Appendix 3 Score system for the Press Release headlines 70. 
+This Appendix illustrates the method used to assign a score to Press Release headlines (Figure 4). 
+Selected keywords in monthly Press Releases have been translated into scores. The selection of such 
+keywords has been made so that the core message of the CLI signal could be fully captured. A positive 
+sign has been assigned to messages identifying a recovery phase and a negative sign to messages 
+identifying a slowdown. Scores are reported in Table 9 below. Table 9 CLI Press Releases: keywords and associated scores CLI Press release's keywords Left side (entering crisis) 
+Assigned 
+scores 
+Right side (exiting crisis) Improved / continued positive outlook 
+4 
+--
+Mixed outlook 
+3 
+Stronger signals of expansion 
+Moderating outlook 
+2 
+Stronger signs of recovery 
+Weakening outlook 
+1 
+Broad economic recovery 
+Downswing 
+0 
+Signs of improvement 
+Slowdown 
+-1 
+--
+Intensified slowdown 
+-2 
+Easing pace of deterioration Sharper slowdown 
+-3 
+Deep slowdown but the pace of deterioration is 
+easing 
+Deepening slowdown 
+-4 
+Deep slowdown 
+Lowest levels since 1970s 
+-5 
+--
+New low 
+-6 
+--Note: the sign  " -- "  indicates that there is no message associated with the score. 
+Source: CLI Press Releases, OECD. 

@@ -1,0 +1,2665 @@
+Please cite this paper as: de Lagasnerie, G. et al. (2015),  " Tapering payments in 
+hospitals: Experiences in OECD countries " , OECD Health 
+Working Papers, No. 78, OECD Publishing, Paris. 
+http://dx.doi.org/10.1787/5js4h5rlkxxr-en OECD Health Working Papers No. 78 Tapering payments in 
+hospitals EXPERIENCES IN OECD COUNTRIES Grégoire de Lagasnerie, Valérie Paris, 
+Michael Mueller, Ankit Kumar JEL Classification: D22, D24, H51, I18, L84, L88 Unclassified DELSA/HEA/WD/HWP(2015)1 Organisation de Coopération et de Développement Économiques 
+Organisation for Economic Co-operation and Development 27-Mar-2015 
+___________________________________________________________________________________________ 
+_____________ 
+English text only DIRECTORATE FOR EMPLOYMENT, LABOUR AND SOCIAL AFFAIRS HEALTH COMMITTEE Health Working Papers OECD Health Working Paper No. 78 TAPERING PAYMENTS IN HOSPITALS --EXPERIENCES IN OECD COUNTRIES Grégoire de Lagasnerie, Valérie Paris, Michael Mueller, Ankit Kumar JEL classification: D22, D24, I18, L84, L88, H51 Authorised for publication by Stefano Scarpetta, Director, Directorate for Employment, Labour and 
+Social Affairs All Health Working papers are now available through the OECD's Internet Website at 
+http://www.oecd.org/els/health-systems/health-working-papers.htm JT03373318 Complete document available on OLIS in its original format 
+This document and any map included herein are without prejudice to the status of or sovereignty over any territory, to the delimitation of 
+international frontiers and boundaries and to the name of any territory, city or area. DELSA/HEA/WD/HWP(2015)1 
+Unclassified English text only DELSA/HEA/WD/HWP(2015)1 2 DIRECTORATE FOR EMPLOYMENT, LABOUR AND SOCIAL AFFAIRS www.oecd.org/els OECD HEALTH WORKING PAPERS http://www.oecd.org/els/health-systems/health-working-papers.htm OECD Working Papers should not be reported as representing the official views of the OECD or of its 
+member countries. The opinions expressed and arguments employed are those of the author(s). Working Papers describe preliminary results or research in progress by the author(s) and are 
+published to stimulate discussion on a broad range of issues on which the OECD works. Comments on 
+Working Papers are welcomed, and may be sent to the Directorate for Employment, Labour and Social 
+Affairs OECD, 2 rue André-Pascal, 75775 Paris Cedex 16, France. This series is designed to make available to a wider readership selected health studies prepared for use 
+within the OECD. Authorship is usually collective, but principal writers are named. The papers are 
+generally available only in their original language – English or French – with a summary in the other. The statistical data for Israel are supplied by and under the responsibility of the relevant Israeli 
+authorities. The use of such data by the OECD is without prejudice to the status of the Golan Heights, East 
+Jerusalem and Israeli settlements in the West Bank under the terms of international law. Applications for permission to reproduce or translate 
+all or part of this material should be made to: Head of Publications Service 
+OECD 
+2, rue André-Pascal 
+75775 Paris, CEDEX 16 
+France Copyright OECD 2015 DELSA/HEA/WD/HWP(2015)1 3 ACKNOWLEDGEMENTS This study was carried out thanks to a voluntary contribution from France and written up by members 
+of the Health Division of the OECD. France is thus often prominent in the qualitative and quantitative 
+analyses presented in this document. The opinions expressed in it are those of the authors and do not 
+necessarily reflect those of the OECD or the French Government. The various figures and tables are taken 
+from OECD Health Statistics 2013 unless stated otherwise. The authors would like to thank the following 
+for supporting this project and for their comments: Agence Technique de l'Information sur 
+l'Hospitalisation (ATIH), especially Véronique Sauvadet, Nathalie Rigollot and Florence Pinelli, also the 
+Direction Générale de l'Offre de Soins, especially Adeline Townsend and Adrien Dozol. The authors are 
+also grateful to those who helped them in the countries used for the case studies: Lenka Poliaková, Jan 
+Alexa, Dr. Leon Levi, Eli Cohen, Shlomit Krapivka, Yonatan Green, Robert Murray, Graham Atkinson, 
+Donna Kinzer, Jack Keane, Jack Cook, Sue Calikoglu, Jerry Schmidth, Ferdinand Rau, Marc Schreiner, 
+Dr. Roland Laufer, Dr. Christian Jaeger, Johannes Wolff, Uwe Klein-Hitpaß, Dr. David Scheller-Kreinsen, 
+Dr. Alexander Geissler and Dr. Wilm Quentin. Special thanks are also due, within the OECD, to Michael 
+Schoenstein for his vital contribution to the case study on Germany and to David Morgan for his advice 
+and comments. DELSA/HEA/WD/HWP(2015)1 4 ABSTRACT This study covers  " tapering scale "  mechanism in hospital payments, i.e. mechanisms linking unit 
+prices to the volume of services produced. This paper begins with an overview of hospital services and 
+hospital payment methods in OECD countries, focusing more specifically on DRG-based payment. It then 
+reviews studies published on economies of scales in hospitals, which is the economic rationale justifying 
+tapering payments. Thereafter, four case studies from Germany, the US State of Maryland, the Czech 
+Republic and Israel offer a detailed insight into the practicalities of introducing this method of controlling 
+hospital volumes and the impacts it has had. RÉSUMÉ Ce rapport porte sur les politiques de dégressivité tarifaire appliquées au paiement des hôpitaux, c'est-
+à-dire les mécanismes liant les prix unitaires des services hospitaliers au volume de soins produits. Ce 
+document de travail dresse tout d'abord un panorama de l'offre hospitalière et des modes de paiement des 
+hôpitaux au sein des pays de l'OCDE en étudiant plus spécifiquement le paiement à l'activité. Il présente 
+ensuite une revue des études portant sur les économies d'échelle dans le secteur hospitalier, justification 
+principale de la diminution des tarifs au-delà d'un seuil de production. Enfin, quatre études de cas en 
+Allemagne, l'État du Maryland, la République tchèque et Israël sont présentées afin d'étudier finement les 
+modalités d'instauration et l'impact de ce mécanisme de contrôle des volumes hospitaliers. DELSA/HEA/WD/HWP(2015)1 5 TABLE OF CONTENTS ACKNOWLEDGEMENTS ............................................................................................................................ 3 ABSTRACT .................................................................................................................................................... 4 RÉSUMÉ ......................................................................................................................................................... 4 EXECUTIVE SUMMARY AND MAIN CONCLUSIONS ........................................................................... 7 INTRODUCTION ........................................................................................................................................... 8 OVERVIEW OF HOSPITAL SECTOR AND PAYMENT METHODS IN OECD COUNTRIES .............. 9 The share of hospital care costs in total health spending is falling, but still accounts for 29% of 
+expenditure in OECD countries ................................................................................................................... 9 
+Hospital funding in OECD countries ......................................................................................................... 12 
+Hospital costs are mainly financed by the public sector ........................................................................ 12 
+Trend towards DRG-based payment in health insurance systems ......................................................... 15 ECONOMIES OF SCALE IN HOSPITALS: A LITERATURE REVIEW ................................................. 21 Accounting approach: identification of the proportion of fixed costs in hospital care production ............ 21 
+Static approach: for some procedures, fixed costs represent the majority of production costs .............. 21 
+Dynamic approach: semi-variable expenses must be taken into account when calculating the cost 
+structure of hospitals .............................................................................................................................. 23 
+Literature review of the economic studies relating to the existence of economies of scale in hospitals ... 24 
+Theoretical model and econometric models ........................................................................................... 24 
+Data used in studies ................................................................................................................................ 25 
+Results .................................................................................................................................................... 28 EXPERIENCES OF TAPERING PAYMENT SCALES IN FOUR OECD COUNTRIES ......................... 30 Germany ..................................................................................................................................................... 30 
+Basic facts of health system ................................................................................................................... 30 
+Hospitals ................................................................................................................................................. 30 
+Hospital payments in Germany .............................................................................................................. 31 
+The tapering system ............................................................................................................................... 32 
+Maryland (United States) ........................................................................................................................... 37 
+Basic facts of health system ................................................................................................................... 37 
+Hospitals ................................................................................................................................................. 38 
+Hospital payments in the State of Maryland .......................................................................................... 40 
+Hospital revenue budgets ....................................................................................................................... 41 
+Tapering payment or variable cost factor (VCF) in the State of Maryland ............................................ 42 
+Czech Republic .......................................................................................................................................... 44 
+Basic facts of the health system ............................................................................................................. 44 
+Hospitals ................................................................................................................................................. 44 
+Hospital payments in the Czech Republic .............................................................................................. 45 
+The tapering payment system in the Czech Republic ............................................................................ 46 
+Rationale of introduction ........................................................................................................................ 47 
+Evaluation of effectiveness .................................................................................................................... 47 
+Israel........................................................................................................................................................... 48 
+Basic facts of health system ................................................................................................................... 48 
+Hospital payments in Israel .................................................................................................................... 49 DELSA/HEA/WD/HWP(2015)1 6 The tapering payment system in Israel ................................................................................................... 49 
+Summary of tapering experiences .............................................................................................................. 52 CONCLUSION ............................................................................................................................................. 57 REFERENCES .............................................................................................................................................. 60 ANNEX 1: DETAILED DESCRIPTION OF THE FEATURES OF DRG-BASED PAYMENT SYSTEMS 
+IN OECD COUNTRIES................................................................................................................................ 65 ANNEX 2: SETTING THE POINT VALUE IN GERMANY ..................................................................... 70 ANNEX 3: FORMULA FOR CALCULATING THE HOSPITAL'S ACTIVITIES CAP AND REVENUE 
+IN THE CZECH REPUBLIC ........................................................................................................................ 72 Tables Table 1: Basic health care coverage in the OECD countries ..................................................................... 13 
+Table 2: Main hospital payment method used by health insurance systems, by legal status of hospitals, in 
+2012 ........................................................................................................................................................... 18 
+Table 3: Main method used to pay hospitals, by legal status, in 2012 in systems funded by taxation ...... 19 
+Table 4: The different procedures analysed in the Health Benefit Basket project ..................................... 22 
+Table 5: Description of data used when evaluating economies of scale in the hospital sector and cost 
+elasticity ..................................................................................................................................................... 27 
+Table 6: Rate of growth in case mix between 2004 and 2014 ................................................................... 36 
+Table 7: The tapering payment mechanism in Israel ................................................................................. 51 
+Table 8: Summary ...................................................................................................................................... 54 
+Table A.1: History and main characteristics of hospital stay classification systems introduced in selected 
+OECD countries ......................................................................................................................................... 66 
+Table A.2: Inclusion of capital costs and training and teaching activities in DRG-based payments in the 
+OECD countries ......................................................................................................................................... 68 
+Table A.3: Scope of DRG-based payment for certain health services in the OECD countries ................. 69 Figures Figure 1: Per capita spending on hospital inpatient care in 2011 (or nearest year) ................................... 10 
+Figure 2: Current health expenditure by function of health care in 2011 (or nearest year) ....................... 11 
+Figure 3: Average annual growth rates of health spending for selected functions, in real terms, OECD 
+average, 2008 to 2011 ................................................................................................................................ 12 
+Figure 4: Structure of hospital cost funding in 2011 (or nearest year) ...................................................... 14 
+Figure 5: Structure of public and private hospital funding in 2011 (or nearest year) ................................ 15 
+Figure 6: Proportion accounted for by general expenses in four inpatient procedures in France and 
+averaged over nine OECD member countries ............................................................................................ 23 
+Figure 7: Expenses per inpatient day for hospital services requiring at least one night as an inpatient in 
+Maryland and in the United States (2001-2011) ........................................................................................ 38 
+Figure 8: Admissions per 1 000 population between 1999 and 2011 in the State of Maryland and in the 
+United States .............................................................................................................................................. 40 
+Figure 9: Total case mix for care between 2007 and 2012 ........................................................................ 48 Boxes Box 1. Definition of main hospital payment systems ................................................................................ 16 
+Box 2. Efficiency in the hospital sector, economies of scope and influence of hospitals' status on costs 28 Charts Chart 1: Hospital payments in Germany .................................................................................................... 34 DELSA/HEA/WD/HWP(2015)1 7 EXECUTIVE SUMMARY AND MAIN CONCLUSIONS 1. 
+Against a background of increased pressure on public finances, the question of how to control 
+hospital spending, which is predominantly funded from public sources, is a major issue for OECD 
+countries. In 2011, hospital care accounted for 29% of all health spending, on average in OECD countries, 
+and for 2.6% of gross domestic product (GDP). In two-thirds of OECD countries, around 90% of these 
+costs are funded out of public finances. 2. 
+Payment systems are among the instruments available to public or private payers to regulate the 
+behaviour of health care providers and encourage certain structures to become more efficient and 
+productive. This study looks in depth into one mechanism used in hospital payments: the tapering payment, 
+by which the remuneration per hospital case is reduced beyond a volume threshold. Tapering payment is 
+based on the hypothesis that economies of scales exist in hospital production and generally aims to control 
+spending and/or discourage excessive volumes of care. This mechanism has been adopted in at least six 
+OECD countries. 3. 
+To provide the best possible picture of the challenges entailed in operating a tapering scale 
+mechanism, this paper begins with an overview of hospital services and hospital payment methods in 
+OECD countries, focusing more specifically on DRG-based payment, the framework within which 
+tapering payment most often operates. The study then sets out the economic rationale justifying the 
+tapering scale, drawing on a review of the literature on economies of scale within the hospital sector. 
+Thereafter, four case studies from Germany, the US State of Maryland, the Czech Republic and Israel offer 
+a detailed insight into the practicalities of introducing this mechanism for controlling hospital volumes and 
+the impacts it has had. The key findings of this report are the following:  Whereas global budgets are the predominant mode of payment for hospital services in tax-funded 
+national health systems, remuneration through DRGs is the main mode to pay for hospital 
+services in countries with social health insurance. Tapering payments is a tool most often used in 
+DRG-type systems. 
+ Five health insurance systems – namely in Germany, the US State of Maryland, the Czech 
+Republic, Israel, and Hungary – and one tax-funded health system (Australia) have introduced 
+tapering payment. 
+ Tapering payment is intended primarily to contain the growth of hospital costs by imposing 
+constraints on individual hospitals rather than on the hospital sector as a whole. 
+ Tapering payment is justified by the existence of economies of scale, even if the empirical 
+evidence for such economies in the hospital sector is not used in setting activity thresholds or 
+rates of tapering payment where such mechanisms apply. 
+ Tapering payment is applied uniformly to all hospital activities, with a few exceptions, but some 
+countries make adjustments to take into account the impact of new activities on hospital volume. 
+ Given the moderate impact of tapering payment on hospital activities, some of the countries 
+studied are inclined to introduce more rigorous systems to contain spending growth. DELSA/HEA/WD/HWP(2015)1 8 INTRODUCTION 1 4. 
+The question of how to control hospital spending, which is mainly publicly funded, is a major 
+issue for OECD countries. In 2011, hospital care accounted, on average, for 29% of all health spending in 
+the OECD countries and 2.6% of gross domestic product (GDP). In two-thirds of the OECD countries, 
+over 90% of these costs are funded from public sources. 5. 
+Payment systems are just one of the instruments available to private or public payers to regulate 
+the behaviour of health care providers and encourage certain structures to become more efficient and 
+productive. OECD countries introduced DRG-based hospital payment systems for different reasons, 
+including increase efficiency in the use of resources in hospitals, contain hospital costs, increase 
+transparency, reduce waiting times, support patient choices and/or improve the quality of care. The tool to 
+achieve these objectives is prospective tariffs per case depending on the diagnosis and procedures 
+performed and irrespective of the actual costs incurred. These DRG-based payments serve as financial 
+incentives to hospitals to reduce costs per patient and average length of stay thus improving technical 
+efficiency. But payment via DRG also encourages hospitals to treat more patients and increase hospital 
+activity when marginal revenue is above the marginal cost per patient. Whether expenditure in hospitals 
+increases or decreases depends on which of the two contrary effects dominate: increasing the number of 
+cases or decreasing the number of services per case (Geissler et al. 2011). 6. 
+In order to contain the inflation of hospital activity under DRG-based payment systems and to 
+incentivize hospitals to perform only strictly necessary procedures, some OECD countries have reduced 
+the rate of remuneration (tariff) by which DRG-based payments are made above a defined volume of 
+production. The main reason to justify this payment reduction, a mechanism known as  " tapering payment " , 
+is that -as in many alternative industries -economies of scale can be achieved in the production process of 
+hospital services. Economies of scale are achieved when the unit cost of production decreases when total 
+production increases. This concept is especially pertinent where production entails a significant level of 
+fixed costs. Whilst the nature of costs (fixed and variable) can vary over time, the structure of hospital 
+production has features which, in theory at least, justify the existence of economies of scale. Depreciation, 
+maintenance, and general logistics are fixed costs which are theoretically already fully taken into account 
+once a pre-defined level of production is attained. Above this threshold, reduced payments based on a 
+tapering scale then means that the hospital will only be reimbursed for the variable costs of the care it 
+delivers. 7. 
+For a full picture of the challenges entailed in operating a tapering scale mechanism, this paper 
+begins with an overview of hospital services and hospital payment methods across OECD countries, 
+focusing more specifically on DRG-based payment systems, the framework within which tapering payment 
+can be made operational. Our study then sets out the economic arguments for introducing the tapering 
+scale, drawing on a review of the literature on economies of scale within the hospital sector. Thereafter, 
+four case studies from Germany, the US State of Maryland, the Czech Republic and Israel are presented to 
+give detailed insights into the different approaches of introducing this mechanism, the national context of 
+the implementation, and the impacts it has had on controlling hospital volumes. 1 This analysis was motivated by a request from the French Ministry of Health. In France, an overall health 
+spending ceiling is set annually by the parliament, which also defines an upper boundary for overall 
+hospital spending. Once this boundary is reached, the system reacts by automatically lowering the tariffs 
+for all DRGs (payment via DRG is the main mode of financing hospital activity) included in the catalogue 
+applicable to all hospitals by the same percentage. The French Ministry of Health has questioned whether 
+mechanisms exist in other countries to reduce DRG tariffs in a more discriminate way by targeting certain 
+DRGs or hospitals that are responsible for hospital overspending at an aggregate level. DELSA/HEA/WD/HWP(2015)1 9 OVERVIEW OF HOSPITAL SECTOR AND PAYMENT METHODS IN OECD COUNTRIES 8. 
+Against a background of increased pressure on public finances, the question of how to control 
+hospital spending is a major issue for policy makers in many OECD countries. Hospital care 
+2 accounts for 
+29% of total health spending on average across OECD countries. In some countries, such as France, 
+Greece and Austria, this share is more than a third. 9. 
+When it comes to reining in hospital spending, the mechanisms by which hospitals are paid can 
+play a pivotal role as they provide different financial incentives for actors in this sector. In OECD 
+countries, four main types of payment system are used to remunerate hospitals: DRG-based payment, 
+prospective global budgets, line-item budgeting and fee-for-service/payment for activity (see Box 1 for 
+definitions). The first section below describes the main features of the hospital sector in OECD countries 
+and shows the diversity of the contexts within which the various hospital payment systems operate. The 
+next sections presents how hospital care is financed and how hospital services are paid for. The share of hospital care costs in total health spending is falling, but still accounts for 29% of 
+expenditure in OECD countries 10. 
+The following brief overview of hospital spending seeks to put the use of DRG-based payment 
+and payment reductions based on a tapering scale in OECD countries into a financial context. 11. 
+Spending on hospital care accounted, on average, for 2.6% of gross domestic product (GDP) in 
+OECD countries in 2011 (OECD Health Statistics, 2013) but differed widely across countries. The figure 
+was highest for France (4.2% of GDP), followed by Austria (3.6%) and Greece (3.4% of GDP). At the 
+other end of the scale, Chile devoted only 1% of its GDP to inpatient care. 12. 
+In a similar way, per capita spending on hospital care ranged from USD PPP 209 to 1 660 in 
+2011. It stood at USD PPP 1 482 in France which was about 50% above the OECD average of 
+USD PPP 973 (Figure 1) but still somewhat below the top spenders Norway (1 660 USD PPP), 
+Switzerland (1 561 USD PPP) and Austria (1 530 USD PPP). 2 In this paper,  " hospital spending "  and  " hospital costs "  refer to cost of inpatient curative and rehabilitative 
+care including day cases. It does not include outpatient consultations. DELSA/HEA/WD/HWP(2015)1 10 Figure 1: Per capita spending on hospital inpatient care in 2011 (or nearest year) * Data for 2010 Source: OECD Health Statistics 2013 13. 
+Spending on hospital and outpatient care makes up a significant proportion of overall health 
+spending in OECD countries. In 2011, together they accounted for about 62% of current health spending, 
+on average (Figure 2). A further 20% of health spending went on medical goods (mainly pharmaceuticals, 
+which were 17% of the total), 12% on long-term care and the remaining 6% on collective services, such as 
+public health programmes, preventive services and administration. 0 200 400 600 800 1000 1200 1400 1600 1800 USD PPP DELSA/HEA/WD/HWP(2015)1 11 Figure 2: Current health expenditure by function of health care in 2011 (or nearest year) * Inpatient curative and follow-up care and rehabilitation, including one-day stays. 
+** Includes domiciliary care and ancillary services. 
+1 In the USA, fees charged by independent doctors for inpatients are included in outpatient care. 
+Source: OECD Health Statistics 2013. 14. 
+Spending on inpatient care (including day care in hospitals) is the biggest cost component for a 
+number of countries, including France and Greece where it accounts for 37% of total spending – 
+8 percentage points more than the average for the OECD countries. 15. 
+On average, spending on inpatient care in OECD countries continued to grow in 2010 and 2011, 
+albeit at a markedly slower rate than in 2008 and 2009 (Figure 3). Many countries have taken measures to 
+rein in public spending in this area: cutting staff numbers, reducing salaries paid to health professionals and 
+fees paid to health care providers, and increasing the patient's out-of-pocket share -all in an attempt to 
+ease the pressure on budgets (Morgan and Astolfi, 2013). 37 37 36 35 32 32 32 31 31 30 30 30 30 29 29 29 29 28 28 27 27 26 26 25 25 22 20 18 22 
+27 28 28 
+28 
+33 35 34 36 
+26 26 36 22 
+30 33 31 33 42 
+34 35 45 48 
+38 
+28 
+33 
+33 35 51 11 1 15 
+6 
+9 9 
+4 
+15 
+4 21 
+29 10 24 12 12 19 24 8 
+20 21 2 8 11 4 12 0 15 6 21 31 17 
+26 24 
+22 24 
+11 24 
+17 11 17 15 20 
+20 18 11 
+16 11 12 
+23 15 
+21 37 23 38 20 
+14 9 
+4 
+5 
+4 
+7 
+5 
+6 10 
+5 
+6 
+3 
+7 
+9 
+9 
+6 
+4 
+3 
+6 
+7 
+5 
+4 
+3 
+5 
+6 
+7 
+6 10 11 0 10 20 30 40 50 60 70 80 90 100 % Inpatient care* 
+Outpatient care** 
+Long-term care 
+Medical goods 
+Collective services DELSA/HEA/WD/HWP(2015)1 12 Figure 3: Average annual growth rates of health spending for selected functions, in real terms, OECD average, 
+2008 to 2011 Source: OECD Health Statistics 2013 Hospital funding in OECD countries 16. 
+The source of funding for hospitals differs between OECD countries and is intrinsically linked to 
+the structure of the health system. How a patient is protected against the cost of hospital care defines the 
+main financing block of a country's health system. The characteristics of basic health care coverage in 
+OECD countries are presented below, followed by an outline of the various hospital payment methods 
+used. Hospital costs are mainly financed by the public sector 17. 
+In OECD countries, there are two major sources of funding, depending on the characteristics of 
+each country's system for covering health care costs (Table 1). National health systems of the kind seen in 
+the United Kingdom, Portugal and Spain, and local health systems such as those in Finland and Sweden, 
+are funded mainly through taxation. Health insurance systems, on the other hand, are predominantly 
+funded out of employees' and employers' social insurance contributions and can be implemented by one or 
+multiple insurance funds. Most countries with multiple health insurers have a range of competing insurers, 
+that is, an individual can choose between different insurance funds (e.g. Czech Republic, Germany, Israel). 
+However, in some other countries with multiple insurers, such as France, Belgium, Austria and Japan, 
+affiliation to one insurance fund is automatic, depending, for example, on an individual's occupation. 4.8% 
+4.8% 5.9% 2.9% 6.9% 2.5% 3.2% 4.6% 6.2% 2.8% 6.4% 3.5% 0.7% 
+0.9% 5.3% 0.2% -1.5% -0.9% 1.0% 1.7% 
+1.6% -1.7% 
+-1.7% 1.7% -3% -2% -1% 0% 1% 2% 3% 4% 5% 6% 7% 8% Inpatient care Outpatient care Long-term care Pharmaceuticals 
+Prevention 
+Administration 2007/08 
+2008/09 
+2009/10 
+2010/11 DELSA/HEA/WD/HWP(2015)1 13 Table 1: Basic health care coverage in the OECD countries Main source of basic health care cover 
+Countries Tax-funded system of health care Australia, Canada, Denmark, Finland, Hungary, 
+Iceland, Ireland, Italy, New Zealand, Norway, Portugal, 
+Spain, Sweden, United Kingdom Health insurance 
+system Single payer 
+Korea, Luxembourg, Poland, Slovenia, Turkey, 
+Greece* Multiple insurers with 
+automatic affiliation 
+Austria, Belgium, France, Japan, Mexico Multiple insurers with free 
+choice of insurer Chile, Czech Republic, Germany, Israel, Netherlands, 
+Slovakia, Switzerland, USA * As of 2012 Source: OECD Health System Characteristics Survey 2012 18. 
+Although tax-funded and health insurance systems have differences in terms of access and 
+entitlement to health care goods and services, they share similarities in the way hospital costs are financed. 
+On average, across OECD countries, 88% of hospital costs were funded by the public sector in 2011. The 
+exception is the United States where private insurers meet 36% of hospital costs. This is due to the fact in 
+the US private insurers provide basic cover to 53% of the population. In most other OECD countries, 
+private insurance has a much more limited role, providing either complementary (e.g. France, Belgium, 
+Slovenia, Luxembourg) or supplementary coverage (e.g. Netherlands, Israel, Canada, Austria, Switzerland, 
+Finland) to their populations. As a result, private insurers finance only around 5% of hospital spending, on 
+average. Some hospital costs are also financed directly from patients: 6% on average across the OECD 
+compared to 20% of total spending on health (OECD, 2013). This shows that public coverage for hospitals 
+costs in OECD countries is generally higher than for other health care goods or services 
+(e.g. pharmaceuticals). DELSA/HEA/WD/HWP(2015)1 14 Figure 4: Structure of hospital cost funding in 2011 (or nearest year) Source: OECD Health Statistics 2013 19. 
+The financing structure of hospitals not only varies between countries but can also differ between 
+public and private hospitals within a country (Figure 5). This suggests that the nature of health care 
+provided by public and private hospitals may sometimes differ. In France, the funding of public and private 
+hospitals is similarly structured (90% covered by the public sector), which means that private hospitals are 
+reimbursed by health insurance funds for the care they deliver on the same basis as public hospitals. The 
+same holds for Finland. By contrast, in Spain, Portugal and Greece, the funding structures are quite 
+different, suggesting that treatments performed by private hospitals are not entirely covered by basic health 
+insurance. In Spain, for example, the public sector meets 100% of the costs of care provided in public 
+hospitals but only 66% of the costs of private hospital care. 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100% Gen Govt 
+Social Security 
+Private Health Insurance 
+Private OOP 
+Rest DELSA/HEA/WD/HWP(2015)1 15 Figure 5: Structure of public and private hospital funding in 2011 (or nearest year) Note: No data for the other OECD countries. Source: OECD Health Statistics 2013. Trend towards DRG-based payment in health insurance systems 20. 
+In 2012, the OECD conducted a survey of the institutional characteristics of its member 
+countries' health systems 3 . This survey describes country-specific arrangements for covering the 
+population against health risks and financing health spending. It depicts the organisation of health care 
+delivery, focusing on the public/private mix of health care provision, provider payment schemes, user 
+choice and competition among providers, as well as the regulation of health care supply and prices. Finally, 
+it provides information on governance and resource allocation in health systems (decentralisation in 
+decision-making, nature of budget constraints and priority setting). Part of this survey was dedicated to the 
+modes of payment and the organisation of inpatient care. 3 The complete survey and selected results can be found here: http://www.oecd.org/els/health-
+systems/characteristics.htm DELSA/HEA/WD/HWP(2015)1 16 Box 1. Definition of main hospital payment systems Global budget Total amount allocated prospectively to the hospital to fund its activities over the course of the year. 
+Generally, hospitals have some degree of autonomy in deciding how funds are used. Line-item budgeting Line-item budgeting follows the same principle as the global budget except that funds are allocated to 
+different cost items or services. The main difference between these two budgeting mechanisms is the hospital's 
+degree of freedom in allocating resources among its various activities. DRG-based payment In general, DRG-based payment (or payment per case) funds all the services and deliverables required 
+during a hospital stay in one single payment, with some exceptions for possible additional payments such as 
+expensive medication. In this payment system, patients are clustered into groups according to their diagnosis and 
+the procedures performed. The aim is to create patient groups that use a similar amount of resources in the 
+course of the treatment and thus reflect a similar cost for service provision. Hospitals receive an identical 
+payment (DRG tariff) for each patient within a DRG category, with possible adjustments (e.g. by regions, for 
+outliers, etc.). DRG tariffs are usually set on the basis of the national average costs of all the services included in 
+a DRG, calculated from a sample of hospitals. The payment a hospital receives is known prospectively and 
+irrespective of the length of stay and the actual costs incurred. In practice, DRG rates can be either defined as 
+relative weights, to be multiplied by a  " nominal point value "  to obtain a monetary value, or as a  " raw tariffs (see 
+table below). Adjustments can be applied to DRG tariffs to allow, for example, for specific factors such as hospital 
+location, hospital status or patient characteristics. Table: DRG weight approach Source: adapted from Busse (2011) Fee-for-service payment In a fee-for-service payment scheme, hospitals are remunerated retrospectively for every service and 
+procedure performed in the course of the treatment of a patient. Per-diem payment In a per-diem payment regime hospitals are reimbursed retrospectively on the basis of the number of days 
+spent in hospital. They receive a fixed amount for each patient day. The daily rates may differ between different 
+specialties but also between different types of care (e.g. intensive care). 21. 
+Countries with health insurance systems tend to use DRG-based payment systems as the main 
+method to finance hospital inpatient activity (Table 2) 
+4 : 70% of them have opted for DRG-based payments 
+to public hospitals (14 out of 20) while the remaining countries rather use prospective global budget 
+(Belgium, Luxembourg) or fee-for-service payment (Israel, Korea, Slovakia). 4 Countries were identified to identify the main method used by the key purchasers to pay for acute care. 
+Additional methods exist in a number of countries which are not shown in the table. DRG weight 
+Monetary 
+conversion* 
+Adjustment 
+Hospital payment 
+tariff 
+Relative weights 
+1.95 
+EUR 2000 
+EUR 3900 
+Raw tariff 
+EUR 3000 
+1.3 
+EUR 3900 
+* may be set for each individual hospital DELSA/HEA/WD/HWP(2015)1 17 22. 
+Most countries with health insurance systems (14 out of 20 countries) have the same main 
+method of hospital payment regardless of a hospital's legal status (Table 2). Nine of these use DRG-based 
+payment systems (Austria, France, Germany, Japan, Netherlands, Poland, Slovenia, Switzerland) while 
+five exclusively use either global budgets or fee-for service payments. There are advantages of applying a 
+single payment system as they tend to allow for more efficient management of the system and achieve 
+economies of scale for the development of information technology. DELSA/HEA/WD/HWP(2015)1 18 Table 2: Main hospital payment method used by health insurance systems, by legal status of hospitals, in 
+2012 Public hospital 
+Private not-for-profit 
+hospital Private for-profit 
+hospital Austria 
+DRG-based 
+DRG-based 
+DRG-based Belgium 
+Global budget 
+Global budget 
+n.a. Chile 
+DRG-based 
+DRG-based 
+Line-item remuneration Czech Republic 
+DRG-based 
+DRG-based 
+DRG-based Estonia 
+DRG-based France 
+DRG-based 
+DRG-based 
+DRG-based Germany 
+DRG-based 
+DRG-based 
+DRG-based Greece 
+DRG-based 
+DRG-based 
+Fee-for-service Hungary 
+DRG-based 
+DRG-based 
+Fee-for-service Israel 
+Fee-for-service 
+Fee-for-service 
+Fee-for-service Japan 
+DRG-based 
+DRG-based 
+n.a. Korea 
+Fee-for-service 
+Fee-for-service 
+n.a. Luxembourg 
+Global budget 
+Global budget 
+n.a. Mexico 
+Global budget 
+Fee-for-service 
+Fee-for-service Netherlands 
+DRG-based 
+DRG-based 
+n.a. Poland 
+DRG-based 
+DRG-based 
+DRG-based Slovakia 
+Fee-for-service 
+Fee-for-service 
+Fee-for-service Slovenia 
+DRG-based 
+DRG-based 
+DRG-based Switzerland 
+DRG-based 
+DRG-based 
+DRG-based USA (Medicare) 
+DRG-based 
+DRG-based 
+Fee-for-service Source: OECD Health System Characteristics Survey 2012. DELSA/HEA/WD/HWP(2015)1 19 23. 
+Tax-funded national health systems tend to pay hospitals using a prospective global budget 
+(Table 3). Two-third of them (9 out of 13) use global budget the main payment method to finance public 
+hospitals and only three of those countries (Australia, Finland and the United Kingdom) use a DRG-based 
+system. Some countries such as Sweden, Norway and Portugal use a DRG-based classification for 
+managing hospital budgets but pay their hospitals out of a global budget. Fee-for-service payment and line-
+item remuneration are also less commonly used in tax-funded systems. 24. 
+Countries with tax-funded systems generally pay hospitals differently according to their status, 
+with the exception of Canada, Ireland and Sweden. One possible explanation for the greater diversity in 
+hospital payment methods in tax-funded health systems may stem from the tendency of national health 
+systems in a number of countries to limit coverage to public providers. Hence, in a parallel private sector 
+where services need to be financed either out-of-pocket or via private insurance a different remuneration 
+system for hospital activity might have developed. Table 3: Main method used to pay hospitals, by legal status, in 2012 in systems funded by taxation Public hospital 
+Private not-for-profit 
+hospital Private for-profit 
+hospital Australia 
+DRG-based 
+Fee-for-service 
+Fee-for-service Canada 
+Global budget 
+Global budget 
+Global budget Denmark 
+Global budget 
+n.a. 
+DRG-based Finland 
+DRG-based Iceland 
+Global budget 
+n.a. 
+n.a. Ireland 
+Global budget 
+Global budget Italy 
+Global budget 
+DRG-based 
+DRG-based New Zealand 
+Global budget 
+n.a. 
+n.a. Norway 
+Global budget 
+Global budget 
+DRG Portugal 
+Global budget 
+Fee-for-service 
+Fee-for-service Spain 
+Line item remuneration 
+Global budget Sweden 
+Global budget 
+Global budget 
+Global budget United Kingdom 
+DRG-based 
+Fee-for-service 
+Fee-for-service Source: OECD Health System Characteristics Survey 2012. DELSA/HEA/WD/HWP(2015)1 20 25. 
+The increasing use of DRG-based payments serves as a financial incentive to hospitals to reduce 
+costs per patient and average length of stay thus improving technical efficiency. But payment via DRG also 
+encourages hospitals to treat more patients, increasing hospital activity when marginal revenue is above the 
+marginal cost per patient. In an attempt to limit spending growth which may be a consequence of the 
+introduction of DRG payment schemes, some OECD countries have reduced the DRG tariffs above a pre-
+defined volume of production, using a mechanism known as tapering payment. As a result, hospitals are 
+paid less for a case once a certain level of hospital activity has been reached. The main reason given to 
+justify these reductions is that economies of scale can be achieved within the hospital production system. 
+Above a pre-defined level of hospital activity, the hospital is deemed to have covered all fixed costs and 
+consequently should be paid only for its variable costs. An analysis of the economic literature will 
+illuminate this debate on economies of scale within the hospital sector and enable us to judge the merits of 
+this reduction in tariffs above a defined threshold of activity. DELSA/HEA/WD/HWP(2015)1 21 ECONOMIES OF SCALE IN HOSPITALS: A LITERATURE REVIEW 26. 
+Economies of scale can be observed in the production process in many industries. It refers to the 
+situation where average unit costs decrease with an increase in output. The extent to which economies of 
+scale can be generated depends on the cost structure of the industry. In industries that produce goods or 
+services involving huge capital investments, the fixed costs per unit of production is high and an additional 
+unit is relatively cheaper to produce, since only variable costs need to be taken into account. Consequently, 
+the average cost of production per unit falls with each additional unit produced within certain limitations. 27. 
+Two approaches have been followed when analysing the existence of economies of scale in the 
+hospital sector: an accounting and an economic approach. The accounting approach consists in analysing 
+the cost structure of the production of services. However, this static approach must be complemented by a 
+dynamic analysis to take account of the existence of semi-variable costs, those costs which increase in 
+steps. The economic approach is based on a literature review of published studies that analyse the 
+existence of economies of scale in hospitals. 28. 
+While the accounting approach and most of the published literature suggest that there are 
+economies of scale in the hospital sector, there are also articles, in some cases of questionable 
+methodology, that have highlighted diseconomies of scale in hospitals. Accounting approach: identification of the proportion of fixed costs in hospital care production Static approach: for some procedures, fixed costs represent the majority of production costs 29. 
+Busse et al. (2008) analysed the cost structure of ten different types of treatment across nine 
+European countries. Five of these procedures are performed as inpatient care in hospitals, namely 
+appendectomy, normal childbirth, hip replacement, the treatment of stroke and of acute myocardial 
+infarction (Table 4). DELSA/HEA/WD/HWP(2015)1 22 Table 4: The different procedures analysed in the Health Benefit Basket project Treatment 
+Patient characteristics 
+Location where carried 
+out Case type 1 
+Appendectomy 
+Male, 14 to 25 years 
+Inpatient care Case type 2 
+Normal childbirth 
+Female, 25 to 34 years 
+Inpatient care Case type 3 
+Hip replacement 
+Female, 65 to 75 years 
+Inpatient care Case type 4 
+Stroke 
+Male, 60 to 70 years 
+Inpatient care Case type 5 
+Acute myocardial 
+infarction Male, 50 to 60 years 
+Inpatient care Source: Busse et al. (2007). 30. 
+To collect pertinent data, a sample of at least five representative health care providers were 
+identified in the participating countries for the different case types of selected procedures (that is, at least 
+five hospitals for inpatient care). For the inpatient procedures, data from  " acute care general hospitals "  
+with 200 to 400 beds was analysed, assuming this reflects the way the service is currently organised. 
+However, this method of selecting hospitals does not guarantee that the results given below are 
+representative across the board. The methodology used ensures that the costs in the selected hospitals are 
+measured consistently and that the results are comparable to a certain extent across different countries; but 
+a study based on a larger sample within a single country could give different results. 31. 
+The costs of the different procedures were divided into five items: cost of diagnosis, cost of 
+hospital staff (nurses, doctors), costs associated with the surgical procedure (surgeon, anaesthetist, etc.), 
+and costs of pharmaceuticals and, finally, general expenses. The vast majority of general expenses are 
+made up of fixed costs for care production 
+5 . These are the costs associated with medical and non-medical 
+infrastructure (administration, water, electricity, laundry services, buildings maintenance, etc.) and 
+depreciation costs. 32. 
+The proportion accounted for by general expenses in the total cost of the selected procedures (hip 
+replacement, acute myocardial infarction, appendectomy and normal childbirth) varies from 23% in France 
+in the case of infarction to 64% in the case of childbirth. The proportion of general expenses in France is 
+close to the average of the other countries, for hip replacement and myocardial infarction. For 
+appendectomy and childbirth, general expenses in France are 10 and 17 percentage points respectively 
+higher than the average of the nine countries analysed in the study. 5 General expenses include non-medical infrastructure such as administrative staff, cleaning, gardening, 
+technical staff, buildings maintenance, power, water, tax and insurance (where this is part of patient 
+services), rent, depreciation costs for equipment and buildings, and financing costs. They also cover certain 
+medical infrastructure expenses such as laundry, sterilisation, patient transport (to hospital), catering and 
+the time spent on administration by the medical and nursing staff. DELSA/HEA/WD/HWP(2015)1 23 Figure 6: Proportion accounted for by general expenses in four inpatient procedures in France and averaged 
+over nine OECD member countries Source: Busse et al. (2007). 33. 
+The fact that general expenses are such a large proportion of the total cost of hospital care 
+supports the hypothesis that economies of scale are possible in the hospital sector. For DRG-based 
+payment systems, a calculation of the average production cost over a sample of different hospitals is often 
+used when setting DRG tariffs. Thus, the high proportion of general expenses in the production cost of care 
+could justify a tapering scale for the fees associated with each treatment, once general expenses have been 
+covered. However, this static accounting approach is challenged when the hospital production system is 
+analysed dynamically. Dynamic approach: semi-variable expenses must be taken into account when calculating the cost 
+structure of hospitals 34. 
+While a static approach to hospital production costs allows for a distinction to be made between 
+fixed and variable costs, the dynamic accounting model takes into account a third type: semi-variable costs. 
+The amount spent on semi-variable expenses varies with the amount of activity, though it is not 
+proportional to it. Thus, as production grows, the associated costs of these expenses may, for example, 
+increase in steps. This in turn entails marginal costs which change in steps. 35. 
+The existence of semi-variable costs for hospital care is, partially, attributable to regulations 
+which stipulate that hospital capacity will rise as a function of the volume of production of care. As a result 
+of these regulations, the fact that variable and semi-variable charges increase as activity increases may 
+question the theory of a decreasing average cost of production. As production increases, the hospital may 
+indeed initially see its average cost of production fall; but beyond a certain production level the hospital 
+must reinvest in new equipment or take on new staff, which has the effect of a jump in production costs. DELSA/HEA/WD/HWP(2015)1 24 Consequently, marginal-cost pricing above a certain level of activity should be adapted to take into account 
+these steps in the level of semi-variable costs. 36. 
+While the accounting approach sheds light on the existence of economies of scale by identifying 
+fixed and variable costs in the care production system, an analysis of the economic approach with reference 
+to a review of the literature that analyses the production function in hospitals complements this analysis. Literature review of the economic studies relating to the existence of economies of scale in hospitals 37. 
+The empirical literature has considered economies of scale in hospitals from two different angles. 
+Much of the literature has analysed the relationship between the size of hospitals and the cost of care 
+provided, trying to identify the optimum size of hospitals. A second approach, covered by much less 
+literature, has attempted to establish the relationship between the level of activity of hospitals and the cost 
+of care production. Here, the underlying question is how production costs change when the quantity of care 
+provided increases. Literature covering the second approach is relevant to explore marginal costs for care 
+beyond a certain level of activity. 38. 
+A literature review identified nine published studies assessing the relationship between the cost 
+of production and the quantity produced within the hospital sector. The majority of these studies focus on 
+the Unites States. In these studies, elasticities in the cost of production with respect to the quantity 
+produced have been calculated which served as a tool to measure the extent of economies of scale. Theoretical model and econometric models 39. 
+A theoretical analysis of the firm production function requires the adoption of an explicit 
+hypothesis of the state of equilibrium within the enterprises of each sample analysed. If the enterprises are 
+considered to be on a long-term path, that is to say if the level of utilisation of inputs minimises costs, 
+taking into account the level of production and the cost of production factors, then we may base the 
+evaluation on a long-term cost function, in which total costs are expressed as a function of the quantities of 
+different outputs and the cost of inputs. On the other hand, the enterprises may not be in a position to 
+change the production factors as a whole quickly in response to changes in the production level or the cost 
+of production factors. Where this is the case, enterprises in this sector will, in the short term, aim to utilise 
+optimum quantities of the variable inputs which can easily be adjusted (such as workforce and equipment), 
+taking into account the levels of fixed inputs, even if these are not optimal (such as capital costs). In this 
+case, evaluation is based on a short-term production function. The variable cost function is then defined 
+using as parameters the level of outputs, the cost of inputs and the overall figure for fixed costs (Vita, 
+1990). 40. 
+Most of the studies (six out of nine) assess a short-term production function for hospitals, taking 
+the capital costs as fixed in their analysis. In order to evaluate the cost functions, the studies take two 
+principal production functions which are flexible and linear, and which do not require hypotheses to be 
+applied to the production structure, as is for example the case with Cobb-Douglas production functions or 
+CES (constant elasticity of substitution). In this way, the studies apply the generalised Leontief production 
+function and the translog production function 
+6 . 6 For instance, the following specification is used with a translog cost function: ln(C) = 
+α+∑β i Y i +µ∑θ ij Y i Y j +∑δ i Y i 
+3 +ηln(P)+∑λ i PY i +∑μ k Z k +ε where C is total or variable cost, Y is a vector of 
+outputs, P represents input prices, Z is a vector of other factors that shift the cost function and ε is a 
+residual error term (Menke, 1997). DELSA/HEA/WD/HWP(2015)1 25 41. 
+The variable discussed (dependent variable) in the econometric analyses is primarily the total 
+variable cost, which groups together the cost of labour and the cost of pharmaceuticals and medical 
+equipment's use. In this case, the total operating costs represent the variable cost to be identified (Li et al., 
+2001). 42. 
+For the explanatory variables, in most of the studies, the outputs used to characterise the 
+production function are the number of patient-days in hospital per annum. Vita (1990) considers separately 
+two variables: the number of discharges or admissions and the average length of stay in hospital. These 
+two variables allow a consideration of the two ways by which a hospital may increase the number of days 
+of care provided. In parallel, so that the impact of the different outputs on production costs may be 
+measured with precision, some studies make a distinction between the different services within hospital 
+production. Thus, for example in the study by Cowing and Holtmann (1983), hospital production is divided 
+into five diagnostic categories: medical-surgical, maternity, paediatrics, emergency room and other. 43. 
+The price of inputs corresponds to salaries but also when they are available the prices of 
+medicines and medical devices. Most of the studies (six out of nine) categorise the salaries by 
+qualification. For example, Cohen et al. (2008) make a distinction between the salaries of medical staff for 
+seven different expense items within the scope of care production, such as surgery, radiology and the 
+salaries of administrative staff. However, some studies do not have sufficient data to calculate salary levels 
+by hospital and by service. In this case, some studies use of a global salary index for the region in which 
+the hospital operates (Carey, 2000, and Menke, 1997). 44. 
+So that the heterogeneous nature of hospitals can be taken into account, additional explanatory 
+variables are applied to all the econometric analyses. First, the legal status of the hospital allows for 
+differences in cost between public, private for-profit and private not-for-profit hospitals to be taken into 
+account. Inclusion of this variable in particular can potentially verify the hypothesis that private for-profit 
+hospitals will bring about greater efficiency of production and hence lower costs (Carey, 2000). Second, 
+the hospital case mix enables to account for differences in the severity of cases treated by hospitals which 
+could have an impact in particular on the equipment at the hospital but also on the qualifications of medical 
+staff (Li et al., 2001). Finally, other variables which may have an impact on production costs are included, 
+such as the geographical location of the hospital, the university hospital status or the Herfindahl index, in 
+order to measure the level of competition faced by the hospital. Data used in studies 45. 
+Most of the studies use administrative data to evaluate the cost functions of the hospitals. Five 
+out of nine studies use data from the different US States departments of health. For example, Li et al. 
+(2001) utilise the annual data submitted by hospitals to the Washington State Department of Health. This 
+data includes details on the financial situation of each hospital and its activity. The other three American 
+studies take survey data either for a particular state (State of California in the case of Vita, 1990) or the 
+whole of the United States (Carey, 2000, and Menke, 1997). The latter two studies refer to the annual 
+survey by the American Hospital Association as a basic data source, which is supplemented with additional 
+data. For example, Menke (1997) adds to this survey data from the Bureau of the Census to obtain salaries 
+broken down by region. 46. 
+The data used suffers from certain limitations, which mean that caution is necessary when 
+generalising from the results presented. Most of the studies use panel data for periods of between four to 
+seven years. In particular, panel data allows the heterogeneous nature of hospitals to be taken properly into 
+account and thus to obtain more robust evaluations. However, three of the studies refer only to a single 
+year (Cowing et al., 1983, Vita, 1990, and Menke, 1997), which means that instead of observing the 
+evolution of costs of each hospital when its activity increases, they observe differences in costs between DELSA/HEA/WD/HWP(2015)1 26 hospitals with different levels of activity. It is thus possible that a bias exists, if the hospitals with greater 
+activity are hospitals that are systematically more (or less) efficient. Moreover, six out of the nine studies 
+use data relating to periods before 1990. Finally, three studies relate to a very small number of institutions. 
+Cohen et al. (2010) refer to 30 hospitals in the State of Connecticut, and Cohen et al. (2011) refer to 
+17 hospitals in Washington State. Small sample sizes may question the robustness of the results and 
+caution is needed when drawing any general conclusions from the results. DELSA/HEA/WD/HWP(2015)1 27 Table 5: Description of data used when evaluating economies of scale in the hospital sector and cost elasticity Date 
+Authors 
+Country 
+Data 
+Types of data 
+Number of hospitals 
+Cost 
+elasticity 1983 
+Cowing 
+et al. USA 
+Administrative data from New York State 
+Cross-sectional data 1975 138 general hospitals 0.86 1990 
+Vita 
+USA 
+California Health Facilities Survey (1983) 
+Cross-sectional data 1983 296 general hospitals 1.26 1997 
+Menke 
+USA 
+Annual survey of American Hospital Association Bureau of the Census (salary data) Guide to Hospital Performance (HCIA) for quality indicators The Area Resource File (ARF) for information on the region 
+in which hospital is established Cross-sectional data 1990 2 200 hospitals Not 
+quantified 2006 
+Smet 
+Belgium 
+Administrative data from the Belgian Federal Public Service 
+of Health, Food Chain Safety and Environment Cross-sectional data 1997 187 general hospitals 1.15 2000 
+Carey 
+USA 
+Annual survey of American Hospital Association Data from Healthcare Financing Administration, based on 
+Hospital Cost Reporting Information System Panel data 1987-1991 1 733 hospitals 0.68 2001 
+Li et al. 
+USA 
+Administrative data from Washington State (Health 
+Department) Panel data 1988 to 1993 910 hospitals 0.62 2008 
+Cohen 
+et al. USA 
+Administrative data from Washington State (Health 
+Department) Panel data 1997 to 2002 93 hospitals 0.68 2010 
+Cohen 
+et al. USA 
+Administrative data from the State of Connecticut 
+(Department of Public Health) Panel data 2006 to 2008 30 hospitals 2.27 2011 
+Cohen and 
+Paul USA 
+Administrative data from Washington State (Health 
+Department) Panel data 
+1997 to 2004 17 hospitals 0.75 DELSA/HEA/WD/HWP(2015)1 28 Results 47. 
+Most of the studies find that there are economies of scale in the hospital sector. More precisely, 
+five out of the nine studies analysing economies of scale conclude that, if a hospital increases its activity, 
+the total costs associated increases less than proportionally to the increase in activity. The elasticity varies 
+between 0.62 (Li et al., 2001) and 0.86 (Cowing et al., 1987), which means that a 1% increase in activity 
+induces an increase in costs by 0.62% to 0.86%, all other things being equal. 48. 
+Three studies conclude that there are diseconomies of scale: Vita (1990), Smet (2006) and Cohen 
+et al. (2010). In these studies, the measured elasticity is on average 1.56, which means that an increase in 
+hospital activity by 1% brings about an increase of 1.56% of costs in the hospitals studied. These studies, 
+in particular those of Smet (2007) and Cohen et al (2011), suffer from some limitations. First, in the study 
+by Smet (2007), data relating to input costs and in particular salaries are not available. Thus, the author 
+does not include in his analysis the differences in salaries between hospitals or their impact on costs. This 
+limitation may create a bias in the results. It may, in fact, be assumed that there is a correlation, expected to 
+be positive, between salaries and quantity produced (i.e. a link between better salaries and higher 
+productivity). If this is true, the study overestimated the impact of activity on costs. The main limitation of 
+the study by Cohen et al. (2010) is the small number of hospitals 30 hospitals), which affects the precision 
+of estimates and generalizability of results. Box 2. Efficiency in the hospital sector, economies of scope and influence of hospitals' status on costs The studies presented for the analysis of economies of scale also shed some light on two important 
+problematic areas related to the efficiency of production in the hospital sector. First, studies analysing economies of scale also present results on economies of scope in the hospital 
+sector. An enterprise can generate economies of scope if it reduces its production costs by widening its range of 
+products and services (joint production). Diversification of production may take two different forms: related 
+diversification and conglomerate diversification. Related diversification refers to the development of new activities 
+that share some characteristics with existing activities. The diversification may be vertical or horizontal. 
+Conglomerate diversification refers to the development of new activities which have no common ground with 
+existing activities. Only economies of scope from related diversification seem to be appropriate in the hospital 
+sector. From the studies that were analysed to explore the existence of economies of scale, and some additional 
+grey literature we have identified eight studies that deal with economies of scope within the hospital sector. Most 
+of these studies analyse economies of scope between inpatient and outpatient care [Menke (1997), Wang et al. 
+(2006), Kristensen et al. (2012), Marini et al. (2009), Cohen et al. (2008)]. Only three studies identify economies 
+of scope within a hospital. Cowing and Holtmann (1983) demonstrate the existence of economies of scope 
+between paediatric services and other services, and diseconomies of scope between emergency room services 
+and other services. Kittelsen et al. (2009) identify important economies of scope between surgical and medical 
+services but no significant relationship between scheduled care and emergency care. Smet (2007), albeit with the 
+limitations suffered by this study, highlights economies of scope between internal medicine and surgical care, and 
+surgical care and specialised treatments. The second point illuminated by these various studies on hospital costs relates to the efficiency of public, 
+private not-for-profit and private for-profit hospitals. The conclusions of the different studies presented here are 
+ambiguous. Private for-profit hospitals have lower costs than not-for-profit hospitals, with a difference of around 
+15% according to Cowing and Holtmann (1983) and around 5% according to Vita (1990). Carey (2000) finds no 
+difference in cost as a function of the legal status of the hospital. Finally, Menke (1997) shows that, among 
+independent hospitals, private for-profit and not-for-profit hospitals have higher costs, by 28.7% and 10.7% 
+respectively, than public hospitals. Menke (1997) does not find any difference in the costs of private hospitals that 
+are part of a group and public hospitals. DELSA/HEA/WD/HWP(2015)1 29 49. 
+The study by Cohen et al. (2010) suffers from a different bias, caused by a limited quantity of 
+data, since the study refers only to 30 hospitals, which has an effect on the precision of the evaluations 
+made and on the ability to generalise from the results. 50. 
+In conclusion, there is some empirical evidence of the existence of economies of scale in 
+hospitals but it is not unambiguous. DELSA/HEA/WD/HWP(2015)1 30 EXPERIENCES OF TAPERING PAYMENT SCALES IN FOUR OECD COUNTRIES 51. 
+Six OECD member countries have introduced tapering payment, based on the assumption that 
+economies of scale exist within hospitals. These six countries are Germany, USA (State of Maryland), the 
+Czech Republic, Israel, Australia and Hungary. In order to describe the mechanisms in as much detail as 
+possible, four case studies have been carried out, based on available data and in-depth discussions with 
+experts: Germany, USA (State of Maryland), the Czech Republic and Israel. The aim of these case studies 
+is to explain the context of the introduction of this policy, the objectives and the technical details of the 
+tapering mechanism, but also to identify the impact of tapering payment on hospital activity. This section 
+presents these case studies. For each country, it first provides some contextual background and then 
+describes the tapering mechanism and its impact on hospital spending and activity. Germany Basic facts of health system 52. 
+Germany is a country where social health insurance has traditionally played a huge role in health 
+care coverage. In total, around 89% of the population is insured by one of the 134 statutory health 
+insurance funds. These are mainly funded through social contributions of employers and employees. The 
+remaining 11% are covered by primary private health insurance. Private coverage can be chosen by 
+employees earning more than around EUR 4 500 per month, self-employed, and civil servants regardless of 
+their income. Unlike protection under the statutory health insurance scheme, private health care coverage is 
+subject to individual insurance policies based on risk-related insurance premiums. 53. 
+All statutory health insurance funds basically cover the same basket of health care goods and 
+services with a few exceptions. Health care services financed by private insurers can be more generous 
+depending on the insurance contract. Some contracts include supplementary insurance components for 
+items that are not covered under the public insurance (e.g. access to a single room in a hospital or treatment 
+by heads of departments for inpatient care). For outpatient specialist care, some studies showed faster 
+access to health professionals for people with private insurance compared to those with public coverage 
+(e.g. Roll et al., 2012). 54. 
+A key feature of the German health system is the decisive role of joint self-government of payers 
+and providers in the organisation of the system. The main body of the joint self-government is the Federal 
+Joint Committee (G-BA) which plays a key role in defining the pharmaceutical products, medical devices 
+and diagnostic and therapeutic procedures included under public coverage. The guidelines issued by the G-
+BA are legally binding to insurers and care providers alike, i.e. physicians and hospitals. Moreover, the G-
+BA has important responsibilities for measuring the quality of hospital and outpatient services. Unlike in 
+NHS-type systems, the role of the government in the German health system is mainly restricted to defining 
+the regulatory framework of health care provision and supervision of the system. Hospitals 55. 
+The high number of beds is one of the defining features of the hospital sector in Germany. There 
+are 8.3 beds per 1 000 population, ranking Germany third among OECD countries. The average number of DELSA/HEA/WD/HWP(2015)1 31 beds in OECD countries is 4.9 per 1 000 population. There has been a 10% drop in bed capacity between 
+2000 and 2011 in Germany compared to an average reduction of 5% in OECD countries. 56. 
+The majority of beds in Germany are provided by private hospitals (either for-profit or non-for-
+profit) at 59%, compared to 27% on average in the OECD. 64% of all hospital beds are allocated to 
+curative care, 15% to psychiatric care and 21% to rehabilitative care. 57. 
+The volume of hospital activity in Germany is well above most other OECD countries. The 
+number of discharges per 1 000 population in Germany is 55% higher than the OECD average (240 
+compared to 155). However, hospital spending as a share of total health expenditure in Germany is around 
+the OECD average (29%). 58. 
+There is a clear separation in the provision of inpatient and outpatient health care in the German 
+health system. Apart from a few targeted activities (emergencies and complex treatments for cancer, rare 
+diseases, etc.), hospitals are legally not allowed to provide outpatient services. Hospital payments in Germany Main features of DRG-based payment 59. 
+Around 80% of all hospitals revenues stem from DRG payments (Busse et al., 2011). The DRG 
+tariffs received by hospitals are calculated by multiplying relative weights with a base rate. The relative 
+weights are set nationwide; the base rates differ at a Länder-level. 60. 
+Payment by DRG was gradually introduced into Germany from 2003 onwards. It applies to 
+public and private hospitals alike, whether profit-making or not, using the same DRG catalogue and 
+relative weights. There is also no difference in the use of DRGs between patients covered under public or 
+private insurance. Remuneration via DRGs applies to medical, surgical and obstetric treatments, including 
+day cases. Patients are classified into one DRG on the basis of a patient's diagnosis, the medical 
+procedures provided and patient characteristics (age, gender and new-born weight, length of stay, duration 
+of ventilation, reason for hospital discharge and type of admission). A new prospective payment for 
+inpatient psychiatric treatment (different per diem rates depending on patient characteristics and 
+procedures) is currently under development. Additional payments not incorporated in DRG tariffs are 
+made for the use of costly medications or medical devices and innovative treatments. 61. 
+Depreciation is not included in the calculation of DRG-based payments because of the historic 
+split in hospital financing in Germany. Current expenses are financed by public and private insurers (now 
+mainly via DRG), whereas capital expenses are funded directly by the German Länder. Consequently, the 
+calculation of the cost of a treatment group does not take account for capital investment. However, in 
+practice, 50% of investments in hospitals are funded from sources other than the Länder (e.g. via credits or from hospital's own income) (See Deutsches Krankenhausinstitut, 2010). Relative weights 62. 
+The DRG catalogue comprises 1196 groups in 2014. It is negotiated annually between the federal 
+hospital association (DKG) and the federal organisations of health insurance funds (GKV) and private 
+health insurance companies (PKV). The German Institute for the Hospital Remuneration System (Institut 
+für das Entgeltsystem im Krankenhaus – InEK) calculates the relative weight of each DRG item based on 
+cost-intensiveness of the resources used. For this calculation, InEK receives data from 253 hospitals (15% 
+of all general hospitals) to help draw up the scale. The weight for the benchmark treatment group is 
+1 point. The weights for the other treatment groups are calculated with reference to the benchmark group. DELSA/HEA/WD/HWP(2015)1 32 Base rate 63. 
+The relevant base rate for the remuneration of hospitals is negotiated at Länder level, taking into 
+account a theoretical-base rate set at the federal level, as a point of reference. 64. 
+At the federal level, the hospital association agrees annually with the organisations of statutory 
+health insurers and private insurers on a federal base rate taking into account calculations carried out by 
+InEK based on the past base rates in Länder, the effective case mix and total spending, as well as growth in 
+total salaries – reflecting the increase of available financial resources of health insurance funds – and an 
+index value reflecting changes for costs of staff and equipment in hospitals. The result of these negotiations 
+is the monetary value of the federal base rate. 65. 
+In the 16 Länder, regional associations of hospitals and insurers negotiate the regional base rates. 
+Factors to be taken into account in these negotiations include the projected development of costs, potential 
+efficiency savings, and the prospective change in number and severity of cases (case-mix). Having said 
+that, some restrictions in the Länder negotiations apply: Since 2014 Länder base rates must lie within a 
+band between +2.5% and -1.25% of the federal base rate 7 . Additionally, the annual increases in the base 
+rates at Länder level cannot exceed the increase of the federal base rate. 66. 
+In most of the Länder (9 of the 16), the negotiations in 2014 resulted in a Länder base rate below 
+the minimum value of the band. Consequently, these Länder base rates had to be raised to reach this 
+threshold. Hospital revenue budgets 67. 
+The DRG-payment per case is in general defined by the relative weight of the DRG and the 
+Länder base rate but an important element affecting the final payment is related to the individual hospital 
+revenue budget. All hospitals need to negotiate case-mix-based target  " revenue budgets "  with insurers on 
+an annual basis. The negotiations involve all insurers that represent at least a 5% share of the hospital's 
+patients; other insurers must accept the results of the negotiation. The main outcome of these negotiations 
+is an agreed volume in terms of case-mix for each hospital for the calendar year. In combination with the 
+DRG relative weights, this defines the revenue budget. There are two situations related to the revenue 
+budgets -explained below -where hospitals do not receive the full DRG tariff for the treatment of the 
+patient but only a reduced rate. The tapering system Technical considerations 68. 
+In Germany two separate mechanisms exist to reduce the hospital tariffs per case within the DRG 
+framework. The first type of tapering rate is applied to additional negotiated hospital volumes; the second 
+is applied to all volume beyond the negotiated revenue budget, i.e. the non-negotiated volume.  Any increase in activity volume (based on the case-mix) compared to year t-1 within the range of 
+negotiated volumes for year t is reimbursed at rate tapered by 25% (rate in force in 2013 and 
+2014) 8 . This mechanism is known as the Mehrleistungsabschlag 9 or MLA. 7 Exceptions apply to those Länder who have been historically above this band; their base rates are only 
+gradually reduced to finally reach the upper limit of the corridor. 8 As an exception, tapering rates are applicable in 2014 for all additional volume as compared to t-2. DELSA/HEA/WD/HWP(2015)1 33  Hospitals have to pay back 65% of all revenue related to activity exceeding the negotiated 
+volume. This means hospitals can only keep 35% of these additional revenues. This mechanism 
+is known as the Mehrerlösausgleich 10 or MEA. As a counterbalance for the tapering rate, all 
+negotiated services which could not be delivered are paid by insurers at a rate of 20%. 69. 
+An overview of the technical application of the two rates is displayed in Chart 1. For MLA, the 
+tapered rate changed continually between 2009 and 2014. In 2009 -the year of its introduction -the rate 
+was negotiated for each Land separately, averaging out at 24%. Tapering was abandoned for negotiated 
+volumes in 2010 but reintroduced in 2011 with a tapered rate of 30%. The rate was again negotiated in 
+2012, and in 2013 and 2014 it was set at 25%. Moreover, the benchmark year for calculating additional 
+volumes in 2013 and 2014 was 2012. 9 Literally  " reduction for increased services " . 10 Literally  " compensation for surplus " . DELSA/HEA/WD/HWP(2015)1 34 Chart 1: Hospital payments in Germany DELSA/HEA/WD/HWP(2015)1 35 70. 
+The first level of tapering (MLA) is applicable to all DRGs with some exceptions. In practical 
+terms, the monetary value of the MLA is only known after the negotiation of hospital volumes and the 
+MLA translates into a percentage reduction of all DRGs billed to insurers after the negotiated volume is 
+agreed on. Some negotiated additional services are exempt from this reduction, for example, in the case of 
+transplants, volume growth that is based on increases in hospital capacity, DRGs where material costs 
+account for more than two-thirds of the total cost, and in hardship cases. 71. 
+The MEA applies to the non-negotiated volume; 65% of all revenues exceeding the revenue 
+budget which is based on the negotiated volume have to be reimbursed by hospitals. But some exceptions 
+also apply, for example, for additional revenues generated from treatment of severely injured patients; in 
+these cases, a 25% reduction is applied which means that hospitals can keep 75% of the additional 
+revenues. Rationale for introduction 72. 
+Tapering payment in Germany was introduced in 1985 in Germany, before DRG-based 
+payments, when hospitals were still paid through per-diem rates. During that period, payments for 
+additional treatments which resulted in revenues in excess of the negotiated budgeted revenue had to be 
+partially reimbursed by the hospital. The reduction was justified by economies of scale in hospital 
+production. This assumption, however, does not seem to have been based on empirical evidence at that 
+time. It was argued that fixed costs of hospitals were already completely covered with payments generated 
+within the negotiated hospital budget; payment for additional cases would therefore only have to reflect 
+variable costs. By the same reasoning, hospitals received partial payments for the non-generated cases that 
+fell short of the negotiated volumes. These compensations were introduced to give hospital managers some 
+financial security for partial coverage of their fixed costs in case of an unexpected shortfall in demand for 
+inpatient services. This mechanism was called  " flexible budgeting "  (Tuschen at al., 2005). 73. 
+The principle concept of this tapering mechanism was maintained when hospital remuneration 
+moved towards DRG payments from 2003 on and is still applicable. 74. 
+A second type of tapering – the MLA – was introduced in 2009 which is applied to all additional 
+negotiated hospital volume which is above the volume of the previous year. Although introduced later than 
+the tapering for non-negotiated revenue, it can technically be considered as the 1 st level of tapering. 
+Tapering rates and technical modalities of this 1 st level have been constantly changing since its 
+implementation. The aim of tapering for negotiated volumes has been subject to change since its 
+introduction in 2009. Whereas the initial objective was to limit growth in hospital expenditure 11 -in 2011 
+and 2012 the MLA was supposed to generate savings by 350 Mio EUR and 270 Mio EUR respectively -
+controlling the increase in hospital volumes eventually became the objective in 2013 and 2014 12 . Evaluation of effectiveness 75. 
+It is difficult to assess the effectiveness of the mechanisms as the aim of their introduction 
+changed over time. 76. 
+The MLA was first introduced to limit hospital spending growth and later to disincentivise 
+increases in hospital volume. While the MLA did reduce spending growth to some extent in the years after 
+its inception, the savings would only equate to around 0.5% of total hospital costs. For the years 2013 and 
+2014 the savings generated via the MLA were redistributed to hospitals through an increase of the base 11 BT 17/3360. 12 BT 17/13947. DELSA/HEA/WD/HWP(2015)1 36 rate. Otherwise, this base rate would have decreased as a result of an increase in activity, penalising all 
+hospitals, including those with no or low activity increase. 77. 
+Table 6 shows a slowdown in the annual growth of the case-mix-volume since the introduction of 
+MLA in 2009 which hospitals could put forward as a proof of the positive impact of the tapering 
+mechanism on the reduction in volume growth. The remaining increase in hospital activity would be 
+triggered by medical necessity. However, health insurers would argue that this growth is still above the 
+increase that would be expected purely based on the demographic development (Augurzky, 2012). From 
+their point of view, hospitals still have an incentive to negotiate high additional volumes in their budgets 
+because the reduced rate of payment (25%) would only be applied for one year (two years in 2014) and 
+would be fully remunerated in the following year and would thus only be a weak deterrent for excessive 
+volume expansion. Table 6: Rate of growth in case mix between 2004 and 2014 Source: Own compilation based on data provided by the GKV and own research. 78. 
+The payment reduction of MEA for non-negotiated hospital volume is much harsher (65%) but it 
+does not seem to be applied at a grand scale. The tapering rate is considered high enough to discourage any 
+additional hospital activity beyond this point with the exception of emergency treatments. One of the 
+reasons for the limited application can be found in the delayed timeline of the negotiating process of the 
+hospital budgets. Although in theory, hospital budgets should be negotiated prospectively for a calendar 
+year, it is not unusual for them to begin in September of the current year. By this time, hospitals can 
+already project pretty accurately the hospital activity they will perform until December. The risk of 
+providing more than the negotiated volume -and thus having to pay the MEA-is therefore reduced. The 
+late hospital budget negotiations can partly be explained by delayed negotiations for the Länder base rate 
+which is a crucial element for the budget negotiation process. Year Actual Case-Mix 
+Change in 
+Case-Mix Growth 
+rate of 
+Case-mix Negotiated 
+federal 
+base rate 
+(EUR) Rate of 
+growth in 
+federal 
+base rate MLA 2004 
+15 476 804 2005 
+16 033 965 
+557 161 
+3.60% 
+2006 
+16 528 236 
+494 271 
+3.10% 
+2007 
+17 148 731 
+620 495 
+3.80% 
+2008 
+17 683 593 
+534 862 
+3.10% 2009 
+18 084 944 
+401 351 
+2.30% 
+Negotiated rate 2010 
+18 559 432 
+474 488 
+2.60% 
+2935.78 2011 
+18 764 079 
+204 647 
+1.10% 
+2963.82 
+1.00% Rate set at 30% 2012 
+19 101 878 
+337 799 
+1.80% 
+2991.53 
+0.90% Negotiated rate 2013 
+3068.37 
+2.60% Rate set at 25% 2014 
+3156.82 
+2.90% Rate set at 25% 
+with 2012 as 
+benchmark 
+volume DELSA/HEA/WD/HWP(2015)1 37 79. 
+Schreyögg et al. (2014) question in a recent study the effectiveness of the MLA in its current 
+form because of its indiscriminate applicability to nearly all DRG and all hospitals. The study proposes to 
+link the MLA with quality measures. Moreover, MLA should be more targeted to specific conditions. For 
+emergency treatments, such as in case of heart failure, the MLA should not be applied. Consequently, it 
+would then focus more on those treatments for which the strict medical necessity seems sometimes to be 
+more controversial (e.g. such a knee and hip replacements). The study encourages further research on the 
+consequence of the MLA as its impact on hospital activity and quality is still unknown. Maryland (United States) 13 Basic facts of health system 80. 
+The United States is one of the few OECD countries where public coverage of health care costs is 
+relatively low. The majority of Americans have private insurance that either they or their employer have 
+taken out. In the State of Maryland in 2013, 73.6% of the population had this type of cover compared to 
+64.2% in the United States as a whole. 14 81. 
+The government manages the two principal public insurance schemes for low-income groups 
+(Medicaid and Medicare). Medicare is a federal programme for residents over 65 years of age, the disabled 
+and people with terminal-stage kidney disease. Medicaid, a state-based programme, covers people with 
+low incomes. In Maryland, 14.4% (compared to 15.6% for the United States as a whole) of the population 
+were insured by Medicare and 15.3% (17.3% for the US as a whole) by Medicaid. These programmes are 
+funded through taxation, but the beneficiaries are not covered automatically: they must sign up and, in 
+some circumstances, pay premiums. 82. 
+A substantial proportion of the entire population of the US, estimated at around 14.5% in 2013, 
+had no health insurance; the figure for Maryland was 10.2% (Smith and Medalia, 2014). The Affordable 
+Care Act adopted in 2010 seeks to gradually extend health insurance coverage, which has been compulsory 
+for all citizens and legal residents since January 2014. From that date, anyone who does not have sickness 
+insurance may be subject to a fine. 15 83. 
+Private insurance coverage is heavily concentrated in Maryland as the insurer Carefirst has 66% 
+of the  " individual cover "  market, 73% of the small business market 16 and 70% of the large business 
+market. 84. 
+In 2009, the share of the gross domestic product of Maryland allocated to health expenditure 
+matched that of the United States, i.e. 15%. Annual growth in health expenditure in the State of Maryland 
+was equivalent to that of the whole of the United States between 1991 and 2009; for Maryland, the annual 
+growth was 6.6% compared to 6.5% for the United States as a whole. 85. 
+In 2009, per capita health expenditure was 10% higher in Maryland than in the United States as a 
+whole (USD 7 492 compared to USD 6 815). Several possible explanations for this include higher care 
+costs and a larger population covered by health insurance than the United States average. 13 Unless otherwise stated, the statistics used for Maryland and the United States have been taken from the 
+Kaiser Family Foundation database (http://kff.org/). 14 All data on health insurance coverage are extracted from US Census Bureau statistics, available here: 
+https://www.census.gov/hhes/www/hlthins/data/incpovhlth/2013/acs-tables.html 15 http://kff.org/interactive/implementation-timeline/. 16 Businesses with between 1 and 100 employees. DELSA/HEA/WD/HWP(2015)1 38 Hospitals 86. 
+In 2009, hospital expenditure 
+17 in Maryland matched that for the United States (37% and 36% 
+respectively), accounting for 5.5% of gross domestic product in the State of Maryland and the United 
+States. 87. 
+Total per capita expenditure for hospital services is 12% higher in Maryland than for the whole 
+of the United States. The total cost of hospital treatment requiring at least one night as an inpatient is 
+USD 2 368 per day in Maryland compared to USD 1 960 in the United States (Figure 7). Figure 7: Expenses per inpatient day for hospital services requiring at least one night as an inpatient in 
+Maryland and in the United States (1999-2011) Source: Kaiser Family Foundation database, 2014 88. 
+The latest data available for the United States show that, in 2011, the bulk of hospital income 
+came from public funding. According to the American Hospital Association, 57.7% of hospital income 
+came from public programmes (39.3% Medicare, 16.3% Medicaid and 1.8% from other public programs). 
+Income from private insurers accounted for 34.6% of hospital receipts 18 . 17 Hospital expenditure covers all services that hospitals deliver to patients, including accommodation, 
+general logistics costs, resident doctors' services, medication administered in hospital, nursing care and all 
+services billed by hospitals in the United States. The value of hospital services is measured by total net 
+income comprising gross revenue less debt and charity care. (Source: http://kff.org/) 18 Source: http://www.aha.org/research/reports/tw/chartbook/index.shtml, the remaining resources are not 
+attributed to any particular source of funds. No tapering payment DELSA/HEA/WD/HWP(2015)1 39 89. 
+Bed capacity 
+19 in 2011 in Maryland was 23% lower than that for the United States as a whole: 
+There were 2.6 beds per 1 000 population in the United States compared to 2.0 per 1 000 inhabitants in 
+Maryland. Bed capacity in Maryland has remained steady since the 2000s, whereas it fell slightly in the 
+United States from 2.9 beds per 1 000 population in 2000 to 2.6 in 2011. At the same time, the number of 
+hospitals 20 has remained stable in Maryland and has increased slightly in the United States. Hospital beds 
+in Maryland are provided exclusively in private, not-for-profit hospitals. 90. 
+The bed occupancy rate in community hospitals 21 in the State of Maryland is nine percentage 
+points higher than that of the United States as a whole: in 2010, 74% of beds in Maryland were occupied 
+compared to 65% for the whole of the United States (National Center for Health Statistics, 2013). The 
+average hospital stay in community hospitals in Maryland is 4.6 days – 0.36 days less than for the whole of 
+the United States (4.96 days) 22 . 91. 
+The number of admissions in Maryland rose steadily between 2001 and 2009, and then fell 
+sharply (Figure 8). The number of admissions per 1 000 population rose by 12% between 2001 and 2009, 
+whereas the same indicator for the United States as a whole for the same period fell by 2.5%. Note that, 
+during that period, the tapering payment mechanism in Maryland which we will be discussed below had 
+been abandoned following an agreement with the hospitals. 19 These data include beds staffed by community hospitals which account for 85% of all hospitals. Federal 
+hospitals, long-stay hospitals, psychiatric hospitals, institutions for the mentally handicapped and 
+alcoholism treatment centres are not included. 20 The data include community hospitals which account for 85% of all hospitals. Federal hospitals, long-stay 
+hospitals, psychiatric hospitals, institutions for the mentally handicapped and alcoholism treatment centres 
+are not included. 21 Non-federal hospitals, short-stay hospitals, specialist hospitals. 22 Source: AHA Annual Survey of Hospitals. DELSA/HEA/WD/HWP(2015)1 40 Figure 8: Admissions per 1 000 population between 1999 and 2011 in the State of Maryland and in the United 
+States Source: Kaiser Family Foundation database, 2014 Hospital payments in the State of Maryland Main features of hospital payment 92. 
+The way hospitals are paid in the United States generally differs according to the different payers. 
+For Medicare this is typically DRG-based but along with a number of other states, Maryland obtained a 
+waiver which permitted them to implement an alternative payment system in its dealings with Medicare 23 . 
+The same year, in 1977, Maryland went a step further and implemented an all-payer model which means 
+that all insurance schemes have to apply the same payment system. Hospital tariffs are determined by the 
+Health Services Cost Review Commission (HSCRC) 24 for all hospitals and are not negotiated between 23 In the mid-70s, Medicare was keen to experiment with new forms of hospital payment. Maryland and a few 
+other States (New York, New Jersey, Massachusetts, West Virginia and Washington) applied for waivers 
+from the national Medicare and Medicaid system so that they could instead put in place their own state-
+devised systems to cover the categories of population insured by Medicare and Medicaid. Maryland was 
+the first State to obtain that waiver in 1977. 24 Since its establishment, the HSCRC has been thoroughly independent. From a legal point of view, it is 
+accountable to the state governor and not the US Secretary of Health. Consequently, the Health Department 
+has only a limited degree of administrative control over it (mainly linked to personnel). Additionally, the 
+HSCRC has economic independence because it is funded by a surcharge on the hospital tariffs paid by 
+insurers. Finally, it is governed by a board of seven delegates who must agree to sit on a voluntary basis. 
+The principal task of the HSCRC was to study and approve inpatient tariffs. In doing so, the HSCRC is 
+required to ensure that the total costs of all services provided by a hospital are reasonable, that the 110 112 114 116 118 120 122 124 126 128 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 Discharges per 
+1,000 Population United States 
+Maryland No tapering payment DELSA/HEA/WD/HWP(2015)1 41 insurers and hospitals. Thanks to this, Maryland has been able to implement innovative tariff policies in 
+hospitals. 93. 
+The decisive factor for hospital payment is the approved revenue budget. The revenue budget is, 
+theoretically, the product of the pre-defined allowed total charges per case and the different cases 
+(classified in DRG). The allowed total charge per case is calculated by the HSCRC. To do this the HSCRC 
+sets a unit rate per cost item for each hospital. There are around 50 cost items per hospital. Examples of 
+cost items are intensive-care units, operating theatres, radiology, emergency departments, clinical 
+laboratories, etc. 94. 
+In order to set unit rates per cost item, the HSCRC collects detailed data on costs using an 
+accounting system that assesses costs based on activity and allocates direct and indirect costs to each 
+revenue item. Hospitals are required to supply data on costs if they want to be eligible for reimbursement 
+under Medicare. The data make it possible to calculate costs by day for each cost centre. 95. 
+The unit rates are then adjusted to take account of the diversity of patients in each hospital 
+notably on the basis of the location of the hospital and the proportion of patients from each ethnic group. 
+They also take labour market differences into account. The allowed total charges per case (tariff) is the 
+sum of the product of the unit rates and the units used for each cost item involved in the treatment process 
+of one case. So tariffs for the Johns Hopkins Hospital, a teaching hospital based in Baltimore, Maryland, 
+are not the same as those for a rural hospital. There is also a fund to mutualise the costs of care provided to 
+uninsured patients. This fund reimburses hospitals for such treatment. 96. 
+The unit rates of inpatient activities in all hospitals are updated every year. The update factor is 
+dependent on several key elements. First, the HSCRC uses an indicator that reflects the rise in the costs of 
+factors of production published by Medicare, known as the market basket index. Then, the Commission 
+has discretion to increase the update factor in order to boost hospitals' profitability, for example, to 
+encourage capital investment, or to reduce that factor in line with assumed productivity gains in the 
+hospital sector or to comply with the constraints associated with the Medicare waiver test. The update 
+factor is the same for all hospitals, although certain programmes can influence the final update factor that 
+the hospital will enjoy (Murray, 2014). Consequently, the allowed total charges per case change every year 
+reflecting the change in the different unit rates. Hospital revenue budgets 97. 
+As discussed, the decisive factor for hospital managers is the revenue budget defined by the total 
+number of cases (classified into DRG) and the allowed total charges per case based on the different unit 
+rates for the different cost centres. The unit rate system is very disaggregated, and the cost-centre approach 
+makes it similar to a fee-for-service system. When the HSCRC tried to constrain growth in hospital costs 
+by capping the update factor of the several unit rates, hospitals were able to increase their income by 
+increasing cost centre volume (more tests, longer inpatient stays, etc.). 98. 
+The HSCRC retained the unit rate structure but it enforced a DRG 25 constraint on hospital 
+revenues. Each hospital has a target amount of revenue per DRG (allowed total charges) summed up for all 
+DRGs that it can earn during the course of a year. It charges tariffs for all patients but it has to monitor hospital's overall receipts are reasonably in line with its total costs and that its tariffs are fairly distributed 
+across all hospital service purchasers. 25 Each hospital admission is grouped into one of 320  " All Patient Refined Diagnosis Related Groups "  (APR-
+DRGs) that classify patients into clinically cohesive categories based on their medical condition and the 
+severity of their illness. The 320 APR-DRGs are separated into four  " severity of illness "  levels. DELSA/HEA/WD/HWP(2015)1 42 how it is doing on average relative to these DRG constraints. It can do this in an aggregate way by 
+monitoring its overall case mix adjusted charge per case. If it is over the pre-established target case mix 
+adjusted charge per case established for it, it must lower its allowed total charges during the year to come 
+back into compliance. It does so because the HSCRC can assess very large penalties for over-charging. 99. 
+Hospitals are not required to invoice by unit rate or by treatment episode at the rates set by the 
+HSCRC. For any care episode, a hospital can set its own tariffs to better reflect its actual use of resources 
+and production costs in a particular case. However, at the end of the year, the hospital is required to invoice 
+insurers for the total authorised budget equal to the product of the fixed charge per care episode and the 
+case mix. To do so, the hospital must offset any overbilling compared to HSCRC charges by invoicing for 
+a lower price over the year per cost centre or by lowering the resources used. The tolerance for change in 
+unit rates must be between ±5% of unit rates set by the HSCRC. Tapering payment or variable cost factor (VCF) in the State of Maryland Technical considerations 100. 
+Tapering payment was introduced alongside DRG-based payments in hospitals in 1977. There is 
+no difference in the way tapering is applied to the various types of inpatient services. At the same time, 
+hospital representatives are able to apply for exemptions especially if they open new operating theatres or 
+make new capital investments. 101. 
+Although the conclusions from empirical assessments of hospitals' cost structure to identify 
+economies of scale are somewhat unclear, the HSCRC was convinced that, in a large hospital, variable 
+costs could be as high as 50% or even 60%. Consequently, Maryland implemented a tapering payment 
+called variable cost factor (VCF). Any increase in activity beyond the revenue budgets is now billed at 
+50% of the tariff in force for hospitals under this system. In addition to tapering, set at a rate of 50%, this 
+system imposes two further constraints on hospital volumes, namely the volume governor and the case-mix 
+governor. The former restricts growth in hospital volumes to 2% per year. The latter restricts growth in 
+hospital case mix in 2014 to 0.5%. 102. 
+Over the year, hospitals must measure trends in volumes and the impact that tapering payment 
+might have on those trends in terms of their tariffs and final income. They must try to adjust their unit rates 
+or the intensity of services for a treatment during the year under way. Hospitals have an information 
+system to help them adjust their tariffs and to keep them, most of the time, close to the final tariffs once 
+tapering has been taken into account and, therefore, close to the authorised revenue. In the event of a 
+difference, the allowed total charges are adjusted downwards or upwards the following year. 103. 
+From a dynamic point of view, where changes over time are concerned, revenue authorised for 
+year t+1 before tapering payment can be applied is defined in two ways:  Where activity increases compared to the revenue authorised in t: the revenue authorised for 
+year t+1 equals the revenue authorised by the HSCRC in t plus the share of variable costs 
+engendered by the increase in activity. Thus, if a hospital had an authorised revenue of 100 in t 
+and records a revenue of 110 in t+1, then the authorised revenue for year t+1 equals 100 plus the 
+share of variable costs linked to the 10 points of supplementary revenue i.e. 6 where the VCF is 
+60%.  Where activity falls compared to the revenue authorised in t: the revenue authorised for year t+1 
+is equal to the receipts registered in t, plus the fixed costs engendered by the receipts that should 
+have been received in t. So, if a hospital had an authorised income of 100 in t and records a DELSA/HEA/WD/HWP(2015)1 43 revenue of 90, the revenue authorised for year t+1 is equal to 90 plus the share of fixed costs 
+linked to authorised revenue of 100 i.e. 4 where the VCF is 60%. Rationale behind the tapering system 104. 
+The rationale behind the introduction of the variable cost factor (VCF) was to capture the 
+marginal revenue from rising hospital volumes. 105. 
+From 1977, hospitals received only 50% of the tariff set by the HSRC for any incremental 
+increase in volumes above the activity cap. Tapering payment neutralised any incentive to increase 
+activity. However, tapering is not only a means of regulating volume growth. It can also protect hospitals 
+against dips in activity. If hospital volumes fell, the hospital received 50% of the amount of the drop in 
+volume so that it could cover its fixed costs. 106. 
+In the early 1990s, the HSCRC gradually reduced regulation of hospital volumes through 
+tapering scales. So as to allow hospitals to generate greater revenue and increase their profitability, 
+tapering scales were abolished for certain hospitals (Johns Hopkins and University of Maryland, the two 
+major teaching hospitals) and were fixed at 15% for the rest. The 15% rate was determined so that 
+hospitals could generate greater receipts and thus increase their profitability. Additionally, the fall in the 
+rate was intended to allow hospitals to implement investment policies. 107. 
+Between 2001 and 2008, tapering payment was abolished with the hope that managed care could 
+help containing costs. A significant growth in volumes was observed in Maryland between 2001 and 2008. 
+In response to that increase, the tapering payment system was reintroduced with the scales again at the 
+levels they were in the 1980s. Evaluation of effectiveness 108. 
+Firstly, hospitals have altered the way they manage their activities as a result of tapering so as to 
+remedy the unintended effects of self-employment by practitioners who are paid through a fee-for-service 
+mechanism. Indeed, physicians, especially surgeons, have a vested interest in increasing services because 
+their income is a function of the services they deliver. At the same time, hospitals must comply with the 
+constraints imposed by tapering. Thus hospitals have established teams responsible for risk management 
+within their hospitals to control self-employed practitioners' activities. These controls cover, in particular, 
+the relevance of treatments delivered by health professionals and the average length of an inpatient stay. 109. 
+Secondly, the rise in hospital volumes after the abolition of tapering in 2001 hints that tapering 
+has had an effect at least on hospital volume. Kalman (2014) shows a significant increase in the volume of 
+inpatient admissions, outpatient visits and operating costs following the abolition of tapering between 2001 
+and 2008. Once tapering was removed in 2001, admissions and outpatient consultations rose by 7.7% and 
+17.1% respectively – a significant increase compared to the preceding years. The yearly rate of growth in 
+admissions rose significantly when tapering was abolished, from 0.8% between 1991 and 2001 to 2.4% 
+between 2001 and 2008. Similarly, hospital operating costs rose relatively sharply: the annual growth rate 
+for operating costs increased from 4.8% between 1991 and 2001 to 8.4% between 2001 and 2008. Costs 
+therefore grew more quickly than volumes. This study shows that hospitals react to changes in financial 
+incentives. Kalman's study (2014) concludes that tapering can act as a model to constrain growth both in 
+hospital volumes and in costs within the hospital sector. 110. 
+However, the sharp growth in hospital volumes (admissions, readmissions, emergency visits, 
+outpatient care) over the period 2001 to 2008 led the HSCRC to introduce several plans to change the way 
+hospitals were paid in recent years. These included: progressive switch to global budgets for hospital 
+payment; reintroduction of the tapering system; and performance-based payments for hospitals. DELSA/HEA/WD/HWP(2015)1 44 111. 
+To date, 93% of hospitals are remunerated under a global budget system. The tapering payment 
+system therefore now applies only to 7% of hospitals. The fact that so few hospitals opted for tapering 
+payment over the global budget system can be explained by the very tight restrictions on hospital activities 
+for hospitals that choose tapering. 112. 
+The reason behind the decision to promote the global budget system is that it seeks to exercise 
+stricter control over the growth in hospital volumes and thereby ensure that growth in hospital costs 
+matches growth in Maryland's wealth. In the past, growth in hospital costs have been 2 to 3 points higher 
+than growth in the State's wealth. This meant sharp growth in health expenditure as a share of GDP from 
+7% in 1970 to 15% today. The HSCRC is attempting to rein in growth in per capita spending to match the 
+growth in GDP in Maryland over the past 10 years, namely 3.58%. That is now the cap on growth in the 
+hospital sector. Czech Republic Basic facts of the health system 113. 
+Mandatory health insurance was introduced in 1991 in the Czech Republic (Kinkorová et al., 
+2012). All permanent residents in the Czech Republic are entitled to health care coverage, while 
+non-permanent residents are also covered if they are working for a Czech employer (Bryndová et al., 
+2009). Residents who are not in these two situations must take out private insurance to cover their care 
+costs. The benefit basket includes outpatient consultations, analyses and diagnoses, inpatient stays, 
+rehabilitation, transport and preventive care (Kinkorová et al., 2012). 114. 
+To receive these services, permanent residents must sign up with one of the seven social health 
+insurance funds. Residents are free to choose the insurer and may change insurer each year. In 2008, 
+however, only 2.1% of the insured population chose to change insurer because competition between the 
+various providers is poor (Bryndová et al., 2009). Risk selection by insurers on contracts for basic services 
+is not permitted. 115. 
+There are two sources of funding for social health insurance funds: social contributions from 
+employers and employees (76%) and state contributions for inactive insured persons (24%). Hospitals 116. 
+Hospital costs in the Czech Republic were lower than the OECD average in 2011 at 2.3% of GDP 
+compared to 2.6%. However, the volume of activity in the Czech Republic is 30% greater than the OECD 
+average in terms of numbers of admissions per 1 000 population. 117. 
+Hospital services are funded principally by social security, which funds 94% of hospital costs, 
+while the general government funds 3%. Private insurance and direct payments from households each 
+account for 3% of funding for hospital costs. Private out-of-pocket expenditure in the Czech Republic is 
+defined by a co-payment of EUR 4 per day. 118. 
+Hospital capacity in the Czech Republic is among the largest in the OECD countries. With 
+6.8 beds per 1 000 population, the Czech Republic ranks seventh in the OECD and is above the OECD 
+average (4.9 beds per 1 000 population). However, the number of beds fell sharply between 2000 and 2011 
+in the Czech Republic (down by 10%), which compares with a 5% reduction on average across the OECD 
+over the same period. 119. 
+Public hospitals are the main suppliers, with 86% of beds, compared to an OECD average of 
+73%. The central and regional governments own and manage most public hospitals. Except for cases of DELSA/HEA/WD/HWP(2015)1 45 emergency, a patient must choose a hospital that has a contract with his insurer. In practice, all insurance 
+funds have contracts with the main hospitals, and there are therefore few restrictions. 120. 
+There is no explicit regulatory system in the Czech Republic governing how provision of hospital 
+services are organised. For government-owned public hospitals, however, the authorities control changes in 
+hospital bed capacity and investment in expensive technologies. There is also an intrinsic limitation for the 
+expansion of hospital capacity by the requirements for hospitals to have contracts with insurers. Insurers 
+therefore have the power to restrict unjustified capacity expansion. Hospital payments in the Czech Republic Main features of the DRG payment system 121. 
+According to Ministry of Health estimates, 80% of hospital receipts for medical, surgical and 
+obstetric care come from DRG-based payments. The remaining 20% of hospitals' revenue relate to other 
+activities and are subject to bilateral agreements between insurers and hospitals. 122. 
+Until 2007, the principal means of payment for hospitals was a global budget system. In 2008, 
+some services were reimbursed through DRG-based payment but revenues for each hospital could differ by 
+only 1% (above or below) of the amount that would have been paid under the global budget. This range 
+was referred to as the  " risk corridor " . Thus, initially, the expected hospital volumes were determined using 
+the historic volumes which were used to define the prospective global budgets (as was the case before 
+2008). The total revenue based on DRG-based payments for the same volume of care was then calculated. 
+If this amount was outside the risk corridor then the hospital was paid by global budget. 123. 
+Since 2009, activity-based payment (DRG) has been the predominant payment system for 
+hospital activity and the risk corridor no longer exists. It replaced the global budget and has been used 
+since that date (except for the year 2011 when global budget was re-introduced for one year). The 
+classification is based on International Refined-DRG and adjusted to fit Czech circumstances. There are 
+approximately 1 000 DRGs associated with relative cost weights. DRG weights include costs for 
+medications, medical devices and physicians' salaries. 124. 
+Some hospital services are remunerated via alternative mechanisms such as fee-for-service or 
+specified budgets for certain rare diseases in some particular hospitals. Additionally, psychiatric care, 
+rehabilitation and some patient groups where cost variability is too high are excluded from DRG-based 
+payment. Psychiatric and rehabilitative care, for example, is paid on a fee-for-service basis. Hospitals reimbursement base rate 125. 
+The DRG payments from insurers for the provision of inpatient services are determined by a 
+DRG weight multiplied by a base rate. Theoretically, hospitals and insurers are free to negotiate this base 
+rate but in practice, it is decided centrally. The Minister for Health sets out the base rate in an annual 
+decree published in December of the previous year. 126. 
+The principal parameter in determining the base rate in the hospital sector is the projected ability 
+for health insurers to pay for hospital services via their revenues from social insurance contributions. There 
+is no single base rate for all hospitals, however. During the transition from the global budget to the DRG-
+based system, hospital-specific base rates were defined to mitigate the effects of transition. These 
+ " individual "  base rates are converging towards a single base rate. Consequently, each year, the public 
+decree also sets out the rules on base rate convergence. The variation in hospital base rates has decreased in 
+recent years. In 2014, the convergence has been completed at the hospital level as each hospital applies a 
+single base rate to all insurers. DELSA/HEA/WD/HWP(2015)1 46 The tapering payment system in the Czech Republic Technical consideration 127. 
+Almost all activities are subject to tapering payment beyond a pre-defined threshold. As 
+explained previously, a few activities were withdrawn from DRG-based payment because of the huge 
+variations in costs between cases within a single DRG. Such care, however, is also subject to tapering 
+payment, although the actual payment is calculated differently. There may be exceptions as a result of 
+bilateral agreements between insurers and hospitals, the details of which are difficult to access. 128. 
+The Ministry of Health determines the formula used to set the activity caps (expressed in terms of 
+case mix) above which tapering applies. Caps are set for each hospital-insurer pair. Thus, each hospital has 
+to consider separate activity caps for the billing of services to each individual insurer. It is not the total 
+volume produced by a hospital that is decisive for the application of tapering but the volume provided for 
+each insurer. The formula changes each year because the Ministry tries to ensure that the system is 
+financially balanced (see Annex 3 for a detailed description of the formula used in 2013). DELSA/HEA/WD/HWP(2015)1 47 129. 
+The tapering payment mechanism can be broken down into two main steps:  Step 1: A cap is set centrally for growth in activity between t-2 and t, expressed in terms of the 
+ratio volume t /volume t-2 but also taking into account the change in the number of admissions so as 
+to control risks of upcoding. In 2011, the cap was set at 98% of the volume for the benchmark 
+year (representing a 2% fall in volumes). In 2012, the cap was set at 115% of the case mix for 
+2010 (an increase of 15%). At the same time, a lower trigger threshold for tapering was set for 
+hospitals where activity, adjusted for case mix, was between 105% and 115% of that of the 
+preceding year but where the number of admissions had fallen. This mechanism sought to 
+discourage hospitals from  " upcoding "  their activities.  Step 2: Hospital revenue is defined for each contract between each individual hospital and each 
+insurer (i.e. more than 1 000 contracts), as follows:  Hospital volumes in year t are estimated and compared to those for year t-2;  This volume growth is benchmarked with the centrally set cap (115 in year 2012 
+26 );  The change in a hospital's  " regulated case mix "  (Vol t /Vol t-2 ) cannot be greater than the 
+centrally set cap (1.15 in year 2012). The regulated case mix is therefore equal to the 
+minimum of Vol t /Vol t-2 and 1.15.  The  " regulated case mix "  is then multiplied by the hospital's base rate to establish the 
+revenue that the insurer must pay the hospital.  In 2012, two caps were in force: hospitals received only 50% of the tariff per case beyond the 
+first cap (105%) and were not paid at all for activities beyond the second cap (115%). 130. 
+In practical terms, hospitals receive advances at the beginning of each month based on the 
+reimbursement levels for preceding years. The total amount paid by an insurer to a hospital is therefore 
+known only at the end of the period. Consequently, the amount of tapering is calculated ex post, and it 
+takes the form of reductions on future hospital activities billed to that insurer. In practice, at the end of the 
+year, an adjustment is made and, where necessary, hospitals repay the insurers over the next quarter 
+(between April and June). All calculations are made by insurers, but the hospital may raise an objection in 
+case of disagreement. Rationale of introduction 131. 
+The tapering payment mechanism was introduced alongside DRG-based payment in 2009 to 
+prevent inflationary effects during the shift to DRG-based payment and to attenuate the impact of 
+transition. With the economic crisis and the need to control rising costs, the tapering system remained in 
+use after the transition period, except in 2011 when global budget was reintroduced for one year. However, 
+in 2014 the government decided to move back to hospital financing via prospective global budgeting. Evaluation of effectiveness 132. 
+The impact of tapering on volume growth is not obvious (Figure 9). Between 2009 and 2010 
+when the tapering system was introduced –together with DRG payments-, the overall case mix for all care 
+remunerated on a DRG basis rose by nearly 15%. The Ministry of Health noted a slight fall in the case mix 26 A single cap has been used to simplify matters. DELSA/HEA/WD/HWP(2015)1 48 in 2012 but did not link it to tapering. Indeed, in 2011, the Czech Republic reintroduced a global budget 
+before reverting to tapering in 2012. 133. 
+Actually, the tapering mechanism was not expected to contain volume growth in the long term. 
+As the case mix in year t was used as the benchmark for calculating the cap two years later, hospitals still 
+had a strategic interest in increasing their volumes. This may, in part, explain why the Czech Republic 
+reverted to the global budget in 2014. Figure 9: Total case mix for care between 2007 and 2012 Source: Czech Ministry of Health Israel Basic facts of health system 134. 
+Israel is a country where basic health coverage is provided via social health insurance. Since 
+1995, all permanent residents of Israel have been entitled to access to the services listed under the National 
+Health Insurance (NHI) Act. This basket of care includes outpatient consultations, analyses and diagnoses, 
+inpatient and rehabilitative care (Bowers, 2014). To receive these services, permanent residents are 
+required to sign up with one of the four Social Health Insurance funds (SHI funds). Risk selection of 
+clients for contracts that cover basic services is not permitted. 135. 
+Revenues of SHI funds are generated from two sources: a payroll tax, set by law, and general 
+taxation. Insurers cannot adjust contributions in line with their financial situation. There are exemptions 
+and rate reductions for various groups of the population such as pensioners and recipients of replacement 
+income. All revenues are collected by the National Insurance Institute (NII) distributing them to the four 
+SHI funds. Hospitals 136. 
+Hospital expenditure in Israel accounted for 1.9% of GDP in 2009, lower than the OECD average 
+(2.6% of GDP). DELSA/HEA/WD/HWP(2015)1 49 137. 
+On average, 59% of expenditure on hospital services is funded by social security (the four 
+insurers), 33% by the State, 5% by corporations and 2% directly by households. These out-of-pocket 
+expenditures are not co-payments since acute hospital services are free at the point of delivery; they 
+include payments for services which are not included in the basic health care basket. 138. 
+One of the features of hospital provision in Israel is the low number of beds. There are 3.3 beds 
+per 1 000 population, ranking Israel 19 th among OECD countries for this indicator. The average number of 
+beds in OECD countries is 4.9 per 1 000 population. The number of beds remained stable between 2000 
+and 2011 in Israel (+0.5%), whereas it fell by 5% on average throughout the OECD. Only 58% of 
+hospitals beds are dedicated to curative care which is below the OECD average. However, at 198, the 
+number of hospital discharges per 1 000 population for Israel is 28% higher than the OECD average of 
+155. 139. 
+Most hospital beds in Israel are public: 85% of beds are in public hospitals compared to an 
+average of 73% in the OECD countries. The private hospitals are either managed by one of the four 
+principal insurers, forming part of a health maintenance organisation, or by private independent businesses. 
+The patient is free to choose the hospital he attends, although there are incentives to guide him in the form 
+of agreements between hospitals and health insurer. 140. 
+The government has a strong influence on how hospital provision is organised and its main 
+features. It decides on the number of beds and the type of activities for which they are earmarked in both 
+public and private sectors. Similarly, investment in costly technologies such as medical imaging is 
+regulated by local governments for hospitals that enter into contracts with the four social health insurers. Hospital payments in Israel 141. 
+Hospitals are financed either by activity-based payments or by a per diem. The activity-based 
+payment system is different from that commonly used in other OECD countries. In Israel, it refers to 
+procedures rather than to diagnoses. These payments were introduced in the 1990s to reduce waiting lists 
+for 30 relatively costly interventions. In 2009, the payments covered 150 interventions and accounted for 
+an average of around one-third of hospital revenues, with strong variations across hospitals. They currently 
+cover 240 procedures and account for 38% of care revenues in hospitals. 142. 
+Per diem payments apply to most inpatient stays. They account for 35% of hospital budgets and 
+62% of payments for inpatient care. Per diem payments are set according to speciality but also by type of 
+care (intensive, etc.). There are 46 different per diem hospital payments. 143. 
+Hospital payments are regulated by law only for the public sector. Therefore, the tariffs for 
+procedure-based payments and per diem drawn up by the Ministry only apply in public hospitals. Most 
+private hospitals use these tariffs as well, although there is no legal requirement for them to do so. The 
+tariffs of the various services are updated twice a year by a committee including representatives of the 
+Ministries of Finance and Health, the insurers and hospitals. Tariffs must be revised without changing the 
+overall budget. Any increase in tariffs for a procedure or the introduction of a new service must therefore 
+be to the detriment of another procedure. The tariffs define the maximum amount that hospitals can invoice 
+for the provision of a service. The tapering payment system in Israel Technical considerations 144. 
+Tapering payments apply to payments made by public insurers to public hospitals. The scope of 
+tapering has been expanded since it was introduced. It originally applied only to activities at public DELSA/HEA/WD/HWP(2015)1 50 hospitals owned by the government, but, since 2008, tapering has been expanded to cover public hospitals 
+owned by health insurers. Expenditures covered under private insurance coverage are not considered at all 
+in this scheme. 145. 
+Every year, the government determines parameters for the tapering system (budget caps and tariff 
+reductions) but these parameters only apply  " by default "  when no bilateral agreement has been signed 
+between a hospital and a SHI fund. The general rule is that payments for hospital activities are governed by 
+individual contracts between SHI funds and hospitals. The tapering system drawn up by the government 
+applies only to 10% of cases. However, the structure of the tapering system introduced by the government 
+strongly influences the structure of the individual contracts between hospitals and SHI funds. Default system in 2014: under the legal framework, tapering payment affects only 10% of activities 146. 
+Tapering covers most activities paid through per diem or procedure-based payments, with some 
+exceptions (e.g. psychiatric care). 147. 
+In practice, the following principles apply to each hospital and insurer in 2014. Contracts 
+between each hospital and insurer in 2012 determine the Gross Revenue Cap (GRC), or the total amount 
+billed for treatments at national tariffs, and the Net Revenue Cap (NRC), which equals the GRC minus 
+discounts agreed during negotiations between the insurer and the hospital. At the same time, adjustments 
+are allowed so as to take into account changes in prices in the hospital sector, demographic trends and bed 
+capacity 
+27 . If the hospital exceeds the Gross Revenue Cap stated in the contract, then hospitals are 
+remunerated at a reduced rate. 148. 
+Israel's tapering payment system employs several caps and tapering rates (Table 8): for any 
+activities that exceed the hospital cap by up to +2%, insurers pay only 70% of the price negotiated the 
+previous year by hospitals and funds. They then pay 33% of the negotiated price for overshoots of between 
+102% and 113% of the negotiated volume, and finally 65% of the negotiated price beyond 113%. 149. 
+The 33% rate was apparently chosen to reflect the difference between a hospital's total charges 
+and its wage bill, which in Israel is close to 70%. From the hospitals' point of view, it was necessary to set 
+a tapering rate that did not act as a disincentive for the delivery of care. From the insurers' point of view, 
+the rate had to be low enough to increase their negotiating power. 150. 
+The tapering mechanism also protects hospitals against any significant drop in volume of 
+activities (Table 7). Regardless of its level of activity, a hospital is guaranteed to receive 95% of the Net 
+Revenue Cap. The hospital also receives 30% of the payments it would have received for undelivered 
+services representing 95%-100% of the Gross Revenue Cap, in other words for services up to the tapering 
+threshold (Table 7). 27 The Ministry of Health and the Ministry of Finance first updates hospitals' activity caps in 2012 in line 
+with two key parameters: the increase in the number of persons insured by the SHI funds, and the historic 
+payment patterns for hospitals (price and quantity) for each SHI funds. Projected changes in these 
+parameters are based on trends over the previous five years. DELSA/HEA/WD/HWP(2015)1 51 Table 7: The tapering payment mechanism in Israel Remuneration of activities above the Gross 
+Revenue Cap Remuneration of activities if the Gross Revenue 
+Cap is not reached Cap reached All activities paid with 
+agreed discounts = Net 
+Revenue Cap If activities are less 
+than 95% of the cap Guaranteed income of 95% of 
+the Net Revenue Cap Overshoot of 0-2% 
+70% of the negotiated 
+price Activity of between 
+95% and 100% of the 
+Gross Revenue Cap Payment of 95% of the Net 
+Revenue Cap + 30% for undelivered activities 
+between 95% and 100% of the 
+Gross Revenue Cap Overshoot of the cap by 
+between 2% and 13% 33% of the negotiated 
+price Overshoot of the cap by more 
+than 13% 65% of the negotiated 
+price Tapering as part of negotiations between insurers and hospitals 151. 
+Each time the government publishes a new tapering system (i.e. new activity thresholds and new 
+tariff reductions), hospitals begin negotiations with the main insurers. The government publishes 
+guidelines that take into account previous contracts between hospitals and SHI funds and define the 
+reductions that apply over and above specific volumes of hospital activity. Outside this legal framework, 
+SHI funds and hospitals can negotiate specific tariff reductions or reduced waiting times for their insurees. 
+Whilst hospitals and insurers are not required to take into account the default framework decreed by the 
+government, all contracts that are negotiated are required to comply with the minimum activity levels that 
+must be paid for by the insurer to the hospital. In 2014, therefore, an insurer that has a contract with a 
+hospital is required to pay at least 95% of the amount it paid to the hospital in 2012. 152. 
+The system introduced by the government is the starting point for negotiating contracts between 
+insurers and hospitals. In practice, in the case of the SHI fund  " Clalit " , a representative negotiates with 
+hospitals in each district. 28 Each district representative knows the budget per capita, adjusted for case 
+severity, that he is authorised to negotiate with all hospitals. The three principal parameters discussed 
+during negotiation are the global budget before discounts, discounts and, finally, quality of care including 
+waiting times. The representative and hospital negotiate on the basis of services delivered in the previous 
+year and take account of overall trends in volume estimated by the government. Epidemiological trends are 
+not taken into account during the negotiations. 153. 
+The degree of tapering negotiated in bilateral contracts can be high. According to the Ministry of 
+Health, the difference between the prices set by the committee and the prices negotiated can be explained 
+by the fact that the prices set by the committee take into account variable and fixed costs of production. 28 A district is an administrative division below central government and above municipalities. DELSA/HEA/WD/HWP(2015)1 52 During negotiations, SHI funds can negotiate discounts as a function of negotiated volumes by paying only 
+for variable costs. 154. 
+The contracts concluded between SHI funds and hospitals set out two types of reduction. The 
+first is a system-wide reduction in the tariff for hospital services applicable to all activities. The second 
+applies above a specified level of activity (tapering). The average discount negotiated is 19.4%. This 
+discount can be (artificially) expressed according to three components: a system-wide reduction of 2% 
+applied on all hospitals, that takes account of the general increase in hospital volumes; a  " theoretical "  
+reduction representing the reduction that the insurer would have received under the tapering system laid 
+down by the Government, which is on average 10%; and, finally, the reduction obtained by the insurer as 
+part of its negotiations with the hospital, on average 7.4%. 155. 
+Some services are excluded from the tapering payment system. If a hospital wants to introduce a 
+new activity, then that activity is not taken into account during negotiations on the capping system. 
+Moreover, if a hospital wants to develop a particular activity, for example MRI scans, the SHI fund can 
+seek significant discounts in exchange for volume growth. If the SHI fund wants to offer a particular 
+quality of service to its insurers, such as reduction in waiting times for certain procedures, it may agree to 
+smaller reductions in exchange for better quality of service. 156. 
+In practice, tapering is applied to charges in the current year. Using the monthly invoices sent by 
+the hospitals, the SHI funds decide whether the monthly demand for payments is in line with the expected 
+monthly payment given the cap set by the government or during negotiations. If the monthly invoice 
+exceeds the expected amount, the SHI funds subtract a proportion of the reduced tariff that was negotiated. 
+Each month, the SHI funds take account of previous payments to balance out this system of adjustments to 
+charges. Rationale of introduction 157. 
+Tapering payment was introduced in 1994 at the same time as the Health Insurance Act that made 
+health coverage universal in Israel. Upon introduction, the aims of tapering were twofold: to constrain 
+growth in the use of hospital services and to reduce insurers' expenditure on services above the cap. It was 
+intended to provide some protection to SHI funds which feared that provision of health insurance for the 
+whole population would lead to an explosion in health expenditure in general, and hospital costs in 
+particular. 158. 
+Tapering payment has been in a state of continuous change since it was introduced. Between 
+1994 and 1997, the revenue cap above which tapering applied was an absolute maximum: the hospital 
+received no further payment at all once the cap had been reached. Between 1997 and 2005, SHI funds paid 
+only 50% of the charge for services above the cap. At the time, this rate was accepted as a reasonable 
+estimate of the variable proportion of hospital costs. However, insurers were suspected of concentrating 
+inpatient treatment for their insurees on just one hospital, so as to reduce the cost of services supplied. To 
+remedy this unintended effect, in 2005, the Government introduced an intermediate cap: for services 
+delivered between 102% and 113% of the cap, insurers paid only 33% of the cost. Insurers were therefore 
+given an incentive to spread their insurees across several hospitals. Summary of tapering experiences 159. 
+In conclusion, the four case studies show that tapering payment is intended primarily to contain 
+the growth of hospital costs by imposing constraints on individual hospitals rather than the hospital sector 
+as a whole. Central authorities (ministries or independent agency) have a major say in setting the 
+parameters that govern tapering payments. In practice, where hospital payment is concerned, tapering is DELSA/HEA/WD/HWP(2015)1 53 essentially applied to the tariffs for the current year but is further adjusted by a process of reconciliation the 
+following year. 160. 
+Tapering payment is justified by the existence of economies of scale, even if the empirical 
+evidence for such economies in the hospital sector is not used in setting either the thresholds or rates of 
+tapering payment. This goes some way to explaining the wide range of rates in place in the four countries 
+studied. In some cases, the rates have been used for policy objectives. For example, in Maryland, at some 
+point, a tapering rate of 15% was decided upon to allow hospitals to increase their profitability so as to 
+encourage investment. 161. 
+Tapering payment does help to contain the growth of hospital costs, but there are very few 
+records of its impact on hospital volumes. Just one study in Maryland provided evidence of livelier growth 
+in activity between 2001 and 2008, a period when tapering was abolished. Given the moderate impact of 
+tapering payment on hospital activities, some countries are inclining towards a more rigorous system of 
+control over hospital activities such as a global budget (Czech Republic and Maryland). DELSA/HEA/WD/HWP(2015)1 54 Table 8: Summary Czech Republic 
+Germany 
+Israel 
+Maryland 
+Hospital payment methods in 2013 or 2014 Hospital 
+payment 
+method DRGs since 2009 
+(except in 2011). DRGs since 2003 (80% 
+of hospital revenue). Fee-for-service, 
+procedure-based 
+payments, per diem 
+payments. Global budget and 
+DRGs (7% of hospitals 
+in 2014). DRG-based 
+tariffs Each hospital applies a 
+single DRG-based tariff 
+to all insurers. 
+Differences between 
+hospitals until 2014 
+intended to smooth 
+the transition to DRG-
+based payment and 
+tariffs were expected 
+to convergence. A DRG catalogue based 
+on relative weights. 
+Base rate negotiated at 
+regional level, with 
+convergence towards a 
+single national base 
+rate. Activity-based 
+payments based on 
+procedure-related 
+groups.  " Target tariffs "  laid 
+down but they act only 
+to set a target global 
+budget based on an 
+approved care volume. 
+Hospitals are free to 
+adjust their bills 
+provided they remain 
+within the target 
+budget envelope. Features of tapering payment in 2013-2014 Date when 
+tapering was 
+introduced 2009, but a global 
+budget applied to 
+hospitals in 2011 and 
+2014. 1985 (before the 
+introduction of DRGs). 
+Second level of 
+tapering introduced in 
+2009. 1994 (introduction of 
+universal health 
+insurance), several 
+changes in parameters 
+since then. 1977, withdrawn 
+between 2001 and 
+2008, then 
+reintroduced. Aims of 
+tapering To prevent inflationary 
+effects during the shift 
+to DRG-based 
+payment. The 
+economic crisis and the 
+need to control growth 
+in expenditure led to 
+the system remaining 
+in use. To contain hospital 
+spending growth and 
+volume increase; 
+justified by existence of 
+economies of scale in 
+hospital production. To constrain growth in 
+the use of hospital 
+services and reduce 
+insurers' expenditure 
+on services above a 
+given cap. The rationale behind 
+the introduction of the 
+variable cost factor 
+(VCF) was to take into 
+account economies of 
+scale. Areas where 
+tapering 
+applies Almost all activities are 
+subject to tapering 
+payment. There may 
+be exceptions, but 
+these arise out of 
+bilateral agreements 
+between insurers and 
+hospitals, the details of 
+which are not readily 
+available. All DRG-based 
+payments. Activities 
+excluded: transplants, 
+equipment-intensive 
+DRGs (2/3 of costs); 
+reduced tapering for 
+severely injured All hospital activities. 
+All activities but 
+adjustments may be 
+made to allow for the 
+impact which new 
+activities will have. Definition of 
+tapering The Ministry of Health 
+draws up the formula 
+to be used to calculate Principles laid down at 
+federal level (two 
+thresholds and two Parameters (thresholds 
+and scales) laid down 
+by the Government for Principles laid down by 
+the independent 
+government agency DELSA/HEA/WD/HWP(2015)1 55 Czech Republic 
+Germany 
+Israel 
+Maryland 
+parameters the cap above which 
+tapering applies. rates of tapering). 
+ " Negotiated "  activity 
+thresholds for each 
+hospital based on past 
+performance and 
+projected activity. 
+Tapering scales laid 
+down nationally (this 
+has changed over 
+time). three years. 
+Hospitals and insurers 
+sign individual 
+contracts and 
+negotiate further 
+discounts and 
+adjustments in 
+tapering parameters in 
+90% of cases. responsible for 
+managing hospital 
+charges (HSCRC, Health 
+Services Cost Review 
+Commission). 
+Tapering scale laid 
+down for all state 
+hospitals. Threshold 
+above which 
+tapering 
+applies The caps are the result 
+of a single method of 
+calculation laid down 
+by the Ministry which, 
+once applied to the 
+data from each 
+hospital, results in 
+different caps for each 
+insurer-hospital 
+pairing. The 
+parameters for the 
+calculation are an 
+increase in volumes of 
+cases treated, an 
+increase in severity per 
+case and an increase in 
+tariffs. First threshold: activity 
+in the benchmark year 
+(all activity above this 
+threshold is paid at a 
+reduced tariff). 
+The second threshold is 
+the volume negotiated 
+between a hospital and 
+all relevant insurers. An initial threshold 
+based on historical 
+trends and projections 
+for the number of 
+insured persons; above 
+this point, tapering 
+applies. 
+Three further 
+thresholds, each 
+defined as a 
+percentage of the first 
+threshold just the 
+tapering scale as 
+activity increases. Any increase in activity 
+compared to t-1 is paid 
+only in line with the 
+scale of variable costs 
+(reduced charge). Tapering 
+scales 50%. First tapered scale: 
+25% in 2013. 
+Second tapered scale: 
+65%. Scale 1 (applies 
+between 100% and 
+102% of the threshold): 
+30%. 
+Scale 2 (between 102% 
+and 113% of the 
+threshold): 67%. 
+Scale 3 (above 113% of 
+the threshold): 35%. 50% in the 1980s, 
+15% in the 1990s, 
+50% currently. Benchmark 
+year and 
+adjustments The trends accounted 
+for in the method of 
+calculating the cap are 
+calculated using year t 
+and year t-2. Generally speaking, the 
+activity actually 
+performed in the 
+previous year acts as a 
+benchmark. In 2014, 
+the benchmark year is 
+2012. In 2014, the 
+benchmark year was 
+2012 to avoid 
+incorporating a sharp 
+increase in activity that 
+occurred in 2013. Generally speaking, the 
+activity actually 
+performed in the 
+previous year acts as a 
+benchmark with an 
+adjustment to avoid 
+paying for the fixed 
+costs associated with DELSA/HEA/WD/HWP(2015)1 56 Czech Republic 
+Germany 
+Israel 
+Maryland an increase in activity 
+above the threshold. Application 
+of tapering 
+in practice Following year 
+(between April and 
+June). Adjustment of tariffs in 
+the current year. Adjustment of tariffs in 
+the current year. Current year with the 
+option to make 
+corrections the 
+following year. Hospital 
+protection 
+mechanisms The hospital is 
+remunerated at a rate 
+of 20% for all activity 
+that is  " negotiated "  
+but not performed. Guaranteed income for 
+the hospital: full 
+remuneration for 95% 
+of the negotiated 
+activity, plus payment 
+of 30% of the price for 
+services not performed 
+in the range of 95%-
+100% of the activity 
+cap  "  " negotiated " . Where activity is lower 
+than the revenue 
+authorised, the 
+hospital receives 
+payment for the share 
+of the fixed costs 
+incorporated in the 
+income that it should 
+have received in t. Impact of tapering Changes in 
+activity The Ministry of Health 
+reported a slight fall in 
+case mix in 2012 but 
+did not link it to 
+tapering. Lower rate of growth in 
+case mix since 2009, 
+but difficult to relate 
+this to the introduction 
+of the second level of 
+tapering. Significant increase in 
+inpatient admissions, 
+outpatient 
+consultations and 
+operating costs 
+following the removal 
+of tapering between 
+2001 and 2008 
+(Kalman, 2014). Savings due 
+to tariff 
+reductions Not known. 
+Expected savings in 
+2011-12 EUR 270-
+350 million (0.5% of 
+hospital costs). On average, 10% of all 
+payments to hospitals 
+if national parameters 
+are applied, plus 7% in 
+reductions secured 
+through negotiation. Not known. Impact on 
+waiting 
+times, 
+quality of 
+care No evidence. 
+Unknown 
+No evidence. 
+No evidence. DELSA/HEA/WD/HWP(2015)1 57 CONCLUSION 162. 
+In 2011, hospital care costs accounted for 29% of all health spending, on average, in OECD 
+countries and for 2.6% of gross domestic product (GDP). On average, hospital care costs in the OECD 
+countries continued to grow in 2010 and 2011, but at a markedly slower rate than in 2008 and 2009. Many 
+countries have taken measures to rein in public spending in this area: cutting the salaries paid to health 
+professionals, cutting staff numbers, reducing the fees paid to health care providers and increasing the 
+patient's out-of-pocket share, all in an attempt to ease the pressure on budgets (Morgan and Astolfi, 2013). 163. 
+In most OECD countries, spending on hospitals is funded mainly by the public sector. Whilst 
+health systems vary across the OECD countries, there are similarities in the way hospital costs are 
+financed. On average, across OECD countries, 88% of these costs were funded by the public sector in 
+2011. One exception is the United States where private insurers meet 36% of hospital costs. This is due to 
+the fact that 53% of the US population are covered by private insurance. In most other OECD countries, 
+private insurance has a much more limited role providing only complementary or supplementary insurance 
+for their population. As a result, private insurers only finance about 5% of hospital spending across OECD 
+countries. Patients also contribute to the costs of hospital care, by 6% on average across the OECD. 164. 
+Whereas global budgets are the predominant mode of payment for hospital services in tax-funded 
+national health systems, remuneration through DRGs is the main mode to pay hospital in countries with 
+social health insurance. Two-third of countries with a health insurance system have opted for DRG-based 
+payment or payment per case to public hospitals as the main mode of payment (14 out of 20) and three 
+others have chosen fee-for-service payment, which also ties the hospital's payment to the activity it 
+performs. 29 DRG-based hospital payment was introduced in OECD countries with different objectives, 
+such as: increase efficiency in the use of resources in hospitals, contain hospital costs, increase 
+transparency, reduce waiting times, better allocate resources between hospitals and/or improve the quality 
+of care. 165. 
+To control the inflationary effects of DRG-based payment, some OECD countries have 
+introduced a tapering scale of rates for DRG-based payment above a defined volume of production. The 
+main reason given to justify this mechanism is that economies of scale can be achieved within the hospital 
+production system. Whilst the empirical evidence for such economies in the hospital sector is unclear, it is 
+generally recognised in these countries that, above a given level of production, fixed costs have been paid 
+for and hospitals can only be paid for variable costs. Tapering payments have been introduced in six 
+OECD countries: Germany, USA (State of Maryland), the Czech Republic, Israel, Australia and Hungary. 
+Detailed case studies have been conducted on four of these – Germany, Maryland, the Czech Republic and 
+Israel – to identify the main economic, institutional and technical issues entailed in introducing a tapering 
+scale mechanism. 166. 
+The four case studies conclude that tapering payment is intended primarily to contain the growth 
+of hospital costs and is justified by the existence of economies of scale. But the circumstances surrounding 
+its introduction vary. In Maryland and initially in Germany, the main motivation is to capture the financial 29 Source: http://www.oecd.org/els/health-systems/characteristics.htm. DELSA/HEA/WD/HWP(2015)1 58 gains of the economies of scale realised. In Israel and the Czech Republic, it was introduced in response to 
+the fear that activity volumes might increase, as a result of generalised health insurance coverage (in Israel) 
+or of the introduction of DRG-based payment (in the Czech Republic). This is also true for Germany, 
+where the re-introduction of the second tapering mechanism in 2013 was intended to rein in activity 
+growth. 167. 
+The levels of hospital activity above which tapering scale rates apply are set on the basis of data 
+for past years and projections of how demand will develop. In Germany and the State of Maryland, the 
+threshold at which tapering begins is the level of activity of the reference year (usually the previous year); 
+all activities above this level are paid at a reduced tariff. In the Czech Republic, a single annual formula 
+determines the threshold above which tapering applies to each hospital/insurance fund contract, set on the 
+basis of the change in activity between t-2 and t. In Israel, the thresholds for tapering are agreed every year 
+between each insurer and hospital. Thresholds are set in terms of the change in activity volume (case mix) 
+in most of the countries studied. Israel alone sets them on the basis of the hospital's gross revenue. 168. 
+Central authorities (ministries or independent agency) have a major role in setting tapering scales, 
+or reductions on the full tariff, whether these are agreed by negotiation or imposed unilaterally. In 2009 
+and 2012, in Germany, the scale was negotiated in each Land by the regional hospital and insurance fund 
+associations; the scale was decreed by federal law for the years 2013 and 2014 and is applicable 
+nationwide. Scales are set by the Ministry of Health in the Czech Republic and by an independent 
+government agency in the State of Maryland. In Israel, tapering scales are set by the health and finance 
+ministries, but only 10% of contracts signed between insurers and hospitals apply them as they stand. For 
+90% of contracts, rates and thresholds are renegotiated by the parties to the contract. 169. 
+Tapering scales vary considerably from one country to another, and two countries apply different 
+rates for different bands of activity. Tapering scale rates, supposedly reflecting the proportion of fixed 
+costs in total hospital costs, stood between 25% and 67% in 2013 in the countries analysed. These rates 
+varied over time as a result of negotiation or to meet a number of policy objectives (encouraging 
+investment, for example). Currently, Maryland and the Czech Republic apply a reduction of 50%. In 
+Germany, a starting rate of 25% is applied to any activity above that of the reference year, and a second 
+rate of 65% applies to activity beyond a  " negotiated "  activity threshold. Since this negotiation is, in effect, 
+a projection of activity for the current year which is agreed by the contracting parties, the second threshold 
+is only rarely applied. In Israel, there are three set rates corresponding to three different activity thresholds 
+(30%, 67% and 35%). The second rate (67%) seeks to encourage insurers to spread their insurees over all 
+hospitals rather than concentrating all activity on just one hospital, to maximise the benefits of tapering 
+payment. All the countries acknowledge the existence of economies of scale in hospital production, but in 
+each country there is no national or scientific study justifying the rate applied or negotiated. The tapering 
+mechanism in Maryland is the most coherent in terms of economies of scale, because hospitals are paid the 
+fixed costs of every activity that is planned but not performed. In the most usual situation where the 
+hospital exceeds its activity ceiling, the hospital is paid only for its variable costs, and reassessment of the 
+ceiling the following year disregards this excess activity above the ceiling. 170. 
+Tapering payment is applied uniformly to all hospital activities, but Germany and Maryland 
+make adjustments to allow for the impact of new activities. These adjustments are made in two ways. 
+Germany excludes certain treatments or services from tapering payment, for example, treatments where 
+equipment costs are more than two-thirds of the total cost of the procedure, or new activities entailed in 
+setting up a new service or a new operating theatre. In Maryland, hospitals are able to negotiate with the 
+government agency responsible for hospital charges and agree increases in the activity ceiling above which 
+tapering payment will apply after new activities are created. DELSA/HEA/WD/HWP(2015)1 59 171. 
+Tapering is essentially applied to the remuneration rates for the current year but is further 
+adjusted by a process of reconciliation the following year. In Germany, Maryland and Israel, the estimated 
+effect of tapering is spread over all DRG tariffs for the current year, which are set annually (Germany) or 
+adjusted monthly (Israel). In Germany, an a posteriori reconciliation is carried out to take account of any 
+mismatch between activities planned and activities actually performed. Hospitals in Maryland have a 
+software which allows them to factor tapering payment and authorised income into their invoiced prices. In 
+the Czech Republic, by contrast, the amount of tapering is calculated ex post, and it takes the form of 
+reductions on future activities which the hospital invoices to each insurer. 172. 
+The impact of tapering payment on hospital activity is unclear. It does, in principle, help to 
+contain the growth of hospital costs. In Germany, the tapering scale's starting band was assumed to 
+generate savings of 350 Mio EUR and 270 Mio EUR in 2011 and 2012 respectively (around 0.5% of total 
+spending) but it is important to note that annual case-mix increases seemed to have slowed down with the 
+introduction of the tapering mechanism. In Israel, the  " theoretical "  saving is put at 10% of total payments 
+to hospitals, but in fact higher savings are negotiated between insurers and hospitals. There is, however, 
+only one study that demonstrates the impact of this mechanism on hospital volumes. Maryland saw a more 
+dynamic pace of growth in activity from 2001 to 2008, a period when tapering was abolished. At the same 
+time, tapering seems to have had an effect on the organisation of hospitals in Maryland where hospitals 
+developed management tools which allowed them to monitor the activity of health practitioners (who are 
+independent). The introduction of tapering scale does not seem to reduce access of patients to hospitals 
+services. No stakeholder interviewed for this project (hospitals and insurers) believed that hospitals turn 
+away patients or defer certain treatments in order to avoid being paid at a lower tariff. 173. 
+Given the moderate impact of tapering payment on hospital activities, some of the countries 
+studied are inclined to introduce more rigorous systems of control. The Czech Republic has reverted to a 
+global budget for 2014 in order to have tighter control over hospital spending. In Maryland, the majority of 
+hospitals will be paid through global budget in 2014, in an attempt to keep growth in total hospital 
+spending in line with growth in the State's wealth. DELSA/HEA/WD/HWP(2015)1 60 REFERENCES Albreht, T. et al. (2009),  " Slovenia: Health System Review " , Health Systems in Transition, 
+Volume 11(3), pp. 1–168. Augurzky, B et al. (2012), Mengenentwicklung und Mengensteuerung stationärer Leistungen: 
+Endbericht – Mai 2012. Forschungsbericht im Auftrag des GKV-Spitzenverbandes, RWI 
+Projektberichte, http://nbn-resolving.de/urn:nbn:de:hbz:061:3-20199 Barros, P. and R. Gonçalves (2009),  " Economies of scale and scope in the provision of diagnostic 
+techniques and therapeutic services in Portuguese hospitals " , Applied Economics, Taylor & 
+Francis Journals, Volume 45(4), pp. 415–433 (working paper). Bellanger, M. et al. (2008),  " What can we learn from a cross-country comparison of the costs of 
+child delivery? " , Health Economics, Volume 17, pp. 47–57. Bowers, T. (2014),  " Hot issues in Israel's healthcare system " , Policy Brief, Taub Center for 
+Social Policy Studies. Bryndová, L. et al. (2009),  " Czech Republic: Health System Review " , Health Systems in 
+Transition, Volume 11(1), pp. 1–122. Bundestagsdrucksache 17/3360, Entwurf eines Gesetzes zur nachhaltigen und sozial 
+ausgewogenen Finanzierung der Gesetzlichen Krankenversicherung (GKV-
+Finanzierungsgesetz – GKV-FinG), Deutscher Bundestag, Berlin. Bundestagsdrucksache 17/13947, Beschlussempfehlung und Bericht des Ausschusses für 
+Gesundheit (14. Ausschuss), Deutscher Bundestag, Berlin. Busse et al. (2007), "International comparison of costs: an exploration of within-and between-counrty 
+variations for ten healthcare services in nine EU member states", Final Report, Center for Health 
+economics 
+and 
+Berlin 
+University 
+of 
+Technology, 
+http://www.ehma.org/files/WP10%20REPORT_31_Jan-07_revised.pdf Busse, R. et al. (2008),  " Variability in healthcare treatment costs amongst nine EU countries – 
+results from the HealthBASKET project " , Health Economics, Volume 17, pp. 1–8. Busse, R. et al. (2011),  " Diagnosis-Related Groups in Europe: Moving towards transparency, 
+efficiency and quality in hospitals " , European Observatory on Health Systems and Policies 
+Series. Busse, R. et al. (2011),  " Germany: Understanding G-DRGs "  in Diagnosis-Related Groups in 
+Europe: Moving towards transparency, efficiency and quality, European Observatory on 
+Health Systems and Policies Series. DELSA/HEA/WD/HWP(2015)1 61 Center for Medicare and Medicaid Innovation (2013),  " Maryland's All-Payer Model " , submitted 
+by the Maryland Department of Health and Mental Hygiene. Carey, K. (2000),  " A panel data design for estimation of hospital cost functions " , The Review of 
+Economics and Statistics, Volume 79, Issue 3, pp. 443–453. Cohen, J.P. et al. (2008),  " Agglomeration and Cost Economies for Washington State Hospital 
+Services " , Regional Science and Urban Economics, Volume 38. Cohen, J.P. et al. (2010),  " Health care reform and Connecticut's non-profit hospitals " , Journal of 
+Health Care Finance, Volume 37, pp. 1–7. Connor, R. et al. (1998),  " The Effects of Market Concentration and Horizontal Mergers on 
+Hospital Costs and Prices " , International Journal of the Economics of Business, Volume 5, 
+Issue 2, pp. 159–180. Cowing, T.G. and A.G. Holtmann (1983),  " Multiproduct Short-Run Hospital Cost Functions: 
+Empirical Evidence and Policy Implications from Cross-Section Data " , Southern Economic 
+Journal, Volume 49, No. 3 (Jan., 1983), pp. 637–653. Czach, K. et al. (2011),  " Poland: The Jednorodne Grupy Pacjentów – Polish experiences with 
+DRGs " , in Diagnosis-Related Groups in Europe: Moving towards transparency, efficiency 
+and quality in hospitals, European Observatory on Health Systems and Policies Series 
+(2011). Deutsches Krankenhausinstitut (2010),  " Krankenhaus Barometer – Umfrage 2010 " , 
+http://www.dki.de/sites/default/files/downloads/krankenhaus-barometer-2010.pdf Ellis, R. P. and T.G. McGuire (1993),  " Supply-Side and Demand-Side Cost Sharing in Health 
+Care " , Journal of Economic Perspectives, Volume 7(4), pp. 135–151. Endrei, D. et al. (2013),  " The effect of performance-volume limit on the DRG based acute care 
+hospital 
+financing 
+in 
+Hungary " , 
+Health 
+Policy. 
+http://dx.doi.org/10.1016/j.healthpol.2013.12.005. Epstein, D., et al. (2008),  " The hospital costs of care for stroke in nine European countries " , 
+Health Economics, Volume 17, pp. 21–31. Euro Observer (2010), Volume 10, No 3. Gaal, P. et al. (2006),  " Cost accounting methodologies in price setting of acute inpatient services 
+in Hungary " , Health Care Management Science (2006) 9: pp. 243–250. Healy, J., E. Sharman and B. Lokuge (2006),  " Australia: Health System Review " , Health Systems 
+in Transition, Volume 8(5), pp. 1–158. Heimig, F., CEO InEK GmbH,  " Implementation and development of G-DRG in Germany " , 
+http://www.nrc.cz/system/files/2011/10/heimig_implementation_and_development_g_drg_i 
+n_ger_15093.pdf. DELSA/HEA/WD/HWP(2015)1 62 Ho, V. and L.A. Petersen (2007),  " Estimating cost savings from regionalizing cardiac procedures 
+using hospital discharge data " , Cost Effectiveness and Resource Allocation, Volume 5, 
+Issue 7. Kalman, N.S. (2014),  " Removing a constraint on hospital utilization: Implications for cost 
+growth " , Am J Manag Care, vol. 20(6). KCE (2013),  " A comparative analysis of hospital care payments in five countries " , KCE Reports 
+207. Kim, D. et al. (2011),  " Medicare Payment Reform and Hospital Costs: Evidence from the 
+Prospective Payment System and the Treatment of Cardiac Disease " , Working Paper. Kinkorová, J. and O. Topolčan (2012),  " Overview of healthcare system in the Czech Republic " , 
+The EPMA Journal, Volume 3(4). Kobel, C. et al. (2011),  " DRG systems and similar patient classification systems in Europe " , in 
+Diagnosis-Related Groups in Europe: Moving towards transparency, efficiency and quality 
+in hospitals, European Observatory on Health Systems and Policies Series. Kristensen, T. et al. (2012),  " Economies of scale and scope in the Danish hospital sector prior to 
+radical restructuring plans " , Health Policy, Volume 106, Issue 2, pp. 120–126. Kumar, A. and M. Schoenstein (2013),  " Managing Hospital Volumes: Germany and Experiences 
+from OECD Countries " , OECD Health Working Papers, No. 64, OECD Publishing. Kutzin, J. et al. (2010),  " Implementing health financing reform: Lessons from countries in 
+transition " , World Health Organization. Li, T. and R. Rosenman (2001),  " Estimating hospital costs with a generalized Leontief function " , 
+Health Economics, Volume 10. Marini, G. et al. (2009),  " Economies of scale and scope in the English hospital sector " , 
+Discussion Paper 2009/05. Maryland 
+Hospital 
+Association 
+(2014), 
+ " Policies 
+for 
+Controlling 
+Volume " , 
+http://www.hscrc.state.md.us/documents/md-maphs/wp-sub/MHA-paper-on-volume-and-
+PAU-revised-01-10-2014.pdf. Menke, T.J. (1997),  " The effect of chain membership on hospital costs "  Health Services 
+Research, Volume 32(2), pp. 177–196. Morgan, D. and R. Astolfi (2013),  " Health Spending Growth at Zero: Which Countries, Which 
+Sectors Are Most Affected? " , OECD Health Working Papers, No. 60, OECD Publishing. Müller, P. et al. (2013),  " Understanding the German Health Care System " , booklet published by 
+the 
+Mannheim 
+Institute 
+of 
+Public 
+Health 
+(MIPH) 
+http://www.goinginternational.eu/newsletter/2013/nl_03/SpecialDE_EN_Understanding_the 
+_German.pdf. DELSA/HEA/WD/HWP(2015)1 63 Murray, R. (2009),  " Setting Hospital Rates To Control Costs And Boost Quality: The Maryland 
+Experience " , Health Affairs, 28, No. 5 (2009): pp. 1395-1405. National Center for Health Statistics (2013),  " Health, United States, 2012: With Special Feature on 
+Emergency Care " , Hyattsville, MD. OECD (2012),  " OECD Reviews of Health Care Quality: Israel 2012 – Raising Standards " , OECD 
+Publishing. OECD HSC (2012), Health System Characteristics Survey 2012. OECD (2013),  " Health at a Glance " , OECD Publishing. Or, Z. and M. Bellanger (2011),  " France: Implementing homogeneous patient groups in a mixed market "  
+in Diagnosis-Related Groups in Europe: Moving towards transparency, efficiency and quality in 
+hospitals, European Observatory on Health Systems and Policies Series. Quentin, W. et al. (2011),  " Understanding DRGs and DRG-based hospital payment in Europe " , in 
+Diagnosis-Related Groups in Europe: Moving towards transparency, efficiency and quality in 
+hospitals, European Observatory on Health Systems and Policies Series. Quentin, W. et al. (2013),  " Hospital Payment Based On Diagnosis-Related Groups Differs In Europe And Holds Lessons For The United States " , Health Affairs, Volume 32, No. 4, pp. 713–723. Rice, T. et al. (2013)  " United States of America: Health System Review " , Health Systems in Transition, 
+Volume 15(3), pp. 1– 431. Roll K, Stargardt T and J Schreyögg (2012), The effect of type of insurance and income on waiting time in 
+outpatient care, in: Geneva Papers on Risk and Insurance, Issues and Practice Rosen, B and S. Merkur (2009),  " Israel: Health System Review " , Health Systems in Transition, 
+Volume 11(2), pp. 1–226. Schäfer, W. et al. (2010),  " The Netherlands: Health System Review " , Health Systems in Transition, 
+Volume 12(1), pp. 1–229. Sagan, A. et al. (2011)  " Poland: Health System Review " , Health Systems in Transition, Volume 13(8), 
+pp. 1–193. Schreyögg, J. et al. (2006),  " Methods to determine reimbursement rates for diagnosis related groups 
+(DRG): A comparison of nine European countries " , Health Care Management Science, Volume 9, 
+pp. 215–223. Schreyögg, J. (2008),  " A micro-costing approach to estimating hospital costs for appendectomy in a cross-
+European context " . Health Economics, Volume 17, pp. 59–69. Schreyögg J et al. (2014), Forschungsauftrag zur Mengenentwicklung nach Paragraph 17b Abs. 2 KHG 
+download under: http://www.dkgev.de/media/file/17192.2014-07-10_Anlage_Forschungsbericht-
+zur-Mengenentwicklung_FIN.pdf Schut, E., S. Sorbe and J. Høj (2013),  " Health Care Reform and Long-Term Care in the Netherlands " , 
+OECD Economics Department Working Papers, No. 1010, OECD Publishing. DELSA/HEA/WD/HWP(2015)1 64 Siciliani, L., M. Borowitz and V. Moran (2013),  " Waiting Time Policies in the Health Sector: What 
+Works? " , OECD Health Policy Studies, OECD Publishing, http://dx.doi.org/10.1787/9789264179080-en. Smet, M. (2007),  " Measuring performance in the presence of stochastic demand for hospital services: an 
+analysis of Belgian general care hospitals " , Journal of Productivity Analysis, Volume 27, pp. 13–29. Smith, J.C. and C. Medalia (2014), Health Insurance in the United States: 2013, Current Population 
+Reports, U.S. Department of Commerce, Economics and Statistics Administration, U.S. Census 
+Bureau Street, A. et al., (2007),  " Introducing Activity-Based Financing: a Review of Experience in Australia, 
+Denmark, Norway and Sweden " , CHE Research Paper 30, Centre for Health Economics, University 
+of York. Tiemann, O. (2008),  " Variations in hospitalisation costs for acute myocardial infarction – a comparison 
+across Europe " , Health Economics, Volume 17, pp. 33–45. Tuschen KH, Braun T, Rau F (2005),  " Erlösausgleich im Krankenhausbereich: Eine Orientierungshilfe "  
+in Das Krankenhaus 11/2005. Deutsche Krankenhausgesellschaft, Verlag W.Kohlhammer GmbH, 
+Stuttgart. VZP (2008), http://www.vzp.cz/en/index.php. Vita, M.G. (1990),  " Exploring hospital production relationships with flexible functional forms " , Journal of 
+Health Economics, pp. 1-21. Wang, J. et al. (2006),  " Relative Efficiency, Scale Effect, and Scope Effect of Public Hospitals: Evidence 
+from Australia " , IZA DP No. 2520. DELSA/HEA/WD/HWP(2015)1 65 ANNEX 1: DETAILED DESCRIPTION OF THE FEATURES OF DRG-BASED PAYMENT 
+SYSTEMS IN OECD COUNTRIES 174. 
+DRG systems exist in nearly all OECD countries but they can serve different purposes. Whereas 
+they are used as method to pay for hospital activity in a number of countries they are used as a patient 
+classification system to define hospital budgets in others (Geissler et al., 2011). For a more detailed 
+appraisal of the characteristics of DRG-based payment in the OECD countries, the following parameters 
+were analysed for each country: date when DRG-based payment was introduced, classification system 
+used, number of DRG hospital groups, and intervals at which the payment system is revised (Table A.1). DELSA/HEA/WD/HWP(2015)1 66 Table A.1: History and main characteristics of hospital stay classification systems introduced in selected 
+OECD countries Date 
+introduced Classification 
+system Number of groups 
+Revision Germany 
+2003 
+G-DRG 2012 
+1 193 
+Annually Austria 
+1997 Katalog 
+medizinischer 
+Einzelleistungen 
+(MEL) for 
+procedures 1 004 Marginal adjustment 
+annually and full revision 
+every 7 years USA (Medicare) 
+1983 
+MSDRGs 
+~2 400 
+Annually France 
+2005 
+GHM 
+~2 500 
+Annually Netherlands 
+2005 
+DBC 
+~30 000 
+Sporadically 
+Czech Rep. 
+2009 
+Adjusted IR DRG 
+1 046 
+Annually Slovenia 
+2003 
+ICD-10-AM (AR-
+DRG V 4.2) 
+653 
+Minor amendments 
+annually Switzerland 
+2012 
+SwissDRG 1.0 
+991 
+Annually Australia 2003 and 
+nationwide as 
+of 2012 AR-DRG 
+Classification 
+(Version 6.0) 698 
+Every one to 2 years Chile 
+2003 
+Valued benefit 
+program 
+n.a. 
+Annually Denmark 
+2004 
+DKDRG 2012 
+717 
+Annually Finland 
+1997 
+NordDRG 
+500 inpatient, ~900 
+including outpatients 
+Annually United Kingdom 2003 partially 
+HRG v4 
+~1 200 
+Annually Italy 
+1995 
+DRG 24 v 
+538 
+Every 3 years 
+Norway 
+1997 
+NordDRG 
+870 
+Annually 
+Portugal 
+1984 
+AP-DRG v21 
+669 
+Sporadically Sweden 
+1995 
+NordDRG 
+983 (in and outpatient, 
+day cases) 
+Annually Note: The Netherlands is currently reforming its payment system and associated classification (KCE, 2013). Source: OECD Health System Characteristics Survey, 2012. 175. 
+The USA was the first country to introduce a DRG-based classification for its hospitals as part of 
+its Medicare programme (for patients aged 65 and over). Use of this patient classification system grew and 
+accelerated in OECD countries during the 2000s as information technology became more sophisticated. 
+Thirteen OECD countries adopted this system during the 2000s out of the 21 which now use it and for 
+which figures are available. DELSA/HEA/WD/HWP(2015)1 67 176. 
+Three types of OECD countries can be distinguished by the way in which they went about 
+adopting DRG-based payment systems (Busse et al., 2011). Some countries, like Spain, Portugal and 
+Ireland, imported a classification system from abroad. Spain and Portugal, for example, adopted the All-
+Patient DRG system (AP-DRG) developed in the USA. Other countries such as Australia imported the US 
+system and used it as a starting point for developing their own DRG systems. Thus, Australia created the 
+Australian National DRG (AN-DRG) which served as a starting point for the German DRG (G-DRG) 
+system. Other countries opted to devise their patient classification systems as a collaborative effort. The 
+Nordic countries, for example, created a common NordDRG system that is further adjustable to country-
+specific conditions. The United Kingdom, Austria, the Netherlands and France decided to develop their 
+own systems. 177. 
+Within classifications, the number of homogeneous patient groups differ. There are 526 groups in 
+the patient classification system used by Poland, but there are about 2 500 groups in the French system. 
+That said, the difference between group numbers in certain countries does not de facto indicate a difference 
+in approach. In Australia, for example, there are some 700 groups as against about 2 500 in France. This 
+difference simply reflects a different way of dealing with the severity of the cases treated. In France, 
+severity level -measured by the patient's age or the existence of comorbidities-is taken into account in a 
+separate group. In Australia, severity, measured approximately in terms of length of stay, is reflected by 
+the application of different tariffs within one and the same group. Thus, the number of groups is lower in 
+Australia than in France, but this does not mean that Australia covers fewer severe conditions than France. 178. 
+Regarding the scope of DRG-based payment, most OECD countries do not include training or 
+teaching activities in the calculation of DRG-based payments (Table A.2). Hospitals are usually 
+remunerated for these activities out of a global envelope. When DRG-based payment is used in hospitals of 
+different legal status, the same rule applies to all hospitals, except in the USA's Medicare programme 
+where teaching and training activities are not taken into account when calculating DRG-based payment in 
+private not-for-profit hospitals but are taken into account in private for-profit hospitals and public 
+hospitals. 179. 
+A significant proportion of DRG-based payments include capital costs in the calculation of tariffs 
+(Netherlands, France, Switzerland, USA, Denmark, Finland, Italy, United Kingdom) irrespective of 
+whether of DRGs paid to public or private hospitals. 180. 
+Most OECD countries which use DRG-based payment include doctors' fees in their calculation 
+of cost-per-case tariffs (Table A.3). In some countries they might be excluded depending on the 
+circumstances. In France, payments to doctors are included in the DRG-tariff calculated for public 
+hospitals but not in those billed to private for-profit hospitals where fees are invoiced separately. Germany 
+does not take into account the fees of specialists who are not hospital-based but are authorised to operate in 
+a hospital setting in the DRGs billed by hospitals. In this case, the hospital is paid for the patient's care 
+episode and the specialist can invoice the patient for the fees for his treatment. 181. 
+In most OECD countries, DRG-based payment also stretches to cover day care costs. When it 
+comes to expensive drugs only eight of the 23 countries for which figures are available and which use 
+DRG-based payment as the main method of remunerating hospitals include them all in their DRG tariffs. 
+In the other countries, there are additional payments either for all expensive drugs or for specific drugs. In 
+Italy, for example, most of the regions authorise additional payments for anti-cancer drugs. Likewise, in 
+Sweden, some regions pay for some expensive drugs separately. The findings are similar for expensive 
+medical devices. DELSA/HEA/WD/HWP(2015)1 68 Table A.2: Inclusion of capital costs and training and teaching activities in DRG-based payments in the OECD countries Source: OECD Health System Characteristics Survey 2012. Public hospital 
+Not-for-profit private hospital 
+For-profit private hospital 
+Public hospital 
+Not-for-profit 
+private hospital For-profit 
+private 
+hospital Public 
+hospital Not-for-
+profit 
+private 
+hospital For-profit 
+private hospital Austria 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+No 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Chile 
+DRG-based payment 
+DRG-based payment 
+Line-item remuneration 
+No 
+No 
+No 
+Yes 
+Yes 
+Yes 
+Czech 
+Republic 
+Block budget 
+Block budget 
+Block budget 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes Estonia 
+DRG-based payment 
+n.a. 
+n.a. 
+Yes 
+--
+--
+Yes 
+--
+--
+France 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Germany 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+No 
+No 
+No 
+Yes 
+Yes 
+Yes 
+Greece 
+DRG-based payment 
+DRG-based payment 
+Fee-for-service payment 
+No 
+No 
+Yes 
+No 
+No 
+No 
+Hungary 
+DRG-based payment 
+DRG-based payment 
+Fee-for-service payment 
+No 
+No 
+Yes 
+No 
+No 
+No 
+Israel 
+Fee-for-service payment 
+Fee-for-service payment 
+Fee-for-service payment 
+No 
+No 
+No 
+No 
+No 
+No 
+Korea 
+Fee-for-service payment 
+Fee-for-service payment 
+n.a. 
+Yes 
+Yes 
+--
+No 
+No 
+--
+Luxembourg 
+Block budget 
+Block budget 
+n.a. 
+No 
+No 
+--
+Yes 
+Yes 
+--
+Netherlands 
+DRG-based payment 
+DRG-based payment 
+n.a. 
+Yes 
+Yes 
+--
+Yes 
+Yes 
+--
+Poland 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+No 
+No 
+No 
+Yes 
+Yes 
+Yes 
+Slovenia 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+Yes 
+Yes 
+--
+Yes 
+Yes 
+--
+Switzerland 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+USA 
+DRG-based payment 
+DRG-based payment 
+Fee-for-service payment 
+Yes 
+Yes 
+Yes 
+Yes 
+No 
+Yes Australia 
+DRG-based payment 
+Fee-for-service payment 
+Fee-for-service payment 
+No 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Denmark 
+Block budget 
+n.a. 
+DRG-based payment 
+Yes 
+--
+Yes 
+No 
+--
+No 
+Finland 
+DRG-based payment 
+Yes 
+--
+--
+Yes 
+--
+--
+Italy 
+Block budget 
+DRG-based payment 
+DRG-based payment 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+No 
+Norway 
+Block budget 
+Block budget 
+DRG-based payment 
+Yes 
+Yes 
+No 
+No 
+No 
+No 
+United 
+Kingdom 
+DRG-based payment 
+Fee-for-service payment 
+Fee-for-service payment 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes Hospital payments 
+Capital costs taken into account 
+Teaching and training taken into 
+account separately DELSA/HEA/WD/HWP(2015)1 69 Table A.3: Scope of DRG-based payment for certain health services in the OECD countries Source: OECD Health System Characteristics Survey 2012. Public hospital 
+Not-for-profit private hospital 
+For-profit private hospital Austria 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+Yes 
+Yes 
+Yes 
+Yes 
+Belgium 
+Block budget 
+Block budget 
+n.a. 
+No 
+No 
+No 
+No 
+Chile 
+DRG-based payment 
+DRG-based payment 
+Line-item remuneration 
+No 
+In some cases 
+Yes 
+In some cases 
+Czech Republic 
+Block budget 
+Block budget 
+Block budget 
+Yes 
+Yes, usually 
+Yes, usually 
+Yes France 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+Yes for those requiring a stay in 
+hospital 
+No 
+No 
+Public hospital: Yes 
+Private hospital: No Germany 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+Yes 
+In part 
+In part Specialist not hospital-based but 
+authorised to practise in a 
+hospital: No 
+Locums: Yes Greece 
+DRG-based payment 
+DRG-based payment 
+Fee-for-service payment 
+Yes 
+Yes, usually 
+Yes, usually 
+Public hospital: n.a. 
+Private hospital: No 
+Hungary 
+DRG-based payment 
+DRG-based payment 
+Fee-for-service payment 
+Yes 
+No 
+No 
+Yes 
+Japan 
+DRG-based payment 
+DRG-based payment 
+n.a. 
+No 
+In part 
+In part 
+Yes 
+Netherlands 
+DRG-based payment 
+DRG-based payment 
+n.a. 
+Yes 
+In part 
+No 
+Yes Poland 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+Yes 
+Yes 
+Yes, but cost of use only, 
+not purchase cost 
+Yes Slovenia 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment Usually: part of the care provided in 
+day care hospitals is paid for out of a 
+global budget No 
+Yes 
+Yes Switzerland 
+DRG-based payment 
+DRG-based payment 
+DRG-based payment 
+No 
+Yes 
+Yes, with exceptions 
+Yes 
+USA 
+DRG-based payment 
+DRG-based payment 
+Fee-for-service payment 
+No 
+Yes 
+Yes 
+No Australia 
+DRG-based payment 
+Fee-for-service payment 
+Fee-for-service payment 
+No 
+Yes 
+Yes 
+Public patient: Yes 
+Private patient: No 
+Denmark 
+Block budget 
+n.a. 
+DRG-based payment 
+Yes 
+Yes 
+Yes 
+-
+Finland 
+DRG-based payment 
+Yes 
+Yes 
+Yes 
+-Italy 
+Block budget 
+DRG-based payment 
+DRG-based payment 
+Yes Yes, but most regions 
+authorise additional 
+payments for a range of 
+anti-cancer drugs Yes, but some regions 
+authorise additional 
+payments for a regional list 
+of medical devices Yes Norway 
+Block budget 
+Block budget 
+DRG-based payment 
+Yes 
+In some cases 
+-
+No 
+Portugal 
+Block budget 
+Fee-for-service payment 
+Fee-for-service payment 
+-
+In part 
+-
+Yes Sweden 
+Block budget 
+Block budget 
+Block budget 
+Yes 
+Some excluded by some 
+regions Some excluded by some 
+regions 
+-United Kingdom 
+DRG-based payment 
+Fee-for-service payment 
+Fee-for-service payment 
+Yes 
+In part 
+In part Hospital payments 
+Day care included 
+Expensive drugs included 
+Expensive medical devices 
+included Payments to private doctors 
+included DELSA/HEA/WD/HWP(2015)1 70 ANNEX 2: SETTING THE POINT VALUE IN GERMANY DELSA/HEA/WD/HWP(2015)1 71 Période t F 
+E 
+D 
+E 
+R 
+A 
+L L 
+A 
+N 
+D 
+E 
+R Insurers' 
+representative Hospitals 
+representative Federal 
+point 
+value Negociation Période t+1 +2.5% -1.25% 
+Land 
+point 
+value Maximum rate of growth in Land 
+point value Federal 
+point value Point value band for 
+the Land Hospital cost index rate Wage index rate Federal 
+point 
+value Growth of wages 
++ (1/3 (hospital 
+cost index-growth 
+of wages)) DELSA/HEA/WD/HWP(2015)1 72 ANNEX 3: FORMULA FOR CALCULATING THE HOSPITAL'S ACTIVITIES CAP AND 
+REVENUE IN THE CZECH REPUBLIC For 2013, the following formula was used to calculate the activities cap for each insurer-hospital 
+pairing. CAP REV 2013 = max {min [1.07 × CM red × ITC 2011 ; CM red × TC 2013 ]; CMred × ITC 2011 } Where: CM red = the regulated case mix for the hospital j and the insurer i is calculated as follows: S = coefficient for the changes in the number of people insured by each insurer CM = total volume (case mix) N = number of cases α = 0.2 (Cobb-Douglas function coefficient) CM red = min {CM 2011 × 0.95 × S; CM 2013 ; (CM 2013 ) α × (1.05 × N 2013 × (CM 2011 /N 2011 )) (1-α) } Assuming that no insured person has changed insurer, the formula implies that the case mix to 
+calculate the cap is no greater than 95% of the case mix for 2011. This formula is easier to understand if the third term in the function is expressed in another form: (CM 2013 ) α × (1.05 × N 2013 × (CM 2011 /N 2011 )) (1-α) = 1.05 (1-α) × N 2013 × (CM 2013 / N 2013 ) α × (CM 2011 /N 2011 ) (1-α) Transforming the third part of the function in this way means that the formula can be interpreted in 
+terms of growth in severity per case between 2011 and 2013, since (CM 2013 /N 2013 ) represents severity per 
+case in 2013. Next, if severity per case increased by 5% between 2011 and 2013, then: (CM 2011 / N 2011 )= (1/1.05) × (CM 2013 /N 2013 ) By incorporating this equality into the third term in the function Min, it is clear that: (CM 2013 ) α × (1.05 × N 2013 × (CM 2011 /N 2011 )) (1-α) = CM 2013 Thus, where growth in severity per case is 5%, the formula becomes: CM red = min {CM 2011 × 0.95 × S; CM 2013 } DELSA/HEA/WD/HWP(2015)1 73 By demonstrating this equality, we note therefore that 5% is a threshold above which the third term 
+plays a role in setting the reduced case mix. The decree not only achieves control over the rate of growth in 
+hospital volumes but also helps protect insurers from upcoding. A cap on average case mix per patient is 
+set by the Ministry of Health for each hospital. In 2013, an increase greater than 5% would be deemed too 
+high. To understand how this works, if severity per case rises by less than 5% then: CM 2013 < (CM 2013 ) α × (1.05 × N 2013 × (CM 2011 /N 2011 )) (1-α) Thus, where growth in severity per case is less than 5%, the formula becomes: CM red = min {CM 2011 × 0.95 × S; CM 2013 } Similarly, where severity per case increases by more than 5%, then: CM 2013 > (CM 2013 ) α × (1.05 × N 2013 × (CM 2011 /N 2011 )) (1-α) Thus, where growth in severity per case is greater than 5%, the formula becomes: CM red = min {CM 2011 × 0.95 × S; (CM 2013 ) α × (1.05 × N 2013 × (CM 2011 /N 2011 )) (1-α) } The intention in the latter case is to constrain any upcoding that may be performed simply to offset a 
+fall in the volume of care delivered. Thus, if the volume of care in 2013 is lower than in 2011, a hospital 
+that upcodes to offset that drop will be penalised. If the severity per case increases by more than 5%, then 
+the third term in the formula will be taken into account. The third term in the function MIN is an average 
+of the cases treated weighted by the severity of cases in 2013 and 2011. Once the volume-based cap has been set, a revenue cap is calculated to ensure compliance with the 
+expenditure objective. In 2013, the formula for calculating the revenue cap was: CAP REV 2013 = max {min [1.07 × CM red × ITC 2011 ; CM red × TC 2013 ]; CM red × ITC 2011 } Where ITC 2011 = conversion rate for insurer i calculated as follows: ITC 2011 = TR TOT2011 /CM TOT2011 Where TR TOT2011 = total reimbursement for the hospital in 2011 and CM TOT2011 = total volume for 
+2011 (case mix) And TC 2013 = {(1-K) × [0.8 × ITC 2011 + 0.2 (∑ i=1 to n TC i ; 2011 × CM i ; 2011 /∑ i=1 to n CM i ; 2011 )] + (K × NTC)} Where K = coefficient set to ensure tariff convergence between insurers and hospitals; in 2013, it was 0.30 NTC = the national currency conversion rate (CZK 29 500) DELSA/HEA/WD/HWP(2015)1 74 And (∑ i=1 to n ITC i ; 2011 × CM i ; 2011 /∑ i=1 to n CM i ; 2011 ) represents the average point value in 2011 for a 
+hospital. The sum of payments received by the hospital is divided by all insurers (∑ i=1 to n ITC i ; 2011 × CM i ; 2011 ) by the total case mix billed by the hospital (∑ i CM i ; 2011 ). Thus, [0.8 × ITC 2011 + 0.2 (∑ i=1 to n TC i ; 2011 × CM i ; 2011 /∑ i=1 to n CM i ; 2011 )] is a weighted average of the 
+rate of currency conversion or point value for insurer i in 2011 and the average currency conversion rate 
+for all insurers for that hospital. TC 2013 therefore incorporates two convergence factors. A first conversion factor, namely the weighted 
+average of the point value paid by insurer i and the point value paid by all insurers. The second 
+convergence factor is linked to the presence of parameter K in this equation. Thus, TC 2013 is a weighted 
+average of the point value specific to one hospital and one insurer and the point value or currency 
+conversion rate at national level. In the light of the various parameters outlined above, we can now understand the formula for 
+calculating revenue caps: CAP REV 2013 = max {min [1.07 × CM red × ITC 2011 ; CM red × TC 2013 ]; CM red × ITC 2011 } First, let us explain min [1.07 × CM red × ITC 2011 ; CM red × TC 2013 ]. This formula implies that the 
+currency conversion rate in 2013 cannot be greater than 7% of the price paid by the insurer in 2011. Next, 
+by analysing the formula, we note that, in any event, the hospital's currency conversion rate cannot be less 
+than in 2011. It will be at least CM red × ITC 2011 . DELSA/HEA/WD/HWP(2015)1 75 OECD HEALTH WORKING PAPERS A full list of the papers in this series can be found on the OECD website: http://www.oecd.org/els/health-systems/health-working-
+papers.htm No. 77 WAGE-SETTING IN THE HOSPITAL SECTOR (2014) James Buchan, Ankit Kumar, 
+Michael Schoenstein No. 76 HEALTH, AUSTERITY AND ECONOMIC CRISIS: ASSESSING THE SHORT-TERM IMPACT 
+IN OECD COUNTRIES (2014) Kees van Gool and Mark Pearson No. 75 COMPARING HOSPITAL AND HEALTH PRICES AND VOLUMES INTERNATIONALLY 
+(2014) Francette Koechlin, Paul Konijn, Luca Lorenzoni, Paul Schreyer No. 74 MENTAL HEALTH ANALYSIS PROFILES (MhAPS) Scotland (2014) Alessia Forti No. 73 MENTAL HEALTH ANALYSIS PROFILES (MhAPs) Netherlands (2014) Alessia Forti, 
+Chris Nas, Alex van Geldrop, Gedrien Franx, Ionela Petrea, Ype van Strien, 
+Patrick Jeurissen No. 72 MENTAL HEALTH ANALYSIS PROFILES (MhAPs) Finland (2014) Pauliina Patana No. 71 MENTAL HEALTH ANALYSIS PROFILES (MhAPs) Italy (2014) Alessia Forti No. 70 PRICING AND COMPETITION IN SPECIALIST MEDICAL SERVICES – AN OVERVIEW FOR 
+SOUTH AFRICA (2014) Ankit Kumar, Grégoire de Lagasnerie, Frederica Maiorano, Alessia 
+Forti No. 69 GEOGRAPHIC IMBALANCES IN DOCTOR SUPPLY AND POLICY RESPONSES (2014) 
+Tomoko Ono, Michael Schoenstein, James Buchan No. 68 HEALTH SPENDING CONTINUES TO STAGNATE IN MANY OECD COUNTRIES (2014) 
+David Morgan and Roberto Astolfi No. 67 MEASURING AND COMPARING WAITING TIMES IN OECD COUNTRIES (2013) Luigi 
+Siciliani, Valerie Moran and Michael Borowitz No. 66 THE ROLE OF FISCAL POLICIES IN HEALTH PROMOTION (2013) Franco Sassi No. 65 ALCOHOL CONSUMPTION AND HARMFUL DRINKING: TRENDS AND SOCIAL 
+DISPARIETIES IN OECD COUNTRIES (2013) Franco Sassi (Forthcoming) No. 64 MANAGING HOSPITAL VOLUMES: GERMANY AND EXPERIENCES FROM OECD 
+COUNTRIES (2013) Michael Schoenstein and Ankit Kumar No. 63 VALUE IN PHARMACEUTICAL PRICING (2013) Valérie Paris, Annalisa Belloni No. 62 HEALTH WORKFORCE PLANNING IN OECD COUNTRIES: A REVIEW OF 26 PROJECTION 
+MODELS FROM 18 COUNTRIES (2013) Tomoko Ono, Gaetan Lafortune and Michael 
+Schoenstein DELSA/HEA/WD/HWP(2015)1 76 No. 61 INTERNATIONAL VARIATIONS IN A SELECTED NUMBER OF SURGICAL PROCEDURES 
+(2013) Klim McPherson, Giorgia Gon, Maggie Scott No. 60 HEALTH SPENDING GROWTH AT ZERO: WHICH COUNTRIES, WHICH SECTORS ARE 
+MOST AFFECTED? (2013) David Morgan and Roberto Astolfi No. 59 A COMPARATIVE ANALYSIS OF HEALTH FORECASTING METHODS (2012) Roberto 
+Astolfi, Luca Lorenzoni, Jillian Oderkirk No. 58 INCOME-RELATED INEQUALITIES IN HEALTH SERVICE UTILISATION IN 19 OECD 
+COUNTRIES, 2008-09 (2012) Marion Devaux and Michael de Looper No. 57 THE IMPACT OF PAY INCREASES ON NURSES' LABOUR MARKET: A REVIEW OF 
+EVIDENCE FROM FOUR OECD COUNTRIES (2011) James Buchan and Steven Black No. 56 DESCRIPTION OF ALTERNATIVE APPROACHES TO MEASURE AND PLACE A VALUE ON 
+HOSPITAL PRODUCTS IN SEVEN OECD COUNTRIES (2011) Luca Lorenzoni and Mark 
+Pearson No. 55 MORTALITY AMENABLE TO HEALTH CARE IN 31 OECD COUNTRIES: ESTIMATES AND 
+METHODOLOGICAL ISSUES (2011) Juan G. Gay, Valerie Paris, Marion Devaux, 
+Michael de Looper No. 54 NURSES IN ADVANCED ROLES: A DESCRIPTION AND EVALUATION OF EXPERIENCES 
+IN 12 DEVELOPED COUNTRIES (2010) Marie-Laure Delamaire and Gaetan Lafortune No. 53 COMPARING PRICE LEVELS OF HOSPITAL SERVICE ACROSS COUNTRIES: RESULTS OF 
+A PILOT STUDY (2010) Luca Lorenzoni No. 52 GUIDELINES FOR IMPROVING THE COMPARABILITY AND AVAILABILITY OF PRIVATE 
+HEALTH EXPENDITURES UNDER THE SYSTEM OF HEALTH ACCOUNTS FRAMEWORK 
+(2010) Ravi P. Rannan-Eliya and Luca Lorenzoni No. 51 EFFECTIVE WAYS TO REALISE POLICY REFORMS IN HEALTH SYSTEMS (2010) 
+Jeremy Hurst No. 50 HEALTH SYSTEMS INSTITUTIONAL CHARACTERISTICS A SURVEY OF 29 OECD 
+COUNTRIES (2010) Valerie Paris, Marion Devaux and Lihan Wei No. 49 THE CHALLENGE OF FINANCING HEALTH CARE IN THE CURRENT CRISIS (2010) Peter 
+Scherer, Marion Devaux No. 48 IMPROVING LIFESTYLES, TACKLING OBESITY: THE HEALTH AND ECONOMIC IMPACT 
+OF PREVENTION STRATEGIES (2009) Franco Sassi, Michele Cecchini, Jeremy Lauer and Dan 
+Chisholm No. 47 HEALTH CARE QUALITY INDICATORS PROJECT: PATIENT SAFETY INDICATORS 
+REPORT 2009 (2009) Saskia Drösler, Patrick Romano, Lihan Wei; and 
+ANNEX Saskia Drösler No. 46 EDUCATION AND OBESITY IN FOUR OECD COUNTRIES (2009) Franco Sassi, Marion 
+Devaux, Jody Church, Michele Cecchini and Francesca Borgonovi DELSA/HEA/WD/HWP(2015)1 77 RECENT RELATED OECD PUBLICATIONS ADDRESSING DEMENTIA – THE OECD RESPONSE (2015) DEMENTIA RESEARCH AND CARE: CAN BIG DATA HELP? (2015) FIT MIND, FIT JOB – FROM EVIDENCE TO PRACTICE IN MENTAL HEALTH AND WORK (2015) MAKING MENTAL HEALTH COUNT: THE SOCIAL AND ECONOMIC COSTS OF NEGLECTING 
+MENTAL HEALTH CARE (2014) HEALTH AT A GLANCE: EUROPE (2014) HEALTH AT A GLANCE: ASIA/PACIFIC (2014) OECD HEALTH STATISTICS 2014 (Database available from http://www.oecd.org/health/healthdata GEOGRAPHIC VARIATIONS IN HEALTH CARE: WHAT DO WE KNOW AND WHAT CAN BE DONE 
+TO IMPROVE HEALTH SYSTEM PERFORMANCE? (2014) PAYING FOR PERFORMANCE IN HEALTH CARE: IMPLICATIONS FOR HEALTH SYSTEM 
+PERFORMANCE AND ACCOUNTABILITY (2014) OBESITY HEALTH UPDATE (2014) http://www.oecd.org/els/health-systems/Obesity-Update-2014.pdf 
+(electronic format only) OECD REVIEWS OF HEALTH CARE QUALITY – CZECH REPUBLIC (2014) OECD REVIEWS OF HEALTH CARE QUALITY – DENMARK (2013) OECD REVIEWS OF HEALTH CARE QUALITY – ITALY (2015) OECD REVIEWS OF HEALTH CARE QUALITY – NORWAY (2014) OECD REVIEWS OF HEALTH CARE QUALITY – SWEDEN (2013) OECD REVIEWS OF HEALTH CARE QUALITY – TURKEY (2014) CANCER CARE – ASSURING QUALITY TO IMPROVE SURVIVAL (2013) ICTs AND THE HEALTH SECTOR –TOWARDS SMARTER HEALTH AND WELLNESS MODELS (2013) A GOOD LIFE IN OLD AGE? MONITORING AND IMPROVING QUALITY IN LONG-TERM CARE 
+(2013) STRENGTHENING HEALTH INFORMATION INFRASTRUCTURE FOR HEALTH CARE QUALITY 
+GOVERNANCE (2013) WAITING TIME POLICIES IN THE HEALTH SECTOR, WHAT WORKS? (2013) HEALTH AT A GLANCE (2013): OECD INDICATORS (2013) 
+See http://www.oecd.org/health/healthataglance for more information HEALTH AT A GLANCE (2013): OECD INDICATORS (2013) 
+See http://www.oecd.org/health/healthataglance for more information For a full list, consult the OECD On-Line Bookstore at www.oecd.org, 
+or write for a free written catalogue to the following address: 
+OECD Publications Service, 2, rue André-Pascal, 75775 PARIS CEDEX 16 
+or to the OECD Distributor in your country 

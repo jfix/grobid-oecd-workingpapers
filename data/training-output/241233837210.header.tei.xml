@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="241233837210"/>
+	</teiHeader>
+	<text xml:lang="en">
+		<front>
+<lb/>
+	<docTitle>
+	<titlePart>OECD DEVELOPMENT CENTRE<lb/> Working Paper No. 259<lb/> BANKING ON DEMOCRACY:<lb/> THE POLITICAL ECONOMY OF INTERNATIONAL<lb/> PRIVATE BANK LENDING IN EMERGING MARKETS<lb/></titlePart>
+	</docTitle>
+
+	<byline>
+	<docAuthor>by<lb/> Javier Rodríguez and Javier Santiso<lb/></docAuthor>
+	</byline>
+
+	<note type="other">Research areas:<lb/> Financing Development<lb/> and Latin American Economic Outlook<lb/></note>
+
+	<date>March 2007<lb/></date>
+
+	<note type="other">Banking on Democracy: The Political Economy of International Private Bank Lending in Emerging Markets<lb/> DEV/DOC</note>
+
+	<date>(2007)2<lb/></date>
+
+	<note type="degree">LES IDÉES EXPRIMÉES ET LES ARGUMENTS AVANCÉS DANS CE DOCUMENT SONT CEUX DES AUTEURS ET NE REFLÈTENT PAS<lb/> NÉCESSAIREMENT CEUX DE L&apos;OCDE OU DES GOUVERNEMENTS DE SES PAYS MEMBRES<lb/></note>
+
+	<note type="other">Applications for permission to reproduce or translate all or part of this material should be made to:<lb/> Head of Publications Service,</note>
+
+	<address>OECD<lb/> 2, rue André-Pascal, 75775 PARIS CEDEX 16, France<lb/></address>
+
+	<note type="copyright">© OECD 2007<lb/></note>
+
+	<note type="other">OECD Development Centre Working Paper No. 259<lb/> DEV/DOC(2007)2<lb/></note>
+
+	<note type="copyright">© OECD 2007<lb/></note>
+
+	<note type="other">3<lb/></note>
+
+	<p type="introduction">TABLE OF CONTENTS<lb/> ACKNOWLEDGEMENTS.......................................................................................................................... 4<lb/> PREFACE ...................................................................................................................................................... 5<lb/> RÉSUMÉ ........................................................................................................................................................ 6<lb/> ABSTRACT ................................................................................................................................................... 7<lb/> I. INTRODUCTION ..................................................................................................................................... 8<lb/> II. THE POLITICAL ECONOMY OF BANK FLOWS IN EMERGING MARKETS: A REVIEW.... 12<lb/> III. BANKS&apos; PREFERENCE FOR EMERGING DEMOCRACIES: HYPOTHESIS AND<lb/> ARGUMENTS ............................................................................................................................................ 17<lb/> IV. BANK FLOWS TO EMERGING MARKETS: STYLISED FACTS ................................................. 21<lb/> V. BANKS AND EMERGING DEMOCRACIES ................................................................................... 25<lb/> VI. BANKS AND POLICY INSTABILITY IN EMERGING DEMOCRACIES................................... 30<lb/> VII. BANK FLOWS AND POLITICAL STABILITY IN EMERGING DEMOCRACIES................... 34<lb/> VIII. CONCLUSIONS:............................................................................................................................... 38<lb/> APPENDIX 1. FOREIGN CLAIMS ON EMERGING COUNTRIES STATISTICS............................ 39<lb/> APPENDIX 2. FOREIGN CLAIMS AND DEMOCRACY .................................................................... 41<lb/> APPENDIX 3. FOREIGN CLAIMS AND ECONOMIC POLICY STABILITY................................... 45<lb/> BIBLIOGRAPHY ........................................................................................................................................ 48<lb/> OTHER TITLES IN THE SERIES/ AUTRES TITRES DANS LA SÉRIE.............................................. 55<lb/></p>
+
+	<note type="other">Banking on Democracy: The Political Economy of International Private Bank Lending in Emerging Markets<lb/> DEV/DOC</note>
+
+	<date>(2007)2<lb/></date>
+
+	<note type="copyright">© OECD 2007<lb/></note>
+
+	<note type="other">ACKNOWLEDGEMENTS<lb/> Preliminary versions of this paper were presented and discussed at the Tenth Annual<lb/> Meeting of the Latin American and Caribbean Economic Association (LACEA), Paris, France, 27-<lb/>29 October 2005; and submitted to the XXth World Congress of the International Political Science<lb/> Association, Fukuoka, Japan, 9-13 July 2006. The paper will be also presented at the Annual Bank<lb/> Conference on Development Economics (ABCDE), The World Bank, Bled, Slovenia, 17-18 May<lb/> 2007.<lb/> This Working Paper is part of a new programme of the Development Centre on Latin<lb/> America and on Business for Development; it will culminate with a new flagship: the OECD<lb/> Latin American Economic Outlook. This work is supported by the Spanish Ministry of Foreign<lb/> Affairs and the Ministry of Finance and Economy.<lb/> Javier Santiso is Chief Development Economist and Deputy Director of the OECD<lb/> Development Centre (formerly Chief Economist for Latin America and Emerging Markets at<lb/> BBVA Economic Research Department). E-Mail: javier.santiso@oecd.org Javier Rodríguez is an<lb/> Economist in the BBVA Capital Markets Department, formerly in the bank&apos;s Economic Research<lb/> Department). E-Mail: javier.rgarcia@grupobbva.com.<lb/> For documents, conversations and papers shared, the authors would like to thank<lb/></note>
+
+	<byline>
+	<docAuthor>William Barndt, Steven Block, Fernando Carrillo, Guillermo Calvo, Alicia García-Herrero, Tessa<lb/> Hebb, Alejandro Izquierdo, Ethan Kaptsein, Alejandro Micco, Elías Papaioannou, Andrew<lb/> Powell, Eduardo Levy-Yeyati, Sebastián Saeigh, Carlos Santiso, Ernesto Stein and Francisco<lb/></docAuthor>
+	</byline>
+
+	<note type="other">Veiga. They are particularly grateful to OECD Development Centre colleagues Ki Fukasaku,<lb/> Charles Oman and Ken Ruffing for their stimulating comments and critiques of previous drafts.<lb/> They also thank the anonymous reviewers who helped to improve the manuscript substantially.<lb/> All errors and opinions remain the sole responsibility of the authors.<lb/></note>
+
+	<note type="copyright">© OECD 2007<lb/> © OECD 2007<lb/></note>
+
+	<note type="other">7<lb/></note>
+
+	<div type="abstract">ABSTRACT<lb/> Private capital movements have risen in recent decades, and bank flows have been part of<lb/> this story. Some empirical studies have analysed the political drivers of private international<lb/> liquidity, but paradoxically very few have looked at the political economy of bank flows. Even<lb/> less research exists on the role of politics in explaining cross-border banking movements towards<lb/> emerging democracies. The present study links compiled indicators on democracy, policy<lb/> uncertainty and political stability to international bank lending flows from data developed by the<lb/> BIS. It provides an empirical investigation of the political economy of cross-border bank flows to<lb/> emerging markets and tries to answer two questions. Do bankers tend to prefer emerging<lb/> democracies? Do they reward democratic transitions as well as policy and political stability? One<lb/> of the major findings is that politics do matter, and international banks tend to have political<lb/> preferences; annual growth in bank flows usually booms in the three years following a<lb/> democratic transition, especially in Latin America.<lb/> JEL Classification: F34, F21, G21, K00<lb/></div>
+
+	<keyword>Keywords: capital flows, banks, democracy and emerging markets.<lb/></keyword>
+
+	<note type="other">Banking on Democracy: The Political Economy of International Private Bank Lending in Emerging Markets<lb/> DEV/DOC</note>
+
+	<date>(2007)2<lb/></date>
+
+	<note type="other">8<lb/></note>
+
+	<note type="copyright">© OECD 2007<lb/> © OECD 2007<lb/> © OECD 2007<lb/> © OECD 2007<lb/> ©</note>
+
+	<date type="submission">OECD 2007<lb/> Peru<lb/> 2000<lb/> 4000<lb/> 6000<lb/> 8000<lb/> 10000<lb/> 12000<lb/> 14000<lb/> 16000<lb/> 18000<lb/> 1984<lb/> 1986<lb/> 1988<lb/> 1990<lb/> 1992<lb/> 1994<lb/> 1996<lb/> 1998<lb/> 2000<lb/> 3,8<lb/> 4,3<lb/> 4,8<lb/> 5,3<lb/> 5,8<lb/> 6,3<lb/> Foreign Claims<lb/> Consolidation of Democracy<lb/> Uruguay<lb/> 1000<lb/> 2000<lb/> 3000<lb/> 4000<lb/> 5000<lb/> 6000<lb/> 7000<lb/> 8000<lb/> 1984<lb/> 1986<lb/> 1988<lb/> 1990<lb/> 1992<lb/> 1994<lb/> 1996<lb/> 1998<lb/> 2000<lb/> 7<lb/> 8<lb/> 9<lb/> 10<lb/> 11<lb/> 12<lb/> Foreign</date>
+
+	<docTitle>
+	<titlePart>Claims<lb/> Consolidation of Democracy<lb/></titlePart>
+	</docTitle>
+
+	<note type="other">Note: See also in Appendix 2 the &quot; Consolidation of Democracy &quot; graphs for non-Latin American countries and the<lb/> &quot; Democracy Score &quot; graphs for Latin American and non-Latin American countries.<lb/></note>
+
+	<reference>Source: Authors based on BIS, 2006 for private bank flows; Schmitter and Schneider (2004), Giavazzi and Tabellini<lb/> (2004), Carillo et al. (2004) and Przeworski et al. (2000) for political indicators.</reference>
+
+		</front>
+	</text>
+</tei>

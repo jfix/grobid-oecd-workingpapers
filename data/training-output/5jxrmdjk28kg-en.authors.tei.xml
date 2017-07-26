@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Andreas</forename>
+								 <surname>Kappeler</surname>,
+							</persName>
+							<persName>
+								 <forename>Andrés</forename>
+								 <surname>Fuentes</surname>
+							<lb/>
+							</persName>
+							<persName>
+								 <forename>Hutfilter</forename>
+							<lb/>
+								<surname>By</surname>
+							</persName>
+							<persName>
+								 <forename>Andreas</forename>
+								<surname>Kappeler</surname>and
+							</persName>
+							<persName>
+								 <forename>Andrés</forename>
+								 <surname>Fuentes Hutfilter</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>

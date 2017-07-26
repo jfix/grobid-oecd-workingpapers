@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+						<author>
+							<persName>
+								<forename>Lerzan</forename>
+								 <surname>Ülgentürk</surname>
+							</persName>
+							<persName>
+								 <forename>Jesus</forename>
+								 <surname>Ramiro</surname>
+							</persName>
+							<persName>
+								 <forename>Del</forename>
+								 <surname>Valle Rodriguez</surname> and
+							</persName>
+							<persName>
+								 <forename>Alejandro</forename>
+								 <surname>Diaz</surname>
+								 <marker>de</marker>
+							</persName>
+							<persName>
+								 <forename>Leon</forename>
+								 <surname>Carrillo</surname>
+							</persName>
+						</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</tei>
