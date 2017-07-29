@@ -3,9 +3,13 @@
         <fileDesc xml:id="_0"/>
     </teiHeader>
     <text xml:lang="en">
-        <listBibl>
-        <bibl>Document de référence 2011-11: Chantal Duchène – ©OECD/ITF 2011<lb/> </bibl>
-        <bibl><label>19<lb/> RÉFÉRENCES</label><lb/> Women&apos;s travel issues, Proceedings from the second national conference, October1996 US<lb/> Department of Transportation Federal Highway Administration Office of Highway<lb/> Information Management, HPM-40.<lb/> </bibl>
+        
+        Document de référence 2011-11: Chantal Duchène – ©OECD/ITF 2011<lb/> 
+        19<lb/> 
+            
+            <listBibl>
+                RÉFÉRENCES
+                <lb/> Women&apos;s travel issues, Proceedings from the second national conference, October1996 US<lb/> Department of Transportation Federal Highway Administration Office of Highway<lb/> Information Management, HPM-40.<lb/> 
 <bibl>Charte européenne des femmes dans la cité, 1997.<lb/> </bibl>
 <bibl>Charte des transports au féminin, France, octobre 1998.<lb/> </bibl>
 <bibl>Les femmes, moyen de transport rural dans le nord Togo, Tantoa Midanga, 1999.<lb/> </bibl>
@@ -22,7 +26,7 @@
 <bibl>World Bank, Transport Sector board, Mainstreaming gender in Road transport, Operational<lb/> guidance for World bank Staff, March 2010.<lb/> </bibl>
 <bibl>Femmes chauffeuses et contrôleuses à Kinshasa, Daniel Ntoto, Site panafricain, juillet 2010.<lb/> </bibl>
 <bibl>Making rural roads work for both women and men: the example of Peru&apos;s rural roads program,<lb/> Lucia Fort and Aurelio Menendez, World Bank (2004).</bibl>
-        </listBibl>
+            </listBibl>
     </text>
 </tei>
 

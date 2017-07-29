@@ -3,16 +3,19 @@
         <fileDesc xml:id="_0"/>
     </teiHeader>
     <text xml:lang="en">
-        <listBibl>
-        <bibl><label>1.</label> Activités d&apos;hébergement et de restauration (CITI rév. 4).<lb/> </bibl>
-<bibl>Note :<lb/> Niveaux 0-2 : enseignement élémentaire, enseignement primaire et collège.<lb/> Niveaux 3-4 : lycée et enseignement post-secondaire non supérieur.<lb/> Niveaux 5-6 : enseignement supérieur de premier et deuxième cycle.<lb/> </bibl>
-<bibl>Sources : base de données EUROSTAT; calculs de l&apos;OCDE.<lb/> </bibl>
-        <bibl><label>1.</label> Activités d&apos;hébergement et de restauration (CITI rév. 4).<lb/> </bibl>
-        <bibl><label>2.</label> Les données proviennent de CITI rév. 3, hôtels et restaurants pour le Canada (2009-12), le Chili (2010-13), et Israël<lb/> (2009-12). La variation en % pour le Chili couvre la période 2010-13.<lb/> </bibl>
-        <bibl><label>3.</label> Les données pour 2009-10 sont estimées.<lb/> </bibl>
-        <bibl><label>4.</label> OCDE, sauf Chili et États-Unis.<lb/> </bibl>
-<bibl>Sources : base de données OIT ; calculs de l&apos;OCDE.<lb/> 2009<lb/> 2010<lb/> 2011<lb/> 2012<lb/> 2013 2009-13 2012-13 2009-13 2012-13<lb/> </bibl>
-<bibl>Économies de l&apos;OCDE RÉFÉRENCES<lb/> APEC. (2012). Business Growth Opportunities in the New APEC Economy. Singapore: APEC<lb/> TOURISM WORKING GROUP.http://publications.apec.org/publication-<lb/>detail.php?pub_id=1348<lb/> </bibl>
+        <label>1.</label> Activités d&apos;hébergement et de restauration (CITI rév. 4).<lb/> 
+Note :<lb/> Niveaux 0-2 : enseignement élémentaire, enseignement primaire et collège.<lb/> Niveaux 3-4 : lycée et enseignement post-secondaire non supérieur.<lb/> Niveaux 5-6 : enseignement supérieur de premier et deuxième cycle.<lb/> 
+Sources : base de données EUROSTAT; calculs de l&apos;OCDE.<lb/> 
+<label>1.</label> Activités d&apos;hébergement et de restauration (CITI rév. 4).<lb/> 
+<label>2.</label> Les données proviennent de CITI rév. 3, hôtels et restaurants pour le Canada (2009-12), le Chili (2010-13), et Israël<lb/> (2009-12). La variation en % pour le Chili couvre la période 2010-13.<lb/> 
+<label>3.</label> Les données pour 2009-10 sont estimées.<lb/> 
+<label>4.</label> OCDE, sauf Chili et États-Unis.<lb/> 
+Sources : base de données OIT ; calculs de l&apos;OCDE.<lb/> 2009<lb/> 2010<lb/> 2011<lb/> 2012<lb/> 2013 2009-13 2012-13 2009-13 2012-13<lb/> 
+Économies de l&apos;OCDE 
+    
+    <listBibl>
+        RÉFÉRENCES<lb/> 
+<bibl>APEC. (2012). Business Growth Opportunities in the New APEC Economy. Singapore: APEC<lb/> TOURISM WORKING GROUP.http://publications.apec.org/publication-<lb/>detail.php?pub_id=1348<lb/> </bibl>
 <bibl>Australian Government. (2011). The Australian Tourism Labour Force Report, prepared by Deloitte<lb/> Access Economics for the Labour and Skills Working Group and the Department of Resources,<lb/> Energy and Tourism. http://www.austrade.gov.au/ArticleDocuments/5499/DAE-RET-Aus-<lb/>Tourism-Labour-Force-Report-Pt-1.pdf.aspx.<lb/> </bibl>
 <bibl>Canadian Tourism Human Resource Council. (2013). Tourism Sector Compensation Study. Ottawa:<lb/> Malatest and Associates.<lb/> http://cthrc.ca/~/media/Files/CTHRC/Home/research_publications/compensation/Compensation<lb/> _Study_Report_EN.ashx<lb/> </bibl>
 <bibl>Canadian Tourism Human Resource Council. (2012). The Future of Canada&apos;s Tourism Sector:<lb/> Shortages to resurface as labour markets tighten. Ottawa: Canadian Tourism Research Institute<lb/> and Conference Board of Canada.<lb/> http://cthrc.ca/en/research_publications/~/media/Files/CTHRC/Home/research_publications/lab<lb/> our_market_information/Supply_Demand/SupplyDemand_Report_Current_EN.ashx<lb/> </bibl>
@@ -47,8 +50,8 @@
 <bibl>Verma, A. (2012). Skills for Competitiveness: Country Report for Canada. OECD Local Economic<lb/> and Employment Development (LEED) Working Papers, 2012/03. OECD Publishing, Paris.<lb/> http://dx.doi.org/10.1787/5k9bb1vz5jhb-en<lb/> </bibl>
 <bibl>VisitBritain. (2010). The Economic Contribution of the Visitor Economy: UK and the nations.<lb/> Deloitte and Oxford Economics.<lb/> http://www.visitbritain.org/Images/Economic%20case%20for%20the%20Visitor%20Economy<lb/> %20-%20Phase%202%20-%2026%20July%202010%20-%20FINAL_tcm139-192073.pdf<lb/> </bibl>
 <bibl>Weaver, A. (2009). Perceptions of job quality in the tourism industry: The views of recent graduates<lb/> of a university&apos;s tourism management programme. International Journal of Contemporary<lb/> Hospitality Management, 21(5), pp.579-93.<lb/> </bibl>
-<bibl>WTTC (2015) Global talent trends and issues for the travel and tourism sector. London: World Travel<lb/> and Tourism Council. http://www.wttc.org/focus/research-for-action/policy-research/human-<lb/>capital/global-talent-trends/</bibl>
-        </listBibl>
+<bibl>WTTC (2015) Global talent trends and issues for the travel and tourism sector. London: World Travel<lb/> and Tourism Council. http://www.wttc.org/focus/research-for-action/policy-research/human-<lb/>capital/global-talent-trends/</bibl>        
+</listBibl>
     </text>
 </tei>
 

@@ -3,357 +3,359 @@
         <fileDesc xml:id="_0"/>
     </teiHeader>
     <text xml:lang="en">
-        <listBibl>
-        <bibl>See Annex 1 -Code List C-11 for ICD-9-CM subdural or cerebral haemorrhage diagnosis codes<lb/> See Annex 1 -Code List W-11 for ICD-10-WHO subdural or cerebral haemorrhage diagnosis codes<lb/> See Annex 1 -Code List C-12 for ICD-9-CM preterm infant diagnosis codes<lb/> See Annex 1 -Code List W-12 for ICD-10-WHO preterm infant diagnosis codes<lb/> See Annex 1 -Code List C-13 for ICD-9-CM injury to skeleton diagnosis codes<lb/> See Annex 1 -Code List W-13 for ICD-10-WHO injury to skeleton diagnosis codes<lb/> See Annex 1 -Code List C-14 for ICD-9-CM osteogenesis imperfecta diagnosis codes<lb/> See Annex 1 -Code List W-14 for ICD-10-WHO osteogenesis imperfecta diagnosis codes<lb/> See Annex 1 -Code List C-15 for ICD-9-CM newborn in hospital live birth codes<lb/> See Annex 1 -Code List W-15 for ICD-10-WHO newborn in hospital live birth codes<lb/> See Annex 1 -Code List C-16 for ICD-9-CM newborn out of hospital codes<lb/> See Annex 1 -Code List W-16 for ICD-10-WHO newborn out of hospital codes<lb/> C-7: ICD-9-CM Drug dependence diagnosis codes (continued)<lb/> 30462<lb/> </bibl>
-<bibl>Other specified drug dependence -episodic<lb/> 30470<lb/> Combinations of opioid type drug w/ any other -unspecified<lb/> 30471<lb/> Combinations of opioid type drug w/ any other -continuous<lb/> 30472<lb/> Combinations of opioid type drug w/ any other -episodic<lb/> 30480<lb/> Combinations of drug excluding opioid type drug -unspecified<lb/> 30481<lb/> Combinations of drug excluding opioid type drug -continuous<lb/> 30482<lb/> Combinations of drug excluding opioid type drug -episodic<lb/> 30490<lb/> Unspecified drug dependence -unspecified<lb/> 30491<lb/> Unspecified drug dependence -continuous<lb/> 30492<lb/> Unspecified drug dependence -episodic<lb/> ICD-9-CM Active Nondependent Abuse of Drugs diagnosis codes:<lb/> 30520<lb/> Cannabis abuse -unspecified<lb/> 30521<lb/> Cannabis abuse -continuous<lb/> 30522<lb/> Cannabis abuse -episodic<lb/> 30530<lb/> Hallucinogen abuse -unspecified<lb/> 30531<lb/> Hallucinogen abuse -continuous<lb/> 30532<lb/> Hallucinogen abuse -episodic<lb/> 30540<lb/> </bibl>
-<bibl>Barbiturate and similarly acting sedative or hypnotic abuse -unspecified<lb/> 30541<lb/> </bibl>
-<bibl>Barbiturate and similarly acting sedative or hypnotic abuse -continuous<lb/> 30542<lb/> </bibl>
-<bibl>Barbiturate and similarly acting sedative or hypnotic abuse -episodic<lb/> 30550<lb/> Opioid abuse -unspecified<lb/> 30551<lb/> Opioid abuse -continuous<lb/> 30552<lb/> Opioid abuse -episodic<lb/> 30560<lb/> Cocaine abuse -unspecified<lb/> 30561<lb/> Cocaine abuse -continuous<lb/> 30562<lb/> Cocaine abuse -episodic<lb/> 30570<lb/> </bibl>
-<bibl>Amphetamine or related acting sympathomimetic abuse -unspecified<lb/> 30571<lb/> </bibl>
-<bibl>Amphetamine or related acting sympathomimetic abuse -continuous<lb/> 30572<lb/> </bibl>
-<bibl>Amphetamine or related acting sympathomimetic abuse -episodic<lb/> 30580<lb/> </bibl>
-<bibl>Antidepressant type abuse -unspecified<lb/> 30581<lb/> </bibl>
-<bibl>Antidepressant type abuse -continuous<lb/> 30582<lb/> </bibl>
-<bibl>Antidepressant type abuse -episodic<lb/> 30590<lb/> </bibl>
-<bibl>Other, mixed, or unspecified drug abuse -unspecified<lb/> 30591<lb/> </bibl>
-<bibl>Other, mixed, or unspecified drug abuse -continuous<lb/> 30592<lb/> </bibl>
-<bibl>Other, mixed, or unspecified drug abuse -episodic<lb/> C-10: ICD-9-CM codes for infections (continued)<lb/> 37312<lb/> </bibl>
-<bibl>Hordeolum internum (Oct 05)<lb/> 73025<lb/> </bibl>
-<bibl>Osteomyelitis nos-pelvis (Oct 05)<lb/> 37313<lb/> </bibl>
-<bibl>Abscess of eyelid (Oct 05)<lb/> 73026<lb/> </bibl>
-<bibl>Osteomyelitis nos-l/leg (Oct 05)<lb/> 37500<lb/> </bibl>
-<bibl>Dacryoadenitis nos (Oct 05)<lb/> 73027<lb/> </bibl>
-<bibl>Osteomyelitis nos-ankle (Oct 05)<lb/> 37501<lb/> </bibl>
-<bibl>Acute dacryoadenitis (Oct 05)<lb/> 73028<lb/> </bibl>
-<bibl>Osteomyelit nos-oth site (Oct 05)<lb/> 37530<lb/> </bibl>
-<bibl>Dacryocystitis nos (Oct 05)<lb/> 73029<lb/> </bibl>
-<bibl>Osteomyelitis nos-mult (Oct 05)<lb/> 37531<lb/> </bibl>
-<bibl>Acute canaliculitis (Oct 05)<lb/> 73030<lb/> </bibl>
-<bibl>Periostitis-unspec (Oct 05)<lb/> 37532<lb/> </bibl>
-<bibl>Acute dacryocystitis (Oct 05)<lb/> 73031<lb/> </bibl>
-<bibl>Periostitis-shlder (Oct 05)<lb/> 37600<lb/> </bibl>
-<bibl>Acute inflam nos, orbit (Oct 05)<lb/> 73032<lb/> </bibl>
-<bibl>Periostitis-up/arm (Oct 05)<lb/> 37601<lb/> </bibl>
-<bibl>Orbital cellulitis (Oct 05)<lb/> 73033<lb/> </bibl>
-<bibl>Periostitis-forearm (Oct 05)<lb/> 37602<lb/> </bibl>
-<bibl>Orbital periostitis (Oct 05)<lb/> 73034<lb/> </bibl>
-<bibl>Periostitis-hand (Oct 05)<lb/> 37603<lb/> </bibl>
-<bibl>Orbital osteomyelitis (Oct 05)<lb/> 73035<lb/> </bibl>
-<bibl>Periostitis-pelvis (Oct 05)<lb/> 37604<lb/> </bibl>
-<bibl>Tenonitis (Oct 05)<lb/> 73036<lb/> </bibl>
-<bibl>Periostitis-l/leg (Oct 05)<lb/> 38010<lb/> </bibl>
-<bibl>Infec otitis externa nos (Oct 05)<lb/> 73037<lb/> </bibl>
-<bibl>Periostitis-ankle (Oct 05)<lb/> </bibl>
+        See Annex 1 -Code List C-11 for ICD-9-CM subdural or cerebral haemorrhage diagnosis codes<lb/> See Annex 1 -Code List W-11 for ICD-10-WHO subdural or cerebral haemorrhage diagnosis codes<lb/> See Annex 1 -Code List C-12 for ICD-9-CM preterm infant diagnosis codes<lb/> See Annex 1 -Code List W-12 for ICD-10-WHO preterm infant diagnosis codes<lb/> See Annex 1 -Code List C-13 for ICD-9-CM injury to skeleton diagnosis codes<lb/> See Annex 1 -Code List W-13 for ICD-10-WHO injury to skeleton diagnosis codes<lb/> See Annex 1 -Code List C-14 for ICD-9-CM osteogenesis imperfecta diagnosis codes<lb/> See Annex 1 -Code List W-14 for ICD-10-WHO osteogenesis imperfecta diagnosis codes<lb/> See Annex 1 -Code List C-15 for ICD-9-CM newborn in hospital live birth codes<lb/> See Annex 1 -Code List W-15 for ICD-10-WHO newborn in hospital live birth codes<lb/> See Annex 1 -Code List C-16 for ICD-9-CM newborn out of hospital codes<lb/> See Annex 1 -Code List W-16 for ICD-10-WHO newborn out of hospital codes<lb/> C-7: ICD-9-CM Drug dependence diagnosis codes (continued)<lb/> 30462<lb/> 
+Other specified drug dependence -episodic<lb/> 30470<lb/> Combinations of opioid type drug w/ any other -unspecified<lb/> 30471<lb/> Combinations of opioid type drug w/ any other -continuous<lb/> 30472<lb/> Combinations of opioid type drug w/ any other -episodic<lb/> 30480<lb/> Combinations of drug excluding opioid type drug -unspecified<lb/> 30481<lb/> Combinations of drug excluding opioid type drug -continuous<lb/> 30482<lb/> Combinations of drug excluding opioid type drug -episodic<lb/> 30490<lb/> Unspecified drug dependence -unspecified<lb/> 30491<lb/> Unspecified drug dependence -continuous<lb/> 30492<lb/> Unspecified drug dependence -episodic<lb/> ICD-9-CM Active Nondependent Abuse of Drugs diagnosis codes:<lb/> 30520<lb/> Cannabis abuse -unspecified<lb/> 30521<lb/> Cannabis abuse -continuous<lb/> 30522<lb/> Cannabis abuse -episodic<lb/> 30530<lb/> Hallucinogen abuse -unspecified<lb/> 30531<lb/> Hallucinogen abuse -continuous<lb/> 30532<lb/> Hallucinogen abuse -episodic<lb/> 30540<lb/> 
+Barbiturate and similarly acting sedative or hypnotic abuse -unspecified<lb/> 30541<lb/> 
+Barbiturate and similarly acting sedative or hypnotic abuse -continuous<lb/> 30542<lb/> 
+Barbiturate and similarly acting sedative or hypnotic abuse -episodic<lb/> 30550<lb/> Opioid abuse -unspecified<lb/> 30551<lb/> Opioid abuse -continuous<lb/> 30552<lb/> Opioid abuse -episodic<lb/> 30560<lb/> Cocaine abuse -unspecified<lb/> 30561<lb/> Cocaine abuse -continuous<lb/> 30562<lb/> Cocaine abuse -episodic<lb/> 30570<lb/> 
+Amphetamine or related acting sympathomimetic abuse -unspecified<lb/> 30571<lb/> 
+Amphetamine or related acting sympathomimetic abuse -continuous<lb/> 30572<lb/> 
+Amphetamine or related acting sympathomimetic abuse -episodic<lb/> 30580<lb/> 
+Antidepressant type abuse -unspecified<lb/> 30581<lb/> 
+Antidepressant type abuse -continuous<lb/> 30582<lb/> 
+Antidepressant type abuse -episodic<lb/> 30590<lb/> 
+Other, mixed, or unspecified drug abuse -unspecified<lb/> 30591<lb/> 
+Other, mixed, or unspecified drug abuse -continuous<lb/> 30592<lb/> 
+Other, mixed, or unspecified drug abuse -episodic<lb/> C-10: ICD-9-CM codes for infections (continued)<lb/> 37312<lb/> 
+Hordeolum internum (Oct 05)<lb/> 73025<lb/> 
+Osteomyelitis nos-pelvis (Oct 05)<lb/> 37313<lb/> 
+Abscess of eyelid (Oct 05)<lb/> 73026<lb/> 
+Osteomyelitis nos-l/leg (Oct 05)<lb/> 37500<lb/> 
+Dacryoadenitis nos (Oct 05)<lb/> 73027<lb/> 
+Osteomyelitis nos-ankle (Oct 05)<lb/> 37501<lb/> 
+Acute dacryoadenitis (Oct 05)<lb/> 73028<lb/> 
+Osteomyelit nos-oth site (Oct 05)<lb/> 37530<lb/> 
+Dacryocystitis nos (Oct 05)<lb/> 73029<lb/> 
+Osteomyelitis nos-mult (Oct 05)<lb/> 37531<lb/> 
+Acute canaliculitis (Oct 05)<lb/> 73030<lb/> 
+Periostitis-unspec (Oct 05)<lb/> 37532<lb/> 
+Acute dacryocystitis (Oct 05)<lb/> 73031<lb/> 
+Periostitis-shlder (Oct 05)<lb/> 37600<lb/> 
+Acute inflam nos, orbit (Oct 05)<lb/> 73032<lb/> 
+Periostitis-up/arm (Oct 05)<lb/> 37601<lb/> 
+Orbital cellulitis (Oct 05)<lb/> 73033<lb/> 
+Periostitis-forearm (Oct 05)<lb/> 37602<lb/> 
+Orbital periostitis (Oct 05)<lb/> 73034<lb/> 
+Periostitis-hand (Oct 05)<lb/> 37603<lb/> 
+Orbital osteomyelitis (Oct 05)<lb/> 73035<lb/> 
+Periostitis-pelvis (Oct 05)<lb/> 37604<lb/> 
+Tenonitis (Oct 05)<lb/> 73036<lb/> 
+Periostitis-l/leg (Oct 05)<lb/> 38010<lb/> 
+Infec otitis externa nos (Oct 05)<lb/> 73037<lb/> 
+Periostitis-ankle (Oct 05)<lb/> 
 38011<lb/> 
-        <bibl>Acute infection of pinna (Oct 05)<lb/> 73038<lb/> </bibl>
-<bibl>Periostitis nec (Oct 05)<lb/> 38012<lb/> </bibl>
-<bibl>Acute swimmers&apos; ear (Oct 05)<lb/> 73039<lb/> </bibl>
-<bibl>Periostitis-mult (Oct 05)<lb/> 38013<lb/> </bibl>
-<bibl>Ac infect extern ear nec (Oct 05)<lb/> 73080<lb/> </bibl>
-<bibl>Bone infect nec-unspec (Oct 05)<lb/> 38014<lb/> </bibl>
-<bibl>Malignant otitis externa (Oct 05)<lb/> 73081<lb/> </bibl>
-<bibl>Bone infect nec-shlder (Oct 05)<lb/> 38150<lb/> </bibl>
-<bibl>Eustachian salping nos (Oct 05)<lb/> 73082<lb/> </bibl>
-<bibl>Bone infect nec-up/arm (Oct 05)<lb/> 38151<lb/> </bibl>
-<bibl>Ac eustachian salping (Oct 05)<lb/> 73083<lb/> </bibl>
-<bibl>Bone infect nec-forearm (Oct 05)<lb/> 38200<lb/> </bibl>
-<bibl>Ac supp otitis media nos (Oct 05)<lb/> 73084<lb/> </bibl>
-<bibl>Bone infect nec-hand (Oct 05)<lb/> 38201<lb/> </bibl>
-<bibl>Ac supp om w drum rupt (Oct 05)<lb/> 73085<lb/> </bibl>
-<bibl>Bone infect nec-pelvis (Oct 05)<lb/> 38202<lb/> </bibl>
-<bibl>Ac supp om in oth dis (Oct 05)<lb/> 73086<lb/> </bibl>
-<bibl>Bone infect nec-l/leg (Oct 05)<lb/> 3821<lb/> </bibl>
-<bibl>Chr tubotymp supp otitis media (Oct 05) 73087<lb/> </bibl>
-<bibl>Bone infect nec-ankle (Oct 05)<lb/> 3822<lb/> </bibl>
-<bibl>Chr atticoantral supp otitis media(Oct 05)73088<lb/> </bibl>
-<bibl>Bone infect nec-oth site (Oct 05)<lb/> 3823<lb/> </bibl>
-<bibl>Chr supp otitis media nos (Oct 05)<lb/> 73089<lb/> </bibl>
-<bibl>Bone infect nec-mult (Oct 05)<lb/> 3824<lb/> </bibl>
-<bibl>Suppur otitis media nos (Oct 05)<lb/> 73090<lb/> </bibl>
-<bibl>Bone infec nos-unsp site (Oct 05)<lb/> 3829<lb/> Otitis media nos (Oct 05)<lb/> 73091<lb/> </bibl>
-<bibl>Bone infect nos-shlder (Oct 05)<lb/> 38300<lb/> </bibl>
-<bibl>Ac mastoiditis w/o compl (Oct 05)<lb/> 73092<lb/> </bibl>
-<bibl>Bone infect nos-up/arm (Oct 05)<lb/> 38301<lb/> </bibl>
-<bibl>Subperi mastoid abscess (Oct 05)<lb/> 73093<lb/> </bibl>
-<bibl>Bone infect nos-forearm (Oct 05)<lb/> 38302<lb/> </bibl>
-<bibl>Ac mastoiditis-compl nec (Oct 05)<lb/> 73094<lb/> </bibl>
-<bibl>Bone infect nos-hand (Oct 05)<lb/> 38320<lb/> </bibl>
-<bibl>Petrositis nos (Oct 05)<lb/> 73095<lb/> </bibl>
-<bibl>Bone infect nos-pelvis (Oct 05)<lb/> 38321<lb/> </bibl>
-<bibl>Acute petrositis (Oct 05)<lb/> 73096<lb/> </bibl>
-<bibl>Bone infect nos-l/leg (Oct 05)<lb/> 38400<lb/> </bibl>
-<bibl>Acute myringitis nos (Oct 05)<lb/> 73097<lb/> </bibl>
-<bibl>Bone infect nos-ankle (Oct 05)<lb/> 38630<lb/> </bibl>
-<bibl>Labyrinthitis nos (Oct 05)<lb/> 73098<lb/> </bibl>
-<bibl>Bone infect nos-oth site (Oct 05)<lb/> 38631<lb/> </bibl>
-<bibl>Serous labyrinthitis (Oct 05)<lb/> 73099<lb/> </bibl>
-<bibl>Bone infect nos-mult (Oct 05)<lb/> 38632<lb/> </bibl>
-<bibl>Circumscri labyrinthitis (Oct 05)<lb/> 7713<lb/> </bibl>
-<bibl>Tetanus neonatorum (Oct 05)<lb/> 38633<lb/> </bibl>
-<bibl>Suppurativ labyrinthitis (Oct 05)<lb/> 7714<lb/> </bibl>
-<bibl>Omphalitis of newborn (Oct 05)<lb/> 4200<lb/> </bibl>
-<bibl>Ac pericardit in oth dis (Oct 05)<lb/> 7715<lb/> </bibl>
-<bibl>Neonatal infec mastitis (Oct 05)<lb/> 42090<lb/> </bibl>
-<bibl>Acute pericarditis nos (Oct 05)<lb/> 77181<lb/> </bibl>
-<bibl>Nb septicemia sepsis (Oct 05)<lb/> 42099<lb/> </bibl>
-<bibl>Acute pericarditis nec (Oct 05)<lb/> 77182<lb/> </bibl>
-<bibl>Nb urinary tract infectn (Oct 05)<lb/> 4210<lb/> </bibl>
-<bibl>Ac/subac bact endocard (Oct 05)<lb/> 77183<lb/> </bibl>
-<bibl>Bacteremia of newborn (Oct 05)<lb/> 4211<lb/> </bibl>
-<bibl>Ac/subac infect endocard (Oct 05)<lb/> 77189<lb/> </bibl>
-<bibl>Perinatal infection nec (Oct 05)<lb/> 4219<lb/> </bibl>
-<bibl>Ac/subac endocardit nos (Oct 05)<lb/> 7775<lb/> </bibl>
-<bibl>Necrot enterocolitis nb (Oct 05)<lb/> 42292<lb/> </bibl>
-<bibl>Septic myocarditis (Oct 05)<lb/> 7854<lb/> </bibl>
-<bibl>Gangrene (Oct 05)<lb/> 4610<lb/> </bibl>
-<bibl>Ac maxillary sinusitis (Oct 05)<lb/> 78552<lb/> </bibl>
-<bibl>Septic shock (Oct 05)<lb/> 4611<lb/> </bibl>
-<bibl>Ac frontal sinusitis (Oct 05)<lb/> 7907<lb/> </bibl>
-<bibl>Bacteremia (Oct 05)<lb/> 4612<lb/> </bibl>
-<bibl>Ac ethmoidal sinusitis (Oct 05)<lb/> 9101<lb/> </bibl>
-<bibl>Abrasion head-infected (Oct 05)<lb/> </bibl>
-<bibl>W-2<lb/> ICD-10-WHO cancer codes: Infection Due to Medical Care Postoperative Sepsis -<lb/>Denominator exclusion, if principal diagnosis or secondary diagnosis (continued)<lb/> C76.8<lb/> </bibl>
-<bibl>Malignant neoplasm of other and ill-defined sites: Overlapping lesion of other and ill-<lb/>defined sites<lb/> C77.0<lb/> Secondary and unspecified malignant neoplasm: Lymph nodes of head, face and neck<lb/> C77.1<lb/> Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes<lb/> C77.2<lb/> Secondary and unspecified malignant neoplasm: Intra-abdominal lymph nodes<lb/> C77.3<lb/> Secondary and unspecified malignant neoplasm: Axillary and upper limb lymph nodes<lb/> C77.4<lb/> Secondary and unspecified malignant neoplasm: Inguinal and lower limb lymph nodes<lb/> C77.5<lb/> Secondary and unspecified malignant neoplasm: Intrapelvic lymph nodes<lb/> C77.8<lb/> Secondary and unspecified malignant neoplasm: Lymph nodes of multiple regions<lb/> C77.9<lb/> Secondary and unspecified malignant neoplasm: Lymph node, unspecified<lb/> C78.0<lb/> Secondary malignant neoplasm of lung<lb/> C78.1<lb/> Secondary malignant neoplasm of mediastinum<lb/> C78.2<lb/> Secondary malignant neoplasm of pleura<lb/> C78.3<lb/> Secondary malignant neoplasm of other and unspecified respiratory organs<lb/> C78.4<lb/> Secondary malignant neoplasm of small intestine<lb/> C78.5<lb/> Secondary malignant neoplasm of large intestine and rectum<lb/> C78.6<lb/> Secondary malignant neoplasm of retroperitoneum and peritoneum<lb/> C78.7<lb/> Secondary malignant neoplasm of liver<lb/> C78.8<lb/> Secondary malignant neoplasm of other and unspecified digestive organs<lb/> C79.0<lb/> Secondary malignant neoplasm of kidney and renal pelvis<lb/> C79.1<lb/> Secondary malignant neoplasm of bladder and other and unspecified urinary organs<lb/> C79.2<lb/> Secondary malignant neoplasm of skin<lb/> C79.3<lb/> Secondary malignant neoplasm of brain and cerebral meninges<lb/> C79.4<lb/> Secondary malignant neoplasm of other and unspecified parts of nervous system<lb/> C79.5<lb/> Secondary malignant neoplasm of bone and bone marrow<lb/> C79.6<lb/> Secondary malignant neoplasm of ovary<lb/> C79.7<lb/> Secondary malignant neoplasm of adrenal gland<lb/> C79.8<lb/> Secondary malignant neoplasm of other specified sites<lb/> C80<lb/> Malignant neoplasm without specification of site<lb/> C81.0<lb/> </bibl>
-<bibl>Hodgkin&apos;s disease: Lymphocytic predominance<lb/> C81.1<lb/> </bibl>
-<bibl>Hodgkin&apos;s disease: Nodular sclerosis<lb/> C81.2<lb/> </bibl>
-<bibl>Hodgkin&apos;s disease: Mixed cellularity<lb/> C81.3<lb/> </bibl>
-<bibl>Hodgkin&apos;s disease: Lymphocytic depletion<lb/> C81.7<lb/> </bibl>
-<bibl>Hodgkin&apos;s disease: Other Hodgkin&apos;s disease<lb/> C81.9<lb/> </bibl>
-<bibl>Hodgkin&apos;s disease: Hodgkin&apos;s disease, unspecified<lb/> C82.0<lb/> </bibl>
-<bibl>Non-Hodgkin&apos;s lymphoma: Small cleaved cell, follicular<lb/> C82.1<lb/> </bibl>
-<bibl>Non-Hodgkin&apos;s lymphoma: Mixed small cleaved and large cell, follicular<lb/> C82.2<lb/> </bibl>
-<bibl>Non-Hodgkin&apos;s lymphoma: Large cell, follicular<lb/> C82.7<lb/> Other types of follicular non-Hodgkin&apos;s lymphoma<lb/> C82.9<lb/> </bibl>
-<bibl>Follicular non-Hodgkin&apos;s lymphoma, unspecified<lb/> C83.0<lb/> </bibl>
-<bibl>Non-Hodgkin&apos;s lymphoma: Small cell (diffuse)<lb/> C83.1<lb/> </bibl>
-<bibl>Non-Hodgkin&apos;s lymphoma: Small cleaved cell (diffuse)<lb/> C83.2<lb/> </bibl>
-<bibl>Non-Hodgkin&apos;s lymphoma: Mixed small and large cell (diffuse)<lb/> C83.3<lb/> </bibl>
-<bibl>Non-Hodgkin&apos;s lymphoma: Large cell (diffuse)<lb/> C83.4<lb/> </bibl>
-<bibl>Non-Hodgkin&apos;s lymphoma: Immunoblastic (diffuse)<lb/> </bibl>
-<bibl>ICD-9-CM Cardiosurgery procedure codes (continued):<lb/> 3527<lb/> Replace tric valv-tissue<lb/> 3712<lb/> </bibl>
-<bibl>Pericardiotomy<lb/> 3528<lb/> Replace tricusp valv nec<lb/> 3724<lb/> Pericardial biopsy<lb/> 3531<lb/> Papillary muscle ops<lb/> 3725<lb/> Cardiac biopsy<lb/> 3532<lb/> </bibl>
-<bibl>Chordae tendineae ops<lb/> 3729<lb/> </bibl>
-<bibl>Hrt/pericar dx proc nec<lb/> 3533<lb/> Annuloplasty<lb/> 3731<lb/> Pericardiectomy<lb/> 3534<lb/> Infundibulectomy<lb/> 3732<lb/> Heart aneurysm excision<lb/> 3535<lb/> Trabecul carneae cord op<lb/> 3733<lb/> </bibl>
-<bibl>Exc/dest hrt lesion open<lb/> 3539<lb/> Tiss adj to valv ops nec<lb/> 3735<lb/> Partial ventriculectomy<lb/> 3542<lb/> Create septal defect<lb/> 3741<lb/> Impl cardiac support dev<lb/> 3550<lb/> Prosth rep hrt septa nos<lb/> 3749<lb/> </bibl>
-<bibl>Heart/pericard repr nec<lb/> 3551<lb/> Pros rep atrial def-opn<lb/> 3751<lb/> </bibl>
-<bibl>Heart transplantation<lb/> 3553<lb/> Prost repair ventric def<lb/> 3752<lb/> Implant tot rep hrt sys<lb/> 3554<lb/> Pros rep endocar cushion<lb/> 3753<lb/> </bibl>
-<bibl>Repl/rep thorac unit hrt<lb/> 3560<lb/> Grft repair hrt sept nos<lb/> 3754<lb/> </bibl>
-<bibl>Repl/rep oth tot hrt sys<lb/> 3561<lb/> Graft repair atrial def<lb/> 3761<lb/> Pulsation balloon implan<lb/> 3562<lb/> Graft repair ventric def<lb/> 3762<lb/> Implant hrt asst sys nec<lb/> 3563<lb/> Grft rep endocar cushion<lb/> 3763<lb/> Replace hrt assist syst<lb/> 3570<lb/> Heart septa repair nos<lb/> 3764<lb/> Remove heart assist sys<lb/> 3571<lb/> Atria septa def rep nec<lb/> 3765<lb/> </bibl>
-<bibl>Imp ext pul hrt asst sys<lb/> 3572<lb/> Ventr septa def rep nec<lb/> 3766<lb/> </bibl>
-<bibl>Imp imp pul hrt asst sys<lb/> 3573<lb/> Endocar cushion rep nec<lb/> 3767<lb/> </bibl>
-<bibl>Imp cardiomyostimul sys<lb/> 3581<lb/> Tot repair tetral fallot<lb/> 3799<lb/> Other heart/pericard ops<lb/> 3582<lb/> Total repair of tapvc<lb/> 3791<lb/> Open chest cardiac massage<lb/> 3583<lb/> Tot rep truncus arterios<lb/> 3804<lb/> Incision aorta<lb/> 3584<lb/> Tot cor transpos grt ves<lb/> 3805<lb/> Incision oth thorac vessels<lb/> 3591<lb/> Interat ven retrn transp<lb/> 3814<lb/> Endarterectomy aorta<lb/> 3592<lb/> Conduit rt vent-pul art<lb/> 3815<lb/> Endart oth thorac vessels<lb/> 3593<lb/> Conduit left ventr-aorta<lb/> 3834<lb/> </bibl>
-<bibl>Resect aorta w anastomosis<lb/> 3594<lb/> Conduit artium-pulm art<lb/> 3835<lb/> Resect aorta w replacement<lb/> 3595<lb/> Heart repair revision<lb/> 3845<lb/> </bibl>
-<bibl>Resect thorac vessel w replace<lb/> 3598<lb/> Other heart septa ops<lb/> 3855<lb/> Ligation strip thorac vein thorac<lb/> 3599<lb/> Other heart valve ops<lb/> 3864<lb/> Oth exc aorta<lb/> 3603<lb/> Open coronry angioplasty<lb/> 3865<lb/> </bibl>
-<bibl>Oth exc oth thorac vessels<lb/> 3610<lb/> Aortocoronary bypass nos<lb/> 3884<lb/> </bibl>
-<bibl>Oth surg occlus aorta<lb/> 3611<lb/> Aortocor bypas-1 cor art<lb/> 3885<lb/> </bibl>
-<bibl>Oth surg occlus oth thorac vessels<lb/> 3612<lb/> Aortocor bypas-2 cor art<lb/> 390<lb/> </bibl>
-<bibl>Systemic pulm art shunt<lb/> 3613<lb/> Aortocor bypas-3 cor art<lb/> 3921<lb/> </bibl>
-<bibl>Caval pulm art anastomosis<lb/> 3614<lb/> Aortcor bypas-4+ cor art<lb/> 3922<lb/> </bibl>
-<bibl>Aorta subclav carotid bypass<lb/> 3615<lb/> 1 int mam-cor art bypass<lb/> 3923<lb/> Oth intrathorac vasc shunt bypass<lb/> M-1 Code list for MDC-8 (Postoperative hip fracture)<lb/> ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> A18.0<lb/> Tuberculosis of bones and joints<lb/> 08<lb/> A54.4<lb/> Gonococcal infection of musculoskeletal system<lb/> 08<lb/> A66.6<lb/> </bibl>
-<bibl>Bone and joint lesions of yaws<lb/> 08<lb/> B90.2<lb/> </bibl>
-<bibl>Sequelae of tuberculosis of bones and joints<lb/> 08<lb/> C40.0<lb/> </bibl>
-<bibl>Malignant neoplasm: Scapula and long bones of upper limb<lb/> 08<lb/> C40.1<lb/> Malignant neoplasm: Short bones of upper limb<lb/> 08<lb/> C40.2<lb/> Malignant neoplasm: Long bones of lower limb<lb/> 08<lb/> C40.3<lb/> Malignant neoplasm: Short bones of lower limb<lb/> 08<lb/> C40.8<lb/> </bibl>
-<bibl>Malignant neoplasm: Overlapping lesion of bone and articular cartilage of limbs<lb/> 08<lb/> C40.9<lb/> </bibl>
-<bibl>Malignant neoplasm: Bone and articular cartilage of limb, unspecified<lb/> 08<lb/> C41.0<lb/> Malignant neoplasm: Bones of skull and face<lb/> 08<lb/> C41.1<lb/> Malignant neoplasm: Mandible<lb/> 08<lb/> C41.2<lb/> Malignant neoplasm: Vertebral column<lb/> 08<lb/> C41.3<lb/> </bibl>
-<bibl>Malignant neoplasm: Ribs, sternum and clavicle<lb/> 08<lb/> C41.4<lb/> </bibl>
-<bibl>Malignant neoplasm: Pelvic bones, sacrum and coccyx<lb/> 08<lb/> C41.8<lb/> </bibl>
-<bibl>Malignant neoplasm: Overlapping lesion of bone and articular cartilage<lb/> 08<lb/> C41.9<lb/> </bibl>
-<bibl>Malignant neoplasm: Bone and articular cartilage, unspecified<lb/> 08<lb/> C45.7<lb/> Mesothelioma of other sites<lb/> 08<lb/> C45.9<lb/> Mesothelioma, unspecified<lb/> 08<lb/> C47.0<lb/> </bibl>
-<bibl>Malignant neoplasm: Peripheral nerves of head, face and neck<lb/> 08<lb/> C47.1<lb/> </bibl>
-<bibl>Malignant neoplasm: Peripheral nerves of upper limb, including shoulder<lb/> 08<lb/> C47.2<lb/> </bibl>
-<bibl>Malignant neoplasm: Peripheral nerves of lower limb, including hip<lb/> 08<lb/> C47.3<lb/> </bibl>
-<bibl>Malignant neoplasm: Peripheral nerves of thorax<lb/> 08<lb/> C47.4<lb/> </bibl>
-<bibl>Malignant neoplasm: Peripheral nerves of abdomen<lb/> 08<lb/> C47.5<lb/> </bibl>
-<bibl>Malignant neoplasm: Peripheral nerves of pelvis<lb/> 08<lb/> C47.6<lb/> </bibl>
-<bibl>Malignant neoplasm: Peripheral nerves of trunk, unspecified<lb/> 08<lb/> C47.8<lb/> </bibl>
-<bibl>Malignant neoplasm: Overlapping lesion of peripheral nerves and autonomic nervous<lb/> system<lb/> 08<lb/> </bibl>
-<bibl>C47.9<lb/> </bibl>
-<bibl>Malignant neoplasm: Peripheral nerves and autonomic nervous system, unspecified<lb/> 08<lb/> C49.0<lb/> </bibl>
-<bibl>Malignant neoplasm: Connective and soft tissue of head, face and neck<lb/> 08<lb/> C49.1<lb/> </bibl>
-<bibl>Malignant neoplasm: Connective and soft tissue of upper limb, including shoulder<lb/> 08<lb/> C49.2<lb/> </bibl>
-<bibl>Malignant neoplasm: Connective and soft tissue of lower limb, including hip<lb/> 08<lb/> C49.3<lb/> </bibl>
-<bibl>Malignant neoplasm: Connective and soft tissue of thorax<lb/> 08<lb/> C49.4<lb/> </bibl>
-<bibl>Malignant neoplasm: Connective and soft tissue of abdomen<lb/> 08<lb/> C49.5<lb/> </bibl>
-<bibl>Malignant neoplasm: Connective and soft tissue of pelvis<lb/> 08<lb/> C49.6<lb/> </bibl>
-<bibl>Malignant neoplasm: Connective and soft tissue of trunk, unspecified<lb/> 08<lb/> C49.8<lb/> </bibl>
-<bibl>Malignant neoplasm: Overlapping lesion of connective and soft tissue<lb/> 08<lb/> C49.9<lb/> </bibl>
-<bibl>Malignant neoplasm: Connective and soft tissue, unspecified<lb/> 08<lb/> C79.5<lb/> Secondary malignant neoplasm of bone and bone marrow<lb/> 08<lb/> D16.0<lb/> </bibl>
-<bibl>Benign neoplasm: Scapula and long bones of upper limb<lb/> 08<lb/> D16.1<lb/> </bibl>
-<bibl>Benign neoplasm: Short bones of upper limb<lb/> 08<lb/> D16.2<lb/> </bibl>
-<bibl>Benign neoplasm: Long bones of lower limb<lb/> 08<lb/> D16.3<lb/> </bibl>
-<bibl>Benign neoplasm: Short bones of lower limb<lb/> 08<lb/> D16.4<lb/> Benign neoplasm: Bones of skull and face ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> S13.1<lb/> Dislocation of cervical vertebra<lb/> 08<lb/> S13.2<lb/> Dislocation of other and unspecified parts of neck<lb/> 08<lb/> S13.3<lb/> </bibl>
-<bibl>Multiple dislocations of neck<lb/> 08<lb/> S13.4<lb/> Sprain and strain of cervical spine<lb/> 08<lb/> S13.5<lb/> Sprain and strain of thyroid region<lb/> 08<lb/> S13.6<lb/> </bibl>
-<bibl>Sprain and strain of joints and ligaments of other and unspecified parts of neck<lb/> 08<lb/> S16<lb/> Injury of muscle and tendon at neck level<lb/> 08<lb/> S22.0<lb/> Fracture of thoracic vertebra<lb/> 08<lb/> S22.1<lb/> Multiple fractures of thoracic spine<lb/> 08<lb/> S22.8<lb/> Fracture of other parts of bony thorax<lb/> 08<lb/> S22.9<lb/> Fracture of bony thorax, part unspecified<lb/> 08<lb/> S23.0<lb/> Traumatic rupture of thoracic intervertebral disc<lb/> 08<lb/> S23.1<lb/> Dislocation of thoracic vertebra<lb/> 08<lb/> S23.3<lb/> Sprain and strain of thoracic spine<lb/> 08<lb/> S23.5<lb/> </bibl>
-<bibl>Sprain and strain of other and unspecified parts of thorax<lb/> 08<lb/> S29.0<lb/> Injury of muscle and tendon at thorax level<lb/> 08<lb/> S32.0<lb/> Fracture of lumbar vertebra<lb/> 08<lb/> S32.1<lb/> Fracture of sacrum<lb/> 08<lb/> S32.2<lb/> Fracture of coccyx<lb/> 08<lb/> S32.3<lb/> Fracture of ilium<lb/> 08<lb/> S32.4<lb/> Fracture of acetabulum<lb/> 08<lb/> S32.5<lb/> Fracture of pubis<lb/> 08<lb/> S32.7<lb/> Multiple fractures of lumbar spine and pelvis<lb/> 08<lb/> S32.8<lb/> </bibl>
-<bibl>Fracture of other and unspecified parts of lumbar spine and pelvis<lb/> 08<lb/> S33.0<lb/> Traumatic rupture of lumbar intervertebral disc<lb/> 08<lb/> S33.1<lb/> Dislocation of lumbar vertebra<lb/> 08<lb/> S33.2<lb/> Dislocation of sacroiliac and sacrococcygeal joint<lb/> 08<lb/> S33.3<lb/> </bibl>
-<bibl>Dislocation of other and unspecified parts of lumbar spine and pelvis<lb/> 08<lb/> S33.4<lb/> Traumatic rupture of symphysis pubis<lb/> 08<lb/> S33.5<lb/> Sprain and strain of lumbar spine<lb/> 08<lb/> S33.6<lb/> Sprain and strain of sacroiliac joint<lb/> 08<lb/> S33.7<lb/> </bibl>
-<bibl>Sprain and strain of other and unspecified parts of lumbar spine and pelvis<lb/> 08<lb/> S39.0<lb/> </bibl>
-<bibl>Injury of muscle and tendon of abdomen, lower back and pelvis<lb/> 08<lb/> S42.0<lb/> Fracture of clavicle<lb/> 08<lb/> S42.1<lb/> Fracture of scapula<lb/> 08<lb/> S42.2<lb/> Fracture of upper end of humerus<lb/> 08<lb/> S42.3<lb/> Fracture of shaft of humerus<lb/> 08<lb/> S42.4<lb/> Fracture of lower end of humerus<lb/> 08<lb/> S42.7<lb/> </bibl>
-<bibl>Multiple fractures of clavicle, scapula and humerus<lb/> 08<lb/> S42.8<lb/> Fracture of other parts of shoulder and upper arm<lb/> 08<lb/> S42.9<lb/> Fracture of shoulder girdle, part unspecified<lb/> 08<lb/> S43.0<lb/> Dislocation of shoulder joint<lb/> 08<lb/> S43.1<lb/> Dislocation of acromioclavicular joint<lb/> 08<lb/> S43.2<lb/> Dislocation of sternoclavicular joint<lb/> 08<lb/> S43.3<lb/> </bibl>
-<bibl>Dislocation of other and unspecified parts of shoulder girdle<lb/> 08<lb/> S43.4<lb/> Sprain and strain of shoulder joint ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> S43.5<lb/> Sprain and strain of acromioclavicular joint<lb/> 08<lb/> S43.7<lb/> </bibl>
-<bibl>Sprain and strain of other and unspecified parts of shoulder girdle<lb/> 08<lb/> S46.0<lb/> Injury of tendon of the rotator cuff of shoulder<lb/> 08<lb/> S46.1<lb/> Injury of muscle and tendon of long head of biceps<lb/> 08<lb/> S46.2<lb/> Injury of muscle and tendon of other parts of biceps<lb/> 08<lb/> S46.3<lb/> Injury of muscle and tendon of triceps<lb/> 08<lb/> S46.7<lb/> Injury of multiple muscles and tendons at shoulder and upper arm level<lb/> 08<lb/> S46.8<lb/> Injury of other muscles and tendons at shoulder and upper arm level<lb/> 08<lb/> S46.9<lb/> Injury of unspecified muscle and tendon at shoulder and upper arm level<lb/> 08<lb/> S52.0<lb/> Fracture of upper end of ulna<lb/> 08<lb/> S52.1<lb/> Fracture of upper end of radius<lb/> 08<lb/> S52.2<lb/> Fracture of shaft of ulna<lb/> 08<lb/> S52.3<lb/> Fracture of shaft of radius<lb/> 08<lb/> S52.4<lb/> </bibl>
-<bibl>Fracture of shafts of both ulna and radius<lb/> 08<lb/> S52.5<lb/> Fracture of lower end of radius<lb/> 08<lb/> S52.6<lb/> Fracture of lower end of both ulna and radius<lb/> 08<lb/> S52.7<lb/> Multiple fractures of forearm<lb/> 08<lb/> S52.8<lb/> Fracture of other parts of forearm<lb/> 08<lb/> S52.9<lb/> Fracture of forearm, part unspecified<lb/> 08<lb/> S53.0<lb/> Dislocation of radial head<lb/> 08<lb/> S53.1<lb/> Dislocation of elbow, unspecified<lb/> 08<lb/> S53.2<lb/> Traumatic rupture of radial collateral ligament<lb/> 08<lb/> S53.3<lb/> Traumatic rupture of ulnar collateral ligament<lb/> 08<lb/> S53.4<lb/> Sprain and strain of elbow<lb/> 08<lb/> S56.0<lb/> Injury of flexor muscle and tendon of thumb at forearm level<lb/> 08<lb/> S56.1<lb/> Injury of long flexor muscle and tendon of other finger(s) at forearm level<lb/> 08<lb/> S56.2<lb/> Injury of other flexor muscle and tendon at forearm level<lb/> 08<lb/> S56.3<lb/> Injury of extensor or abductor muscles and tendons of thumb at forearm level<lb/> 08<lb/> S56.4<lb/> Injury of extensor muscle and tendon of other finger(s) at forearm level<lb/> 08<lb/> S56.5<lb/> Injury of other extensor muscle and tendon at forearm level<lb/> 08<lb/> S56.7<lb/> Injury of multiple muscles and tendons at forearm level<lb/> 08<lb/> S56.8<lb/> </bibl>
-<bibl>Injury of other and unspecified muscles and tendons at forearm level<lb/> 08<lb/> S62.0<lb/> Fracture of navicular [scaphoid] bone of hand<lb/> 08<lb/> S62.1<lb/> Fracture of other carpal bone(s)<lb/> 08<lb/> </bibl>
-<bibl>S62.2<lb/> Fracture of first metacarpal bone<lb/> 08<lb/> S62.3<lb/> Fracture of other metacarpal bone<lb/> 08<lb/> S62.4<lb/> Multiple fractures of metacarpal bones<lb/> 08<lb/> S62.5<lb/> Fracture of thumb<lb/> 08<lb/> S62.6<lb/> Fracture of other finger<lb/> 08<lb/> S62.7<lb/> Multiple fractures of fingers<lb/> 08<lb/> S62.8<lb/> </bibl>
-<bibl>Fracture of other and unspecified parts of wrist and hand<lb/> 08<lb/> S63.0<lb/> Dislocation of wrist<lb/> 08<lb/> S63.1<lb/> Dislocation of finger<lb/> 08<lb/> S63.2<lb/> </bibl>
-<bibl>Multiple dislocations of fingers<lb/> 08<lb/> S63.3<lb/> Traumatic rupture of ligament of wrist and carpus<lb/> 08<lb/> S63.4<lb/> Traumatic rupture of ligament of finger at metacarpophalangeal and interphalangeal 08<lb/> </bibl>
-<bibl>ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> joint(s)<lb/> S63.5<lb/> Sprain and strain of wrist<lb/> 08<lb/> S63.6<lb/> Sprain and strain of finger(s)<lb/> 08<lb/> </bibl>
-<bibl>S63.7<lb/> </bibl>
-<bibl>Sprain and strain of other and unspecified parts of hand<lb/> 08<lb/> S66.0<lb/> Injury of long flexor muscle and tendon of thumb at wrist and hand level<lb/> 08<lb/> S66.1<lb/> Injury of flexor muscle and tendon of other finger at wrist and hand level<lb/> 08<lb/> S66.2<lb/> Injury of extensor muscle and tendon of thumb at wrist and hand level<lb/> 08<lb/> S66.3<lb/> Injury of extensor muscle and tendon of other finger at wrist and hand level<lb/> 08<lb/> S66.4<lb/> Injury of intrinsic muscle and tendon of thumb at wrist and hand level<lb/> 08<lb/> S66.5<lb/> Injury of intrinsic muscle and tendon of other finger at wrist and hand level<lb/> 08<lb/> S66.6<lb/> Injury of multiple flexor muscles and tendons at wrist and hand level<lb/> 08<lb/> S66.7<lb/> Injury of multiple extensor muscles and tendons at wrist and hand level<lb/> 08<lb/> S66.8<lb/> Injury of other muscles and tendons at wrist and hand level<lb/> 08<lb/> S66.9<lb/> Injury of unspecified muscle and tendon at wrist and hand level<lb/> 08<lb/> S72.0<lb/> Fracture of neck of femur<lb/> 08<lb/> S72.1<lb/> Pertrochanteric fracture<lb/> 08<lb/> S72.2<lb/> Subtrochanteric fracture<lb/> 08<lb/> S72.3<lb/> Fracture of shaft of femur<lb/> 08<lb/> S72.4<lb/> Fracture of lower end of femur<lb/> 08<lb/> S72.7<lb/> Multiple fractures of femur<lb/> 08<lb/> S72.8<lb/> Fractures of other parts of femur<lb/> 08<lb/> S72.9<lb/> Fracture of femur, part unspecified<lb/> 08<lb/> S73.0<lb/> Dislocation of hip<lb/> 08<lb/> S73.1<lb/> Sprain and strain of hip<lb/> 08<lb/> S76.0<lb/> Injury of muscle and tendon of hip<lb/> 08<lb/> S76.1<lb/> Injury of quadriceps muscle and tendon<lb/> 08<lb/> S76.2<lb/> Injury of adductor muscle and tendon of thigh<lb/> 08<lb/> S76.3<lb/> </bibl>
-<bibl>Injury of muscle and tendon of the posterior muscle group at thigh level<lb/> 08<lb/> S76.4<lb/> </bibl>
-<bibl>Injury of other and unspecified muscles and tendons at thigh level<lb/> 08<lb/> S76.7<lb/> Injury of multiple muscles and tendons at hip and thigh level<lb/> 08<lb/> S82.0<lb/> Fracture of patella<lb/> 08<lb/> S82.1<lb/> Fracture of upper end of tibia<lb/> 08<lb/> S82.2<lb/> Fracture of shaft of tibia<lb/> 08<lb/> S82.3<lb/> Fracture of lower end of tibia<lb/> 08<lb/> S82.4<lb/> Fracture of fibula alone<lb/> 08<lb/> S82.5<lb/> Fracture of medial malleolus<lb/> 08<lb/> S82.6<lb/> Fracture of lateral malleolus<lb/> 08<lb/> S82.7<lb/> Multiple fractures of lower leg<lb/> 08<lb/> S82.8<lb/> Fractures of other parts of lower leg<lb/> 08<lb/> S82.9<lb/> Fracture of lower leg, part unspecified<lb/> 08<lb/> S83.0<lb/> Dislocation of patella<lb/> 08<lb/> S83.1<lb/> Dislocation of knee<lb/> 08<lb/> S83.2<lb/> Tear of meniscus, current<lb/> 08<lb/> S83.3<lb/> Tear of articular cartilage of knee, current<lb/> 08<lb/> S83.4<lb/> Sprain and strain involving (fibular)(tibial) collateral ligament of knee<lb/> 08<lb/> S83.5<lb/> Sprain and strain involving (anterior)(posterior) cruciate ligament of knee ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> B85.1<lb/> Pediculosis due to Pediculus humanus corporis<lb/> 09<lb/> B85.2<lb/> Pediculosis, unspecified<lb/> 09<lb/> B85.3<lb/> Phthiriasis<lb/> 09<lb/> B85.4<lb/> </bibl>
-<bibl>Mixed pediculosis and phthiriasis<lb/> 09<lb/> B86<lb/> Scabies<lb/> 09<lb/> B87.0<lb/> Cutaneous myiasis<lb/> 09<lb/> B87.1<lb/> Wound myiasis<lb/> 09<lb/> B87.2<lb/> </bibl>
-<bibl>Ocular myiasis<lb/> 09<lb/> B87.3<lb/> Nasopharyngeal myiasis<lb/> 09<lb/> B87.4<lb/> Aural myiasis<lb/> 09<lb/> B87.8<lb/> Myiasis of other sites<lb/> 09<lb/> B87.9<lb/> </bibl>
-<bibl>Myiasis, unspecified<lb/> 09<lb/> B88.0<lb/> Other acariasis<lb/> 09<lb/> B88.1<lb/> </bibl>
-<bibl>Tungiasis [sandflea infestation]<lb/> 09<lb/> B88.2<lb/> </bibl>
-<bibl>Other arthropod infestations<lb/> 09<lb/> B88.3<lb/> External hirudiniasis<lb/> 09<lb/> B88.9<lb/> Infestation, unspecified<lb/> 09<lb/> C43.0<lb/> Malignant neoplasm: Malignant melanoma of lip<lb/> 09<lb/> C43.2<lb/> </bibl>
-<bibl>Malignant neoplasm: Malignant melanoma of ear and external auricular canal<lb/> 09<lb/> C43.3<lb/> </bibl>
-<bibl>Malignant neoplasm: Malignant melanoma of other and unspecified parts of face<lb/> 09<lb/> C43.4<lb/> </bibl>
-<bibl>Malignant neoplasm: Malignant melanoma of scalp and neck<lb/> 09<lb/> C43.5<lb/> </bibl>
-<bibl>Malignant neoplasm: Malignant melanoma of trunk<lb/> 09<lb/> C43.6<lb/> </bibl>
-<bibl>Malignant neoplasm: Malignant melanoma of upper limb, including shoulder<lb/> 09<lb/> C43.7<lb/> </bibl>
-<bibl>Malignant neoplasm: Malignant melanoma of lower limb, including hip<lb/> 09<lb/> C43.8<lb/> </bibl>
-<bibl>Malignant neoplasm: Overlapping malignant melanoma of skin<lb/> 09<lb/> C43.9<lb/> </bibl>
-<bibl>Malignant neoplasm: Malignant melanoma of skin, unspecified<lb/> 09<lb/> C44.0<lb/> Malignant neoplasm: Skin of lip<lb/> 09<lb/> C44.2<lb/> </bibl>
-<bibl>Malignant neoplasm: Skin of ear and external auricular canal<lb/> 09<lb/> C44.3<lb/> </bibl>
-<bibl>Malignant neoplasm: Skin of other and unspecified parts of face<lb/> 09<lb/> C44.4<lb/> Malignant neoplasm: Skin of scalp and neck<lb/> 09<lb/> C44.5<lb/> Malignant neoplasm: Skin of trunk<lb/> 09<lb/> C44.6<lb/> </bibl>
-<bibl>Malignant neoplasm: Skin of upper limb, including shoulder<lb/> 09<lb/> C44.7<lb/> </bibl>
-<bibl>Malignant neoplasm: Skin of lower limb, including hip<lb/> 09<lb/> C44.8<lb/> </bibl>
-<bibl>Malignant neoplasm: Overlapping lesion of skin<lb/> 09<lb/> C44.9<lb/> </bibl>
-<bibl>Malignant neoplasm: Malignant neoplasm of skin, unspecified<lb/> 09<lb/> C46.0<lb/> </bibl>
-<bibl>Kaposi&apos;s sarcoma of skin<lb/> 09<lb/> C46.1<lb/> </bibl>
-<bibl>Kaposi&apos;s sarcoma of soft tissue<lb/> 09<lb/> C46.7<lb/> </bibl>
-<bibl>Kaposi&apos;s sarcoma of other sites<lb/> 09<lb/> C46.8<lb/> </bibl>
-<bibl>Kaposi&apos;s sarcoma of multiple organs<lb/> 09<lb/> C46.9<lb/> </bibl>
-<bibl>Kaposi&apos;s sarcoma, unspecified<lb/> 09<lb/> C50.0<lb/> Malignant neoplasm: Nipple and areola<lb/> 09<lb/> C50.1<lb/> Malignant neoplasm: Central portion of breast<lb/> 09<lb/> C50.2<lb/> </bibl>
-<bibl>Malignant neoplasm: Upper-inner quadrant of breast<lb/> 09<lb/> C50.3<lb/> </bibl>
-<bibl>Malignant neoplasm: Lower-inner quadrant of breast<lb/> 09<lb/> C50.4<lb/> </bibl>
-<bibl>Malignant neoplasm: Upper-outer quadrant of breast<lb/> 09<lb/> C50.5<lb/> </bibl>
-<bibl>Malignant neoplasm: Lower-outer quadrant of breast ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> C50.6<lb/> Malignant neoplasm: Axillary tail of breast<lb/> 09<lb/> C50.8<lb/> </bibl>
-<bibl>Malignant neoplasm: Overlapping lesion of breast<lb/> 09<lb/> C50.9<lb/> Malignant neoplasm: Breast, unspecified<lb/> 09<lb/> C79.2<lb/> Secondary malignant neoplasm of skin<lb/> 09<lb/> C79.8<lb/> Secondary malignant neoplasm of other specified sites<lb/> 09<lb/> D03.0<lb/> Melanoma in situ of lip<lb/> 09<lb/> D03.2<lb/> </bibl>
-<bibl>Melanoma in situ of ear and external auricular canal<lb/> 09<lb/> D03.3<lb/> </bibl>
-<bibl>Melanoma in situ of other and unspecified parts of face<lb/> 09<lb/> D03.4<lb/> </bibl>
-<bibl>Melanoma in situ of scalp and neck<lb/> 09<lb/> D03.5<lb/> Melanoma in situ of trunk<lb/> 09<lb/> D03.6<lb/> </bibl>
-<bibl>Melanoma in situ of upper limb, including shoulder<lb/> 09<lb/> D03.7<lb/> </bibl>
-<bibl>Melanoma in situ of lower limb, including hip<lb/> 09<lb/> D03.8<lb/> </bibl>
-<bibl>Melanoma in situ of other sites<lb/> 09<lb/> D03.9<lb/> Melanoma in situ, unspecified<lb/> 09<lb/> D04.0<lb/> Carcinoma in situ: Skin of lip<lb/> 09<lb/> D04.2<lb/> Carcinoma in situ: Skin of ear and external auricular canal<lb/> 09<lb/> D04.3<lb/> Carcinoma in situ: Skin of other and unspecified parts of face<lb/> 09<lb/> D04.4<lb/> Carcinoma in situ: Skin of scalp and neck<lb/> 09<lb/> D04.5<lb/> Carcinoma in situ: Skin of trunk<lb/> 09<lb/> D04.6<lb/> Carcinoma in situ: Skin of upper limb, including shoulder<lb/> 09<lb/> D04.7<lb/> Carcinoma in situ: Skin of lower limb, including hip<lb/> 09<lb/> D04.8<lb/> Carcinoma in situ: Skin of other sites<lb/> 09<lb/> D04.9<lb/> Carcinoma in situ: Skin, unspecified<lb/> 09<lb/> D05.0<lb/> </bibl>
-<bibl>Lobular carcinoma in situ<lb/> 09<lb/> D05.1<lb/> </bibl>
-<bibl>Intraductal carcinoma in situ<lb/> 09<lb/> D05.7<lb/> Other carcinoma in situ of breast<lb/> 09<lb/> D05.9<lb/> Carcinoma in situ of breast, unspecified<lb/> 09<lb/> D17.0<lb/> </bibl>
-<bibl>Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck<lb/> 09<lb/> D17.1<lb/> </bibl>
-<bibl>Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk<lb/> 09<lb/> D17.2<lb/> </bibl>
-<bibl>Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs<lb/> 09<lb/> D17.3<lb/> </bibl>
-<bibl>Benign lipomatous neoplasm of skin and subcutaneous tissue of other and<lb/> unspecified sites<lb/> 09<lb/> </bibl>
-<bibl>D17.7<lb/> </bibl>
-<bibl>Benign lipomatous neoplasm of other sites<lb/> 09<lb/> D17.9<lb/> Benign lipomatous neoplasm, unspecified<lb/> 09<lb/> D18.0<lb/> </bibl>
-<bibl>Haemangioma, any site<lb/> 09<lb/> D22.0<lb/> </bibl>
-<bibl>Melanocytic naevi of lip<lb/> 09<lb/> D22.2<lb/> </bibl>
-<bibl>Melanocytic naevi of ear and external auricular canal<lb/> 09<lb/> D22.3<lb/> </bibl>
-<bibl>Melanocytic naevi of other and unspecified parts of face<lb/> 09<lb/> D22.4<lb/> </bibl>
-<bibl>Melanocytic naevi of scalp and neck<lb/> 09<lb/> D22.5<lb/> </bibl>
-<bibl>Melanocytic naevi of trunk<lb/> 09<lb/> D22.6<lb/> </bibl>
-<bibl>Melanocytic naevi of upper limb, including shoulder<lb/> 09<lb/> D22.7<lb/> </bibl>
-<bibl>Melanocytic naevi of lower limb, including hip<lb/> 09<lb/> D22.9<lb/> </bibl>
-<bibl>Melanocytic naevi, unspecified<lb/> 09<lb/> D23.0<lb/> Benign neoplasm: Skin of lip<lb/> 09<lb/> D23.2<lb/> </bibl>
-<bibl>Benign neoplasm: Skin of ear and external auricular canal<lb/> 09<lb/> D23.3<lb/> </bibl>
-<bibl>Benign neoplasm: Skin of other and unspecified parts of face ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> R61.0<lb/> Localized hyperhidrosis<lb/> 09<lb/> R61.1<lb/> Generalized hyperhidrosis<lb/> 09<lb/> R61.9<lb/> </bibl>
-<bibl>Hyperhidrosis, unspecified<lb/> 09<lb/> R92<lb/> Abnormal findings on diagnostic imaging of breast<lb/> 09<lb/> S00.0<lb/> Superficial injury of scalp<lb/> 09<lb/> S00.3<lb/> Superficial injury of nose<lb/> 09<lb/> S00.4<lb/> Superficial injury of ear<lb/> 09<lb/> S00.5<lb/> Superficial injury of lip and oral cavity<lb/> 09<lb/> S00.7<lb/> </bibl>
-<bibl>Multiple superficial injuries of head<lb/> 09<lb/> S00.8<lb/> Superficial injury of other parts of head<lb/> 09<lb/> S00.9<lb/> Superficial injury of head, part unspecified<lb/> 09<lb/> S10.0<lb/> Contusion of throat<lb/> 09<lb/> S10.1<lb/> Other and unspecified superficial injuries of throat<lb/> 09<lb/> S10.7<lb/> </bibl>
-<bibl>Multiple superficial injuries of neck<lb/> 09<lb/> S10.8<lb/> Superficial injury of other parts of neck<lb/> 09<lb/> S10.9<lb/> Superficial injury of neck, part unspecified<lb/> 09<lb/> S20.0<lb/> Contusion of breast<lb/> 09<lb/> S20.1<lb/> Other and unspecified superficial injuries of breast<lb/> 09<lb/> S20.2<lb/> Contusion of thorax<lb/> 09<lb/> S20.3<lb/> </bibl>
-<bibl>Other superficial injuries of front wall of thorax<lb/> 09<lb/> S20.4<lb/> </bibl>
-<bibl>Other superficial injuries of back wall of thorax<lb/> 09<lb/> S20.7<lb/> </bibl>
-<bibl>Multiple superficial injuries of thorax<lb/> 09<lb/> S20.8<lb/> Superficial injury of other and unspecified parts of thorax<lb/> 09<lb/> S30.0<lb/> Contusion of lower back and pelvis<lb/> 09<lb/> S30.1<lb/> Contusion of abdominal wall<lb/> 09<lb/> S30.7<lb/> </bibl>
-<bibl>Multiple superficial injuries of abdomen, lower back and pelvis<lb/> 09<lb/> S30.8<lb/> </bibl>
-<bibl>Other superficial injuries of abdomen, lower back and pelvis<lb/> 09<lb/> S30.9<lb/> Superficial injury of abdomen, lower back and pelvis, part unspecified<lb/> 09<lb/> S40.0<lb/> Contusion of shoulder and upper arm<lb/> 09<lb/> S40.7<lb/> </bibl>
-<bibl>Multiple superficial injuries of shoulder and upper arm<lb/> 09<lb/> S40.8<lb/> </bibl>
-<bibl>Other superficial injuries of shoulder and upper arm<lb/> 09<lb/> S40.9<lb/> Superficial injury of shoulder and upper arm, unspecified<lb/> 09<lb/> S50.0<lb/> Contusion of elbow<lb/> 09<lb/> S50.1<lb/> </bibl>
-<bibl>Contusion of other and unspecified parts of forearm<lb/> 09<lb/> S50.7<lb/> </bibl>
-<bibl>Multiple superficial injuries of forearm<lb/> 09<lb/> S50.8<lb/> Other superficial injuries of forearm<lb/> 09<lb/> S50.9<lb/> Superficial injury of forearm, unspecified<lb/> 09<lb/> S60.0<lb/> </bibl>
-<bibl>Contusion of finger(s) without damage to nail<lb/> 09<lb/> S60.1<lb/> Contusion of finger(s) with damage to nail<lb/> 09<lb/> S60.2<lb/> Contusion of other parts of wrist and hand<lb/> 09<lb/> S60.7<lb/> </bibl>
-<bibl>Multiple superficial injuries of wrist and hand<lb/> 09<lb/> S60.8<lb/> Other superficial injuries of wrist and hand<lb/> 09<lb/> S60.9<lb/> Superficial injury of wrist and hand, unspecified<lb/> 09<lb/> S70.0<lb/> Contusion of hip<lb/> 09<lb/> S70.1<lb/> Contusion of thigh<lb/> 09<lb/> S70.7<lb/> </bibl>
-<bibl>Multiple superficial injuries of hip and thigh O11<lb/> Pre-existing hypertensive disorder with superimposed proteinuria<lb/> 14<lb/> O12.0<lb/> </bibl>
-<bibl>Gestational oedema<lb/> 14<lb/> O12.1<lb/> </bibl>
-<bibl>Gestational proteinuria<lb/> 14<lb/> O12.2<lb/> </bibl>
-<bibl>Gestational oedema with proteinuria<lb/> 14<lb/> O13<lb/> Gestational [pregnancy-induced] hypertension without significant proteinuria<lb/> 14<lb/> O14.0<lb/> </bibl>
-<bibl>Moderate pre-eclampsia<lb/> 14<lb/> </bibl>
-<bibl>O14.1<lb/> </bibl>
-<bibl>Severe pre-eclampsia<lb/> 14<lb/> </bibl>
-<bibl>O14.9<lb/> </bibl>
-<bibl>Pre-eclampsia, unspecified<lb/> 14<lb/> O15.0<lb/> Eclampsia in pregnancy<lb/> 14<lb/> O15.1<lb/> Eclampsia in labour<lb/> 14<lb/> O15.2<lb/> Eclampsia in the puerperium<lb/> 14<lb/> O15.9<lb/> </bibl>
-<bibl>Eclampsia, unspecified as to time period<lb/> 14<lb/> O16<lb/> Unspecified maternal hypertension<lb/> 14<lb/> O20.0<lb/> Threatened abortion<lb/> 14<lb/> O20.8<lb/> Other haemorrhage in early pregnancy<lb/> 14<lb/> O20.9<lb/> Haemorrhage in early pregnancy, unspecified<lb/> 14<lb/> O21.0<lb/> </bibl>
-<bibl>Mild hyperemesis gravidarum<lb/> 14<lb/> O21.1<lb/> Hyperemesis gravidarum with metabolic disturbance<lb/> 14<lb/> O21.2<lb/> </bibl>
-<bibl>Late vomiting of pregnancy<lb/> 14<lb/> O21.8<lb/> Other vomiting complicating pregnancy<lb/> 14<lb/> O21.9<lb/> Vomiting of pregnancy, unspecified<lb/> 14<lb/> O22.0<lb/> Varicose veins of lower extremity in pregnancy<lb/> 14<lb/> O22.1<lb/> Genital varices in pregnancy<lb/> 14<lb/> O22.2<lb/> Superficial thrombophlebitis in pregnancy<lb/> 14<lb/> O22.3<lb/> </bibl>
-<bibl>Deep phlebothrombosis in pregnancy<lb/> 14<lb/> O22.4<lb/> Haemorrhoids in pregnancy<lb/> 14<lb/> O22.5<lb/> </bibl>
-<bibl>Cerebral venous thrombosis in pregnancy<lb/> 14<lb/> O22.8<lb/> </bibl>
-<bibl>Other venous complications in pregnancy<lb/> 14<lb/> O22.9<lb/> Venous complication in pregnancy, unspecified<lb/> 14<lb/> O23.0<lb/> Infections of kidney in pregnancy ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O23.1<lb/> Infections of bladder in pregnancy<lb/> 14<lb/> O23.2<lb/> Infections of urethra in pregnancy<lb/> 14<lb/> O23.3<lb/> Infections of other parts of urinary tract in pregnancy<lb/> 14<lb/> O23.4<lb/> Unspecified infection of urinary tract in pregnancy<lb/> 14<lb/> O23.5<lb/> Infections of the genital tract in pregnancy<lb/> 14<lb/> O23.9<lb/> Other and unspecified genitourinary tract infection in pregnancy<lb/> 14<lb/> O24.0<lb/> </bibl>
-<bibl>Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent<lb/> 14<lb/> </bibl>
-<bibl>O24.1<lb/> </bibl>
-<bibl>Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent 14<lb/> O24.2<lb/> </bibl>
-<bibl>Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus<lb/> 14<lb/> O24.3<lb/> Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified<lb/> 14<lb/> O24.4<lb/> Diabetes mellitus arising in pregnancy<lb/> 14<lb/> O24.9<lb/> Diabetes mellitus in pregnancy, unspecified<lb/> 14<lb/> O25<lb/> Malnutrition in pregnancy<lb/> 14<lb/> O26.0<lb/> Excessive weight gain in pregnancy<lb/> 14<lb/> O26.1<lb/> Low weight gain in pregnancy<lb/> 14<lb/> O26.2<lb/> Pregnancy care of habitual aborter<lb/> 14<lb/> O26.3<lb/> </bibl>
-<bibl>Retained intrauterine contraceptive device in pregnancy<lb/> 14<lb/> O26.4<lb/> Herpes gestationis<lb/> 14<lb/> O26.5<lb/> Maternal hypotension syndrome<lb/> 14<lb/> O26.6<lb/> Liver disorders in pregnancy, childbirth and the puerperium<lb/> 14<lb/> O26.7<lb/> </bibl>
-<bibl>Subluxation of symphysis (pubis) in pregnancy, childbirth and the puerperium<lb/> 14<lb/> O26.8<lb/> Other specified pregnancy-related conditions<lb/> 14<lb/> O26.9<lb/> Pregnancy-related condition, unspecified<lb/> 14<lb/> O28.0<lb/> </bibl>
-<bibl>Abnormal haematological finding on antenatal screening of mother<lb/> 14<lb/> O28.1<lb/> Abnormal biochemical finding on antenatal screening of mother<lb/> 14<lb/> O28.2<lb/> </bibl>
-<bibl>Abnormal cytological finding on antenatal screening of mother<lb/> 14<lb/> O28.3<lb/> </bibl>
-<bibl>Abnormal ultrasonic finding on antenatal screening of mother<lb/> 14<lb/> O28.4<lb/> Abnormal radiological finding on antenatal screening of mother<lb/> 14<lb/> O28.5<lb/> </bibl>
-<bibl>Abnormal chromosomal and genetic finding on antenatal screening of mother<lb/> 14<lb/> O28.8<lb/> Other abnormal findings on antenatal screening of mother<lb/> 14<lb/> O28.9<lb/> Abnormal finding on antenatal screening of mother, unspecified<lb/> 14<lb/> O29.0<lb/> Pulmonary complications of anaesthesia during pregnancy<lb/> 14<lb/> O29.1<lb/> Cardiac complications of anaesthesia during pregnancy<lb/> 14<lb/> O29.2<lb/> Central nervous system complications of anaesthesia during pregnancy<lb/> 14<lb/> O29.3<lb/> Toxic reaction to local anaesthesia during pregnancy<lb/> 14<lb/> O29.4<lb/> Spinal and epidural anaesthesia-induced headache during pregnancy<lb/> 14<lb/> O29.5<lb/> Other complications of spinal and epidural anaesthesia during pregnancy<lb/> 14<lb/> O29.6<lb/> Failed or difficult intubation during pregnancy<lb/> 14<lb/> O29.8<lb/> Other complications of anaesthesia during pregnancy<lb/> 14<lb/> O29.9<lb/> Complication of anaesthesia during pregnancy, unspecified<lb/> 14<lb/> O30.0<lb/> Twin pregnancy<lb/> 14<lb/> O30.1<lb/> Triplet pregnancy<lb/> 14<lb/> O30.2<lb/> Quadruplet pregnancy<lb/> 14<lb/> O30.8<lb/> Other multiple gestation<lb/> 14<lb/> O30.9<lb/> Multiple gestation, unspecified<lb/> 14<lb/> O31.0<lb/> Papyraceous fetus ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O31.1<lb/> Continuing pregnancy after abortion of one fetus or more<lb/> 14<lb/> O31.2<lb/> Continuing pregnancy after intrauterine death of one fetus or more<lb/> 14<lb/> O31.8<lb/> Other complications specific to multiple gestation<lb/> 14<lb/> O32.0<lb/> Maternal care for unstable lie<lb/> 14<lb/> O32.1<lb/> Maternal care for breech presentation<lb/> 14<lb/> O32.2<lb/> Maternal care for transverse and oblique lie<lb/> 14<lb/> O32.3<lb/> Maternal care for face, brow and chin presentation<lb/> 14<lb/> O32.4<lb/> Maternal care for high head at term<lb/> 14<lb/> O32.5<lb/> Maternal care for multiple gestation with malpresentation of one fetus or more<lb/> 14<lb/> O32.6<lb/> Maternal care for compound presentation<lb/> 14<lb/> O32.8<lb/> Maternal care for other malpresentation of fetus<lb/> 14<lb/> O32.9<lb/> Maternal care for malpresentation of fetus, unspecified<lb/> 14<lb/> O33.0<lb/> Maternal care for disproportion due to deformity of maternal pelvic bones<lb/> 14<lb/> O33.1<lb/> Maternal care for disproportion due to generally contracted pelvis<lb/> 14<lb/> O33.2<lb/> Maternal care for disproportion due to inlet contraction of pelvis<lb/> 14<lb/> O33.3<lb/> Maternal care for disproportion due to outlet contraction of pelvis<lb/> 14<lb/> O33.4<lb/> Maternal care for disproportion of mixed maternal and fetal origin<lb/> 14<lb/> O33.5<lb/> Maternal care for disproportion due to unusually large fetus<lb/> 14<lb/> O33.6<lb/> Maternal care for disproportion due to hydrocephalic fetus<lb/> 14<lb/> O33.7<lb/> Maternal care for disproportion due to other fetal deformities<lb/> 14<lb/> O33.8<lb/> Maternal care for disproportion of other origin<lb/> 14<lb/> O33.9<lb/> Maternal care for disproportion, unspecified<lb/> 14<lb/> O34.0<lb/> Maternal care for congenital malformation of uterus<lb/> 14<lb/> O34.1<lb/> Maternal care for tumour of corpus uteri<lb/> 14<lb/> O34.2<lb/> Maternal care due to uterine scar from previous surgery<lb/> 14<lb/> O34.3<lb/> Maternal care for cervical incompetence<lb/> 14<lb/> O34.4<lb/> Maternal care for other abnormalities of cervix<lb/> 14<lb/> O34.5<lb/> Maternal care for other abnormalities of gravid uterus<lb/> 14<lb/> O34.6<lb/> Maternal care for abnormality of vagina<lb/> 14<lb/> O34.7<lb/> Maternal care for abnormality of vulva and perineum<lb/> 14<lb/> O34.8<lb/> Maternal care for other abnormalities of pelvic organs<lb/> 14<lb/> O34.9<lb/> Maternal care for abnormality of pelvic organ, unspecified<lb/> 14<lb/> O35.0<lb/> Maternal care for (suspected) central nervous system malformation in fetus<lb/> 14<lb/> O35.1<lb/> Maternal care for (suspected) chromosomal abnormality in fetus<lb/> 14<lb/> O35.2<lb/> Maternal care for (suspected) hereditary disease in fetus<lb/> 14<lb/> O35.3<lb/> Maternal care for (suspected) damage to fetus from viral disease in mother<lb/> 14<lb/> O35.4<lb/> Maternal care for (suspected) damage to fetus from alcohol<lb/> 14<lb/> O35.5<lb/> Maternal care for (suspected) damage to fetus by drugs<lb/> 14<lb/> O35.6<lb/> Maternal care for (suspected) damage to fetus by radiation<lb/> 14<lb/> O35.7<lb/> Maternal care for (suspected) damage to fetus by other medical procedures<lb/> 14<lb/> O35.8<lb/> Maternal care for other (suspected) fetal abnormality and damage<lb/> 14<lb/> O35.9<lb/> Maternal care for (suspected) fetal abnormality and damage, unspecified<lb/> 14<lb/> O36.0<lb/> Maternal care for rhesus isoimmunization<lb/> 14<lb/> O36.1<lb/> Maternal care for other isoimmunization<lb/> 14<lb/> O36.2<lb/> Maternal care for hydrops fetalis<lb/> 14<lb/> O36.3<lb/> Maternal care for signs of fetal hypoxia ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O36.4<lb/> Maternal care for intrauterine death<lb/> 14<lb/> O36.5<lb/> Maternal care for poor fetal growth<lb/> 14<lb/> O36.6<lb/> Maternal care for excessive fetal growth<lb/> 14<lb/> O36.7<lb/> Maternal care for viable fetus in abdominal pregnancy<lb/> 14<lb/> O36.8<lb/> Maternal care for other specified fetal problems<lb/> 14<lb/> O36.9<lb/> Maternal care for fetal problem, unspecified<lb/> 14<lb/> O40<lb/> Polyhydramnios<lb/> 14<lb/> O41.0<lb/> Oligohydramnios<lb/> 14<lb/> O41.1<lb/> Infection of amniotic sac and membranes<lb/> 14<lb/> O41.8<lb/> </bibl>
-<bibl>Other specified disorders of amniotic fluid and membranes<lb/> 14<lb/> O41.9<lb/> Disorder of amniotic fluid and membranes, unspecified<lb/> 14<lb/> O42.0<lb/> Premature rupture of membranes, onset of labour within 24 hours<lb/> 14<lb/> O42.1<lb/> Premature rupture of membranes, onset of labour after 24 hours<lb/> 14<lb/> O42.2<lb/> Premature rupture of membranes, labour delayed by therapy<lb/> 14<lb/> O42.9<lb/> Premature rupture of membranes, unspecified<lb/> 14<lb/> O43.0<lb/> Placental transfusion syndromes<lb/> 14<lb/> O43.1<lb/> Malformation of placenta<lb/> 14<lb/> O43.8<lb/> </bibl>
-<bibl>Other placental disorders<lb/> 14<lb/> O43.9<lb/> Placental disorder, unspecified<lb/> 14<lb/> O44.0<lb/> </bibl>
-<bibl>Placenta praevia specified as without haemorrhage<lb/> 14<lb/> O44.1<lb/> Placenta praevia with haemorrhage<lb/> 14<lb/> O45.0<lb/> Premature separation of placenta with coagulation defect<lb/> 14<lb/> O45.8<lb/> Other premature separation of placenta<lb/> 14<lb/> O45.9<lb/> Premature separation of placenta, unspecified<lb/> 14<lb/> O46.0<lb/> Antepartum haemorrhage with coagulation defect<lb/> 14<lb/> O46.8<lb/> </bibl>
-<bibl>Other antepartum haemorrhage<lb/> 14<lb/> O46.9<lb/> </bibl>
-<bibl>Antepartum haemorrhage, unspecified<lb/> 14<lb/> O47.0<lb/> </bibl>
-<bibl>False labour before 37 completed weeks of gestation<lb/> 14<lb/> O47.1<lb/> </bibl>
-<bibl>False labour at or after 37 completed weeks of gestation<lb/> 14<lb/> O47.9<lb/> False labour, unspecified<lb/> 14<lb/> O48<lb/> Prolonged pregnancy<lb/> 14<lb/> O60.0<lb/> Preterm labour without delivery<lb/> 14<lb/> O60.1<lb/> Preterm labour with preterm delivery<lb/> 14<lb/> O60.2<lb/> Preterm labour with term delivery<lb/> 14<lb/> O61.0<lb/> Failed medical induction of labour<lb/> 14<lb/> O61.1<lb/> Failed instrumental induction of labour<lb/> 14<lb/> O61.8<lb/> Other failed induction of labour<lb/> 14<lb/> O61.9<lb/> Failed induction of labour, unspecified<lb/> 14<lb/> O62.0<lb/> Primary inadequate contractions<lb/> 14<lb/> O62.1<lb/> Secondary uterine inertia<lb/> 14<lb/> O62.2<lb/> Other uterine inertia<lb/> 14<lb/> O62.3<lb/> Precipitate labour<lb/> 14<lb/> O62.4<lb/> </bibl>
-<bibl>Hypertonic, incoordinate, and prolonged uterine contractions<lb/> 14<lb/> O62.8<lb/> Other abnormalities of forces of labour<lb/> 14<lb/> O62.9<lb/> Abnormality of forces of labour, unspecified<lb/> 14<lb/> O63.0<lb/> Prolonged first stage (of labour) </bibl>
-<bibl>ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O63.1<lb/> Prolonged second stage (of labour)<lb/> 14<lb/> </bibl>
-<bibl>O63.2<lb/> Delayed delivery of second twin, triplet, etc.<lb/> 14<lb/> O63.9<lb/> Long labour, unspecified<lb/> 14<lb/> O64.0<lb/> Obstructed labour due to incomplete rotation of fetal head<lb/> 14<lb/> O64.1<lb/> Obstructed labour due to breech presentation<lb/> 14<lb/> O64.2<lb/> Obstructed labour due to face presentation<lb/> 14<lb/> O64.3<lb/> Obstructed labour due to brow presentation<lb/> 14<lb/> O64.4<lb/> Obstructed labour due to shoulder presentation<lb/> 14<lb/> O64.5<lb/> Obstructed labour due to compound presentation<lb/> 14<lb/> O64.8<lb/> Obstructed labour due to other malposition and malpresentation<lb/> 14<lb/> O64.9<lb/> Obstructed labour due to malposition and malpresentation, unspecified<lb/> 14<lb/> O65.0<lb/> Obstructed labour due to deformed pelvis<lb/> 14<lb/> O65.1<lb/> Obstructed labour due to generally contracted pelvis<lb/> 14<lb/> O65.2<lb/> Obstructed labour due to pelvic inlet contraction<lb/> 14<lb/> O65.3<lb/> Obstructed labour due to pelvic outlet and mid-cavity contraction<lb/> 14<lb/> O65.4<lb/> Obstructed labour due to fetopelvic disproportion, unspecified<lb/> 14<lb/> O65.5<lb/> Obstructed labour due to abnormality of maternal pelvic organs<lb/> 14<lb/> O65.8<lb/> Obstructed labour due to other maternal pelvic abnormalities<lb/> 14<lb/> O65.9<lb/> Obstructed labour due to maternal pelvic abnormality, unspecified<lb/> 14<lb/> O66.0<lb/> Obstructed labour due to shoulder dystocia<lb/> 14<lb/> O66.1<lb/> Obstructed labour due to locked twins<lb/> 14<lb/> O66.2<lb/> Obstructed labour due to unusually large fetus<lb/> 14<lb/> O66.3<lb/> Obstructed labour due to other abnormalities of fetus<lb/> 14<lb/> O66.4<lb/> Failed trial of labour, unspecified<lb/> 14<lb/> O66.5<lb/> Failed application of vacuum extractor and forceps, unspecified<lb/> 14<lb/> O66.8<lb/> Other specified obstructed labour<lb/> 14<lb/> O66.9<lb/> Obstructed labour, unspecified<lb/> 14<lb/> O67.0<lb/> Intrapartum haemorrhage with coagulation defect<lb/> 14<lb/> O67.8<lb/> </bibl>
-<bibl>Other intrapartum haemorrhage<lb/> 14<lb/> O67.9<lb/> Intrapartum haemorrhage, unspecified<lb/> 14<lb/> O68.0<lb/> Labour and delivery complicated by fetal heart rate anomaly<lb/> 14<lb/> O68.1<lb/> Labour and delivery complicated by meconium in amniotic fluid<lb/> 14<lb/> O68.2<lb/> Labour and delivery complicated by fetal heart rate anomaly with meconium in<lb/> amniotic fluid<lb/> 14<lb/> </bibl>
-<bibl>O68.3<lb/> Labour and delivery complicated by biochemical evidence of fetal stress<lb/> 14<lb/> O68.8<lb/> Labour and delivery complicated by other evidence of fetal stress<lb/> 14<lb/> O68.9<lb/> Labour and delivery complicated by fetal stress, unspecified<lb/> 14<lb/> O69.0<lb/> Labour and delivery complicated by prolapse of cord<lb/> 14<lb/> O69.1<lb/> Labour and delivery complicated by cord around neck, with compression<lb/> 14<lb/> O69.2<lb/> Labour and delivery complicated by other cord entanglement<lb/> 14<lb/> O69.3<lb/> Labour and delivery complicated by short cord<lb/> 14<lb/> O69.4<lb/> Labour and delivery complicated by vasa praevia<lb/> 14<lb/> O69.5<lb/> Labour and delivery complicated by vascular lesion of cord<lb/> 14<lb/> O69.8<lb/> Labour and delivery complicated by other cord complications<lb/> 14<lb/> O69.9<lb/> Labour and delivery complicated by cord complication, unspecified<lb/> 14<lb/> O70.0<lb/> First degree perineal laceration during delivery ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O70.1<lb/> Second degree perineal laceration during delivery<lb/> 14<lb/> O70.2<lb/> Third degree perineal laceration during delivery<lb/> 14<lb/> O70.3<lb/> Fourth degree perineal laceration during delivery<lb/> 14<lb/> O70.9<lb/> </bibl>
-<bibl>Perineal laceration during delivery, unspecified<lb/> 14<lb/> O71.0<lb/> Rupture of uterus before onset of labour<lb/> 14<lb/> O71.1<lb/> Rupture of uterus during labour<lb/> 14<lb/> O71.2<lb/> Postpartum inversion of uterus<lb/> 14<lb/> O71.3<lb/> </bibl>
-<bibl>Obstetric laceration of cervix<lb/> 14<lb/> O71.4<lb/> Obstetric high vaginal laceration alone<lb/> 14<lb/> O71.5<lb/> </bibl>
-<bibl>Other obstetric injury to pelvic organs<lb/> 14<lb/> O71.6<lb/> </bibl>
-<bibl>Obstetric damage to pelvic joints and ligaments<lb/> 14<lb/> O71.7<lb/> </bibl>
-<bibl>Obstetric haematoma of pelvis<lb/> 14<lb/> O71.8<lb/> Other specified obstetric trauma<lb/> 14<lb/> O71.9<lb/> Obstetric trauma, unspecified<lb/> 14<lb/> O72.0<lb/> Third-stage haemorrhage<lb/> 14<lb/> O72.1<lb/> Other immediate postpartum haemorrhage<lb/> 14<lb/> O72.2<lb/> Delayed and secondary postpartum haemorrhage<lb/> 14<lb/> O72.3<lb/> </bibl>
-<bibl>Postpartum coagulation defects<lb/> 14<lb/> O73.0<lb/> Retained placenta without haemorrhage<lb/> 14<lb/> O73.1<lb/> Retained portions of placenta and membranes, without haemorrhage<lb/> 14<lb/> O74.0<lb/> </bibl>
-<bibl>Aspiration pneumonitis due to anaesthesia during labour and delivery<lb/> 14<lb/> O74.1<lb/> </bibl>
-<bibl>Other pulmonary complications of anaesthesia during labour and delivery<lb/> 14<lb/> O74.2<lb/> Cardiac complications of anaesthesia during labour and delivery<lb/> 14<lb/> O74.3<lb/> Central nervous system complications of anaesthesia during labour and delivery<lb/> 14<lb/> O74.4<lb/> Toxic reaction to local anaesthesia during labour and delivery<lb/> 14<lb/> O74.5<lb/> Spinal and epidural anaesthesia-induced headache during labour and delivery<lb/> 14<lb/> O74.6<lb/> Other complications of spinal and epidural anaesthesia during labour and delivery<lb/> 14<lb/> O74.7<lb/> Failed or difficult intubation during labour and delivery<lb/> 14<lb/> O74.8<lb/> Other complications of anaesthesia during labour and delivery<lb/> 14<lb/> O74.9<lb/> Complication of anaesthesia during labour and delivery, unspecified<lb/> 14<lb/> O75.0<lb/> Maternal distress during labour and delivery<lb/> 14<lb/> O75.1<lb/> Shock during or following labour and delivery<lb/> 14<lb/> O75.2<lb/> </bibl>
-<bibl>Pyrexia during labour, not elsewhere classified<lb/> 14<lb/> O75.3<lb/> Other infection during labour<lb/> 14<lb/> O75.4<lb/> Other complications of obstetric surgery and procedures<lb/> 14<lb/> O75.5<lb/> Delayed delivery after artificial rupture of membranes<lb/> 14<lb/> O75.6<lb/> Delayed delivery after spontaneous or unspecified rupture of membranes<lb/> 14<lb/> O75.7<lb/> </bibl>
-<bibl>Vaginal delivery following previous caesarean section<lb/> 14<lb/> O75.8<lb/> </bibl>
-<bibl>Other specified complications of labour and delivery<lb/> 14<lb/> O75.9<lb/> Complication of labour and delivery, unspecified<lb/> 14<lb/> O80.0<lb/> Spontaneous vertex delivery<lb/> 14<lb/> O80.1<lb/> Spontaneous breech delivery<lb/> 14<lb/> O80.8<lb/> Other single spontaneous delivery<lb/> 14<lb/> O80.9<lb/> Single spontaneous delivery, unspecified<lb/> 14<lb/> O81.0<lb/> </bibl>
-<bibl>Low forceps delivery<lb/> 14<lb/> O81.1<lb/> </bibl>
-<bibl>Mid-cavity forceps delivery ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O81.2<lb/> </bibl>
-<bibl>Mid-cavity forceps with rotation<lb/> 14<lb/> O81.3<lb/> Other and unspecified forceps delivery<lb/> 14<lb/> O81.4<lb/> Vacuum extractor delivery<lb/> 14<lb/> O81.5<lb/> Delivery by combination of forceps and vacuum extractor<lb/> 14<lb/> O82.0<lb/> Delivery by elective caesarean section<lb/> 14<lb/> O82.1<lb/> Delivery by emergency caesarean section<lb/> 14<lb/> O82.2<lb/> Delivery by caesarean hysterectomy<lb/> 14<lb/> O82.8<lb/> Other single delivery by caesarean section<lb/> 14<lb/> O82.9<lb/> Delivery by caesarean section, unspecified<lb/> 14<lb/> O85<lb/> Puerperal sepsis<lb/> 14<lb/> O86.0<lb/> Infection of obstetric surgical wound<lb/> 14<lb/> O86.1<lb/> Other infection of genital tract following delivery<lb/> 14<lb/> O86.2<lb/> </bibl>
-<bibl>Urinary tract infection following delivery<lb/> 14<lb/> O86.3<lb/> </bibl>
-<bibl>Other genitourinary tract infections following delivery<lb/> 14<lb/> O86.4<lb/> Pyrexia of unknown origin following delivery<lb/> 14<lb/> O86.8<lb/> Other specified puerperal infections<lb/> 14<lb/> O87.0<lb/> Superficial thrombophlebitis in the puerperium<lb/> 14<lb/> O87.1<lb/> </bibl>
-<bibl>Deep phlebothrombosis in the puerperium<lb/> 14<lb/> O87.2<lb/> Haemorrhoids in the puerperium<lb/> 14<lb/> O87.3<lb/> </bibl>
-<bibl>Cerebral venous thrombosis in the puerperium<lb/> 14<lb/> O87.8<lb/> </bibl>
-<bibl>Other venous complications in the puerperium<lb/> 14<lb/> O87.9<lb/> Venous complication in the puerperium, unspecified<lb/> 14<lb/> O88.0<lb/> Obstetric air embolism<lb/> 14<lb/> O88.1<lb/> </bibl>
-<bibl>Amniotic fluid embolism<lb/> 14<lb/> O88.2<lb/> Obstetric blood-clot embolism<lb/> 14<lb/> O88.3<lb/> </bibl>
-<bibl>Obstetric pyaemic and septic embolism<lb/> 14<lb/> O88.8<lb/> </bibl>
-<bibl>Other obstetric embolism<lb/> 14<lb/> O89.0<lb/> Pulmonary complications of anaesthesia during the puerperium<lb/> 14<lb/> O89.1<lb/> Cardiac complications of anaesthesia during the puerperium<lb/> 14<lb/> O89.2<lb/> Central nervous system complications of anaesthesia during the puerperium<lb/> 14<lb/> O89.3<lb/> Toxic reaction to local anaesthesia during the puerperium<lb/> 14<lb/> O89.4<lb/> Spinal and epidural anaesthesia-induced headache during the puerperium<lb/> 14<lb/> O89.5<lb/> Other complications of spinal and epidural anaesthesia during the puerperium<lb/> 14<lb/> O89.6<lb/> Failed or difficult intubation during the puerperium<lb/> 14<lb/> O89.8<lb/> Other complications of anaesthesia during the puerperium<lb/> 14<lb/> O89.9<lb/> Complication of anaesthesia during the puerperium, unspecified<lb/> 14<lb/> O90.0<lb/> Disruption of caesarean section wound<lb/> 14<lb/> O90.1<lb/> Disruption of perineal obstetric wound<lb/> 14<lb/> O90.2<lb/> Haematoma of obstetric wound<lb/> 14<lb/> O90.3<lb/> Cardiomyopathy in the puerperium<lb/> 14<lb/> O90.4<lb/> Postpartum acute renal failure<lb/> 14<lb/> O90.5<lb/> </bibl>
-<bibl>Postpartum thyroiditis<lb/> 14<lb/> O90.8<lb/> Other complications of the puerperium, not elsewhere classified<lb/> 14<lb/> O90.9<lb/> Complication of the puerperium, unspecified<lb/> 14<lb/> O91.0<lb/> Infection of nipple associated with childbirth<lb/> 14<lb/> O91.1<lb/> Abscess of breast associated with childbirth ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O91.2<lb/> Nonpurulent mastitis associated with childbirth<lb/> 14<lb/> O92.0<lb/> Retracted nipple associated with childbirth<lb/> 14<lb/> O92.1<lb/> Cracked nipple associated with childbirth<lb/> 14<lb/> O92.2<lb/> Other and unspecified disorders of breast associated with childbirth<lb/> 14<lb/> O92.3<lb/> </bibl>
-<bibl>Agalactia<lb/> 14<lb/> O92.4<lb/> Hypogalactia<lb/> 14<lb/> O92.5<lb/> Suppressed lactation<lb/> 14<lb/> O92.6<lb/> Galactorrhoea<lb/> 14<lb/> O92.7<lb/> Other and unspecified disorders of lactation<lb/> 14<lb/> O94<lb/> Sequelae of complication of pregnancy, childbirth and the puerperium<lb/> 14<lb/> O95<lb/> Obstetric death of unspecified cause<lb/> 14<lb/> O96<lb/> Death from any obstetric cause occurring more than 42 days but less than one year<lb/> after delivery<lb/> 14<lb/> O97<lb/> Death from sequelae of direct obstetric causes<lb/> 14<lb/> O98.0<lb/> Tuberculosis complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.1<lb/> Syphilis complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.2<lb/> </bibl>
-<bibl>Gonorrhoea complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.3<lb/> Other infections with a predominantly sexual mode of transmission complicating<lb/> pregnancy, childbirth and the puerperium<lb/> 14<lb/> </bibl>
-<bibl>O98.4<lb/> Viral hepatitis complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.5<lb/> Other viral diseases complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.6<lb/> </bibl>
-<bibl>Protozoal diseases complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.8<lb/> </bibl>
-<bibl>Other maternal infectious and parasitic diseases complicating pregnancy, childbirth<lb/> and the puerperium<lb/> 14<lb/> </bibl>
-<bibl>O98.9<lb/> </bibl>
-<bibl>Unspecified maternal infectious or parasitic disease complicating pregnancy,<lb/> childbirth and the puerperium<lb/> 14<lb/> </bibl>
-<bibl>O99.0<lb/> Anaemia complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O99.1<lb/> Other diseases of the blood and blood-forming organs and certain disorders involving<lb/> the immune mechanism complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> </bibl>
-<bibl>O99.2<lb/> </bibl>
-<bibl>Endocrine, nutritional and metabolic diseases complicating pregnancy, childbirth and<lb/> the puerperium<lb/> 14<lb/> </bibl>
-<bibl>O99.3<lb/> </bibl>
-<bibl>Mental disorders and diseases of the nervous system complicating pregnancy,<lb/> childbirth and the puerperium<lb/> 14<lb/> </bibl>
-<bibl>O99.4<lb/> Diseases of the circulatory system complicating pregnancy, childbirth and the<lb/> puerperium<lb/> 14<lb/> </bibl>
-<bibl>O99.5<lb/> Diseases of the respiratory system complicating pregnancy, childbirth and the<lb/> puerperium<lb/> 14<lb/> </bibl>
-<bibl>O99.6<lb/> Diseases of the digestive system complicating pregnancy, childbirth and the<lb/> puerperium<lb/> 14<lb/> </bibl>
-<bibl>O99.7<lb/> Diseases of the skin and subcutaneous tissue complicating pregnancy, childbirth and<lb/> the puerperium<lb/> 14<lb/> </bibl>
-<bibl>O99.8<lb/> </bibl>
-<bibl>Other specified diseases and conditions complicating pregnancy, childbirth and the<lb/> puerperium<lb/> 14<lb/> </bibl>
-<bibl>Z32.0<lb/> Pregnancy, not (yet) confirmed<lb/> 14<lb/> Z32.1<lb/> Pregnancy confirmed<lb/> 14<lb/> Z33<lb/> Pregnant state, incidental<lb/> 14<lb/> Z34.0<lb/> Supervision of normal first pregnancy ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> Z34.8<lb/> Supervision of other normal pregnancy<lb/> 14<lb/> Z34.9<lb/> Supervision of normal pregnancy, unspecified<lb/> 14<lb/> Z35.0<lb/> Supervision of pregnancy with history of infertility<lb/> 14<lb/> Z35.1<lb/> Supervision of pregnancy with history of abortive outcome<lb/> 14<lb/> Z35.2<lb/> Supervision of pregnancy with other poor reproductive or obstetric history<lb/> 14<lb/> Z35.3<lb/> Supervision of pregnancy with history of insufficient antenatal care<lb/> 14<lb/> Z35.4<lb/> Supervision of pregnancy with grand multiparity<lb/> 14<lb/> Z35.5<lb/> Supervision of elderly primigravida<lb/> 14<lb/> Z35.6<lb/> Supervision of very young primigravida<lb/> 14<lb/> Z35.8<lb/> Supervision of other high-risk pregnancies<lb/> 14<lb/> Z35.9<lb/> Supervision of high-risk pregnancy, unspecified<lb/> 14<lb/> Z36.0<lb/> Antenatal screening for chromosomal anomalies<lb/> 14<lb/> Z36.1<lb/> Antenatal screening for raised alphafetoprotein level<lb/> 14<lb/> Z36.2<lb/> Other antenatal screening based on amniocentesis<lb/> 14<lb/> Z36.3<lb/> Antenatal screening for malformations using ultrasound and other physical methods<lb/> 14<lb/> Z36.4<lb/> Antenatal screening for fetal growth retardation using ultrasound and other physical<lb/> methods<lb/> 14<lb/> </bibl>
-<bibl>Z36.5<lb/> Antenatal screening for isoimmunization<lb/> 14<lb/> Z36.8<lb/> Other antenatal screening<lb/> 14<lb/> Z36.9<lb/> Antenatal screening, unspecified<lb/> 14<lb/> Z37.0<lb/> Single live birth<lb/> 14<lb/> Z37.1<lb/> Single stillbirth<lb/> 14<lb/> Z37.2<lb/> Twins, both liveborn<lb/> 14<lb/> Z37.3<lb/> </bibl>
-<bibl>Twins, one liveborn and one stillborn<lb/> 14<lb/> Z37.4<lb/> Twins, both stillborn<lb/> 14<lb/> Z37.5<lb/> Other multiple births, all liveborn<lb/> 14<lb/> Z37.6<lb/> Other multiple births, some liveborn<lb/> 14<lb/> Z37.7<lb/> Other multiple births, all stillborn<lb/> 14<lb/> Z37.9<lb/> Outcome of delivery, unspecified<lb/> 14<lb/> Z39.0<lb/> </bibl>
-<bibl>Care and examination immediately after delivery<lb/> 14<lb/> Z39.1<lb/> </bibl>
-<bibl>Care and examination of lactating mother<lb/> 14<lb/> Z39.2<lb/> </bibl>
-<bibl>Routine postpartum follow-up<lb/> 14<lb/> </bibl>
-<bibl>Z64.0<lb/> Problems related to unwanted pregnancy REFERENCES<lb/> </bibl>
+        Acute infection of pinna (Oct 05)<lb/> 73038<lb/> 
+Periostitis nec (Oct 05)<lb/> 38012<lb/> 
+Acute swimmers&apos; ear (Oct 05)<lb/> 73039<lb/> 
+Periostitis-mult (Oct 05)<lb/> 38013<lb/> 
+Ac infect extern ear nec (Oct 05)<lb/> 73080<lb/> 
+Bone infect nec-unspec (Oct 05)<lb/> 38014<lb/> 
+Malignant otitis externa (Oct 05)<lb/> 73081<lb/> 
+Bone infect nec-shlder (Oct 05)<lb/> 38150<lb/> 
+Eustachian salping nos (Oct 05)<lb/> 73082<lb/> 
+Bone infect nec-up/arm (Oct 05)<lb/> 38151<lb/> 
+Ac eustachian salping (Oct 05)<lb/> 73083<lb/> 
+Bone infect nec-forearm (Oct 05)<lb/> 38200<lb/> 
+Ac supp otitis media nos (Oct 05)<lb/> 73084<lb/> 
+Bone infect nec-hand (Oct 05)<lb/> 38201<lb/> 
+Ac supp om w drum rupt (Oct 05)<lb/> 73085<lb/> 
+Bone infect nec-pelvis (Oct 05)<lb/> 38202<lb/> 
+Ac supp om in oth dis (Oct 05)<lb/> 73086<lb/> 
+Bone infect nec-l/leg (Oct 05)<lb/> 3821<lb/> 
+Chr tubotymp supp otitis media (Oct 05) 73087<lb/> 
+Bone infect nec-ankle (Oct 05)<lb/> 3822<lb/> 
+Chr atticoantral supp otitis media(Oct 05)73088<lb/> 
+Bone infect nec-oth site (Oct 05)<lb/> 3823<lb/> 
+Chr supp otitis media nos (Oct 05)<lb/> 73089<lb/> 
+Bone infect nec-mult (Oct 05)<lb/> 3824<lb/> 
+Suppur otitis media nos (Oct 05)<lb/> 73090<lb/> 
+Bone infec nos-unsp site (Oct 05)<lb/> 3829<lb/> Otitis media nos (Oct 05)<lb/> 73091<lb/> 
+Bone infect nos-shlder (Oct 05)<lb/> 38300<lb/> 
+Ac mastoiditis w/o compl (Oct 05)<lb/> 73092<lb/> 
+Bone infect nos-up/arm (Oct 05)<lb/> 38301<lb/> 
+Subperi mastoid abscess (Oct 05)<lb/> 73093<lb/> 
+Bone infect nos-forearm (Oct 05)<lb/> 38302<lb/> 
+Ac mastoiditis-compl nec (Oct 05)<lb/> 73094<lb/> 
+Bone infect nos-hand (Oct 05)<lb/> 38320<lb/> 
+Petrositis nos (Oct 05)<lb/> 73095<lb/> 
+Bone infect nos-pelvis (Oct 05)<lb/> 38321<lb/> 
+Acute petrositis (Oct 05)<lb/> 73096<lb/> 
+Bone infect nos-l/leg (Oct 05)<lb/> 38400<lb/> 
+Acute myringitis nos (Oct 05)<lb/> 73097<lb/> 
+Bone infect nos-ankle (Oct 05)<lb/> 38630<lb/> 
+Labyrinthitis nos (Oct 05)<lb/> 73098<lb/> 
+Bone infect nos-oth site (Oct 05)<lb/> 38631<lb/> 
+Serous labyrinthitis (Oct 05)<lb/> 73099<lb/> 
+Bone infect nos-mult (Oct 05)<lb/> 38632<lb/> 
+Circumscri labyrinthitis (Oct 05)<lb/> 7713<lb/> 
+Tetanus neonatorum (Oct 05)<lb/> 38633<lb/> 
+Suppurativ labyrinthitis (Oct 05)<lb/> 7714<lb/> 
+Omphalitis of newborn (Oct 05)<lb/> 4200<lb/> 
+Ac pericardit in oth dis (Oct 05)<lb/> 7715<lb/> 
+Neonatal infec mastitis (Oct 05)<lb/> 42090<lb/> 
+Acute pericarditis nos (Oct 05)<lb/> 77181<lb/> 
+Nb septicemia sepsis (Oct 05)<lb/> 42099<lb/> 
+Acute pericarditis nec (Oct 05)<lb/> 77182<lb/> 
+Nb urinary tract infectn (Oct 05)<lb/> 4210<lb/> 
+Ac/subac bact endocard (Oct 05)<lb/> 77183<lb/> 
+Bacteremia of newborn (Oct 05)<lb/> 4211<lb/> 
+Ac/subac infect endocard (Oct 05)<lb/> 77189<lb/> 
+Perinatal infection nec (Oct 05)<lb/> 4219<lb/> 
+Ac/subac endocardit nos (Oct 05)<lb/> 7775<lb/> 
+Necrot enterocolitis nb (Oct 05)<lb/> 42292<lb/> 
+Septic myocarditis (Oct 05)<lb/> 7854<lb/> 
+Gangrene (Oct 05)<lb/> 4610<lb/> 
+Ac maxillary sinusitis (Oct 05)<lb/> 78552<lb/> 
+Septic shock (Oct 05)<lb/> 4611<lb/> 
+Ac frontal sinusitis (Oct 05)<lb/> 7907<lb/> 
+Bacteremia (Oct 05)<lb/> 4612<lb/> 
+Ac ethmoidal sinusitis (Oct 05)<lb/> 9101<lb/> 
+Abrasion head-infected (Oct 05)<lb/> 
+W-2<lb/> ICD-10-WHO cancer codes: Infection Due to Medical Care Postoperative Sepsis -<lb/>Denominator exclusion, if principal diagnosis or secondary diagnosis (continued)<lb/> C76.8<lb/> 
+Malignant neoplasm of other and ill-defined sites: Overlapping lesion of other and ill-<lb/>defined sites<lb/> C77.0<lb/> Secondary and unspecified malignant neoplasm: Lymph nodes of head, face and neck<lb/> C77.1<lb/> Secondary and unspecified malignant neoplasm: Intrathoracic lymph nodes<lb/> C77.2<lb/> Secondary and unspecified malignant neoplasm: Intra-abdominal lymph nodes<lb/> C77.3<lb/> Secondary and unspecified malignant neoplasm: Axillary and upper limb lymph nodes<lb/> C77.4<lb/> Secondary and unspecified malignant neoplasm: Inguinal and lower limb lymph nodes<lb/> C77.5<lb/> Secondary and unspecified malignant neoplasm: Intrapelvic lymph nodes<lb/> C77.8<lb/> Secondary and unspecified malignant neoplasm: Lymph nodes of multiple regions<lb/> C77.9<lb/> Secondary and unspecified malignant neoplasm: Lymph node, unspecified<lb/> C78.0<lb/> Secondary malignant neoplasm of lung<lb/> C78.1<lb/> Secondary malignant neoplasm of mediastinum<lb/> C78.2<lb/> Secondary malignant neoplasm of pleura<lb/> C78.3<lb/> Secondary malignant neoplasm of other and unspecified respiratory organs<lb/> C78.4<lb/> Secondary malignant neoplasm of small intestine<lb/> C78.5<lb/> Secondary malignant neoplasm of large intestine and rectum<lb/> C78.6<lb/> Secondary malignant neoplasm of retroperitoneum and peritoneum<lb/> C78.7<lb/> Secondary malignant neoplasm of liver<lb/> C78.8<lb/> Secondary malignant neoplasm of other and unspecified digestive organs<lb/> C79.0<lb/> Secondary malignant neoplasm of kidney and renal pelvis<lb/> C79.1<lb/> Secondary malignant neoplasm of bladder and other and unspecified urinary organs<lb/> C79.2<lb/> Secondary malignant neoplasm of skin<lb/> C79.3<lb/> Secondary malignant neoplasm of brain and cerebral meninges<lb/> C79.4<lb/> Secondary malignant neoplasm of other and unspecified parts of nervous system<lb/> C79.5<lb/> Secondary malignant neoplasm of bone and bone marrow<lb/> C79.6<lb/> Secondary malignant neoplasm of ovary<lb/> C79.7<lb/> Secondary malignant neoplasm of adrenal gland<lb/> C79.8<lb/> Secondary malignant neoplasm of other specified sites<lb/> C80<lb/> Malignant neoplasm without specification of site<lb/> C81.0<lb/> 
+Hodgkin&apos;s disease: Lymphocytic predominance<lb/> C81.1<lb/> 
+Hodgkin&apos;s disease: Nodular sclerosis<lb/> C81.2<lb/> 
+Hodgkin&apos;s disease: Mixed cellularity<lb/> C81.3<lb/> 
+Hodgkin&apos;s disease: Lymphocytic depletion<lb/> C81.7<lb/> 
+Hodgkin&apos;s disease: Other Hodgkin&apos;s disease<lb/> C81.9<lb/> 
+Hodgkin&apos;s disease: Hodgkin&apos;s disease, unspecified<lb/> C82.0<lb/> 
+Non-Hodgkin&apos;s lymphoma: Small cleaved cell, follicular<lb/> C82.1<lb/> 
+Non-Hodgkin&apos;s lymphoma: Mixed small cleaved and large cell, follicular<lb/> C82.2<lb/> 
+Non-Hodgkin&apos;s lymphoma: Large cell, follicular<lb/> C82.7<lb/> Other types of follicular non-Hodgkin&apos;s lymphoma<lb/> C82.9<lb/> 
+Follicular non-Hodgkin&apos;s lymphoma, unspecified<lb/> C83.0<lb/> 
+Non-Hodgkin&apos;s lymphoma: Small cell (diffuse)<lb/> C83.1<lb/> 
+Non-Hodgkin&apos;s lymphoma: Small cleaved cell (diffuse)<lb/> C83.2<lb/> 
+Non-Hodgkin&apos;s lymphoma: Mixed small and large cell (diffuse)<lb/> C83.3<lb/> 
+Non-Hodgkin&apos;s lymphoma: Large cell (diffuse)<lb/> C83.4<lb/> 
+Non-Hodgkin&apos;s lymphoma: Immunoblastic (diffuse)<lb/> 
+ICD-9-CM Cardiosurgery procedure codes (continued):<lb/> 3527<lb/> Replace tric valv-tissue<lb/> 3712<lb/> 
+Pericardiotomy<lb/> 3528<lb/> Replace tricusp valv nec<lb/> 3724<lb/> Pericardial biopsy<lb/> 3531<lb/> Papillary muscle ops<lb/> 3725<lb/> Cardiac biopsy<lb/> 3532<lb/> 
+Chordae tendineae ops<lb/> 3729<lb/> 
+Hrt/pericar dx proc nec<lb/> 3533<lb/> Annuloplasty<lb/> 3731<lb/> Pericardiectomy<lb/> 3534<lb/> Infundibulectomy<lb/> 3732<lb/> Heart aneurysm excision<lb/> 3535<lb/> Trabecul carneae cord op<lb/> 3733<lb/> 
+Exc/dest hrt lesion open<lb/> 3539<lb/> Tiss adj to valv ops nec<lb/> 3735<lb/> Partial ventriculectomy<lb/> 3542<lb/> Create septal defect<lb/> 3741<lb/> Impl cardiac support dev<lb/> 3550<lb/> Prosth rep hrt septa nos<lb/> 3749<lb/> 
+Heart/pericard repr nec<lb/> 3551<lb/> Pros rep atrial def-opn<lb/> 3751<lb/> 
+Heart transplantation<lb/> 3553<lb/> Prost repair ventric def<lb/> 3752<lb/> Implant tot rep hrt sys<lb/> 3554<lb/> Pros rep endocar cushion<lb/> 3753<lb/> 
+Repl/rep thorac unit hrt<lb/> 3560<lb/> Grft repair hrt sept nos<lb/> 3754<lb/> 
+Repl/rep oth tot hrt sys<lb/> 3561<lb/> Graft repair atrial def<lb/> 3761<lb/> Pulsation balloon implan<lb/> 3562<lb/> Graft repair ventric def<lb/> 3762<lb/> Implant hrt asst sys nec<lb/> 3563<lb/> Grft rep endocar cushion<lb/> 3763<lb/> Replace hrt assist syst<lb/> 3570<lb/> Heart septa repair nos<lb/> 3764<lb/> Remove heart assist sys<lb/> 3571<lb/> Atria septa def rep nec<lb/> 3765<lb/> 
+Imp ext pul hrt asst sys<lb/> 3572<lb/> Ventr septa def rep nec<lb/> 3766<lb/> 
+Imp imp pul hrt asst sys<lb/> 3573<lb/> Endocar cushion rep nec<lb/> 3767<lb/> 
+Imp cardiomyostimul sys<lb/> 3581<lb/> Tot repair tetral fallot<lb/> 3799<lb/> Other heart/pericard ops<lb/> 3582<lb/> Total repair of tapvc<lb/> 3791<lb/> Open chest cardiac massage<lb/> 3583<lb/> Tot rep truncus arterios<lb/> 3804<lb/> Incision aorta<lb/> 3584<lb/> Tot cor transpos grt ves<lb/> 3805<lb/> Incision oth thorac vessels<lb/> 3591<lb/> Interat ven retrn transp<lb/> 3814<lb/> Endarterectomy aorta<lb/> 3592<lb/> Conduit rt vent-pul art<lb/> 3815<lb/> Endart oth thorac vessels<lb/> 3593<lb/> Conduit left ventr-aorta<lb/> 3834<lb/> 
+Resect aorta w anastomosis<lb/> 3594<lb/> Conduit artium-pulm art<lb/> 3835<lb/> Resect aorta w replacement<lb/> 3595<lb/> Heart repair revision<lb/> 3845<lb/> 
+Resect thorac vessel w replace<lb/> 3598<lb/> Other heart septa ops<lb/> 3855<lb/> Ligation strip thorac vein thorac<lb/> 3599<lb/> Other heart valve ops<lb/> 3864<lb/> Oth exc aorta<lb/> 3603<lb/> Open coronry angioplasty<lb/> 3865<lb/> 
+Oth exc oth thorac vessels<lb/> 3610<lb/> Aortocoronary bypass nos<lb/> 3884<lb/> 
+Oth surg occlus aorta<lb/> 3611<lb/> Aortocor bypas-1 cor art<lb/> 3885<lb/> 
+Oth surg occlus oth thorac vessels<lb/> 3612<lb/> Aortocor bypas-2 cor art<lb/> 390<lb/> 
+Systemic pulm art shunt<lb/> 3613<lb/> Aortocor bypas-3 cor art<lb/> 3921<lb/> 
+Caval pulm art anastomosis<lb/> 3614<lb/> Aortcor bypas-4+ cor art<lb/> 3922<lb/> 
+Aorta subclav carotid bypass<lb/> 3615<lb/> 1 int mam-cor art bypass<lb/> 3923<lb/> Oth intrathorac vasc shunt bypass<lb/> M-1 Code list for MDC-8 (Postoperative hip fracture)<lb/> ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> A18.0<lb/> Tuberculosis of bones and joints<lb/> 08<lb/> A54.4<lb/> Gonococcal infection of musculoskeletal system<lb/> 08<lb/> A66.6<lb/> 
+Bone and joint lesions of yaws<lb/> 08<lb/> B90.2<lb/> 
+Sequelae of tuberculosis of bones and joints<lb/> 08<lb/> C40.0<lb/> 
+Malignant neoplasm: Scapula and long bones of upper limb<lb/> 08<lb/> C40.1<lb/> Malignant neoplasm: Short bones of upper limb<lb/> 08<lb/> C40.2<lb/> Malignant neoplasm: Long bones of lower limb<lb/> 08<lb/> C40.3<lb/> Malignant neoplasm: Short bones of lower limb<lb/> 08<lb/> C40.8<lb/> 
+Malignant neoplasm: Overlapping lesion of bone and articular cartilage of limbs<lb/> 08<lb/> C40.9<lb/> 
+Malignant neoplasm: Bone and articular cartilage of limb, unspecified<lb/> 08<lb/> C41.0<lb/> Malignant neoplasm: Bones of skull and face<lb/> 08<lb/> C41.1<lb/> Malignant neoplasm: Mandible<lb/> 08<lb/> C41.2<lb/> Malignant neoplasm: Vertebral column<lb/> 08<lb/> C41.3<lb/> 
+Malignant neoplasm: Ribs, sternum and clavicle<lb/> 08<lb/> C41.4<lb/> 
+Malignant neoplasm: Pelvic bones, sacrum and coccyx<lb/> 08<lb/> C41.8<lb/> 
+Malignant neoplasm: Overlapping lesion of bone and articular cartilage<lb/> 08<lb/> C41.9<lb/> 
+Malignant neoplasm: Bone and articular cartilage, unspecified<lb/> 08<lb/> C45.7<lb/> Mesothelioma of other sites<lb/> 08<lb/> C45.9<lb/> Mesothelioma, unspecified<lb/> 08<lb/> C47.0<lb/> 
+Malignant neoplasm: Peripheral nerves of head, face and neck<lb/> 08<lb/> C47.1<lb/> 
+Malignant neoplasm: Peripheral nerves of upper limb, including shoulder<lb/> 08<lb/> C47.2<lb/> 
+Malignant neoplasm: Peripheral nerves of lower limb, including hip<lb/> 08<lb/> C47.3<lb/> 
+Malignant neoplasm: Peripheral nerves of thorax<lb/> 08<lb/> C47.4<lb/> 
+Malignant neoplasm: Peripheral nerves of abdomen<lb/> 08<lb/> C47.5<lb/> 
+Malignant neoplasm: Peripheral nerves of pelvis<lb/> 08<lb/> C47.6<lb/> 
+Malignant neoplasm: Peripheral nerves of trunk, unspecified<lb/> 08<lb/> C47.8<lb/> 
+Malignant neoplasm: Overlapping lesion of peripheral nerves and autonomic nervous<lb/> system<lb/> 08<lb/> 
+C47.9<lb/> 
+Malignant neoplasm: Peripheral nerves and autonomic nervous system, unspecified<lb/> 08<lb/> C49.0<lb/> 
+Malignant neoplasm: Connective and soft tissue of head, face and neck<lb/> 08<lb/> C49.1<lb/> 
+Malignant neoplasm: Connective and soft tissue of upper limb, including shoulder<lb/> 08<lb/> C49.2<lb/> 
+Malignant neoplasm: Connective and soft tissue of lower limb, including hip<lb/> 08<lb/> C49.3<lb/> 
+Malignant neoplasm: Connective and soft tissue of thorax<lb/> 08<lb/> C49.4<lb/> 
+Malignant neoplasm: Connective and soft tissue of abdomen<lb/> 08<lb/> C49.5<lb/> 
+Malignant neoplasm: Connective and soft tissue of pelvis<lb/> 08<lb/> C49.6<lb/> 
+Malignant neoplasm: Connective and soft tissue of trunk, unspecified<lb/> 08<lb/> C49.8<lb/> 
+Malignant neoplasm: Overlapping lesion of connective and soft tissue<lb/> 08<lb/> C49.9<lb/> 
+Malignant neoplasm: Connective and soft tissue, unspecified<lb/> 08<lb/> C79.5<lb/> Secondary malignant neoplasm of bone and bone marrow<lb/> 08<lb/> D16.0<lb/> 
+Benign neoplasm: Scapula and long bones of upper limb<lb/> 08<lb/> D16.1<lb/> 
+Benign neoplasm: Short bones of upper limb<lb/> 08<lb/> D16.2<lb/> 
+Benign neoplasm: Long bones of lower limb<lb/> 08<lb/> D16.3<lb/> 
+Benign neoplasm: Short bones of lower limb<lb/> 08<lb/> D16.4<lb/> Benign neoplasm: Bones of skull and face ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> S13.1<lb/> Dislocation of cervical vertebra<lb/> 08<lb/> S13.2<lb/> Dislocation of other and unspecified parts of neck<lb/> 08<lb/> S13.3<lb/> 
+Multiple dislocations of neck<lb/> 08<lb/> S13.4<lb/> Sprain and strain of cervical spine<lb/> 08<lb/> S13.5<lb/> Sprain and strain of thyroid region<lb/> 08<lb/> S13.6<lb/> 
+Sprain and strain of joints and ligaments of other and unspecified parts of neck<lb/> 08<lb/> S16<lb/> Injury of muscle and tendon at neck level<lb/> 08<lb/> S22.0<lb/> Fracture of thoracic vertebra<lb/> 08<lb/> S22.1<lb/> Multiple fractures of thoracic spine<lb/> 08<lb/> S22.8<lb/> Fracture of other parts of bony thorax<lb/> 08<lb/> S22.9<lb/> Fracture of bony thorax, part unspecified<lb/> 08<lb/> S23.0<lb/> Traumatic rupture of thoracic intervertebral disc<lb/> 08<lb/> S23.1<lb/> Dislocation of thoracic vertebra<lb/> 08<lb/> S23.3<lb/> Sprain and strain of thoracic spine<lb/> 08<lb/> S23.5<lb/> 
+Sprain and strain of other and unspecified parts of thorax<lb/> 08<lb/> S29.0<lb/> Injury of muscle and tendon at thorax level<lb/> 08<lb/> S32.0<lb/> Fracture of lumbar vertebra<lb/> 08<lb/> S32.1<lb/> Fracture of sacrum<lb/> 08<lb/> S32.2<lb/> Fracture of coccyx<lb/> 08<lb/> S32.3<lb/> Fracture of ilium<lb/> 08<lb/> S32.4<lb/> Fracture of acetabulum<lb/> 08<lb/> S32.5<lb/> Fracture of pubis<lb/> 08<lb/> S32.7<lb/> Multiple fractures of lumbar spine and pelvis<lb/> 08<lb/> S32.8<lb/> 
+Fracture of other and unspecified parts of lumbar spine and pelvis<lb/> 08<lb/> S33.0<lb/> Traumatic rupture of lumbar intervertebral disc<lb/> 08<lb/> S33.1<lb/> Dislocation of lumbar vertebra<lb/> 08<lb/> S33.2<lb/> Dislocation of sacroiliac and sacrococcygeal joint<lb/> 08<lb/> S33.3<lb/> 
+Dislocation of other and unspecified parts of lumbar spine and pelvis<lb/> 08<lb/> S33.4<lb/> Traumatic rupture of symphysis pubis<lb/> 08<lb/> S33.5<lb/> Sprain and strain of lumbar spine<lb/> 08<lb/> S33.6<lb/> Sprain and strain of sacroiliac joint<lb/> 08<lb/> S33.7<lb/> 
+Sprain and strain of other and unspecified parts of lumbar spine and pelvis<lb/> 08<lb/> S39.0<lb/> 
+Injury of muscle and tendon of abdomen, lower back and pelvis<lb/> 08<lb/> S42.0<lb/> Fracture of clavicle<lb/> 08<lb/> S42.1<lb/> Fracture of scapula<lb/> 08<lb/> S42.2<lb/> Fracture of upper end of humerus<lb/> 08<lb/> S42.3<lb/> Fracture of shaft of humerus<lb/> 08<lb/> S42.4<lb/> Fracture of lower end of humerus<lb/> 08<lb/> S42.7<lb/> 
+Multiple fractures of clavicle, scapula and humerus<lb/> 08<lb/> S42.8<lb/> Fracture of other parts of shoulder and upper arm<lb/> 08<lb/> S42.9<lb/> Fracture of shoulder girdle, part unspecified<lb/> 08<lb/> S43.0<lb/> Dislocation of shoulder joint<lb/> 08<lb/> S43.1<lb/> Dislocation of acromioclavicular joint<lb/> 08<lb/> S43.2<lb/> Dislocation of sternoclavicular joint<lb/> 08<lb/> S43.3<lb/> 
+Dislocation of other and unspecified parts of shoulder girdle<lb/> 08<lb/> S43.4<lb/> Sprain and strain of shoulder joint ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> S43.5<lb/> Sprain and strain of acromioclavicular joint<lb/> 08<lb/> S43.7<lb/> 
+Sprain and strain of other and unspecified parts of shoulder girdle<lb/> 08<lb/> S46.0<lb/> Injury of tendon of the rotator cuff of shoulder<lb/> 08<lb/> S46.1<lb/> Injury of muscle and tendon of long head of biceps<lb/> 08<lb/> S46.2<lb/> Injury of muscle and tendon of other parts of biceps<lb/> 08<lb/> S46.3<lb/> Injury of muscle and tendon of triceps<lb/> 08<lb/> S46.7<lb/> Injury of multiple muscles and tendons at shoulder and upper arm level<lb/> 08<lb/> S46.8<lb/> Injury of other muscles and tendons at shoulder and upper arm level<lb/> 08<lb/> S46.9<lb/> Injury of unspecified muscle and tendon at shoulder and upper arm level<lb/> 08<lb/> S52.0<lb/> Fracture of upper end of ulna<lb/> 08<lb/> S52.1<lb/> Fracture of upper end of radius<lb/> 08<lb/> S52.2<lb/> Fracture of shaft of ulna<lb/> 08<lb/> S52.3<lb/> Fracture of shaft of radius<lb/> 08<lb/> S52.4<lb/> 
+Fracture of shafts of both ulna and radius<lb/> 08<lb/> S52.5<lb/> Fracture of lower end of radius<lb/> 08<lb/> S52.6<lb/> Fracture of lower end of both ulna and radius<lb/> 08<lb/> S52.7<lb/> Multiple fractures of forearm<lb/> 08<lb/> S52.8<lb/> Fracture of other parts of forearm<lb/> 08<lb/> S52.9<lb/> Fracture of forearm, part unspecified<lb/> 08<lb/> S53.0<lb/> Dislocation of radial head<lb/> 08<lb/> S53.1<lb/> Dislocation of elbow, unspecified<lb/> 08<lb/> S53.2<lb/> Traumatic rupture of radial collateral ligament<lb/> 08<lb/> S53.3<lb/> Traumatic rupture of ulnar collateral ligament<lb/> 08<lb/> S53.4<lb/> Sprain and strain of elbow<lb/> 08<lb/> S56.0<lb/> Injury of flexor muscle and tendon of thumb at forearm level<lb/> 08<lb/> S56.1<lb/> Injury of long flexor muscle and tendon of other finger(s) at forearm level<lb/> 08<lb/> S56.2<lb/> Injury of other flexor muscle and tendon at forearm level<lb/> 08<lb/> S56.3<lb/> Injury of extensor or abductor muscles and tendons of thumb at forearm level<lb/> 08<lb/> S56.4<lb/> Injury of extensor muscle and tendon of other finger(s) at forearm level<lb/> 08<lb/> S56.5<lb/> Injury of other extensor muscle and tendon at forearm level<lb/> 08<lb/> S56.7<lb/> Injury of multiple muscles and tendons at forearm level<lb/> 08<lb/> S56.8<lb/> 
+Injury of other and unspecified muscles and tendons at forearm level<lb/> 08<lb/> S62.0<lb/> Fracture of navicular [scaphoid] bone of hand<lb/> 08<lb/> S62.1<lb/> Fracture of other carpal bone(s)<lb/> 08<lb/> 
+S62.2<lb/> Fracture of first metacarpal bone<lb/> 08<lb/> S62.3<lb/> Fracture of other metacarpal bone<lb/> 08<lb/> S62.4<lb/> Multiple fractures of metacarpal bones<lb/> 08<lb/> S62.5<lb/> Fracture of thumb<lb/> 08<lb/> S62.6<lb/> Fracture of other finger<lb/> 08<lb/> S62.7<lb/> Multiple fractures of fingers<lb/> 08<lb/> S62.8<lb/> 
+Fracture of other and unspecified parts of wrist and hand<lb/> 08<lb/> S63.0<lb/> Dislocation of wrist<lb/> 08<lb/> S63.1<lb/> Dislocation of finger<lb/> 08<lb/> S63.2<lb/> 
+Multiple dislocations of fingers<lb/> 08<lb/> S63.3<lb/> Traumatic rupture of ligament of wrist and carpus<lb/> 08<lb/> S63.4<lb/> Traumatic rupture of ligament of finger at metacarpophalangeal and interphalangeal 08<lb/> 
+ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> joint(s)<lb/> S63.5<lb/> Sprain and strain of wrist<lb/> 08<lb/> S63.6<lb/> Sprain and strain of finger(s)<lb/> 08<lb/> 
+S63.7<lb/> 
+Sprain and strain of other and unspecified parts of hand<lb/> 08<lb/> S66.0<lb/> Injury of long flexor muscle and tendon of thumb at wrist and hand level<lb/> 08<lb/> S66.1<lb/> Injury of flexor muscle and tendon of other finger at wrist and hand level<lb/> 08<lb/> S66.2<lb/> Injury of extensor muscle and tendon of thumb at wrist and hand level<lb/> 08<lb/> S66.3<lb/> Injury of extensor muscle and tendon of other finger at wrist and hand level<lb/> 08<lb/> S66.4<lb/> Injury of intrinsic muscle and tendon of thumb at wrist and hand level<lb/> 08<lb/> S66.5<lb/> Injury of intrinsic muscle and tendon of other finger at wrist and hand level<lb/> 08<lb/> S66.6<lb/> Injury of multiple flexor muscles and tendons at wrist and hand level<lb/> 08<lb/> S66.7<lb/> Injury of multiple extensor muscles and tendons at wrist and hand level<lb/> 08<lb/> S66.8<lb/> Injury of other muscles and tendons at wrist and hand level<lb/> 08<lb/> S66.9<lb/> Injury of unspecified muscle and tendon at wrist and hand level<lb/> 08<lb/> S72.0<lb/> Fracture of neck of femur<lb/> 08<lb/> S72.1<lb/> Pertrochanteric fracture<lb/> 08<lb/> S72.2<lb/> Subtrochanteric fracture<lb/> 08<lb/> S72.3<lb/> Fracture of shaft of femur<lb/> 08<lb/> S72.4<lb/> Fracture of lower end of femur<lb/> 08<lb/> S72.7<lb/> Multiple fractures of femur<lb/> 08<lb/> S72.8<lb/> Fractures of other parts of femur<lb/> 08<lb/> S72.9<lb/> Fracture of femur, part unspecified<lb/> 08<lb/> S73.0<lb/> Dislocation of hip<lb/> 08<lb/> S73.1<lb/> Sprain and strain of hip<lb/> 08<lb/> S76.0<lb/> Injury of muscle and tendon of hip<lb/> 08<lb/> S76.1<lb/> Injury of quadriceps muscle and tendon<lb/> 08<lb/> S76.2<lb/> Injury of adductor muscle and tendon of thigh<lb/> 08<lb/> S76.3<lb/> 
+Injury of muscle and tendon of the posterior muscle group at thigh level<lb/> 08<lb/> S76.4<lb/> 
+Injury of other and unspecified muscles and tendons at thigh level<lb/> 08<lb/> S76.7<lb/> Injury of multiple muscles and tendons at hip and thigh level<lb/> 08<lb/> S82.0<lb/> Fracture of patella<lb/> 08<lb/> S82.1<lb/> Fracture of upper end of tibia<lb/> 08<lb/> S82.2<lb/> Fracture of shaft of tibia<lb/> 08<lb/> S82.3<lb/> Fracture of lower end of tibia<lb/> 08<lb/> S82.4<lb/> Fracture of fibula alone<lb/> 08<lb/> S82.5<lb/> Fracture of medial malleolus<lb/> 08<lb/> S82.6<lb/> Fracture of lateral malleolus<lb/> 08<lb/> S82.7<lb/> Multiple fractures of lower leg<lb/> 08<lb/> S82.8<lb/> Fractures of other parts of lower leg<lb/> 08<lb/> S82.9<lb/> Fracture of lower leg, part unspecified<lb/> 08<lb/> S83.0<lb/> Dislocation of patella<lb/> 08<lb/> S83.1<lb/> Dislocation of knee<lb/> 08<lb/> S83.2<lb/> Tear of meniscus, current<lb/> 08<lb/> S83.3<lb/> Tear of articular cartilage of knee, current<lb/> 08<lb/> S83.4<lb/> Sprain and strain involving (fibular)(tibial) collateral ligament of knee<lb/> 08<lb/> S83.5<lb/> Sprain and strain involving (anterior)(posterior) cruciate ligament of knee ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> B85.1<lb/> Pediculosis due to Pediculus humanus corporis<lb/> 09<lb/> B85.2<lb/> Pediculosis, unspecified<lb/> 09<lb/> B85.3<lb/> Phthiriasis<lb/> 09<lb/> B85.4<lb/> 
+Mixed pediculosis and phthiriasis<lb/> 09<lb/> B86<lb/> Scabies<lb/> 09<lb/> B87.0<lb/> Cutaneous myiasis<lb/> 09<lb/> B87.1<lb/> Wound myiasis<lb/> 09<lb/> B87.2<lb/> 
+Ocular myiasis<lb/> 09<lb/> B87.3<lb/> Nasopharyngeal myiasis<lb/> 09<lb/> B87.4<lb/> Aural myiasis<lb/> 09<lb/> B87.8<lb/> Myiasis of other sites<lb/> 09<lb/> B87.9<lb/> 
+Myiasis, unspecified<lb/> 09<lb/> B88.0<lb/> Other acariasis<lb/> 09<lb/> B88.1<lb/> 
+Tungiasis [sandflea infestation]<lb/> 09<lb/> B88.2<lb/> 
+Other arthropod infestations<lb/> 09<lb/> B88.3<lb/> External hirudiniasis<lb/> 09<lb/> B88.9<lb/> Infestation, unspecified<lb/> 09<lb/> C43.0<lb/> Malignant neoplasm: Malignant melanoma of lip<lb/> 09<lb/> C43.2<lb/> 
+Malignant neoplasm: Malignant melanoma of ear and external auricular canal<lb/> 09<lb/> C43.3<lb/> 
+Malignant neoplasm: Malignant melanoma of other and unspecified parts of face<lb/> 09<lb/> C43.4<lb/> 
+Malignant neoplasm: Malignant melanoma of scalp and neck<lb/> 09<lb/> C43.5<lb/> 
+Malignant neoplasm: Malignant melanoma of trunk<lb/> 09<lb/> C43.6<lb/> 
+Malignant neoplasm: Malignant melanoma of upper limb, including shoulder<lb/> 09<lb/> C43.7<lb/> 
+Malignant neoplasm: Malignant melanoma of lower limb, including hip<lb/> 09<lb/> C43.8<lb/> 
+Malignant neoplasm: Overlapping malignant melanoma of skin<lb/> 09<lb/> C43.9<lb/> 
+Malignant neoplasm: Malignant melanoma of skin, unspecified<lb/> 09<lb/> C44.0<lb/> Malignant neoplasm: Skin of lip<lb/> 09<lb/> C44.2<lb/> 
+Malignant neoplasm: Skin of ear and external auricular canal<lb/> 09<lb/> C44.3<lb/> 
+Malignant neoplasm: Skin of other and unspecified parts of face<lb/> 09<lb/> C44.4<lb/> Malignant neoplasm: Skin of scalp and neck<lb/> 09<lb/> C44.5<lb/> Malignant neoplasm: Skin of trunk<lb/> 09<lb/> C44.6<lb/> 
+Malignant neoplasm: Skin of upper limb, including shoulder<lb/> 09<lb/> C44.7<lb/> 
+Malignant neoplasm: Skin of lower limb, including hip<lb/> 09<lb/> C44.8<lb/> 
+Malignant neoplasm: Overlapping lesion of skin<lb/> 09<lb/> C44.9<lb/> 
+Malignant neoplasm: Malignant neoplasm of skin, unspecified<lb/> 09<lb/> C46.0<lb/> 
+Kaposi&apos;s sarcoma of skin<lb/> 09<lb/> C46.1<lb/> 
+Kaposi&apos;s sarcoma of soft tissue<lb/> 09<lb/> C46.7<lb/> 
+Kaposi&apos;s sarcoma of other sites<lb/> 09<lb/> C46.8<lb/> 
+Kaposi&apos;s sarcoma of multiple organs<lb/> 09<lb/> C46.9<lb/> 
+Kaposi&apos;s sarcoma, unspecified<lb/> 09<lb/> C50.0<lb/> Malignant neoplasm: Nipple and areola<lb/> 09<lb/> C50.1<lb/> Malignant neoplasm: Central portion of breast<lb/> 09<lb/> C50.2<lb/> 
+Malignant neoplasm: Upper-inner quadrant of breast<lb/> 09<lb/> C50.3<lb/> 
+Malignant neoplasm: Lower-inner quadrant of breast<lb/> 09<lb/> C50.4<lb/> 
+Malignant neoplasm: Upper-outer quadrant of breast<lb/> 09<lb/> C50.5<lb/> 
+Malignant neoplasm: Lower-outer quadrant of breast ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> C50.6<lb/> Malignant neoplasm: Axillary tail of breast<lb/> 09<lb/> C50.8<lb/> 
+Malignant neoplasm: Overlapping lesion of breast<lb/> 09<lb/> C50.9<lb/> Malignant neoplasm: Breast, unspecified<lb/> 09<lb/> C79.2<lb/> Secondary malignant neoplasm of skin<lb/> 09<lb/> C79.8<lb/> Secondary malignant neoplasm of other specified sites<lb/> 09<lb/> D03.0<lb/> Melanoma in situ of lip<lb/> 09<lb/> D03.2<lb/> 
+Melanoma in situ of ear and external auricular canal<lb/> 09<lb/> D03.3<lb/> 
+Melanoma in situ of other and unspecified parts of face<lb/> 09<lb/> D03.4<lb/> 
+Melanoma in situ of scalp and neck<lb/> 09<lb/> D03.5<lb/> Melanoma in situ of trunk<lb/> 09<lb/> D03.6<lb/> 
+Melanoma in situ of upper limb, including shoulder<lb/> 09<lb/> D03.7<lb/> 
+Melanoma in situ of lower limb, including hip<lb/> 09<lb/> D03.8<lb/> 
+Melanoma in situ of other sites<lb/> 09<lb/> D03.9<lb/> Melanoma in situ, unspecified<lb/> 09<lb/> D04.0<lb/> Carcinoma in situ: Skin of lip<lb/> 09<lb/> D04.2<lb/> Carcinoma in situ: Skin of ear and external auricular canal<lb/> 09<lb/> D04.3<lb/> Carcinoma in situ: Skin of other and unspecified parts of face<lb/> 09<lb/> D04.4<lb/> Carcinoma in situ: Skin of scalp and neck<lb/> 09<lb/> D04.5<lb/> Carcinoma in situ: Skin of trunk<lb/> 09<lb/> D04.6<lb/> Carcinoma in situ: Skin of upper limb, including shoulder<lb/> 09<lb/> D04.7<lb/> Carcinoma in situ: Skin of lower limb, including hip<lb/> 09<lb/> D04.8<lb/> Carcinoma in situ: Skin of other sites<lb/> 09<lb/> D04.9<lb/> Carcinoma in situ: Skin, unspecified<lb/> 09<lb/> D05.0<lb/> 
+Lobular carcinoma in situ<lb/> 09<lb/> D05.1<lb/> 
+Intraductal carcinoma in situ<lb/> 09<lb/> D05.7<lb/> Other carcinoma in situ of breast<lb/> 09<lb/> D05.9<lb/> Carcinoma in situ of breast, unspecified<lb/> 09<lb/> D17.0<lb/> 
+Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck<lb/> 09<lb/> D17.1<lb/> 
+Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk<lb/> 09<lb/> D17.2<lb/> 
+Benign lipomatous neoplasm of skin and subcutaneous tissue of limbs<lb/> 09<lb/> D17.3<lb/> 
+Benign lipomatous neoplasm of skin and subcutaneous tissue of other and<lb/> unspecified sites<lb/> 09<lb/> 
+D17.7<lb/> 
+Benign lipomatous neoplasm of other sites<lb/> 09<lb/> D17.9<lb/> Benign lipomatous neoplasm, unspecified<lb/> 09<lb/> D18.0<lb/> 
+Haemangioma, any site<lb/> 09<lb/> D22.0<lb/> 
+Melanocytic naevi of lip<lb/> 09<lb/> D22.2<lb/> 
+Melanocytic naevi of ear and external auricular canal<lb/> 09<lb/> D22.3<lb/> 
+Melanocytic naevi of other and unspecified parts of face<lb/> 09<lb/> D22.4<lb/> 
+Melanocytic naevi of scalp and neck<lb/> 09<lb/> D22.5<lb/> 
+Melanocytic naevi of trunk<lb/> 09<lb/> D22.6<lb/> 
+Melanocytic naevi of upper limb, including shoulder<lb/> 09<lb/> D22.7<lb/> 
+Melanocytic naevi of lower limb, including hip<lb/> 09<lb/> D22.9<lb/> 
+Melanocytic naevi, unspecified<lb/> 09<lb/> D23.0<lb/> Benign neoplasm: Skin of lip<lb/> 09<lb/> D23.2<lb/> 
+Benign neoplasm: Skin of ear and external auricular canal<lb/> 09<lb/> D23.3<lb/> 
+Benign neoplasm: Skin of other and unspecified parts of face ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> R61.0<lb/> Localized hyperhidrosis<lb/> 09<lb/> R61.1<lb/> Generalized hyperhidrosis<lb/> 09<lb/> R61.9<lb/> 
+Hyperhidrosis, unspecified<lb/> 09<lb/> R92<lb/> Abnormal findings on diagnostic imaging of breast<lb/> 09<lb/> S00.0<lb/> Superficial injury of scalp<lb/> 09<lb/> S00.3<lb/> Superficial injury of nose<lb/> 09<lb/> S00.4<lb/> Superficial injury of ear<lb/> 09<lb/> S00.5<lb/> Superficial injury of lip and oral cavity<lb/> 09<lb/> S00.7<lb/> 
+Multiple superficial injuries of head<lb/> 09<lb/> S00.8<lb/> Superficial injury of other parts of head<lb/> 09<lb/> S00.9<lb/> Superficial injury of head, part unspecified<lb/> 09<lb/> S10.0<lb/> Contusion of throat<lb/> 09<lb/> S10.1<lb/> Other and unspecified superficial injuries of throat<lb/> 09<lb/> S10.7<lb/> 
+Multiple superficial injuries of neck<lb/> 09<lb/> S10.8<lb/> Superficial injury of other parts of neck<lb/> 09<lb/> S10.9<lb/> Superficial injury of neck, part unspecified<lb/> 09<lb/> S20.0<lb/> Contusion of breast<lb/> 09<lb/> S20.1<lb/> Other and unspecified superficial injuries of breast<lb/> 09<lb/> S20.2<lb/> Contusion of thorax<lb/> 09<lb/> S20.3<lb/> 
+Other superficial injuries of front wall of thorax<lb/> 09<lb/> S20.4<lb/> 
+Other superficial injuries of back wall of thorax<lb/> 09<lb/> S20.7<lb/> 
+Multiple superficial injuries of thorax<lb/> 09<lb/> S20.8<lb/> Superficial injury of other and unspecified parts of thorax<lb/> 09<lb/> S30.0<lb/> Contusion of lower back and pelvis<lb/> 09<lb/> S30.1<lb/> Contusion of abdominal wall<lb/> 09<lb/> S30.7<lb/> 
+Multiple superficial injuries of abdomen, lower back and pelvis<lb/> 09<lb/> S30.8<lb/> 
+Other superficial injuries of abdomen, lower back and pelvis<lb/> 09<lb/> S30.9<lb/> Superficial injury of abdomen, lower back and pelvis, part unspecified<lb/> 09<lb/> S40.0<lb/> Contusion of shoulder and upper arm<lb/> 09<lb/> S40.7<lb/> 
+Multiple superficial injuries of shoulder and upper arm<lb/> 09<lb/> S40.8<lb/> 
+Other superficial injuries of shoulder and upper arm<lb/> 09<lb/> S40.9<lb/> Superficial injury of shoulder and upper arm, unspecified<lb/> 09<lb/> S50.0<lb/> Contusion of elbow<lb/> 09<lb/> S50.1<lb/> 
+Contusion of other and unspecified parts of forearm<lb/> 09<lb/> S50.7<lb/> 
+Multiple superficial injuries of forearm<lb/> 09<lb/> S50.8<lb/> Other superficial injuries of forearm<lb/> 09<lb/> S50.9<lb/> Superficial injury of forearm, unspecified<lb/> 09<lb/> S60.0<lb/> 
+Contusion of finger(s) without damage to nail<lb/> 09<lb/> S60.1<lb/> Contusion of finger(s) with damage to nail<lb/> 09<lb/> S60.2<lb/> Contusion of other parts of wrist and hand<lb/> 09<lb/> S60.7<lb/> 
+Multiple superficial injuries of wrist and hand<lb/> 09<lb/> S60.8<lb/> Other superficial injuries of wrist and hand<lb/> 09<lb/> S60.9<lb/> Superficial injury of wrist and hand, unspecified<lb/> 09<lb/> S70.0<lb/> Contusion of hip<lb/> 09<lb/> S70.1<lb/> Contusion of thigh<lb/> 09<lb/> S70.7<lb/> 
+Multiple superficial injuries of hip and thigh O11<lb/> Pre-existing hypertensive disorder with superimposed proteinuria<lb/> 14<lb/> O12.0<lb/> 
+Gestational oedema<lb/> 14<lb/> O12.1<lb/> 
+Gestational proteinuria<lb/> 14<lb/> O12.2<lb/> 
+Gestational oedema with proteinuria<lb/> 14<lb/> O13<lb/> Gestational [pregnancy-induced] hypertension without significant proteinuria<lb/> 14<lb/> O14.0<lb/> 
+Moderate pre-eclampsia<lb/> 14<lb/> 
+O14.1<lb/> 
+Severe pre-eclampsia<lb/> 14<lb/> 
+O14.9<lb/> 
+Pre-eclampsia, unspecified<lb/> 14<lb/> O15.0<lb/> Eclampsia in pregnancy<lb/> 14<lb/> O15.1<lb/> Eclampsia in labour<lb/> 14<lb/> O15.2<lb/> Eclampsia in the puerperium<lb/> 14<lb/> O15.9<lb/> 
+Eclampsia, unspecified as to time period<lb/> 14<lb/> O16<lb/> Unspecified maternal hypertension<lb/> 14<lb/> O20.0<lb/> Threatened abortion<lb/> 14<lb/> O20.8<lb/> Other haemorrhage in early pregnancy<lb/> 14<lb/> O20.9<lb/> Haemorrhage in early pregnancy, unspecified<lb/> 14<lb/> O21.0<lb/> 
+Mild hyperemesis gravidarum<lb/> 14<lb/> O21.1<lb/> Hyperemesis gravidarum with metabolic disturbance<lb/> 14<lb/> O21.2<lb/> 
+Late vomiting of pregnancy<lb/> 14<lb/> O21.8<lb/> Other vomiting complicating pregnancy<lb/> 14<lb/> O21.9<lb/> Vomiting of pregnancy, unspecified<lb/> 14<lb/> O22.0<lb/> Varicose veins of lower extremity in pregnancy<lb/> 14<lb/> O22.1<lb/> Genital varices in pregnancy<lb/> 14<lb/> O22.2<lb/> Superficial thrombophlebitis in pregnancy<lb/> 14<lb/> O22.3<lb/> 
+Deep phlebothrombosis in pregnancy<lb/> 14<lb/> O22.4<lb/> Haemorrhoids in pregnancy<lb/> 14<lb/> O22.5<lb/> 
+Cerebral venous thrombosis in pregnancy<lb/> 14<lb/> O22.8<lb/> 
+Other venous complications in pregnancy<lb/> 14<lb/> O22.9<lb/> Venous complication in pregnancy, unspecified<lb/> 14<lb/> O23.0<lb/> Infections of kidney in pregnancy ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O23.1<lb/> Infections of bladder in pregnancy<lb/> 14<lb/> O23.2<lb/> Infections of urethra in pregnancy<lb/> 14<lb/> O23.3<lb/> Infections of other parts of urinary tract in pregnancy<lb/> 14<lb/> O23.4<lb/> Unspecified infection of urinary tract in pregnancy<lb/> 14<lb/> O23.5<lb/> Infections of the genital tract in pregnancy<lb/> 14<lb/> O23.9<lb/> Other and unspecified genitourinary tract infection in pregnancy<lb/> 14<lb/> O24.0<lb/> 
+Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, insulin-dependent<lb/> 14<lb/> 
+O24.1<lb/> 
+Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, non-insulin-dependent 14<lb/> O24.2<lb/> 
+Diabetes mellitus in pregnancy: Pre-existing malnutrition-related diabetes mellitus<lb/> 14<lb/> O24.3<lb/> Diabetes mellitus in pregnancy: Pre-existing diabetes mellitus, unspecified<lb/> 14<lb/> O24.4<lb/> Diabetes mellitus arising in pregnancy<lb/> 14<lb/> O24.9<lb/> Diabetes mellitus in pregnancy, unspecified<lb/> 14<lb/> O25<lb/> Malnutrition in pregnancy<lb/> 14<lb/> O26.0<lb/> Excessive weight gain in pregnancy<lb/> 14<lb/> O26.1<lb/> Low weight gain in pregnancy<lb/> 14<lb/> O26.2<lb/> Pregnancy care of habitual aborter<lb/> 14<lb/> O26.3<lb/> 
+Retained intrauterine contraceptive device in pregnancy<lb/> 14<lb/> O26.4<lb/> Herpes gestationis<lb/> 14<lb/> O26.5<lb/> Maternal hypotension syndrome<lb/> 14<lb/> O26.6<lb/> Liver disorders in pregnancy, childbirth and the puerperium<lb/> 14<lb/> O26.7<lb/> 
+Subluxation of symphysis (pubis) in pregnancy, childbirth and the puerperium<lb/> 14<lb/> O26.8<lb/> Other specified pregnancy-related conditions<lb/> 14<lb/> O26.9<lb/> Pregnancy-related condition, unspecified<lb/> 14<lb/> O28.0<lb/> 
+Abnormal haematological finding on antenatal screening of mother<lb/> 14<lb/> O28.1<lb/> Abnormal biochemical finding on antenatal screening of mother<lb/> 14<lb/> O28.2<lb/> 
+Abnormal cytological finding on antenatal screening of mother<lb/> 14<lb/> O28.3<lb/> 
+Abnormal ultrasonic finding on antenatal screening of mother<lb/> 14<lb/> O28.4<lb/> Abnormal radiological finding on antenatal screening of mother<lb/> 14<lb/> O28.5<lb/> 
+Abnormal chromosomal and genetic finding on antenatal screening of mother<lb/> 14<lb/> O28.8<lb/> Other abnormal findings on antenatal screening of mother<lb/> 14<lb/> O28.9<lb/> Abnormal finding on antenatal screening of mother, unspecified<lb/> 14<lb/> O29.0<lb/> Pulmonary complications of anaesthesia during pregnancy<lb/> 14<lb/> O29.1<lb/> Cardiac complications of anaesthesia during pregnancy<lb/> 14<lb/> O29.2<lb/> Central nervous system complications of anaesthesia during pregnancy<lb/> 14<lb/> O29.3<lb/> Toxic reaction to local anaesthesia during pregnancy<lb/> 14<lb/> O29.4<lb/> Spinal and epidural anaesthesia-induced headache during pregnancy<lb/> 14<lb/> O29.5<lb/> Other complications of spinal and epidural anaesthesia during pregnancy<lb/> 14<lb/> O29.6<lb/> Failed or difficult intubation during pregnancy<lb/> 14<lb/> O29.8<lb/> Other complications of anaesthesia during pregnancy<lb/> 14<lb/> O29.9<lb/> Complication of anaesthesia during pregnancy, unspecified<lb/> 14<lb/> O30.0<lb/> Twin pregnancy<lb/> 14<lb/> O30.1<lb/> Triplet pregnancy<lb/> 14<lb/> O30.2<lb/> Quadruplet pregnancy<lb/> 14<lb/> O30.8<lb/> Other multiple gestation<lb/> 14<lb/> O30.9<lb/> Multiple gestation, unspecified<lb/> 14<lb/> O31.0<lb/> Papyraceous fetus ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O31.1<lb/> Continuing pregnancy after abortion of one fetus or more<lb/> 14<lb/> O31.2<lb/> Continuing pregnancy after intrauterine death of one fetus or more<lb/> 14<lb/> O31.8<lb/> Other complications specific to multiple gestation<lb/> 14<lb/> O32.0<lb/> Maternal care for unstable lie<lb/> 14<lb/> O32.1<lb/> Maternal care for breech presentation<lb/> 14<lb/> O32.2<lb/> Maternal care for transverse and oblique lie<lb/> 14<lb/> O32.3<lb/> Maternal care for face, brow and chin presentation<lb/> 14<lb/> O32.4<lb/> Maternal care for high head at term<lb/> 14<lb/> O32.5<lb/> Maternal care for multiple gestation with malpresentation of one fetus or more<lb/> 14<lb/> O32.6<lb/> Maternal care for compound presentation<lb/> 14<lb/> O32.8<lb/> Maternal care for other malpresentation of fetus<lb/> 14<lb/> O32.9<lb/> Maternal care for malpresentation of fetus, unspecified<lb/> 14<lb/> O33.0<lb/> Maternal care for disproportion due to deformity of maternal pelvic bones<lb/> 14<lb/> O33.1<lb/> Maternal care for disproportion due to generally contracted pelvis<lb/> 14<lb/> O33.2<lb/> Maternal care for disproportion due to inlet contraction of pelvis<lb/> 14<lb/> O33.3<lb/> Maternal care for disproportion due to outlet contraction of pelvis<lb/> 14<lb/> O33.4<lb/> Maternal care for disproportion of mixed maternal and fetal origin<lb/> 14<lb/> O33.5<lb/> Maternal care for disproportion due to unusually large fetus<lb/> 14<lb/> O33.6<lb/> Maternal care for disproportion due to hydrocephalic fetus<lb/> 14<lb/> O33.7<lb/> Maternal care for disproportion due to other fetal deformities<lb/> 14<lb/> O33.8<lb/> Maternal care for disproportion of other origin<lb/> 14<lb/> O33.9<lb/> Maternal care for disproportion, unspecified<lb/> 14<lb/> O34.0<lb/> Maternal care for congenital malformation of uterus<lb/> 14<lb/> O34.1<lb/> Maternal care for tumour of corpus uteri<lb/> 14<lb/> O34.2<lb/> Maternal care due to uterine scar from previous surgery<lb/> 14<lb/> O34.3<lb/> Maternal care for cervical incompetence<lb/> 14<lb/> O34.4<lb/> Maternal care for other abnormalities of cervix<lb/> 14<lb/> O34.5<lb/> Maternal care for other abnormalities of gravid uterus<lb/> 14<lb/> O34.6<lb/> Maternal care for abnormality of vagina<lb/> 14<lb/> O34.7<lb/> Maternal care for abnormality of vulva and perineum<lb/> 14<lb/> O34.8<lb/> Maternal care for other abnormalities of pelvic organs<lb/> 14<lb/> O34.9<lb/> Maternal care for abnormality of pelvic organ, unspecified<lb/> 14<lb/> O35.0<lb/> Maternal care for (suspected) central nervous system malformation in fetus<lb/> 14<lb/> O35.1<lb/> Maternal care for (suspected) chromosomal abnormality in fetus<lb/> 14<lb/> O35.2<lb/> Maternal care for (suspected) hereditary disease in fetus<lb/> 14<lb/> O35.3<lb/> Maternal care for (suspected) damage to fetus from viral disease in mother<lb/> 14<lb/> O35.4<lb/> Maternal care for (suspected) damage to fetus from alcohol<lb/> 14<lb/> O35.5<lb/> Maternal care for (suspected) damage to fetus by drugs<lb/> 14<lb/> O35.6<lb/> Maternal care for (suspected) damage to fetus by radiation<lb/> 14<lb/> O35.7<lb/> Maternal care for (suspected) damage to fetus by other medical procedures<lb/> 14<lb/> O35.8<lb/> Maternal care for other (suspected) fetal abnormality and damage<lb/> 14<lb/> O35.9<lb/> Maternal care for (suspected) fetal abnormality and damage, unspecified<lb/> 14<lb/> O36.0<lb/> Maternal care for rhesus isoimmunization<lb/> 14<lb/> O36.1<lb/> Maternal care for other isoimmunization<lb/> 14<lb/> O36.2<lb/> Maternal care for hydrops fetalis<lb/> 14<lb/> O36.3<lb/> Maternal care for signs of fetal hypoxia ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O36.4<lb/> Maternal care for intrauterine death<lb/> 14<lb/> O36.5<lb/> Maternal care for poor fetal growth<lb/> 14<lb/> O36.6<lb/> Maternal care for excessive fetal growth<lb/> 14<lb/> O36.7<lb/> Maternal care for viable fetus in abdominal pregnancy<lb/> 14<lb/> O36.8<lb/> Maternal care for other specified fetal problems<lb/> 14<lb/> O36.9<lb/> Maternal care for fetal problem, unspecified<lb/> 14<lb/> O40<lb/> Polyhydramnios<lb/> 14<lb/> O41.0<lb/> Oligohydramnios<lb/> 14<lb/> O41.1<lb/> Infection of amniotic sac and membranes<lb/> 14<lb/> O41.8<lb/> 
+Other specified disorders of amniotic fluid and membranes<lb/> 14<lb/> O41.9<lb/> Disorder of amniotic fluid and membranes, unspecified<lb/> 14<lb/> O42.0<lb/> Premature rupture of membranes, onset of labour within 24 hours<lb/> 14<lb/> O42.1<lb/> Premature rupture of membranes, onset of labour after 24 hours<lb/> 14<lb/> O42.2<lb/> Premature rupture of membranes, labour delayed by therapy<lb/> 14<lb/> O42.9<lb/> Premature rupture of membranes, unspecified<lb/> 14<lb/> O43.0<lb/> Placental transfusion syndromes<lb/> 14<lb/> O43.1<lb/> Malformation of placenta<lb/> 14<lb/> O43.8<lb/> 
+Other placental disorders<lb/> 14<lb/> O43.9<lb/> Placental disorder, unspecified<lb/> 14<lb/> O44.0<lb/> 
+Placenta praevia specified as without haemorrhage<lb/> 14<lb/> O44.1<lb/> Placenta praevia with haemorrhage<lb/> 14<lb/> O45.0<lb/> Premature separation of placenta with coagulation defect<lb/> 14<lb/> O45.8<lb/> Other premature separation of placenta<lb/> 14<lb/> O45.9<lb/> Premature separation of placenta, unspecified<lb/> 14<lb/> O46.0<lb/> Antepartum haemorrhage with coagulation defect<lb/> 14<lb/> O46.8<lb/> 
+Other antepartum haemorrhage<lb/> 14<lb/> O46.9<lb/> 
+Antepartum haemorrhage, unspecified<lb/> 14<lb/> O47.0<lb/> 
+False labour before 37 completed weeks of gestation<lb/> 14<lb/> O47.1<lb/> 
+False labour at or after 37 completed weeks of gestation<lb/> 14<lb/> O47.9<lb/> False labour, unspecified<lb/> 14<lb/> O48<lb/> Prolonged pregnancy<lb/> 14<lb/> O60.0<lb/> Preterm labour without delivery<lb/> 14<lb/> O60.1<lb/> Preterm labour with preterm delivery<lb/> 14<lb/> O60.2<lb/> Preterm labour with term delivery<lb/> 14<lb/> O61.0<lb/> Failed medical induction of labour<lb/> 14<lb/> O61.1<lb/> Failed instrumental induction of labour<lb/> 14<lb/> O61.8<lb/> Other failed induction of labour<lb/> 14<lb/> O61.9<lb/> Failed induction of labour, unspecified<lb/> 14<lb/> O62.0<lb/> Primary inadequate contractions<lb/> 14<lb/> O62.1<lb/> Secondary uterine inertia<lb/> 14<lb/> O62.2<lb/> Other uterine inertia<lb/> 14<lb/> O62.3<lb/> Precipitate labour<lb/> 14<lb/> O62.4<lb/> 
+Hypertonic, incoordinate, and prolonged uterine contractions<lb/> 14<lb/> O62.8<lb/> Other abnormalities of forces of labour<lb/> 14<lb/> O62.9<lb/> Abnormality of forces of labour, unspecified<lb/> 14<lb/> O63.0<lb/> Prolonged first stage (of labour) 
+ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O63.1<lb/> Prolonged second stage (of labour)<lb/> 14<lb/> 
+O63.2<lb/> Delayed delivery of second twin, triplet, etc.<lb/> 14<lb/> O63.9<lb/> Long labour, unspecified<lb/> 14<lb/> O64.0<lb/> Obstructed labour due to incomplete rotation of fetal head<lb/> 14<lb/> O64.1<lb/> Obstructed labour due to breech presentation<lb/> 14<lb/> O64.2<lb/> Obstructed labour due to face presentation<lb/> 14<lb/> O64.3<lb/> Obstructed labour due to brow presentation<lb/> 14<lb/> O64.4<lb/> Obstructed labour due to shoulder presentation<lb/> 14<lb/> O64.5<lb/> Obstructed labour due to compound presentation<lb/> 14<lb/> O64.8<lb/> Obstructed labour due to other malposition and malpresentation<lb/> 14<lb/> O64.9<lb/> Obstructed labour due to malposition and malpresentation, unspecified<lb/> 14<lb/> O65.0<lb/> Obstructed labour due to deformed pelvis<lb/> 14<lb/> O65.1<lb/> Obstructed labour due to generally contracted pelvis<lb/> 14<lb/> O65.2<lb/> Obstructed labour due to pelvic inlet contraction<lb/> 14<lb/> O65.3<lb/> Obstructed labour due to pelvic outlet and mid-cavity contraction<lb/> 14<lb/> O65.4<lb/> Obstructed labour due to fetopelvic disproportion, unspecified<lb/> 14<lb/> O65.5<lb/> Obstructed labour due to abnormality of maternal pelvic organs<lb/> 14<lb/> O65.8<lb/> Obstructed labour due to other maternal pelvic abnormalities<lb/> 14<lb/> O65.9<lb/> Obstructed labour due to maternal pelvic abnormality, unspecified<lb/> 14<lb/> O66.0<lb/> Obstructed labour due to shoulder dystocia<lb/> 14<lb/> O66.1<lb/> Obstructed labour due to locked twins<lb/> 14<lb/> O66.2<lb/> Obstructed labour due to unusually large fetus<lb/> 14<lb/> O66.3<lb/> Obstructed labour due to other abnormalities of fetus<lb/> 14<lb/> O66.4<lb/> Failed trial of labour, unspecified<lb/> 14<lb/> O66.5<lb/> Failed application of vacuum extractor and forceps, unspecified<lb/> 14<lb/> O66.8<lb/> Other specified obstructed labour<lb/> 14<lb/> O66.9<lb/> Obstructed labour, unspecified<lb/> 14<lb/> O67.0<lb/> Intrapartum haemorrhage with coagulation defect<lb/> 14<lb/> O67.8<lb/> 
+Other intrapartum haemorrhage<lb/> 14<lb/> O67.9<lb/> Intrapartum haemorrhage, unspecified<lb/> 14<lb/> O68.0<lb/> Labour and delivery complicated by fetal heart rate anomaly<lb/> 14<lb/> O68.1<lb/> Labour and delivery complicated by meconium in amniotic fluid<lb/> 14<lb/> O68.2<lb/> Labour and delivery complicated by fetal heart rate anomaly with meconium in<lb/> amniotic fluid<lb/> 14<lb/> 
+O68.3<lb/> Labour and delivery complicated by biochemical evidence of fetal stress<lb/> 14<lb/> O68.8<lb/> Labour and delivery complicated by other evidence of fetal stress<lb/> 14<lb/> O68.9<lb/> Labour and delivery complicated by fetal stress, unspecified<lb/> 14<lb/> O69.0<lb/> Labour and delivery complicated by prolapse of cord<lb/> 14<lb/> O69.1<lb/> Labour and delivery complicated by cord around neck, with compression<lb/> 14<lb/> O69.2<lb/> Labour and delivery complicated by other cord entanglement<lb/> 14<lb/> O69.3<lb/> Labour and delivery complicated by short cord<lb/> 14<lb/> O69.4<lb/> Labour and delivery complicated by vasa praevia<lb/> 14<lb/> O69.5<lb/> Labour and delivery complicated by vascular lesion of cord<lb/> 14<lb/> O69.8<lb/> Labour and delivery complicated by other cord complications<lb/> 14<lb/> O69.9<lb/> Labour and delivery complicated by cord complication, unspecified<lb/> 14<lb/> O70.0<lb/> First degree perineal laceration during delivery ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O70.1<lb/> Second degree perineal laceration during delivery<lb/> 14<lb/> O70.2<lb/> Third degree perineal laceration during delivery<lb/> 14<lb/> O70.3<lb/> Fourth degree perineal laceration during delivery<lb/> 14<lb/> O70.9<lb/> 
+Perineal laceration during delivery, unspecified<lb/> 14<lb/> O71.0<lb/> Rupture of uterus before onset of labour<lb/> 14<lb/> O71.1<lb/> Rupture of uterus during labour<lb/> 14<lb/> O71.2<lb/> Postpartum inversion of uterus<lb/> 14<lb/> O71.3<lb/> 
+Obstetric laceration of cervix<lb/> 14<lb/> O71.4<lb/> Obstetric high vaginal laceration alone<lb/> 14<lb/> O71.5<lb/> 
+Other obstetric injury to pelvic organs<lb/> 14<lb/> O71.6<lb/> 
+Obstetric damage to pelvic joints and ligaments<lb/> 14<lb/> O71.7<lb/> 
+Obstetric haematoma of pelvis<lb/> 14<lb/> O71.8<lb/> Other specified obstetric trauma<lb/> 14<lb/> O71.9<lb/> Obstetric trauma, unspecified<lb/> 14<lb/> O72.0<lb/> Third-stage haemorrhage<lb/> 14<lb/> O72.1<lb/> Other immediate postpartum haemorrhage<lb/> 14<lb/> O72.2<lb/> Delayed and secondary postpartum haemorrhage<lb/> 14<lb/> O72.3<lb/> 
+Postpartum coagulation defects<lb/> 14<lb/> O73.0<lb/> Retained placenta without haemorrhage<lb/> 14<lb/> O73.1<lb/> Retained portions of placenta and membranes, without haemorrhage<lb/> 14<lb/> O74.0<lb/> 
+Aspiration pneumonitis due to anaesthesia during labour and delivery<lb/> 14<lb/> O74.1<lb/> 
+Other pulmonary complications of anaesthesia during labour and delivery<lb/> 14<lb/> O74.2<lb/> Cardiac complications of anaesthesia during labour and delivery<lb/> 14<lb/> O74.3<lb/> Central nervous system complications of anaesthesia during labour and delivery<lb/> 14<lb/> O74.4<lb/> Toxic reaction to local anaesthesia during labour and delivery<lb/> 14<lb/> O74.5<lb/> Spinal and epidural anaesthesia-induced headache during labour and delivery<lb/> 14<lb/> O74.6<lb/> Other complications of spinal and epidural anaesthesia during labour and delivery<lb/> 14<lb/> O74.7<lb/> Failed or difficult intubation during labour and delivery<lb/> 14<lb/> O74.8<lb/> Other complications of anaesthesia during labour and delivery<lb/> 14<lb/> O74.9<lb/> Complication of anaesthesia during labour and delivery, unspecified<lb/> 14<lb/> O75.0<lb/> Maternal distress during labour and delivery<lb/> 14<lb/> O75.1<lb/> Shock during or following labour and delivery<lb/> 14<lb/> O75.2<lb/> 
+Pyrexia during labour, not elsewhere classified<lb/> 14<lb/> O75.3<lb/> Other infection during labour<lb/> 14<lb/> O75.4<lb/> Other complications of obstetric surgery and procedures<lb/> 14<lb/> O75.5<lb/> Delayed delivery after artificial rupture of membranes<lb/> 14<lb/> O75.6<lb/> Delayed delivery after spontaneous or unspecified rupture of membranes<lb/> 14<lb/> O75.7<lb/> 
+Vaginal delivery following previous caesarean section<lb/> 14<lb/> O75.8<lb/> 
+Other specified complications of labour and delivery<lb/> 14<lb/> O75.9<lb/> Complication of labour and delivery, unspecified<lb/> 14<lb/> O80.0<lb/> Spontaneous vertex delivery<lb/> 14<lb/> O80.1<lb/> Spontaneous breech delivery<lb/> 14<lb/> O80.8<lb/> Other single spontaneous delivery<lb/> 14<lb/> O80.9<lb/> Single spontaneous delivery, unspecified<lb/> 14<lb/> O81.0<lb/> 
+Low forceps delivery<lb/> 14<lb/> O81.1<lb/> 
+Mid-cavity forceps delivery ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O81.2<lb/> 
+Mid-cavity forceps with rotation<lb/> 14<lb/> O81.3<lb/> Other and unspecified forceps delivery<lb/> 14<lb/> O81.4<lb/> Vacuum extractor delivery<lb/> 14<lb/> O81.5<lb/> Delivery by combination of forceps and vacuum extractor<lb/> 14<lb/> O82.0<lb/> Delivery by elective caesarean section<lb/> 14<lb/> O82.1<lb/> Delivery by emergency caesarean section<lb/> 14<lb/> O82.2<lb/> Delivery by caesarean hysterectomy<lb/> 14<lb/> O82.8<lb/> Other single delivery by caesarean section<lb/> 14<lb/> O82.9<lb/> Delivery by caesarean section, unspecified<lb/> 14<lb/> O85<lb/> Puerperal sepsis<lb/> 14<lb/> O86.0<lb/> Infection of obstetric surgical wound<lb/> 14<lb/> O86.1<lb/> Other infection of genital tract following delivery<lb/> 14<lb/> O86.2<lb/> 
+Urinary tract infection following delivery<lb/> 14<lb/> O86.3<lb/> 
+Other genitourinary tract infections following delivery<lb/> 14<lb/> O86.4<lb/> Pyrexia of unknown origin following delivery<lb/> 14<lb/> O86.8<lb/> Other specified puerperal infections<lb/> 14<lb/> O87.0<lb/> Superficial thrombophlebitis in the puerperium<lb/> 14<lb/> O87.1<lb/> 
+Deep phlebothrombosis in the puerperium<lb/> 14<lb/> O87.2<lb/> Haemorrhoids in the puerperium<lb/> 14<lb/> O87.3<lb/> 
+Cerebral venous thrombosis in the puerperium<lb/> 14<lb/> O87.8<lb/> 
+Other venous complications in the puerperium<lb/> 14<lb/> O87.9<lb/> Venous complication in the puerperium, unspecified<lb/> 14<lb/> O88.0<lb/> Obstetric air embolism<lb/> 14<lb/> O88.1<lb/> 
+Amniotic fluid embolism<lb/> 14<lb/> O88.2<lb/> Obstetric blood-clot embolism<lb/> 14<lb/> O88.3<lb/> 
+Obstetric pyaemic and septic embolism<lb/> 14<lb/> O88.8<lb/> 
+Other obstetric embolism<lb/> 14<lb/> O89.0<lb/> Pulmonary complications of anaesthesia during the puerperium<lb/> 14<lb/> O89.1<lb/> Cardiac complications of anaesthesia during the puerperium<lb/> 14<lb/> O89.2<lb/> Central nervous system complications of anaesthesia during the puerperium<lb/> 14<lb/> O89.3<lb/> Toxic reaction to local anaesthesia during the puerperium<lb/> 14<lb/> O89.4<lb/> Spinal and epidural anaesthesia-induced headache during the puerperium<lb/> 14<lb/> O89.5<lb/> Other complications of spinal and epidural anaesthesia during the puerperium<lb/> 14<lb/> O89.6<lb/> Failed or difficult intubation during the puerperium<lb/> 14<lb/> O89.8<lb/> Other complications of anaesthesia during the puerperium<lb/> 14<lb/> O89.9<lb/> Complication of anaesthesia during the puerperium, unspecified<lb/> 14<lb/> O90.0<lb/> Disruption of caesarean section wound<lb/> 14<lb/> O90.1<lb/> Disruption of perineal obstetric wound<lb/> 14<lb/> O90.2<lb/> Haematoma of obstetric wound<lb/> 14<lb/> O90.3<lb/> Cardiomyopathy in the puerperium<lb/> 14<lb/> O90.4<lb/> Postpartum acute renal failure<lb/> 14<lb/> O90.5<lb/> 
+Postpartum thyroiditis<lb/> 14<lb/> O90.8<lb/> Other complications of the puerperium, not elsewhere classified<lb/> 14<lb/> O90.9<lb/> Complication of the puerperium, unspecified<lb/> 14<lb/> O91.0<lb/> Infection of nipple associated with childbirth<lb/> 14<lb/> O91.1<lb/> Abscess of breast associated with childbirth ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> O91.2<lb/> Nonpurulent mastitis associated with childbirth<lb/> 14<lb/> O92.0<lb/> Retracted nipple associated with childbirth<lb/> 14<lb/> O92.1<lb/> Cracked nipple associated with childbirth<lb/> 14<lb/> O92.2<lb/> Other and unspecified disorders of breast associated with childbirth<lb/> 14<lb/> O92.3<lb/> 
+Agalactia<lb/> 14<lb/> O92.4<lb/> Hypogalactia<lb/> 14<lb/> O92.5<lb/> Suppressed lactation<lb/> 14<lb/> O92.6<lb/> Galactorrhoea<lb/> 14<lb/> O92.7<lb/> Other and unspecified disorders of lactation<lb/> 14<lb/> O94<lb/> Sequelae of complication of pregnancy, childbirth and the puerperium<lb/> 14<lb/> O95<lb/> Obstetric death of unspecified cause<lb/> 14<lb/> O96<lb/> Death from any obstetric cause occurring more than 42 days but less than one year<lb/> after delivery<lb/> 14<lb/> O97<lb/> Death from sequelae of direct obstetric causes<lb/> 14<lb/> O98.0<lb/> Tuberculosis complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.1<lb/> Syphilis complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.2<lb/> 
+Gonorrhoea complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.3<lb/> Other infections with a predominantly sexual mode of transmission complicating<lb/> pregnancy, childbirth and the puerperium<lb/> 14<lb/> 
+O98.4<lb/> Viral hepatitis complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.5<lb/> Other viral diseases complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.6<lb/> 
+Protozoal diseases complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O98.8<lb/> 
+Other maternal infectious and parasitic diseases complicating pregnancy, childbirth<lb/> and the puerperium<lb/> 14<lb/> 
+O98.9<lb/> 
+Unspecified maternal infectious or parasitic disease complicating pregnancy,<lb/> childbirth and the puerperium<lb/> 14<lb/> 
+O99.0<lb/> Anaemia complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> O99.1<lb/> Other diseases of the blood and blood-forming organs and certain disorders involving<lb/> the immune mechanism complicating pregnancy, childbirth and the puerperium<lb/> 14<lb/> 
+O99.2<lb/> 
+Endocrine, nutritional and metabolic diseases complicating pregnancy, childbirth and<lb/> the puerperium<lb/> 14<lb/> 
+O99.3<lb/> 
+Mental disorders and diseases of the nervous system complicating pregnancy,<lb/> childbirth and the puerperium<lb/> 14<lb/> 
+O99.4<lb/> Diseases of the circulatory system complicating pregnancy, childbirth and the<lb/> puerperium<lb/> 14<lb/> 
+O99.5<lb/> Diseases of the respiratory system complicating pregnancy, childbirth and the<lb/> puerperium<lb/> 14<lb/> 
+O99.6<lb/> Diseases of the digestive system complicating pregnancy, childbirth and the<lb/> puerperium<lb/> 14<lb/> 
+O99.7<lb/> Diseases of the skin and subcutaneous tissue complicating pregnancy, childbirth and<lb/> the puerperium<lb/> 14<lb/> 
+O99.8<lb/> 
+Other specified diseases and conditions complicating pregnancy, childbirth and the<lb/> puerperium<lb/> 14<lb/> 
+Z32.0<lb/> Pregnancy, not (yet) confirmed<lb/> 14<lb/> Z32.1<lb/> Pregnancy confirmed<lb/> 14<lb/> Z33<lb/> Pregnant state, incidental<lb/> 14<lb/> Z34.0<lb/> Supervision of normal first pregnancy ICD-10<lb/> WHO<lb/> Title<lb/> MDC<lb/> Z34.8<lb/> Supervision of other normal pregnancy<lb/> 14<lb/> Z34.9<lb/> Supervision of normal pregnancy, unspecified<lb/> 14<lb/> Z35.0<lb/> Supervision of pregnancy with history of infertility<lb/> 14<lb/> Z35.1<lb/> Supervision of pregnancy with history of abortive outcome<lb/> 14<lb/> Z35.2<lb/> Supervision of pregnancy with other poor reproductive or obstetric history<lb/> 14<lb/> Z35.3<lb/> Supervision of pregnancy with history of insufficient antenatal care<lb/> 14<lb/> Z35.4<lb/> Supervision of pregnancy with grand multiparity<lb/> 14<lb/> Z35.5<lb/> Supervision of elderly primigravida<lb/> 14<lb/> Z35.6<lb/> Supervision of very young primigravida<lb/> 14<lb/> Z35.8<lb/> Supervision of other high-risk pregnancies<lb/> 14<lb/> Z35.9<lb/> Supervision of high-risk pregnancy, unspecified<lb/> 14<lb/> Z36.0<lb/> Antenatal screening for chromosomal anomalies<lb/> 14<lb/> Z36.1<lb/> Antenatal screening for raised alphafetoprotein level<lb/> 14<lb/> Z36.2<lb/> Other antenatal screening based on amniocentesis<lb/> 14<lb/> Z36.3<lb/> Antenatal screening for malformations using ultrasound and other physical methods<lb/> 14<lb/> Z36.4<lb/> Antenatal screening for fetal growth retardation using ultrasound and other physical<lb/> methods<lb/> 14<lb/> 
+Z36.5<lb/> Antenatal screening for isoimmunization<lb/> 14<lb/> Z36.8<lb/> Other antenatal screening<lb/> 14<lb/> Z36.9<lb/> Antenatal screening, unspecified<lb/> 14<lb/> Z37.0<lb/> Single live birth<lb/> 14<lb/> Z37.1<lb/> Single stillbirth<lb/> 14<lb/> Z37.2<lb/> Twins, both liveborn<lb/> 14<lb/> Z37.3<lb/> 
+Twins, one liveborn and one stillborn<lb/> 14<lb/> Z37.4<lb/> Twins, both stillborn<lb/> 14<lb/> Z37.5<lb/> Other multiple births, all liveborn<lb/> 14<lb/> Z37.6<lb/> Other multiple births, some liveborn<lb/> 14<lb/> Z37.7<lb/> Other multiple births, all stillborn<lb/> 14<lb/> Z37.9<lb/> Outcome of delivery, unspecified<lb/> 14<lb/> Z39.0<lb/> 
+Care and examination immediately after delivery<lb/> 14<lb/> Z39.1<lb/> 
+Care and examination of lactating mother<lb/> 14<lb/> Z39.2<lb/> 
+Routine postpartum follow-up<lb/> 14<lb/> 
+Z64.0<lb/> Problems related to unwanted pregnancy 
+    
+    <listBibl>
+        REFERENCES<lb/>
 <bibl>AHRQ (2003) &quot; Quality Indicators Patient Safety Indicators: Technical Specifications -March 2003<lb/> </bibl>
 <bibl>Version 3.1 &quot; Agency for Healthcare Research and Quality, Rockville, MD, AHRQ website<lb/> http://www.qualityindicators.ahrq.gov/downloads/psi/psi_technical_specs_v31.pdf (accessed<lb/> 01/11/2008)<lb/> </bibl>
 <bibl>AHRQ (2006) &quot; Patient Safety Indicators Overview: AHRQ Quality Indicators -February 2006 &quot; Agency<lb/> for Healthcare Research and Quality, Rockville, MD, AHRQ website<lb/> http://www.qualityindicators.ahrq.gov/psi_overview.htm (accessed 03/21/2007).<lb/> </bibl>
