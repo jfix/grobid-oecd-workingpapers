@@ -1,0 +1,588 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><title level="j">GDP release date by NationalAccounts</title> ( <note>quartercorrespondingto the peak</note> )[ <biblScope unit="volume">22</biblScope>]</bibl>
+	<bibl>Canada <date>Jun2007</date></bibl>
+	<bibl><date>Jun 2008 (12) Feb2008</date></bibl>
+	<bibl><date>Aug 2008</date></bibl>
+	<bibl>France <date>Jun2007</date></bibl>
+	<bibl><date>Jan 2008 (7) Jan2008 May 2008</date></bibl>
+	<bibl>Germany <date>Jan2007 Mar 2008</date>( <biblScope unit="issue">14</biblScope> )[<biblScope unit="volume">23</biblScope> ]<date>May2008</date></bibl>
+	<bibl>Italy <date>May2007 Feb 2008</date>( <biblScope unit="issue">9</biblScope> )<date>Oct2007 May2008</date></bibl>
+	<bibl>Japan <date>Jan2007 Feb 2008</date>( <biblScope unit="issue">13</biblScope> )[<biblScope unit="volume">24</biblScope> ]</bibl>
+	<bibl><date>Aug 2008</date></bibl>
+	<bibl>United Kingdom <date>Jun2007</date></bibl>
+	<bibl><date>Jan 2008 (7) Jan2008</date></bibl>
+	<bibl><date>Apr 2008</date></bibl>
+	<bibl><orgName>United States</orgName> <date>Jun2007 Oct 2007</date>( <biblScope unit="issue">4</biblScope> )<date>Jan2008</date></bibl>
+	<bibl><date>Jan 2008</date></bibl>
+	<bibl><title level="a">Source: OECD Main Economic Indicators, authors&apos; computations</title>.</bibl>
+	<bibl>Notes: The difference between columns 1 and <biblScope unit="issue">2</biblScope> <title level="a">corresponds to the ex-post lead of the CLI, i.e. to distance (a+c) in the chronology ofevents ( Figure1 )</title>.<title level="a">The difference between columns 1 and 3 corresponds to the time required by the dating algorithm to formally identify aturning point , i. e.todistance a in the chronology of events . Thedifference between columns 1</title> <note>and 4 corresponds to distance ( a+c+d) inthechronology of events</note> .</bibl>
+	<bibl><note>Table 7. Identification of the 2009 trough Countries1 .Dateof CLI trough ( based oncurrentlyavailable data</note> )</bibl>
+	<bibl><author>Date of GDP trough andex -postlead</author> ( <note>numberof months) 3. Datewhenthe CLI trough was firstformally identified in realtime 4 .GDP release date byNational Accounts(quarter corresponding to the trough</note> )</bibl>
+	<bibl><author>Canada Feb</author><date>2009</date></bibl>
+	<bibl><date>Jun 2009 (4) Sep2009</date></bibl>
+	<bibl><date>Aug 2009</date></bibl>
+	<bibl><author>France Feb</author><date>2009</date></bibl>
+	<bibl><date>Jun 2009 (4) Jul2009 Sep 2009</date></bibl>
+	<bibl><title level="j">Germany Feb</title><date>2009</date></bibl>
+	<bibl><date>Jun 2009 (4) Sep2009</date></bibl>
+	<bibl><date>Aug 2009</date></bibl>
+	<bibl>Italy <date>Mar2009 May 2009</date>( <biblScope unit="issue">2</biblScope> )<date>Jul2009 Oct2009</date></bibl>
+	<bibl><date>Japan Mar2009</date></bibl>
+	<bibl><date>Apr 2009 (1) Oct2009 Sep 2009</date></bibl>
+	<bibl>United Kingdom <date>Jan2009</date></bibl>
+	<bibl><date>Jun 2009 (5) Aug2009 Sep 2009</date></bibl>
+	<bibl>United <date>States Mar2009 May 2009( 2 )Sep2009 Sep2009</date></bibl>
+	<bibl><title level="a">Source: OECD Main Economic Indicators, authors&apos; computations</title>.</bibl>
+	<bibl>Notes: The difference between columns 1 and <biblScope unit="issue">2</biblScope> <title level="a">corresponds to the ex-post lead of the CLI, i.e. to distance (a+c) in the chronologyof events ( Figure1 )</title>.<title level="a">The difference between columns 1 and 3 corresponds to the time required by the dating algorithmto formally identify a turning point , i. e.todistance a in the chronology of events</title> . <title level="m">Thedifference between columns 1and 4 corresponds to distance ( a+c+d ) inthechronology of events</title> .</bibl>
+	<bibl><title level="j">References</title></bibl>
+	<bibl><author>Banbura M., Rünstler G.</author> (<date>2011</date>): <title level="a">A Look into the Factor Model Black Box: Publication Lags and the Role of Hard andSoft Data in Forecasting GDP</title> .<title level="j">International Journal of Forecasting N°27</title> ,pp .<biblScope unit="page">333-346</biblScope></bibl>
+	<bibl><author>Blundell-Wignall A., Atkinson P., Lee S. H.</author> (<date>2008</date>): <title level="a">The Current Financial Crisis: Causes and Policy Issues</title>. <title level="j">OECD Journal:Financial Market Trends</title> http ://<ptr type="web">www.oecd.org/daf/fin/financial-markets/41942872.pdf</ptr></bibl>
+	<bibl><author>Bry G., Boschan C.</author> (<date>1971</date>): <title level="a">Cyclical Analysis of Time Series: Selected Procedures and Computer Programs</title>. <note type="report">NBER TechnicalPaper N°20</note> .</bibl>
+	<bibl><author>Diebold F.X., Rudebusch G.D.</author> (<date>1991</date>): <title level="a">Forecasting Output with the Composite Leading Index: A Real-Time Analysis</title>.<title level="j">Journal of the American Statistical Association</title> ,Vol .<biblScope unit="volume">86</biblScope>,<biblScope unit="page">N°415</biblScope> ,pp .<biblScope unit="page">603 -610</biblScope></bibl>
+	<bibl><title level="j">European Commission</title> (<date>2014</date>): <title level="a">Joint harmonised EU programme of Business and Consumer surveys</title>. User Guide http://<ptr type="web">ec.europa.eu/economy_finance/db_indicators/surveys/documents/bcs_user_guide_en.pdfFCIC</ptr> ,(<date>2011</date> ):<note type="report">FinancialCrisis Inquiry Commission Final Report http</note> : //cybercemetery.unt.edu/archive/fcic/<date>20110310173545</date>/http://<ptr type="web">c0182732.cdn1.cloudfiles.rackspacecloud.com/fcic_final_report_full .pdf</ptr></bibl>
+	<bibl><author>Fulop G., Gyomai, G.</author> (<date>2012</date>): &quot; <title level="a">Transition of the OECD CLI system to a GDP-based business cycle target</title> &quot; . OECD backgroundnote http ://<ptr type="web">www.oecd.org/std/leading-indicators/49985449.pdf</ptr>.</bibl>
+	<bibl><author>Gyomai G., Ahmad N. and Astolfi R.</author> (<date>2016</date>): <title level="m">The OECD System of Composite leading indicators Chapter</title> 8. In <title level="m">EurostatHandbook on cyclical composite indicators</title> ,<pubPlace>Luxembourg</pubPlace> ( <note>forthcoming</note>).</bibl>
+	<bibl><author>Gyomai G. Guidetti E.</author> (<date>2011</date>) <title level="a">The Performance of the OECD&apos;s Composite Leading Indicator during the 2007 FinancialCrisis ,The Statistics Newsletter - OECDIssue No</title> .<biblScope unit="issue">51http</biblScope> ://<ptr type="web">www.oecd.org/std/47632702.pdf</ptr></bibl>
+	<bibl><author>Nilsson R., Gyomai G.</author> (<date>2011</date>): <title level="a">Cycle Extraction: A comparison of the Phase-Average Trend Method, the Hodrick-Prescottand Christiano -FitzgeraldFilters .OECD Statistics Directorate Working Paper N°39</title> .http ://<ptr type="web">www.oecd.org/officialdocuments/publicdisplaydocumentpdf</ptr>/?cote=std/<biblScope unit="page">doc%282011%294&amp;doclanguage=enOECD</biblScope> (<date>2002</date> ): <title level="a">AnUpdateofthe OECD Composite Leading Indicators</title> . http : // <ptr type="web">www.oecd.org/std/leading-indicators/2410332.pdfOECD</ptr>(<date>2003</date>): <title level="a">BusinessTendency Surveys:AHandbook</title> . http :/ / <ptr type="web">www. oecd.org/std/leading-indicators/31837055.pdfOECD</ptr>(<date>2011</date>):<title level="a">Qualityframework andguidelines forOECDstatisticalactivities</title> . http : / / <ptr type="web">www . oecd. org/officialdocuments/publicdisplaydocumentpdf</ptr>/?cote=std/<biblScope unit="page">qfs%282011%291&amp;doclanguage=enOECD</biblScope>(<date>2012</date>):<title level="m">OECDSystemof CompositeLeading Indicators</title>. http:// <ptr type="web">www . oecd . org /std /leading-indicators/41629509.pdf</ptr></bibl>
+	<bibl><author>Pain N., Lewis C., Dang T-T., Jin Y., Richardson P.</author> (<date>2014</date>): <title level="a">OECD Forecasts during and after the Financial Crisis: A Post-Mortem.OECD Economics Department Working Paper N°1107</title> .http ://<ptr type="web">www.oecd-ilibrary.org/economics/oecd-forecasts-during-and-after-the-financial-crisis_5jz73l1qw1s1-en</ptr></bibl>
+	<bibl><author>Sédillot F., Pain N.</author> (<date>2003</date>): <title level="a">Indicator models of real GDP growth in selected OECD countries</title>. <note type="report">OECD Economics DepartmentWorking Paper N°364 http</note> ://<ptr type="web">www.oecd.org/officialdocuments/publicdisplaydocumentpdf</ptr>/?doclanguage=en&amp;cote=eco/wkp%282003<date>%2918</date></bibl>
+	<bibl><author>Vaccara B. V. Zarnowitz</author> (<date>1977</date>). &quot; <title level="a">How Good Are the Leading Indicators, Business and Economics</title> &quot; . <title level="m">Proceedings of theBusiness and Economic Statistics Section ( AmericanStatistical Association )</title>,pp .<biblScope unit="page">41 –53</biblScope>.</bibl>
+	<bibl><title level="j">United Nations</title> (<date>2016</date>): <title level="a">Handbook on Economic Tendency Surveys. Forthcoming. http://unstats.un.org/unsd/nationalaccount/consultationDocs/draftETS-Handbook-May2014</title>.<title level="j">pdfSTD /DOC</title>(<date>2016</date>)<biblScope unit="volume">8</biblScope></bibl>
+	<bibl><date>March-07</date></bibl>
+	<bibl><date>April-07</date></bibl>
+	<bibl><date>May-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>July-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>September-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>November-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>January-08</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>March-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>May-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>July-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>September-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>November-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>January-09</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>March-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>May-09</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>June-09</date></bibl>
+	<bibl><date>August-09</date></bibl>
+	<bibl><date>October-09</date></bibl>
+	<bibl><date>December-09</date></bibl>
+	<bibl><date>February-10</date></bibl>
+	<bibl><date>April-10</date></bibl>
+	<bibl><date>June-10</date></bibl>
+	<bibl><date>August-10</date></bibl>
+	<bibl><date>October-10</date></bibl>
+	<bibl><date>December-10</date></bibl>
+	<bibl><date>February-11</date></bibl>
+	<bibl><date>April-11</date></bibl>
+	<bibl><date>June-11</date></bibl>
+	<bibl><date>August-11</date></bibl>
+	<bibl><date>October-11</date></bibl>
+	<bibl><date>December-11</date></bibl>
+	<bibl><date>February-12</date></bibl>
+	<bibl><date>April-12</date></bibl>
+	<bibl><date>June-12</date></bibl>
+	<bibl><date>August-12</date></bibl>
+	<bibl><date>October-12</date></bibl>
+	<bibl><date>December-12</date></bibl>
+	<bibl><date>February-13</date></bibl>
+	<bibl><date>April-13</date></bibl>
+	<bibl><date>June-13</date></bibl>
+	<bibl><date>August-13</date></bibl>
+	<bibl><date>October-13</date></bibl>
+	<bibl><date>December-13</date></bibl>
+	<bibl><date>February-14</date></bibl>
+	<bibl><date>April-14</date></bibl>
+	<bibl><date>June-14</date></bibl>
+	<bibl><date>August-14</date></bibl>
+	<bibl><orgName>Dates of CLIs Turning Points VintagesPeak</orgName> reachedin <date>June 2008 for</date> <author>GDP &amp; in</author> <date>July 2008</date> for IIP Trough reached in<date>June 2009</date> <author>for GDP &amp; in</author> <date>July 2009 for</date> <author>IIP PAT to HP IIPto GDP</author> <date>February 2008</date></bibl>
+	<bibl><date>September 2009</date></bibl>
+	<bibl><author>STD/DOC</author>(<date>2016</date>)<biblScope unit="issue">8</biblScope></bibl>
+	<bibl><title level="a">Figure 9 Stability over vintages of turning points in the CLI for France at the time of the Great Recession Source</title>:<publisher>Main</publisher> <pubPlace>Economic Indicators ,OECD</pubPlace> .</bibl>
+	<bibl><title level="a">Figure 10 Stability over vintages of turning points in the CLI for Germany at the time of the Great Recession Source</title>:<publisher>Main</publisher> <pubPlace>Economic Indicators ,OECD</pubPlace> .</bibl>
+	<bibl><date>July-06</date></bibl>
+	<bibl><date>August-06</date></bibl>
+	<bibl><date>September-06</date></bibl>
+	<bibl><date>October-06</date></bibl>
+	<bibl><date>November-06</date></bibl>
+	<bibl><date>December-06</date></bibl>
+	<bibl><date>January-07</date></bibl>
+	<bibl><date>February-07</date></bibl>
+	<bibl><date>March-07</date></bibl>
+	<bibl><date>April-07</date></bibl>
+	<bibl><date>May-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>July-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>September-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>November-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>January-08</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>March-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>May-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>July-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>September-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>November-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>January-09</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>March-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>May-09</date></bibl>
+	<bibl><date>February-07</date></bibl>
+	<bibl><date>April-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>June-09</date></bibl>
+	<bibl><date>August-09</date></bibl>
+	<bibl><date>October-09</date></bibl>
+	<bibl><date>December-09</date></bibl>
+	<bibl><date>February-10</date></bibl>
+	<bibl><date>April-10</date></bibl>
+	<bibl><date>June-10</date></bibl>
+	<bibl><date>August-10</date></bibl>
+	<bibl><date>October-10</date></bibl>
+	<bibl><date>December-10</date></bibl>
+	<bibl><date>February-11</date></bibl>
+	<bibl><date>April-11</date></bibl>
+	<bibl><date>June-11</date></bibl>
+	<bibl><date>August-11</date></bibl>
+	<bibl><date>October-11</date></bibl>
+	<bibl><date>December-11</date></bibl>
+	<bibl><date>February-12</date></bibl>
+	<bibl><date>April-12</date></bibl>
+	<bibl><date>June-12</date></bibl>
+	<bibl><date>August-12</date></bibl>
+	<bibl><date>October-12</date></bibl>
+	<bibl><date>December-12</date></bibl>
+	<bibl><date>February-13</date></bibl>
+	<bibl><date>April-13</date></bibl>
+	<bibl><date>June-13</date></bibl>
+	<bibl><date>August-13</date></bibl>
+	<bibl><date>October-13</date></bibl>
+	<bibl><date>December-13</date></bibl>
+	<bibl><date>February-14</date></bibl>
+	<bibl><date>April-14</date></bibl>
+	<bibl><date>June-14</date></bibl>
+	<bibl><date>August-14</date></bibl>
+	<bibl><orgName>Dates of CLIs Turning Points VintagesPossible peakin</orgName> <date>October 2006</date> Peak reached in<date>January 2008 for</date> <author>GDP &amp; in</author> <date>March 2008</date> for <title level="j">IIP Trough</title> reached in <date>June2009</date> for GDP &amp; in <date>April 2009 for</date> <author>IIP PAT to HP IIP toGDP</author> <date>January 2008</date></bibl>
+	<bibl><date>July 2009</date></bibl>
+	<bibl><date>July 2007</date></bibl>
+	<bibl><author>France CLI revised</author> <date>in April2012</date></bibl>
+	<bibl><date>March-06</date></bibl>
+	<bibl><date>April-06</date></bibl>
+	<bibl><date>May-06</date></bibl>
+	<bibl><date>June-06</date></bibl>
+	<bibl><date>July-06</date></bibl>
+	<bibl><date>August-06</date></bibl>
+	<bibl><date>September-06</date></bibl>
+	<bibl><date>October-06</date></bibl>
+	<bibl><date>November-06</date></bibl>
+	<bibl><date>December-06</date></bibl>
+	<bibl><date>January-07</date></bibl>
+	<bibl><date>February-07</date></bibl>
+	<bibl><date>March-07</date></bibl>
+	<bibl><date>April-07</date></bibl>
+	<bibl><date>May-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>July-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>September-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>November-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>January-08</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>March-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>May-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>July-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>September-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>November-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>January-09</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>March-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>May-09</date></bibl>
+	<bibl><date>October-06</date></bibl>
+	<bibl><date>December-06</date></bibl>
+	<bibl><date>February-07</date></bibl>
+	<bibl><date>April-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>June-09</date></bibl>
+	<bibl><date>August-09</date></bibl>
+	<bibl><date>October-09</date></bibl>
+	<bibl><date>December-09</date></bibl>
+	<bibl><date>February-10</date></bibl>
+	<bibl><date>April-10</date></bibl>
+	<bibl><date>June-10</date></bibl>
+	<bibl><date>August-10</date></bibl>
+	<bibl><date>October-10</date></bibl>
+	<bibl><date>December-10</date></bibl>
+	<bibl><date>February-11</date></bibl>
+	<bibl><date>April-11</date></bibl>
+	<bibl><date>June-11</date></bibl>
+	<bibl><date>August-11</date></bibl>
+	<bibl><date>October-11</date></bibl>
+	<bibl><date>December-11</date></bibl>
+	<bibl><date>February-12</date></bibl>
+	<bibl><date>April-12</date></bibl>
+	<bibl><date>June-12</date></bibl>
+	<bibl><date>August-12</date></bibl>
+	<bibl><date>October-12</date></bibl>
+	<bibl><date>December-12</date></bibl>
+	<bibl><date>February-13</date></bibl>
+	<bibl><date>April-13</date></bibl>
+	<bibl><date>June-13</date></bibl>
+	<bibl><date>August-13</date></bibl>
+	<bibl><date>October-13</date></bibl>
+	<bibl><date>December-13</date></bibl>
+	<bibl><date>February-14</date></bibl>
+	<bibl><date>April-14</date></bibl>
+	<bibl><date>June-14</date></bibl>
+	<bibl><date>August-14</date></bibl>
+	<bibl><orgName>Dates of CLIs Turning Points VintagesPossible peakin</orgName> <date>May 2006</date> Peak reached in<date>March 2008</date> <author>for both GDP &amp; IIP</author> Trough reached in <date>June2009</date> <author>for GDP &amp; in</author> <date>May 2009 for</date> <author>IIP PAT to HP IIP toGDP</author> <date>October 2008</date></bibl>
+	<bibl><date>September 2009</date></bibl>
+	<bibl><date>December 2006</date> <author>STD/DOC</author>(<date>2016</date>)<biblScope unit="volume">8</biblScope></bibl>
+	<bibl><title level="a">Figure 11 Stability over vintages of turning points in the CLI for Italy at the time of the Great Recession Source</title>:<publisher>Main</publisher> <pubPlace>Economic Indicators ,OECD</pubPlace> .</bibl>
+	<bibl><title level="a">Figure 12 Stability over vintages of turning points in the CLI for Japan at the time of the Great Recession Note:the Index of Industrial Production ( IIP)for Japan exhibits quite high volatility over the period</title> <date>2006 -2008</date>.<title level="a">Three close peakspotentially qualify as turning point</title> : <date>March2006</date> , <date>February2007 and February 2008</date> . <title level="a">TheBry - Boschanroutineprivileged</title> <date>March2006</date> . <title level="a">However ,the changeto GDP as reference series made the signal less noisy</title> . <note>As aresult , the Bry-Boschan routine shiftedthepeak to</note> <date>February 2008</date> .</bibl>
+	<bibl><title level="a">Source: Main Economic Indicators, OECD</title>.</bibl>
+	<bibl><date>July-06</date></bibl>
+	<bibl><date>August-06</date></bibl>
+	<bibl><date>September-06</date></bibl>
+	<bibl><date>October-06</date></bibl>
+	<bibl><date>November-06</date></bibl>
+	<bibl><date>December-06</date></bibl>
+	<bibl><date>January-07</date></bibl>
+	<bibl><date>February-07</date></bibl>
+	<bibl><date>March-07</date></bibl>
+	<bibl><date>April-07</date></bibl>
+	<bibl><date>May-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>July-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>September-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>November-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>January-08</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>March-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>May-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>July-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>September-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>November-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>January-09</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>March-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>May-09</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>June-09</date></bibl>
+	<bibl><date>August-09</date></bibl>
+	<bibl><date>October-09</date></bibl>
+	<bibl><date>December-09</date></bibl>
+	<bibl><date>February-10</date></bibl>
+	<bibl><date>April-10</date></bibl>
+	<bibl><date>June-10</date></bibl>
+	<bibl><date>August-10</date></bibl>
+	<bibl><date>October-10</date></bibl>
+	<bibl><date>December-10</date></bibl>
+	<bibl><date>February-11</date></bibl>
+	<bibl><date>April-11</date></bibl>
+	<bibl><date>June-11</date></bibl>
+	<bibl><date>August-11</date></bibl>
+	<bibl><date>October-11</date></bibl>
+	<bibl><date>December-11</date></bibl>
+	<bibl><date>February-12</date></bibl>
+	<bibl><date>April-12</date></bibl>
+	<bibl><date>June-12</date></bibl>
+	<bibl><date>August-12</date></bibl>
+	<bibl><date>October-12</date></bibl>
+	<bibl><date>December-12</date></bibl>
+	<bibl><date>February-13</date></bibl>
+	<bibl><date>April-13</date></bibl>
+	<bibl><date>June-13</date></bibl>
+	<bibl><date>August-13</date></bibl>
+	<bibl><date>October-13</date></bibl>
+	<bibl><date>December-13</date></bibl>
+	<bibl><date>February-14</date></bibl>
+	<bibl><date>April-14</date></bibl>
+	<bibl><date>June-14</date></bibl>
+	<bibl><date>August-14</date></bibl>
+	<bibl><title level="a">Dates of CLIs Turning Points VintagesPeak reachedin February</title> <date>2008</date> <author>for GDP &amp; in</author> <date>April 2008</date> <note>for IIP Trough reached inMay 2009 for both</note> <author>GDP and IIP PAT to HP IIPto GDP</author> <date>October 2007</date></bibl>
+	<bibl><date>July 2009</date></bibl>
+	<bibl><title level="a">Italy CLI revised in</title> <date>April 2012</date></bibl>
+	<bibl><date>May-05</date></bibl>
+	<bibl><date>June-05</date></bibl>
+	<bibl><date>July-05</date></bibl>
+	<bibl><date>August-05</date></bibl>
+	<bibl><date>September-05 October-05</date></bibl>
+	<bibl><date>November-05</date></bibl>
+	<bibl><date>December-05</date></bibl>
+	<bibl><date>January-06 March-06</date></bibl>
+	<bibl><date>April-06 May-06</date></bibl>
+	<bibl><date>June-06</date></bibl>
+	<bibl><date>July-06</date></bibl>
+	<bibl><date>August-06</date></bibl>
+	<bibl><date>September-06 October-06</date></bibl>
+	<bibl><date>November-06</date></bibl>
+	<bibl><date>December-06</date></bibl>
+	<bibl><date>January-07</date></bibl>
+	<bibl><date>February-07 March-07</date></bibl>
+	<bibl><date>April-07 May-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>July-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>September-07 October-07</date></bibl>
+	<bibl><date>November-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>January-08</date></bibl>
+	<bibl><date>February-08 March-08</date></bibl>
+	<bibl><date>April-08 May-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>July-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>September-08 October-08</date></bibl>
+	<bibl><date>November-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>January-09</date></bibl>
+	<bibl><date>February-09 March-09</date></bibl>
+	<bibl><date>April-09 May-09</date></bibl>
+	<bibl><date>April-06</date></bibl>
+	<bibl><date>June-06</date></bibl>
+	<bibl><date>August-06</date></bibl>
+	<bibl><date>October-06</date></bibl>
+	<bibl><date>December-06</date></bibl>
+	<bibl><date>February-07</date></bibl>
+	<bibl><date>April-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>June-09</date></bibl>
+	<bibl><date>August-09</date></bibl>
+	<bibl><date>October-09</date></bibl>
+	<bibl><date>December-09</date></bibl>
+	<bibl><date>February-10</date></bibl>
+	<bibl><date>April-10</date></bibl>
+	<bibl><date>June-10</date></bibl>
+	<bibl><date>August-10</date></bibl>
+	<bibl><date>October-10</date></bibl>
+	<bibl><date>December-10</date></bibl>
+	<bibl><date>February-11</date></bibl>
+	<bibl><date>April-11</date></bibl>
+	<bibl><date>June-11</date></bibl>
+	<bibl><date>August-11</date></bibl>
+	<bibl><date>October-11</date></bibl>
+	<bibl><date>December-11</date></bibl>
+	<bibl><date>February-12</date></bibl>
+	<bibl><date>April-12</date></bibl>
+	<bibl><date>June-12</date></bibl>
+	<bibl><date>August-12</date></bibl>
+	<bibl><date>October-12</date></bibl>
+	<bibl><date>December-12</date></bibl>
+	<bibl><date>February-13</date></bibl>
+	<bibl><date>April-13</date></bibl>
+	<bibl><date>June-13</date></bibl>
+	<bibl><date>August-13</date></bibl>
+	<bibl><date>October-13</date></bibl>
+	<bibl><date>December-13</date></bibl>
+	<bibl><date>February-14</date></bibl>
+	<bibl><date>April-14</date></bibl>
+	<bibl><date>June-14</date></bibl>
+	<bibl><date>August-14</date></bibl>
+	<bibl><title level="a">Dates of CLIs Turning Points VintagesPeak reachedin February</title> <date>2008</date> <author>for both GDP &amp; IIP</author> Trough reached in<date>April 2009 for</date> <author>GDP &amp; in</author> <date>May 2009 for</date> <author>IIP PAT to HP IIP</author>to <date>GDP September 2006</date></bibl>
+	<bibl><date>October 2009</date></bibl>
+	<bibl><title level="j">Japan CLI revised</title> in <date>June2007</date></bibl>
+	<bibl><author>STD/DOC</author>(<date>2016</date>)<biblScope unit="issue">8</biblScope></bibl>
+	<bibl><title level="a">Figure 13 Stability over vintages of turning points in the CLI for the United Kingdom at the time of the Great RecessionSource</title> :<publisher>MainEconomic Indicators , OECD</publisher>.</bibl>
+	<bibl><date>January-06</date></bibl>
+	<bibl><date>February-06</date></bibl>
+	<bibl><date>March-06</date></bibl>
+	<bibl><date>April-06</date></bibl>
+	<bibl><date>May-06</date></bibl>
+	<bibl><date>June-06</date></bibl>
+	<bibl><date>July-06</date></bibl>
+	<bibl><date>August-06</date></bibl>
+	<bibl><date>September-06</date></bibl>
+	<bibl><date>October-06</date></bibl>
+	<bibl><date>November-06</date></bibl>
+	<bibl><date>December-06</date></bibl>
+	<bibl><date>January-07</date></bibl>
+	<bibl><date>February-07</date></bibl>
+	<bibl><date>March-07</date></bibl>
+	<bibl><date>April-07</date></bibl>
+	<bibl><date>May-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>July-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>September-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>November-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>January-08</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>March-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>May-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>July-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>September-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>November-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>January-09</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>March-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>May-09</date></bibl>
+	<bibl><date>April-06</date></bibl>
+	<bibl><date>June-06</date></bibl>
+	<bibl><date>August-06</date></bibl>
+	<bibl><date>October-06</date></bibl>
+	<bibl><date>December-06</date></bibl>
+	<bibl><date>February-07</date></bibl>
+	<bibl><date>April-07</date></bibl>
+	<bibl><date>June-07</date></bibl>
+	<bibl><date>August-07</date></bibl>
+	<bibl><date>October-07</date></bibl>
+	<bibl><date>December-07</date></bibl>
+	<bibl><date>February-08</date></bibl>
+	<bibl><date>April-08</date></bibl>
+	<bibl><date>June-08</date></bibl>
+	<bibl><date>August-08</date></bibl>
+	<bibl><date>October-08</date></bibl>
+	<bibl><date>December-08</date></bibl>
+	<bibl><date>February-09</date></bibl>
+	<bibl><date>April-09</date></bibl>
+	<bibl><date>June-09</date></bibl>
+	<bibl><date>August-09</date></bibl>
+	<bibl><date>October-09</date></bibl>
+	<bibl><date>December-09</date></bibl>
+	<bibl><date>February-10</date></bibl>
+	<bibl><date>April-10</date></bibl>
+	<bibl><date>June-10</date></bibl>
+	<bibl><date>August-10</date></bibl>
+	<bibl><date>October-10</date></bibl>
+	<bibl><date>December-10</date></bibl>
+	<bibl><date>February-11</date></bibl>
+	<bibl><date>April-11</date></bibl>
+	<bibl><date>June-11</date></bibl>
+	<bibl><date>August-11</date></bibl>
+	<bibl><date>October-11</date></bibl>
+	<bibl><date>December-11</date></bibl>
+	<bibl><date>February-12</date></bibl>
+	<bibl><date>April-12</date></bibl>
+	<bibl><date>June-12</date></bibl>
+	<bibl><date>August-12</date></bibl>
+	<bibl><date>October-12</date></bibl>
+	<bibl><date>December-12</date></bibl>
+	<bibl><date>February-13</date></bibl>
+	<bibl><date>April-13</date></bibl>
+	<bibl><date>June-13</date></bibl>
+	<bibl><date>August-13</date></bibl>
+	<bibl><date>October-13</date></bibl>
+	<bibl><date>December-13</date></bibl>
+	<bibl><date>February-14</date></bibl>
+	<bibl><date>April-14</date></bibl>
+	<bibl><date>June-14</date></bibl>
+	<bibl><date>August-14</date></bibl>
+	<bibl><title level="m">Dates of CLIs Turning Points Vintages</title>Possible peakin <date>April 2006</date> Peak reached in<date>January 2008</date> <author>for both GDP &amp; IIP</author> Trough reached in <date>June2009</date> <author>for GDP &amp; in</author> <date>May 2009 for</date> <author>IIP PAT to HP IIP toGDP</author> <date>January 2008</date></bibl>
+	<bibl><date>August 2009</date></bibl>
+	<bibl><date>March 2007</date> <author>STD/DOC</author>(<date>2016</date>)<biblScope unit="volume">8</biblScope></bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

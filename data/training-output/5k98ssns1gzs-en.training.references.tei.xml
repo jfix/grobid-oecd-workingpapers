@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>Bonaccorsi, A.</author> (<date>2007</date>), &quot; <title level="a">Explaining poor performance of European science: institutions versus policies</title> &quot; , <title level="j">Scienceand Public Policy</title> ,<biblScope unit="volume">34</biblScope> (<biblScope unit="issue">5</biblScope>),<biblScope unit="page">303 -316</biblScope>.</bibl>
+	<bibl><author>Lepori, B.</author> (<date>2006</date>), &quot; <title level="a">Methodologies for the analysis of research funding and expenditure: from input to positioningindicators</title> &quot; , <note>Research Evaluation</note> ,<biblScope unit="volume">15</biblScope> (<biblScope unit="issue">2</biblScope>),<biblScope unit="page">133-143</biblScope></bibl>
+	<bibl><author>Lepori, B. et al.</author> (<date>2007a</date>), &quot; <title level="a">Indicators for comparative analysis of public funding: concepts, implementation andevaluation</title> &quot; , <note>Research Evaluation</note> ,<biblScope unit="volume">16</biblScope> (<biblScope unit="issue">4</biblScope>),<biblScope unit="page">243 -255</biblScope>.</bibl>
+	<bibl><author>Lepori, B. et al.</author> (<date>2007b</date>), &quot; <title level="a">Comparing the evolution of national policies: what patterns of change?</title> &quot; , <publisher>Scienceand Public Policy</publisher> ,<biblScope unit="volume">34</biblScope> (<biblScope unit="issue">6</biblScope>),<biblScope unit="page">372 -388</biblScope>.</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

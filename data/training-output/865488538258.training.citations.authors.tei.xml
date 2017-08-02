@@ -1,0 +1,138 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Adlung</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Ahortor</surname> <forename>C</forename>. <middlename>R</middlename>. <middlename>K</middlename>.</author>
+
+						<author><surname>Alverno</surname>, <forename>F</forename>.</author>
+
+						<author><forename>Apoyo</forename> <surname>Consultoria</surname></author>
+
+						<author><surname>Braga</surname>, <forename>C</forename>.<middlename>A</middlename>.<middlename>P</middlename>.</author>
+
+						<author><surname>Bressie</surname>, <forename>K</forename>., <forename>M</forename>. <surname>Kende</surname> and <forename>H</forename>. <surname>Williams</surname></author>
+
+						<author><surname>Brocklehurst</surname>, <forename>C</forename>., and <forename>J</forename>.<middlename>G</middlename>. <surname>Janssens</surname></author>
+
+						<author><surname>Cossy</surname>, <forename>M</forename>.</author>
+
+						<author><forename>De</forename> <surname>Rodriguez</surname>, <forename>C</forename>. <middlename>R</middlename>.</author>
+
+						<author><surname>Estache</surname>, <forename>A</forename>., <forename>A</forename>. <surname>Gomez-Lobo</surname> and <forename>D</forename>. <surname>Leipziger</surname></author>
+
+						<author><surname>Estache</surname>, <forename>A</forename>., <forename>V</forename>. <surname>Foster</surname>, <forename>Q</forename>. <surname>Wodon</surname></author>
+
+						<author><surname>Evans</surname>, <forename>P</forename>.<middlename>C</middlename>.</author>
+
+						<author><surname>Fink</surname>, <forename>C</forename>., <forename>A</forename>. <surname>Mattoo</surname> and <forename>R</forename>. <surname>Rathindran</surname></author>
+
+						<author><surname>Foster</surname>, <forename>V</forename>. and <forename>Maria Caridad</forename> <surname>Araujo</surname></author>
+
+						<author><surname>Fontdevila</surname>, <forename>P</forename>. <middlename>A</middlename>. and <forename>C</forename>. <surname>Jensen</surname></author>
+
+						<author><surname>Giannakis</surname>, <forename>D</forename>., <forename>T</forename>. <surname>Jamasb</surname> and <forename>M</forename>. <surname>Pollitt</surname></author>
+
+						<author><surname>Gleick</surname>, <forename>P</forename>. <middlename>H</middlename>., <forename>G</forename>. <surname>Wolff</surname>, <forename>E</forename>. <middlename>L</middlename>. <surname>Chalecki</surname> and <forename>R</forename>. <surname>Reyes</surname></author>
+
+						<author><surname>Gomez-Lobo</surname>, <forename>A</forename>. and <forename>D</forename>. <surname>Contreras</surname></author>
+
+						<author><surname>Guislain</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Hankins</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Haggarty</surname>, <forename>L</forename>., <forename>M</forename>. <surname>Shirley</surname> and <forename>S</forename>. <surname>Wallsten</surname></author>
+
+						<author><surname>Haselip</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Ianni</surname>, <forename>J</forename>.<middlename>B</middlename> and <forename>J</forename>. <surname>Lohmeyer</surname></author>
+
+						<author><surname>Intven</surname>, <forename>H</forename>. and <forename>&quot;</forename> <middlename>M</middlename>. <surname>Tetrault</surname></author>
+
+						<author><surname>Intven</surname>, <forename>H</forename>., <surname>Oliver</surname>, <forename>J</forename>. and <forename>E</forename>. <surname>Sepúlveda</surname></author>
+
+						<author><surname>Jadresic</surname> <forename>A</forename>.</author>
+
+						<author><surname>Jonsson</surname>, <forename>P</forename>.</author>
+
+						<author><surname>King</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Komives</surname>, <forename>K</forename>.</author>
+
+						<author><surname>Krajewski</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Kwoka</surname>, <forename>J</forename>.<middlename>E</middlename>.</author>
+
+						<author><surname>Lawson</surname>, <forename>C</forename>. and <forename>N</forename>. <surname>Meyenn</surname></author>
+
+						<author><surname>Mangwengwende</surname>, <forename>S</forename>.<middlename>E</middlename>.</author>
+
+						<author><surname>Mattoo</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Noll</surname>, <forename>R</forename>. and <forename>S</forename>. <surname>Wallsten</surname></author>
+
+						<author><forename>OECD</forename>/<surname>Eurostat</surname></author>
+
+						<author><surname>Paul</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Ravindra</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Reineke</surname>, <forename>D</forename>. and <forename>N</forename>. <surname>Schmitz</surname></author>
+
+						<author><surname>Research</surname> <forename>ICT</forename> <surname>Africa</surname></author>
+
+						<author><surname>Richardson</surname>, <forename>D</forename>., <surname>Ramirez</surname>, <forename>R</forename>. and <forename>M</forename>. <surname>Haq</surname></author>
+
+						<author><surname>Roseman</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Rosenthal</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Shirley</surname>, <forename>M</forename>. <middlename>M</middlename>.; <middlename>F</middlename>. <middlename>F</middlename>. <surname>Tusubira; F</surname>. <surname>Gebreab</surname> and <forename>L</forename>. <surname>Haggarty</surname></author>
+
+						<author><surname>Shirley</surname>, <forename>M</forename>. <middlename>M</middlename>.; <middlename>L</middlename>. <middlename>C</middlename>. <surname>Xu</surname> and <forename>Ana</forename> <middlename>Maria</middlename> <surname>Zuluaga</surname></author>
+
+						<author><surname>Simpson</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Svensson</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Thomas</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Trachtman</surname>, <forename>J</forename>.</author>
+
+						<author><forename>TD/TC/</forename><surname>WP</surname></author>
+
+						<author><surname>Walsh</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Wellenius</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Wolak</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Wolak</surname>, <forename>F</forename>., and <forename>R</forename>. <surname>Nordhaus</surname></author>
+
+						<author><surname>Wolfe</surname>, <forename>R</forename>.</author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>TD/TC/</forename><surname>WP</surname></author>
+
+						<author><surname>Zarrilli</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Zerah</surname>, <forename>M</forename>.<middlename>H</middlename>., <forename>K</forename>. <surname>Graham-Harrison</surname> and <forename>C</forename>. <surname>Brocklehurst</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

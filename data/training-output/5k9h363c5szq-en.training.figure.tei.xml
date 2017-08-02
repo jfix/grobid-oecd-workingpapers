@@ -1,0 +1,662 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5k9h363c5szq-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <figDesc>Ce document examine la façon dont la distribution des revenus varie dans les pays lorsque la valeur des<lb/> services publics fournis aux ménages est inclue. L&apos;imputation de la valeur de ces services dans les revenus<lb/> des ménages et l&apos;analyse de leur potentiel redistributif posent des défis méthodologiques importants, tels<lb/> que l &quot; estimation et l &quot; allocation de ces services aux bénéficiaires, ou l&apos;ajustement de l&apos;échelle d&apos;équivalence<lb/> aux besoins associés à ces services. Nous présentons des analyses de sensibilité, en utilisant deux<lb/> approches innovatrices mises en avant dans la littérature. Le document considère cinq grandes catégories<lb/> de services publics: éducation, santé, logement social, garde d&apos;enfants et soins aux personnes âgées. En<lb/> moyenne, dans les pays de l&apos;OCDE, les dépenses relatives à ces prestations «en nature» s &quot; élèvent à environ<lb/> 13% du PIB, soit légèrement plus que les dépenses relatives aux transferts en espèces-mais avec beaucoup<lb/> variations entre pays. Elargir le concept de revenu pour tenir compte des avantages « en nature » augmente<lb/> considérablement les ressources économiques des ménages: dans un pays typique de l&apos;OCDE, le revenu<lb/> annuel moyen des ménages serait proche de 28 000 USD, plutôt que 22 000 USD en parité de pouvoir<lb/> d &quot; achat. Mais les services publics contribuent également à réduire l&apos;inégalité de revenus, d &quot; un cinquième à<lb/> un tiers en fonction de la mesure d &quot; inégalité. Le Mexique et, selon la plupart des mesures d &quot; inégalités, les<lb/> États-Unis, le Portugal, l&apos;Irlande et le Royaume-Uni enregistrent des taux de réduction plus élevés, tandis<lb/> que la Slovénie enregistre des taux de réduction plus faibles. Dans tous les pays, les effets redistributifs<lb/> sont plus forts parmi les groupes de population spécifiques à risque de pauvreté plus élevé. Entre 2000 et<lb/> 2007, l&apos;impact redistributif des services publics est resté globalement stable. Toutefois, l&apos;impact est devenu<lb/> plus fort dans les pays où la part des services dans les revenus des ménages a augmenté de manière<lb/> significative, alors qu&apos;il s &quot; est affaibli dans les pays où cette part a diminué. Le document suggère que les<lb/> services publics remplissent un rôle de redistribution directe important dans les pays de l&apos;OCDE.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <label>3</label>
+
+            <head>.</head>
+
+            <label>6 </label>
+ 
+            <figDesc>Early childhood education and childcare services (ECEC): actual use approach .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>.1: Covariates used in the opportunity cost approach, EU-SILC 2007.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>.4: Share of age groups in total population, 2007.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>.</head>
+
+            <label>7</label>
+
+            <head>. </head>
+ 
+            <figDesc>Impact on inequality (S80/S20) of publicly provided services over time, 2000 and 2007 (*) 71</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figures<lb/><head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Public expenditure for in-kind and cash transfers, in percentage of GDP, 2007 .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Public expenditure for in-kind and cash transfers, in percentage of GDP, 2007</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Age-related expenditure profiles of health care provision (spending per capita as percent of GDP per<lb/> capita)<lb/> Source: European Commission and Economic Policy Committee (2009).<lb/> 3.5 Social housing: a regression-based actual use approach 17<lb/> 34.<lb/> Estimating the distributive effect of social housing is difficult, as it requires quantifying the<lb/> aggregate size of the implicit benefits provided. A method to take account of the income value households<lb/> 14<lb/> As only differences in age and gender are considered, this approach underestimates the equalising and<lb/> poverty-reducing effect of public health care services in countries where these are targeted to low-income<lb/> households (e.g. Medicaid in the United States). Even in health care systems with broad or universal<lb/> coverage, some elements are targeted towards low-income groups (e.g. reduced out-of-pocket payments for<lb/> hospitalisation, doctor visits etc.) and these are not accounted for in this type of imputation.<lb/> 15<lb/> It is common belief that health care costs rise steeply with age, because individuals are nearing their death,<lb/> making medical treatments more costly. Busse et al. (2002) conclude however that the relation between<lb/> health care costs and age is more complex. When hospital costs are considered, the most costly patients are<lb/> those who die young.<lb/> 16<lb/> As age is top-coded in EU-SILC at 80, the imputations undertaken in this report use the weighted average<lb/> for individuals aged 80 and over.<lb/> 17<lb/> The invaluable support of Joachim Frick and Markus Grabka (DIW – Berlin) for estimating imputed rent<lb/> for social renters is gratefully acknowledged.<lb/> </figDesc>
+
+            <lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> DEU Men<lb/> DEU Women<lb/> NLD Men<lb/> NLD Women<lb/> SWE Men<lb/> SWE Women<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> CZE Men<lb/> CZE Women<lb/> ITA Men<lb/> ITA Women<lb/> POL Men<lb/> POL Women</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Frick and Grabka (2003), Frick et al. (2006) and Frick et al. (2010). In the current<lb/> paper the opportunity cost approach is used (also known as the &quot; rental equivalence method &quot; ). Using<lb/> information from those households living in the private (non-subsidized) rental market, a rental value for<lb/> all property of tenants in the social rental sector is estimated. It is based on a hedonic regression estimation<lb/> of the logarithm of rent actually paid by main tenants on the private housing market (so excluding social<lb/> housing and any other reduced rent payments) (covariates of the regression can be found in Table A.1 in<lb/> Annex 1).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Table</head>
+
+            <label>2</label>
+
+            <head>: </head>
+ 
+            <figDesc>Method used to estimate imputed rent for social renters and frequency of different categories of<lb/> tenure status (households)<lb/> Source: OECD Secretariat&apos;s computations from EU-SILC 2007.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>as the age groups are not identical, but bearing this in mind we can see remarkable<lb/> differences in coverage: in Norway, for instance, 62 per cent of the oldest age group (85+) are using home<lb/> care services while the same figure is 7 per cent in Estonia (80+). The use of institutional care varies from<lb/> 4 per cent in Estonia and 8 per cent in Spain to 34 per cent in Denmark and 40 per cent in Iceland<lb/> (Vaalavuo, 2011).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Share of Age Group Using Services for Elderly People.<lb/> Notes: a.) The information for France and the UK (England) is aggregated for both home care and institutional care. b.) In Iceland<lb/> and Slovenia, home care services and in Italy, both home and institutional care are calculated for the total age group of 65+. c.) Age<lb/> groups: Denmark and Norway 67-74, 75-84, 85+; Hungary 65-69, 70-79, 80+; Estonia and Spain 65-79, 80+; France and Slovenia<lb/> 65-74, 75-79, 80+; the UK 65-74, 75+. d.)Data is from mid-2000s.<lb/> Source: Vaalavuo (2011) (Different national sources, see Annex 2)</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>are derived from the empirical data used in this study.<lb/> 22<lb/> The difference between a fixed and a floating poverty line is discussed later in chapter 3.9.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>lists a selection of household types and the corresponding equivalence scales for cash<lb/> income (square root of household size), non-cash income (NC scale) and extended income (NA scale). The<lb/> examples given here are all for households with adults not in education. Results are in line with those<lb/> reported by Aaberge et al. (2010b). The age profiles of health care and long-term elderly care spending are<lb/> reflected in the NC-scale that increases with age and that shows higher needs for women compared to men.<lb/> Also household with children have higher values of the NC-scale, following patterns on education<lb/> spending.<lb/> 25<lb/> In this respect, the approach in this study differs from Aaberge et al. 2010b, who use the median; however,<lb/> as our target groups are very narrowly defined, the median may not return a value for each target group.<lb/> Hence, the average is taken.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Table</head>
+
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>Equivalence scales for cash and non-cash incomes by household type<lb/> Source: OECD Secretariat&apos;s computations from EU-SILC 2007.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>28<lb/> This is equivalent to an increase in households income from USD 21 500 to USD 27 600, for the average<lb/> of countries considered here..</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>In-kind benefit from public services as a share of disposable income, 2007<lb/> Notes: 1) ECEC=Early Childhood Education and Childcare; LTC=elderly long-term care; CT=cash transfers. 2) The income concept<lb/> used is that of disposable household income in cash, adjusted for household size with the modified OECD scale. 3) Countries are<lb/> ranked in decreasing order by share of total in-kind expenditures in disposable income.<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 5%<lb/> 10%<lb/> 15%<lb/> 20%<lb/> 25%<lb/> 30%<lb/> 35%<lb/> 40%<lb/> 45%<lb/> 0%<lb/> 5%<lb/> 10%<lb/> 15%<lb/> 20%<lb/> 25%<lb/> 30%<lb/> 35%<lb/> 40%<lb/> 45%<lb/> Education<lb/> Health Care<lb/> Social Housing<lb/> ECEC<lb/> LTC<lb/> CT excl. pens<lb/> CT incl. pensions</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>In-kind benefit from public services as a share of disposable income for different age categories<lb/> Note: Countries are ranked in decreasing order of the share of in-kind benefits in disposable income for the overall population.<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> &lt;= 18 year<lb/> 18 -65 y<lb/> 65+ y<lb/> Total </trash>
+ 
+            <figDesc>Table 7: In-kind benefits as a share of disposable income per quintile, average over 27 OECD-countries<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of value of total public services over quintiles, 2007.<lb/> Note: Countries are ranked in decreasing order by share of total services spent in the bottom quintile (Q1).<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.<lb/> 93.<lb/> Given the large shares of in-kind services in disposable income, especially for poorer groups, it<lb/> is interesting to see how the income distribution changes once services are taken into account. Before<lb/> considering services, income inequality as measured by the Gini coefficient is high (around 0.37) in<lb/> Portugal and the United States and highest in Mexico (0.47), and comparatively low (0.25 and below) in<lb/> Slovenia, Sweden, Norway and Denmark (see Figure 6). But when services are included the Gini<lb/> coefficient falls by roughly around one fifth, on average, from 0.30 to 0.24. Reduction rates range from</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>6</label>
+
+            <head>. </head>
+ 
+            <figDesc>Gini coefficient before and after inclusion of all types of public services.<lb/> Note: Countries are ranked in increasing order of Gini of cash income. The Gini coefficient ranges from zero (when everybody has<lb/> identical incomes) to 1 (when all income goes to only one person).<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0,00<lb/> 0,10<lb/> 0,20<lb/> 0,30<lb/> 0,40<lb/> 0,50<lb/> Gini<lb/> Cash income<lb/> Extended income</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>7</label>
+
+            <head>. </head>
+ 
+            <figDesc>Poverty rates before and after including total of public services, fixed and floating poverty line, 2007.<lb/> Note: Countries are ranked in increasing order of disposable income poverty.<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.<lb/> 98.<lb/> Poverty reduction is not the prime aim of education, health and other in-kind services. The<lb/> question rather is what could be the overall impact of in-kind services on poverty given the current level<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 5%<lb/> 10%<lb/> 15%<lb/> 20%<lb/> 25%<lb/> 0%<lb/> 2%<lb/> 4%<lb/> 6%<lb/> 8%<lb/> 10%<lb/> 12%<lb/> 14%<lb/> 16%<lb/> 18%<lb/> 20%<lb/> Cash disposable income<lb/> Extended income (fixed PL)<lb/> Extended income (Floating PL)</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>.4 in Annex 1).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>8</label>
+
+            <head>. </head>
+ 
+            <figDesc>Income advantage from public services and cash transfers going below the poverty line as a share of<lb/> the poverty gap of disposable income, poverty line at 50% of median equivalent income<lb/> Note: Countries are ranked in decreasing order by share of in-kind benefits spent below the poverty line in poverty gap.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> Public services (total)<lb/> &lt;= 18 year<lb/> 18 -65 y<lb/> 65+ y<lb/> Cash transfers (excl. pensions)<lb/> Cash transfers (incl. pensions) </trash>
+ 
+            <head>Figure </head>
+ 
+            <label>9</label>
+
+            <head>. </head>
+ 
+            <figDesc>Gini coefficient before and after inclusion of all types of public services, comparing three<lb/> equivalence scales for extended income<lb/> Note: Countries are ranked in increasing order of Gini of cash income. oecd=modified OECD scale; sd_pa=sensitivity test for different<lb/> spending levels; tb_aa=theoretically-based equivalence scale.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0.00<lb/> 0.05<lb/> 0.10<lb/> 0.15<lb/> 0.20<lb/> 0.25<lb/> 0.30<lb/> 0.35<lb/> 0.40<lb/> 0.00<lb/> 0.05<lb/> 0.10<lb/> 0.15<lb/> 0.20<lb/> 0.25<lb/> 0.30<lb/> 0.35<lb/> 0.40<lb/> Gini<lb/> coefficient<lb/> Cash income (↗)<lb/> Extended income (oecd)<lb/> Extended income (sd_aa)<lb/> Extended income (tb_pa) </trash>
+ 
+            <head>Figure </head>
+ 
+            <label>10</label>
+
+            <head>. </head>
+ 
+            <figDesc>In-kind benefit from education services as a share of disposable income<lb/> Notes: 1) DK, IS include expenditures on R&amp;D in tertiary education. 2) Countries are ranked in decreasing order by share of total<lb/> education expenditures in disposable income.<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 2%<lb/> 4%<lb/> 6%<lb/> 8%<lb/> 10%<lb/> 12%<lb/> 14%<lb/> 16%<lb/> 18%<lb/> Primary<lb/> Lower secondary<lb/> Upper secondary<lb/> Post secondary<lb/> Tertiary<lb/> DELSA/ELSA/WD/SEM(2011)15<lb/> 42<lb/> </trash>
+<lb/> 
+            <head>Figure </head>
+ 
+            <label>11</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of education services over quintiles<lb/> Notes: Countries are ranked in decreasing order by share of education expenditures in the bottom quintile (Q1).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/>10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> A. Total education services<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> B. Compulsory education<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> C. Upper secondary education<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> D. Tertiary education<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>.3 in Annex 1).<lb/> 110.<lb/> The Gini coefficient drops considerably when including public education services in the income<lb/> concept. On average, it falls from 0.30 to 0.28, with a relatively low decline in Belgium and Finland and<lb/> more substantial reductions in countries like Mexico, Ireland and Poland (see Figure 12 and Table A.5 in<lb/> Annex 1).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>12</label>
+
+            <head>. </head>
+ 
+            <figDesc>Gini coefficient before and after inclusion of public education services.<lb/> Note: Countries are ranked in increasing order of Gini for cash income.<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0,00<lb/> 0,10<lb/> 0,20<lb/> 0,30<lb/> 0,40<lb/> 0,50<lb/> Gini<lb/> Cash income<lb/> Extended income (+ education)</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>13</label>
+
+            <head>. </head>
+ 
+            <figDesc>In-kind benefit from education services going below poverty line as a share of the poverty gap of<lb/> disposable income, total, by age group and by education level, poverty line at 50% of median equivalent<lb/> income<lb/> Note: Countries are ranked in decreasing order of total education expenditures spent below the poverty line in percentage of the<lb/> poverty gap.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> &lt;= 18 year<lb/> 18 -65 y<lb/> 65+ y<lb/> Compulsory<lb/> Upper secondary<lb/> Tertiary</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>14</label>
+
+            <head>. </head>
+ 
+            <figDesc>In-kind benefit from health care services as a share of disposable income<lb/> Note: Countries are ranked in decreasing order by share of total health care expenditures in disposable income.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 2%<lb/> 4%<lb/> 6%<lb/> 8%<lb/> 10%<lb/> 12%<lb/> 14%<lb/> 16%<lb/> 18%<lb/> 20%<lb/> Men<lb/> Women</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>15</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of health care in-kind benefits over quintiles<lb/> Note: Countries are ranked in decreasing order by share of health care expenditures in the bottom quintile (Q1).<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.<lb/> 116.<lb/> The Gini coefficient drops considerably when public health care services are included in the<lb/> income concept. On average, it falls from 0.30 to 0.27, with relatively low decreases in Norway, the<lb/> Netherlands, Poland and Italy and, contrasted to more important drops in countries like Belgium and<lb/> Portugal (see Figure 16 and Table A.6 in Annex). The inequality-reducing effect of health care services is<lb/> thus higher than that of education services, except in Canada, Italy, Mexico, Poland and the United States<lb/> where health and education reduce inequality by approximately the same degree.<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5 </trash>
+ 
+            <head>Figure </head>
+ 
+            <label>16</label>
+
+            <head>. </head>
+ 
+            <figDesc>Gini coefficient before and after inclusion of public health care services.<lb/> Note: Countries are ranked in increasing order of Gini for cash income.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0,00<lb/> 0,10<lb/> 0,20<lb/> 0,30<lb/> 0,40<lb/> 0,50<lb/> Gini<lb/> Cash income<lb/> Extended income (health care) </trash>
+ 
+            <head>Figure </head>
+ 
+            <label>17</label>
+
+            <head>. </head>
+ 
+            <figDesc>In-kind benefit from health care services going below poverty line as a share of the poverty gap of<lb/> disposable income, poverty line at 50% of median equivalent income<lb/> Note: Countries are ranked in decreasing order of total health care expenditures spent below the poverty line in percentage of the<lb/> poverty gap.<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>33<lb/> Note that no estimates for social housing are available for Australia, Canada, Denmark, Mexico, the<lb/> Netherlands and the United States (see Chapter 3). Results for Greece and the Slovak Republic are only<lb/> illustrative, given the low number of cases in social housing.<lb/> 34<lb/> Note however that the overestimation of imputed rent in these two countries may play a role here, </figDesc>
+ see<lb/> Chapter 3.<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> &lt;= 18 year<lb/> 18 -65 y<lb/> 65+ y<lb/> HC men<lb/> HC women</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Share of beneficiaries of SH<lb/> SH as share of disposable income, reduced rent tenants only </figDesc>
+ 
+            <head>Figure </head>
+ 
+            <label>18</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of social housing benefit over quintiles<lb/> Notes: 1) Countries are ranked in decreasing order by share of social housing expenditures in the bottom quintile (Q1).<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>19</label>
+
+            <head>. </head>
+ 
+            <figDesc>In-kind benefit from social housing going below poverty line as a share of the poverty gap of<lb/> disposable income, poverty line at 50% of median equivalent income<lb/> Note: Countries are ranked in decreasing order of social housing expenditures spent below the poverty line in percentage of the<lb/> poverty gap.<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 5%<lb/> 10%<lb/> 15%<lb/> 20%<lb/> 25%<lb/> 30%<lb/> &lt;= 18 year<lb/> 18 -65 y<lb/> 65+ y</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>20</label>
+
+            <head>. </head>
+ 
+            <figDesc>In-kind benefit from ECEC services as a share of disposable income<lb/> Note: Countries are ranked in decreasing order by share of ECEC expenditures in disposable income.<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 1%<lb/> 2%<lb/> 3%<lb/> 4%<lb/> 5%<lb/> 6%<lb/> 0%<lb/> 1%<lb/> 2%<lb/> 3%<lb/> 4%<lb/> 5%<lb/> 6%<lb/> Pre-primary education<lb/> Childcare<lb/> Total </trash>
+ 
+            <head>Figure </head>
+ 
+            <label>21</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of ECEC in-kind benefits over quintiles<lb/> Note: Countries are ranked in decreasing order by share of ECEC expenditures in the bottom quintile (Q1).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5 Table 9</trash>
+
+            <head>. </head>
+ 
+            <figDesc>Actual ECEC beneficiaries as a share of potential beneficiaries (children aged 0-6), by income quintile<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>A.6 in Annex 1). On average, this decrease is<lb/> small with some 1.2%. Reductions are strongest in Hungary, Iceland and Luxembourg. 36 The other two<lb/> indicators (S80/S20 and P90/P10) give similar results.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>22</label>
+
+            <head>. </head>
+ 
+            <figDesc>Income advantage from ECEC services going below poverty line as a share of the poverty gap of<lb/> disposable income, poverty line at 50% of median equivalent income<lb/> Note: Countries are ranked in decreasing order of total ECEC expenditures spent below the poverty line in percentage of the poverty<lb/> gap.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 5%<lb/> 10%<lb/> 15%<lb/> 20%<lb/> 25%<lb/> Total ECEC </trash>
+ 
+            <head>Figure </head>
+ 
+            <label>23</label>
+
+            <head>. </head>
+ 
+            <figDesc>In-kind benefits for elderly care as a percentage of disposable income<lb/> Note: Countries are ranked in decreasing order by share of LTC expenditures in disposable income.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 1%<lb/> 2%<lb/> 3%<lb/> 4%<lb/> 5%<lb/> 6%<lb/> 0%<lb/> 1%<lb/> 2%<lb/> 3%<lb/> 4%<lb/> 5%<lb/> 6%<lb/> Total elderly care<lb/> Home care<lb/> Residential care </trash>
+ 
+            <head>Figure </head>
+ 
+            <label>24</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of elderly care expenditures over income quintiles<lb/> Note: Countries are ranked in decreasing order by share of LTC in-kind benefits in the bottom quintile (Q1).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5 </trash>
+ 
+            <head>Figure </head>
+ 
+            <label>25</label>
+
+            <head>. </head>
+ 
+            <figDesc>Income advantage from long-term care (LTC) services going below poverty line as a share of the<lb/> poverty gap of disposable income, poverty line at 50% of median equivalent income<lb/> Note: Countries are ranked in decreasing order of total LTC expenditures spent below the poverty line in percentage of the poverty<lb/> gap.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>37<lb/> The calculations for 2000 in OECD (2008a) are based on ECHP for the fifteen EU countries, on HILDA<lb/> for Australia and on LIS-data for Canada and the United States. Results for Luxembourg are not entirely<lb/> comparable as education had not been imputed in 2000. Regarding social housing, no estimates were<lb/> possible in 2000 for Australia, Canada, Luxembourg, Sweden and the United States; in the most recent<lb/> year, no estimates are available for Australia, Canada, Denmark, the Netherlands and the United States.<lb/> Estimates of the value of social housing for 2007 use a correction for potential selection bias, which was<lb/> not done for the 2000 calculation.<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 1%<lb/> 2%<lb/> 3%<lb/> 4%<lb/> 5%<lb/> 6%<lb/> 7%<lb/> 8%<lb/> 9%<lb/> 10%<lb/> LTC Table 10. </trash>
+ 
+            <figDesc>Evolution of public expenditures on in-kind transfers, in percentage of GDP, 2000 – 2007.<lb/> Source: OECD Social Expenditure database, OECD Education database, OECD Health database.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>26</label>
+
+            <head>. </head>
+ 
+            <figDesc>Association between trends in size of expenditures on public services (as a share of disposable<lb/> income) and changes in inequality reduction, 2000 -2007<lb/> Note: Percentage point changes in the share of in-kind benefits of services in disposable income, and of the percentage reduction in<lb/> inequality (Gini coefficient), respectively.<lb/> Source: OECD (2008a); OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services<lb/> and national survey data for non-EU countries.<lb/> </figDesc>
+
+            <lb/> AUS<lb/> AUT<lb/> BEL<lb/> CAN<lb/> SWE<lb/> DNK<lb/> FIN<lb/> FRA<lb/> DEU<lb/> GBR<lb/> GRC<lb/> IRL<lb/> ITA<lb/> PRT<lb/> NLD<lb/> ESP<lb/> USA<lb/> -8<lb/> -6<lb/> -4<lb/> -2<lb/> 0<lb/> 2<lb/> 4<lb/> 6<lb/> -10<lb/> -5<lb/> 0<lb/> 5<lb/> 10<lb/> Changes<lb/> in<lb/> inequality<lb/> reduction<lb/> Changes in expenditures on services</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>A.1: Covariates used in the opportunity cost approach, EU-SILC 2007.<lb/> Covariates<lb/> Type of the dwelling:<lb/>  Detached house<lb/>  Semi-detached house<lb/>  Apartment/flat in building with &lt;10 dwellings<lb/>  Apartment/flat in building with ≥10 dwellings<lb/> Size of the dwelling:<lb/>  1 room in house<lb/>  2 rooms<lb/>  3 rooms<lb/>  4 rooms<lb/>  5 rooms<lb/>  6 or more rooms<lb/> Quality of the dwelling:<lb/>  Moisture free?<lb/>  Possible to keep home adequately warm?<lb/>  Modern comfort present? (bath / shower / indoor flushing toilet)<lb/>  Dwelling too dark?<lb/>  Central heating?<lb/> Quality of the neighbourhood<lb/>  Noise from neighbours / street?<lb/>  Pollution, grime or other environmental problem?<lb/>  Crime, violence or vandalism in the area?<lb/> Geographical location<lb/>  Densely populated area<lb/>  Intermediate area<lb/>  Thinly populated area<lb/> Occupancy in years<lb/> Household disposable income (only when OLS is used) Table A.2: Estimates of imputed rent for reduced rent tenants, after adding random error term (5 replications),<lb/> EU-SILC 2007.<lb/> (1) = average amount of imputed rent per month; (2) = share of social rent households with negative estimates<lb/> Source: OECD Secretariat&apos;s calculations from EU-SILC 2007<lb/> </figDesc>
+
+            <lb/> (1)<lb/> (2)<lb/> (1)<lb/> (2)<lb/> (1)<lb/> (2)<lb/> (1)<lb/> (2)<lb/> (1)<lb/> (2)<lb/> AUT<lb/> 72Table A.3: </trash>
+ 
+            <figDesc>Poverty thresholds used in the analysis (50%) of median equivalent income), single person, 2007.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            -0.6% -6.8%<lb/> ESP<lb/> 0.310<lb/> -6.4% -11.6% -0.4% -1.4% -0.8%<lb/> 5.33<lb/> -11.7% -22.7%<lb/> -1.0% -3.1% -2.2%<lb/> 4.38<lb/> -7.8% -21.3% -0.7% -1.1% -3.1%<lb/> EST<lb/> 0.338<lb/> -6.0% -11.3% -0.1% -1.0% -0.3%<lb/> 5.82<lb/> -8.1% -20.9%<lb/> -0.3% -1.8% -0.8%<lb/> 4.51<lb/> -1.4% -18.8%<lb/> 0.1% -0.8% -1.1%<lb/> FIN<lb/> 0.266<lb/> -4.3% -10.8% -1.1% -1.0% -2.5%<lb/> 3.83<lb/> -3.1% -14.5%<lb/> -1.9% -0.3% -3.9%<lb/> 3.13<lb/> 0.1% -14.3% -2.2% -0.4% -4.8%<lb/> FRA<lb/> 0.264<lb/> -5.8% -13.0% -1.1% -1.8% -0.8%<lb/> 3.83<lb/> -7.1% -17.5%<lb/> -1.8% -2.5% -1.1%<lb/> 3.19<lb/> -5.3% -14.5% -1.7% -1.5% -0.8%<lb/> GBR<lb/> 0.330<lb/> -7.0% -12.5% -4.6% -0.7% -1.6%<lb/> 5.59<lb/> -11.2% -22.8%<lb/> -8.9% -1.3% -3.6%<lb/> 4.38<lb/> -9.4% -20.7% -8.8% -1.1% -3.7%<lb/> GRC<lb/> 0.342<lb/> -5.9%<lb/> -9.6%<lb/> 0.0% -0.5%<lb/> 6.05<lb/> -12.5% -20.4%<lb/> -0.1% -1.3%<lb/> 4.77<lb/> -10.9% -19.9% -0.2% -1.0%<lb/> HUN<lb/> 0.262<lb/> -8.2% -10.5% -0.5% -2.8% -1.3%<lb/> 3.79<lb/> -9.8% -13.2%<lb/> -0.9% -4.3% -1.2%<lb/> 3.14<lb/> -8.4% -11.2% -1.0% -5.3% -1.5%<lb/> IRL<lb/> 0.317<lb/> -10.1% -12.5% -3.4% -0.1%<lb/> 5.00<lb/> -11.9% -20.4%<lb/> -7.0%<lb/> 0.0%<lb/> 4.00<lb/> -8.4% -19.3% -7.8%<lb/> 0.4%<lb/> ISL<lb/> 0.291<lb/> -7.9% -11.4% -0.5% -2.5% -3.1%<lb/> 4.21<lb/> -9.0% -15.8%<lb/> -1.0% -3.6% -4.0%<lb/> 3.23<lb/> -7.1% -14.2% -1</trash>
+        </figure>
+
+
+        <figure>
+
+            OECD-27 0.298<lb/> -7.0% -11.0% -0.8% -1.2% -1.8%<lb/> 4.95<lb/> -10.6% -18.4%<lb/> -1.6% -2.3% -2.4%<lb/> 3.94<lb/> -8.2% -17.0% -1.7% -1.8% -2.6%<lb/> S80/S20<lb/> Gini<lb/> P90/P10</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>.</head>
+
+            <label>7</label>
+
+            <head>. </head>
+ 
+            <figDesc>Impact on inequality (S80/S20) of publicly provided services over time, 2000 and 2007 (*)<lb/> (*) the most recent year is 2004 for Canada and the United States of America.<lb/> Note: OECD-average excludes Luxembourg, as no estimates for education are available for 2000.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            OECD-17<lb/> 4.75<lb/> -19.0%<lb/> -12.7%<lb/> -1.1% -28.8%<lb/> 4.95<lb/> -19.9% -12.3%<lb/> -1.6%<lb/> -29.0%<lb/> 2000<lb/> 2007 </trash>
+ 
+            <head>Figure A. </head>
+ 
+            <label>1 </label>
+ 
+            <figDesc>Distribution of beneficiaries of compulsory education over quintiles<lb/> Note: Countries are ranked in decreasing order by share of beneficiaries in the bottom quintile (Q1).<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>A</label>
+
+            <head>. </head>
+ 
+            <figDesc>2 Distribution of beneficiaries of upper-secondary education over quintiles<lb/> Note: Countries are ranked in decreasing order by share of beneficiaries in the bottom quintile (Q1).<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5 </trash>
+ 
+            <head>Figure </head>
+ 
+            <label>A</label>
+
+            <head>. </head>
+ 
+            <figDesc>3 Distribution of beneficiaries of tertiary education over quintiles<lb/> Note: Countries are ranked in decreasing order by share of beneficiaries in the bottom quintile (Q1).<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>A</label>
+
+            <head>. </head>
+ 
+            <figDesc>4 : Distribution of beneficiaries of social housing over quintiles<lb/> Note: Countries are ranked in decreasing order by share of beneficiaries in the bottom quintile (Q1).<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5 </trash>
+ 
+            <head>Figure A.</head>
+
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of ECEC beneficiaries over income quintiles<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

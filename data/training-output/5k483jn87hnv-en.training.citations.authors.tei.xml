@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Barton</surname> <forename>J</forename>.</author>
+
+						<author><surname>Branstetter</surname> <forename>L</forename>. <middlename>G</middlename>., <surname>Fisman</surname> <forename>R</forename>., <surname>Foley</surname> <forename>C</forename>. <middlename>F</middlename>.</author>
+
+						<author><surname>Brunnermeier</surname> <forename>S</forename>.<middlename>B</middlename>., <surname>Cohen</surname> <forename>M</forename>.<middlename>A</middlename>.</author>
+
+						<author><surname>Crabb</surname> <forename>J</forename>., <surname>Johnson</surname> <forename>D</forename>.</author>
+
+						<author><surname>de Coninck</surname>, <forename>H</forename>., <surname>Haake</surname>, <forename>F</forename>., <surname>van der Linden</surname>, <forename>N</forename>.</author>
+
+						<author><surname>De la Tour</surname> <forename>A</forename>., <surname>Glachant</surname> <forename>M</forename>., <surname>Ménière</surname> <forename>Y</forename>.</author>
+
+						<author><surname>De La Tour</surname>, <forename>A</forename>., <surname>Glachant</surname>, <forename>M</forename>., <surname>Ménière</surname>, <forename>Y</forename>.</author>
+
+						<author><surname>Dechezleprêtre</surname> <forename>A</forename>., <surname>Glachant</surname> <forename>M</forename>.</author>
+
+						<author><surname>Dechezleprêtre</surname> <forename>A</forename>., <surname>Glachant</surname> <forename>M</forename>., <surname>Haščič</surname> <forename>I</forename>., <surname>Johnstone</surname> <forename>N</forename>., <surname>Ménière</surname> <forename>Y</forename>.</author>
+
+						<author><surname>Dechezleprêtre</surname> <forename>A</forename>., <surname>Glachant</surname> <forename>M</forename>., <surname>Ménière</surname> <forename>Y</forename>.</author>
+
+						<author><surname>Dechezleprêtre</surname> <forename>A</forename>., <surname>Glachant</surname> <forename>M</forename>., <surname>Ménière</surname> <forename>Y</forename>.</author>
+
+						<author><surname>Dekker</surname>, <forename>T</forename>., <surname>Vollebergh</surname>, <forename>H</forename>.<middlename>R</middlename>.<middlename>J</middlename>., <surname>de Vries</surname>, <forename>Frans</forename> <middlename>P</middlename>., <surname>Withagen</surname>, <forename>C</forename>. <middlename>A</middlename>.</author>
+
+						<author><surname>Eaton</surname> <forename>J</forename>., <surname>Kortum</surname> <forename>S</forename>.</author>
+
+						<author><surname>Glachant</surname> <forename>M</forename>., <surname>Ménière</surname> <forename>Y</forename>.</author>
+
+						<author><surname>Glachant</surname>, <forename>M</forename>., <surname>Dussaux</surname>, <forename>D</forename>., <surname>Ménière</surname>, <forename>Y</forename>., <surname>Dechezleprêtre</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Haites</surname> <forename>E</forename>., <surname>Duan</surname> <forename>M</forename>., <surname>Seres</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Haščič</surname>, <forename>I</forename>., <forename>J</forename>. <surname>Silva</surname> and <forename>N</forename>. <surname>Johnstone</surname></author>
+
+						<author><surname>Haščič</surname>, <forename>I</forename>., <forename>N</forename>. <surname>Johnstone</surname> and <forename>N</forename>. <surname>Kahrobaie</surname></author>
+
+						<author><surname>Hoekman</surname> <forename>B</forename>.<middlename>M</middlename>., <surname>Maskus</surname> <forename>K</forename>.<middlename>E</middlename>., <surname>Saggi</surname> <forename>K</forename>.</author>
+
+						<author><surname>Johnstone</surname>, <forename>J</forename>., <surname>Haščič</surname>, <forename>I</forename>., <surname>Watson</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Keller</surname> <forename>W</forename>.</author>
+
+						<author><surname>Kirkegaard</surname> <forename>J</forename>.<middlename>F</middlename>., <surname>Hanemann</surname> <forename>T</forename>., <surname>Weischer</surname> <forename>L</forename>.</author>
+
+						<author><surname>Lanjouw</surname> <forename>J</forename>.<middlename>O</middlename>., <surname>Mody</surname> <forename>A</forename>.</author>
+
+						<author><surname>Lee</surname> <forename>J.-Y</forename>., <surname>Mansfield</surname> <forename>E</forename>.</author>
+
+						<author><surname>Mancusi</surname> <forename>M</forename>.</author>
+
+						<author><surname>Maskus</surname> <forename>K</forename>.<middlename>E</middlename>.</author>
+
+						<author><surname>Maskus</surname> <forename>K</forename>.<middlename>E</middlename>.</author>
+
+						<author><surname>Ménière</surname>, <forename>Y</forename>., <surname>Carrère</surname>, <forename>F</forename>., <surname>Dechezleprêtre</surname>, <forename>A</forename>., <surname>Glachant</surname>, <forename>M</forename>., <forename>Le</forename> <surname>Blanc</surname>, <forename>G</forename>., <surname>Pot</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Newell</surname> <forename>R</forename>.<middlename>G</middlename>., <surname>Jaffe</surname> <forename>A</forename>.<middlename>B</middlename>., <surname>Stavins</surname> <forename>R</forename>.<middlename>N</middlename>.</author>
+
+						<author><surname>Ockwell</surname>, <forename>D</forename>., <surname>Watson</surname>, <forename>J</forename>., <surname>Mallett</surname>, <forename>A</forename>., <surname>Haum</surname>, <forename>R</forename>., <surname>MacKerron</surname> <forename>G</forename>., <surname>Verbeken</surname>, <forename>A-M</forename>.</author>
+
+						<author><surname>Ockwell</surname>, <forename>D</forename>.<middlename>G</middlename>., <surname>Watson</surname> <forename>J</forename>., <surname>MacKerron</surname> <forename>G</forename>., <surname>Pal</surname> <forename>P</forename>., <surname>Yamin</surname> <forename>F</forename>.</author>
+
+						<author><surname>Parello</surname> <forename>C</forename>.</author>
+
+						<author><surname>Peters</surname> <forename>M</forename>., <surname>Schneider</surname> <forename>M</forename>., <surname>Griesshaber</surname> <forename>T</forename>., <surname>Hoffmann</surname> <forename>V</forename>.<middlename>H</middlename>.</author>
+
+						<author><surname>Popp</surname> <forename>D</forename>.</author>
+
+						<author><surname>Popp</surname> <forename>D</forename>., <surname>Hafner</surname> <forename>T</forename>., <surname>Johnstone</surname> <forename>N</forename>.</author>
+
+						<author><surname>Popp</surname>, <forename>David</forename></author>
+
+						<author><surname>Rivera-Batiz</surname> <forename>L</forename>., <surname>Romer</surname> <forename>P</forename>.</author>
+
+						<author><surname>Sampath</surname> <forename>G</forename>., <surname>Roffe</surname> <forename>P</forename>.</author>
+
+						<author><surname>Seres</surname> <forename>S</forename>.</author>
+
+						<author><surname>Smith</surname> <forename>P</forename>.<middlename>J</middlename>.</author>
+
+						<author><surname>Verdolini</surname> <forename>E</forename>., <surname>Galeotti</surname> <forename>M</forename>.</author>
+
+						<author><surname>OECD Green</surname> <forename>Growth</forename> <surname>Papers</surname> www.oecd.org/greengrowth <forename>GREENING</forename> <surname>GLOBAL VALUE</surname> CHAINS <surname>INNOVATION</surname> AND <surname>THE</surname> INTERNATIONAL <surname>DIFFUSION</surname> OF <surname>TECHNOLOGIES</surname> AND <surname>KNOWLEDGE</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Bar</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Baker</surname>, <forename>S</forename>. and <forename>C</forename>. <surname>Mezzetti</surname></author>
+
+						<author><surname>Blind</surname>, <forename>K</forename>., <forename>J</forename>. <surname>Edler</surname>, <forename>R</forename>. <surname>Frietsch</surname>, and <forename>U</forename>. <surname>Schmoch</surname></author>
+
+						<author><surname>Ceccagnoli</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Cohen</surname>, <forename>W</forename>., <forename>A</forename>. <surname>Goto</surname>, <forename>A</forename>. <surname>Nagata</surname>, <forename>R</forename>. <surname>Nelson</surname> and <forename>J</forename>. <surname>Walsh</surname></author>
+
+						<author><surname>Duguet</surname>, <forename>E</forename>. and <forename>I</forename>. <surname>Kabla</surname></author>
+
+						<author><surname>European Patent Office</surname></author>
+
+						<author><surname>Gambardella</surname>, <forename>A</forename>., <forename>D</forename>. <surname>Harhoff</surname> and <forename>B</forename>. <surname>Verspagen</surname></author>
+
+						<author><surname>Gilbert</surname>, <forename>R</forename>. and <forename>D</forename>. <surname>Newbery</surname></author>
+
+						<author><surname>Graham</surname>, <forename>S</forename>., <forename>B</forename>.<middlename>H</middlename>. <surname>Hall</surname>, <forename>D</forename>. <surname>Harhoff</surname> and <forename>D</forename>. <middlename>C</middlename>. <surname>Mowery</surname></author>
+
+						<author><surname>Graham</surname>, <forename>S</forename>. and <forename>D</forename>. <surname>Mowery</surname></author>
+
+						<author><surname>Greene</surname>, <forename>W</forename>.</author>
+
+						<author><surname>Grimpe</surname> <forename>C</forename>. and <forename>K</forename>. <surname>Hussinger</surname></author>
+
+						<author><forename>DSTI</forename>/<surname>DOC</surname></author>
+
+						<author><surname>Guellec</surname>, <forename>D</forename>., <forename>B</forename>. <surname>van Pottelsberghe de la Potterie</surname> and <forename>N</forename>. <surname>van Zeebroeck</surname></author>
+
+						<author><surname>Hall</surname>, <forename>B</forename>.<middlename>H</middlename>. and <forename>R</forename>.<middlename>H</middlename>. <surname>Ziedonis</surname></author>
+
+						<author><surname>Harhoff</surname>, <forename>D</forename>. and <forename>B</forename>.<middlename>H</middlename>. <surname>Hall</surname></author>
+
+						<author><surname>Harhoff</surname>, <forename>D</forename>., <forename>F</forename>. <surname>Narin</surname>, <forename>F</forename>.<middlename>M</middlename>. <surname>Scherer</surname> and <forename>K</forename>. <surname>Vopel</surname></author>
+
+						<author><surname>Harhoff</surname>, <forename>D</forename>. and <forename>M</forename>. <surname>Reitzig</surname></author>
+
+						<author><surname>Harhoff</surname>, <forename>D</forename>., <forename>G</forename>. <surname>von Graevenitz</surname> and <forename>S</forename>. <surname>Wagner</surname></author>
+
+						<author><surname>Henkel</surname>, <forename>J</forename>. and <forename>S</forename>. <surname>Pangerl</surname></author>
+
+						<author><surname>Iversen</surname>, <forename>E</forename>. and <forename>A</forename>. <surname>Kaloudis</surname></author>
+
+						<author><surname>Lanjouw</surname>, <forename>J</forename>.<middlename>O</middlename>. and <forename>Mark</forename> <surname>Schankerman</surname></author>
+
+						<author><surname>Lazaridis</surname> <forename>G</forename>. and <forename>B</forename>. <surname>van Pottelsberghe de la Potterie</surname></author>
+
+						<author><surname>Lerner</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Michel</surname>, <forename>J</forename>. and <forename>B</forename>. <surname>Bettels</surname></author>
+
+						<author><surname>Putnam</surname>, <forename>J</forename>.</author>
+
+						<author><surname>De Rassenfosse</surname>, <forename>G</forename>. and <forename>D</forename>. <surname>Guellec</surname></author>
+
+						<author><surname>Schneider</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Shapiro</surname></author>
+
+						<author><forename>DSTI</forename>/<surname>DOC</surname></author>
+
+						<author><surname>Sterlacchini</surname>, <forename>A</forename>. and <forename>F</forename>. <surname>Schetttino</surname></author>
+
+						<author><surname>Stevnsborg</surname>, <forename>N</forename>. and <forename>B</forename>. <surname>van Pottelsberghe de la Potterie</surname></author>
+
+						<author><surname>Van Looy</surname>, <forename>B</forename>., <forename>M</forename>. <surname>du Plessis</surname> and <forename>T</forename>. <surname>Magerman</surname></author>
+
+						<author><surname>Van Pottelsberghe de la Potterie</surname>, <forename>B</forename>. and <forename>D</forename>. <surname>François</surname></author>
+
+						<author><surname>Van Zeebroeck</surname>, <forename>N</forename>., <forename>B</forename>. <surname>van Pottelsberghe de la Potterie</surname> and <forename>D</forename>. <surname>Guellec</surname></author>
+
+						<author><surname>Webb</surname>, <forename>C</forename>., <forename>H</forename>. <surname>Dernis</surname>, <forename>D</forename>. <surname>Harhoff</surname> and <forename>K</forename>. <surname>Hoisl</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Acemoglu</surname>, <forename>D</forename>., <surname>Johnson</surname>, <forename>S</forename>. and <surname>Robinson</surname>, <forename>J</forename>. <middlename>A</middlename>.</author>
+
+						<author><surname>Amin</surname> <forename>A</forename>.</author>
+
+						<author><surname>Amin</surname> <forename>A</forename>. and <surname>Thrift</surname> <forename>N</forename>.</author>
+
+						<author><surname>Barca</surname>, <forename>F</forename>., <surname>McCann</surname>, <forename>P</forename>. and <surname>Rodríguez-Pose</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Becker</surname>, <forename>S</forename>.<middlename>O</middlename>., <surname>Egger</surname>, <forename>P</forename>.<middlename>H</middlename>. and <forename>von</forename> <surname>Ehrlich</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Beugelsdijk</surname>, <forename>S</forename>. and <surname>van Schaik</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Beugelsdijk</surname>, <forename>S</forename>. and <surname>van Schaik</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Bodo</surname>, <forename>G</forename>. and <surname>Viesti</surname>, <forename>G</forename>.</author>
+
+						<author><surname>Charron</surname>, <forename>N</forename>., <surname>Lapuente</surname>, <forename>V</forename>. and <surname>Dijkstra</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Coleman</surname>, <forename>James</forename> <middlename>S</middlename>.</author>
+
+						<author><surname>Diamanti</surname>, <forename>I</forename>., <surname>Ramella</surname>, <forename>F</forename>. and <forename>C</forename>. <surname>Trigilia</surname></author>
+
+						<author><forename>European</forename> <surname>Union</surname></author>
+
+						<author><surname>Granovetter</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Guasti</surname>, <forename>P</forename>. and <surname>Dobovsek</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Hall</surname>, <forename>R</forename>.<middlename>E</middlename>. and <surname>Jones</surname>, <forename>C</forename>.<middlename>I</middlename>.</author>
+
+						<author><surname>Kaufmann</surname>, <forename>D</forename>., <surname>Kraay</surname>, <forename>A</forename>. and <surname>Mastruzzi</surname>, <forename>M</forename>.</author>
+
+						<author><surname>North</surname>, <forename>D</forename>.<middlename>C</middlename>.</author>
+
+						<author><surname>Putnam</surname>, <forename>R</forename>.<middlename>D</middlename>.</author>
+
+						<author><surname>Putnam</surname>, <forename>R</forename>.<middlename>D</middlename>.</author>
+
+						<author><surname>Rodriguez-Pose</surname>, <forename>A</forename>. and <surname>Storper</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Rodríguez-Pose</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Rodrik</surname>, <forename>D</forename>., <surname>Subramanian</surname>, <forename>F</forename>., <surname>Trebbi</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Rothstein</surname>, <forename>B</forename>. and <surname>Teorell</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Tönnies</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Trigilia</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Tabellini</surname>, <forename>G</forename>.</author>
+
+						<author><surname>Vachudova</surname>, <forename>M</forename>. <middlename>A</middlename>.</author>
+
+						<author><surname>Weber</surname>, <forename>M</forename>.</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

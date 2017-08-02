@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><title level="j">Bibliogr aphy</title></bibl>
+	<bibl><author>Arnold, J. and A. Wörgötter</author> (<date>2011</date>), &quot;<title level="a">Structural reforms and the benefits of the enlarged EU internal market:still much to be gained</title> &quot;,<title level="j">Applied Economics Letters</title> ,Vol .<biblScope unit="volume">18</biblScope> (<biblScope unit="issue">13</biblScope>),pp .<biblScope unit="page">1231 -1235</biblScope>.</bibl>
+	<bibl><author>Berger, H. and V. Nitsch</author> (<date>2010</date>), &quot;<title level="a">The Euro&apos;s effect on trade imbalances</title>&quot;, <title level="m">IMF Working Papers</title>, WP/<biblScope unit="issue">10</biblScope>/<biblScope unit="page">226</biblScope>.</bibl>
+	<bibl><author>Blanchard, O.</author> (<date>2007</date>) &quot;<title level="a">Current account deficits in rich countries</title>&quot;, <publisher>NBER Working Papers</publisher>, <biblScope unit="page">12925</biblScope>.</bibl>
+	<bibl><author>Bosma, N., E. Stam and V. Schutjens</author> (<date>2011</date>), &quot; <title level="a">Creative destruction and regional productivity growth: evidencefrom the Dutch manufacturing and services industries</title> &quot; , <title level="j">Small Business Economics</title> ,Vol .<biblScope unit="volume">36</biblScope> ,<biblScope unit="page">pp401 – 418</biblScope>.</bibl>
+	<bibl><title level="j">Bracht</title> (<date>2011</date>), &quot; <title level="a">2011 G20 Plans and Preparations</title> &quot; , <note>G20 Research Group</note>, <orgName>University of Toronto</orgName>, <ptr type="web">www.g20.utoronto.ca/g20plans/g20plans110905.pdf</ptr>.</bibl>
+	<bibl><author>Chakraborty, S. and R. Dekle</author> (<date>2008</date>), &quot;<title level="a">Can international productivity differences explain US current accountdeficits ?</title>&quot;,<author>NBER WP</author> .</bibl>
+	<bibl><author>Cheptea, A., L. Fontagné and S. Zignago</author> (<date>2010</date>), &quot;<title level="a">European export performance</title>&quot;, <title level="j">CEPII WP</title>, <biblScope unit="page">2010-12</biblScope>.</bibl>
+	<bibl><author>Cheung, C., D. Furceri and E. Rusticelli</author> (<date>2010</date>), &quot;<title level="a">Structural and cyclical factors behind current account balances</title>&quot;,<orgName>OECD Economics Department Working Papers</orgName> ,No .<biblScope unit="issue">775</biblScope> .</bibl>
+	<bibl><author>Christopoulou, R. and Ph. Vermeulen</author> (<date>2010</date>), &quot; <title level="a">Markups in the Euro area and the US over the period</title> <date>1981– 2004</date><title level="a">:a comparison of 50 sectors</title> &quot; , <title level="j">Empiricial Economics</title> ,<ptr type="web">online first ,www .springerlink.com/content/mw1458t396628132/fulltext.pdf</ptr>.</bibl>
+	<bibl><author>Clovis K., I. Koske and I. Wanner</author> (<date>2010</date>), &quot;<title level="a">The Impact of Structural Policies on Saving, Investment and CurrentAccounts</title> &quot;,<orgName>OECD Economics Department Working Papers</orgName> ,No .<biblScope unit="issue">815</biblScope> .</bibl>
+	<bibl><author>Cova, P., M. Pisani, N. Batini and A. Rebucci</author> (<date>2009</date>), &quot; <title level="a">Global imbalances: The role of non-tradable total factorproductivity in advanced economies</title> &quot;,<publisher>IMF Working Papers</publisher> ,WP /<biblScope unit="issue">09</biblScope>/<biblScope unit="volume">63</biblScope>.</bibl>
+	<bibl><author>Dekle, R., J. Eaton and S. Kortum</author> (<date>2008</date>), &quot;<title level="a">Global rebalancing with gravity: Measuring the burden of adjustment</title>&quot;,<note type="report">NBER Working Papers</note> ,<date>13846</date> .</bibl>
+	<bibl><author>Fournier, J. and I. Koske</author> (<date>2010</date>), &quot;<title level="a">A Simple Model of the Relationship Between Productivity, Saving and theCurrent Account</title> &quot;,<orgName>OECD Economics Department Working Papers</orgName> ,No .<biblScope unit="issue">816</biblScope> .</bibl>
+	<bibl><author>Herzer, D.</author> (<date>2011</date>), &quot; <title level="a">Outward FDI, Total Factor Productivity and Domestic Output: Evidence from Germany</title>&quot; , <title level="j">International Economic Journal</title> ,<ptr type="web">DOI :10.1080/10168737.2010.538430</ptr>.</bibl>
+	<bibl><author>Hüfner, F. and I. Koske</author> (<date>2010</date>), &quot; <title level="a">Explaining Household Saving Rates in G7 Countries: implications for Germany</title>&quot; , <orgName>OECD Economics Department Working Papers</orgName> ,No .<biblScope unit="issue">754</biblScope> .</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2012</date>)<biblScope unit="page">17</biblScope></bibl>
+	<bibl><biblScope unit="page">27</biblScope></bibl>
+	<bibl><author>Koske, I. and A. Wörgötter</author> (<date>2010</date>), &quot;<title level="a">Germany&apos;s Growth Potential, Structural Reforms and Global Imbalances</title>&quot;,<orgName>OECD Economics Department Working Papers</orgName> ,No .<biblScope unit="issue">780</biblScope> .</bibl>
+	<bibl><author>Krueger, D. and K.B. Khumar</author>, (<date>2004</date>), &quot;<title level="a">Skill-specific rather than general education: A reason for US-Europegrowth differences ?</title>&quot;,<title level="j">Journal of Economic Growth</title> ,<biblScope unit="volume">9</biblScope> :<biblScope unit="page">167-207</biblScope>.</bibl>
+	<bibl><author>Moretti, E.</author> (<date>2010</date>), &quot;<title level="a">Local multipliers</title>&quot;, <title level="j">American Economic Review</title>, <date>May</date>.</bibl>
+	<bibl><author>Naude, W.</author> (<date>2011</date>) &quot;<title level="a">Global Finance after the Crisis: Reform Imperatives and Vested Interests</title>&quot;. <title level="j">Global EconomyJournal</title> ,Vol .<biblScope unit="volume">11</biblScope> ,Iss .<biblScope unit="issue">2</biblScope> ,Article <biblScope unit="volume">6</biblScope> ,<ptr type="web">DOI :10 .2202/1524-5861.1729,available at www .bepress.com/gej/vol11/iss2/6</ptr>.</bibl>
+	<bibl><author>Obstfeld, M. and K. Rogoff</author> (<date>1996</date>), <title level="m">Foundations of international macroeconomics</title>, <publisher>MIT Press</publisher>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2010</date>), <title level="a">Off to a Good Start? Jobs for Youth</title>, <pubPlace>OECD, Paris</pubPlace>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2011</date>), &quot; <title level="a">Getting the most out of international capital flows</title> &quot; , <title level="j">OECD Economics Department Policy Notes</title>,No .<biblScope unit="issue">6</biblScope> .</bibl>
+	<bibl><author>Ostry, J. and C. Reinhart</author> (<date>1992</date>), &quot;<title level="a">Private savings and terms of trade shocks: Evidence from developing countries</title>&quot;,<publisher>IMF Staff Papers</publisher> ,<biblScope unit="volume">39</biblScope> (<biblScope unit="issue">3</biblScope>):<biblScope unit="page">495-517</biblScope>.</bibl>
+	<bibl><author>Sinn, H.W.</author> (<date>2006</date>), &quot;<title level="a">The pathological export boom and the bazaar effect: How to solve the German puzzle</title>&quot;,<publisher>CESIFO Working Papers</publisher> ,No .<biblScope unit="page">1708</biblScope> .</bibl>
+	<bibl><author>Vegh, C.</author> (<date>2011</date>), <title level="a">Open economy macroeconomics in developing countries</title>, <publisher>MIT Press, forthcoming</publisher>.</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2012</date>)<biblScope unit="page">17</biblScope></bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

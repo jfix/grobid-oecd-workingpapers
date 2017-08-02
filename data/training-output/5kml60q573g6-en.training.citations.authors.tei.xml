@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Goetz</surname> <forename>K</forename>.<middlename>H</middlename>. and <surname>Wollman</surname> <forename>H</forename>.</author>
+
+						<author><surname>Louis</surname> <forename>J</forename>.<middlename>J</middlename>.</author>
+
+						<author><surname>Mezricky</surname> <forename>V</forename>.</author>
+
+						<author><surname>Trnka</surname> <forename>D</forename>.</author>
+
+						<author><forename>World</forename> <surname>Bank</surname>, <forename>Regulatory</forename> <surname>Reform in Hungary</surname>, <surname>Poland</surname>, and the <forename>Czech</forename> <surname>Republic</surname></author>
+
+						<author><surname>Randma</surname> <forename>T</forename>.</author>
+
+						<author><surname>Merusk</surname> <forename>K</forename>.</author>
+
+						<author>arits <forename>R</forename>.</author>
+
+						<author><surname>Viks</surname> <forename>K</forename>., <surname>Randma</surname> <forename>T</forename>.</author>
+
+						<author><surname>Goetz</surname> <forename>K</forename>.<middlename>H</middlename>. and <forename>H</forename>. <surname>Wollman</surname></author>
+
+						<author><surname>Hajnal</surname> <forename>G</forename>.</author>
+
+						<author><surname>Kovacsy</surname> <forename>Z</forename>.</author>
+
+						<author><forename>GOV</forename>/<surname>SIGMA</surname></author>
+
+						<author><surname>Louis</surname> <forename>J</forename>.<middlename>J</middlename>.</author>
+
+						<author><surname>Pulay</surname> <forename>G</forename>.</author>
+
+						<author><surname>Staronova</surname> <forename>K</forename>.and <surname>Kasemets</surname> <forename>A</forename>.</author>
+
+						<author><surname>Stumpf</surname> <forename>I</forename>.</author>
+
+						<author><forename>OECD</forename>/<surname>SIGMA</surname></author>
+
+						<author><surname>Ministry</surname> of <forename>Economy</forename></author>
+
+						<author><surname>Simanis</surname> <forename>M</forename>.</author>
+
+						<author><surname>Skujeniece</surname> <forename>V</forename>.</author>
+
+						<author><surname>Miezaine</surname> <forename>Z</forename>.</author>
+
+						<author><forename>GOV</forename>/<surname>SIGMA</surname></author>
+
+						<author><surname>Ashbourne</surname> <forename>A</forename>.</author>
+
+						<author><surname>Dimitrova</surname> <forename>A</forename>., <surname>Maniokas</surname> <forename>K</forename>.</author>
+
+						<author><surname>Maniokas</surname> <forename>K</forename>.</author>
+
+						<author><surname>Vilpišauskas</surname> <forename>R</forename>.</author>
+
+						<author><surname>Vilpišauskas</surname> <forename>R</forename>.</author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>Malta</forename> <surname>Environment</surname> and <forename>Planning</forename> <surname>Authority</surname></author>
+
+						<author><surname>Wiszniewska</surname> <forename>B</forename>., <surname>Farr</surname> <forename>J</forename>.<middlename>A</middlename>., <surname>Jendroska</surname> <forename>J</forename>., <surname>Ministry</surname> of <surname>Environment</surname>, <forename>Poland</forename></author>
+
+						<author><surname>Farr</surname> <forename>J</forename>.<middlename>A</middlename>., <surname>Jendroska</surname> <forename>J</forename>., <surname>Szwed</surname> <forename>D</forename>., <surname>Ministry</surname> of <surname>Environment</surname>, <forename>Poland</forename></author>
+
+						<author><surname>Goetz</surname> <forename>K</forename>.<middlename>H</middlename>., <surname>Zubek</surname> <forename>R</forename>.</author>
+
+						<author><surname>Goetz</surname> <forename>K</forename>.<middlename>H</middlename>. and <surname>Wollman</surname> <forename>H</forename>.</author>
+
+						<author><surname>Kaweckim</surname> <forename>A</forename>.<middlename>W</middlename>., <surname>Kanton</surname> <forename>K</forename>.</author>
+
+						<author><forename>Patpol</forename> <surname>Ltd</surname>, <forename>Poland</forename></author>
+
+						<author><surname>Zbigniew</surname> <forename>K</forename>.</author>
+
+						<author><surname>Zubek</surname> <forename>R</forename>.</author>
+
+						<author><forename>OECD</forename>, ePoland, www.oecd</author>
+
+						<author><forename>GOV</forename>/<surname>SIGMA</surname></author>
+
+						<author><surname>Axworthy</surname> <forename>M</forename>. <middlename>W</middlename>. <middlename>A</middlename>.</author>
+
+						<author><surname>Staronova</surname> <forename>K</forename>.</author>
+
+						<author><surname>Staronova</surname> <forename>K</forename>.</author>
+
+						<author><forename>Slovenian</forename> <surname>Ombudsman for Human Rights</surname></author>
+
+						<author><surname>Dečman</surname> <forename>M</forename>., <surname>Klun</surname> <forename>M</forename>.</author>
+
+						<author><surname>Fink-Hafner</surname> <forename>D</forename>., <surname>Lajh</surname> <forename>D</forename>.</author>
+
+						<author><surname>Hacek</surname> <forename>M</forename>., <surname>Brezovsek</surname> <forename>M</forename>.</author>
+
+						<author><surname>Kavsek</surname> <forename>B</forename>., <surname>Vranič</surname> <forename>H</forename>.</author>
+
+						<author><surname>Louis</surname> <forename>J</forename>.<middlename>J</middlename>.</author>
+
+						<author><surname>Pecar</surname> <forename>Z</forename>.</author>
+
+						<author><surname>Ploštajner</surname> <forename>Z</forename>.</author>
+
+						<author><forename>GOV</forename>/<surname>SIGMA</surname></author>
+
+						<author><forename>GOV</forename>/<surname>SIGMA</surname></author>
+
+						<author><forename>OECD</forename> <surname>Documents</surname> <forename>OECD</forename> <surname>Council</surname></author>
+
+						<author><forename>OECD</forename>/<surname>PUMA</surname></author>
+
+						<author><forename>OECD</forename>/<surname>PUMA</surname></author>
+
+						<author><forename>OECD) GOV/PGC/</forename><surname>REG</surname></author>
+
+						<author><surname>Baldwin</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

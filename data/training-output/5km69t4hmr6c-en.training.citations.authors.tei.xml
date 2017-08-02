@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Aggarwal</surname>, <forename>Vinod</forename> <middlename>K</middlename>. and <forename>Simon</forename> <middlename>J</middlename>. <surname>Evenett</surname></author>
+
+						<author><surname>Aghion</surname>, <forename>Philippe</forename>, <forename>David</forename> <surname>Hemous</surname> and <forename>Reinhilde</forename> <surname>Veugelers</surname></author>
+
+						<author><surname>Albach</surname> <forename>H</forename>., <surname>David</surname> <forename>B</forename>. <surname>Audretsch</surname>, <forename>Manfred</forename> <surname>Fleischer</surname>, <forename>Robert</forename> <surname>Greb</surname>, <forename>Evelyn</forename> <surname>Höfs</surname>, <forename>Lars-Hendrik</forename> <surname>Röller</surname>, <forename>Ines</forename> <surname>Schulz</surname></author>
+
+						<author><surname>American</surname> <forename>Chemical</forename> <surname>Council</surname></author>
+
+						<author><surname>American</surname> <forename>Chemical</forename> <surname>Council</surname></author>
+
+						<author><surname>Arora</surname>, <forename>Ashish</forename></author>
+
+						<author><surname>Arora</surname>, <forename>Ashish</forename> and <forename>Andrea</forename> <surname>Fosfuri</surname></author>
+
+						<author><surname>Aschhoff</surname>, <forename>B</forename>., <forename>T</forename>. <surname>Doherr</surname>, <forename>C</forename>. <surname>Köhler</surname>, <forename>B</forename>. <surname>Peters</surname>, <forename>C</forename>. <surname>Rammer</surname>, <forename>T</forename>. <surname>Schubert</surname> and <forename>F</forename>. <surname>Schwiebacher</surname></author>
+
+						<author><surname>Baker</surname>, <forename>John</forename></author>
+
+						<author><surname>Bate</surname>, <forename>Roger</forename> 92007</author>
+
+						<author><surname>Bergeson</surname> <forename>&amp;</forename> <surname>Campbell</surname>, <forename>P</forename>.<middlename>C</middlename>.</author>
+
+						<author><surname>Bhat</surname>, <forename>Savita</forename> and <forename>K</forename>. <surname>Narayanan</surname></author>
+
+						<author><surname>Burgess</surname>, <forename>Thomas</forename>, <forename>Brian</forename> <surname>Hwarng</surname>, <forename>Nicky</forename> <surname>Shaw</surname> and <forename>Claudio</forename> <surname>de Mattos</surname></author>
+
+						<author><surname>Cesaroni</surname>, <forename>Fabrizio</forename>, <forename>Alfonso</forename> <surname>Gambardella</surname>, <forename>Walter</forename> <surname>Garcia-Fontes</surname> and <forename>Myriam</forename> <surname>Marini</surname></author>
+
+						<author><surname>Chapman</surname>, <forename>Keith</forename> and <forename>Helen</forename> <surname>Edmond</surname></author>
+
+						<author><surname>Coe</surname>, <forename>David</forename> <middlename>T</middlename>., <forename>Elhanan</forename> <surname>Helpman</surname> and <forename>Alexander</forename> <middlename>W</middlename>. <surname>Hoffmaister</surname></author>
+
+						<author><surname>Crawford</surname>, <forename>Blair</forename>, <forename>Jonathan</forename> <middlename>W</middlename>. <surname>Gordon</surname> and <forename>Susan</forename> <middlename>R</middlename>. <surname>Mulder</surname></author>
+
+						<author><surname>Durbin</surname>, <forename>Marty</forename></author>
+
+						<author><surname>Engman</surname>, <forename>Michael</forename>, <forename>Osamu</forename> <surname>Onodera</surname> and <forename>Norbert</forename> <surname>Wilson</surname></author>
+
+						<author><surname>Evenett</surname>, <forename>Simon</forename> <middlename>J</middlename>.</author>
+
+						<author><surname>Feldmeier</surname>, <forename>Christina</forename>, <forename>Sebastian</forename> <surname>Kienert</surname></author>
+
+						<author><surname>Fleischer</surname>, <forename>M</forename>., <forename>Sabine</forename> <surname>Kelm</surname> and <forename>Deborah</forename> <surname>Palm</surname></author>
+
+						<author><forename>Freshfields</forename> <surname>Bruckhaus Deringer</surname> <forename>LLP</forename></author>
+
+						<author><surname>Frohwein</surname>, <forename>Torsten</forename> and <forename>Bernd</forename> <surname>Hansjürgens</surname></author>
+
+						<author><surname>Gottwald</surname>, <forename>Klaus</forename></author>
+
+						<author><surname>Government</surname> of <forename>Canada</forename></author>
+
+						<author><surname>Guinsinger</surname>, <forename>A</forename>. and <forename>B</forename>. <surname>Ghorashi</surname></author>
+
+						<author><surname>Hexter</surname>, <forename>Jimmy</forename> and <forename>Jonathan</forename> <surname>Woetzel</surname></author>
+
+						<author><surname>Heyvaert</surname>, <forename>Veerle</forename></author>
+
+						<author><surname>Hodges</surname>, <forename>Paul</forename></author>
+
+						<author><surname>Hollanders</surname>, <forename>Hugo</forename> and <forename>Anthony</forename> <surname>Arundel</surname></author>
+
+						<author><surname>Hornke</surname>, <forename>Matthias</forename> <middlename>R</middlename>.</author>
+
+						<author><surname>Hutheson</surname>, <forename>Peter</forename>, <forename>Alan</forename> <middlename>W</middlename>. <surname>Pearson</surname> and <forename>Derrick</forename> <middlename>F</middlename>. <surname>Ball</surname></author>
+
+						<author><surname>Hutheson</surname>, <forename>Peter</forename>, <forename>Alan</forename> <middlename>W</middlename>. <surname>Pearson</surname> and <forename>Derrick</forename> <middlename>F</middlename>. <surname>Ball</surname></author>
+
+						<author><surname>Immelt</surname>, <forename>Jeffrey</forename> <middlename>R</middlename>., <forename>Vijay</forename> <surname>Govindarajan</surname> and <forename>Chris</forename> <surname>Trimble</surname></author>
+
+						<author><surname>Jackson</surname>, <forename>John</forename> <middlename>H</middlename>., <surname>William</surname> <forename>J</forename>. <surname>Davey</surname>, and <forename>Alan</forename> <middlename>O</middlename>. <surname>Sykes</surname></author>
+
+						<author><surname>Jaffe</surname>, <forename>Adam</forename> <middlename>B</middlename>., <surname>Steven</surname> <forename>R</forename>. <surname>Peterson</surname>, <forename>Paul</forename> <middlename>R</middlename>. <surname>Portney</surname> and <forename>Robert</forename> <middlename>N</middlename>. <surname>Stavins</surname></author>
+
+						<author><surname>Jaffe</surname>, <forename>Adam</forename> <middlename>B</middlename>., <surname>Richard</surname> <forename>G</forename>. <surname>Newell</surname> and <forename>Robert</forename> <middlename>N</middlename>. <surname>Stavins</surname></author>
+
+						<author><surname>Jerrentrup</surname>, <forename>Rudolf</forename></author>
+
+						<author><surname>Jones</surname>, <forename>Geofrey</forename></author>
+
+						<author><forename>Von</forename> <surname>Keller</surname>, <forename>Eugen</forename>, <forename>Jian</forename> <surname>Wei</surname> and <forename>Hubertus</forename> <surname>Drinkuth</surname></author>
+
+						<author><surname>Kazeki</surname></author>
+
+						<author><surname>Keys</surname>, <forename>Tracey</forename>, <forename>Thomas</forename> <middlename>W</middlename>. <surname>Malnight</surname> and <forename>Kees</forename> <surname>van der Graaf</surname></author>
+
+						<author><surname>Kim</surname>, <forename>Jeonghoi</forename></author>
+
+						<author><surname>Koch</surname>, <forename>Lars</forename>, <forename>Nicholas</forename> <middlename>A</middlename>. <surname>Ashford</surname></author>
+
+						<author><surname>Korinek</surname>, <forename>Jane</forename>, <forename>Jeonghoi</forename> <surname>Kim</surname></author>
+
+						<author><forename>KPMG</forename> <surname>International</surname></author>
+
+						<author><forename>KPMG</forename> <surname>International</surname></author>
+
+						<author><surname>Krugman</surname>, <forename>Paul</forename></author>
+
+						<author><surname>Kwan</surname>, <forename>Chi</forename> <surname>Hung</surname></author>
+
+						<author><surname>Landau</surname>, <forename>Ralph</forename> and <forename>Ashish</forename> <surname>Arora</surname></author>
+
+						<author><surname>Lovely</surname>, <forename>Mary</forename> and <forename>David</forename> <surname>Popp</surname></author>
+
+						<author><forename>Di</forename> <surname>Maria</surname>, <forename>Corrado</forename> and <forename>Edwin</forename> <surname>van der Werf</surname></author>
+
+						<author><surname>McKinsey</surname> <forename>&amp;</forename> <surname>Company</surname></author>
+
+						<author><surname>McKinsey</surname> <forename>&amp;</forename> <surname>Company</surname></author>
+
+						<author><surname>McKinsey</surname> <forename>&amp;</forename> <surname>Company</surname></author>
+
+						<author><surname>Menezes</surname>, <forename>Rodrigo</forename> <middlename>Pio</middlename> <surname>Borges</surname> and <forename>Adelaide</forename> <surname>Maria de Souza Antunes</surname></author>
+
+						<author><surname>Mercer</surname>, <forename>Sally</forename></author>
+
+						<author><surname>Ministry</surname> of <forename>Economy</forename></author>
+
+						<author><surname>Motaal</surname>, <forename>Doaa</forename> <surname>Abdel</surname></author>
+
+						<author><surname>Naiki</surname>, <forename>Yoshiko</forename></author>
+
+						<author><surname>Newell</surname>, <forename>Richard</forename> <middlename>G</middlename>.</author>
+
+						<author><surname>Nidumolu</surname>, <forename>Ram</forename>, <forename>C</forename>.<middlename>K</middlename>. <surname>Prahalad</surname> and <forename>M</forename>.<middlename>R</middlename>. <surname>Rangaswami</surname></author>
+
+						<author><forename>TAD/TC/</forename><surname>WP</surname></author>
+
+						<author><surname>Park</surname>, <forename>Dae</forename> <surname>Young</surname></author>
+
+						<author><surname>Park</surname>, <forename>Walter</forename> and <forename>Douglas</forename> <surname>Lippoldt</surname></author>
+
+						<author><surname>Park</surname>, <forename>Walter</forename> and <forename>Douglas</forename> <surname>Lippoldt</surname></author>
+
+						<author><surname>Patel</surname>, <forename>Martin</forename>, <forename>Veronika</forename> <surname>Dornburg</surname>, <forename>Barbra</forename> <surname>Hermann</surname>, <forename>Lex</forename> <surname>Roes</surname>, Bärbel <surname>Hüsling</surname>, <forename>Leo</forename> <surname>Overbeek</surname>, <forename>Fabio</forename> <surname>Terragni</surname> and <forename>Elena</forename> <surname>Recchia</surname></author>
+
+						<author><surname>Patel</surname>, <forename>Pari</forename></author>
+
+						<author><surname>Parvan</surname>, <surname>Sergiu-Valentin</surname></author>
+
+						<author><surname>Popp</surname>, <forename>David</forename>, <forename>Richard</forename> <middlename>G</middlename>. <surname>Newell</surname>, <forename>Adam</forename> <middlename>B</middlename>. <surname>Jaffe</surname></author>
+
+						<author><surname>Porter</surname>, <forename>Michael</forename> <middlename>E</middlename>.</author>
+
+						<author><surname>Porter</surname>, <forename>Michael</forename> <middlename>E</middlename>.</author>
+
+						<author><surname>Porter</surname>, <forename>Michael</forename> <middlename>E</middlename>. and <forename>Claas</forename> <surname>van der Linde</surname></author>
+
+						<author><surname>Porter</surname>, <forename>Michael</forename> <middlename>E</middlename>. and <surname>Mark</surname> <forename>R</forename>. <surname>Kramer</surname></author>
+
+						<author><surname>Prahalathan</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Prahalathan</surname>, <forename>S</forename>. and <surname>Baruah</surname>, <forename>Nandana</forename></author>
+
+						<author><surname>Robson</surname>, <forename>Stephanie</forename> and <forename>Laurent</forename> <surname>Ortmans</surname></author>
+
+						<author><surname>Schneider</surname>, <forename>Bernd</forename> <middlename>W</middlename>., <surname>Stanislav Plakun</surname>, <forename>Tim-Frederic</forename> <surname>Slooth</surname></author>
+
+						<author><surname>Shuqing</surname>, <forename>Guo</forename></author>
+
+						<author><surname>Stewart</surname>, <forename>Terence</forename> <middlename>P</middlename></author>
+
+						<author><surname>Süd-Chemie</surname></author>
+
+						<author><surname>SusChem</surname></author>
+
+						<author><surname>Swift</surname>, <forename>T</forename>. <surname>Kevin</surname></author>
+
+						<author><forename>Thomson</forename> <surname>Reuters</surname></author>
+
+						<author><surname>Treacy</surname>, <forename>Michael</forename> and <forename>Fred</forename> <surname>Wiersema</surname></author>
+
+						<author><surname>UNICE</surname> and <forename>CEFIC</forename></author>
+
+						<author><surname>Upstill</surname>, <forename>Garrett</forename>, <forename>Alan</forename> <middlename>J</middlename>. <surname>Jones</surname>, <forename>Tom</forename> <surname>Spurling</surname> and <forename>Greg</forename> <surname>Simpson</surname></author>
+
+						<author><surname>Vance</surname>, <forename>Ashlee</forename></author>
+
+						<author><surname>Vousden</surname>, <forename>Neil</forename></author>
+
+						<author><surname>Willis</surname>, <forename>Jim</forename></author>
+
+						<author><forename>De</forename> <surname>Wit</surname>, <surname>Jan</surname>, <forename>Ben</forename> <surname>Dankbaar</surname> and <forename>Geert</forename> <surname>Vissers</surname></author>
+
+						<author><forename>TAD/TC/</forename><surname>WP</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>WTO</forename>, <forename>OECD</forename> and <forename>UNCTAD</forename></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

@@ -1,0 +1,157 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_224422031753.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <figDesc>. Results from Hummels and Klenow (2002).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>. Breakdown of the Increase in Agricultural Export between the Extensive and Intensive<lb/> Margin (1996-2006) .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>. Average marginal effects of a change in agricultural exports at the extensive margin33<lb/> Figures<lb/> </figDesc>
+<lb/> 
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Growth in agricultural exports and output per worker ....</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>All variables are in natural logs. AVAj is agricultural value added for exporter j; ALj is total<lb/> agricultural labor force in exporter j. Percentages describe the contribution of each margin to the<lb/> overall export elasticity. Results for agricultural value added per worker are for 2005 because data<lb/> for agricultural labor force not available for 2006 at time of the analysis.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>reports the results for the years 2000 and 2006(05). The results indicate that<lb/> the explanatory power of the exogenous variables has improved considerably over the interval. The<lb/> ability to explain the variation in agricultural exports and each of the two margins has improved<lb/> relative to 1996, and all of the parameters in each of the estimated equations are significant at the 1%<lb/> level in 2006. It also appears that economies with larger AVA and AL improved their ability to export<lb/> agricultural products as the elasticity for each variable more than doubled compared to their 1996<lb/> values. Thus, in 2006, economies with twice the AVA exported 53% more agricultural products.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>World agricultural exports increased 56% during the 1996 to 2006 period 8 , with 91% of the<lb/> growth accounted for by the 69 countries in the database. The country with the largest overall increase<lb/> in agricultural exports was Brazil whose exports increased by around USD 22 billion followed by<lb/> 8</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>below illustrates. This is a scatter diagram showing the change in a<lb/> country&apos;s agricultural exports between 1996 and 2006 mapped against output per worker (average<lb/> productivity) in 2006. This shows that many of the countries in the sample are bunched around values<lb/> with low average productivity and relatively small increases in agricultural exports while countries<lb/> with relatively strong expansion in exports tend to have high average productivity (Brazil seems to be<lb/> an outlier).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Growth in agricultural exports and output per worker<lb/> bra<lb/> deu<lb/> nld<lb/> esp</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Our results here differ from those of Brenton and Newfarmer (2007) and Amurgo-Pacheco and<lb/> Pierola (2008). Both of these reports find that the extensive margin is of lesser importance than the<lb/> intensive margin for developing countries. One reason for the differences may be the composition of<lb/> the sample countries (Brenton and Newfarmer include 99 developing countries). While there is<lb/> considerable overlap with the country coverage in this report with Amurgo-Pacheco and Pierola<lb/> (2008) (they examine 24 countries) it is not clear how or whether they account for expired trade in<lb/> their definition of the margins. As shown in the table above, excluding expired trade when calculating<lb/> the intensive margin greatly enhances the contribution of the intensive margin to the overall growth.<lb/> And, if trade that no longer exists is excluded from calculating either margin, summing the two<lb/> margins will overstate the total change in exports.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Number of countries and the contribution of the extensive margin to the growth of their exports</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Decomposition of the extensive margin<lb/> </figDesc>
+
+            <lb/> Total<lb/> Extensive<lb/> Margin<lb/> USD 110<lb/> billion<lb/> Type 2:<lb/> (NPOD) USD<lb/> 44.8 billion<lb/> (41%)<lb/> Type 1:<lb/> (NPND) USD<lb/> 0.7 billion<lb/> (0.7%)<lb/> Type 3:<lb/> (OPND) USD<lb/> 6.7 billion<lb/> (6%)<lb/> Type 4: new<lb/> trade flows for<lb/> (EPTD) USD<lb/> 57.4 billion<lb/> (52%)<lb/> NPND: New </trash>
+ 
+            <figDesc>product, New Destination. NPOD: New product, Old Destination<lb/> OPND: Old product, New Destination. EPTD: Existing Product, Traditional Destination</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Decomposition of the extensive margin for various groups of countries<lb/> NPND: New product, New Destination. NPOD: New product, Old Destination</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>We use the Tobit 14 estimation techniques to examine the intensive and extensive margins for<lb/> agricultural trade. The Tobit is one of the most common estimation techniques used to deal with<lb/> 12<lb/> This abstract from the fact that some of the zero trade flows in the data may not be reported or because<lb/> some zeros may be missing values.<lb/> 13<lb/> These researchers also tend to criticise conventional estimates of trade flows with the conventional<lb/> gravity equation because these tend to ignore zero trade flows leading to biased results. Since it&apos;s not<lb/> the purpose of this paper to review alternative specifications or methods for estimating gravity<lb/> equations, these are not discussed.<lb/> 14<lb/> The Poisson Pseudo-Maximum Likelihood (PPML) technique is another approach to estimating<lb/> models with censored data. Unlike the Tobit, the PPML generates consistent estimates in the presence<lb/> of heteroskedasticity (Armugo-Pacheco and Pierola 2008). Given our interest in the intensive and<lb/> extensive margins, we nevertheless employ the Tobit technique. Results from Armugo-Pacheco and<lb/> Pierola (2008) indicate this is not a serious problem.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Table 7. Average marginal effects of a change in agricultural exports on the intensive and extensive<lb/> margin (from Tobit estimates)<lb/> Intensive Margin Extensive Margin Intensive Margin Extensive Margin<lb/> </figDesc>
+
+            <lb/> OECD<lb/> 0.231<lb/> 0.049<lb/> (0.450)<lb/> (0.081)<lb/> Enhanced<lb/> Engagement<lb/> 0.176<lb/> 0.024<lb/> (0.294)<lb/> (0.034)<lb/> Other<lb/> 0.082<lb/> 0.005<lb/> (0.292)<lb/> (0.008)<lb/> Partners GDP<lb/> Importer Distance</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>. Tobit Estimation – Marginal effects on the conditional on being uncensored (intensive<lb/> margin) and on the change in the probability to export positive values (extensive margin), by exporter<lb/> </figDesc>
+
+            <lb/> Exporter<lb/> Pseudo-R2<lb/> Bootstrap<lb/> Intensive Margin Extensive Margin Intensive Margin Extensive Margin<lb/> Argentina<lb/> 0.269***<lb/> 0.023***<lb/> -0.515***<lb/> -0.044***<lb/> 0.138<lb/> no<lb/> Australia<lb/> 0.184***<lb/> 0.022***<lb/> -1.175***<lb/> -0.140***<lb/> 0.184<lb/> no<lb/> Austria<lb/> 0.109***<lb/> 0.015***<lb/> -0.250***<lb/> -0.036***<lb/> 0.231<lb/> no<lb/> Brazil<lb/> 0.267 (0.185)<lb/> 0.027 (0.025)<lb/> -0.057 (0.879)<lb/> -0.005 (0.097)<lb/> n/a<lb/> yes<lb/> Canada<lb/> 0.272***<lb/> 0.026***<lb/> -0.428***<lb/> -0.041***<lb/> 0.146<lb/> no<lb/> China<lb/> 0.239***<lb/> 0.035***<lb/> -0.386***<lb/> -0.057***<lb/> 0.152<lb/> no<lb/> Colombia<lb/> 0.137***<lb/> 0.002***<lb/> -0.474***<lb/> -0.008***<lb/> 0.202<lb/> no<lb/> Costa Rica<lb/> 0.124***<lb/> 0.001***<lb/> -0.550***<lb/> -0.003***<lb/> 0.226<lb/> no<lb/> Cote d&apos;Ivoire<lb/> -0.013<lb/> 0.000***<lb/> -0.186<lb/> 0.000***<lb/> 0.235<lb/> no<lb/> Czech Republic<lb/> 0.095***<lb/> 0.004***<lb/> -0.295***<lb/> -0.014***<lb/> 0.248<lb/> no<lb/> Denmark<lb/> 0.190***<lb/> 0.026***<lb/> -0.316***<lb/> -0.043***<lb/> 0.166<lb/> no<lb/> Egypt<lb/> 0.222***<lb/> 0.005***<lb/> -0.201***<lb/> -0.005***<lb/> 0.155<lb/> no<lb/> El Salvador<lb/> 0.106***<lb/> 0.000***<lb/> -0.296***<lb/> -0.000***<lb/> 0.297<lb/> no<lb/> Estonia<lb/> -0.037***<lb/> -0.001***<lb/> -0.119***<lb/> -0.002***<lb/> 0.271<lb/> no<lb/> Finland<lb/> 0.006<lb/> 0.000<lb/> -0.292***<lb/> -0.011***<lb/> 0.242<lb/> no<lb/> France<lb/> 0.322***<lb/> 0.092***<lb/> -0.378***<lb/> -0.108***<lb/> 0.157<lb/> no<lb/> Germany<lb/> 0.273***<lb/> 0.085***<lb/> -0.427***<lb/> -0.133***<lb/> 0.166<lb/> no<lb/> Ghana<lb/> 0.036**<lb/> 0.000**<lb/> -0.251***<lb/> -0.000***<lb/> 0.235<lb/> no<lb/> Greece<lb/> 0.137***<lb/> 0.009***<lb/> -0.293***<lb/> -0.020***<lb/> 0.179<lb/> no<lb/> Guatemala<lb/> 0.100***<lb/> 0.001***<lb/> -0.385***<lb/> -0.002***<lb/> 0.288<lb/> no<lb/> Hungary<lb/> 0.095***<lb/> 0.005***<lb/> -0.384***<lb/> -0.022***<lb/> 0.190<lb/> no<lb/> Iceland<lb/> 0.030<lb/> 2.7244E-06<lb/> -0.078***<lb/> -0.000***<lb/> 0.209<lb/> no<lb/> India<lb/> 0.105***<lb/> 0.014***<lb/> -0.198***<lb/> -0.026***<lb/> 0.141<lb/> no<lb/> Indonesia<lb/> 0.070***<lb/> 0.005***<lb/> -0.487***<lb/> -0.034***<lb/> 0.181<lb/> no<lb/> Ireland<lb/> 0.139***<lb/> 0.007***<lb/> -0.535***<lb/> -0.025***<lb/> 0.204<lb/> no<lb/> Italy<lb/> 0.291***<lb/> 0.080***<lb/> -0.561***<lb/> -0.154***<lb/> 0.161<lb/> no<lb/> Japan<lb/> 0.125***<lb/> 0.006***<lb/> -0.262***<lb/> -0.013***<lb/> 0.220<lb/> no<lb/> Madagascar<lb/> 0.022<lb/> 0.000<lb/> 0.015<lb/> 0.000<lb/> 0.276<lb/> no<lb/> Malaysia<lb/> 0.136***<lb/> 0.008***<lb/> -0.393***<lb/> -0.023***<lb/> 0.224<lb/> no<lb/> Mexico<lb/> 0.133***<lb/> 0.005***<lb/> -0.403***<lb/> -0.015***<lb/> 0.212<lb/> no<lb/> Morocco<lb/> 0.046**<lb/> 0.000**<lb/> -0.147***<lb/> -0.001***<lb/> 0.214<lb/> no<lb/> Netherlands<lb/> 0.228***<lb/> 0.061***<lb/> -0.500***<lb/> -0.135***<lb/> 0.144<lb/> no<lb/> New Zealand<lb/> 0.156***<lb/> 0.007***<lb/> -0.818***<lb/> -0.037***<lb/> 0.182<lb/> no<lb/> Niger<lb/> 0.019<lb/> 0.000***<lb/> -0.128<lb/> 0.000***<lb/> 0.308<lb/> no<lb/> Norway<lb/> 0.</trash>
+
+            <figDesc>034**<lb/> 0.001***<lb/> -0.316**<lb/> -0.013***<lb/> 0.209<lb/> no<lb/> Peru<lb/> 0.098***<lb/> 0.001<lb/> 0.023***<lb/> 0.000<lb/> 0.175<lb/> no<lb/> Philippines<lb/> 0.084***<lb/> 0.002***<lb/> -0.244***<lb/> -0.006***<lb/> 0.200<lb/> no<lb/> Poland<lb/> 0.127***<lb/> 0.005***<lb/> -0.419***<lb/> -0.016***<lb/> 0.210<lb/> no<lb/> Portugal<lb/> 0.155***<lb/> 0.007***<lb/> -0.391***<lb/> -0.017***<lb/> 0.242<lb/> no<lb/> Russia<lb/> -0.036***<lb/> -0.001***<lb/> -0.285***<lb/> -0.004***<lb/> 0.217<lb/> no<lb/> Singapore<lb/> 0.176***<lb/> 0.014***<lb/> -0.405***<lb/> -0.032***<lb/> 0</figDesc>
+.231<lb/> no<lb/> Slovak Republic<lb/> 0.029**<lb/> 0.000***<lb/> -0.152**<lb/> -0.001***<lb/> 0.284<lb/> no<lb/> Slovenia<lb/> 0.081***<lb/> 0.001***<lb/> -0.143***<lb/> -0.001***<lb/> 0.227<lb/> no<lb/> South Africa<lb/> 0.158 (0.210)<lb/> 0.022 (0.035)<lb/> -0.364 (0.463)<lb/> -0.051 (0.099)<lb/> n/a<lb/> yes<lb/> Spain<lb/> 0.362***<lb/> 0.076***<lb/> -0.596***<lb/> -0.126***<lb/> 0.155<lb/> no<lb/> Sweden<lb/> 0.052***<lb/> 0.005***<lb/> -0.306***<lb/> -0.031***<lb/> 0.222<lb/> no<lb/> Switzerland<lb/> 0.148 (0.122)<lb/> 0.019 (0.021)<lb/> -0.134 (0.163)<lb/> -0.019 (0.027)<lb/> n/a<lb/> yes<lb/> Thailand<lb/> 0.184***<lb/> 0.023***<lb/> -0.432***<lb/> -0.055***<lb/> 0.174<lb/> no<lb/> Turkey<lb/> 0.115***<lb/> 0.011***<lb/> -0.276***<lb/> -0.025***<lb/> 0.175<lb/> no<lb/> Ukraine<lb/> -0.050***<lb/> -0.001***<lb/> -0.422***<lb/> -0.008***<lb/> 0.206<lb/> no<lb/> United Kingdom<lb/> 0.233 (0.226)<lb/> 0.060 (0.064)<lb/> -0.397 (0.402)<lb/> -0.103 (0.116)<lb/> n/a<lb/> yes<lb/> United States<lb/> 0.332***<lb/> 0.081***<lb/> -0.596***<lb/> -0.146***<lb/> 0.132<lb/> no<lb/> Uruguay<lb/> 0.227***<lb/> 0.002***<lb/> -0.292***<lb/> -0.003***<lb/> 0.172<lb/> no<lb/> GDP<lb/> Distance<lb/> </trash>
+<lb/> 
+            <head>* </head>
+ 
+            <figDesc>significant at 90%; ** significant at 95%; *** significant at 99%.<lb/> For bootstrapped countries, standard errors of replications in parentheses.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            . Probit estimation: Probability of a observing a positive trade flow (extensive margin)<lb/> Country<lb/> GDP<lb/> Distance Pseudo r2<lb/> Argentina<lb/> 0.022*** -0.044***<lb/> 0.24<lb/> Australia<lb/> 0.021*** -0.143***<lb/> 0.3137<lb/> Austria<lb/> 0.017*** -0.036***<lb/> 0.38<lb/> Brazil<lb/> 0.029*** -0.095***<lb/> 0.234768<lb/> Canada<lb/> 0.025*** -0.048***<lb/> 0.2337<lb/> Switzerland<lb/> 0.015*** -0.046***<lb/> 0.313496<lb/> Chile<lb/> 0.015*** -0.051***<lb/> 0.259194<lb/> China<lb/> 0.033*** -0.055***<lb/> 0.258424<lb/> Côte d&apos;Ivoire<lb/> -0.001*** -0.004***<lb/> 0.286505<lb/> Colombia<lb/> 0.003*** -0.01***<lb/> 0.297344<lb/> Costa Rica<lb/> 0.002*** -0.01***<lb/> 0.323866<lb/> Czech Republic<lb/> 0.006*** -0.019***<lb/> 0.379324<lb/> Germany<lb/> 0.08***<lb/> -0.128***<lb/> 0.304706<lb/> Denmark<lb/> 0.025*** -0.043***<lb/> 0.281428<lb/> Ecuador<lb/> 0.002*** -0.007***<lb/> 0.302882<lb/> Egypt<lb/> 0.008*** -0.007***<lb/> 0.217961<lb/> Spain<lb/> 0.072*** -0.132***<lb/> 0.27371<lb/> Estonia<lb/> -0.002*** -0.006***<lb/> 0.3653<lb/> Ethiopia<lb/> 0***<lb/> -0.001***<lb/> 0.280967<lb/> Finland<lb/> 0***<lb/> -0.011***<lb/> 0.37514<lb/> France<lb/> 0.092*** -0.105***<lb/> 0.291207<lb/> United Kingdom<lb/> 0.058*** -0.184***<lb/> 0.298067<lb/> Ghana<lb/> 0***<lb/> -0.003***<lb/> 0.294392<lb/> Greece<lb/> 0.008*** -0.019***<lb/> 0.276817<lb/> Guatemala<lb/> 0.001*** -0.005***<lb/> 0.421694<lb/> Hungary<lb/> 0.005*** -0.023***<lb/> 0.301299<lb/> Indonesia<lb/> 0.004*** -0.033***<lb/> 0.290725<lb/> India<lb/> 0.012*** -0.024***<lb/> 0.233005<lb/> Ireland<lb/> 0.006*** -0.026***<lb/> 0.320537<lb/> Iran, Islamic Republic of<lb/> -0.001*** -0.001***<lb/> 0.279164<lb/> Iceland<lb/> 0***<lb/> -0.001***<lb/> 0.239168<lb/> Israel<lb/> 0.006*** 0.001***<lb/> 0.264461<lb/> Italy<lb/> 0.076*** -0.16***<lb/> 0.293656<lb/> Japan<lb/> 0.006*** -0.012***<lb/> 0.333131<lb/> Kazakhstan<lb/> 0***<lb/> 0***<lb/> 0.411232<lb/> Kenya<lb/> 0***<lb/> -0.002***<lb/> 0.26574<lb/> Republic of Korea<lb/> 0.005*** -0.016***<lb/> 0.330217<lb/> Morocco<lb/> 0.001*** -0.002***<lb/> 0.305278<lb/> Madagascar<lb/> 0***<lb/> 0***<lb/> 0.366497<lb/> </trash>
+<lb/> 
+            <figDesc>Mexico<lb/> 0.007*** -0.024***<lb/> 0.319352<lb/> Mali<lb/> 0.001*** -0.002***<lb/> 0.345614<lb/> Malawi<lb/> 0***<lb/> 0***<lb/> 0.354304<lb/> Malaysia<lb/> 0.008*** -0.023***<lb/> 0.35464<lb/> Niger<lb/> 0***<lb/> -0.001***<lb/> 0.294799<lb/> Netherlands<lb/> 0.054*** -0.129***<lb/> 0.264189<lb/> Norway<lb/> 0.002*** -0.013***<lb/> 0.307728<lb/> New Zealand<lb/> 0.007*** -0.038***<lb/> 0</figDesc>
+.288047<lb/> Pakistan<lb/> 0***<lb/> 0***<lb/> 0.264838<lb/> Peru<lb/> 0.003*** 0.002***<lb/> 0.250405<lb/> Philippines<lb/> 0.003*** -0.009***<lb/> 0.290159<lb/> Poland<lb/> 0.006*** -0.016***<lb/> 0.353103<lb/> Portugal<lb/> 0.006*** -0.017***<lb/> 0.366143<lb/> Paraguay<lb/> 0.002*** -0.003***<lb/> 0.264861<lb/> Russian Federation<lb/> -0.002**<lb/> -0.011***<lb/> 0.318<lb/> Singapore<lb/> 0.012*** -0.031***<lb/> 0.3727<lb/> El Salvador<lb/> 0.001*** -0.002***<lb/> 0.3904<lb/> Slovakia<lb/> 0.001 -0.004***<lb/> 0.4076<lb/> Slovenia<lb/> 0.003*** -0.005***<lb/> 0.3027<lb/> Sweden<lb/> 0.004*** -0.029***<lb/> 0.3545<lb/> Thailand<lb/> 0.01***<lb/> -0.023***<lb/> 0.2896<lb/> Turkey<lb/> 0.01***<lb/> -0.023***<lb/> 0.2896<lb/> Ukraine<lb/> -0.002*** -0.01***<lb/> 0.3042<lb/> Uruguay<lb/> 0.005*** -0.006***<lb/> 0.2427<lb/> United States of America 0.077*** -0.145***<lb/> 0.2541<lb/> South Africa<lb/> 0.023*** -0.075***<lb/> 0.2516<lb/> Marginal effects calculated at sample means</trash>
+        </figure>
+
+
+
+    </text>
+</tei>
+

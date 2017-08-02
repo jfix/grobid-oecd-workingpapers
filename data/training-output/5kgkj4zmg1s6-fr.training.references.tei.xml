@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><title level="a">Winsor — Document de référence 2010-21 — © OCDE/FIT</title>, <date>2010</date></bibl>
+	<bibl><title level="a">Cette décision provoqua un scandale politique, le Sénat adoptant une motion de censure puis rejetantla nomination de M .Taney au poste de Ministre des Finances .C &apos;étaitla première fois dans l&apos; histoiredesÉtats - Unisqu&apos; ilrejetaitune nomination</title> <note>par le Président à un poste du Cabinet</note> .</bibl>
+	<bibl><author>Lorsqu&apos;en 1835, le Président Jacskon nomma M</author>. <title level="a">Taney à la Cour suprême des États-Unis, cette nominationéchoua également .Des changements dans la composition du Sénat permirent finalement qu&apos; ilsoitrenommé et confirmé au poste de Président de la Cour suprême , unévénement extrêmement regrettableétant donné que M . Taney ,sans douteplus que quiconque , a étéresponsable</title> , <orgName>depar saqualité de Président de la Cour suprême , du déclenchement dela guerre de Sécession</orgName> .</bibl>
+	<bibl><title level="j">OCDE</title> (<date>2002</date>), <title level="a">Examens de l&apos;OCDE de la réforme de la réglementation – Politiques de régulationdans les pays de l &apos;OCDE: De l &apos;interventionnismeà la gouvernance de la régulation</title> ,<note>Organisation decoopération et de développement économiques</note> , <pubPlace>Paris</pubPlace>, <biblScope unit="page">p. 97</biblScope>.</bibl>
+	<bibl><title level="a">Power and Gas Regulation – Issues and International Experience</title>, <pubPlace>La Banque Mondiale, Washington</pubPlace>,<date>avril 2001</date> .</bibl>
+	<bibl><title level="a">The Regulatory State: Ensuring its Accountability, Commission de la Chambre des Lords sur la Constitution,6ème rapport de la session 2003 -04</title>,Vol .<pubPlace>I ,Rapport</pubPlace> ,§ <biblScope unit="volume">113</biblScope> .</bibl>
+	<bibl><author>Op. cit</author>., <title level="m">§ 113 et</title> Vol. <biblScope unit="volume">II</biblScope>, p. <biblScope unit="page">373</biblScope>, § <biblScope unit="issue">9</biblScope>.</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

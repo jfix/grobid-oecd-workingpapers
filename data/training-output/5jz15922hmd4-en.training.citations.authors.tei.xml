@@ -1,0 +1,156 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Alonso</surname>, <forename>J</forename>., <forename>M</forename>.<middlename>C</middlename>. <surname>Angermeyer</surname>, <forename>S</forename>. <surname>Bernert</surname> et al.</author>
+
+						<author><surname>Amaddeo</surname>, <forename>F</forename>., <forename>I</forename>. <surname>Burti</surname>, <forename>M</forename>. <surname>Ruggeri</surname> and <forename>M</forename>. <surname>Tansella</surname></author>
+
+						<author><surname>Aydin</surname> <forename>N</forename>., <surname>Yigit</surname> <forename>A</forename>., <surname>Inandi</surname> <forename>T</forename>., <surname>Kirpinar</surname> <forename>I</forename>.</author>
+
+						<author><surname>Babini</surname>, <forename>V</forename>. <middlename>P</middlename>.</author>
+
+						<author><surname>Basaglia</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Basaglia</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Bersani</surname>, <forename>G</forename>.</author>
+
+						<author><surname>Bignami</surname>, <forename>R</forename>., <forename>A</forename>. <surname>Fioritti</surname>, <forename>G</forename>. <surname>Lanciotti</surname>, <forename>L</forename>. <surname>Pazzi</surname>, <forename>A</forename>. <surname>Piazza</surname> and <forename>E</forename>. <surname>Verdini</surname></author>
+
+						<author><surname>Burti</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Casacchia</surname>, <forename>M</forename>., <forename>V</forename>. <surname>Bianchini</surname>, <forename>M</forename>. <surname>Mazza</surname>, <forename>R</forename>. <surname>Pollice</surname> and <forename>R</forename>. <surname>Roncone</surname></author>
+
+						<author><surname>Civenti</surname>, <forename>G</forename>., <forename>A</forename>. <surname>Lora</surname> and <forename>F</forename>. <surname>Spinogatti</surname></author>
+
+						<author><surname>Council</surname> of <forename>Europe</forename></author>
+
+						<author><surname>Davidson</surname>, <forename>L</forename>., <forename>R</forename>. <surname>Mezzina</surname>, <forename>M</forename>. <surname>Rowe</surname> and <forename>K</forename>.<middlename>A</middlename>. <surname>Thompson</surname></author>
+
+						<author><forename>De</forename> <surname>Girolamo</surname>, <forename>G</forename>., <forename>G</forename>. <surname>Polidori</surname>, <forename>P</forename>. <surname>Morosini</surname>, <forename>V</forename>. <surname>Scarpino</surname>, <forename>V</forename>. <surname>Reda</surname>, <forename>F</forename>. <surname>Serra</surname>, <forename>F</forename>. <surname>Mazzi</surname>, <forename>J</forename>. <surname>Alonso</surname>, <forename>G</forename>. <surname>Vilagut</surname>, <forename>G</forename>. <surname>Visona</surname>, <forename>F</forename>. <surname>Falsirollo</surname>, <forename>A</forename>. <surname>Rossi</surname> and <forename>R</forename>. <surname>Warner</surname></author>
+
+						<author><forename>De</forename> <surname>Girolamo</surname>, <forename>G</forename>., <forename>G</forename>. <surname>Polidori</surname>, <forename>P</forename>. <surname>Morosini</surname>, <forename>F</forename>. <surname>Serra</surname>, <forename>F</forename>. <surname>Mazzi</surname>, <forename>V</forename>. <surname>Scarpino</surname>, <forename>V</forename>. <surname>Reda</surname>, <forename>G</forename>. <surname>Visona</surname>, <forename>F</forename>. <surname>Falsirollo</surname> and <forename>A</forename>. <surname>Rossi</surname></author>
+
+						<author><forename>De</forename> <surname>Girolamo</surname>, <forename>G</forename>., <forename>M</forename>. <surname>Bassi</surname>, <forename>G</forename>. <surname>Neri</surname>, <forename>M</forename>. <surname>Ruggeri</surname>, <forename>G</forename>. <surname>Santone</surname> and <forename>A</forename>. <surname>Picardi</surname></author>
+
+						<author><forename>De</forename> <surname>Girolamo</surname>, <forename>G</forename>., <forename>A</forename>. <surname>Barbato</surname>, <forename>R</forename>. <surname>Bracco</surname>, <forename>A</forename>. <surname>Gaddini</surname>, <forename>R</forename>. <surname>Miglio</surname>, <forename>P</forename>. <surname>Morosini</surname>, <forename>B</forename>. <surname>Norcio</surname>, <forename>A</forename>. <surname>Picardi</surname>, <forename>E</forename>. <surname>Rossi</surname>, <forename>P</forename>. <surname>Rucci</surname>, <forename>G</forename>. <surname>Santone</surname>, <forename>G</forename>. <surname>Dell&apos;Acqua</surname></author>
+
+						<author><forename>De</forename> <surname>Leonardis</surname> <forename>O</forename>., <surname>Mauri</surname> <forename>D</forename>., <surname>Rotelli</surname> <forename>F</forename>.</author>
+
+						<author><surname>Dell&apos;Acqua</surname></author>
+
+						<author><surname>Faravelli</surname>, <forename>C</forename>., <forename>I</forename>. <surname>Abrardi</surname>, <forename>D</forename>. <surname>Bartolozzi</surname>, <forename>C</forename>. <surname>Cecchi</surname>, <forename>F</forename>. <surname>Cosci</surname>, <forename>D</forename>. <middlename>D</middlename><surname>&apos;Adamo</surname>, <forename>B</forename>. <surname>Lo Iacono</surname>, <forename>C</forename>. <surname>Ravaldi</surname>, <forename>M</forename>.<middlename>A</middlename>. <surname>Scarpato</surname>, <forename>E</forename>. <surname>Truglia</surname>, <forename>P</forename>.<middlename>M</middlename>. <surname>Rossi Prodi</surname> and <forename>S</forename>. <surname>Rosi</surname></author>
+
+						<author><surname>Fioritti</surname>, <forename>A</forename>. and <forename>F</forename>. <surname>Amaddeo</surname></author>
+
+						<author><surname>Frigerio</surname>, <forename>A</forename>., <forename>P</forename>. <surname>Rucci</surname>, <forename>R</forename>. <surname>Goodman</surname>, <forename>M</forename>. <surname>Ammaniti</surname>, <forename>O</forename>. <surname>Carlet</surname>, <forename>P</forename>. <surname>Cavolina</surname>, <forename>G</forename>. <surname>De Girolamo</surname>, <forename>C</forename>. <surname>Lenti</surname>, <forename>I</forename>. <surname>Lucarelli</surname>, <forename>E</forename>. <surname>Mani</surname>, <forename>A</forename>. <surname>Martinuzzi</surname>, <forename>N</forename>. <surname>Micali</surname></author>
+
+						<author><surname>Pastore</surname>, <forename>G</forename>. <surname>Polidori</surname>, <forename>A</forename>. <surname>Tullini</surname>, <forename>I</forename>. <surname>Vanzin</surname>, <forename>I</forename>. <surname>Villa</surname>, <forename>M</forename>. <surname>Walder</surname>, <forename>A</forename>. <surname>Zuddas</surname> and <forename>M</forename>. <surname>Molteni</surname></author>
+
+						<author><surname>Gaddini</surname>, <forename>A</forename>., <forename>V</forename>. <surname>Mattia</surname>, <forename>D</forename>. <middlename>Di</middlename> <surname>Lallo</surname> and <forename>G</forename>. <surname>Guasticchi</surname></author>
+
+						<author><surname>Gonella</surname>, <forename>R</forename>., <forename>R</forename>. <surname>Pinciaroli</surname>, <forename>G</forename>. <surname>Tibaldi</surname> and <forename>C</forename>. <surname>Munizza</surname></author>
+
+						<author><forename>Italian</forename> <surname>Parliament</surname></author>
+
+						<author><surname>Kroenke</surname>, <forename>K</forename>., <forename>R</forename>.<middlename>L</middlename>. <surname>Spitzer</surname> and <forename>J</forename>.<middlename>B</middlename>.<middlename>W</middlename>. <surname>Williams</surname></author>
+
+						<author><forename>Lo</forename> <surname>Scalzo</surname>, <forename>A</forename>., <forename>A</forename>. <surname>Donatini</surname>, <forename>L</forename>. <surname>Orzella</surname>, <forename>A</forename>. <surname>Cicchetti</surname>, <forename>S</forename>. <surname>Profili</surname> and <forename>A</forename>. <surname>Maresso</surname></author>
+
+						<author><surname>Lopez</surname>, <forename>A</forename>.<middlename>D</middlename>., <forename>C</forename>.<middlename>D</middlename>. <surname>Mathers</surname>, <forename>M</forename>. <surname>Ezzati</surname>, <forename>D</forename>.<middlename>T</middlename>. <surname>Jamison</surname> and <forename>C</forename>.<middlename>J</middlename>.<middlename>L</middlename>. <surname>Murray</surname></author>
+
+						<author><surname>Lora</surname>, <forename>A</forename>., <forename>R</forename>. <surname>Bezzi</surname> and <forename>A</forename>. <surname>Erlicher</surname></author>
+
+						<author><surname>Lora</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Lora</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Lora</surname>, <forename>A</forename>. and <forename>E</forename>. <surname>Monzani</surname></author>
+
+						<author><surname>Magliano</surname>, <forename>L</forename>., <forename>J</forename>.<surname>Read</surname>, <forename>S</forename>. <surname>Rega</surname>, <forename>N</forename>. <surname>Oliviero</surname>, <forename>A</forename>. <surname>Sagliocchi</surname>, <forename>M</forename>. <surname>Patalano</surname>, <forename>A</forename>. D&apos;Ambrosio</author>
+
+						<author><surname>Magliano</surname>, <forename>L</forename>., <forename>J</forename>.<surname>Read</surname>, <forename>N</forename>. <surname>Oliviero</surname>, <forename>A</forename>. <surname>Sagliocchi</surname>, <forename>M</forename>. <surname>Patalano</surname>, <forename>A</forename>. D&apos;Ambrosio</author>
+
+						<author><surname>Magliano</surname> <forename>L</forename>., <forename>De</forename> <surname>Rosa</surname> <forename>C</forename>., <surname>Fiorillo</surname> <forename>A</forename>.</author>
+
+						<author><surname>Menchetti</surname>, <forename>M</forename>., <forename>I</forename>. <surname>Tarricone</surname>, <forename>B</forename>. <surname>Bortolotti</surname> and <forename>D</forename>. <surname>Berardi</surname></author>
+
+						<author><surname>Mezzina</surname>, <forename>R</forename>. and <forename>S</forename>. <surname>Johnson</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><forename>DELSA/HEA/WD/</forename><surname>HWP</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname></author>
+
+						<author><surname>Ministry</surname> of <surname>Health</surname> <forename>&amp;</forename> <surname>Ministry</surname> of <surname>Justice</surname></author>
+
+						<author><surname>Muggia</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Munizza</surname>, <forename>C</forename>., <forename>R</forename>. <surname>Gonella</surname>, <forename>R</forename>. <surname>Pinciaroli</surname>, <forename>P</forename>. <surname>Rucci</surname>, <forename>R</forename>.<middlename>L</middlename>. <surname>Picci</surname> and <forename>G</forename>. <surname>Tibaldi</surname></author>
+
+						<author><surname>Nardocci</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Pollice</surname>, <forename>R</forename>., <forename>V</forename>. <surname>Bianchini</surname>, <forename>M</forename>.<middlename>C</middlename>. <surname>Conti</surname>, <forename>M</forename>. <surname>Mazza</surname>, <forename>R</forename>. <surname>Roncone</surname> and <forename>M</forename>. <surname>Casacchia</surname></author>
+
+						<author><surname>Pollice</surname>, <forename>R</forename>., <forename>V</forename>. <surname>Bianchini</surname>, <forename>R</forename>. <surname>Roncone</surname> and <forename>M</forename>. <surname>Casacchia</surname></author>
+
+						<author><surname>Pollice</surname>, <forename>R</forename>., <forename>V</forename>. <surname>Bianchini</surname>, <forename>S</forename>. <middlename>Di</middlename> <surname>Mauro</surname>, <forename>M</forename>. <surname>Mazza</surname>, <forename>L</forename>. <surname>Verni</surname>, <forename>R</forename>. <surname>Roncone</surname> and <forename>M</forename>. <surname>Casacchia</surname></author>
+
+						<author><forename>Regione</forename> <surname>Emilia-Romagna</surname></author>
+
+						<author><surname>Rosen</surname> <forename>A</forename>., <forename>P</forename>. <surname>O&apos;Halloran</surname> and <forename>R</forename>. <surname>Mezzina</surname></author>
+
+						<author><surname>Russo</surname>, <forename>G</forename>. and <forename>F</forename>. <surname>Carelli</surname></author>
+
+						<author><surname>Sabetta</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Sartorius</surname> <forename>N</forename>.</author>
+
+						<author><surname>Storie di</surname> <forename>Guarigione</forename></author>
+
+						<author><surname>Tibaldi</surname>, <forename>G</forename>., <forename>G</forename>. <surname>Glover</surname>, <forename>G</forename>. <surname>Costa</surname>, <forename>A</forename>. <surname>Petrelli</surname> and <forename>C</forename>. <surname>Munizza</surname></author>
+
+						<author><surname>Tibaldi</surname>, <forename>G</forename>., <forename>L</forename>. <surname>Pinciaroli</surname> and <forename>R</forename>. <surname>Diecidue</surname></author>
+
+						<author><forename>DELSA/HEA/WD/</forename><surname>HWP</surname></author>
+
+						<author><forename>OECD</forename> <surname>HEALTH</surname> WORKING <surname>PAPERS</surname> A full <forename>PRICING</forename> <surname>AND</surname> COMPETITION <surname>IN SPECIALIST</surname> MEDICAL <surname>SERVICES</surname> – <surname>AN OVERVIEW</surname> FOR <surname>SOUTH</surname> AFRICA</author>
+
+						<author><forename>MANAGING</forename> <surname>HOSPITAL</surname> VOLUMES: <surname>GERMANY</surname> AND <surname>EXPERIENCES</surname> FROM <surname>OECD</surname> COUNTRIES <surname>INTERNATIONAL</surname> VARIATIONS <surname>IN</surname> A <surname>SELECTED</surname> NUMBER <surname>OF</surname> SURGICAL <surname>PROCEDURES) Klim McPherson</surname>, <forename>Giorgia</forename> <surname>Gon</surname>, <forename>Maggie</forename> <surname>Scott</surname> <forename>HEALTH</forename> <surname>SPENDING GROWTH</surname> AT <surname>ZERO</surname>: <surname>WHICH COUNTRIES</surname>, <forename>WHICH</forename> <surname>SECTORS</surname> ARE <surname>MOST AFFECTED Roberto Astolfi</surname>, <forename>Luca</forename> <surname>Lorenzoni</surname>, <forename>Jillian</forename> <surname>Oderkirk</surname> <forename>ALTERNATIVE</forename> <surname>APPROACHES</surname> TO <surname>MEASURE</surname> AND <surname>PLACE</surname> A <surname>VALUE</surname> ON <surname>HOSPITAL</surname> PRODUCTS <surname>IN</surname> SEVEN <surname>OECD COUNTRIES Juan</surname> <forename>G</forename>. <surname>Gay</surname>, <forename>Valerie</forename> <middlename>Paris</middlename> <forename>Franco</forename> <surname>Sassi</surname>, <forename>Michele</forename> <surname>Cecchini</surname>, <forename>Jeremy</forename> <surname>Lauer</surname> and <forename>Dan</forename> <surname>Chisholm</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

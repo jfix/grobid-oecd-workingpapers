@@ -1,0 +1,1167 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_mieux-mesurer-l-administration-publique_5l4s3mmwbl0r.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <figDesc>L&apos;OCDE réunit des données comparables sur la gestion publique dans ses pays membres depuis 1994.<lb/> Depuis cette année-là, son Service de la gestion publique (PUMA) fournit, dans le cadre de sa collecte des<lb/> statistiques pour la base de données sur l&apos;emploi et les rémunérations dans le secteur public (PSPE), des<lb/> analyses des grandes tendances relatives aux traitements et à l&apos;emploi dans le secteur public. Dans le<lb/> contexte actuel de poursuite des réformes de leur secteur public par les pays de l&apos;OCDE, il est de plus en<lb/> plus nécessaire de disposer de données de meilleure qualité permettant de contrôler les actions prises à<lb/> l&apos;aune de la réalité et de fournir des orientations pour l&apos;avenir.<lb/> Le présent Document de travail compile un ensemble de données comparables récentes sur les<lb/> recettes, les intrants et les processus du secteur public dans les pays de l&apos;OCDE et propose une approche<lb/> pour les collectes de données ultérieures. Il s&apos;agit du premier Document de travail annuel d&apos;un groupe de<lb/> trois documents que la Direction de la Gouvernance publique et du Développement territorial de l&apos;OCDE<lb/> publiera, en vue de la parution fin 2009 d&apos;une étude biennale majeure intitulée « Panorama des<lb/> administrations ». Ce document est accompagné d&apos;une publication intitulé « Mesurer les actions menées<lb/> par l&apos;administration publique » (OCDE, à venir) qui présente l&apos;approche proposée et soumet différentes<lb/> alternatives techniques à l&apos;analyse et à l&apos;avis des experts. 1 La première partie de cette publication offre une<lb/> analyse détaillée de la classification des données et de l&apos;analyse choisies.<lb/> L&apos;élaboration de la méthodologie a été supervisée par trois groupes éditoriaux informels comprenant<lb/> des experts gouvernementaux et des universitaires de l&apos;ensemble des pays de l&apos;OCDE (voir<lb/> http://www.oecd.org/gov/indicators pour plus d&apos;informations), en étroite collaboration avec d&apos;autres<lb/> Directions de l&apos;OCDE (plus particulièrement le Département des Affaires économiques et la Direction des<lb/> Statistiques).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>De nombreux autres organismes et institutions développent des<lb/> ensembles de données utiles sur la gestion publique. GOV/OCDE<lb/> continuera à réunir des données dans certains domaines clés—fort<lb/> de l&apos;avantage comparatif que lui confère son accès privilégié aux<lb/> gouvernements—mais ce rôle de collecte de données sera de plus en<lb/> plus accompagné d&apos;une activité de networking. Forte de son pouvoir<lb/> unique de convocation et de son travail de définition claire des<lb/> normes techniques et d&apos;identification des types de données<lb/> manquantes, la direction GOV/OCDE encouragera les autres<lb/> fournisseurs de données à travailler sur les domaines prioritaires et à<lb/> suivre les normes de l&apos;OCDE. Une telle approche peut également<lb/> offrir l&apos;avantage supplémentaire de minimiser les doublons dans les<lb/> enquêtes menées auprès des des pays membres de l&apos;OCDE et ainsi<lb/> de réduire le temps nécessaire aux enquêtes. OCDE/GOV se<lb/> concentrera sur les informations prioritaires et cherchera de<lb/> nouvelles données en accord avec sa stratégie globale, en soulignant<lb/> que des outils d&apos;étude longs et complexes peuvent s&apos;avérer contreproductifs lorsqu&apos;on veut obtenir des<lb/> réponses utiles.<lb/> Il sera important de signaler clairement aux chercheurs et aux praticiens les domaines dans lesquels de<lb/> nouveaux ensembles de données pourraient permettre des analyses utiles. Les gouvernements et les<lb/> chercheurs peuvent proposer l&apos;inclusion de nouvelles données dans « Panorama de l&apos;Adminstration » en<lb/> fournissant des informations détaillées les concernant dans les questionnaires qui sont sur le site internet de<lb/> GOV à www.oecd.org/gov/indicators.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            Table 1: Activitités incluent dans « Panorama de l&apos;Administration »<lb/> 4<lb/> Institutional domain<lb/> How transactions are recorded in the<lb/> national accounts<lb/> Examples<lb/> General government</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>sa neutralité envers les politiques publiques, « Panorama des administrations » prendra ces<lb/> politiques telles quelles et fournira des informations susceptibles d&apos;aider à mettre en évidence si ces<lb/> politiques peuvent être mises en oeuvre plus efficacement ou la manière dont leurs dispositifs de mise en<lb/> oeuvre diffèrent de pays en pays et évoluent au fil du temps. De façon délibérée, cette publication ne visera<lb/> pas à examiner les questions relatives aux résultats recherchés par les gouvernements.<lb/> La publication n&apos;aura recours que très prudemment aux indicateurs composites, dans la mesure où<lb/> ceux-ci ne fournissent qu&apos;un degré de précision trompeur pour le classement des différents pays. Elle<lb/> suggère de procéder à une certaine expérimentation dans des domaines limités après évaluation des risques<lb/> impliqués. Elle constate également qu&apos;un autre type d&apos;indicateurs pourrait susciter un intérêt pour le<lb/> projet : les « indicateurs dérivés ». Ces derniers pourraient ainsi permettre de montrer à quel point chaque<lb/> pays a permis l&apos;accès à ses données pour faciliter l&apos;établissement de comparaisons avec les autres pays, ou<lb/> encore d&apos;identifier les processus du secteur public pour lesquels il existe des séries chronologiques et une<lb/> variation importante entre deux dates.<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Une centaine de variables semblent être pertinents<lb/> pour les politiques publiques et méritent donc d&apos;être<lb/> inclus dans le présent Document de travail.<lb/> Les données peuvent être grossièrement classées<lb/> dans les catégories présentées dans le tableau ci-contre.<lb/> Seuls deux ensembles de données contiennent des séries<lb/> chronologiques (ceux extraites de la base de données<lb/> budgétaires et ceux concernant les traitements et<lb/> l&apos;emploi dans le secteur public) et d&apos;importants défis<lb/> conceptuels et de définition sont associés à ces deux<lb/> groupes.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> Blöchliger, H. and D. King (2006), Fiscal autonomy of Sub-central Governments, OECD Fiscal Relations<lb/> Working Paper, No. 2.<lb/> Bergvall D., Charbit, C., Kraan, D. and O. Merk (2006): Intergovernmental transfers and decentralized<lb/> public spending, OECD Journal of Budgeting, Vol. 4, No. 4, pp. 111-158.<lb/> Joumard, I. and P. M. Kongsrud (2003), Fiscal relations across government levels, OECD. Economic<lb/> Studies No. 36, 2003/1;<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            -<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>0.3<lb/> -<lb/>-<lb/>0.0<lb/> 0.3<lb/> 2000 Social security contributions<lb/> 0.1<lb/> -<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>0.0<lb/> 0.1<lb/> 0.3<lb/> 2100 Employees<lb/> 0.1<lb/> -<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>0.1<lb/> 0.2<lb/> 2200 Employers<lb/> -<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>0.0<lb/> 0.0<lb/> 2300 Self-employed or non-employed<lb/> -<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>2400 Unallocable between 2100, 2200 and 2300<lb/> -<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>3000 Taxes on payroll and workforce</trash>
+        </figure>
+
+
+        <figure>
+
+            -<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>0.5<lb/> 4600 Other recurrent taxes on property<lb/> -<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-<lb/>-</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> Blöchliger, H. and D. King (2006), Fiscal autonomy of Sub-central Governments, OECD Fiscal Relations<lb/> Working Paper, No. 2.<lb/> Bergvall D., Charbit, C., Kraan, D. and O. Merk (2006): Intergovernmental transfers and decentralized<lb/> public spending, OECD Journal of Budgeting, Vol. 4, No. 4, pp. 111-158.<lb/> Joumard, I. and P. M. Kongsrud (2003), Fiscal relations across government levels, OECD. Economic<lb/> Studies No. 36, 2003/1;<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> Blöchliger, H. and D. King (2006), Fiscal autonomy of Sub-central Governments, OECD Fiscal Relations<lb/> Working Paper, No. 2.<lb/> Bergvall D., Charbit, C., Kraan, D. and O. Merk (2006): Intergovernmental transfers and decentralized<lb/> public spending, OECD Journal of Budgeting, Vol. 4, No. 4, pp. 111-158.<lb/> Joumard, I. and P. M. Kongsrud (2003), Fiscal relations across government levels, OECD. Economic<lb/> Studies No. 36, 2003/1.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>About this indicator:<lb/> Sub-central governments (SCG) rely on own source revenues and intergovernmental grants, which may be<lb/> earmarked for particular purposes. The functional categories defined by the SNA are: General public services;<lb/> Defence; Public order &amp; safety; Economic affairs; Environmental protection; Housing &amp; community amenities; Health;<lb/> Recreation, culture and religion; Education; Social protection.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> Blöchliger, H. and D. King (2006), Fiscal autonomy of Sub-central Governments, OECD Fiscal Relations<lb/> Working Paper, No. 2.<lb/> Bergvall D., Charbit, C., Kraan, D. and O. Merk (2006): Intergovernmental transfers and decentralized<lb/> public spending, OECD Journal of Budgeting, Vol. 4, No. 4, pp. 111-158.<lb/> Joumard, I. and P. M. Kongsrud (2003), Fiscal relations across government levels, OECD. Economic<lb/> Studies No. 36, 2003/1;<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> Sutherland, D., R. Price and I. Joumard (2005), Sub-central government fiscal rules, OECD Economic<lb/> Studies, No. 41/2.<lb/> Joumard, I. and P. M. Kongsrud (2003), Fiscal relations across government levels, OECD Economic<lb/> Studies No. 36, 2003/1.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> Sutherland, D., R. Price and I. Joumard (2005), Sub-central government fiscal rules, OECD Economic<lb/> Studies, No. 41/2.<lb/> Joumard, I. and P. M. Kongsrud (2003), Fiscal relations across government levels. OECD Economic<lb/> Studies No. 36, 2003/1<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            Further reading:<lb/> Sutherland, D., R. </trash>
+ 
+            <figDesc>Price and I. Joumard (2005), Sub-central government fiscal rules, OECD Economic<lb/> Studies, No. 41/2.<lb/> Joumard, I. and P. M. Kongsrud (2003), Fiscal relations across government levels. OECD Economic<lb/> Studies No. 36, 2003/1<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> Sutherland, D., R. Price and I. Joumard (2005), Sub-central government fiscal rules, OECD Economic<lb/> Studies, No. 41/2.<lb/> Joumard, I. and P. M. Kongsrud (2003), Fiscal relations across government levels. OECD Economic<lb/> Studies No. 36, 2003/1<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2006), How and Why Should Government Activity Be Measured in &quot;Government at a Glance&quot;?,<lb/> OECD GOV Working Paper 1, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2007), State of the Public Service, Paris. (Forthcoming)<lb/> OECD (2005), Management in Government: Feasibility Report on the Development of Comparative Data,<lb/> Paris.<lb/> OECD (2002), Highlights of public sector pay and employment trends, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            2000<lb/> 2001<lb/> Australia 1<lb/> Federal Administration<lb/> 406700<lb/> 410300<lb/> 397000<lb/> 382300<lb/> 359800<lb/> 371700<lb/> 354800<lb/> 287700<lb/> 264700<lb/> 245600<lb/> 251600<lb/> 248500<lb/> States<lb/> 1179100<lb/> 1160200<lb/> 1139800<lb/> 1129300<lb/> 1069300<lb/> 1077800<lb/> 1075900<lb/> 1047600<lb/> 1070700<lb/> 1079900<lb/> 1075000<lb/> 1090600<lb/> Local Administration<lb/> 160300<lb/> 160900<lb/> 161100<lb/> 163500<lb/> 159200<lb/> 153500<lb/> 154700<lb/> 148800<lb/> 138000<lb/> 138700<lb/> 139400<lb/> 146700<lb/> Total Public Sector<lb/> 1746100<lb/> 1731400<lb/> 1697900<lb/> 1675100<lb/> 1588300<lb/> 1603000<lb/> 1585400<lb/> 1484100<lb/> 1473400<lb/> 1464200<lb/> 1466000<lb/> 1485800<lb/> Belgium<lb/> Federal Administration<lb/> 82902<lb/> 81627<lb/> 81461<lb/> 83511<lb/> 83106<lb/> 82872<lb/> 82996<lb/> 83768<lb/> 85227<lb/> Canada 2<lb/> Federal Administration<lb/> 406366<lb/> 415387<lb/> 411278<lb/> 404734<lb/> 394106<lb/> 371053<lb/> 356099<lb/> 337713<lb/> 330981<lb/> 331685<lb/> 339434<lb/> 357308<lb/> Provinces<lb/> 1387076<lb/> 1401732<lb/> 1409252<lb/> 1397171<lb/> 1375802<lb/> 1370450<lb/> 1315258<lb/> 1301694<lb/> 1300392<lb/> 1296209<lb/> 1303715<lb/> 1313379<lb/> Local Administration<lb/> 869121<lb/> 888733<lb/> 904250<lb/> 909990<lb/> 909161<lb/> 907405<lb/> 907146<lb/> 891425<lb/> 887527<lb/> 885122<lb/> 881641<lb/> 881926<lb/> Total Public Sector<lb/> 2662563<lb/> 2705852<lb/> 2724780<lb/> 2711895<lb/> 2679069<lb/> 2648908<lb/> 2578503<lb/> 2530832<lb/> 2518900<lb/> 2513016<lb/> 2524790<lb/> 2552613<lb/> Czech Republic 3<lb/> Central Administration<lb/> 501786<lb/> 490071<lb/> 459769<lb/> Local Administration<lb/> 239378<lb/> 239131<lb/> 256089<lb/> Finland 2<lb/> Central Administration<lb/> 146948<lb/> 145877<lb/> 145100<lb/> 139886<lb/> 132918<lb/> 124670<lb/> 122355<lb/> 123214<lb/> 124943<lb/> 125481<lb/> 123721<lb/> 120541<lb/> Local Administration<lb/> 433539<lb/> 431650<lb/> 412397<lb/> 388842<lb/> 394416<lb/> 393621<lb/> 408739<lb/> 418172<lb/> 416143<lb/> 411151<lb/> 415613<lb/> 421537<lb/> Total Public Sector<lb/> 580487<lb/> 577527<lb/> 557497<lb/> 528728<lb/> 527334<lb/> 518291<lb/> 531094<lb/> 541386<lb/> 541086<lb/> 536632<lb/> 539334<lb/> 542078<lb/> France<lb/> Central Administration<lb/> 2488200<lb/> 2522335<lb/> 2547627<lb/> 2576939<lb/> Regional Administration<lb/> 1045855<lb/> 1060386<lb/> 1076404<lb/> Local Administration<lb/> 1047645<lb/> 1069249<lb/> 1080056<lb/> Total Public Sector<lb/> 4581700<lb/> 4651970<lb/> 4704087<lb/> Germany<lb/> Federal Administration<lb/> 652000<lb/> 624700<lb/> 602900<lb/> 577600<lb/> 546300<lb/> 533200<lb/> 526400<lb/> 516000<lb/> 510200<lb/> 502000<lb/> Landers<lb/> 2572000<lb/> 2531300<lb/> 2510700<lb/> 2482000<lb/> 2453400<lb/> 2429900<lb/> 2401900<lb/> 2363100<lb/> 2313700<lb/> 2273300<lb/> Local Administration<lb/> 2051400<lb/> 2073500<lb/> 1946800<lb/> 1873300<lb/> 1801500<lb/> 1739300<lb/> 1683300<lb/> 1648500<lb/> 1609700<lb/> 1572000<lb/> Total Public Sector<lb/> 5275300<lb/> 5229500<lb/> 5060300<lb/> 4932800<lb/> 4801300<lb/> 4702300<lb/> 4611700<lb/> 4527600<lb/> 4433600<lb/> 4347300<lb/> Greece<lb/> Central Administration<lb/> 31867<lb/> 33057<lb/> Regional Administration<lb/> 193408<lb/> 190783<lb/> Local Administration<lb/> 46230<lb/> 47057<lb/> Total Public Sector<lb/> 271505<lb/> 270897<lb/> Hungary<lb/> Central Administration<lb/> 280496<lb/> 285221<lb/> 284608<lb/> 277894<lb/> 275279<lb/> Local Administration<lb/> 533531<lb/> 537394<lb/> 515114<lb/> 513542<lb/> 513375<lb/> GOV/PGC(2006)10<lb/> 56<lb/> 1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/> 2000<lb/> 2001<lb/> Total Public Sector<lb/> 814027<lb/> 822615<lb/> 799722<lb/> 791436<lb/> 788654<lb/> Italy<lb/> Central Administration<lb/> 1641086<lb/> 1636325<lb/> 1623507<lb/> Regional Administration<lb/> 126634<lb/> 127948<lb/> Local Administration<lb/> 513630<lb/> 511673<lb/> Total Public Sector<lb/> 3107131<lb/> 3107549<lb/> 3108803<lb/> Japan<lb/> Regional Administration<lb/> 1747818<lb/> 1750762<lb/> 1748480<lb/> 1745622<lb/> 1741060<lb/> 1732662<lb/> 1726305<lb/> 1719993<lb/> 1709973<lb/> 1698256<lb/> 1673344<lb/> 1654866<lb/> Local Administration<lb/> 1670146<lb/> 1680108<lb/> 1693879<lb/> 1713039<lb/> 1728707<lb/> 1732512<lb/> 1734314<lb/> 1732918<lb/> 1725000<lb/> 1718244<lb/> 1713665<lb/> 1698725<lb/> Luxembourg<lb/> Central Administration<lb/> 874<lb/> 943<lb/> 971<lb/> 1037<lb/> 1052<lb/> 1099<lb/> 1112<lb/> 1180<lb/> 1175<lb/> 1204<lb/> 1283<lb/> 1411<lb/> Total Public Sector<lb/> 16819<lb/> 17157<lb/> 17602<lb/> 15401<lb/> 15714<lb/> 15938<lb/> 16309<lb/> 16690<lb/> 17249<lb/> 17778<lb/> 18316<lb/> 18934<lb/> Netherlands<lb/> Central Administration<lb/> 569266<lb/> 596288<lb/> 605996<lb/> 614439<lb/> 629745<lb/> Provinces<lb/> 40617<lb/> 38405<lb/> 38257<lb/> 38641<lb/> 39235<lb/> Local Administration<lb/> 175192<lb/> 170347<lb/> 172775<lb/> 174953<lb/> 177277<lb/> Total Public Sector<lb/> 785075<lb/> 805040<lb/> 817028<lb/> 828033<lb/> 846257<lb/> New-Zealand<lb/> Central Administration<lb/> 209580<lb/> 203510<lb/> 206280<lb/> 208670<lb/> 201110<lb/> 205150<lb/> 197780<lb/> 201230<lb/> 208900<lb/> 198180<lb/> 205540<lb/> Regional Administration<lb/> 29230<lb/> 23730<lb/> 23020<lb/> 23480<lb/> 22910<lb/> 23110<lb/> 21270<lb/> 21330<lb/> 21190<lb/> 21990<lb/> 21680<lb/> Total Public Sector<lb/> 238810<lb/> 227240<lb/> 229300<lb/> 232150<lb/> 224020<lb/> 228260<lb/> 219050<lb/> 222560<lb/> 230090<lb/> 220170<lb/> 227220<lb/> Norway<lb/> Total Public Sector<lb/> 132210<lb/> 133536<lb/> Spain<lb/> Central Administration<lb/> 893492<lb/> 852812<lb/> 809590<lb/> 832152<lb/> 838345<lb/> 852041<lb/> 856863<lb/> 838694<lb/> 829875<lb/> 830557<lb/> 770956<lb/> 689912<lb/> Regional Administration<lb/> 514273<lb/> 536983<lb/> 565460<lb/> 593453<lb/> 612374<lb/> 625771<lb/> 620474<lb/> 637218<lb/> 671467<lb/> 677160<lb/> 690370<lb/> 904041<lb/> Local Administration<lb/> 333843<lb/> 355548<lb/> 374656<lb/> 366391<lb/> 367032<lb/> 371456<lb/> 425156<lb/> 450400<lb/> 460054<lb/> 504550<lb/> 456368<lb/> 455357<lb/> Total Public Sector 4<lb/> 1801006<lb/> 1809511<lb/> 1816116<lb/> 1863027<lb/> 1891279<lb/> 1926651<lb/> 1983258<lb/> 2010085<lb/> 2047645<lb/> 2101724<lb/> 2009206<lb/> 2136788<lb/> Sweden<lb/> Central Administration<lb/> 241000<lb/> 236000<lb/> 232000<lb/> 228000<lb/> 227000<lb/> 222000<lb/> 215000<lb/> Switzerland<lb/> Federal Administration<lb/> 35389<lb/> 30741<lb/> 31307<lb/> 32353<lb/> 33791<lb/> Turkey<lb/> Central Administration<lb/> 308228<lb/> 311446<lb/> 316920<lb/> 318085<lb/> Provinces<lb/> 1481574<lb/> 1500711<lb/> 1626408<lb/> 1700567<lb/> Local Administration<lb/> 161500<lb/> 162103<lb/> 175320<lb/> 178500<lb/> Total Public Sector<lb/> 1951302<lb/> 1974260<lb/> 2118648<lb/> 2197152<lb/> United States<lb/> Federal Administration<lb/> 3233332<lb/> 3100361<lb/> 3105764<lb/> 3042822<lb/> 2992865<lb/> 2942541<lb/> 2880700<lb/> 2816388<lb/> 2782761<lb/> 2788350<lb/> 2878819<lb/> GOV/PGC(2006)10<lb/> 57<lb/> 1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/> 2000<lb/> 2001<lb/> States<lb/> 3968265<lb/> 4005321<lb/> 4044914<lb/> 4088075<lb/> 4162944<lb/> 4201836<lb/> 4191726<lb/> 4214451<lb/> 4240779<lb/> 4296673<lb/> 4370562<lb/> Local Administration<lb/> 10564447<lb/> 1.1E+07<lb/> 10892697<lb/> 11059500<lb/> 11278080<lb/> 11442238<lb/> 11621074<lb/> 11844330<lb/> 12077513<lb/> 12339584<lb/> 12620177<lb/> Total Public Sector<lb/> 17766044 17848240<lb/> 18043375<lb/> 18190397<lb/> 18433889<lb/> 18586615<lb/> 18693500<lb/> 18875169<lb/> 19101053<lb/> 19424607<lb/> 19869558<lb/> N o t e s :</trash>
+        </figure>
+
+
+        <figure>
+
+            2000<lb/> 2001<lb/> Austria<lb/> 1990-2000<lb/> Federal Administration<lb/> 163900 163337<lb/> 166691<lb/> 169891<lb/> 171822<lb/> 169892<lb/> 171579<lb/> 171167<lb/> 170876<lb/> 169003<lb/> 165093 161558<lb/> 1%<lb/> Landers<lb/> 143036 145473<lb/> 146009<lb/> 148244<lb/> 150034<lb/> 149538<lb/> 143170<lb/> 131393<lb/> 132411<lb/> 132857<lb/> 132644<lb/> -7%<lb/> Local Administration<lb/> 130996 134772<lb/> 141155<lb/> 142747<lb/> 145102<lb/> 147316<lb/> 150092<lb/> 140442<lb/> 140355<lb/> 139700<lb/> 140527<lb/> 7%<lb/> Total Public Sector<lb/> 437932 443581<lb/> 453856<lb/> 460883<lb/> 466958<lb/> 466746<lb/> 464841<lb/> 443002<lb/> 443642<lb/> 441560<lb/> 438264<lb/> 0.1%<lb/> Belgium<lb/> 1992-2000<lb/> Federal Administration<lb/> 76154.1 76004.2<lb/> 75694<lb/> 75998<lb/> 73729<lb/> 73189<lb/> 73085<lb/> 73349<lb/> 76439<lb/> 0.4%<lb/> Czech Republic 1<lb/> 1997-1999<lb/> Central Administration<lb/> 471861<lb/> 460592<lb/> 432757<lb/> -8%<lb/> Local Administration<lb/> 223588<lb/> 223855<lb/> 240681<lb/> 8%<lb/> France<lb/> 1997-1999<lb/> Central Administration<lb/> 2362400 2381830 2395159 2423577<lb/> 1%<lb/> Regional Administration<lb/> 963220<lb/> 973952<lb/> 998599<lb/> 4%<lb/> Local Administration<lb/> 927637<lb/> 942787<lb/> 951176<lb/> 3%</trash>
+        </figure>
+
+
+        <figure>
+
+            Ireland<lb/> 1990-2001<lb/> Central Administration<lb/> 28090<lb/> 28887<lb/> 29519<lb/> 29654<lb/> 30155<lb/> 31282<lb/> 31030<lb/> 30856<lb/> 31562<lb/> 32733<lb/> 34068<lb/> 36092<lb/> 28%<lb/> Regional Administration<lb/> 146696 148764<lb/> 151563<lb/> 154055<lb/> 158642<lb/> 160942<lb/> 161450<lb/> 164713<lb/> 167901<lb/> 175193<lb/> 183605 193851<lb/> 32%<lb/> Local Administration<lb/> 26681<lb/> 26715<lb/> 26793<lb/> 27060<lb/> 26540<lb/> 26479<lb/> 26500<lb/> 26500<lb/> 26900<lb/> 27400<lb/> 28800<lb/> 29300<lb/> 10%<lb/> Total Public Sector<lb/> 201467 204366<lb/> 207875<lb/> 210769<lb/> 215337<lb/> 218703<lb/> 218980<lb/> 222069<lb/> 226363<lb/> 235326<lb/> 246473 259243<lb/> 29%<lb/> Korea<lb/> 1990-2001<lb/> Central Administration<lb/> 553746 567385<lb/> 579884<lb/> 583411<lb/> 582570<lb/> 574117<lb/> 576637<lb/> 578557<lb/> 572948<lb/> 565619<lb/> 563682 566091<lb/> 2%<lb/> Regional Administration<lb/> 264375 286697<lb/> 306295<lb/> 316415<lb/> 325028<lb/> 331273<lb/> 349157<lb/> 357202<lb/> 315386<lb/> 310053<lb/> 64802<lb/> 64906<lb/> -75%<lb/> Local Administration<lb/> 241192 237123<lb/> Total Public Sector<lb/> 818121 854082<lb/> 886179<lb/> 899826<lb/> 907598<lb/> 905390<lb/> 925794<lb/> 935759<lb/> 888334<lb/> 875672<lb/> 869676 868120<lb/> 6%<lb/> Netherlands<lb/> 1996-2000<lb/> Central Administration<lb/> 491287<lb/> 499525<lb/> 516839<lb/> 523697<lb/> 537072<lb/> 9%<lb/> Provinces<lb/> 35623<lb/> 34174<lb/> 34313<lb/> 34309<lb/> 34473<lb/> -3%<lb/> GOV/PGC(2006)10<lb/> 59<lb/> 1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/> 2000<lb/> 2001<lb/> Local Administration<lb/> 154268<lb/> 151793<lb/> 154100<lb/> 155764<lb/> 156304<lb/> 1%<lb/> Total Public Sector<lb/> 681178<lb/> 685492<lb/> 705252<lb/> 713770<lb/> 727849<lb/> 7%<lb/> New-Zealand<lb/> 1991-2001<lb/> Central Administration<lb/> 183700<lb/> 178310<lb/> 179640<lb/> 180810<lb/> 175260<lb/> 178380<lb/> 171830<lb/> 174090<lb/> 178440<lb/> 171640 177940<lb/> -3%<lb/> Regional Administration<lb/> 27160<lb/> 21770<lb/> 21070<lb/> 21260<lb/> 20580<lb/> 20290<lb/> 18840<lb/> 18700<lb/> 18480<lb/> 18990<lb/> 18700<lb/> -31%<lb/> Total Public Sector</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Source: Early results from the survey on Comparison of Employment in the Public Domain (CEPD), sent at mid-2006. Complete<lb/> analysis will be published in the OECD (2007), State of the Public Service. Paris (forthcoming).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>GOV/PGC(2006)</head>
+
+            <label>10 </label>
+ 
+            <head>GOV</head>
+
+            <figDesc>/PGC(2006)10<lb/> 62<lb/> I3. EMPLOYMENT IN THE PUBLIC DOMAIN WITHIN THE TOTAL LABOUR FORCE<lb/> Key contacts: Elsa Pilichowski, Edouard Turkish, OECD GOV</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2007), State of the Public Service, Paris. (Forthcoming)<lb/> OECD (2005), Management in Government: Feasibility Report on the Development of Comparative Data,<lb/> Paris.<lb/> OECD (2002), Highlights of public sector pay and employment trends, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Table I3.</head>
+
+            <label>1 </label>
+ 
+            <figDesc>Share of the Public Employment over the Labour Force (%)<lb/> 1990</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>I3</label>
+
+            <head>.</head>
+
+            <figDesc>1 Employment in different categories of employment in the public domain, as a % of total<lb/> </figDesc>
+
+            <lb/> labour force in 2005<lb/> 0%<lb/> 5%<lb/> 10%<lb/> 15%<lb/> 20%<lb/> 25%<lb/> 30%<lb/> France<lb/> Netherlands<lb/> Korea<lb/> Turkey<lb/> USA<lb/> Employees engaged </trash>
+ 
+            <figDesc>in the direct provision of services in the public domain<lb/> Employees engaged in the indirect provision of services in the public domain<lb/> Employees engaged in the public corporate provision of services in the public domain<lb/> GOV/PGC(2006)10 GOV/PGC(2006)10<lb/> 66<lb/> I4. AGE STRUCTURE OF PUBLIC SECTOR EMPLOYMENT<lb/> Key contacts: Elsa Pilichowski, Emma Arnould, Edouard Turkisch, OECD GOV</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2007), State of the Public Service, Paris. (Forthcoming),<lb/> OECD (2006), Report on ageing in the civil service, Paris.<lb/> OECD (2005), Management in Government: Feasibility Report on the Development of Comparative Data,<lb/> Paris.<lb/> OECD (2002), Highlights of public sector pay and employment trends, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>I4</label>
+
+            <head>.</head>
+
+            <figDesc>1 Proportion of workers above 50, at national/federal government level, in 1995 and in 2005<lb/> </figDesc>
+
+            <lb/> 10%<lb/> 15%<lb/> 20%<lb/> 25%<lb/> 30%<lb/> 35%<lb/> 40%<lb/> Ireland<lb/> Korea<lb/> Portugal<lb/> Australia<lb/> Austria<lb/> Japan<lb/> Netherlands<lb/> UK<lb/> France*<lb/> Finland<lb/> Norway<lb/> USA<lb/> Sweden<lb/> 1995<lb/> 2005</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>I4</label>
+
+            <head>.</head>
+
+            <figDesc>2 Proportion of workers above 50 at the national/federal government, proportion of persons above 50<lb/> in the total labour force, 2005<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> Ireland<lb/> Korea<lb/> Portugal<lb/> Luxemburg<lb/> Mexico<lb/> Australia<lb/> Austria<lb/> Japan<lb/> Netherlands<lb/> UK<lb/> France<lb/> Sw itzerland<lb/> Finland<lb/> Norw ay<lb/> Hungary<lb/> USA<lb/> Sw eden<lb/> Belgium<lb/> total labour force national/federal government</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>I4</label>
+
+            <head>.</head>
+
+            <figDesc>3 Proportion of workers above 50 in subnational levels of government, in 1995 and in 2005<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> Korea<lb/> Australia<lb/> Portugal<lb/> Finland<lb/> Netherlands<lb/> 1995<lb/> 2005<lb/> Source: </trash>
+ 
+            <figDesc>OECD (2006), Report on ageing in the civil service, Paris.<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>I4</label>
+
+            <head>.</head>
+
+            <figDesc>4 Proportion of workers above 50 in subnational levels of government and in the total labour<lb/> force, 2005<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> Korea<lb/> Australia<lb/> Portugal<lb/> Finland<lb/> Netherlands<lb/> Hungary<lb/> labour f oce<lb/> subnational levels<lb/> </trash>
+<lb/> 
+            <head>Figure </head>
+ 
+            <label>I4</label>
+
+            <head>.</head>
+
+            <figDesc>5 Proportion of workers at the national/federal level between 40 and 50 and above 50 years old<lb/> </figDesc>
+
+            <lb/> 1995<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> Ireland<lb/> Korea<lb/> Portugal<lb/> Australia<lb/> Austria<lb/> Japan<lb/> Netherlands<lb/> UK<lb/> Finland<lb/> Norw ay<lb/> USA<lb/> Sw eden<lb/> 40-50 above 50<lb/> 2000<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> Ireland<lb/> Korea<lb/> Portugal<lb/> Australia<lb/> Austria<lb/> Japan<lb/> Netherlands<lb/> UK<lb/> Finland<lb/> Norw ay<lb/> USA<lb/> Sw eden<lb/> 40-50 </trash>
+ 
+            <figDesc>above 50<lb/> Note: Exceptions regarding the years taken into account :<lb/> Australia: 2000 and not 2005 at the sub-national level<lb/> Finland: 2000 and not 2005 at sub-national level, and 1997 and not 1995 for the national level<lb/> France: Data are for 1997-2002 for the national level<lb/> Ireland: 2000 and not 2005 for the national civil service<lb/> Japan: Data for total labour force are for 2002.<lb/> Korea: 2004 and not 2005 for the labour force<lb/> Portugal: 2000 and not 2005 for the civil service at the national and at the sub-national levels<lb/> Sweden: 2000 and not 2005 for the civil service at the national level<lb/> USA: 2004 and not 2005 for the civil service at the federal level and for the total labour force<lb/> Sources: Public Sector Pay and Employment Survey (2002) and early results of the new HRM Survey (2006). Complete analysis will<lb/> be published in the OECD (2007), State of the Public Service. Paris (forthcoming).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>GOV/PGC(2006)</head>
+
+            <label>10 </label>
+ 
+            <head>GOV</head>
+
+            <figDesc>/PGC(2006)10<lb/> 72<lb/> I5. PARTICIPATION OF WOMEN IN PUBLIC EMPLOYMENT<lb/> Key contacts: Elsa Pilichowski, Edouard Turkisch, OECD GOV</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2007), State of the Public Service. Paris. (Forthcoming),<lb/> OECD (2005), Management in Government: Feasibility Report on the Development of Comparative Data,<lb/> Paris.<lb/> OECD (2002), Highlights of public sector pay and employment trends, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>I5</label>
+
+            <head>.</head>
+
+            <label>1 </label>
+ 
+            <figDesc>Proportion of women in national administration, 2005 or closest year available<lb/> Figure I5.2 Proportion of women in senior management group, at the national level,<lb/> 2005 or closest year available<lb/> Sources: Preliminary sample results from the Survey on Strategic human resource in government. Complete analysis will be<lb/> published in the OECD (2007), State of the Public Service. Paris (forthcoming).<lb/> </figDesc>
+
+            <lb/> 0<lb/> 10<lb/> 20<lb/> 30<lb/> 40<lb/> 50<lb/> 60<lb/> 70<lb/> Portugal<lb/> United<lb/> Kingdom<lb/> Belgium Finland Norway<lb/> Mexico United<lb/> States<lb/> Netherlands Korea Switzerland Japan<lb/> 0<lb/> 10<lb/> 20<lb/> 30<lb/> 40<lb/> 50<lb/> 60<lb/> 70<lb/> 80<lb/> Finland<lb/> Mexico<lb/> Portugal United<lb/> Kingdom<lb/> Norway Netherlands Ireland<lb/> Belgium Switzerland Korea<lb/> Japan<lb/> GOV/PGC(2006)10</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>I5</label>
+
+            <head>.</head>
+
+            <figDesc>3 Proportion of women in administrative staffs of civil service,<lb/> 2005 or closest year available<lb/> Sources: Preliminary sample results from the Survey on Strategic human resource in government. Complete analysis will be<lb/> published in the OECD (2007), State of the Public Service. Paris (forthcoming).<lb/> </figDesc>
+
+            <lb/> 0<lb/> 10<lb/> 20<lb/> 30<lb/> 40<lb/> 50<lb/> 60<lb/> 70<lb/> 80<lb/> 90<lb/> Portugal<lb/> Ireland<lb/> United<lb/> Kingdom<lb/> Finland<lb/> Belgium<lb/> Mexico<lb/> Netherlands<lb/> Japan<lb/> Korea<lb/> GOV/PGC(2006)10 I6. </trash>
+ 
+            <figDesc>DISPERSION OF EARNINGS IN THE PUBLIC SECTOR<lb/> Key contacts: Elsa Pilichowski, Edouard Turkisch, OECD GOV</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2007), State of the Public Service, Paris. (Forthcoming),<lb/> OECD (2005), Management in Government: Feasibility Report on the Development of Comparative Data,<lb/> Paris.<lb/> OECD (2002), Highlights of public sector pay and employment trends, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>I6</label>
+
+            <head>.</head>
+
+            <figDesc>1 Dispersion of earnings (9 th decile divided by 5 th decile) in the civil service at the national<lb/> level, 2005<lb/> Sources: Public Sector Pay and Employment Survey (2002) and some early results of the new HRM Survey (2006). Complete<lb/> analysis will be published in the OECD (2007), State of the Public Service. Paris (forthcoming).<lb/> </figDesc>
+
+            <lb/> 0<lb/> 0.5<lb/> 1<lb/> 1.5<lb/> 2<lb/> 2.5<lb/> 3<lb/> 3.5<lb/> United States<lb/> Luxemburg<lb/> Netherlands<lb/> Finland<lb/> United Kingdom<lb/> GOV/PGC(2006)10 I7. PUBLIC SECTOR PENSION RIGHTS<lb/> Key contacts: Elsa Pilichowski, Edouard Turkisch, OECD GOV</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), Public Sector Pension Schemes in OECD Member Countries: Preliminary Findings,<lb/> presented at the Human Resources Management (HRM) Working Party, OECD Headquarters, Paris, 10-11<lb/> October 2005.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), Public Sector Pension Schemes in OECD Member Countries: Preliminary Findings. Human<lb/> Resources Management (HRM) Working Party, OECD Headquarters, Paris, 10-11 October 2005<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2002), Overview of Results-Focused Management and Budgeting in OECD Member Countries,<lb/> Paris.<lb/> OECD (2001), OECD Best Practices for Budget Transparency, Paris.<lb/> Blondal, J.R. (2001), Budget Reform in OECD Member Countries: Common Trends, OECD Journal on<lb/> Budgeting, Vol. 2, No. 4.<lb/> OECD (2001), Models of Public Budgeting and Accounting Reform, OECD Journal on Budgeting, Vol. 2,<lb/> supp. 1, Paris.<lb/> OECD (1998), Role of the legislature, PUMA, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2002), Overview of Results-Focused Management and Budgeting in OECD Member Countries,<lb/> Paris.<lb/> OECD (2001), OECD Best Practices for Budget Transparency, Paris.<lb/> Blondal, J.R. (2001), Budget Reform in OECD Member Countries: Common Trends, OECD Journal on<lb/> Budgeting, Vol. 2, No. 4.<lb/> OECD (2001), Models of Public Budgeting and Accounting Reform, OECD Journal on Budgeting, Vol. 2,<lb/> no. 1, Paris.<lb/> OECD (1998), Role of the legislature, PUMA, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2002), Overview of Results-Focused Management and Budgeting in OECD Member Countries,<lb/> Paris.<lb/> OECD (2001), OECD Best Practices for Budget Transparency, Paris.<lb/> Blondal, J.R. (2001), Budget Reform in OECD Member Countries: Common Trends, OECD Journal on<lb/> Budgeting, Vol. 2, No. 4.<lb/> OECD (2001), Models of Public Budgeting and Accounting Reform, OECD Journal on Budgeting, Vol. 2,<lb/> supp. 1, Paris.<lb/> OECD (1998), Role of the legislature, PUMA, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2002), Overview of Results-Focused Management and Budgeting in OECD Member Countries,<lb/> Paris.<lb/> OECD (2001), OECD Best Practices for Budget Transparency, Paris.<lb/> Blondal, J.R. (2001), Budget Reform in OECD Member Countries: Common Trends, OECD Journal on<lb/> Budgeting, Vol. 2, No. 4.<lb/> OECD (2001), Models of Public Budgeting and Accounting Reform, OECD Journal on Budgeting, Vol. 2,<lb/> supp. 1, Paris.<lb/> OECD (1998), Role of the legislature, PUMA, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2002), Overview of Results-Focused Management and Budgeting in OECD Member Countries,<lb/> Paris.<lb/> OECD (2001), OECD Best Practices for Budget Transparency, Paris.<lb/> Blondal, J.R. (2001), Budget Reform in OECD Member Countries: Common Trends, OECD Journal on<lb/> Budgeting, Vol. 2, No. 4.<lb/> OECD (2001), Models of Public Budgeting and Accounting Reform, OECD Journal on Budgeting, Vol. 2,<lb/> supp. 1, Paris.<lb/> OECD (1998), Role of the legislature, PUMA, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2002), Overview of Results-Focused Management and Budgeting in OECD Member Countries,<lb/> Paris.<lb/> OECD (2001), OECD Best Practices for Budget Transparency, Paris.<lb/> Blondal, J.R. (2001), Budget Reform in OECD Member Countries: Common Trends, OECD Journal on<lb/> Budgeting, Vol. 2, No. 4.<lb/> OECD (2001), Models of Public Budgeting and Accounting Reform, OECD Journal on Budgeting, Vol. 2,<lb/> supp. 1, Paris.<lb/> OECD (1998), Role of the legislature, PUMA, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P6</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>How are the subjects of audits determined?<lb/> Source: The information is from the 2003 survey conducted for the OECD/World Bank Budget Practices and Procedures Database<lb/> (http://ocde.dyndns.org/)<lb/> </figDesc>
+
+            <lb/> 0<lb/> 10<lb/> 20<lb/> 30<lb/> 40<lb/> 50<lb/> 60<lb/> 70<lb/> 80<lb/> 90<lb/> 100<lb/> By legislative<lb/> branch request<lb/> Internally<lb/> determined<lb/> By executive<lb/> branch request<lb/> By request from<lb/> the public or<lb/> other civil society<lb/> actor<lb/> Other, please<lb/> specify<lb/> Percentage of OECD<lb/> GOV/PGC(2006)10 P7. RESPONSIBILITY FOR PROGRAMME EVALUATIONS<lb/> Key contact: Teresa Curristine, OECD GOV</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), Modernizing Government: The way forward. Paris.<lb/> OECD (2005), Curristine, T (2005), Performance Information in the Budget process: Results of OECD<lb/> 2005 Questionnaire, OECD Journal on Budgeting, Volume 5, Number 2, OECD, Paris.<lb/> Schick, A. (2003), The Performing State: Reflection on an Idea whose time Has Come but Whose<lb/> Implementation Has Not, OECD Journal on Budgeting Volume 3, Number 2, OECD, Paris.<lb/> OECD/WB Budget Practices and Procedures Database, available at www.oecd.org/gov/budget.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), Modernizing Government: The way forward. Paris.<lb/> OECD (2005), Curristine, T. (2005), Performance Information in the Budget process: Results of OECD<lb/> 2005 Questionnaire, OECD Journal on Budgeting, Volume 5, Number 2, OECD, Paris.<lb/> Schick, A. (2003), The Performing State: Reflection on an Idea whose time Has Come but Whose<lb/> Implementation Has Not, OECD Journal on Budgeting Volume 3, Number 2, OECD, Paris.<lb/> OECD/WB Budget Practices and Procedures Database, available at www.oecd.org/gov/budget.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P8</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Are the findings of evaluations produced by spending ministries used in negotiations with the<lb/> Ministry of Finance?<lb/> Figure P8.2. How evaluations are used in the budget process by the Finance Ministry<lb/> Source: 2005 OECD questionnaire on performance information.<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> Yes, in all cases<lb/> (7%)<lb/> Yes, often<lb/> (44%)<lb/> Yes, but rarely<lb/> (41%)<lb/> No<lb/> (7%)<lb/> Percentage of Responses<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> 35<lb/> 40<lb/> With other<lb/> information on<lb/> performance<lb/> (30%)</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), Modernizing Government: The way forward. Paris.<lb/> OECD (2005), Curristine, T (2005) Performance Information in the Budget process: Results of OECD<lb/> 2005 Questionnaire, OECD Journal on Budgeting, Volume 5, Number 2, OECD, Paris.<lb/> Schick, A. (2003), The Performing State: Reflection on an Idea whose time Has Come but Whose<lb/> Implementation Has Not, OECD Journal on Budgeting Volume 3, Number 2, OECD, Paris.<lb/> OECD/WB Budget Practices and Procedures Database, available at www.oecd.org/gov/budget.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P9</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Is there a monitoring or follow-up process to examine if the actions or activities recommended by<lb/> an evaluation are carried out?<lb/> Figure P9.2. Are there any consequences for ministries/departments/agencies if recommendations are not<lb/> followed?<lb/> Source: 2005 OECD questionnaire on performance information.<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> Yes, in all evaluations<lb/> (11%)<lb/> Yes, in some<lb/> Evaluations (56%)<lb/> Yes, in a few<lb/> evaluations (22%)<lb/> No<lb/> (11%)<lb/> Percentage of Responses<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> Yes, in all cases<lb/> (0%)<lb/> Yes, often<lb/> (41%)<lb/> Yes, rarely<lb/> (41%)<lb/> Never<lb/> (19%)<lb/> Percentage of Responses<lb/> GOV/PGC(2006)10</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P9</label>
+
+            <head>.</head>
+
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>The most common consequences for ministries/departments/agencies if recommendations are<lb/> not followed?<lb/> Source: 2005 OECD questionnaire on performance information.<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> More control on<lb/> the programme<lb/> (37%)</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2004), Trends in Human Resources Management Policies in OECD countries: An analysis of the<lb/> results of the OECD survey on strategic human resources management, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2007), State of the civil service, Paris. (forhcoming)<lb/> OECD (2005), Modernizing government, Paris.<lb/> OECD (2003), Managing Senior Management: Senior Civil Service Reform in OECD member countries,<lb/> Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ,3<lb/> 1850<lb/> ■<lb/> ■<lb/> Belgium<lb/> Top managers<lb/> Directors of Management functions<lb/> 450<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> Canada<lb/> Assistant Deputy Minister<lb/> Executive Group<lb/> 3600<lb/> ■<lb/> ■<lb/> France<lb/> Off the Scale (hors échelle)<lb/> 2580<lb/> ■<lb/> ■<lb/> Hungary<lb/> No distinct group<lb/> 270<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> Italy<lb/> Top managers<lb/> Middle level managers<lb/> 4400<lb/> ■<lb/> ■<lb/> ■<lb/> Luxemburg<lb/> Salary Grade 16, 17, 18<lb/> 200<lb/> ■<lb/> ■<lb/> The<lb/> Netherlands<lb/> Echelons 15 to 19<lb/> 740<lb/> Norway<lb/> Director General, Secretary General<lb/> D-G in Directorates,<lb/> County Governor, Chief Constable<lb/> 300<lb/> ■<lb/> ■<lb/> Poland<lb/> Director General<lb/> Department Directors and their Deputies<lb/> 1500<lb/> ■<lb/> ■<lb/> Sweden<lb/> Senior civil servants<lb/> 300<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> United<lb/> Kingdom<lb/> Senior Civil Service<lb/> 3550<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> United States<lb/> Senior Executive Service<lb/> 7509<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> ■<lb/> Source: OECD </trash>
+ 
+            <figDesc>(2004), Trends in Human Resources Management Policies in OECD countries: An analysis of the results of the OECD survey on strategic human resources<lb/> management, Paris<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2007), The State of the Civil Service, Paris. (forthcoming)<lb/> OECD (2004), Trends in Human Resources Management Policies in OECD countries: An analysis of the<lb/> results of the OECD survey on strategic human resources management, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2007), The State of the Civil Service, Paris. (Forthcoming)<lb/> OECD (2004), Trends in Human Resources Management Policies in OECD countries: An analysis of the<lb/> results of the OECD survey on strategic human resources management, Paris.<lb/> OECD (2004), Performance-Related Pay policies for Government employees: Main trends in OECD<lb/> member countries. Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2000), Trust in Government: Ethics Measures in OECD Countries, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <figDesc>P14-1: The 8 most frequently stated core public service values in OECD countries<lb/> Source: OECD (2000), Trust in Government – Ethics Measures in OECD Countries, Paris.<lb/> </figDesc>
+
+            <lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> Justice<lb/> Responsibility<lb/> Equality<lb/> Efficiency<lb/> Transparency<lb/> Integrity<lb/> Legality<lb/> Impartiality<lb/> Number of countries<lb/> GOV/PGC(2006)10</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P14</label>
+
+            <head>-</head>
+
+            <label>2</label>
+
+            <head>: </head>
+ 
+            <figDesc>How to communicate core values to public servants<lb/> Source: OECD (2000), Trust in Government – Ethics Measures in OECD Countries, Paris.<lb/> </figDesc>
+
+            <lb/> Number of countries<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> provided in new position<lb/> distributed after revision<lb/> part of employment contract<lb/> communicated by new technology<lb/> other measures used<lb/> values automatically provided<lb/> countries communicating values<lb/> GOV/PGC(2006)10</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Source: OECD (2000), Trust in Government – Ethics Measures in OECD Countries, Paris.<lb/> GOV/PGC(2006)10 P15. SCOPE OF THE CONFLICT OF INTEREST POLICY<lb/> Key contact: János Bertók, OECD GOV</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2003), Managing Conflict of Interest in the Public Service, OECD Guidelines and Country<lb/> Experiences, Paris.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Aspectsof government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2003), Managing Conflict of Interest in the Public Service, OECD Guidelines and Country<lb/> Experiences, Paris.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Aspectsof government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Source: OECD (2003), Managing Conflict of Interest in the Public Service. OECD Guidelines and Country Experiences. Paris.<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P16</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Informing public officials on COI policy<lb/> </figDesc>
+
+            <lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> In training<lb/> A document is provided<lb/> when entering the office<lb/> Included in the entrance<lb/> examination<lb/> Number of countries<lb/> </trash>
+<lb/> 
+            <head>Figure </head>
+ 
+            <label>P16</label>
+
+            <head>.</head>
+
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Sources available for consultation in COI situation.<lb/> Source: OECD (2003), Managing Conflict of Interest in the Public Service, OECD Guidelines and Country Experiences, Paris.<lb/> </figDesc>
+
+            <lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> Manager<lb/> Dedicated<lb/> </trash>
+<lb/> 
+            <figDesc>person within the<lb/> organisation<lb/> Dedicated<lb/> person outside<lb/> the organisation<lb/> Telephone help<lb/> desk<lb/> Number of countries<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P16</label>
+
+            <head>.</head>
+
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Measures for resolving COI situations<lb/> Figure P16.4. Sanctions for breaching the conflict of interest policy<lb/> Source: OECD (2003), Managing Conflict of Interest in the Public Service, OECD Guidelines and Country Experiences, Paris<lb/> </figDesc>
+
+            <lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> Decline gifts, benefits and hospitality<lb/> Restrict or abandon the personal interest<lb/> Resignation<lb/> Transfer of duty<lb/> Increased transparency and scrutiny of decision<lb/> Blind trust assignment of pecuniary interests<lb/> Other<lb/> Number of countries<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> Disciplinary action<lb/> </trash>
+<lb/> 
+            <figDesc>Criminal prosecution<lb/> Cancellation of affected<lb/> decision, contract<lb/> Number of countries<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P16</label>
+
+            <head>.</head>
+
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>Categories of public officials which are covered by specific COI policies.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2006), Avoiding Conflict of Interest in Post-Public Employment: Comparative Overview of<lb/> Prohibitions, Restrictions and Implementing Measures in OECD Countries, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Figure P17.1. Types of prohibitions and restrictions<lb/> Figure P17.2. Officials with specific post-public employment prohibitions and restrictions<lb/> Source: OECD (2006), Avoiding Conflict of Interest in Post-Public Employment: Comparative Overview of Prohibitions, Restrictions<lb/> and Implementing Measures in OECD Countries, Paris.<lb/> </figDesc>
+
+            <lb/> 0<lb/> 2<lb/> 4<lb/> 6<lb/> 8<lb/> 10<lb/> 12<lb/> 14<lb/> 16<lb/> 18<lb/> 20<lb/> Number of Countries<lb/> Accepting<lb/> employment<lb/> Using<lb/> insider<lb/> informatio<lb/> Accepting<lb/> appointment<lb/> Switching<lb/> sides<lb/> Lobbying<lb/> back to<lb/> governme<lb/> nt<lb/> Offering<lb/> employment<lb/> Other<lb/> 0<lb/> 2<lb/> 4<lb/> 6<lb/> 8<lb/> 10<lb/> 12<lb/> Number of countries<lb/> Senior public<lb/> civil servants /<lb/> chief<lb/> executives<lb/> Ministers/<lb/> senior<lb/> political<lb/> appointees<lb/> Advisor to<lb/> minister/<lb/> political<lb/> appointees<lb/> Members of<lb/> Parliament<lb/> /Congress<lb/> Managers of<lb/> state owned<lb/> enterprises<lb/> Other<lb/> group<lb/> GOV/PGC(2006)10</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P17</label>
+
+            <head>.</head>
+
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Information gathered for approval-decision on post-public employment<lb/> Figure P17-4: Measures used to ensure implementation of approval-decisions<lb/> Source: OECD (2006), Avoiding Conflict of Interest in Post-Public Employment: Comparative Overview of prohibitions, restrictions<lb/> and implementing measures in OECD countries, Paris.<lb/> </figDesc>
+
+            <lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> Applicants are<lb/> required to supply<lb/> factual information<lb/> Advice/counsel is<lb/> provided for<lb/> officials<lb/> Applicants are<lb/> required to give<lb/> their own<lb/> assessment<lb/> An official form<lb/> should be<lb/> completed<lb/> Information is<lb/> provided in ad<lb/> hoc form<lb/> Other<lb/> Number of countries<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> Record decisions on<lb/> individual cases for<lb/> future tracking<lb/> Make available<lb/> information on<lb/> past decisions for<lb/> benchmarking<lb/> Request<lb/> information<lb/> on the application<lb/> of decisions<lb/> Inform prospect<lb/> employers of<lb/> imposed restrictions<lb/> and conditions<lb/> Other<lb/> Number of countries<lb/> GOV/PGC(2006)10 P18. OPEN GOVERNMENT LEGISLATION<lb/> Key contact: Joanne Caddy, OECD GOV</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), &quot; Open Government &quot; in Modernising Government: The Way Forward, Paris.<lb/> OECD (2005), Public Sector Modernisation: Open Government, OECD Policy Brief, February, Paris.<lb/> OECD (2003), The e-Government Imperative, Paris.<lb/> OECD (2002), Regulatory Policies in OECD countries, Paris.<lb/> OECD (2001), Citizens as Partners: Information, Consultation and Public Participation, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P18</label>
+
+            <head>.</head>
+
+            <figDesc>1. OECD countries with laws Ombudsman institutions (date of establishment)<lb/> Source: OECD (2005), Public Sector Modernisation: Open Government, OECD Policy Brief, February, Paris. OECD (2005),<lb/> &quot; Open Government &quot; in Modernising Government: The Way Forward; Modernizing Government, Paris.<lb/> </figDesc>
+
+            <lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Trends:<lb/> The OECD was the first intergovernmental organisation to issue guidelines on international policy for<lb/> the protection of privacy in computerised data processing. In 1980, the Guidelines on the Protection of<lb/> Privacy and Trans-border Flows of Personal Data were adopted as a Recommendation of the OECD<lb/> Council. They were followed by the 1985 Declaration on Transborder Data Flows, and by the Ministerial<lb/> Declaration on the Protection of Privacy on Global Networks, adopted by OECD Ministers in 1988.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Furtherreading:<lb/> OECD (2005), e-Government for Better Government, Paris.<lb/> OECD (2005), IT Outlook, Paris.<lb/> OECD (2004), The e-Government Imperative, Paris.<lb/> OECD e-Government Country Studies: Finland (2003); Mexico (2004); Norway and Denmark (2005);<lb/> Hungary, Turkey and Netherlands (forthcoming).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Aspectsof government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>• Capacity: As e-government services and users&apos; expectations become more sophisticated, they will require<lb/> increased bandwidth.<lb/> • Access Across Levels of Government:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), e-Government for Better Government, Paris.<lb/> OECD (2005), IT Outlook, Paris.<lb/> OECD (2004), The e-Government Imperative, Paris.<lb/> OECD e-Government Country Studies: Finland (2003); Mexico (2004); Norway and Denmark (2005);<lb/> Hungary, Turkey and Netherlands (forthcoming).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Aspectsof government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), e-Government for Better Government, Paris.<lb/> OECD (2005), IT Outlook, Paris.<lb/> OECD (2004), The e-Government Imperative, Paris.<lb/> OECD e-Government Country Studies: Finland (2003); Mexico (2004); Norway and Denmark (2005);<lb/> Hungary, Turkey and Netherlands (forthcoming).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Aspectsof government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), Modernizing Government: The way forward, Paris.<lb/> Curristine, T (2005) Performance Information in the Budget process: Results of OECD 2005<lb/> Questionnaire, OECD Journal on Budgeting, Volume 5, Number 2, OECD, Paris.<lb/> Schick, A. (2003), The Performing State: Reflection on an Idea whose time Has Come but Whose<lb/> Implementation Has Not, OECD Journal on Budgeting Volume 3, Number 2, OECD, Paris.<lb/> OECD/WB Budget Practices and Procedures Database, available at www.oecd.org/gov/budget.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P22</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Types of performance measure used<lb/> Figure P22.2. When was the first government wide initiative to introduce output measures?<lb/> Sources: 2005 OECD questionnaire on performance information. All answers are self-reported.<lb/> </figDesc>
+
+            <lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> Combination of<lb/> outputs and<lb/> outcomes<lb/> Unit cost of outputs<lb/> Outputs Only<lb/> Outcomes Only<lb/> Percentage of Responses<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> More than 10 years<lb/> ago<lb/> 5-10 years ago<lb/> 1-5 years ago<lb/> Now in the pilot<lb/> phase<lb/> Percentage of Responses<lb/> GOV/PGC(2006)10 P23. ROLES AND RESPONSIBILITIES IN PERFORMANCE MANAGEMENT SYSTEM<lb/> Key contacts: Teresa Curristine, OECD GOV</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), Modernizing Government: The way forward. Paris.<lb/> OECD (2005), Curristine, T (2005), Performance Information in the Budget process: Results of OECD<lb/> 2005 Questionnaire, OECD Journal on Budgeting, Volume 5, Number 2, OECD, Paris.<lb/> Schick, A. (2003), The Performing State: Reflection on an Idea whose time Has Come but Whose<lb/> Implementation Has Not, OECD Journal on Budgeting Volume 3, Number 2, OECD, Paris.<lb/> OECD/WB Budget Practices and Procedures Database, available at www.oecd.org/gov/budget.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>United States<lb/> Chile<lb/> Israel<lb/> Source: OECD (2005), Curristine, T. (2005), Performance Information in the Budget process: Results of OECD 2005 Questionnaire,<lb/> OECD Journal on Budgeting, Volume 5, Number 2, OECD, Paris.<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P23</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>There is a specific unit within the Ministry of Finance/Central Budget Office in charge of:<lb/> Figure P23.2. What institution has responsibility for managing the following?</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2005), Modernizing Government: The way forward. Paris.<lb/> OECD (2005), Curristine, T. (2005), Performance Information in the Budget process: Results of OECD<lb/> 2005 Questionnaire, OECD Journal on Budgeting, Volume 5, Number 2, OECD, Paris.<lb/> Schick, A. (2003), The Performing State: Reflection on an Idea whose time Has Come but Whose<lb/> Implementation Has Not, OECD Journal on Budgeting Volume 3, Number 2, OECD, Paris.<lb/> OECD/WB Budget Practices and Procedures Database, available at www.oecd.org/gov/budget.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P24</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Does the Ministry of Finance eliminate programmes when the results show poor performance?<lb/> Figure P24.2. The most common action taken if a programme with poor performance results is not eliminated<lb/> by the Ministry of Finance/Central Budget Office</figDesc>
+        </figure>
+
+
+        <figure>
+
+            Percentage of Responses<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> The programme </trash>
+ 
+            <figDesc>is kept<lb/> conditional on its future<lb/> improvement in performance<lb/> The allocations do not have any<lb/> conditions<lb/> The programme will be reviewed<lb/> during the course of the year<lb/> Number of countries<lb/> Resources are increased<lb/> Resources are decreased<lb/> Resources are held constant<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P24</label>
+
+            <head>.</head>
+
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Are performance results used as part of the budget discussions between the Ministry of<lb/> Finance/Central Budget Office and the spending ministries/departments?<lb/> Figure P24.4. When output and/or outcome measures are used by the Ministry of Finance/Central Budget<lb/> Office in the budget formulation process, how are they used and how often?</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2004), A Comparative Analysis of Government Offices in OECD Countries, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2004), A Comparative Analysis of Government Offices in OECD Countries, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P26</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Communications units: where are they located?<lb/> Source: OECD (2004), A Comparative Analysis of Government Offices in OECD Countries, Paris.<lb/> </figDesc>
+
+            <lb/> In GO<lb/> In PMO<lb/> In both<lb/> No unit<lb/> N/A<lb/> 10<lb/> 9<lb/> 3<lb/> 2<lb/> 3<lb/> GOV/PGC(2006)10 P27. </trash>
+ 
+            <figDesc>INSTITUTIONAL SETTING TO PROMOTE QUALITY IN REGULATORY MANAGEMENT SYSTEMS<lb/> Key contacts: Stephane Jacobzone, Chang-Won Choi, Claire Miguet, OECD GOV</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2006), Indicators of regulatory management systems quality, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>PGC(2006)10 Source: OECD (2006), Indicators of regulatory management systems quality, Paris.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P27</label>
+
+            <head>.</head>
+
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Responsibilities of the body in charge of promoting regulatory reform<lb/> from a whole of government perspective<lb/> </figDesc>
+
+            <lb/> 24<lb/> 14<lb/> 18<lb/> 14<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> Consulted in </trash>
+ 
+            <figDesc>the process of<lb/> developing new regulation<lb/> Reports on progress made on<lb/> reform by individual ministries<lb/> Entrusted with the authority of<lb/> reviewing regulatory impacts<lb/> conducted by ministries<lb/> Conducts its own analysis of<lb/> regulatory impacts<lb/> Number of countries<lb/> Notes: See Q15:a),a(i),a(ii),a(iii),a(iv) / 2005 OECD regulatory indicators questionnaire / GOV/PGC/REG(2005)12/ANN1.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P27</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Institutional setting to promote regulatory policy<lb/> Recent trends 1998-2005<lb/> </figDesc>
+
+            <lb/> 21<lb/> 14<lb/> 14<lb/> 23<lb/> 25<lb/> 15<lb/> 11<lb/> 12<lb/> 21<lb/> 20<lb/> 0</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Highlights:<lb/> All countries, except Iceland, reported some form of standard administrative procedures for drafting<lb/> laws and new subordinate regulations. Between 1998 and 2005, rule making procedures have also been<lb/> considerably strengthened. This probably reflects regulatory reform efforts, with the introduction of<lb/> Administrative Procedure Acts (APAs) as tools for controlling excessive administrative discretion.<lb/> Countries such as Korea, Mexico or Japan did follow the example of the United States or Canada which<lb/> have had Administrative Procedure Acts respectively since 1946 and 1971. In Canada, the making and<lb/> scrutiny subordinate law is governed by the Statutory Instruments Act issued in 1971. However, a number<lb/> of countries do not have such laws, and instead have guidelines or procedural requirements issued by the<lb/> center of government, such as the principles issued by the Prime Ministry in Turkey.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2006), Indicators of regulatory management systems quality, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            GOV/PGC(2006)10</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2006), Indicators of regulatory management systems quality, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            GOV/PGC(2006)10</trash>
+        </figure>
+
+
+        <figure>
+
+            .1. Forms of public consultation<lb/> Informal<lb/> consultation with<lb/> selected groups<lb/> Broad circulation<lb/> of proposals for<lb/> comment<lb/> Public notice and<lb/> comment<lb/> Public meeting<lb/> Internet<lb/> Advisory group<lb/> Preparatory<lb/> public<lb/> commission<lb/> Other<lb/> Laws<lb/> Subordi<lb/> nate<lb/> regulati<lb/> on<lb/> Laws<lb/> Subordi<lb/> nate<lb/> regulati<lb/> on<lb/> Laws<lb/> Subordi<lb/> nate<lb/> regulati<lb/> on<lb/> Laws<lb/> Subordi<lb/> nate<lb/> regulati<lb/> on<lb/> Laws<lb/> Subordi<lb/> nate<lb/> regulati<lb/> on<lb/> Laws<lb/> Subordi<lb/> nate<lb/> regulati<lb/> on<lb/> Laws<lb/> Subordi<lb/> nate<lb/> regulati<lb/> on<lb/> Laws<lb/> Subordi<lb/> nate<lb/> regulati<lb/> on</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>.</head>
+
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Openness of the consultation process<lb/> Participation open to any member of<lb/> the public<lb/> Views of participants in the<lb/> consultation process made<lb/> public<lb/> Requirement to respond in<lb/> writing to the authors of<lb/> consultation comments<lb/> Views expressed in the<lb/> consultation process included<lb/> in the RIA<lb/> Process to monitor the quality<lb/> </figDesc>
+
+            <lb/> of the consultation process<lb/> (e.g. surveys)<lb/> Laws<lb/> Subordinate<lb/> regulation<lb/> Laws<lb/> Subordinate<lb/> regulation<lb/> Laws<lb/> Subordinate<lb/> regulation<lb/> Laws<lb/> Subordinate<lb/> regulation<lb/> Laws<lb/> Subordinate<lb/> regulation</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>P29</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Forms of public consultation that are routinely used<lb/> Source: 2005 OECD Regulatory Indicators Questionnaire, GOV/PGC/REG(2005)12/ANN1<lb/> </figDesc>
+
+            <lb/> 25<lb/> 21<lb/> 13<lb/> 14<lb/> 20<lb/> 24<lb/> 22<lb/> 24<lb/> 19<lb/> 13<lb/> 12<lb/> 17<lb/> 21<lb/> 19<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> Informal<lb/> consultation<lb/> with selected<lb/> groups<lb/> Broad<lb/> circulation for<lb/> comment<lb/> Public notice<lb/> and comment<lb/> Public<lb/> meeting<lb/> Internet<lb/> Advisory<lb/> group<lb/> Preparatory<lb/> public<lb/> committee Number of countries<lb/> Primary Laws<lb/> Subordinate Regulations<lb/> Notes: See </trash>
+ 
+            <figDesc>Q10:b(ii) / 2005 OECD regulatory indicators questionnaire / GOV/PGC/REG(2005)12/ANN1.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            24<lb/>22<lb/> 7<lb/> 9<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> Primary laws<lb/> Subordinate regulations<lb/> Number of countries<lb/> Always<lb/> Sometimes<lb/> Notes: See Q10:a),a(i),b),b(i) / 2005 </trash>
+ 
+            <figDesc>OECD regulatory indicators questionnaire / GOV/PGC/REG(2005)12/ANN1.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P29</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Public consultation when developing draft regulations<lb/> GOV/PGC(2006)10<lb/> 182<lb/> P30. USE OF REGULATORY TOOLS AND PROCESSES<lb/> Key contacts: Stephane Jacobzone, Chang-Won Choi, Claire Miguet, OECD GOV</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2006), Indicators of regulatory management systems quality, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>b(i),b(ii),b(iii),b(iv),b(v) / 2005 OECD regulatory indicators<lb/> questionnaire GOV/PGC/REG(2005)12/ANN1. * This corresponds to ex-post evaluation<lb/> Source: OECD (2006), Indicators of regulatory management systems quality, Paris.<lb/> GOV/PGC(2006)10 Table P31.1. Regulatory Impact Analysis – assessment of specific impacts<lb/> </figDesc>
+
+            <lb/> Budget<lb/> Competition<lb/> Market<lb/> openness<lb/> Small<lb/> businesses<lb/> Specific<lb/> regional areas<lb/> Specific social<lb/> groups<lb/> Other groups<lb/> (charities, not<lb/> for profit sector)<lb/> On the public<lb/> sector<lb/> Australia<lb/> No<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Austria<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> In other<lb/> selected cases<lb/> No<lb/> Always<lb/> Belgium<lb/> Always<lb/> ...<lb/> ...<lb/> No<lb/> No<lb/> Always<lb/> In other selected<lb/> cases<lb/> Only major<lb/> regulation<lb/> Canada<lb/> Always<lb/> No<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Czech Rep.<lb/> Always<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> No<lb/> In other<lb/> selected cases<lb/> No<lb/> No<lb/> Denmark<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Only major<lb/> regulation<lb/> In other<lb/> selected cases<lb/> Only major<lb/> regulation<lb/> Always<lb/> Finland<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> France<lb/> ...</trash>
+        </figure>
+
+
+        <figure>
+
+            Always<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> Always<lb/> In other<lb/> selected cases<lb/> Always<lb/> In other selected<lb/> cases<lb/> Always<lb/> Greece<lb/> Always<lb/> ...<lb/> ...<lb/> Always<lb/> Only major<lb/> regulation<lb/> Always<lb/> ...<lb/> Always<lb/> Hungary<lb/> Always<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other selected<lb/> cases<lb/> In other<lb/> selected<lb/> cases<lb/> Iceland<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Only major<lb/> regulation<lb/> Only major<lb/> regulation<lb/> Always<lb/> Ireland<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> ...<lb/> Always<lb/> Always<lb/> No<lb/> Italy<lb/> Always<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other selected<lb/> cases<lb/> Always<lb/> Japan<lb/> .</trash>
+        </figure>
+
+
+        <figure>
+
+            Always<lb/> Always<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other selected<lb/> cases<lb/> Always<lb/> Luxembourg<lb/> No<lb/> No<lb/> No<lb/> Always<lb/> No<lb/> No<lb/> No<lb/> Always<lb/> Mexico<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> In other<lb/> selected cases<lb/> Always<lb/> No<lb/> Always<lb/> Netherlands<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> No<lb/> No<lb/> No<lb/> No<lb/> GOV/PGC(2006)10<lb/> 186<lb/> Budget<lb/> Competition<lb/> Market<lb/> openness<lb/> Small<lb/> businesses<lb/> Specific<lb/> regional areas<lb/> Specific social<lb/> groups<lb/> Other groups<lb/> (charities, not<lb/> for profit sector)<lb/> On the public<lb/> sector<lb/> New Zealand<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Norway<lb/> Always<lb/> Only major<lb/> regulation<lb/> Only major<lb/> regulation<lb/> Always<lb/> Always<lb/> In other<lb/> selected cases<lb/> In other selected<lb/> cases<lb/> Always<lb/> Poland<lb/> Always<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> Always<lb/> In other<lb/> selected cases<lb/> In other selected<lb/> cases<lb/> Always<lb/> Portugal<lb/> Always<lb/> No<lb/> No<lb/> No<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> No<lb/> Always<lb/> Slovak Rep.<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> ...<lb/> Always<lb/> ...<lb/> ...<lb/> Spain<lb/> Always<lb/> ...</trash>
+        </figure>
+
+
+        <figure>
+
+            Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> Always<lb/> USA<lb/> In other<lb/> selected cases<lb/> No<lb/> No<lb/> Always<lb/> No<lb/> In other<lb/> selected cases<lb/> In other selected<lb/> cases<lb/> Only major<lb/> regulation<lb/> EU<lb/> Only major<lb/> regulation<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> In other<lb/> selected cases<lb/> No<lb/> In other<lb/> selected<lb/> cases<lb/> </trash>
+<lb/> 
+            <figDesc>Source: OECD (2006), Indicators of regulatory management systems quality, Paris.<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            FigureP31.1. Requirements for Regulatory Impact Analysis<lb/> Recent Trends: 1998-2005<lb/> 23<lb/> 22<lb/> 20<lb/> 20<lb/> 20<lb/> 11<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> Requirement for draft<lb/> subordinate regulations<lb/> Requirement for draft<lb/> primary laws<lb/> Formal requirement by law<lb/> Number of countries<lb/> 2005 1998<lb/> </trash>
+<lb/> 
+            <head>Notes</head>
+
+            <figDesc>: See Q11:d(i),d(ii),d(iii) / 2005 OECD regulatory indicators questionnaire / GOV/PGC/REG(2005)12/ANN1<lb/> The responses of the EU, Luxembourg, Poland and the Slovak Republic could not be taken into account since no data was available for 1998</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P31</label>
+
+            <head>.</head>
+
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Regulatory Impact Analysis – requirement for policy impacts<lb/> Recent trends 1998-2005<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> Impact on specific social<lb/> groups<lb/> Impact on small<lb/> businesses<lb/> Impact on market<lb/> openness<lb/> Impact on competition<lb/> Number of countries<lb/> 2005 1998<lb/> Note: See Q11:d(viii),d(Ix),/ 2005 OECD regulatory indicators questionnaire / GOV/PGC/REG(2005)12/ANN1.<lb/> The responses of the EU, Luxembourg, Poland and the Slovak Republic could not be taken into account since no data was available<lb/> for 1998.<lb/> GOV/PGC(2006)10<lb/> 188<lb/> P32. REDUCING ADMINISTRATIVE BURDENS<lb/> Key contacts: Stephane Jacobzone, Chang-Won Choi, Claire Miguet, OECD GOV</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Further reading:<lb/> OECD (2006), Indicators of regulatory management systems quality, Paris.<lb/> OECD (2006), Report on Administrative Simplification, Paris.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Source: OECD regulatory indicators questionnaire, 2005.<lb/> GOV/PGC(2006)10</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>P32</label>
+
+            <head>.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Reducing Administrative Burdens<lb/> Recent trends 1998-2004<lb/> Source: OECD (2006), Indicators of regulatory management systems quality, Paris.<lb/> </figDesc>
+
+            <lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Number of countries<lb/> 2005<lb/> 1998<lb/> Note: The sample includes 27 countries. The responses of the EU, Luxembourg, Poland and the Slovak Republic could not be taken<lb/> into account since no data was available for 1998 Notes: See Q13:a),a(i),a(iii), 2005 OECD Regulatory Indicators Questionnaire,<lb/> GOV/PGC/REG(2005)12/ANN1.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            FigureP32.2. Reducing Administrative Burdens<lb/> 27<lb/> 15<lb/> 11<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> Explicit government </trash>
+ 
+            <figDesc>programme to<lb/> reduce administrative burdens<lb/> Programme includes qualitative<lb/> targets<lb/> Programme includes quantitative<lb/> targets Number of countries<lb/> Notes: See Q13:a),a(i),a(ii) / 2005 OECD regulatory indicators questionnaire / GOV/PGC/REG(2005)12/ANN1.<lb/> GOV/PGC(2006)10 Notes: See Q13:a(iii) / 2005 OECD regulatory indicators questionnaire / GOV/PGC/REG(2005)12/ANN1<lb/> Source: OECD (2006), Indicators of regulatory management systems quality, Paris.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            FigureP32.3. Strategies used to reduce administrative burdens<lb/> 22<lb/> 23<lb/> 21<lb/> 17<lb/> 14<lb/> 0<lb/> 5<lb/> 10<lb/> 15<lb/> 20<lb/> 25<lb/> 30<lb/> Modification and<lb/> streamlining of<lb/> existing laws and<lb/> regulations<lb/> Information and<lb/> communication<lb/> technologies for<lb/> regulatory<lb/> administration<lb/> Other streamlining<lb/> of government<lb/> administrative<lb/> procedures<lb/> System for<lb/> measuring<lb/> administrative<lb/> burdens of<lb/> regulation<lb/> Reallocation of<lb/> powers between<lb/> government<lb/> departments<lb/> Number of countries<lb/> .<lb/> GOV/PGC(2006)10<lb/> 192<lb/> O1. </trash>
+ 
+            <figDesc>FUNCTIONAL DISAGGREGATION OF FISCAL EXPENDITURES AND REVENUES<lb/> Key contact: Dirk Kraan and Daniel Bergvall, OECD GOV</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Modified COFOG data have been provided for the subsector of Central Government for 12 OECD countries<lb/> since 1980 in the OECD publication Reallocation (OECD 2005).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Highlights:<lb/> The modified COFOG classification has been developed within OECD GOV Directorate following<lb/> agreement by the OECD Network of Senior Budget Officials (Working Party of Senior Budget Officials, Expert<lb/> Group meeting, OECD, Paris, 11 February, 2004). The estimation method has been approved by the Head of<lb/> National Accounts (OECD). Full details are provided in How and Why Should Government Activity Be<lb/> Measured in &quot;Government at a Glance&quot;?: OECD GOV Technical Paper 1. Paris: OECD.<lb/> Aspects of government measured by the indicator:</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>Brezzi, M., Piacentini, M and D. Sanchez-Serra</author> (<date>2012</date>), &quot; <title level="a">Measuring Metropolitan Areas: A Comparative Approachin OECD Countries</title> &quot; , in <editor>E .Fernández Bazquez and F .Rubiera Morellón</editor> ( eds.),<title level="a">Defining the SpatialScale in Modern Regional Analysis : NewChallenges from Data at Local Level</title> , <title level="a">Advancesin SpatialScience</title> , <publisher>Springer</publisher> ,pp .<biblScope unit="page">71 -89</biblScope> .</bibl>
+	<bibl><author>Carrión Barrero, G. A.</author> (<date>2009</date>), &quot; <title level="a">Los avatares de la institutionalidad metropolitana en Colombia: una breve revisióna la aplicación de la Ley 128 de</title> <date>1994</date> &quot; , <pubPlace>Desafios ,Bogotá ,Colombia</pubPlace> .</bibl>
+	<bibl><author>Congreso de Colombia</author> (<date>2013</date>); <note>Proyecto de acto legislativo 088 de la Cámara de Representantes</note>.</bibl>
+	<bibl><title level="j">CONPES</title> <biblScope unit="volume">3819</biblScope> (<date>2014</date>), &quot; <title level="a">Política nacional para consolidar el Sistema de Ciudades en Colombia</title> &quot; , <title level="j">DocumentoCONPES</title> <biblScope unit="volume">3819</biblScope> ,<pubPlace>Bogotá</pubPlace> .</bibl>
+	<bibl><title level="j">DANE</title> (<date>2014</date>), <title level="a">Identificación de núcleos urbanos en Colombia, según metodología OCDE y Grilla poblaciónDANE Censo</title> <date>2005</date> ,<pubPlace>Dirección de Geoestadística ,Bogotá</pubPlace> .</bibl>
+	<bibl><title level="j">DNP</title> (<date>2012</date>), <title level="a">Algunos aspectos del análisis del sistema de ciudades colombiano</title>, <pubPlace>Bogotá, Colombia</pubPlace>.</bibl>
+	<bibl><author>Duranton, G.</author> (<date>2015a</date>), <title level="a">A proposal to delineate Metropolitan Areas in Colombia</title>, <title level="j">Revista Desarrollo y Sostenibilidad</title><biblScope unit="volume">75</biblScope> ,pp .<biblScope unit="page">223 -264</biblScope>.</bibl>
+	<bibl><author>Duranton, G.</author> (<date>2015b</date>), <title level="a">Agglomeration effects in Colombia</title>, <title level="j">Journal of Regional Science</title>.</bibl>
+	<bibl><author>Duranton, G.</author> (<date>2013</date>), &quot; <title level="a">Delineating metropolitan areas: Measuring spatial labour market networks through commutingpatterns</title> &quot; , in <editor>T .Watanabe ,I .Uesugi and A .Ono</editor> ( eds.),<title level="m">the Economics of interfirm Networks</title> ,Volume<biblScope unit="volume">4</biblScope> <title level="m">of the series Advances in Japanese Business and Economics pp</title> <biblScope unit="page">107 - 133</biblScope>.</bibl>
+	<bibl><title level="j">FEDESARROLLO</title> (<date>2012</date>) <title level="a">Tendencia Económica</title>. <title level="a">Informe mensual 125</title>. http://<ptr type="web">idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=37933658</ptr>.</bibl>
+	<bibl><author>Knight, R V.</author> (<date>1995</date>), &quot;<title level="a">Knowledge-based Development: Policy and Planning Implications for cities</title>&quot;, <title level="j">Urban Studies</title>,<biblScope unit="volume">32</biblScope> ( <biblScope unit="issue">2</biblScope>),<biblScope unit="page">225 -260</biblScope>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2016</date>), <title level="a">OECD Regions at a Glance 2016</title>, <publisher>OECD Publishing</publisher>, <pubPlace>Paris, http</pubPlace>://<ptr type="web">dx.doi.org/10.1787/reg_glance-2016-en</ptr>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2013</date>), <title level="a">OECD Regions at a Glance 2013</title>: <publisher>OECD Publishing</publisher>, <pubPlace>Paris, http</pubPlace>://<ptr type="web">dx.doi.org/10.1787/reg_glance-2013-en</ptr>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2012</date>), <title level="a">Redefining Urban: A New Way to Measure Metropolitan Areas</title>, <publisher>OECD Publishing</publisher>, http://<ptr type="web">dx.doi.org/10.1787/9789264174108-en</ptr>.</bibl>
+	<bibl><title level="j">UN</title> (<date>2014</date>), <title level="a">World Urbanization Prospects. The 2014 Revision. Highlights, United Nations</title>, <pubPlace>New York</pubPlace>.</bibl>
+	<bibl><author>World Bank</author> (<date>2007</date>), <title level="a">Infraestructura en América Latina y el Caribe: Acontecimientos recientes y desafíos principales</title>.<title level="j">Banco Mundial en coedición con Mayol Ediciones</title> ,<pubPlace>Bogotá</pubPlace> .</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

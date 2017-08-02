@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>E. Quinet</author> — <title level="a">Document de référence 2013-31 — © OCDE/FIT</title> <date>2013</date> REFERENCES<title level="j">ADEME</title> (<date>2012</date> ),<title level="m">Contributionde l &apos; ADEMEàl &apos; élaborationdevisions énergétiques</title> <biblScope unit="page">2030 - 2050</biblScope>.</bibl>
+	<bibl><author>Blaney, S., A. Hickford et J. Preston</author> (<date>2013</date>), <title level="a">Planning Transport Networks for an UncertainFuture :A UK Case Study</title> ,<note>communication à la European Transport Conference 2013</note>.</bibl>
+	<bibl><author>Boiteux, M.</author> (<date>1994</date>), <title level="a">Transports : pour un meilleur choix des investissements</title>, <note>Commissariatgénéral du Plan</note> .</bibl>
+	<bibl><author>Boiteux, M.</author> (<date>2001</date>), <title level="a">Transports : choix des investissements et coûts des nuisances</title>, <title level="j">Commissariatgénéral du Plan</title> ,<pubPlace>Paris ,La Documentation française</pubPlace> .</bibl>
+	<bibl><author>Château, B., V. Bagard, Y. Crozet et H.G. Lopez-Ruiz</author> (<date>2008</date>), « <title level="m">Comment satisfaire les objectifsinternationaux de la France en termes d &apos;émissionsde gaz à effet de serre etde pollution transfrontière</title> » <pubPlace>ENERDATA Report , Prédit, Paris</pubPlace>.</bibl>
+	<bibl><title level="j">CE Delft-INFRAS</title> (<date>2011</date>), <title level="a">External Costs of Transport in Europe -Update Study for</title> <date>2008</date>,novembre ,<biblScope unit="page">163 pp</biblScope> .</bibl>
+	<bibl><title level="j">CGDD</title> (Commissariat général au développement durable) (<date>2011</date>), <title level="a">Évaluation économiquedes services rendus par les zones humides – Enseignements méthodologiques demonétarisation</title> , <biblScope unit="volume">220</biblScope>pp .</bibl>
+	<bibl><author>Chevassus-au-Louis, B.</author> (<date>2009</date>), <title level="a">Approche économique de la biodiversité et des servicesliés aux écosystèmes ,Centre d &apos;analysestratégique</title> ,<pubPlace>Paris ,La Documentation française</pubPlace>.</bibl>
+	<bibl><title level="j">CAFE</title> (<date>2005a</date>), <editor>M. Holland (EMRC), S. Pye et P. Watkiss</editor> (<author>AEA Technology), B.Droste -Frankeet P .Bickel</author> ( IER),<title level="a">Clean Air for Europe Programme ( CAFE):Damages pertonne of PM2 . 5,NH3, SO2, NOxand VOC &apos; sofEU - 25MemberStates ( excluding Cyprus)and surroundingseas</title> ( <note>Marginal damage costreport</note> ) <pubPlace>Didcot (UK</pubPlace> ) :<publisher>AEATechnologyEnvironment</publisher>.</bibl>
+	<bibl><title level="j">CAFE</title> (<date>2005b</date><author>), F. Hurley, A. Hunt, H. Cowie, M. Holland, B. Miller, S. Pye et P. Watkiss</author>, <title level="a">Cleanair for Europe programme ( CAFE):Methodology for the Cost -Benefitanalysis forCAFE</title> Vol . <biblScope unit="volume">2</biblScope>: <title level="j">HealthImpact Assessment</title> , <pubPlace>Didcot( UK</pubPlace> ):<publisher>AEATechnology Environment</publisher> ,<date>2005</date> .</bibl>
+	<bibl><title level="j">European Commission</title> (<date>2001</date>), <title level="m">COM</title>(<date>2001</date>) <biblScope unit="volume">370</biblScope>, <note>White Paper, European transport policy for2010 :time to decide</note> .</bibl>
+	<bibl><author>PRISE EN COMPTE DU DÉVELOPPEMENT DURABLE DANS L&apos;ÉVALUATION DES PROJETS : UN POINT DE VUE FRANÇAIS</author></bibl>
+	<bibl><author>E. Quinet</author>, <note>Document de référence 2013-31 — © OCDE/FIT 2013</note></bibl>
+	<bibl><biblScope unit="page">31</biblScope></bibl>
+	<bibl><title level="j">European Commission Brussels</title> (<date>2011</date>), <title level="a">COM(2011) 144 Final, White Paper, Roadmap toa Single European Transport Area – Towards a competitive and resource efficient transportsystem</title> .</bibl>
+	<bibl><title level="j">European Communities</title> (<date>2008</date>), <title level="a">TEEB, The Economy of Ecosystems and Biodiversity</title>, <note type="report">interimreport</note> .</bibl>
+	<bibl><title level="j">ExternE</title> (<date>2005</date>), <editor>P. Bickel et R. Friedrich</editor> (Eds.): <orgName>Externalities of Energy, Methodology</orgName>, <date>2005</date>update <pubPlace>Luxembourg</pubPlace> :<publisher>European Commission</publisher> .</bibl>
+	<bibl><title level="j">FAO</title> (<date>1999</date>), <title level="a">Cultivating Our Futures -Multiples fonctions de l&apos;agriculture et des terres</title> : l&apos;<ptr type="web">analyse: www .fao.org/docrep/x2777f/X2777F03.htm</ptr></bibl>
+	<bibl><author>Gollier, C.</author> (<date>2011</date>), <title level="a">Le calcul du risque dans les investissements publics</title>, <note>Centre d&apos;analysestratégique</note> ,<pubPlace>Paris ,La Documentation française</pubPlace> .</bibl>
+	<bibl><author>Gollier, C.</author> (<date>2013</date>), <title level="a">Evaluation of long-dated investments under uncertain growth trend, volatilityand catastrophes ,Toulouse School of Economics</title> ,<note>unpublished manuscript</note> .</bibl>
+	<bibl><title level="j">European Commission</title> (<date>2008</date>), <title level="a">Handbook on Estimation of External Costs in the TransportSector ;produced within the study on Internalisation Measures and Policies forAll External Costs of Transport ( IMPACT )</title><date>2008</date>, <note>Version1 . 1,Delft</note>.</bibl>
+	<bibl><title level="j">HEATCO</title> (<date>2006</date>), <title level="a">General issues in costing analysis: Units of account, base years, and currencyconversion ,Annex B to HEATCO Deliverable 5 ,Developing Harmonised European Approachesfor Transport Costing and Project Assessment</title> .</bibl>
+	<bibl><author>Lapeyre, B. et E. Quinet</author> (<date>2013</date>), <title level="a">Choix des investissements avec prise en compte du risquesystèmique ,Annex to Quinet</title> <date>2013</date> .</bibl>
+	<bibl><author>Lebègue, D.</author> (<date>2005</date>), <title level="a">Le prix du temps et la décision publique</title>, <note>Commissariat général du Plan</note>.</bibl>
+	<bibl><author>Quinet, A.</author> (<date>2008</date>), <title level="a">La valeur tutélaire du carbone, Centre d&apos;analyse stratégique</title>, <pubPlace>Paris, LaDocumentation française</pubPlace> .</bibl>
+	<bibl><author>Quinet, A. et E. Quinet</author> (<date>2012</date>), <title level="a">La gouvernance des projets d&apos;infrastructure de transports</title>,<pubPlace>Revue Transport ,février</pubPlace> .</bibl>
+	<bibl><author>Quinet, E.</author> (<date>2013</date>), <title level="a">Évaluation socio-économique des investissements publics</title>, <orgName>Commissariatgénéral à la Stratégie et la Prospective</orgName> ,<pubPlace>Paris ,La Documentation française</pubPlace> ,<note>àparaître en 2014</note> .</bibl>
+	<bibl><author>Rozenberg, J., A. Vogt-Schilb et S. Hallegatte</author> (<date>2013</date>), <title level="a">How Capital-Based Instruments Facilitatethe Transition Toward a Low -CarbonEconomy ,The World Bank</title> ,<note>Policy Research WorkingPaper</note> .</bibl>
+	<bibl><note type="report">International Transport Forum 2rue André Pascal 75775 ParisCedex 16 itf . contact@oecd.orgwww.internationaltransportforum .org</note></bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

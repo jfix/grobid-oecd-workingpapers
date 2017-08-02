@@ -1,0 +1,127 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_224422031753.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <figDesc>Researchers that have employed this approach include Amurgo-Pacheco and<lb/> Pierola (2008), Felbermayr and Kohler (2006), and Helpman, Melitz and Rubinstein (2008). To assess<lb/> the intensive and extensive margin with this approach we utilise a Tobit and a Probit estimation<lb/> technique to estimate bilateral exports in the presence of zero trade. </figDesc>
+ 
+            <table>Data<lb/> </table>
+<lb/> 
+            <head>Bilateral agricultural exports 1 from 1996 to 2006 are from UN COMTRADE accessed through<lb/> the World Bank&apos;s World Trade Integrated Solution (WITS) system. The number of countries reporting<lb/> their exports varies. In 2006, exports from more than 130 economies were available through this<lb/> system when</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. Results from Hummels and Klenow (2002)<lb/> </head>
+<lb/> 
+            <table>Independent<lb/> Dependent<lb/> Yj<lb/> Adjusted R<lb/> 2<lb/> Yj / Lj<lb/> Lj<lb/> Adjusted R<lb/> 2<lb/> Overall<lb/> Exports<lb/> 1.03<lb/> 0.77<lb/> 1.43<lb/> 0.85<lb/> 0.83<lb/> Intensive Margin<lb/> 0.34<lb/> 33%<lb/> 0.61<lb/> 0.40<lb/> 28%<lb/> 0.31<lb/> 37%<lb/> 0.62<lb/> Extensive<lb/> Margin<lb/> 0.69<lb/> 67%<lb/> 0.68<lb/> 1.04<lb/> 72%<lb/> 0.54<lb/> 63%<lb/> 0.76</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>2</label>
+
+            <head>. Estimates of agricultural exports and intensive and extensive margins<lb/> </head>
+<lb/> 
+            <table>Independent<lb/> Dependent<lb/> AVAj<lb/> Adjusted R<lb/> 2<lb/> AVAj/ALj<lb/> ALj<lb/> Adjusted R<lb/> 2<lb/> 1996<lb/> Overall<lb/> Agricultural<lb/> Exports<lb/> 0.23<lb/> ***<lb/> 0.11<lb/> 0.28<lb/> ***<lb/> 0.20<lb/> **<lb/> 0.10<lb/> Intensive<lb/> Margin<lb/> 0.12<lb/> **<lb/> 52%<lb/> 0.06<lb/> 0.09<lb/> 32%<lb/> 0.15<lb/> **<lb/> 77%<lb/> 0.06<lb/> Extensive<lb/> Margin<lb/> 0.11<lb/> *<lb/> 48%<lb/> 0.04<lb/> 0.19<lb/> ***<lb/> 68%<lb/> 0.05<lb/> 24%<lb/> 0.10<lb/> 2000<lb/> Overall<lb/> Agricultural<lb/> Exports<lb/> 0.25<lb/> ***<lb/> 0.11<lb/> 0.33<lb/> ***<lb/> 0.18<lb/> *<lb/> 0.13<lb/> Intensive<lb/> Margin<lb/> 0.15<lb/> ***<lb/> 62%<lb/> 0.11<lb/> 0.12<lb/> **<lb/> 37%<lb/> 0.18<lb/> ***<lb/> 100%<lb/> 0.11<lb/> Extensive<lb/> Margin<lb/> 0.10<lb/> 38%<lb/> 0.02<lb/> 0.21<lb/> ***<lb/> 63%<lb/> 0.0<lb/> 0%<lb/> 0.14<lb/> 2006<lb/> 2005<lb/> Overall<lb/> Agricultural<lb/> Exports<lb/> 0.53<lb/> ***<lb/> 0.42<lb/> 1.04<lb/> ***<lb/> 0.64<lb/> ***<lb/> 0.65<lb/> Intensive<lb/> Margin<lb/> 0.28<lb/> ***<lb/> 53%<lb/> 0.32<lb/> 0.44<lb/> ***<lb/> 42%<lb/> 0.36<lb/> ***<lb/> 56%<lb/> 0.36<lb/> Extensive<lb/> Margin<lb/> 0.25<lb/> ***<lb/> 47%<lb/> 0.20<lb/> 0.61<lb/> ***<lb/> 58%<lb/> 0.28<lb/> ***<lb/> 44%<lb/> 0.69</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>. Estimates of agricultural exports and intensive and extensive margins (GDP)<lb/> </head>
+<lb/> 
+            <table>Independent<lb/> Dependent<lb/> GDPj<lb/> Adjusted R<lb/> 2<lb/> GDPj/Lj<lb/> Lj<lb/> Adjusted R<lb/> 2<lb/> 1996<lb/> Overall<lb/> Agricultural<lb/> Exports<lb/> 0.70<lb/> ***<lb/> 0.62<lb/> 13.28<lb/> ***<lb/> 1.13<lb/> ***<lb/> 0.61<lb/> Intensive<lb/> Margin<lb/> 0.27<lb/> ***<lb/> 38%<lb/> 0.21<lb/> 2.46<lb/> 18%<lb/> 0.40<lb/> ***<lb/> 35%<lb/> 0.21<lb/> Extensive<lb/> Margin<lb/> 0.43<lb/> ***<lb/> 62%<lb/> 0.50<lb/> 10.82<lb/> ***<lb/> 82%<lb/> 0.73<lb/> ***<lb/> 65%<lb/> 0.60<lb/> 2000<lb/> Overall<lb/> Agricultural<lb/> Exports<lb/> 0.70<lb/> ***<lb/> 0.64<lb/> 12.53<lb/> ***<lb/> 1.10<lb/> ***<lb/> 0.61<lb/> Intensive<lb/> Margin<lb/> 0.25<lb/> ***<lb/> 35%<lb/> 0.20<lb/> 1.65<lb/> 13%<lb/> 0.38<lb/> ***<lb/> 34%<lb/> 0.23<lb/> Extensive<lb/> Margin<lb/> 0.46<lb/> ***<lb/> 65%<lb/> 0.51<lb/> 10.88<lb/> ***<lb/> 87%<lb/> 0.72<lb/> ***<lb/> 66%<lb/> 0.64<lb/> 2006<lb/> Overall<lb/> Agricultural<lb/> Exports<lb/> 0.70<lb/> ***<lb/> 0.62<lb/> 12.52<lb/> ***<lb/> 1.11<lb/> ***<lb/> .59<lb/> Intensive<lb/> Margin<lb/> 0.32<lb/> ***<lb/> 45%<lb/> 0.23<lb/> 2.16<lb/> ***<lb/> 17%<lb/> 0.47<lb/> ***<lb/> 42%<lb/> .26<lb/> Extensive<lb/> Margin<lb/> 0.37<lb/> ***<lb/> 55%<lb/> 0.53<lb/> 9.41<lb/> ***<lb/> 75%<lb/> 0.61<lb/> ***<lb/> 55%<lb/> 0.70</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>. Alternative extensive margins (GDP)<lb/> </head>
+<lb/> 
+            <table>Independent<lb/> Dependent<lb/> GDPj<lb/> Adjusted R<lb/> 2<lb/> GDPj/Lj<lb/> Lj<lb/> Adjusted R<lb/> 2<lb/> 1996<lb/> Weighted<lb/> products and<lb/> markets<lb/> 0.43<lb/> ***<lb/> 62%<lb/> .50<lb/> 10.82<lb/> ***<lb/> 82%<lb/> 0.73<lb/> ***<lb/> 65%<lb/> 0.60<lb/> Number of<lb/> products and<lb/> markets<lb/> 0.55<lb/> ***<lb/> 78%<lb/> .66<lb/> 12.28<lb/> ***<lb/> 92%<lb/> 0.91<lb/> ***<lb/> 65%<lb/> .72<lb/> Weighted<lb/> products<lb/> 0.13<lb/> ***<lb/> 18%<lb/> .27<lb/> 2.96<lb/> ***<lb/> 22%<lb/> 0.21<lb/> ***<lb/> 19%<lb/> .29<lb/> Number of<lb/> products<lb/> 0.21<lb/> ***<lb/> 30%<lb/> .44<lb/> 4.62<lb/> ***<lb/> 35%<lb/> 0.35<lb/> ***<lb/> 31%<lb/> .47<lb/> 2000<lb/> Weighted<lb/> products<lb/> markets<lb/> 0.46<lb/> ***<lb/> 65%<lb/> 0.51<lb/> 10.88<lb/> ***<lb/> 87%<lb/> 0.72<lb/> ***<lb/> 66%<lb/> 0.64<lb/> Number of<lb/> products<lb/> markets<lb/> 0.55<lb/> ***<lb/> 76%<lb/> 65<lb/> 11.45<lb/> ***<lb/> 91%<lb/> 0.87<lb/> ***<lb/> 79%<lb/> .70<lb/> Weighted<lb/> products<lb/> 0.11<lb/> ***<lb/> 16%<lb/> .15<lb/> 2.93<lb/> ***<lb/> 23%<lb/> 0.18<lb/> ***<lb/> 16%<lb/> .19<lb/> Number of<lb/> products<lb/> 0.20<lb/> ***<lb/> 28%<lb/> .47<lb/> 4.42<lb/> ***<lb/> 35%<lb/> 0.32<lb/> ***<lb/> 29%<lb/> .52<lb/> 2006<lb/> Weighted<lb/> products<lb/> markets<lb/> 0.37<lb/> ***<lb/> 55%<lb/> 0.53<lb/> 9.41<lb/> ***<lb/> 75%<lb/> 0.61<lb/> ***<lb/> 55%<lb/> 0.70<lb/> Number of<lb/> products<lb/> markets<lb/> 0.55<lb/> ***<lb/> 78%<lb/> .65<lb/> 11.41<lb/> ***<lb/> 91%<lb/> 0.91<lb/> ***<lb/> 80%<lb/> .70<lb/> Weighted<lb/> products<lb/> 0.10<lb/> ***<lb/> 14%<lb/> .36<lb/> 2.74<lb/> ***<lb/> 22%<lb/> 0.17<lb/> ***<lb/> 15%<lb/> .53<lb/> Number of<lb/> products<lb/> 0.19<lb/> ***<lb/> 27%<lb/> .51<lb/> 4.33<lb/> ***<lb/> 36%<lb/> 0.31<lb/> ***<lb/> 28%<lb/> .59</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>5</label>
+
+            <head>. Price and quantity components of the intensive margin<lb/> </head>
+<lb/> 
+            <table>Independent<lb/> Dependent<lb/> GDPj<lb/> Adjusted R<lb/> 2<lb/> GDPj/Lj<lb/> Lj<lb/> Adjusted R<lb/> 2<lb/> 1996<lb/> Price<lb/> component<lb/> 0.28<lb/> ***<lb/> .15<lb/> 7.92<lb/> ***<lb/> 0.50<lb/> ***<lb/> .22<lb/> Quantity<lb/> component<lb/> -0.01<lb/> -.02<lb/> -5.36<lb/> **<lb/> -0.11<lb/> .06<lb/> 2000<lb/> Price<lb/> component<lb/> 0.09<lb/> .02<lb/> 2.41<lb/> *<lb/> 0.14<lb/> .03<lb/> Quantity<lb/> component<lb/> 0.16<lb/> *<lb/> .03<lb/> -0.76<lb/> 0.24<lb/> *<lb/> .08<lb/> 2006<lb/> Price<lb/> component<lb/> 0.18<lb/> ***<lb/> .12<lb/> 4.90<lb/> ***<lb/> 0.30<lb/> ***<lb/> .18<lb/> Quantity<lb/> component<lb/> 0.15<lb/> **<lb/> .03<lb/> -1.79<lb/> 0.20<lb/> .12</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>blx<lb/> chn<lb/> can fra<lb/> ita<lb/> arg mex<lb/> aus<lb/> pol<lb/> idn<lb/> aut<lb/> usa<lb/> ind<lb/> nzl<lb/> dnk<lb/> mys<lb/> tha<lb/> irl<lb/> chl<lb/> rus<lb/> gbr<lb/> cze<lb/> swe<lb/> irn<lb/> che<lb/> ukr<lb/> hun<lb/> per<lb/> prt<lb/> col<lb/> syr<lb/> svk<lb/> ury zaf tur<lb/> ecu<lb/> pak pry<lb/> kaz<lb/> kor<lb/> civ<lb/> egy<lb/> gha<lb/> mar<lb/> jpn<lb/> cri<lb/> eth<lb/> gtm<lb/> phl<lb/> grc<lb/> fin<lb/> svn<lb/> est<lb/> ken<lb/> nor<lb/> slv<lb/> mwi tza mli<lb/> mdg<lb/> isr<lb/> cmr<lb/> isl<lb/> ner<lb/> sgp<lb/> 0<lb/> 5000000 10000000 15000000 20000000<lb/> Change in agric exports 1996-2006<lb/> 0<lb/> 20000<lb/> 40000<lb/> 60000<lb/> 80000<lb/> 100000<lb/> GDP per worker </table>
+ 
+            <figDesc>The sample consists of 29 members of the OECD 9 , one high income non-OECD economy, six<lb/> least developed economies, and 33 other developing countries. Segregating the sample into the 29<lb/> OECD countries from the other 40, the OECD countries captured 65% of the additional exports<lb/> confirming earlier results that richer economies export more. It may also be illuminating to aggregate<lb/> countries into various groupings to discern commonalities and differences</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>6</label>
+
+            <head>. Breakdown of the Increase in Agricultural Export between the Extensive and Intensive Margin<lb/> (1996-2006)<lb/> </head>
+<lb/> 
+            <table>Total Increase<lb/> (USD billion)<lb/> Extensive<lb/> (USD billion)<lb/> Gross<lb/> Intensive<lb/> (USD<lb/> billion)<lb/> Expired<lb/> Products<lb/> (USD<lb/> billion)<lb/> Net Intensive<lb/> (USD billion)<lb/> Share of<lb/> Extensive (%)<lb/> Applicants<lb/> 5.7<lb/> 3.9<lb/> 3.3<lb/> -1.5<lb/> 1.8<lb/> 69<lb/> Enhanced<lb/> Engagement<lb/> 44.2<lb/> 22.2<lb/> 29.9<lb/> -7.9<lb/> 22.0<lb/> 50<lb/> LDC-6<lb/> 0.6<lb/> 1.1<lb/> -0.03<lb/> -0.5<lb/> -0.5<lb/> 191<lb/> OECD<lb/> 148.7<lb/> 63.0<lb/> 131.1<lb/> -45.5<lb/> 85.7<lb/> 42<lb/> Others<lb/> 29.6<lb/> 19.3<lb/> 18.2<lb/> -7.9<lb/> 10.3<lb/> 65</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>8</label>
+
+            <head>. Average marginal effects of a change in agricultural exports at the extensive margin (from Probit<lb/> estimates)<lb/> </head>
+<lb/> 
+            <table>Partner GDP<lb/> Importer Distance<lb/> OECD<lb/> 0.045<lb/> (0.087)<lb/> Enhanced<lb/> engagement<lb/> 0.022<lb/> (0.041)<lb/> Other<lb/> 0.002<lb/> (0.006)</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>736<lb/> 279<lb/> 27.45 OECD<lb/> Ecuador<lb/> 915<lb/> 54<lb/> 818<lb/> -161<lb/> 657<lb/> 259<lb/> 28.25 OTH<lb/> Pakistan<lb/> 794<lb/> 62<lb/> 676<lb/> -105<lb/> 571<lb/> 223<lb/> 28.11 OTH<lb/> Paraguay<lb/> 713<lb/> 89<lb/> 119<lb/> -165<lb/> -46<lb/> 759<lb/> 106.47 OTH<lb/> Kazakhstan<lb/> 693<lb/> 135<lb/> 586<lb/> -102<lb/> 484<lb/> 209<lb/> 30.15 OTH<lb/> Korea Republic<lb/> 625<lb/> 35<lb/> 559<lb/> -370<lb/> 189<lb/> 436<lb/> 69.77 OECD<lb/> Kenya<lb/> 613<lb/> 53<lb/> 439<lb/> -69<lb/> 370<lb/> 243<lb/> 39.62 OTH<lb/> Cote d&apos;Ivoire<lb/> 578<lb/> 25<lb/> 180<lb/> -166<lb/> 14<lb/> 564<lb/> 97.63 OTH<lb/> Egypt<lb/> 569<lb/> 107<lb/> 303<lb/> -88<lb/> 215<lb/> 353<lb/> 62.12 OTH<lb/> Ghana<lb/> 527<lb/> 56<lb/> 235<lb/> -87<lb/> 148<lb/> 379<lb/> 71.87 OTH<lb/> Morocco<lb/> 482<lb/> 53<lb/> 240<lb/> -114<lb/> 126<lb/> 356<lb/> 73.86 OTH<lb/> Japan<lb/> 452<lb/> 27<lb/> 411<lb/> -97<lb/> 314<lb/> 138<lb/> 30.58 OECD<lb/> Costa Rica<lb/> 427<lb/> 24<lb/> 312<lb/> -217<lb/> 95<lb/> 332<lb/> 77.65 OTH<lb/> Ethiopia<lb/> 404<lb/> 82<lb/> -260<lb/> -37<lb/> -297<lb/> 701<lb/> 173.48 LDC<lb/> Guatemala<lb/> 397<lb/> 32<lb/> 287<lb/> -143<lb/> 144<lb/> 254<lb/> 63.88 OTH<lb/> Philippines<lb/> 331<lb/> 19<lb/> 278<lb/> -390<lb/> -112<lb/> 442<lb/> 133.80 OTH<lb/> Greece<lb/> 303<lb/> 8<lb/> 31<lb/> -359<lb/> -328<lb/> 631<lb/> 208.27 OECD<lb/> Finland<lb/> 301<lb/> 19<lb/> 77<lb/> -230<lb/> -154<lb/> 455<lb/> 151.01 OECD<lb/> Slovenia<lb/> 297<lb/> 81<lb/> 68<lb/> -72<lb/> -4<lb/> 301<lb/> 101.33 APPL<lb/> Estonia<lb/> 289<lb/> 120<lb/> 188<lb/> -114<lb/> 74<lb/> 215<lb/> 74.25 APPL<lb/> Norway<lb/> 155<lb/> 24<lb/> 141<lb/> -80<lb/> 61<lb/> 94<lb/> 60.67 OECD<lb/> El Salvador<lb/> 108<lb/> 21<lb/> 60<lb/> -63<lb/> -3<lb/> 111<lb/> 102.90 OTH<lb/> Malawi<lb/> 94<lb/> 20<lb/> 52<lb/> -56<lb/> -4<lb/> 98<lb/> 104.14 LDC<lb/> Tanzania<lb/> 39<lb/> 9<lb/> -18<lb/> -92<lb/> -109<lb/> 148<lb/> 378.78 LDC<lb/> Mali<lb/> 28<lb/> 9<lb/> 172<lb/> -263<lb/> -91<lb/> 119<lb/> 423.27 LDC<lb/> Madagascar<lb/> 28<lb/> 20<lb/> 25<lb/> -20<lb/> 6<lb/> 22<lb/> 79.30 LDC<lb/> Israel<lb/> 5<lb/> 57<lb/> 133<lb/> -299<lb/> -167<lb/> 171<lb/> 3,755.81 APPL<lb/> Cameroon<lb/> -5<lb/> -1<lb/> -6<lb/> -68<lb/> -73<lb/> 68<lb/> 1,306.09 OTH<lb/> Iceland<lb/> -7<lb/> -3<lb/> -21<lb/> -12<lb/> -33<lb/> 26<lb/> 395.33 OECD<lb/> Niger<lb/> -21<lb/> -28<lb/> -3<lb/> -22<lb/> -25<lb/> 5<lb/> 21.94 LDC<lb/> Singapore<lb/> -89<lb/> -2<lb/> -691<lb/> -448<lb/> -1 139<lb/> 1 050<lb/> 1,174.60 OTH<lb/> Total<lb/> 229 227<lb/> 182 786<lb/> -63 233<lb/> 119 554<lb/> 109 673<lb/> 47.84</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>. Decomposition of the extensive margin<lb/> </head>
+<lb/> 
+            <table>Country<lb/> Type 1 New<lb/> Products New<lb/> Destinations<lb/> Type 2<lb/> New Products<lb/> Old<lb/> Destinations<lb/> Type 3<lb/> Old Products<lb/> New<lb/> Destinations<lb/> Type 4 New<lb/> Trade flows<lb/> Established<lb/> Products<lb/> Traditional<lb/> Destinations<lb/> Argentina<lb/> ARG<lb/> 2<lb/> 198<lb/> 40<lb/> 2 857<lb/> Australia<lb/> AUS<lb/> 2<lb/> 2 739<lb/> 53<lb/> 1 248<lb/> Austria<lb/> AUT<lb/> 0<lb/> 196<lb/> 34<lb/> 820<lb/> Belgium/Lux<lb/> BLX<lb/> 60<lb/> 2 127<lb/> 798<lb/> 1 266<lb/> Brazil<lb/> BRA<lb/> 125<lb/> 4 034<lb/> 226<lb/> 8 019<lb/> Cameroon<lb/> CMR<lb/> 0<lb/> 6<lb/> 8<lb/> 53<lb/> Canada<lb/> CAN<lb/> 1<lb/> 882<lb/> 120<lb/> 2 029<lb/> Chile<lb/> CHL<lb/> 1<lb/> 284<lb/> 11<lb/> 925<lb/> China<lb/> CHN<lb/> 6<lb/> 1 223<lb/> 22<lb/> 3 021<lb/> Colombia<lb/> COL<lb/> 0<lb/> 179<lb/> 31<lb/> 438<lb/> Costa Rica<lb/> CRI<lb/> 0<lb/> 174<lb/> 10<lb/> 147<lb/> Cote d&apos;Ivoire<lb/> CIV<lb/> 5<lb/> 152<lb/> 190<lb/> 218<lb/> Czech Repub CZE<lb/> 0<lb/> 208<lb/> 4<lb/> 825<lb/> Denmark<lb/> DNK<lb/> 86<lb/> 1 056<lb/> 1 153<lb/> 600<lb/> Ecuador<lb/> ECU<lb/> 0<lb/> 83<lb/> 7<lb/> 168<lb/> Egypt<lb/> EGY<lb/> 4<lb/> 42<lb/> 25<lb/> 283<lb/> El Salvador<lb/> SLV<lb/> 1<lb/> 21<lb/> 34<lb/> 55<lb/> Estonia<lb/> EST<lb/> 0<lb/> 79<lb/> 1<lb/> 135<lb/> Ethiopia<lb/> ETH<lb/> 8<lb/> 481<lb/> 25<lb/> 187<lb/> Finland<lb/> FIN<lb/> 0<lb/> 240<lb/> 10<lb/> 205<lb/> France<lb/> FRA<lb/> 4<lb/> 2 760<lb/> 44<lb/> 1 358<lb/> Germany<lb/> DEU<lb/> 1<lb/> 3 027<lb/> 11<lb/> 1 869<lb/> Ghana<lb/> GHA<lb/> 6<lb/> 24<lb/> 101<lb/> 248<lb/> Greece<lb/> GRC<lb/> 0<lb/> 103<lb/> 30<lb/> 497<lb/> Guatemala<lb/> GTM<lb/> 0<lb/> 27<lb/> 25<lb/> 202<lb/> Hungary<lb/> HUN<lb/> 0<lb/> 495<lb/> 1<lb/> 870<lb/> Iceland<lb/> ISL<lb/> 2<lb/> 8<lb/> 2<lb/> 16<lb/> India<lb/> IND<lb/> 0<lb/> 811<lb/> 35<lb/> 1 636<lb/> Indonesia<lb/> IDN<lb/> 2<lb/> 225<lb/> 208<lb/> 1 748<lb/> Iran<lb/> IRN<lb/> 51<lb/> 82<lb/> 678<lb/> 245<lb/> Ireland<lb/> IRL<lb/> 3<lb/> 1 331<lb/> 6<lb/> 542<lb/> Israel<lb/> ISR<lb/> 0<lb/> 0<lb/> 0<lb/> 0<lb/> Italy<lb/> ITA<lb/> 0<lb/> 1 621<lb/> 4<lb/> 854<lb/> Japan<lb/> JPN<lb/> 0<lb/> 12<lb/> 9<lb/> 117<lb/> Kazakhstan<lb/> KAZ<lb/> 0<lb/> 36<lb/> 48<lb/> 124<lb/> Kenya<lb/> KEN<lb/> 0<lb/> 19<lb/> 49<lb/> 175<lb/> Korea Repub KOR<lb/> 1<lb/> 100<lb/> 37<lb/> 298<lb/> Madagascar MDG<lb/> 0<lb/> 3<lb/> 2<lb/> 17<lb/> Malawi<lb/> MWI<lb/> 0<lb/> 12<lb/> 26<lb/> 60<lb/> Malaysia<lb/> MYS<lb/> 0<lb/> 0<lb/> 0<lb/> 0<lb/> Mali<lb/> MLI<lb/> 1<lb/> 5<lb/> 85<lb/> 28<lb/> Mexico<lb/> MEX<lb/> 0<lb/> 77<lb/> 37<lb/> 401<lb/> Morocco<lb/> MAR<lb/> 1<lb/> 88<lb/> 47<lb/> 220<lb/> Netherlands<lb/> NLD<lb/> 1<lb/> 6 124<lb/> 4<lb/> 1 899<lb/> New Zealand NZL<lb/> 36<lb/> 1 951<lb/> 45<lb/> 829<lb/> Niger<lb/> NER<lb/> 0<lb/> 0<lb/> 2<lb/> 2<lb/> Norway<lb/> NOR<lb/> 0<lb/> 13<lb/> 2<lb/> 79<lb/> Pakistan<lb/> PAK<lb/> 0<lb/> 45<lb/> 10<lb/> 169<lb/> Paraguay<lb/> PRY<lb/> 9<lb/> 85<lb/> 259<lb/> 406<lb/> Peru<lb/> PER<lb/> 4<lb/> 50<lb/> 50<lb/> 353<lb/> Philippines<lb/> PHL<lb/> 1<lb/> 173<lb/> 12<lb/> 256<lb/> Poland<lb/> POL<lb/> 3<lb/> 1 134<lb/> 78<lb/> 3 295<lb/> Portugal<lb/> PRT<lb/> 0<lb/> 87<lb/> 10<lb/> 614<lb/> Russia<lb/> RUS<lb/> 0<lb/> 145<lb/> 141<lb/> 1 748<lb/> Singapore<lb/> SGP<lb/> 23<lb/> 245<lb/> 367<lb/> 415<lb/> Slovak Repu<lb/> SVK<lb/> 0<lb/> 185<lb/> 35<lb/> 566<lb/> Slovenia<lb/> SVN<lb/> 0<lb/> 94<lb/> 2<lb/> 205<lb/> South Africa<lb/> ZAF<lb/> 0<lb/> 0<lb/> 0<lb/> 0<lb/> Spain<lb/> ESP<lb/> 6<lb/> 1 151<lb/> 21<lb/> 1 414<lb/> Sweden<lb/> SWE<lb/> 1<lb/> 863<lb/> 10<lb/> 435<lb/> Switzerland<lb/> CHE<lb/> 0<lb/> 134<lb/> 6<lb/> 452<lb/> Syria<lb/> SYR<lb/> 221<lb/> 509<lb/> 364<lb/> 269<lb/> Tanzania<lb/> TZA<lb/> 0<lb/> 26<lb/> 5<lb/> 118<lb/> Thailand<lb/> THA<lb/> 1<lb/> 913<lb/> 210<lb/> 1 180<lb/> Turkey<lb/> TUR<lb/> 0<lb/> 29<lb/> 4<lb/> 246<lb/> Ukraine<lb/> UKR<lb/> 0<lb/> 180<lb/> 162<lb/> 1 736<lb/> United Kingd GBR<lb/> 0<lb/> 1 209<lb/> 8<lb/> 519<lb/> United State<lb/> USA<lb/> 45<lb/> 3 521<lb/> 358<lb/> 2 315<lb/> Uruguay<lb/> URY<lb/> 2<lb/> 194<lb/> 86<lb/> 788<lb/> Total<lb/> 727<lb/> 44 330<lb/> 6 540<lb/> 55 332<lb/> USD million Annex</table>
+        </figure>
+
+
+
+    </text>
+</tei>
+

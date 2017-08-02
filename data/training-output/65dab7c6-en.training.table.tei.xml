@@ -1,0 +1,79 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_65dab7c6-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <label>ECO</label>
+
+            <head>/WKP(2017)35 SKILLS MISMATCH, PRODUCTIVITY AND POLICIES: EVIDENCE FROM THE SECOND<lb/> WAVE OF PIAAC<lb/> By Müge Adalet McGowan and Dan Andrews 1</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Section </head>
+ 
+            <label>4 </label>
+ 
+            <head>concludes.<lb/> </head>
+<lb/> 
+            <table>1.<lb/> Corresponding authors are: Müge Adalet McGowan (Muge.AdaletMcGowan@oecd.org) and Dan<lb/> Andrews (Dan.Andrews@oecd.org) from the OECD Economics Department. The authors would like to<lb/> thank David Carey, Peter Jarrett, Giuseppe Nicoletti and Will Witheridge (from the Economics<lb/> Department) for their valuable comments, and Amelia Godber and Heloise Wickramanayake for excellent<lb/> editorial support (also from the Economics Department).</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. The effect of individual characteristics on skill mismatch: New Zealand<lb/> Marginal effects<lb/> </head>
+<lb/> 
+            <table>Notes: Estimates from logit regressions. Values are marginal effects. The coefficients correspond to the impact of a change in the<lb/> explanatory variable on the probability of mismatch at the mean of the independent variables. Regressions include as controls age,<lb/> marital and migrant status, gender, level of education, firm size, contract type, a dummy for working full-time and working in the<lb/> private sector. Robust standard errors in parentheses. *** denotes statistical significance at the 1% level, ** significance at the 5%<lb/> level, * significance at the 10% level.<lb/> Source: </table>
+ 
+            <head>OECD calculations based on the Survey of Adult Skills (2015).<lb/> </head>
+<lb/> 
+            <table>(1)<lb/> (2)<lb/> (3)<lb/> Skill mismatch Over-skilled Under-skilled<lb/> Single<lb/> 0.00224<lb/> 0.000274<lb/> 0.0315*<lb/> (0.157)<lb/> (0.0178)<lb/> (0.0175)<lb/> Female<lb/> -0.210<lb/> -0.0257<lb/> 0.0113<lb/> (0.134)<lb/> (0.0180)<lb/> (0.0144)<lb/> Foreign-born<lb/> -0.568***<lb/> -0.0695***<lb/> 0.0898***<lb/> (0.156)<lb/> (0.0163)<lb/> (0.0133)<lb/> Age 25-34<lb/> -0.318<lb/> -0.0389<lb/> 0.0568**<lb/> (0.204)<lb/> (0.0256)<lb/> (0.0283)<lb/> Age 35-44<lb/> -0.323<lb/> -0.0395<lb/> 0.0710**<lb/> (0.204)<lb/> (0.0282)<lb/> (0.0312)<lb/> Age 45-54<lb/> -0.872***<lb/> -0.107***<lb/> 0.0852***<lb/> (0.246)<lb/> (0.0327)<lb/> (0.0326)<lb/> Age 55-65<lb/> -1.156***<lb/> -0.141***<lb/> 0.119***<lb/> (0.279)<lb/> (0.0415)<lb/> (0.0338)<lb/> Upper secondary education<lb/> 1.116***<lb/> 0.137***<lb/> -0.0597***<lb/> (0.246)<lb/> (0.0310)<lb/> (0.0218)<lb/> Post-secondary, non-tertiary<lb/> 1.346***<lb/> 0.165***<lb/> -0.0811***<lb/> education<lb/> (0.283)<lb/> (0.0366)<lb/> (0.0261)<lb/> Tertiary education<lb/> 1.148***<lb/> 0.140***<lb/> -0.0985***<lb/> (0.244)<lb/> (0.0306)<lb/> (0.0232)<lb/> Firm size: 11-50<lb/> -0.128<lb/> -0.0156<lb/> -0.0540***<lb/> (0.168)<lb/> (0.0216)<lb/> (0.0184)<lb/> Firm size: 51-250<lb/> 0.0150<lb/> 0.00183<lb/> -0.0651***<lb/> (0.178)<lb/> (0.0211)<lb/> (0.0170)<lb/> Firm size: 251-999<lb/> 0.300<lb/> 0.0367<lb/> -0.0807***<lb/> (0.229)<lb/> (0.0272)<lb/> (0.0278)<lb/> Firm size: &gt;1000<lb/> -0.0689<lb/> -0.00843<lb/> -0.127***<lb/> (0.304)<lb/> (0.0403)<lb/> (0.0454)<lb/> Fixed contract<lb/> -0.669**<lb/> -0.0818**<lb/> 0.0360<lb/> (0.267)<lb/> (0.0333)<lb/> (0.0284)<lb/> 0.243<lb/> 0.0298<lb/> -0.0712<lb/> (0.296)<lb/> (0.0405)<lb/> (0.0596)<lb/> Part-time w orker<lb/> 0.466***<lb/> 0.0570***<lb/> -0.0499**<lb/> (0.165)<lb/> (0.0204)<lb/> (0.0238)<lb/> Public sector/NGO<lb/> -0.244<lb/> -0.0298<lb/> -0.0218<lb/> (0.163)<lb/> (0.0185)<lb/> (0.0170)<lb/> Number of observations<lb/> 2405<lb/> 2405<lb/> 2405<lb/> Dependent variable: 1 if the individual is mismatched, 0 otherw ise<lb/> Temp agency/No contract/Apprenticeship<lb/> ECO/WKP(2017)35</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Panel A: Fram ew ork policies<lb/> Employment<lb/> protection<lb/> legislation for<lb/> permanent<lb/> w orkers<lb/> Employment<lb/> protection<lb/> legislation for<lb/> temporary<lb/> w orkers<lb/> Product market<lb/> regulation<lb/> Cost of closing a<lb/> business<lb/> 0.043**<lb/> 0.021**<lb/> 0.042**<lb/> 0.006**<lb/> (0.008)<lb/> (0.003)<lb/> (0.010)<lb/> (0.001)<lb/> Number of observations<lb/> 76183<lb/> 76183<lb/> 74224<lb/> 76183<lb/> pseudo-R2<lb/> 0.012<lb/> 0.012<lb/> 0.01<lb/> 0.013<lb/> Panel B: Housing policies<lb/> Transaction<lb/> costs<lb/> Rent control<lb/> Tenant-landlord<lb/> regulations<lb/> Cost of obtaining<lb/> a building permit<lb/> Responsiveness<lb/> of housing supply<lb/> 0.007***<lb/> 0.017**<lb/> 0.021**<lb/> 0.001**<lb/> -0.051**<lb/> (0.001)<lb/> (0.003)<lb/> (0.003)<lb/> (0.000)<lb/> (0.010)<lb/> Number of observations<lb/> 66863<lb/> 66529<lb/> 69002<lb/> 76183<lb/> 58390<lb/> pseudo-R2<lb/> 0.011<lb/> 0.011<lb/> 0.012<lb/> 0.009<lb/> 0.014<lb/> Panel C: Other policies<lb/> Coverage rate of<lb/> collective<lb/> bargaining<lb/> agreements<lb/> Participation in<lb/> lifelong learning<lb/> (PIAAC data)<lb/> Managerial quality<lb/> 0.001**<lb/> -0.002**<lb/> -0.002**<lb/> (0.000)<lb/> (0.000)<lb/> (0.000)<lb/> Number of observations<lb/> 71819<lb/> 76183<lb/> 76183<lb/> pseudo-R2<lb/> 0.011<lb/> 0.012<lb/> 0.015<lb/> Policy-related factors<lb/> Policy-related factors<lb/> Policy-related factors<lb/> ECO/WKP(2017)35 elasticity of housing supply is lower in countries where it takes longer to acquire a building permit,<lb/> underscoring the importance of efficient land-use regulation and administration (Andrews et al., 2011).<lb/> Skills gaps are one of the key determinants of training investment made by firms and workers<lb/> (</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>DNK)<lb/> (FIN)<lb/> 0.15<lb/> 0.20<lb/> 0.25<lb/> 0.30<lb/> 0.35<lb/> 0.40<lb/> Product market<lb/> regulation<lb/> Employment<lb/> protection<lb/> legislation…<lb/> Employment protection<lb/> legislation<lb/> (temporary workers)<lb/> Cost of closing<lb/> a business<lb/> Transaction costs<lb/> Rent control<lb/> Tenant-landlord<lb/> regulations<lb/> Cost of obtaining<lb/> a building permit<lb/> Responsiveness<lb/> of housing supply<lb/> Participation in<lb/> lifelong learning<lb/> Managerial quality<lb/> Framework policies<lb/> Housing policies<lb/> Other policies<lb/> New Zealand<lb/> Probability of mismatch</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Maximum Maximum<lb/> Maximum<lb/> Maximum<lb/> Maximum<lb/> Maximum<lb/> Maximum<lb/> Maximum<lb/> Minimum<lb/> </head>
+<lb/> 
+            <table>Minimum<lb/> Minimum<lb/> Minimum<lb/> Minimum<lb/> Minimum<lb/> Minimum<lb/> Minimum<lb/> Minimum<lb/> Minimum<lb/> Minimum<lb/> Maximum<lb/> Maximum<lb/> (TUR)<lb/> (DEU)<lb/> (TUR)<lb/> (ISR)<lb/> (BEL)<lb/> (SWE)<lb/> (AUT)</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Product market<lb/> regulation<lb/> Employment<lb/> protection<lb/> legislation<lb/> (permanent workers)<lb/> Employment protection<lb/> legislation<lb/> (temporary workers)<lb/> Cost of closing<lb/> a business<lb/> Transaction costs<lb/> Rent control<lb/> Tenant-landlord<lb/> regulations<lb/> Cost of obtaining<lb/> a building permit<lb/> Responsiveness<lb/> of housing supply<lb/> Participation in<lb/> lifelong learning<lb/> Managerial quality<lb/> Framework policies<lb/> Housing policies<lb/> Other policies<lb/> New Zealand<lb/> Gains to labour productivity<lb/> ECO/WKP(2017)35</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Notes: Worker reallocation rates are country averages of reallocation rates (hiring and firing rates) expressed in percentage of total<lb/> dependent employment (adjusted for industry composition). The data are sourced from OECD (2010) and refer to 2000-07 except for<lb/> Austria, Iceland, Slovenia: 2002-07; Canada, Denmark, France, Germany, Italy, Portugal, Sweden and the United States: 2000-06;<lb/> the Czech Republic: 2001-07; Greece, Hungary, Ireland, Spain: 2000-05; Norway: 2000-04; Poland: 2004-05; the Slovak Republic:<lb/> 2002-06; and Turkey: 2007. Residential mobility data are from Andrews et al. (2011) based on 2007 EU-SILC Database, on HILDA<lb/> for Australia, AHS for the United States and SHP for Switzerland. *** denotes statistical significant at 1% level; ** denotes statistical<lb/> significant at 5% level.<lb/> Source: Andrews et al. (2011) and OECD (2010), Employment Outlook, Paris.</table>
+        </figure>
+
+
+
+    </text>
+</tei>
+

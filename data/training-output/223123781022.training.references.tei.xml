@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><title level="a">Share of sub-central government expenditure in total government expenditure</title> <author>....................................</author>. <biblScope unit="issue">7</biblScope></bibl>
+	<bibl><title level="a">Share of sub-central government spending by main functions</title> <author>...............................................................</author>. <biblScope unit="issue">8</biblScope></bibl>
+	<bibl><author>Spending power: Sample indicator tree ................................................................................................</author>. <biblScope unit="issue">10</biblScope></bibl>
+	<bibl><author>Medium-level spending power indicators ............................................................................................</author>. <biblScope unit="page">12</biblScope></bibl>
+	<bibl><author>High-level spending power indicators ..................................................................................................</author>. <biblScope unit="page">15</biblScope></bibl>
+	<bibl><author>Comparing SCG expenditure ratios and SCG spending power indicators ...........................................</author>. <biblScope unit="page">17</biblScope></bibl>
+	<bibl><author>ECO/WKP</author>(<date>2009</date>)<biblScope unit="page">46</biblScope></bibl>
+	<bibl><author>BIBLIOGRAPHY Bell,M .,R .Ebel ,K .Kaiser and J .Rojchaichaninthorn</author> ( <date>2007</date>),<title level="a">Measuring Fiscal Decentralisation</title> :<pubPlace>A New Perspective ,Washington</pubPlace>: <publisher>TheWorld Bank ( forthcoming</publisher> ).</bibl>
+	<bibl><author>Blöchliger, H.</author> (<date>2008</date>), &quot; <title level="a">Market Mechanisms in Public Service Provision</title> &quot; , <note type="report">OECD Economics Department WorkingPapers No .626</note> ,<pubPlace>OECD ,Paris</pubPlace> .</bibl>
+	<bibl><author>Gonand, F., I. Joumard and R. Price</author> (<date>2007</date>), &quot; <title level="a">Public Spending Efficiency: Institutional Indicators in Primaryand Secondary Education</title> &quot; , <title level="j">OECD Economics Department Working Papers</title> <pubPlace>No .543 ,OECD ,Paris</pubPlace>.</bibl>
+	<bibl><author>Sutherland, D., I. Joumard and R. Price</author> (<date>2005</date>), &quot; <title level="a">Sub-central Government Fiscal Rules</title> &quot; , <title level="j">OECD Economic Studies</title><biblScope unit="volume">41</biblScope> ,<pubPlace>OECD ,Paris</pubPlace> .</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2009</date>)<biblScope unit="page">46</biblScope></bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

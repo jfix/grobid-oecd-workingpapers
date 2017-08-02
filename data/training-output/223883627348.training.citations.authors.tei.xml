@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Albrecht</surname>, <forename>J</forename>.<middlename>W</middlename>., et al.</author>
+
+						<author><surname>Anxo</surname>, <forename>D</forename>., et al.</author>
+
+						<author><surname>Anxo</surname>, <forename>D</forename>., et al.</author>
+
+						<author><surname>Bennett</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Berger</surname>, <forename>L</forename>.<middlename>M</middlename>., et al.</author>
+
+						<author><surname>Blau</surname>, <forename>D</forename>.<middlename>M</middlename>. and <forename>P</forename>.<middlename>K</middlename>. <surname>Robins</surname></author>
+
+						<author><surname>Blau</surname>, <forename>D</forename>.<middlename>M</middlename>. and <forename>P</forename>.<middlename>K</middlename>. <surname>Robins</surname></author>
+
+						<author><surname>Bradshaw</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Bradshaw</surname>, <forename>J</forename>., et al.</author>
+
+						<author><surname>Bradshaw</surname>, <forename>J</forename>. and <forename>N</forename>. <surname>Finch</surname></author>
+
+						<author><surname>Bradshaw</surname>, <forename>J</forename>. and <forename>D</forename>. <surname>Piachaud</surname></author>
+
+						<author><surname>Brunning</surname>, <forename>G</forename>. and <forename>J</forename>. <surname>Plantenga</surname></author>
+
+						<author><surname>Chung</surname>, <forename>H</forename>., et al.</author>
+
+						<author><surname>Council</surname> of <forename>Europe</forename></author>
+
+						<author><forename>D</forename>&apos;<surname>Addio</surname>, <forename>A</forename>.<middlename>C</middlename>. and <forename>M</forename>.<middlename>M</middlename>. D&apos;Ercole</author>
+
+						<author><forename>Den</forename> <surname>Dulk</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Dingeldey</surname>, <forename>I</forename>.</author>
+
+						<author><surname>Dingeldey</surname>, <forename>I</forename>.</author>
+
+						<author><surname>Esping-Andersen</surname>, <forename>G</forename>.</author>
+
+						<author><surname>Esping-Andersen</surname>, <forename>G</forename>.</author>
+
+						<author><forename>European</forename> <surname>Council</surname></author>
+
+						<author><surname>Evans</surname>, <forename>J</forename>.<middlename>M</middlename>.</author>
+
+						<author><surname>Fagan</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Fagnani</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Fiene</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Flüter-Hoffmann</surname>, <forename>C</forename>. and <forename>J</forename>. <surname>Solbrig</surname></author>
+
+						<author><surname>Gauthier</surname>, <forename>A</forename>. <middlename>H</middlename>.</author>
+
+						<author><surname>Gauthier</surname>, <forename>A</forename>. <middlename>H</middlename>.</author>
+
+						<author><surname>Gilbert</surname>, <forename>N</forename>. <surname>Gornick</surname>, <forename>J</forename>.<middlename>C</middlename>. and <forename>M</forename>.<middlename>K</middlename>. <surname>Meyers</surname></author>
+
+						<author><surname>Gornick</surname>, <forename>J</forename>.<middlename>C</middlename>. and <forename>M</forename>.<middlename>K</middlename>. <surname>Meyers</surname></author>
+
+						<author><surname>Gornick</surname>, <forename>J</forename>. <middlename>C</middlename>. and <forename>A</forename>. <surname>Hegewisch</surname></author>
+
+						<author><surname>Guo</surname>, <forename>J</forename>. and <forename>N</forename>. <surname>Gilbert</surname></author>
+
+						<author><surname>Hakim</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Hurley</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Kaariainen</surname>, <forename>J</forename>. and <forename>H</forename>. <surname>Lehtonen</surname></author>
+
+						<author><surname>Kamerman</surname>, <forename>S</forename>. and <forename>A</forename>.<middlename>J</middlename>. <surname>Kahn</surname></author>
+
+						<author><surname>Klammer</surname>, <forename>U</forename>. and <forename>M.-T</forename>. <surname>Letablier</surname></author>
+
+						<author><surname>Kangas</surname>, <forename>O</forename>.</author>
+
+						<author><surname>Leseman</surname>, <forename>P</forename>. <middlename>P</middlename>. <middlename>M</middlename>.</author>
+
+						<author><surname>Lewis</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Lindén</surname>, <forename>T</forename>.<middlename>S</middlename>.</author>
+
+						<author><surname>Manning</surname>, <forename>N</forename>.</author>
+
+						<author><surname>Math</surname>, <forename>A</forename>. and <forename>O</forename>. Thévenon al.</author>
+
+						<author><surname>Meulders</surname>, <forename>D</forename>. and <forename>S</forename>. <surname>Gustafsson</surname></author>
+
+						<author><surname>Moss</surname>, <forename>P</forename>. and <forename>K</forename>. <surname>Wall</surname></author>
+
+						<author><surname>Myers</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Pampel</surname>, <forename>F</forename>. <middlename>C</middlename>. and <forename>P</forename>. <surname>Adams</surname></author>
+
+						<author><surname>Pärnänen</surname>, <forename>A</forename>., et al.</author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Plantenga</surname>, <forename>J</forename>. and <forename>M</forename>. <surname>Siegel</surname></author>
+
+						<author><surname>Plantenga</surname>, <forename>J</forename>. and <forename>C</forename>. <surname>Remery</surname></author>
+
+						<author><surname>Pylkänen</surname>, <forename>E</forename>. and <forename>N</forename>. <surname>Smith</surname></author>
+
+						<author><surname>Ray</surname>, <forename>R</forename>., <forename>J</forename>.<middlename>C</middlename>. <surname>Gornick</surname> and <forename>J</forename>. <surname>Schmitt</surname></author>
+
+						<author><surname>Riedmann</surname>, <forename>A</forename>., et al.</author>
+
+						<author><surname>Rostgaard</surname>, <forename>T</forename>. and <forename>T</forename>. <surname>Fridberg</surname></author>
+
+						<author><surname>Rostgaard</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Scharpf</surname>, <forename>F</forename>. <middlename>W</middlename>.</author>
+
+						<author><surname>Siaroff</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Spiess</surname>, <forename>C</forename>. <middlename>K</middlename>. and <forename>K</forename>. <surname>Wrohlich</surname></author>
+
+						<author><surname>Stratigaki</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Van de Kaa</surname>, <forename>D</forename>.<middlename>J</middlename>.</author>
+
+						<author><surname>Van Oorschot</surname>, <forename>W</forename>. and <forename>W</forename>. <surname>Arts</surname></author>
+
+						<author><surname>Waldfogel</surname>, <forename>J</forename>., <forename>Wen-Jui</forename> <surname>Han</surname> and <forename>J</forename>. <surname>Brooks-Gunn</surname></author>
+
+						<author><surname>White</surname>, <forename>L</forename>.<middlename>A</middlename>.</author>
+
+						<author><surname>Whiteford</surname>, <forename>P</forename>. and <forename>W</forename>. <surname>Adema</surname></author>
+
+						<author><surname>Wilensky</surname>, <forename>H</forename>.<middlename>L</middlename>.</author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><forename>OECD</forename> <surname>SOCIAL</surname>, <forename>EMPLOYMENT</forename> <surname>AND</surname> MIGRATION <surname>WORKING</surname> PAPERS <surname>Most</surname> <forename>IMPACT</forename> <surname>ON</surname> RETIREMENT <surname>INCOMES</surname> AND <surname>GOVERNMENT BUDGETS Edward Whitehouse</surname>, <surname>Anna</surname> <forename>D</forename>&apos;<surname>Addio</surname> and <forename>Andrew</forename> <surname>Reilly</surname> <forename>PENSION</forename> REFORM <surname>IN</surname> CHILE <surname>REVISITED</surname>: <surname>WHAT</surname> HAS <surname>BEEN</surname> LEARNED? <forename>Augusto</forename> <middlename>Iglesias</middlename> <surname>Palau</surname> <forename>INEQUALITY</forename>, <forename>POVERTY</forename> <surname>AND</surname> SOCIAL <surname>POLICY</surname>: <surname>RECENT</surname> TRENDS IN CHILE Osvaldo <surname>Larrañaga</surname> <forename>PENSION</forename> <surname>SCHEMES FOR</surname> THE <surname>SELF-EMPLOYED IN</surname> OECD COUNTRIES Jongkyun <surname>Choi</surname> <forename>WORK</forename>, <surname>JOBS</surname> AND <surname>WELL-BEING ACROSS</surname> THE MILLENNIUM <forename>Andrew</forename> <surname>Clark</surname> <forename>CHILD</forename> <surname>WELL-BEING AND</surname> SOLE <surname>PARENT</surname> FAMILY <surname>STRUCTURE IN</surname> THE <surname>OECD</surname>: <surname>AN ANALYSIS Simon Chapple</surname> <forename>A</forename> <surname>GOOD</surname> TIME <surname>FOR MAKING</surname> WORK <surname>PAY</surname>? <surname>TAKING STOCK</surname> OF <surname>IN-WORK BENEFITS</surname> AND <surname>RELATED MEASURES</surname> ACROSS <surname>THE OECD Herwig Immervoll</surname> and <forename>Mark</forename> <surname>Pearson</surname> <forename>MAIN</forename> <surname>FEATURES</surname> OF <surname>THE</surname> PUBLIC <surname>EMPLOYMENT</surname> SERVICE <surname>IN POLAND Daniela Kalužná</surname>, <forename>PURCHASING-POWER</forename> <surname>RISK</surname>, <surname>INFLATION</surname> AND <surname>INDEXATION Edward Whitehouse</surname> <forename>ACTIVATION POLICIES IN IRELAND David</forename> <surname>Grubb</surname>, <forename>Shruti</forename> <surname>Singh</surname> and <forename>Peter</forename> <surname>Tergeist</surname> <forename>MAIN</forename> <surname>FEATURES</surname> OF <surname>THE</surname> PUBLIC <surname>EMPLOYMENT</surname> SERVICE <surname>IN</surname> THE CZECH REPUBLIC <forename>Daniela</forename> <surname>Kaluzna</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

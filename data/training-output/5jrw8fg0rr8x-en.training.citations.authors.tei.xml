@@ -1,0 +1,102 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Bonnaud</surname>, <forename>L</forename>. and <forename>J</forename>. <surname>Coppalle</surname></author>
+
+						<author><surname>Buzby</surname>, <forename>J</forename>.<middlename>C</middlename>. and <forename>P</forename>.<middlename>D</middlename>. <surname>Frenzen</surname></author>
+
+						<author><surname>Caswell</surname>, <forename>J</forename>. and <forename>E</forename>. <surname>Mojduszka</surname></author>
+
+						<author><surname>Cheyns</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Clayton</surname>, <forename>K</forename>. and <forename>W</forename>. <surname>Preston</surname></author>
+
+						<author><surname>Codron</surname>, <forename>J.-M</forename>., <forename>M</forename>. <surname>Fares</surname> et al.</author>
+
+						<author><surname>Coglianese</surname>, <forename>C</forename>. and <forename>D</forename>. <surname>Lazer</surname></author>
+
+						<author><surname>Dankers</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Djama</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Eijlander</surname>, <forename>P</forename>.</author>
+
+						<author><surname>FiBL</surname><forename>/</forename><surname>IFOAM</surname></author>
+
+						<author><surname>Hartmann</surname>, <forename>M</forename>.</author>
+
+						<author><forename>VOLUNTARY</forename> <surname>ENVIRONMENTAL</surname> AND <surname>ORGANIC STANDARDS</surname> IN <surname>AGRICULTURE</surname>: <surname>POLICY</surname> IMPLICATIONS <surname>OECD FOOD</surname>, <forename>AGRICULTURE</forename> <surname>AND</surname> FISHERIES PAPER N°86 © <surname>OECD</surname></author>
+
+						<author><surname>Gambelli</surname>, <forename>D</forename>., <forename>F</forename>. <surname>Solfanelli</surname> and <forename>R</forename>. <surname>Zanoli</surname></author>
+
+						<author><forename>Garcia</forename> <surname>Martinez</surname>, <forename>M</forename>., <forename>A</forename>. <surname>Fearne</surname> et al.</author>
+
+						<author><surname>Garcia-Martinez</surname>, <forename>M</forename>., <forename>P</forename>. <surname>Verbruggen</surname> et al.</author>
+
+						<author><surname>Gibbon</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Gunningham</surname>, <forename>N</forename>. and <forename>J</forename>. <surname>Rees</surname></author>
+
+						<author><surname>Henson</surname>, <forename>S</forename>. and <forename>J</forename>. <surname>Humphrey</surname></author>
+
+						<author><surname>Humphrey</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Jahn</surname>, <forename>G</forename>., <forename>M</forename>. <surname>Schramm</surname>, <forename>A</forename>. <surname>Spiller</surname></author>
+
+						<author><surname>Lennox</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Loconto</surname>, <forename>A</forename>. and <forename>C</forename>. <surname>Dankers</surname></author>
+
+						<author><surname>Meybeck</surname>, <forename>A</forename>. and <forename>N</forename>. <surname>Pingault</surname></author>
+
+						<author><surname>Millock</surname>, <forename>K</forename>. and <forename>C</forename>. <surname>Nauges</surname></author>
+
+						<author><surname>Moïsé</surname>, <forename>E</forename>. and <forename>R</forename>. <surname>Steenblik</surname></author>
+
+						<author><forename>OECD</forename> <surname>FOOD</surname>, <forename>AGRICULTURE</forename> <surname>AND</surname> FISHERIES PAPER N°86 © <surname>OECD</surname></author>
+
+						<author><forename>AGR/CA/</forename><surname>APM</surname></author>
+
+						<author><surname>Ponte</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Rajsic</surname>, <forename>P</forename>., <forename>E</forename>. <surname>Ramlal</surname> and <forename>G</forename>. <surname>Fox</surname></author>
+
+						<author><surname>Robinson</surname>, <forename>G</forename>. <middlename>M</middlename>.</author>
+
+						<author><surname>Roe</surname>, <forename>B</forename>. and <forename>I</forename>. <surname>Sheldon</surname></author>
+
+						<author><surname>Rouvière</surname>, <forename>E</forename>. and <forename>J</forename>. <middlename>A</middlename>. <surname>Caswell</surname></author>
+
+						<author><surname>Ruben</surname>, <forename>R</forename>. and <forename>G</forename>. <surname>Zuniga</surname></author>
+
+						<author><surname>Sanders</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Schmidt</surname>, <forename>C</forename>., <forename>J</forename>. <surname>Sweetland</surname> and <forename>A</forename>. <surname>Mussell</surname></author>
+
+						<author><surname>Schouten</surname>, <forename>G</forename>., <forename>P</forename>. <surname>Leroy</surname> et al.</author>
+
+						<author><surname>Sinclair</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Schewe</surname>, <forename>R</forename>. <middlename>L</middlename>.</author>
+
+						<author><forename>VOLUNTARY</forename> <surname>ENVIRONMENTAL</surname> AND <surname>ORGANIC STANDARDS</surname> IN <surname>AGRICULTURE</surname>: <surname>POLICY</surname> IMPLICATIONS <surname>OECD FOOD</surname>, <forename>AGRICULTURE</forename> <surname>AND</surname> FISHERIES PAPER N°86 © <surname>OECD</surname></author>
+
+						<author><surname>Tallontire</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Uthes</surname>, <forename>S</forename>. and <forename>B</forename>. <surname>Matzdorf</surname></author>
+
+						<author><surname>Vojtech</surname>, <forename>V</forename>. <surname>OECD Food</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

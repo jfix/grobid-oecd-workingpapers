@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl>.<idno>245*** 0.184***0 .189***(0 .00596)(0. 00565)(0.00569</idno> )</bibl>
+	<bibl><idno>Age -0.0506***- 0.0497***-0 .0485***(0. 00163)(0.00156 )(0.00160) Agesquare0.000402* ** 0 .000401***0. 000373***(1. 73e-05</idno>)(<biblScope unit="issue">1</biblScope>. <biblScope unit="page">66e-05)(1.70e -05</biblScope>)</bibl>
+	<bibl><title level="j">Gender</title> (<note type="report">Male) -0.191***- 0.180***-0 .173***(0. 0101)(0.00952 )(0.00989) Secondaryeducation0.600* ** 0 .448***0. 546***(0. 0169)(0.0161) (0.0165)Tertiary education0.964** *0.781** *0 . 856***(0. 0188</note>)(<idno>0.0181) (0.0184)Socialconnections 0.913*** 0.864*** 0.900*** (0 . 0189)(0.0179) (0.0186</idno>)</bibl>
+	<bibl><title level="j">References</title></bibl>
+	<bibl><author>Bjørnskov, C., Dreher, A. and J. Fischer</author> (<date>2006</date>), <title level="a">Cross-country determinants of life satisfaction: exploring differentdeterminants across groups in society</title> .Arbeitspapiere / /<pubPlace>Konjunkturforschungsstelle ,Eidgenössische TechnischeHochschule Zürich</pubPlace> , No. <biblScope unit="issue">145</biblScope>.</bibl>
+	<bibl><author>Bourdieu, P.</author> (<date>1986</date>), <title level="a">The Forms of Capital</title>, in <editor>Richardson, John G.</editor>, ed., <title level="m">Handbook of Theory and Research forthe Sociology of Education</title> ,<pubPlace>New York</pubPlace> :<publisher>Greenwood</publisher> .</bibl>
+	<bibl><author>Di Tella, R. and R. McCulloch</author> (<date>2006</date>), &quot; <title level="a">Some uses of happiness data in economics</title> &quot; , <title level="j">Journal of economic perspectives</title>,Vol .<biblScope unit="volume">20</biblScope> ,No .<biblScope unit="issue">1</biblScope> ,pp .<biblScope unit="page">25 -46</biblScope>.</bibl>
+	<bibl><title level="j">Eurostat</title> (<date>2015</date>)<orgName>Quality ofLife inEurope</orgName> ,http :/ /<ptr type="web">ec. europa.eu/eurostat/statistics-explained/index.php/Quality_of_life_in_Europe_-_facts_and_views_-_overall_life_satisfaction</ptr>.</bibl>
+	<bibl><author>Lucas J. L. and R. B. Heady</author> (<date>2002</date>), &quot; <title level="a">Flextime Commuters and Their Driver Stress, Feelings of Time Urgency,and Commute Satisfaction</title> &quot; , <title level="j">Journal of Business and Psychology</title> ,<date>2002</date> ,Vol .<biblScope unit="volume">16</biblScope> ,No .<biblScope unit="issue">4</biblScope> ,<biblScope unit="page">page 565</biblScope>.</bibl>
+	<bibl><author>Fleurbay</author> (<date>1996</date>) <title level="m">Théories économiques de la justice</title>, <pubPlace>Paris: Economica</pubPlace>.</bibl>
+	<bibl><author>Helliwell, J.</author> (<date>2005</date>) <title level="a">Well-being, social capital and public policy: What&apos;s new? NBER Working Paper 11807</title>,available at :http ://<ptr type="web">www.nber.org/papers/w11807.pdf</ptr>.</bibl>
+	<bibl><author>Helliwell, J. F. and H. Huang</author> (<date>2011</date>) <title level="a">Well-Being and Trust in the Workplace</title>. <title level="j">Journal of Happiness Studies</title>,<idno>DOI :10 .1007/s10902-010-9225-7</idno>.</bibl>
+	<bibl><title level="j">Istat</title> (<date>2013</date>)<orgName>Rapporto BenessereEquo eSostenibile</orgName> ,available at: http:/ /<ptr type="web">www .istat. it/en/files/2013/03/bes_2013.pdf</ptr>.</bibl>
+	<bibl><author>Layard, R.</author> (<date>2005</date>) <title level="a">Happiness: Lessons from a New Science</title>, <pubPlace>London, Allen Lane</pubPlace>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2015a</date>), Measuring Well-beingin <title level="m">MexicanStates</title> ,<publisher>OECD Publishing</publisher>,<pubPlace>Paris ,http</pubPlace> :// <ptr type="web">dx.doi .org/10.1787/9789264246072-en</ptr>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2015b</date>), <title level="a">How&apos;s Life? 2015: Measuring Well-being</title>, <publisher>OECD Publishing</publisher>, <pubPlace>Paris, http</pubPlace>://<ptr type="web">dx.doi.org/10.1787/how_life-2015-en</ptr>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2014</date>), <title level="a">How&apos;s Life in Your Region?, Measuring Regional and Local Well-being for Policy Making</title>, <publisher>OECDPublishing</publisher> ,<pubPlace>Paris ,http</pubPlace> ://<ptr type="web">dx.doi.org/10.1787/9789264217416-en</ptr>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2013</date>), <title level="a">OECD Guidelines on Measuring Subjective Well-being</title>, <publisher>OECD Publishing</publisher>, <pubPlace>Paris, http</pubPlace>://<ptr type="web">dx.doi.org/10.1787/9789264191655-en</ptr>.</bibl>
+	<bibl><title level="j">Office for National Statistics</title> (<date>2015</date>) <title level="a">Measuring national well-being; Personal well-being in the UK</title>.</bibl>
+	<bibl><title level="j">Office for National Statistics</title> (<date>2014</date>) <title level="a">Commuting and personal well-being</title>.</bibl>
+	<bibl><author>Putnam, R.</author> (<date>2001</date>), <title level="a">Bowling Alone: The Collapse and Revival of American Community</title>, <pubPlace>New York</pubPlace>: <publisher>Simon&amp; Schuster</publisher> .</bibl>
+	<bibl><author>Stiglitz J.E., A. Sen and J.-P. Fitoussi</author> (<date>2009</date>), <title level="a">Report by the Commission on the Measurement of Economic Performance</title><publisher>and SocialProgress</publisher> ,available at:http :/ /<ptr type="web">www. stiglitz-sen-fitoussi.fr/documents/rapport_anglais.pdf</ptr>.</bibl>
+	<bibl><author>Stutzer, A. and B. Frey</author> (<date>2004</date>), <title level="a">Stress that doesn&apos;t pay: the commuting paradox</title>. <note type="report">IZA Discussion Paper n. 1278</note>,available at :http ://<ptr type="web">ftp.iza.org/dp1278.pdf</ptr>.</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

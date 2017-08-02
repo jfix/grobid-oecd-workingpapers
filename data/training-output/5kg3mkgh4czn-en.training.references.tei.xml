@@ -1,0 +1,45 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>Abowd, J. and T. Lemieux</author> (<date>1993</date>), &quot; <title level="a">The Effect of Product Market Competition on Collective BargainingAgreements :the Case of Foreign Competition in Canada</title> &quot; , <title level="j">Quarterly Journal of Economics</title> ,<biblScope unit="page">983- 1014</biblScope>.</bibl>
+	<bibl><author>Abowd, J., F. Kramarz, D. Lengerman and S. Roux</author> (<date>2007</date>), &quot;<title level="a">Persistent Inter-Industry Wage Differences:Rent Sharing and Opportunity Costs</title> &quot; , <title level="j">Crest Working Paper</title> .</bibl>
+	<bibl><author>Bernard, A.B. and J.B. Jensen</author> (<date>1997</date>), &quot; <title level="m">Exporters, Skill Upgrading, and the Wage Gap</title> &quot; , <title level="j">Journal of InternationalEconomics</title> ,<biblScope unit="volume">42</biblScope> ,<biblScope unit="page">1 -25</biblScope>.</bibl>
+	<bibl><author>Bertrand, M.</author> (<date>2004</date>), &quot; <title level="a">From the Invisible Handshake to the Invisible Hand? How Import CompetitionChanges the Employment Relationship</title> &quot; , <title level="j">Journal of Labour Economics</title> ,<biblScope unit="volume">22</biblScope> ,<biblScope unit="volume">4</biblScope> ,<biblScope unit="page">723 -766</biblScope>.</bibl>
+	<bibl><author>Biscourp, P. and F. Kramarz</author> (<date>2007</date>), &quot; <title level="a">Employment, Skill-Structure, and International Trade: Firm-LevelEvidence for France</title> ,&quot; <title level="j">Journal of International Economics</title> ,<biblScope unit="volume">72</biblScope> ,<biblScope unit="volume">1</biblScope> ,<biblScope unit="page">22 -51</biblScope>.</bibl>
+	<bibl><author>Blanchflower, D., A. Oswald and P. Sanfey</author> (<date>1996</date>), &quot; <title level="a">Wages, Profits, and Rent-Sharing</title> &quot; , <title level="j">Quarterly Journalof Economics</title> ,<biblScope unit="volume">111</biblScope> ,<biblScope unit="page">227 -251</biblScope>.</bibl>
+	<bibl><author>Cowie, J.R.</author> (<date>1999</date>), &quot; <title level="a">Capital Moves: RCA&apos;s 70-year Quest for Cheap Labour</title> &quot; , <publisher>Cornell University Press</publisher>,<biblScope unit="volume">279 pages</biblScope> .</bibl>
+	<bibl><author>Davis, S.J., J. Haltiwanger</author> (<date>1999</date>), &quot; <title level="a">Gross Job Flows</title>, &quot; <title level="a">Handbook of Labour Economics</title>, <editor>O.Ashenfelter ,D .Card</editor> ( ed.),Vol .<biblScope unit="volume">3b</biblScope> ,<publisher>Elsevier</publisher> ,<pubPlace>Amsterdam</pubPlace> .</bibl>
+	<bibl><author>Eaton, J., S. Kortum and F. Kramarz</author>, &quot; <title level="a">An Anatomy of International Trade: Evidence from French Firms</title>&quot; , <pubPlace>Econometrica ,forthcoming</pubPlace> .</bibl>
+	<bibl><author>Eaton, J., S. Kortum, F. Kramarz and R. Sampognaro</author> (<date>2011</date>), &quot; <title level="j">Wages, Employment, and InternationalTrade</title> &quot; , mimeo .</bibl>
+	<bibl><author>Feenstra, R.C.</author> (<date>2000</date>), &quot; <title level="a">The Impact of International Trade on Wages</title> &quot; , <orgName>The University of Chicago Pressfor the NBER</orgName> ,<biblScope unit="volume">406</biblScope> pages .</bibl>
+	<bibl><author>Feenstra, R.C. and G.H. Hanson</author> (<date>1995</date>), &quot; <title level="a">Foreign Investment, Outsourcing and Relative Wages</title> &quot; , <note>Documentde travail NBER 5121</note> .</bibl>
+	<bibl><author>Feenstra, R.C. and G.H. Hanson</author> (<date>1996</date>), &quot; <title level="m">Globalisation, Outsourcing, and Wage Inequality</title> &quot; , <note>Documentde travail NBER 5424</note> .</bibl>
+	<bibl><author>Freeman, R.</author> (<date>1995</date>), &quot; <title level="a">Are your Wages Set in Beijing?</title> &quot; <title level="j">Journal of Economic Perspectives</title>, <biblScope unit="volume">9</biblScope>, <biblScope unit="page">15-32</biblScope>.</bibl>
+	<bibl><author>Fontagné, L., M. Freudenberg and D. Unal-Kesenci</author> (<date>1995</date>), &quot; <title level="a">Régionalisation et échanges de biens intermédiaires</title>&quot; , <note type="report">Document de travail CEPII 95 -11</note>.</bibl>
+	<bibl><author>Goldberg, L. and J. Tracy</author> (<date>2001</date>), &quot; <title level="a">Exchange Rates and Wages</title> &quot; , <note type="report">Federal Reserve Bank Working Paper</note>.</bibl>
+	<bibl><author>Helpman, E., O. Itskhoki and S. Redding</author> (<date>2010</date>), &quot; <title level="a">Inequality and Unemployment in a Global Economy</title>&quot; , <title level="j">Econometrica</title> ,<biblScope unit="volume">78</biblScope> :<biblScope unit="page">1239 -1283</biblScope>.</bibl>
+	<bibl><author>EMPLOYMENT AND TRADE IN FRANCE: A FIRM-LEVEL VIEW</author> (<date>1995-2004) – 23</date></bibl>
+	<bibl><author>OECD TRADE POLICY WORKING PAPER N°124 © OECD</author> <date>2011</date></bibl>
+	<bibl><author>Kramarz, F.</author> (<date>2010</date>), &quot; <title level="a">Offshoring, Wages, and Employment: Evidence from Data Matching Imports,Firms ,and Workers</title> &quot; , <note type="report">Crest Working Paper</note> .</bibl>
+	<bibl><author>Krugman, P.</author> (<date>1995</date>), &quot; <title level="a">Growing World Trade: Causes and Consequences</title> &quot; , <title level="j">Brookings Papers on EconomicActivity ,Microeconomics</title> ,<biblScope unit="volume">1</biblScope> ,<biblScope unit="page">327 -377</biblScope>.</bibl>
+	<bibl><author>Lawrence, R.Z.</author> (<date>1994</date>), &quot; <title level="m">Trade, Multinationals, and Labour</title>&quot;, <note type="report">NBER Working Paper 4836</note>.</bibl>
+	<bibl><author>Lawrence, R.Z. and M. Slaughter</author> (<date>1993</date>), &quot; <title level="a">International Trade and American Wages in the 1980&apos;s: GiantSucking Sound or Small Hiccup ?</title>&quot; <title level="j">Brookings Papers on Economic Activity</title> ,<pubPlace>Microeconomics</pubPlace> ,<biblScope unit="issue">2</biblScope>, <biblScope unit="page">161- 226</biblScope>.</bibl>
+	<bibl><author>Leamer, E.</author> (<date>1994</date>), &quot; <title level="a">Trade, Wages, and Revolving Door Ideas</title> &quot; , <note type="report">NBER Working Paper 4716</note>.</bibl>
+	<bibl><author>Leamer, E.</author> (<date>1996</date>), &quot; In <title level="m">Search of Stolper-Samuelson Effects in U.S. Wages</title> &quot; , <note type="report">NBER Working Paper5427</note> .</bibl>
+	<bibl><author>Melitz, Marc J.</author> (<date>2003</date>) &quot; <title level="a">The Impact of Trade on Intra-Industry Reallocations and Aggregate IndustryProductivity</title> &quot; , <title level="j">Econometrica</title> ,<biblScope unit="volume">71</biblScope> ,<biblScope unit="page">1695 -1725</biblScope>.</bibl>
+	<bibl><author>Revenga, A.L.</author> (<date>1992</date>), &quot; <title level="a">Exporting Jobs: The Impact of Import Competition on Employment and Wagesin U .S.Manufacturing</title> &quot; , <title level="j">Quarterly Journal of Economics ,CVII</title> ,<biblScope unit="page">255 -282</biblScope>.</bibl>
+	<bibl><author>Venables, A.J.</author> (<date>1999</date>), &quot; <title level="a">Fragmentation and Multinational Production</title> &quot; , <title level="j">European Economic Review</title>,<biblScope unit="volume">43</biblScope> ,<biblScope unit="page">935 -945</biblScope>.</bibl>
+	<bibl><author>Wood, A.</author> (<date>1995</date>), &quot; <title level="a">How Trade Hurt Unskilled Workers</title> &quot; , <title level="j">Journal of Economic Perspectives</title>, <biblScope unit="volume">9</biblScope>, <biblScope unit="page">57-80</biblScope>.</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

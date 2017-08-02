@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><forename>ANDERSON</forename>, <forename>J</forename>. <middlename>E</middlename>.</author>
+
+						<author><forename>ANDERSON</forename>, <forename>J</forename>. <middlename>E</middlename>. and <forename>E</forename>. <surname>VAN WINCOOP</surname></author>
+
+						<author><forename>ANTMAN</forename>, <forename>F</forename>. <middlename>M</middlename>.</author>
+
+						<author><forename>ANTMAN</forename>, <forename>F</forename>. <middlename>M</middlename>.</author>
+
+						<author><surname>BARRO</surname>, <forename>R</forename>. <middlename>J</middlename>, and <forename>J</forename>. <surname>LEE</surname></author>
+
+						<author><forename>BAUDASSÉ</forename>, <forename>T</forename>. and <forename>R</forename>. <surname>BAZILLIER</surname></author>
+
+						<author><surname>BEINE</surname>, <forename>M</forename>., <forename>F</forename>. <surname>DOCQUIER</surname> and <forename>C</forename>. <surname>OZDEN</surname></author>
+
+						<author><surname>BEINE</surname>, <forename>M</forename>, <forename>F</forename>. <surname>DOCQUIER</surname> and <forename>C</forename>. <surname>OZDEN</surname></author>
+
+						<author><surname>BEINE</surname>, <forename>M</forename>., <forename>F</forename>. <surname>DOCQUIER</surname> and <forename>M</forename>. <surname>SCHIFF</surname></author>
+
+						<author><forename>BERTOLI</forename>, <forename>S</forename>.</author>
+
+						<author><forename>BERTOLI</forename>, <forename>S</forename>. and <forename>F</forename>. <surname>MARCHETTA</surname></author>
+
+						<author><forename>BERTOLI</forename>, <forename>S</forename>. and <forename>J</forename>. <surname>FERNÁNDEZ-HUERTAS MORAGA</surname></author>
+
+						<author><surname>BORJAS</surname>, <forename>G</forename> <middlename>J</middlename>.</author>
+
+						<author><forename>BRANISA</forename>, <forename>B</forename>., <forename>S</forename>. <surname>KLASEN</surname> and <forename>M</forename>. <surname>ZIEGLER</surname></author>
+
+						<author><forename>CERISE</forename>, <forename>S</forename>., <forename>G</forename>. <surname>FERRANT</surname> and <forename>J</forename>. <surname>GAGNON</surname></author>
+
+						<author><forename>CERISE</forename>, <forename>S</forename>., <forename>F</forename>. <surname>FRANCAVILLA</surname>, <forename>E</forename>. <surname>LOISEAU</surname> and <forename>M</forename>. <surname>TUCCIO</surname></author>
+
+						<author><forename>CERRUTTI</forename>, <forename>M</forename>. and <forename>D</forename>.<middlename>S</middlename>. <surname>MASSEY</surname></author>
+
+						<author><forename>CHANEY</forename>, <forename>T</forename>.</author>
+
+						<author><forename>DEV</forename>/<surname>DOC</surname></author>
+
+						<author><forename>CINGRANELLI</forename>, <forename>D</forename>. <middlename>L</middlename>. and <forename>D</forename>.<middlename>L</middlename>. <surname>RICHARDS</surname></author>
+
+						<author><forename>CLARK</forename>, <forename>X</forename>., <forename>T</forename>.<middlename>J</middlename>. <surname>HATTON</surname> and <forename>J</forename>.<middlename>G</middlename>. <surname>WILLIAMSON</surname></author>
+
+						<author><forename>DEMURGER</forename>, <forename>S</forename>. and <forename>H</forename>. <surname>XU</surname></author>
+
+						<author><forename>DINER</forename>, <forename>H</forename>. <middlename>R</middlename>.</author>
+
+						<author><forename>DOCQUIER</forename>, <forename>F</forename>., <forename>B</forename>.<middlename>L</middlename>. <surname>LOWELL</surname> and <forename>A</forename>. <surname>MARFOUK</surname></author>
+
+						<author><forename>DOLLAR</forename>, <forename>D</forename>. and <forename>R</forename>. <surname>GATTI</surname></author>
+
+						<author><forename>DUFLO</forename>, <forename>E</forename>.</author>
+
+						<author><forename>DUMONT</forename>, <forename>J</forename>. <middlename>C</middlename>., <forename>J</forename>. <surname>MARTIN</surname> and <forename>G</forename>. <surname>SPIELVOGEL</surname></author>
+
+						<author><forename>DUSTMANN</forename>, <forename>C</forename>. and <forename>A</forename>. <surname>GLITZ</surname></author>
+
+						<author><forename>ENCHAUTEGUI</forename>, <forename>M</forename>. <middlename>E</middlename>.</author>
+
+						<author><forename>ERULKAR</forename>, <forename>A</forename>. <middlename>S</middlename>., <forename>T</forename>. <surname>MEKBIB</surname>, <forename>N</forename>. <surname>SIMIE</surname> and <forename>T</forename>. <surname>GULEMA</surname></author>
+
+						<author><forename>FACCHINI</forename>, <forename>G</forename>., <forename>A</forename>.<middlename>M</middlename>. <surname>MAYDA</surname> and <forename>M</forename>. <surname>MENDOLA</surname></author>
+
+						<author><forename>FERRANT</forename>, <forename>G</forename>.</author>
+
+						<author><forename>FERRANT</forename>, <forename>G</forename>., <forename>L</forename>. <middlename>M</middlename>. <surname>PESANDO</surname> and <forename>K</forename>. <surname>NOWACKA</surname></author>
+
+						<author><forename>FERRANT</forename>, <forename>G</forename>.</author>
+
+						<author><forename>FERRANT</forename>, <forename>G</forename>., <forename>K</forename>. <surname>NOWACKA</surname> and <forename>A</forename>. <surname>THIM</surname></author>
+
+						<author><forename>FORSYTHE</forename>, <forename>N</forename>., <forename>R</forename>.<middlename>P</middlename>. <surname>KORZENIEWICZ</surname> and <forename>V</forename>. <surname>DURRANT</surname></author>
+
+						<author><forename>FREEDOM</forename> <surname>HOUSE</surname></author>
+
+						<author><forename>GINDLING</forename>, <forename>T</forename>. <middlename>H</middlename>.</author>
+
+						<author><forename>GLEDITSCH</forename>, <forename>N</forename>. <middlename>P</middlename>., <forename>P</forename>. <surname>WALLENSTEEN</surname>, <forename>M</forename>. <surname>ERIKSSON</surname>, <forename>M</forename>. <surname>SOLLENBERG</surname> and <forename>H</forename>. <surname>STRAND</surname></author>
+
+						<author><forename>GONZÁLEZ-FERRER</forename>, <forename>A</forename>., <forename>E</forename>. <surname>KRAUS</surname>, <forename>P</forename>. <surname>BAIZAN</surname>, <forename>C</forename>. <surname>BEAUCHEMIN</surname>, <forename>R</forename>. <surname>BLACK</surname> and <forename>B</forename>. <surname>SCHOUMAKER</surname></author>
+
+						<author><forename>GRASSMUCK</forename>, <forename>S</forename>. and <forename>P</forename>.<middlename>R</middlename>. <surname>PESSAR</surname></author>
+
+						<author><forename>DEV</forename>/<surname>DOC</surname></author>
+
+						<author><forename>©</forename> <surname>OECD</surname></author>
+
+						<author><forename>GRIECO</forename>, <forename>E</forename>. <middlename>M</middlename>. and <forename>M</forename>. <surname>BOYD</surname></author>
+
+						<author><forename>HADI</forename>, <forename>A</forename>.</author>
+
+						<author><forename>HATTON</forename>, <forename>T</forename>. <middlename>J</middlename>, and <forename>J</forename>.<middlename>G</middlename>. <surname>WILLIAMSON</surname></author>
+
+						<author><forename>HEAD</forename>, <forename>K</forename>., <forename>T</forename>. <surname>MAYER</surname> and <forename>J</forename>. <middlename>RIES</middlename>.</author>
+
+						<author><forename>HOFMANN</forename>, <forename>E</forename>.<middlename>T</middlename>.</author>
+
+						<author><forename>HOFMANN</forename>, <forename>E</forename>.<middlename>T</middlename>. and <forename>C</forename>.<middlename>J</middlename>. <surname>BUCKLEY</surname></author>
+
+						<author><forename>HUJO</forename>, <forename>K</forename>. and <forename>N</forename>. <surname>PIPER</surname></author>
+
+						<author><forename>JOLLY</forename>, <forename>S</forename>. and <forename>H</forename>. <surname>REEVES</surname></author>
+
+						<author><forename>JUTTING</forename>, <forename>J</forename>., <forename>C</forename>. <surname>MORRISSON</surname>, <forename>J</forename>. <surname>DAYTON-JOHNSON</surname> and <forename>D</forename>. <surname>DRECHSLER</surname></author>
+
+						<author><forename>KANAIAUPUNI</forename>, <forename>S</forename>. <middlename>M</middlename>.</author>
+
+						<author><forename>KENT</forename>, <forename>S</forename>.</author>
+
+						<author><forename>KOSER</forename>, <forename>K</forename>. and <forename>J</forename>. <surname>SALT</surname></author>
+
+						<author><forename>LAM</forename>, <forename>T</forename>. and <forename>L</forename>.<middlename>A</middlename>. <surname>HOANG</surname></author>
+
+						<author><forename>LEVITT</forename>, <forename>P</forename>.</author>
+
+						<author><forename>LEWER</forename>, <forename>J</forename> <middlename>J</middlename>. and <forename>H</forename>. <surname>VAN</surname> DEN <surname>BERG</surname></author>
+
+						<author><forename>LODIGIANI</forename>, <forename>E</forename>. and <forename>S</forename>. <surname>SALOMONE</surname></author>
+
+						<author><forename>MARTIN</forename>, <forename>S</forename>.</author>
+
+						<author><forename>MAYDA</forename>, <forename>A</forename>. <middlename>M</middlename>.</author>
+
+						<author><forename>MCKENZIE</forename>, <forename>D</forename>. and <forename>H</forename>. <surname>RAPOPORT</surname></author>
+
+						<author><forename>MCKENZIE</forename>, <forename>D</forename>, and <forename>H</forename>. <surname>RAPOPORT</surname></author>
+
+						<author><forename>DEV</forename>/<surname>DOC</surname></author>
+
+						<author><forename>MORRISSON</forename>, <forename>C</forename>. and <forename>J</forename>. <surname>JUTTING</surname></author>
+
+						<author><forename>MUNSHI</forename>, <forename>K</forename>.</author>
+
+						<author><forename>NAGHSH</forename> <surname>NEJAD</surname>, <forename>M</forename>.</author>
+
+						<author><forename>NEJAD</forename>, <forename>M</forename>. <middlename>N</middlename>. and <forename>A</forename>. <surname>YOUNG</surname></author>
+
+						<author><forename>PARIS</forename>, <forename>T</forename>., <forename>A</forename>. <surname>SINGH</surname>, <forename>J</forename>. <surname>LUIS</surname> and <forename>M</forename>. <surname>HOSSAIN</surname></author>
+
+						<author><forename>PELEAH</forename>, <forename>M</forename>.</author>
+
+						<author><forename>PIRACHA</forename>, <forename>M</forename>. and <forename>F</forename>. <surname>VADEAN</surname></author>
+
+						<author><forename>PÉRIDY</forename>, <forename>N</forename>.</author>
+
+						<author><forename>RATHA</forename>, <forename>D</forename>. and <forename>W</forename>. <surname>SHAW</surname></author>
+
+						<author><forename>REES</forename>, <forename>R</forename>. and <forename>R</forename>. <surname>RIEZMAN</surname></author>
+
+						<author><forename>SANTOS-SILVA</forename>, <forename>J</forename>. <middlename>S</middlename>. and <forename>S</forename>. <surname>TENREYRO</surname></author>
+
+						<author><forename>SEN</forename>, <forename>A</forename>.</author>
+
+						<author><forename>SJAASTAD</forename>, <forename>L</forename>. <middlename>A</middlename>.</author>
+
+						<author><surname>SPILIMBERGO</surname>, <forename>A</forename>.</author>
+
+						<author><forename>STOCK</forename>, <forename>J</forename>. <middlename>H</middlename>. and <forename>M</forename>. <surname>YOGO</surname></author>
+
+						<author><surname>TEMIN</surname>, <forename>M</forename>, <forename>M</forename>.<middlename>R</middlename>. <surname>MONTGOMERY</surname> and <forename>S</forename>. <surname>ENGEBRETSEN</surname>, and <forename>K</forename>.<middlename>M</middlename>. <surname>BARKER</surname></author>
+
+						<author><forename>TIENDA</forename>, <forename>M</forename>., <forename>L</forename>. <surname>JENSEN</surname> and <forename>R</forename>.<middlename>L</middlename>. <surname>BACH</surname></author>
+
+						<author><forename>WAHBA</forename>, <forename>J</forename>. and <forename>Y</forename>. <surname>ZENOU</surname></author>
+
+						<author><forename>ZLOTNIK</forename>, <forename>H</forename>.</author>
+
+						<author><forename>DEV</forename>/<surname>DOC</surname></author>
+
+						<author><forename>©</forename> <surname>OECD</surname> OTHER <surname>TITLES IN</surname> THE <surname>SERIES</surname>/ <surname>AUTRES</surname> TITRES <surname>DANS</surname> <forename>LA</forename> <surname>SÉRIE</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

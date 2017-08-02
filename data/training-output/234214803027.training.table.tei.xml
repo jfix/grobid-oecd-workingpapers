@@ -1,0 +1,31 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_234214803027.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <figDesc>16)<lb/> 4.<lb/> Note that although price adjustment costs introduce persistence in prices, they do not generate inflation<lb/> persistence. In order to generate inflation persistence one would have to include some form of price<lb/> indexation (e.g. Smets and Wouters, 2003) or backward-looking behaviour in the formation of<lb/> expectations.<lb/> ECO/WKP(2008)56 22.<lb/> Forward-looking consumption and price setting behaviour requires a policy rule to ensure the<lb/> uniqueness and stability of the equilibrium. To keep the analysis simple, policy rates are assumed to react<lb/> to current inflation:<lb/> (17)</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. Calibration of the parameters<lb/> </head>
+<lb/> 
+            <table>Variable<lb/> Label<lb/> Value<lb/> Source<lb/> Employment adjustment costs<lb/> Euro area<lb/> θ<lb/> 63 Grenouilleau et al. (2007)<lb/> United States<lb/> 30<lb/> Price adjustment costs<lb/> Euro area<lb/> ψ<lb/> 21 Grenouilleau et al. (2007)<lb/> United States<lb/> 3.40<lb/> Consumption tax<lb/> τ<lb/> c<lb/> 0.18 OECD (2007)<lb/> Labour income tax<lb/> τ<lb/> w<lb/> 0.24 OECD (2007)<lb/> Employer social security contributions<lb/> τ<lb/> e<lb/> 0.22 OECD (2007)<lb/> Replacement rate<lb/> R<lb/> 0.25 OECD (2007)<lb/> Elasticity of substitution between types of labour<lb/> η<lb/> 6.00 Coenen et al. (2007)<lb/> Elasticity of substitution between types of goods<lb/> ε<lb/> 5.00 Christopoulou and Vermeulen (2008)<lb/> Habit persistence<lb/> h<lb/> 0.85 Grenouilleau et al. (2007)<lb/> Share of liquidity-constrained households<lb/> ω<lb/> 0.25 Coenen et al. (2007)<lb/> Disutility weight of labour<lb/> κ<lb/> 1.00 Coenen et al. (2007)<lb/> Discount factor<lb/> β<lb/> 0.99 Coenen et al. (2007)<lb/> Inverse of labour supply elasticity<lb/> φ<lb/> 2.20 Smets and Wouters (2003)<lb/> Policy response to inflation<lb/> 1.50 Galí et al. (2007)<lb/> 3.<lb/> Calibration of the model<lb/> </table>
+<lb/> 
+            <figDesc>23.<lb/> The calibration of the model parameters builds on the estimated euro area DGE models of<lb/> Coenen et al. (2007) and Grenouilleau et al. (2007) as well as mark-up estimates from Christopoulou and<lb/> Vermeulen (2008) and tax and benefit data from OECD (2007) (see</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

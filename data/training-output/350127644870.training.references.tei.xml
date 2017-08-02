@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>Sarraf, Maria, Mohammed Belhaj and Abdeljaouad Jorio</author> (<date>2003</date>) <title level="a">Kingdom of Morocco Cost assessment of EnvironmentalDegradation ,Report No 25992 -MOR,Middle East and North Africa Region</title> ,<orgName>Water ,Environment ,Socialand Rural Development Department</orgName> , WorldBank available at http : //<note>siteresources.worldbank.org/INTMOROCCO/Resources/MoroccoEnvPolicyNote30June2003ENG23May05.pdf</note></bibl>
+	<bibl><author>Wallerstein, Claire</author> (<date>1999</date>), <title level="a">Philippines tackles air pollution</title>, <title level="j">BMJ</title> <date>1999</date>;<biblScope unit="volume">318</biblScope>;<biblScope unit="volume">689</biblScope>. <title level="a">Available at</title>: http://<ptr type="web">bmj.bmjjournals.com/cgi</ptr>/content/full/<biblScope unit="page">318</biblScope>/<biblScope unit="volume">7185</biblScope>/<biblScope unit="page">689</biblScope></bibl>
+	<bibl><author>Ong, Willie T</author>., (<date>2005</date>) <title level="a">Death by Air Pollution, Manila Times</title>, <date>May 3, 2005</date>. <title level="a">Available at: http://www.manilatimes.net/national</title>/<date>2005</date>/may/03/yehey/life/<date>20050503lif2</date>.html</bibl>
+	<bibl><author>Krupnick, Alan, Richard Morgenstern, Carolyn Fischer, Kevin Rolfe, Jose Logarta, and Bing Rufo</author> (<date>2003</date>), <title level="a">AirPollution Control Policy Options for Metro Manila ,RFF Discussion Paper 03 -30,Resources for the Future</title>, <pubPlace>Washington, DC</pubPlace>, availableat http : //<ptr type="web">www.rff.org/Documents/RFF-DP-03-30.pdf</ptr></bibl>
+	<bibl><author>Chew, Jonathan</author> (<date>2005</date>) <title level="a">Air Monitor a Key Tool in Decision Making</title>, <publisher>Sunday Star</publisher>, <date>August 14, 2005</date>.</bibl>
+	<bibl><author>Kennedy, Scott</author> (<date>2005</date>) <title level="a">Smoke</title>, <title level="a">But No Fire: A Review of Air Quality Management in Malaysia</title>, presented at<date>August 18 -19</date><title level="m">Policy Forum on UEM in Southeast Asia</title> ,<pubPlace>Bangkok ,Thailand .Available at</pubPlace> :http ://<note type="report">www.sea-uema.ait.ac.th/snp/forum1/Air_Malaysia_kennedy.pdfU. S.</note><orgName>DepartmentofEnergy , Energy InformationAdministration</orgName> ( <date>2004</date> ) <title level="a">Indonesia:Environmental Issues</title>. Available at: http: // <ptr type="web">www.eia.doe.gov/emeu/cabs/indoe.html</ptr></bibl>
+	<bibl><title level="j">Fuel Testing Facility Project Final Report</title> (<date>August 31, 2005</date><title level="m">) Center for Consumer Education, Research Teaching,Training and Testing ( CONCERT)and California Air Resources Board</title> .</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

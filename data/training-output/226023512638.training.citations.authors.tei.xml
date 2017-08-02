@@ -1,0 +1,90 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Ahmad</surname>, <forename>N</forename>. and <forename>A</forename>. <surname>Wyckoff</surname></author>
+
+						<author><surname>Andriamananjara</surname>, <forename>S</forename>., <forename>H</forename>. <surname>Arce</surname> and <forename>M</forename>. <middlename>J</middlename>. <surname>Ferrantino</surname></author>
+
+						<author><surname>Bensidoun</surname>, <forename>I</forename>. and <forename>D</forename>. <surname>Ünal-Kesenci</surname></author>
+
+						<author><surname>Feenstra</surname>, <forename>R</forename>.<middlename>C</middlename>., <forename>R</forename>.<middlename>E</middlename>. <surname>Lipsey</surname>, <forename>H</forename>. <surname>Deng</surname>, <forename>A</forename>. <middlename>C</middlename>. <surname>Ma</surname>, and <forename>H</forename>. <surname>Mo</surname></author>
+
+						<author><surname>Ferrantino</surname>, <forename>M</forename>. <middlename>J</middlename>. and <forename>Z</forename>. <surname>Wang</surname></author>
+
+						<author><surname>Fung</surname>, <forename>K</forename>. <middlename>C</middlename>. and <forename>L</forename>. <middlename>J</middlename>. <surname>Lau</surname></author>
+
+						<author><surname>Fung</surname>, <forename>K</forename>. <middlename>C</middlename>. and <forename>L</forename>. <middlename>J</middlename>. <surname>Lau</surname></author>
+
+						<author><surname>Fung</surname>, <forename>K</forename>. <middlename>C</middlename>. and <forename>L</forename>. <middlename>J</middlename>. <surname>Lau</surname></author>
+
+						<author><surname>Geyer-Schaefer</surname>, <forename>K</forename>. <surname>STD</surname>/<surname>NAES</surname>/<surname>TASS</surname>/<surname>ITS</surname></author>
+
+						<author><surname>He</surname>, <forename>X</forename>.</author>
+
+						<author><surname>Isard</surname>, <forename>W</forename>., <forename>I</forename>.<middlename>J</middlename>.<surname>Azis</surname>, <forename>M</forename>.<middlename>P</middlename>.<surname>Drennan</surname>, <forename>R</forename>.<middlename>E</middlename>.<surname>Miller</surname>, <forename>S</forename>.<surname>Saltzman</surname> and <forename>E</forename>.<surname>Thorbecke</surname></author>
+
+						<author><forename>DSTI</forename>/<surname>DOC</surname></author>
+
+						<author><surname>Jin</surname>, <forename>H</forename>. <surname>STD</surname>/<surname>NAES</surname>/<surname>TASS</surname>/<surname>ITS</surname></author>
+
+						<author><surname>Kimura</surname>, <forename>F</forename>. and <surname>Lee</surname>, <forename>H</forename>.<middlename>H</middlename>.</author>
+
+						<author><surname>Kuroko</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Kusters</surname>, <forename>A</forename>. and <forename>J</forename>. <surname>Verbruggen</surname></author>
+
+						<author><surname>Legoff</surname>, <forename>G</forename>. <surname>STD</surname>/<surname>NAES</surname>/<surname>TASS</surname>/<surname>ITS</surname></author>
+
+						<author><surname>Legoff</surname>, <forename>G</forename>. <surname>STD</surname>/<surname>NAES</surname>/<surname>TASS</surname>/<surname>ITS</surname></author>
+
+						<author><surname>Linden</surname>, <forename>J</forename>.<middlename>A</middlename>. <surname>van der</surname> and <forename>J</forename>. <surname>Oosterhaven</surname></author>
+
+						<author><surname>Lindner</surname>, <forename>A</forename>., <forename>B</forename>. <surname>Cave</surname>, <forename>L</forename>. <surname>Deloumeaux</surname> and <forename>J</forename>. <surname>Magdeleine</surname></author>
+
+						<author><surname>Lindner</surname>, <forename>A</forename>. <surname>STD</surname>/<surname>CSTAT</surname>/<surname>RD</surname></author>
+
+						<author><surname>Mellens</surname>, <forename>M</forename>.<middlename>C</middlename>., <forename>H</forename>.<middlename>G</middlename>.<middlename>A</middlename>. <surname>Noordman</surname> and <forename>J</forename>.<middlename>P</middlename>.<surname>Verbruggen</surname></author>
+
+						<author><surname>Noda</surname>, <forename>Y</forename>.</author>
+
+						<author><surname>Noda</surname>, <forename>Y</forename>.</author>
+
+						<author><surname>Ou-Yang</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Roos</surname>, <forename>J</forename>. <surname>STD</surname>/<surname>NAES</surname>/<surname>TASS</surname>/<surname>ITS</surname></author>
+
+						<author><surname>Roos</surname>, <forename>J</forename>. <surname>STD</surname>/<surname>NAES</surname>/<surname>TASS</surname>/<surname>ITS</surname></author>
+
+						<author><surname>Takeda</surname>, <forename>H</forename>.</author>
+
+						<author><forename>ST/ESA/</forename><surname>STAT</surname>/<surname>SER</surname></author>
+
+						<author><forename>ST/ESA/</forename><surname>STAT</surname>/<surname>SER</surname></author>
+
+						<author><surname>Wixted</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Wixted</surname>, <forename>B</forename>., <forename>N</forename>. <surname>Yamano</surname> and <forename>C</forename>. <surname>Webb</surname></author>
+
+						<author><surname>Yamano</surname>, <forename>N</forename>., and <forename>N</forename>. <surname>Ahmad</surname></author>
+
+						<author><surname>Yeats</surname>, <forename>A</forename>. <middlename>J</middlename>.</author>
+
+						<author><forename>DSTI</forename>/<surname>DOC</surname></author>
+
+						<author><surname>Agriculture</surname>, <forename>Hunting</forename> and</author>
+
+						<author>01</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

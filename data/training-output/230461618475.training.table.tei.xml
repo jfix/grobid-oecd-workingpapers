@@ -1,0 +1,187 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_230461618475.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <figDesc>January 1995, ―The Recommendation for the IP Next Generation Protocol‖ was published. 19 The<lb/> document specified the key features of IPng, including larger addresses, enhanced routing capabilities,<lb/> authentication and encryption to strengthen security, quality of service functions, and more. It also gave the<lb/> IPng protocol a new name, IPv6. 20 The suite of IPv6 protocols were finalised by the IETF in 1998. 21</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>12/<lb/> 1995<lb/> 12/<lb/> 1996<lb/> 12/<lb/> 1997<lb/> 12/<lb/> 1998<lb/> 12/<lb/> 1999<lb/> 12/<lb/> 2000<lb/> 12/<lb/> 2001<lb/> 12/<lb/> 2002<lb/> 12/<lb/> 2003<lb/> 12/<lb/> 2004<lb/> 12/<lb/> 2005<lb/> 12/<lb/> 2006<lb/> 12/<lb/> 2007<lb/> 12/<lb/> 2008<lb/> 12/<lb/> 2009<lb/> 12/<lb/> 2010<lb/> Number<lb/> of<lb/> unallocated<lb/> /8s<lb/> in<lb/> the<lb/> IANA<lb/> pool<lb/> Today<lb/> Consumption<lb/> acceleration<lb/> since early 2005<lb/> Source: Based on Telecommunications Bureau, Ministry of<lb/> Internal Affairs and Communication, December 2007, Japan.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Distribution of IPv6 Allocations by Number of Allocations<lb/> (data on 26/03/2008)<lb/> Distribution of IPv6 Allocations by Size<lb/> (data on 26/03/2008)<lb/> Distribution of IPv6 allocations by number of allocations<lb/> AFRINIC<lb/> 1,8%<lb/> APNIC<lb/> 27,0%<lb/> ARIN<lb/> 18,3%<lb/> LACNIC<lb/> 4,5%<lb/> RIPE NCC<lb/> 48,4%<lb/> Distribution of IPv6 allocations by size<lb/> RIPE NCC<lb/> 57,1%<lb/> APNIC<lb/> 42,0%<lb/> AFRINIC<lb/> 0,1%<lb/> ARIN<lb/> 0,6%<lb/> LACNIC<lb/> 0,2%<lb/> Source: http://www.ripe.net/rs/ipv6/stats/.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Top </head>
+ 
+            <label>15 </label>
+ 
+            <head>Countries in Terms of IPv6 Allocations<lb/> Allocated Versus Routed<lb/> </head>
+<lb/> 
+            <table>Source: OECD, 2008 (data on 26/03/2008).<lb/> Source: Have We Reached 1000 Prefixes Yet? A snapshot of the global<lb/> IPv6 routing table. 35</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <table>RIR policies for IPv4 and IPv6 address allocations and assignments<lb/> IANA<lb/> ARIN<lb/> RIPE NCC<lb/> APNIC<lb/> LACNIC<lb/> AFRINIC<lb/> URLs<lb/> www.iana.net www.arin.net www.ripe.net www.apnic.net www.lacnic.net www.afrinic.net<lb/> Source: RIR websites and Number Resource Organisation website.<lb/> DSTI/ICCP(2007)20/FINAL</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>2</label>
+
+            <head>. A sample of current policy proposals that pertain to the distribution of the remaining IPv4<lb/> address blocks<lb/> DISTRIBUTION OF THE REMAINING IPv4 ADDRESS BLOCKS<lb/> </head>
+<lb/> 
+            <table>PROPOSAL<lb/> DESCRIPTION<lb/> ARGUMENTS FOR PROPOSAL<lb/> ARGUMENTS AGAINST<lb/> PROPOSAL<lb/> Allocation<lb/> of<lb/> remaining<lb/> unallocated<lb/> pool of<lb/> IPv4<lb/> 50<lb/> Advocates an equal distribution of<lb/> the remaining /8s to each RIR,<lb/> once the pool reaches the<lb/> threshold of 5 /8s.<lb/> The proposal takes the position that<lb/> each RIR community should then<lb/> be able define its regional policy on<lb/> how to distribute this final pool of<lb/> addresses.<lb/> This &quot; global proposal &quot; was<lb/> discussed at the LACNIC X<lb/> meeting in May 2007, in the APNIC<lb/> 24 meeting in New Delhi in<lb/> September, and in ARIN and RIPE<lb/> meetings in October 2007.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>. A sample of current policy proposals that pertain to increasing the IPv4 address space<lb/> available for re-use<lb/> INCREASING THE IPv4 ADDRESS SPACE AVAILABLE FOR RE-USE<lb/> </head>
+<lb/> 
+            <table>PROPOSAL<lb/> DESCRIPTION<lb/> ARGUMENTS FOR<lb/> PROPOSAL<lb/> ARGUMENTS AGAINST PROPOSAL<lb/> RECYCLING<lb/> RESERVED IPV4<lb/> BLOCKS</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>&quot;<lb/> on 31 October 2007, for organisations and individuals in the<lb/> ARIN service region, who hold legacy Internet number<lb/> resources not covered by any other Registration Services<lb/> Agreement with ARIN. 54<lb/> Over the past five<lb/> years, attempts to<lb/> recycle<lb/> legacy<lb/> address space have<lb/> been made, with<lb/> some success.<lb/> Relatively few efforts<lb/> have been made to<lb/> reach out to legacy<lb/> holders.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>. Policy proposals to enable IPv4 address transfers<lb/> </head>
+<lb/> 
+            <table>ARGUMENTS USED FOR PROPOSAL<lb/> ARGUMENTS USED AGAINST PROPOSAL<lb/> Ongoing demand: The ongoing demand for IPv4 address space, beyond the<lb/> time of unallocated address availability, may lead to a period of movement of<lb/> IPv4 address blocks between address holders.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>5</label>
+
+            <head>. Several benefit/application categories<lb/> </head>
+<lb/> 
+            <table>Impact Metric<lb/> Application/<lb/> Market<lb/> General Description: Examples<lb/> Cost reductions resulting<lb/> from increased efficiency<lb/> NAT removal<lb/> • According to RTI International (2005), enterprise and application<lb/> vendors &quot; spending on NAT workarounds accounts for up to 30% of IT-<lb/>related expenditures.<lb/> Value of remote access<lb/> to existing<lb/> products/services<lb/> Increased life<lb/> expectancy of<lb/> products<lb/> • Automobile<lb/> 64 and appliance owners<lb/> 65 could increase the functionality<lb/> and life expectancy of their products through the use of remote<lb/> monitoring and support services.<lb/> Service costs<lb/> • Automotive and appliance owners could decrease service costs<lb/> through the use of remote monitoring and support services.<lb/> Innovation in<lb/> communications and<lb/> online products/services<lb/> New mobile data<lb/> services<lb/> • Wireless companies could sell new features through expanded<lb/> network capabilities.<lb/> 66<lb/> • Wireless companies need IPv6 to increase address capacity for peer-<lb/>to-peer (P2P) applications.<lb/> Online gaming<lb/> • Gaming and game console makers could see expanded functionality<lb/> and thus opportunities for innovative new products.<lb/> Source: OECD (2007), adapted from IPv6 Economic Impact Assessment, RTI International for National Institute of Standards &amp;<lb/> Technology, October 2005.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>R &amp; D<lb/> Transition for internal networks<lb/> Capital expenditure<lb/> Transition for provisioning services<lb/> Transition for internal networks<lb/> Lost productivity during transition<lb/> </figDesc>
+<lb/> 
+            <table>Transition for internal networks<lb/> Lost productivity during transition<lb/> Cost categories<lb/> (Inputs) (Benefits)<lb/> Infrastructure vendors<lb/> Application vendors<lb/> Internet Service<lb/> Providers<lb/> Users<lb/> Supply Chain<lb/> Reduced R &amp; D costs<lb/> Reduced operational expenditures<lb/> Reduced provisioning costs<lb/> Reduced internal IT costs<lb/> Reduced internal IT costs<lb/> New functionality<lb/> Benefits categories resulting from more complex architectures. Another implication of ―always on‖ and NAT is that the<lb/> handset has to send regular ‗keep alive&apos; messages in order to keep its IPv4 address, which drains battery<lb/> capacity.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>2006<lb/> of a /20 to Telecom Italia represented 268 435 456 (2 28 ) customers, under the assumption of each customer<lb/> receiving a /48 and each customer having up to 2 16 (65 536) local area networks.</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>6</label>
+
+            <head>. Sample of recent very large IPv6 allocations<lb/> </head>
+<lb/> 
+            <table>PREFIX<lb/> COMPANY<lb/> DATE<lb/> 2404:0e0::/28<lb/> MCI Asia Ptr, AP<lb/> (2006/05/10)<lb/> 2404:180::/28<lb/> Samsung Networks, KR<lb/> (2006/08/28)<lb/> 2610:080::/29<lb/> RCN Corporation, US<lb/> (2006/06/02)<lb/> 2a01:110::/31<lb/> Microsoft, GB<lb/> (2006/06/01)<lb/> 2a01:2000::/20<lb/> Telecom Italia, IT<lb/> (2006/05/16)<lb/> 2402::/22<lb/> Korean Education Network, KR<lb/> (2006/10/20)<lb/> 2600::/29<lb/> Sprint, US<lb/> (2006/12/21)<lb/> 2600:800::/27<lb/> MCI / Verizon Business, US<lb/> (2007/01/08)<lb/> 2401:8000::/26<lb/> NCICNET, TW<lb/> (2007/01/23)<lb/> 2a01:2e0::/28<lb/> PLUSGSM, PL<lb/> (2007/03/19)<lb/> 2401:6000::/20<lb/> Defence-Dcc-Mgmtconfig<lb/> (2007/08/10)<lb/> 2a00:2000::/22<lb/> British Telecom, GB<lb/> (2007/08/29)<lb/> Source: RIR IP Whois databases, based on RIPE NCC presentation.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>9</label>
+
+            <head>. Comparison of different scenarios to handle the exhaustion of IPv4<lb/> </head>
+<lb/> 
+            <table>USING LESS IPV4<lb/> ADDRESSES &amp; MORE NAT<lb/> TRADING IPV4<lb/> ADDRESSES<lb/> TRANSITIONING TO IPV6<lb/> Initial impact on<lb/> network<lb/> configurations<lb/> • Would require additional<lb/> devices and some equipment<lb/> • Configurations must be<lb/> reviewed<lb/> • Existing equipment can<lb/> continue to be used initially<lb/> •<lb/> Unclear<lb/> whether<lb/> configurations will need to be<lb/> reviewed<lb/> • Requires additional devices<lb/> and some equipment would<lb/> need to be updated<lb/> • Network configurations must be<lb/> changed entirely<lb/> Impact on<lb/> users<lb/> •<lb/> Difficult<lb/> for<lb/> users<lb/> to<lb/> communicate directly (e.g. peer-<lb/>to-peer applications)<lb/> •<lb/> Probable<lb/> interferences<lb/> because people may be using<lb/> the same private IPv4 address<lb/> • Need to ensure that<lb/> registries have up-to-date<lb/> information on usage of IPv4<lb/> blocks<lb/> •<lb/> Some<lb/> equipment<lb/> and<lb/> applications will have to be<lb/> updated or modified<lb/> • No limitations on use<lb/> Impact on<lb/> operations<lb/> • While there is significant<lb/> operational know-how, it remains<lb/> unclear whether this option will<lb/> work in large networks<lb/> • With mobile IPv4 addresses,<lb/> the difficulty of managing<lb/> addresses would continue to<lb/> increase<lb/> • Would require larger and<lb/> more expensive routers (in<lb/> some cases, requests for<lb/> bigger routers cannot be<lb/> supported)<lb/> • Current technicians and<lb/> operational<lb/> know-how<lb/> are<lb/> insufficient<lb/> • New solutions will be needed to<lb/> enable communications between<lb/> IPv4 and IPv6<lb/> Costs<lb/> • Initial costs will be relatively<lb/> small (however, if there is a<lb/> significant increase in users,<lb/> large investments may be<lb/> required)<lb/> • Operational costs will increase<lb/> (the magnitude of which is<lb/> unclear)<lb/> • Low initial costs<lb/> • Potentially very significant<lb/> operational costs<lb/> • Significant transition costs to<lb/> be able to transfer IPv4<lb/> addresses<lb/> • Initial costs will be significant<lb/> • Operational costs will increase<lb/> in the short term because both<lb/> IPv4 and IPv6 operations will be<lb/> required<lb/> Sustainability<lb/> • NAT is already in very wide<lb/> use, and 170 million new IP<lb/> addresses are still needed every<lb/> year.<lb/> • Limited because some nodes,<lb/> such as servers, require unique<lb/> addresses.<lb/> •<lb/> This<lb/> option<lb/> does<lb/> not<lb/> accommodate demand for direct<lb/> end-to-end communications.<lb/> • Widely considered to be a<lb/> short-term solution<lb/> • Short-term measure (limited<lb/> supply)<lb/> • Legacy holders need to be<lb/> part of a market for its viability<lb/> • Signifies major change in<lb/> the address management<lb/> function<lb/> • Long-term solution</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>10</label>
+
+            <head>. Triple play effect on the use of IP addresses<lb/> </head>
+<lb/> 
+            <table>2005 high speed data<lb/> 2006+ Triple Play<lb/> Cable Modem<lb/> 1 (private)<lb/> 1<lb/> Home Computer / Router<lb/> 1<lb/> 1<lb/> Voice adaptor (embedded Multimedia Terminal Adapter)<lb/> 0<lb/> 1-2<lb/> Set Top Box (STB) 0 2<lb/> 0<lb/> 2<lb/> Total number of IP addresses (assume 2.5 STB per household)<lb/> 1-2<lb/> 8-9<lb/> Source: Comcast – Nanog37: Managing 100+ million IP addresses. 105</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>ACRONYMS / GLOSSARY<lb/> 3G<lb/> Third generation mobile communications system<lb/> 3GPP<lb/> 3rd Generation Partnership Project<lb/> AfriNIC<lb/> African Region Network Information Centre<lb/> Aggregation<lb/> Aggregation refers to the distribution of public Internet addresses in a hierarchical<lb/> manner, to permit the grouping of routing information and limit the number of<lb/> routing entries advertised in the Internet. Aggregation is one of the main goals of<lb/> Internet administration.<lb/> Allocation<lb/> Allocation refers to the range of addresses made available to a Local Internet<lb/> Registry (LIR) that in turn is used by the LIR to make address space assignments to<lb/> End Users or to the LIR&apos;s own network.<lb/> APNIC<lb/> Asia Pacific Network Information Centre<lb/> ARIN<lb/> American Registry for Internet Numbers<lb/> Assignment<lb/> An assignment refers to address space that a Local Internet Registry (LIR)<lb/> distributes to an End User / organisation that will use the addresses to operate their<lb/> specific network(s)<lb/> AS<lb/> Autonomous System -a group of IP networks operated by one or more network<lb/> operators that has a single and clearly defined external routing policy<lb/> ASIC<lb/> Application Specific Integrated Circuits<lb/> ASO<lb/> ICANN&apos;s Address Supporting Organisation<lb/> BGP<lb/> Border Gateway Protocol<lb/> ccTLD<lb/> Country Code Top-Level Domain<lb/> CERNET<lb/> China Education and Research Network<lb/> CIDR<lb/> Classless Inter-Domain Routing<lb/> CNNIC<lb/> China Internet Network Information Center<lb/> DNS<lb/> Domain Name System<lb/> DoD<lb/> US Department of Defense<lb/> DSL<lb/> Digital Subscriber Line technologies, including ADSL<lb/> Dual Stack<lb/> Concurrent service for IPv4 and IPv6 protocol stacks<lb/> End User<lb/> An entity receiving assignments of IP addresses exclusively for use in operational<lb/> networks, not for reassignment to other organisations<lb/> GAC<lb/> Governmental Advisory Committee to ICANN<lb/> GENI<lb/> Global Environment for Networking Innovations<lb/> GPS<lb/> Global Positioning System<lb/> gTLDs<lb/> Generic Top-Level Domain<lb/> IAB<lb/> Internet Architecture Board<lb/> IANA<lb/> Internet Assigned Numbers Authority<lb/> ICANN<lb/> Internet Corporation for Assigned Names and Numbers<lb/> IETF<lb/> Internet Engineering Task Force<lb/> IMS<lb/> IP Multimedia Subsystem<lb/> Interoperability<lb/> The ability of two devices, usually from different vendors, to work together IP<lb/> Internet Protocol<lb/> IP Whois<lb/> Identifies the owner and the IP address of the domain<lb/> IPng<lb/> Internet Protocol – Next Generation<lb/> IPTV<lb/> IP television<lb/> IPv4<lb/> Internet Protocol version 4<lb/> IPv6<lb/> Internet Protocol version 6<lb/> IPv6 capable node Node that has an IPv6 protocol stack. In order for the stack to be usable the node<lb/> must be assigned one or more IPv6 addresses<lb/> IPv6 enabled node A node which has an IPv6 protocol stack and is assigned one or more IPv6<lb/> addresses. Both IPv6-only and IPv6/IPv4 nodes are IPv6 enabled<lb/> ISP<lb/> Internet Service Provider<lb/> ITU<lb/> International Telecommunications Union<lb/> IXPs<lb/> Internet eXchange Points<lb/> JPNIC<lb/> Japan Network Information Center<lb/> LACNIC<lb/> Latin America and Caribbean Network Information Centre<lb/> LAN<lb/> Local Area Network<lb/> LIRs<lb/> Local Internet Registry<lb/> MIPv6<lb/> Mobile IPv6<lb/> Multihomed<lb/> A network that has its own public IP address range, an AS number and a<lb/> connection to two (or more) separate ISPs<lb/> NAT<lb/> Network Address Translation<lb/> NIR<lb/> National Internet registry<lb/> NIST<lb/> US National Institute of Standards and Technology<lb/> Node<lb/> Device that is connected as part of a computer network<lb/> NRO<lb/> Number Resource Organisation<lb/> OMB<lb/> United States Office of Management and Budget<lb/> Peer-to-peer<lb/> Communication model in which client devices may communicate directly,<lb/> initiating the data exchange in either direction, without a server system<lb/> PI<lb/> Provider Independent<lb/> Prefix<lb/> Hierarchical, aggregated block of addresses for a network<lb/> RFC<lb/> Request for Comments<lb/> RFID<lb/> Radio Frequency Identification<lb/> RIPE NCC<lb/> Réseaux IP Européens-Network Coordination Centre<lb/> RIR<lb/> Regional Internet Registry<lb/> Routability<lb/> A block of addresses being identified as a separate entity in the routing tables and<lb/> is therefore reachable in the Internet<lb/> RSA<lb/> Registration Services Agreement<lb/> SIP<lb/> Session Initiation Protocol<lb/> TLD<lb/> Top-Level Domain<lb/> UMTS<lb/> The third generation mobile communications system (see 3G)<lb/> VoIP<lb/> Voice over IP. Using an IP network to carry voice<lb/> WAN<lb/> Wide Area Network</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc> Providing commercial service, by converting the backbone equipment of the commercial<lb/> telecommunications network to support IPv6 by 2010 and of the commercial<lb/> telecommunications&apos; access network to equipment that supports IPv6 by 2013.<lb/>  Installing IPv6 equipment in every newly built telecommunications network.<lb/>  Converting the research network to IPv6 by 2008, and using the network as a test-bed for<lb/> telecommunication equipment companies and Internet service providers.<lb/>  Building a co-operative relationship between the public and private sectors for the development<lb/> and spread of IPv6-based application services; and<lb/>  Reviewing related rules and regulations, including the rules for IP address and domain name<lb/> management, with a view to fostering the deployment of IPv6.<lb/> As of September 2007, Korea&apos;s Ministry of Information and Communication (MIC) will begin<lb/> providing general users with various IPv6-based services that utilise recently spotlighted Internet<lb/> technologies such as Wideband Code Division Multiple Access (WCDMA), Voice over IP (VoIP), and<lb/> Ubiquitous Sensor Networks (USN).<lb/> China<lb/> The 2008 Olympics, to be held in Beijing, are planned to serve as a wide-scale IPv6 demonstration<lb/> involving portable devices, intelligent transport systems (ITS), security, and 3G IPv6 mobile services.</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>12</label>
+
+            <head>. RIR policies for IPv4 and IPv6 address allocations and assignments<lb/> </head>
+<lb/> 
+            <table>Policies for IPv4 address allocation<lb/> and assignment<lb/> IPv4<lb/> Policies for IPv6 address<lb/> allocation and assignment<lb/> IPv6<lb/> IANA<lb/> www.arin.net/reference/ip_blocks.html<lb/> /8<lb/> (historical<lb/> minimum /20)<lb/> www.iana.org/ipaddress/ipv6-<lb/>allocation-policy-26jun02<lb/> /12 (historical<lb/> minimum /23)<lb/> ARIN<lb/> ARIN&apos;s Number Resource Policy<lb/> Manual (NRPM).<lb/> www.arin.net/policy<lb/> /20<lb/> Ibid.<lb/> /32<lb/> RIPE<lb/> NCC<lb/> www.ripe.net/docs/ipv4-policies.html<lb/> /21<lb/> Ibid.<lb/> /32<lb/> APNIC<lb/> www.apnic.net/docs/policy/add-<lb/>manage-policy.html<lb/> /21<lb/> Ibid.<lb/> /32<lb/> LACNIC<lb/> http://lacnic.net/en/politicas/2002-11-<lb/>asignacionip.html<lb/> /21<lb/> http://lacnic.net/en/politicas/ip<lb/> v6.html<lb/> /32<lb/> AFRINIC<lb/> www.afrinic.org/docs/policies/afpol-<lb/>v4200407-000.htm<lb/> /22<lb/> www.afrinic.org/docs/policies/<lb/> afpol-v6200407-000.htm#5<lb/> /32<lb/> Source: RIR websites and Number Resource Organisation website.<lb/> DSTI/ICCP(2007)20/FINAL</table>
+        </figure>
+
+
+
+    </text>
+</tei>
+

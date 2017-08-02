@@ -1,0 +1,65 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_234743834644.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <table>, Lakshmanan and Anderson<lb/> 2007). A more recent example of such developmental effects of major road investments is discernable in<lb/> Sri Lanka (Gunasekara, Anderson and Lakshmanan 2007 forthcoming). The broader literature on<lb/> transport and economic development suggests that transport infrastructure facilitates the transformation of low-income economies from subsistence to commercial agriculture, the development of basic, transport-<lb/>intensive industries and the growth of cites (Haynes and Button, 2001).<lb/> It would be a mistake to think that developmental impacts occur only at an early stage of<lb/> economic development. Even in a mature economy, transportation infrastructure improvements might<lb/> promote structural changes such as increased decentralization or agglomeration of economic activity;<lb/> changes in the way business enterprises conduct operations such as inventory management, logistics and<lb/> other practices; enhanced opportunities for face-to-face interaction; and a range of new recreational<lb/> opportunities (Anderson and Lakshmanan, 2007.) These impacts, which affect the long-term evolution of<lb/> the economy, are difficult to measure and even more difficult to predict. Nevertheless they are important,<lb/> and a better understanding of developmental effects should lead to better decision-making on<lb/> transportation infrastructure.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <label>substitution </label>
+ 
+            <head>(CES) functions of trips by mode. Thus, freight transport demand by the j th firm,<lb/> , is<lb/> TF<lb/> j<lb/> Q modeled as a CES aggregate of the trips,<lb/> , made by transport mode m on network link l to ship j&apos;s<lb/> product to intermediate and final consumers. Similarly, we model the aggregate household demand for<lb/> transportation to consume the i th </head>
+ 
+            <figDesc>commodity,<lb/> , as a CES function of the retail trips,<lb/> , across all<lb/> combinations of transit modes and links, and the aggregate demand for transportation to supply labor,<lb/> Q TH , as a CES function of the various mode-and link-specific commuting trips,<lb/> . We use the same<lb/> device on the supply side, specifying the trips undertaken by each transport producer as a constant<lb/> elasticity of transformation (CET) expansion of that firm&apos;s output. Thus, firm m&apos;s trips<lb/> ,<lb/> and<lb/> are modeled as a CET function of the aggregate supply of transportation services by mode, Y m . Parry<lb/> and Bento (2001) note that the ability to substitute between transport modes mitigates the cost of reducing<lb/> congestion. Our assumption that households and firms substitute among both transport modes and<lb/> network segments means that the elasticities in the aforementioned CES and CET functions will likely be<lb/> a key influence on the marginal benefit of investments to increase the capacity of congested links.<lb/> </figDesc>
+<lb/> 
+            <table>, ,</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>(</head>
+
+            <label>6</label>
+
+            <head>)<lb/> 22<lb/> As with retail trips, we model Q TH as a CES composite of the commuting trips (<lb/> ) by each network link<lb/> and transit mode, with elasticity σ TH and mode-link coefficients<lb/> ,<lb/> TH<lb/> l m<lb/> q<lb/> ,<lb/> TH<lb/> l m<lb/> γ :<lb/> </head>
+<lb/> 
+            <table>( )<lb/> /(<lb/> 1)<lb/> (<lb/> 1 )/<lb/> ,<lb/> ,<lb/> TH<lb/> TH<lb/> TH<lb/> TH<lb/> TH<lb/> TH<lb/> TH<lb/> l m<lb/> l m<lb/> l<lb/> m</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>substitution elasticity NT<lb/> j<lb/> σ and distribution parameters δ NT . Similar to the households, the supply of<lb/> commodities creates a derived demand for transportation services. We assume that the delivery of TF<lb/> i<lb/> χ<lb/> units of commodity i to intermediate and final users requires a unit of freight transportation services (<lb/> ). As a result, the supply of non-transport commodities are a Leontief composite of produced<lb/> commodities and transportation:</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>(46)<lb/> 7.2.<lb/> Market Clearance Conditions<lb/> Substituting eqs. (35), (36) and (46) into (16) and (37), (38) and (46) into (17) yields the supply-<lb/>demand balances for labor and capital</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>,<lb/> TC<lb/> TC<lb/> TC<lb/> TH<lb/> TH<lb/> TH<lb/> i<lb/> i<lb/> i<lb/> TC<lb/> TC<lb/> TC<lb/> TC<lb/> TH<lb/> TH<lb/> TH<lb/> TH<lb/> l</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>delivered non-transport goods; Y j = non-transport goods production; Y m =<lb/> transport services production; TF<lb/> j<lb/> Q = freight mobility; ,</head>
+        </figure>
+
+
+
+    </text>
+</tei>
+

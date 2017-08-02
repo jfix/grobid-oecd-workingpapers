@@ -1,0 +1,591 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5km4psnm13nx-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <table>Head of Publications Service<lb/> OECD<lb/> 2, rue André-Pascal<lb/> 75775 Paris, CEDEX 16<lb/> France<lb/> Copyright OECD 2010<lb/> EDU/WKP(2010)5</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>of comparison<lb/> 8.<lb/> More specifically, this report addresses four aspects of PISA and TIMSS:<lb/> • What findings are similar between the two surveys? Agreements between findings from the two<lb/> surveys will reinforce the underlying messages and provide some evidence of validity of the<lb/> results.<lb/> • What findings are different, or even contradictory, between the two surveys? What are possible<lb/> explanations for the differences?<lb/> 2.<lb/> TIMSS Population 2 refers to the Grade 8 cohort. TIMSS Population 1 refers to the Grade 4 cohort.<lb/> 3.<lb/> The PISA testing window was between March and August 2003 (OECD, 2005, p.46). In TIMSS, seven<lb/> Southern Hemisphere countries tested in October through December, 2002. Korea tested later in 2003. The<lb/> remaining countries tested mostly between April and June 2003 (IEA, 2003, p.18). • Which issues are investigated by only one survey? What findings from the two surveys are<lb/> complementary?<lb/> • What lessons can we learn from a cross-comparison of the two surveys? How can we improve<lb/> each survey based on the findings of this report?</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>of the report<lb/> 15.<lb/> The content of this report is organised in six chapters.<lb/> 16.<lb/> Chapter 2 compares survey methodologies used in the two surveys. The topics considered include<lb/> population definitions, sampling methods, test characteristics, scaling methods, field operations and<lb/> questionnaires administration.<lb/> 17.<lb/> Chapter 3 provides a detailed </table>
+ 
+            <figDesc>comparison of the mathematics frameworks and test specifications<lb/> used in PISA and TIMSS. An attempt is made to align the two frameworks according to both the content<lb/> domains and cognitive domains.<lb/> 18.<lb/> Chapter 4 examines the degree of similarities and differences between TIMSS and PISA<lb/> achievement results in terms of country mean scores. Various hypotheses are tested to explain the observed<lb/> differences in country performance in TIMSS and PISA. With the identification of a number of factors,<lb/> quantitative models are built to explain achievement differences.<lb/> 19.<lb/> Chapter 5 focuses on comparisons of gender differences and students&apos; attitudes towards<lb/> mathematics, as reported in TIMSS and PISA. The choice of these student level variables was based on the<lb/> availability of published results provided by the two surveys.<lb/> </figDesc>
+<lb/> 
+            <table>4.<lb/> It is difficult to obtain these figures precisely, since there are often changes of personnel or changes of<lb/> contractors for running each study.<lb/> 5<lb/> Some of the participants in TIMSS are sub-regions of a country, for example, Basque country in Spain and<lb/> two provinces of Canada. 20.<lb/> Chapter 6 summarises the findings, as well as draws attention to the implications of the findings<lb/> for PISA and TIMSS, and, in fact, for large-scale assessments more generally. CHAPTER 2 -SURVEY METHODOLOGIES<lb/> Introduction<lb/> </table>
+<lb/> 
+            <figDesc>21.<lb/> This chapter compares survey methodologies used in PISA and TIMSS. In particular, five aspects<lb/> of survey methodologies are compared: sampling, test characteristics, scaling methods, field operations and<lb/> test administration. On the whole, both PISA and TIMSS adopt similar survey methodologies typically<lb/> used for large-scale studies. Both surveys chose the methodologies to meet survey objectives while taking<lb/> account of the constraints.<lb/> 22.<lb/> As international studies, both surveys attempt to provide information on mathematics<lb/> achievement at the national level for participating countries. Since it would be impractical to test every<lb/> student in each country, both PISA and TIMSS use sampling methodology to select a representative<lb/> sample from each country. The use of samples leads to the implementation of a set of statistical procedures<lb/> appropriate for drawing inferences from samples about the population.<lb/> 23.<lb/> Both PISA and TIMSS have world experts in large-scale survey sampling methodology<lb/> providing clear directions for sampling within each country. The sampling methodologies used in both<lb/> studies are similar.<lb/> 24.<lb/> In addition, both surveys use similar methodologies for estimating student performance and the<lb/> construction of a proficiency scale. These scaling methodologies are described in more detail below. There<lb/> is also some overlap in expertise in this scaling process, as some members of the technical advisory group<lb/> for PISA have also been involved in the scaling of TIMSS and the United States National Assessment of<lb/> Educational Progress (NAEP) 6 data.<lb/> 25.<lb/> In terms of field operations, PISA and TIMSS have similar processes, with minor variations in<lb/> translation and verification procedures. As technical aspects of methodologies for international surveys<lb/> are described in detail in published reports, there is now a move towards forming standards for conducting<lb/> international, or large-scale, surveys. Consequently, it is not surprising that survey methodologies are<lb/> becoming more similar across different studies in broad terms, but there are variations at the level of<lb/> details.<lb/> 26.<lb/> The following sections compare each aspect of survey methodologies between PISA and TIMSS<lb/> in more detail.<lb/> </figDesc>
+<lb/> 
+            <table>Population definition<lb/> 27.<lb/> PISA and TIMSS have different population definitions. The target population of PISA is defined<lb/> as follows:<lb/> The desired base PISA target population in each country consisted of 15-year-old students attending<lb/> educational institutions located within the country, in grades 7 and higher. (p.46, OECD, 2005)<lb/> 6.<lb/> TIMSS uses essentially the same scaling methodology as NAEP.<lb/> EDU/WKP(2010)5 28.<lb/> Note that while PISA has an age-based population definition, there is a reference to grade so that<lb/> only students in grade 7 and above are included in the sample.<lb/> 29.<lb/> TIMSS Grade 8 population definition for the 2003 survey is the following:</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>34.<lb/> The international average age of students in TIMSS &quot; Grade 8 &quot; assessment was 14.5, with country<lb/> mean age ranging from 13.7 (Scotland) to 15.5 (Ghana) (See Exhibit 2, IEA, 2003, pp. 20-22), while the<lb/> international average age of PISA 2003 students was 15.8 7 , with country mean age ranging from 15.7 to<lb/> 15.9. Of course, since PISA samples are selected by age, there is little variation in student age across<lb/> countries.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>38.<lb/> That is, both the TIMSS sample and PISA sample for England have similar spread of age<lb/> distribution, with a range of around one year.<lb/> 39.<lb/> In contrast, for Hong Kong-China, the age distribution for the TIMSS sample has a large spread,<lb/> as shown in Figure 2.2.<lb/> 7.<lb/> Computed across all countries in PISA 2003, with each country contributing equal weight.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>46.<lb/> In some countries, there are many 15-year-olds who are in grades below the modal grade, such as<lb/> in Hong Kong-China and Portugal.<lb/> EDU/WKP(2010)5</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Box </head>
+ 
+            <label>2</label>
+
+            <head>.1 Matrix sampling test design in PISA and TIMSS<lb/> Cluster rotation design used to form test booklets for PISA 2003<lb/> </head>
+<lb/> 
+            <table>Booklet<lb/> Cluster 1<lb/> Cluster 2<lb/> Cluster 3<lb/> Cluster 4<lb/> 1<lb/> M1<lb/> M2<lb/> M4<lb/> R1<lb/> 2<lb/> M2<lb/> M3<lb/> M5<lb/> R2<lb/> 3<lb/> M3<lb/> M4<lb/> M6<lb/> PS1<lb/> 4<lb/> M4<lb/> M5<lb/> M7<lb/> PS2<lb/> 5<lb/> M5<lb/> M6<lb/> S1<lb/> M1<lb/> 6<lb/> M6<lb/> M7<lb/> S2<lb/> M2<lb/> 7<lb/> M7<lb/> S1<lb/> R1<lb/> M3<lb/> 8<lb/> S1<lb/> S2<lb/> R2<lb/> M4<lb/> 9<lb/> S2<lb/> R1<lb/> PS1<lb/> M5<lb/> 10<lb/> R1<lb/> R2<lb/> PS2<lb/> M6<lb/> 11<lb/> R2<lb/> PS1<lb/> M1<lb/> M7<lb/> 12<lb/> PS1<lb/> PS2<lb/> M2<lb/> S1<lb/> 13<lb/> PS2<lb/> M1<lb/> M3<lb/> S2<lb/> Note: M denotes a mathematics item cluster, R a reading item cluster, S a science item cluster and PS a problem solving item cluster.<lb/> To enable linking between booklets, each of these item clusters appears in four of the test booklets in each of the four possible<lb/> positions (i.e. in Cluster 1, Cluster 2, Cluster 3 or Cluster 4).<lb/> TIMSS 2003 booklet design<lb/> Student<lb/> Booklet<lb/> Part I<lb/> Part II<lb/> Block 1<lb/> Block 2<lb/> Block 3<lb/> Block 4<lb/> Block 5<lb/> Block 6<lb/> 1<lb/> M1<lb/> M2<lb/> S6<lb/> S7<lb/> M5<lb/> M7<lb/> 2<lb/> M2<lb/> M3<lb/> S5<lb/> S8<lb/> M6<lb/> M8<lb/> 3<lb/> M3<lb/> M4<lb/> S4<lb/> S9<lb/> M13<lb/> M11<lb/> 4<lb/> M4<lb/> M5<lb/> S3<lb/> S10<lb/> M14<lb/> M12<lb/> 5<lb/> M5<lb/> M6<lb/> S2<lb/> S11<lb/> M9<lb/> M13<lb/> 6<lb/> M6<lb/> M1<lb/> S1<lb/> S12<lb/> M10<lb/> M14<lb/> 7<lb/> S1<lb/> S2<lb/> M6<lb/> M7<lb/> S5<lb/> S7<lb/> 8<lb/> S2<lb/> S3<lb/> M5<lb/> M8<lb/> S6<lb/> S8<lb/> 9<lb/> S3<lb/> S4<lb/> M4<lb/> M9<lb/> S13<lb/> S11<lb/> 10<lb/> S4<lb/> S5<lb/> M3<lb/> M10<lb/> S14<lb/> S12<lb/> 11<lb/> S5<lb/> S6<lb/> M2<lb/> M11<lb/> S9<lb/> S13<lb/> 12<lb/> S6<lb/> S1<lb/> M1<lb/> M12<lb/> S10<lb/> S14<lb/> Note: M denotes mathematics and S science. To enable linking between booklets, all blocks will appear in at least two of the 12<lb/> booklets. Trend items are placed in Part I, and new items are placed in Part II, except for M5 and M6 which appear in both Part I and<lb/> Part II. Calculators are not allowed for Part I items, but they are allowed for Part II items.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>(</head>
+
+            <label>p</label>
+
+            <head>.16, OECD, 2005) 65.<lb/> TIMSS did not allow the use of calculators in 1995 and 1999. However, in 2003, for Grade 8,<lb/> calculators were allowed for some items. For Part I of the TIMSS test booklets, calculators were not<lb/> allowed. For Part II, calculators were allowed. As for PISA, &quot; TIMSS mathematics items were designed so<lb/> that they could be answered readily without the use of a calculator (p.374, IEA, 2003) &quot; .<lb/> 66</head>
+
+            <figDesc>.<lb/> The differences between PISA and TIMSS in the policy on calculator use reflect differences in<lb/> the nature of the two assessments.</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>72.<lb/> The following is a summary of similarities and differences between PISA and TIMSS Grade 8<lb/> discussed in this Chapter.<lb/> </figDesc>
+<lb/> 
+            <table>Aspects of<lb/> Survey<lb/> Specific Point<lb/> Similarities<lb/> Differences<lb/> Sampling<lb/> Population versus<lb/> sample<lb/> Both surveys are sample-based<lb/> Population<lb/> definition<lb/> PISA is age-based. TIMSS is<lb/> grade-based<lb/> Age distribution<lb/> Typically, there is a two-year<lb/> age span in each country&apos;s<lb/> sample of students in TIMSS,<lb/> and one-year age span in<lb/> PISA.<lb/> Grade distribution<lb/> Typically, there are two grades<lb/> involved in each country in the<lb/> PISA sample, and one grade in<lb/> TIMSS.<lb/> Sampling method Both surveys use a two-stage<lb/> sampling method, where schools<lb/> are<lb/> first<lb/> selected<lb/> using<lb/> probability proportional to size<lb/> method.<lb/> In TIMSS, the second stage of<lb/> sampling selects intact classes.<lb/> In PISA, the second stage of<lb/> sampling selects students at<lb/> random within each school. Aspects of<lb/> Survey<lb/> Specific Point<lb/> Similarities<lb/> Differences<lb/> Sample size<lb/> Both PISA and TIMSS require a<lb/> minimum of 150 schools to be<lb/> selected.<lb/> PISA recommends that the total<lb/> number of sampled students is at<lb/> least 5250, while TIMSS<lb/> requires a minimum of 4000<lb/> students to be selected in each<lb/> country.<lb/> Test<lb/> Characteristics<lb/> Test length<lb/> 73.<lb/> The testing time is<lb/> two hours in PISA and 90<lb/> minutes in TIMSS.<lb/> Test design<lb/> Both surveys use rotated test<lb/> booklet design. PISA uses 13<lb/> booklets. TIMSS uses 12<lb/> booklets.<lb/> Amount<lb/> of<lb/> assessment<lb/> material<lb/> Both<lb/> PISA<lb/> and<lb/> TIMSS<lb/> developed approximately 210<lb/> minutes<lb/> of<lb/> mathematics<lb/> assessment material<lb/> There are 94 total score points<lb/> in PISA, and 215 total score<lb/> points in TIMSS.<lb/> Scaling<lb/> Methodologies<lb/> Item<lb/> response<lb/> model<lb/> Both surveys use item response<lb/> modelling and plausible values<lb/> methodologies for estimating<lb/> student ability distributions<lb/> PISA uses the one-parameter<lb/> item response model. TIMSS<lb/> used the three-parameter item<lb/> response model.<lb/> Field<lb/> Operations<lb/> Translation<lb/> Both PISA and TIMSS have<lb/> translation verification process<lb/> in place.<lb/> In PISA, source documents are<lb/> prepared in both English and<lb/> French,<lb/> and<lb/> a<lb/> double<lb/> translation is carried out using<lb/> English and French source<lb/> documents<lb/> separately.<lb/> In<lb/> TIMSS, the source language is<lb/> in English, and an independent<lb/> double translation is carried<lb/> out.<lb/> Quality monitor<lb/> Both PISA and TIMSS have<lb/> similar procedures for marker<lb/> training and marker reliability<lb/> studies, national centre monitors<lb/> and school visits. Aspects of<lb/> Survey<lb/> Specific Point<lb/> Similarities<lb/> Differences<lb/> Test<lb/> administration<lb/> Calculator use<lb/> In PISA, calculators are<lb/> allowed. In TIMSS, calculators<lb/> are allowed for only Part II of<lb/> the test.<lb/> More students have access to<lb/> calculators in PISA than in<lb/> TIMSS.<lb/> EDU/WKP(2010)5 CHAPTER 3 -COMPARISON OF PISA AND TIMSS MATHEMATICS FRAMEWORKS AND<lb/> ITEM FEATURES<lb/> Approaches to the development of the mathematics assessment frameworks<lb/> 74.<lb/> PISA and TIMSS adopted different approaches to the development of the assessment<lb/> frameworks. Each survey</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Number<lb/> Whole numbers<lb/> Fractions and decimals<lb/> Integers<lb/> Ratio, proportion and percent<lb/> Algebra<lb/> Patterns<lb/> Algebraic expressions<lb/> Equations and formulas<lb/> Relationships<lb/> Measurement<lb/> Attributes and units<lb/> Tools, techniques and formula<lb/> Geometry<lb/> Lines and angles<lb/> Two-and three-dimensional shapes<lb/> Congruence and similarity<lb/> Locations and spatial relationships<lb/> Symmetry and transformations<lb/> Data<lb/> Data collection and organisation<lb/> Data representation<lb/> Data interpretation<lb/> Uncertainty and probability 80.<lb/> The TIMSS framework document includes a list of topics covered by each content domain (see<lb/> Box 3.1), and, within each topic, a set of assessment outcomes to illustrate the specific tasks that students<lb/> will typically be assessed on.<lb/> 81.<lb/> For example, Box 3.1 lists four topics for the content area, number: whole numbers, fractions and<lb/> decimals, integers, and ratio, proportion, and percent. Within the topic area of ratio, proportion, and<lb/> percent, the assessment outcomes (topic bullets) are:<lb/> • Identify and find equivalent ratios.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.1 Number and proportions of items in TIMSS by content domain<lb/> </head>
+<lb/> 
+            <table>No. of<lb/> Items in<lb/> TIMSS<lb/> 2003<lb/> tests<lb/> Proportion<lb/> of items<lb/> TIMSS<lb/> Target<lb/> proportion<lb/> of items<lb/> International<lb/> average of<lb/> % of time<lb/> taught in<lb/> schools<lb/> Number<lb/> 57<lb/> 30%<lb/> 30%<lb/> 21 %<lb/> Algebra<lb/> 47<lb/> 24%<lb/> 25%<lb/> 27%<lb/> Measurement<lb/> 31<lb/> 16%<lb/> 15%<lb/> 10%<lb/> Geometry<lb/> 31<lb/> 16%<lb/> 15%<lb/> 26%<lb/> Data<lb/> 28<lb/> 14%<lb/> 15%<lb/> 10%<lb/> Total<lb/> 194<lb/> 100%<lb/> 100%<lb/> 94%<lb/> 1<lb/> 1.<lb/> The total does not equal 100%, as 6% of the content domains reported by teachers are not covered by the five areas listed in<lb/> the table.<lb/> 83.<lb/> The last column in </table>
+ 
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.</head>
+
+            <figDesc>1 shows the international average of the percentage of time in<lb/> mathematics class devoted to each TIMSS content area during the school year, as reported by teachers 11 .<lb/> There is some discrepancy between the proportions of items in TIMSS tests and the average percentages<lb/> of time the content domains are taught across all TIMSS participating countries. The TIMSS mathematics<lb/> framework does not use content coverage as the sole criterion for determining the relative weights of the<lb/> </figDesc>
+<lb/> 
+            <table>10 .<lb/> We obtained slightly different figures depending on whether we used the item list provided by the<lb/> Australian TIMSS National Research Coordinator, or the item list in the released data set.<lb/> 11 .<lb/> Figures are obtained from Exhibit 7.4 of the TIMSS 2003 International Mathematics Report (IEA, 2003). content domains. Rather, the TIMSS framework &quot; represents a consensus among the countries participating<lb/> in TIMSS 2003 about the mathematics students at these grades should be expected to have learned. &quot; (IEA,<lb/> 2003, p.180)<lb/> TIMSS mathematics cognitive domains<lb/> </table>
+<lb/> 
+            <figDesc>84.<lb/> TIMSS mathematics cognitive domains relate to the types of cognitive skills required in doing<lb/> mathematics, generic across all mathematics content domains. To achieve a balanced test, it is desirable to<lb/> ensure that each type of skills and abilities is covered by a sufficient number of items. There are four<lb/> cognitive domains in TIMSS 2003:<lb/> • Knowing facts and procedures<lb/> • Using concepts<lb/> • Solving routine problems<lb/> • Reasoning<lb/> 85.<lb/> These four cognitive domains are listed in order</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <label>• </label>
+ 
+            <head>Know – e.g., knowing concepts such as inclusion and exclusion, generality, mathematical<lb/> relationships.<lb/> </head>
+<lb/> 
+            <table>• Classify – e.g., grouping objects, shapes, numbers according to common properties.<lb/> • Represent – e.g., presenting information using tables, diagrams, graphs; moving between<lb/> equivalent representations of mathematical relationships.<lb/> • Formulate – e.g., modelling problems or situations with equations or expressions.<lb/> EDU/WKP(2010)5 • Distinguish – e.g., identifying valid and invalid inferences from questions and answers.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.2 Proportions of items in TIMSS by cognitive domains<lb/> </head>
+<lb/> 
+            <table>Proportion of items in TIMSS tests<lb/> Target proportion of items<lb/> Knowing facts and procedures<lb/> 23%<lb/> 15%<lb/> Using concepts<lb/> 19%<lb/> 20%<lb/> Solving routine problems<lb/> 36%<lb/> 40%<lb/> Reasoning<lb/> 22%<lb/> 25%<lb/> Total<lb/> 100%<lb/> 100%<lb/> PISA mathematics assessment framework<lb/> 91.<lb/> The PISA mathematics framework begins with a formal definition of mathematical literacy for<lb/> OECD/PISA:</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>.3.</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>3</label>
+
+            <head>.3 Number and proportions of mathematics items in PISA 2003 by situation/context dimension<lb/> </head>
+<lb/> 
+            <table>Number of items<lb/> Proportion of items<lb/> Personal<lb/> 18<lb/> 21%<lb/> Educational/occupational<lb/> 20<lb/> 24%<lb/> Public<lb/> 29<lb/> 34%<lb/> Scientific<lb/> 18<lb/> 21%<lb/> Total<lb/> 85<lb/> 100%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>; NCTM,<lb/> 2000)..<lb/> 117.<lb/> Specific mathematical concepts and activities that are important in this area are collecting data,<lb/> data analysis and display/visualisation, probability and inference.<lb/> 118.<lb/> Table 3.4 shows the number and proportion of PISA items classified according to the<lb/> overarching ideas.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>3</label>
+
+            <head>.4 Number and proportions of mathematics items in PISA 2003 by overarching ideas<lb/> Number </head>
+ 
+            <table>of items<lb/> Proportion of items<lb/> Quantity<lb/> 23<lb/> 27.0%<lb/> Space and shape<lb/> 20<lb/> 23.5%<lb/> Change and relationships<lb/> 22<lb/> 26.0%<lb/> Uncertainty<lb/> 20<lb/> 23.5%<lb/> Total<lb/> 85<lb/> 100.0%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.5 Number and proportions of mathematics items in PISA 2003 by competency clusters<lb/> </head>
+<lb/> 
+            <table>Number of items<lb/> Proportion of items<lb/> Reproduction<lb/> 26<lb/> 31%<lb/> Connection<lb/> 40<lb/> 47%<lb/> Reflection<lb/> 19<lb/> 22%<lb/> Total<lb/> 85<lb/> 100%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.6 Tally of PISA items classified by PISA overarching ideas and TIMSS content domains<lb/> </head>
+<lb/> 
+            <table>PISA overarching ideas<lb/> Quantity<lb/> Space and<lb/> shape<lb/> Change and<lb/> relationships<lb/> Uncertainty<lb/> Total<lb/> TIMSS<lb/> content<lb/> domains<lb/> Number<lb/> 23<lb/> 1<lb/> 3<lb/> 5<lb/> 32<lb/> Algebra<lb/> 7<lb/> 7<lb/> Measurement<lb/> 6<lb/> 2<lb/> 8<lb/> Geometry<lb/> 12<lb/> 12<lb/> Data<lb/> 1<lb/> 10<lb/> 15<lb/> 26<lb/> Total<lb/> 23<lb/> 20<lb/> 22<lb/> 20<lb/> 85</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.6 shows that most of the<lb/> PISA space and shape items are classified as geometry or measurement under TIMSS classification<lb/> scheme. But not all TIMSS geometry and measurement items are included under PISA space and<lb/> shape overarching idea.<lb/> 133.<lb/> Box 3.4 shows a PISA item classified as space and shape in PISA, and as measurement<lb/> against TIMSS content domains.<lb/> </head>
+<lb/> 
+            <table>Step-height<lb/> Step-depth<lb/> Total height 252 cm<lb/> Total depth 400 cm<lb/> Plateau<lb/> EDU/WKP(2010)5<lb/> 42<lb/> Box 3.4 An example PISA space and shape </table>
+ 
+            <head>item classified as measurement against TIMSS content domains<lb/> </head>
+<lb/> 
+            <table>CARPENTER<lb/> Question 1: CARPENTER<lb/> M266Q01<lb/> A carpenter has 32 metres of timber and wants to make a border around a garden bed. He is<lb/> considering the following designs for the garden bed.<lb/> Circle either Yes or No for each design to indicate whether the garden bed can be made with 32<lb/> metres of timber.<lb/> Garden bed design<lb/> Using this design, can the garden bed be made with 32<lb/> metres of timber?<lb/> Design A<lb/> Yes / No<lb/> Design B<lb/> Yes / No<lb/> Design C<lb/> Yes / No<lb/> Design D<lb/> Yes / No<lb/> Change and relationships<lb/> 134.<lb/> From the definitions for this overarching idea, </table>
+ 
+            <head>it seems reasonable to map the overarching idea<lb/> of change and relationships to the traditional curriculum strand algebra. Indeed, the four PISA items<lb/> classified as TIMSS content domain algebra are change and relationships items in PISA (see Table 3.6).<lb/> </head>
+<lb/> 
+            <table>10 m<lb/> 6 m<lb/> 10 m<lb/> 10 m<lb/> 10 m<lb/> 6 m<lb/> 6 m<lb/> 6 m However, a large </table>
+ 
+            <head>number of items classified as change and relationships in PISA are classified by other<lb/> traditional strands, with the most number in the data strand. This may not be surprising as the<lb/> descriptions linking change and relationships to natural phenomenon include statistical data such as for<lb/> unemployment or the stock exchange. Looking down the column of change and relationships in Table<lb/> 3.6, the items appear as number, algebra, measurement, and data items by TIMSS content domains. This<lb/> shows that the overarching idea, change and relationships, plays a part in most of the traditional<lb/> mathematics strands. From this point of view, change and relationships is probably the least well<lb/> matched overarching idea among the four to traditional curriculum strands.<lb/> </head>
+<lb/> 
+            <table>135.<lb/> Box 3.5 shows two PISA change and relationships </table>
+ 
+            <head>items classified as TIMSS measurement<lb/> content domain</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Berlin<lb/> Greenwich 12 Midnight<lb/> Berlin 1:00 AM<lb/> Sydney 10:00 AM Uncertainty<lb/> 136.<lb/> This overarching idea </table>
+ 
+            <head>can be linked to TIMSS&apos; data strand. Interestingly, while this strand<lb/> covers chance and data, TIMSS chooses to label it data, and PISA chooses to label it uncertainty (chance).<lb/> It might be less confusing if both surveys just use the label chance and data as for traditional curriculum<lb/> mathematics strand. Of the 20 items classified as uncertainty in PISA, 15 are classified as data, but five are<lb/> classified as number. These five items involve computing averages and percentages, which could be<lb/> regarded as number or data (statistics). Box 3.6 shows a PISA uncertainty item classified as number (topic<lb/> percentages) against TIMSS content domains.</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Total annual exports from Zedland in<lb/> millions of zeds, 1996-2000<lb/> Distribution of exports from<lb/> Zedland in 2000<lb/> Year<lb/> Tobacco<lb/> 7%<lb/> Wool<lb/> 5%<lb/> Cotton fabric<lb/> 26%<lb/> Fruit juice<lb/> 9%<lb/> Rice<lb/> 13%<lb/> Tea<lb/> 5%<lb/> Meat<lb/> 14%<lb/> Other<lb/> 21%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.7 Tally of TIMSS items classified by PISA overarching ideas and TIMSS content domains<lb/> </head>
+<lb/> 
+            <table>PISA overarching ideas<lb/> Quantity<lb/> Space and<lb/> shape<lb/> Change and<lb/> relationships<lb/> Uncertainty<lb/> Total<lb/> TIMSS<lb/> content<lb/> domains<lb/> Number<lb/> 51<lb/> 3<lb/> 3<lb/> 57<lb/> Algebra<lb/> 13<lb/> 1<lb/> 33<lb/> 47<lb/> Measurement<lb/> 15<lb/> 15<lb/> 1<lb/> 31<lb/> Geometry<lb/> 30<lb/> 1<lb/> 31<lb/> Data<lb/> 1<lb/> 10<lb/> 17<lb/> 28<lb/> Total<lb/> 80<lb/> 49<lb/> 48<lb/> 17<lb/> 194</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>3</label>
+
+            <head>.7 shows that PISA overarching idea Quantity is closely related to TIMSS Number content domain,<lb/> Space and Shape to TIMSS Geometry and Measurement content domains, Change and relationships to<lb/> TIMSS Algebra content domain, and Uncertainty to TIMSS Data content domain. In addition, the TIMSS<lb/> test does not have many items classified as PISA Uncertainty overarching idea.</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.</head>
+
+            <figDesc>8 shows a tally of the PISA<lb/> items cross-classified according to PISA competency clusters and TIMSS cognitive domains.</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>3</label>
+
+            <head>.8 Tally of PISA items classified by PISA competency clusters and TIMSS cognitive domains<lb/> </head>
+<lb/> 
+            <table>PISA competency clusters<lb/> Reproduction<lb/> Connections<lb/> Reflection<lb/> Total<lb/> TIMSS cognitive<lb/> domains<lb/> Knowing facts<lb/> and procedures<lb/> 15<lb/> 8<lb/> 0<lb/> 23<lb/> Using concepts<lb/> 5<lb/> 8<lb/> 1<lb/> 14<lb/> Solving routine<lb/> problems<lb/> 4<lb/> 8<lb/> 3<lb/> 15<lb/> Reasoning<lb/> 2<lb/> 16<lb/> 15<lb/> 33<lb/> Total<lb/> 26<lb/> 40<lb/> 19<lb/> 85<lb/> 143.<lb/> As expected, most of the items classified as PISA reproduction </table>
+ 
+            <head>items are classified as TIMSS<lb/> knowing facts and procedures items. And most</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.9 Proportions of items by item format<lb/> </head>
+<lb/> 
+            <table>PISA<lb/> TIMSS<lb/> Multiple-choice<lb/> 33%<lb/> 66%<lb/> Constructed-response<lb/> 67%<lb/> 34%<lb/> 146.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>.10.</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>3</label>
+
+            <head>.10 Number of words in item stem in randomly selected PISA and TIMSS items<lb/> </head>
+<lb/> 
+            <table>TIMSS cluster M02<lb/> Question number<lb/> Number of words in<lb/> item stem<lb/> PISA booklet 3<lb/> Question number<lb/> Number of words in<lb/> item stem<lb/> 1<lb/> 19<lb/> 1<lb/> 55<lb/> 2<lb/> 25<lb/> 2<lb/> 59<lb/> 3<lb/> 32<lb/> 3<lb/> 33<lb/> 4<lb/> 20<lb/> 4<lb/> 72<lb/> 5<lb/> 23<lb/> 5<lb/> 30<lb/> 6<lb/> 34<lb/> 6<lb/> 130<lb/> 7<lb/> 5<lb/> 7<lb/> 78<lb/> 8<lb/> 9<lb/> 8<lb/> 33<lb/> 9<lb/> 55<lb/> 9<lb/> 78<lb/> 10<lb/> 35<lb/> 10<lb/> 12<lb/> 11<lb/> 18<lb/> 11<lb/> 34<lb/> 12<lb/> 18<lb/> 12<lb/> 50<lb/> 13<lb/> 11<lb/> 13<lb/> 53<lb/> 14<lb/> 6<lb/> 14<lb/> 23<lb/> 15<lb/> 22<lb/> 15<lb/> 101<lb/> Mean<lb/> 22<lb/> Mean<lb/> 56<lb/> Standard deviation<lb/> 13<lb/> Standard deviation<lb/> 32<lb/> Standard error<lb/> 3.4<lb/> Standard error<lb/> 7.9<lb/> 149.<lb/> From a random sample of 15 items in TIMSS and 15 items in PISA, the average number of<lb/> words in a PISA item stem is about twice as many as the average number of words in a TIMSS item stem.<lb/> EDU/WKP(2010)5</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Similarities<lb/> Differences<lb/> Approach<lb/> Both PISA and TIMSS framework<lb/> development<lb/> involved<lb/> extensive<lb/> consultative<lb/> processes<lb/> with<lb/> participating<lb/> countries<lb/> and<lb/> mathematics education experts.<lb/> PISA framework is primarily expert driven<lb/> with endorsements by countries. TIMSS<lb/> framework is primarily country driven with<lb/> endorsements by experts.<lb/> Organising<lb/> principles<lb/> Both PISA and TIMSS organise the<lb/> framework with content and cognitive<lb/> dimensions<lb/> Content<lb/> organisation<lb/> TIMSS adopts traditional mathematics<lb/> content domains: Number, algebra,<lb/> measurement, geometry and data.<lb/> PISA uses phenomenological approach to<lb/> categorise problems based on the kinds of<lb/> applications<lb/> of<lb/> mathematics.<lb/> Four<lb/> overarching ideas are identified: quantity,<lb/> space<lb/> and<lb/> shape,<lb/> change<lb/> and<lb/> relationships, uncertainty.<lb/> Content balance<lb/> TIMSS covers a wider range of curriculum<lb/> contents than PISA. PISA has few items in<lb/> algebra, measurement </table>
+ 
+            <head>and geometry, but<lb/> more items in number and data.<lb/> Cognitive<lb/> dimension<lb/> </head>
+<lb/> 
+            <table>While the labels are different for areas<lb/> of the cognitive dimension, both PISA<lb/> and<lb/> TIMSS<lb/> describe<lb/> cognitive<lb/> processes (or competencies) in terms<lb/> of progressions from simple to complex<lb/> tasks, with knowing facts/reproduction<lb/> at<lb/> the<lb/> lowest<lb/> level,<lb/> and<lb/> reasoning/reflection at the highest<lb/> level.<lb/> Item format<lb/> Two-thirds of the items in TIMSS are of<lb/> multiple-choice format, while only one-third<lb/> of the items in PISA are multipl-choice<lb/> items<lb/> Amount of reading<lb/> On average, PISA items have around twice<lb/> as many words as TIMSS items.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>.1 PISA and TIMSS country mean scores for countries participating in both Surveys in 2003<lb/> </head>
+<lb/> 
+            <table>PISA<lb/> TIMSS<lb/> Country<lb/> mean<lb/> Standard<lb/> error<lb/> Standardised<lb/> score<lb/> Country<lb/> mean<lb/> Standard<lb/> error<lb/> Standardised<lb/> score<lb/> Belgium (Fl.)<lb/> 553<lb/> (2.1)<lb/> 1.04<lb/> 537<lb/> (2.8)<lb/> 0.63<lb/> Hong Kong-China<lb/> 550<lb/> (4.5)<lb/> 0.99<lb/> 586<lb/> (3.3)<lb/> 1.72<lb/> Korea<lb/> 542<lb/> (3.2)<lb/> 0.83<lb/> 589<lb/> (2.2)<lb/> 1.79<lb/> Quebec, Canada<lb/> 541<lb/> (5.0)<lb/> 0.81<lb/> 543<lb/> (3.0)<lb/> 0.77<lb/> Netherlands<lb/> 538<lb/> (3.1)<lb/> 0.74<lb/> 536<lb/> (3.8)<lb/> 0.61<lb/> Japan<lb/> 534<lb/> (4.0)<lb/> 0.67<lb/> 570<lb/> (2.1)<lb/> 1.37<lb/> Ontario, Canada<lb/> 531<lb/> (3.5)<lb/> 0.61<lb/> 521<lb/> (3.1)<lb/> 0.28<lb/> Australia<lb/> 524<lb/> (2.1)<lb/> 0.48<lb/> 505<lb/> (4.6)<lb/> -0.08<lb/> Scotland<lb/> 524<lb/> (2.3)<lb/> 0.47<lb/> 498<lb/> (3.7)<lb/> -0.23<lb/> New Zealand<lb/> 523<lb/> (2.3)<lb/> 0.47<lb/> 494<lb/> (5.3)<lb/> -0.32<lb/> Sweden<lb/> 509<lb/> (2.6)<lb/> 0.19<lb/> 499<lb/> (2.6)<lb/> -0.21<lb/> England 1<lb/> 507<lb/> (2.9)<lb/> 0.15<lb/> 498<lb/> (4.7)<lb/> -0.23<lb/> Basque country, Spain<lb/> 502<lb/> (2.8)<lb/> 0.05<lb/> 487<lb/> (2.7)<lb/> -0.48<lb/> Slovak Republic<lb/> 498<lb/> (3.3)<lb/> -0.02<lb/> 508<lb/> (3.3)<lb/> -0.01<lb/> Norway<lb/> 495<lb/> (2.4)<lb/> -0.08<lb/> 461<lb/> (2.5)<lb/> -1.05<lb/> Hungary<lb/> 490<lb/> (2.8)<lb/> -0.18<lb/> 529<lb/> (3.2)<lb/> 0.46<lb/> Latvia<lb/> 483<lb/> (3.7)<lb/> -0.30<lb/> 508<lb/> (3.2)<lb/> -0.01<lb/> United States<lb/> 483<lb/> (2.9)<lb/> -0.31<lb/> 504<lb/> (3.3)<lb/> -0.10<lb/> Russian Federation<lb/> 468<lb/> (4.2)<lb/> -0.59<lb/> 508<lb/> (3.7)<lb/> -0.01<lb/> Italy<lb/> 466<lb/> (3.1)<lb/> -0.65<lb/> 484<lb/> (3.2)<lb/> -0.54<lb/> Indonesia<lb/> 360<lb/> (3.9)<lb/> -2.68<lb/> 411<lb/> (4.8)<lb/> -2.16<lb/> Tunisia<lb/> 359<lb/> (2.5)<lb/> -2.70<lb/> 410<lb/> (2.2)<lb/> -2.18<lb/> Average<lb/> 499<lb/> 508<lb/> 0.00<lb/> Standard deviation<lb/> 51.9<lb/> 45.1<lb/> 1.00<lb/> </table>
+<lb/> 
+            <figDesc>1. England did not achieve the required response rate set by PISA and set by TIMSS for ensuring that a representative sample is<lb/> drawn for the country. The reliability of the mean scores therefore should be treated with some reservation.<lb/> 158.<lb/> The distances between countries in standardised PISA and TIMSS scores for the 22 countries<lb/> are shown graphically in Figure 4.1<lb/> EDU/WKP(2010)5<lb/> 54</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <label>number </label>
+ 
+            <head>of years of schooling at time of PISA testing = (15.7 – age at time of TIMSS testing) + 8,<lb/> </head>
+<lb/> 
+            <figDesc>as (15.7 – age at time of TIMSS testing) gives the additional number of years of schooling between TIMSS<lb/> and PISA population definitions, to the 8 years of schooling controlled for in the TIMSS samples. So, in<lb/> fact, the two variables, age at time of TIMSS testing, and years of schooling at time of PISA testing are<lb/> essentially the same variable, as one is a linear transformation of the other:<lb/> number of years of schooling at time of PISA </figDesc>
+ 
+            <head>testing = 23.7 – age at time of TIMSS testing<lb/> (1)<lb/> 165.<lb/> To verify this relationship between age at time of TIMSS testing, and years of schooling at time of<lb/> PISA testing, an attempt was made to compute the average years of schooling at the time of testing in PISA<lb/> EDU/WKP(2010)5 </head>
+ 
+            <figDesc>using information from the PISA survey. An approximate estimate was made based on the following three<lb/> pieces of information:<lb/> 6. The grade variable from the PISA student questionnaire. This variable is meant to provide the<lb/> number of years of schooling. However, it turned out that this variable alone was too &quot; coarse &quot; for<lb/> the purpose of estimating years of schooling to the accuracy of fractions of a year.<lb/> 7. The start of the academic year in each country.<lb/> 8. The actual testing date of PISA in each country.<lb/> </figDesc>
+<lb/> 
+            <table>166.<lb/> Combining (2) and (3)</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>.3 Number of years of schooling at the time of PISA testing (estimated from PISA data) versus Average<lb/> age at time of TIMSS testing<lb/> </head>
+<lb/> 
+            <table>Number of years<lb/> of schooling at the<lb/> time<lb/> of<lb/> PISA<lb/> testing (estimated<lb/> from PISA data)<lb/> Average age at time<lb/> of TIMSS testing<lb/> Tunisia<lb/> 8.52<lb/> 14.8<lb/> Latvia<lb/> 8.52<lb/> 15<lb/> Sweden<lb/> 8.67<lb/> 14.9<lb/> Hungary<lb/> 8.79<lb/> 14.5<lb/> Indonesia<lb/> 8.96<lb/> 14.5<lb/> Netherlands<lb/> 9.18<lb/> 14.3<lb/> Hong Kong-China<lb/> 9.20<lb/> 14.4<lb/> Slovak Republic<lb/> 9.21<lb/> 14.3<lb/> Korea<lb/> 9.25<lb/> 14.6<lb/> Japan<lb/> 9.29<lb/> 14.4<lb/> Belgium (Fl.)<lb/> 9.29<lb/> 14.1<lb/> Russian<lb/> F d ti<lb/> 9.32<lb/> 14.2<lb/> Italy<lb/> 9.40<lb/> 13.9<lb/> Spain-Basque<lb/> 9.40<lb/> 14.1<lb/> Canada-Ontario<lb/> 9.48<lb/> 13.8<lb/> Canada-Quebec<lb/> 9.48<lb/> 14.2<lb/> New Zealand<lb/> 9.51<lb/> 14.1<lb/> United States<lb/> 9.55<lb/> 14.2<lb/> Australia<lb/> 9.63<lb/> 13.9<lb/> Norway<lb/> 9.66<lb/> 13.8<lb/> England<lb/> 10.31<lb/> 14.3<lb/> Scotland<lb/> 10.69<lb/> 13.7<lb/> 167.<lb/> Table 4.3 shows </table>
+ 
+            <figDesc>that, by and large, PISA students in the Western countries tend to have had a<lb/> higher number of years of schooling than the PISA students in Asian and Eastern European countries. At</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>.5 Number and proportions of items in PISA and TIMSS by content domains<lb/> </head>
+<lb/> 
+            <table>PISA<lb/> TIMSS<lb/> Differences in<lb/> percentages<lb/> between PISA<lb/> and TIMSS<lb/> Number<lb/> 32<lb/> 38%<lb/> 57<lb/> 30%<lb/> 8%<lb/> Algebra<lb/> 7<lb/> 8%<lb/> 47<lb/> 24%<lb/> -16%<lb/> Measurement<lb/> 8<lb/> 9%<lb/> 31<lb/> 16%<lb/> -7%<lb/> Geometry<lb/> 12<lb/> 14%<lb/> 31<lb/> 16%<lb/> -2%<lb/> Data<lb/> 26<lb/> 31%<lb/> 28<lb/> 14%<lb/> 17%<lb/> Total<lb/> 85<lb/> 100%<lb/> 194<lb/> 100%<lb/> 180.<lb/> It can be seen from</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>.6 TIMSS achievement scores by content areas<lb/> </head>
+<lb/> 
+            <table>Number Algebra Measurement Geometry Data<lb/> Australia<lb/> 498<lb/> 499<lb/> 511<lb/> 491<lb/> 531<lb/> Belgium (Fl.)<lb/> 539<lb/> 523<lb/> 535<lb/> 527<lb/> 546<lb/> England<lb/> 1<lb/> 485<lb/> 492<lb/> 505<lb/> 492<lb/> 535<lb/> Canada-Ontario<lb/> 516<lb/> 515<lb/> 520<lb/> 513<lb/> 538<lb/> Canada-Quebec<lb/> 546<lb/> 529<lb/> 541<lb/> 542<lb/> 544<lb/> Hong Kong-<lb/>China<lb/> 586<lb/> 580<lb/> 584<lb/> 588<lb/> 566<lb/> Hungary<lb/> 529<lb/> 534<lb/> 525<lb/> 515<lb/> 526<lb/> Indonesia<lb/> 421<lb/> 418<lb/> 394<lb/> 413<lb/> 418<lb/> Italy<lb/> 480<lb/> 477<lb/> 500<lb/> 469<lb/> 490<lb/> Japan<lb/> 557<lb/> 568<lb/> 559<lb/> 587<lb/> 573<lb/> Korea<lb/> 586<lb/> 597<lb/> 577<lb/> 598<lb/> 569<lb/> Latvia<lb/> 507<lb/> 508<lb/> 500<lb/> 515<lb/> 506<lb/> Netherlands<lb/> 539<lb/> 514<lb/> 549<lb/> 513<lb/> 560<lb/> New Zealand<lb/> 481<lb/> 490<lb/> 500<lb/> 488<lb/> 526<lb/> Norway<lb/> 456<lb/> 428<lb/> 481<lb/> 461<lb/> 498<lb/> Russian<lb/> Federation<lb/> 505<lb/> 516<lb/> 507<lb/> 515<lb/> 484<lb/> Scotland<lb/> 484<lb/> 488<lb/> 508<lb/> 491<lb/> 531<lb/> Slovak Republic<lb/> 514<lb/> 505<lb/> 508<lb/> 501<lb/> 495<lb/> Spain-Basque<lb/> 490<lb/> 490<lb/> 488<lb/> 456<lb/> 499<lb/> Sweden<lb/> 496<lb/> 480<lb/> 512<lb/> 467<lb/> 539<lb/> Tunisia<lb/> 419<lb/> 405<lb/> 407<lb/> 427<lb/> 387<lb/> United States<lb/> 508<lb/> 510<lb/> 495<lb/> 472<lb/> 527<lb/> 1. England did not meet participation requirements in TIMSS 2003. Mean scores are therefore not comparable to other countries.<lb/> 182.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>184.<lb/> The TIMSS average scores by mathematics content areas for Australia are given below:<lb/> 14<lb/> The standard errors of these estimates are around 2 to 5, so a mean difference of 32 is certainly significant. </figDesc>
+ 
+            <table>TIMSS mean score by content area<lb/> Mean of the<lb/> five content<lb/> areas<lb/> 15<lb/> Number<lb/> Algebra<lb/> Measurement<lb/> Geometry<lb/> Data<lb/> Australia<lb/> 498<lb/> 499<lb/> 511<lb/> 491<lb/> 531<lb/> 506<lb/> </table>
+<lb/> 
+            <figDesc>185.<lb/> The final column shows the mean of the five content area scores (506). The difference between<lb/> each content area score and the mean of the five content areas is then calculated, as shown below:<lb/> </figDesc>
+<lb/> 
+            <table>Deviation of content area score from the mean of the five content areas (506)<lb/> Number<lb/> Algebra<lb/> Measurement<lb/> Geometry<lb/> Data<lb/> Australia<lb/> -8<lb/> -7<lb/> 5<lb/> -15<lb/> 25<lb/> </table>
+<lb/> 
+            <figDesc>186.<lb/> The deviation from each content area is then weighted by the proportion of items in each<lb/> assessment. For example, for PISA, the proportions of items are as follows:<lb/> </figDesc>
+<lb/> 
+            <table>PISA item distribution by content areas<lb/> Number<lb/> Algebra<lb/> Measurement<lb/> Geometry<lb/> Data<lb/> 38%<lb/> 8%<lb/> 9%<lb/> 14%<lb/> 31%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>.7 Indices of PISA and TIMSS advantage by country<lb/> </head>
+<lb/> 
+            <table>Difference in<lb/> country mean<lb/> scores (TIMSS<lb/> -PISA), in<lb/> &quot;TIMSS score&quot;<lb/> unit<lb/> PISA<lb/> advantage<lb/> index<lb/> TIMSS<lb/> advantage<lb/> index<lb/> Content<lb/> advantage<lb/> index (PISA<lb/> adv – TIMSS<lb/> adv)<lb/> Better in TIMSS<lb/> Korea<lb/> 43.16<lb/> -2.85<lb/> 1.29<lb/> -4.14<lb/> Hong Kong<lb/> 33.08<lb/> -1.32<lb/> 0.86<lb/> -2.18<lb/> Japan<lb/> 31.19<lb/> -1.58<lb/> -1.71<lb/> 0.14<lb/> Hungary<lb/> 28.50<lb/> 0.34<lb/> 1.10<lb/> -0.76<lb/> Russian<lb/> F d ti<lb/> 26.26<lb/> -4.32<lb/> 1.15<lb/> -5.47<lb/> Tunisia<lb/> 23.48<lb/> -0.94<lb/> 1.35<lb/> -2.29<lb/> Indonesia<lb/> 23.25<lb/> 3.36<lb/> 1.45<lb/> 1.92<lb/> Latvia<lb/> 13.26<lb/> 0.05<lb/> 0.06<lb/> -0.01<lb/> United States<lb/> 9.69<lb/> 5.27<lb/> 1.00<lb/> 4.27<lb/> Italy<lb/> 4.64<lb/> -0.06<lb/> -1.05<lb/> 0.99<lb/> Slovak Republic<lb/> 0.40<lb/> 0.45<lb/> 1.44<lb/> -0.99<lb/> Better in PISA<lb/> Canada-Quebec<lb/> -1.77<lb/> 2.55<lb/> -0.25<lb/> 2.80<lb/> Netherlands</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>TIMSS Age and Content<lb/> advantage index. Note that TIMSS Age is used as a proxy for Years of schooling in PISA. The </head>
+ 
+            <figDesc>percentage<lb/> of variance of PISA mathematics scores explained is 93%, showing a large improvement from regression<lb/> model 1. Under regression model 2, nine out of the 22 countries have a predicted PISA mathematics score<lb/> within the confidence interval of the reported PISA score.<lb/> 198.<lb/> As there is more reading demand in PISA mathematics items, it is worth exploring whether PISA<lb/> reading country mean score is a useful predictor for PISA mathematics scores. Regression model 3<lb/> explores the relationships between PISA mathematics country mean scores and PISA reading country<lb/> mean scores. Quite surprisingly, there is a very high correlation (R=0.95) between PISA mathematics<lb/> country mean scores and PISA reading country mean scores. Under this regression model, five out of 22<lb/> countries have a predicted PISA mathematics score within the confidence interval of the reported PISA<lb/> score.<lb/> </figDesc>
+<lb/> 
+            <table>199.<lb/> Regression model 4 uses all four predictors: TIMSS Mathematics country mean score, TIMSS<lb/> Age, Content advantage index, and PISA Reading score. Under this model, 97%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>.8 Regression models for predicting PISA mathematics country mean scores</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>4</label>
+
+            <head>.9 Comparisons between Reported and Predicted Country Mean Scores<lb/> </head>
+<lb/> 
+            <table>Country<lb/> Reported<lb/> mean score<lb/> Predicted mean<lb/> score from<lb/> regression<lb/> model 4<lb/> Difference<lb/> between<lb/> reported and<lb/> predicted<lb/> scores<lb/> Predicted score<lb/> is within the<lb/> confidence<lb/> interval of the<lb/> reported score<lb/> Australia<lb/> 524<lb/> 526<lb/> -2<lb/> 񮽙<lb/> Belgium Flemish<lb/> 553<lb/> 544<lb/> 9<lb/> Canada-Ontario,<lb/> 531<lb/> 539<lb/> -8<lb/> Canada-Quebec<lb/> 541<lb/> 541<lb/> 0<lb/> 񮽙<lb/> England<lb/> 507<lb/> 506<lb/> 1<lb/> 񮽙<lb/> Hong Kong -China<lb/> 550<lb/> 546<lb/> 4<lb/> 񮽙<lb/> Hungary<lb/> 490<lb/> 497<lb/> -7<lb/> Indonesia<lb/> 360<lb/> 371<lb/> -11<lb/> Italy<lb/> 466<lb/> 479<lb/> -13<lb/> Japan<lb/> 534<lb/> 533<lb/> 1<lb/> 񮽙<lb/> Korea<lb/> 542<lb/> 557<lb/> -15<lb/> Latvia<lb/> 483<lb/> 483<lb/> 0<lb/> 񮽙<lb/> New Zealand<lb/> 523<lb/> 515<lb/> 8<lb/> Norway<lb/> 495<lb/> 494<lb/> 1<lb/> 񮽙<lb/> Russian Federation<lb/> 468<lb/> 458<lb/> 10<lb/> Scotland<lb/> 524<lb/> 521<lb/> 3<lb/> 񮽙<lb/> Slovak Republic<lb/> 498<lb/> 479<lb/> 19<lb/> Spain-Basque country<lb/> 502<lb/> 492<lb/> 10<lb/> Sweden<lb/> 509<lb/> 506<lb/> 3<lb/> 񮽙<lb/> The Netherlands<lb/> 538<lb/> 534<lb/> 4<lb/> 񮽙<lb/> Tunisia<lb/> 359<lb/> 355<lb/> 4<lb/> 񮽙<lb/> United States<lb/> 483<lb/> 502<lb/> -19<lb/> 16<lb/> The variable Age at time of TIMSS test is used as a proxy for Years of schooling at time of PISA test.<lb/> Regression<lb/> model<lb/> To Predict<lb/> (Dependent variable)<lb/> Predictor(s)<lb/> (Independent variables)<lb/> Percentage of<lb/> variance<lb/> explained (R 2 )<lb/> Correlation (R)<lb/> 1<lb/> PISA mathematics<lb/> TIMSS Mathematics<lb/> 71%<lb/> 0.84<lb/> 2<lb/> PISA mathematics<lb/> TIMSS Mathematics<lb/> TIMSS Age 16<lb/> Content advantage index<lb/> 93%<lb/> 0.97<lb/> 3<lb/> PISA mathematics<lb/> PISA Reading<lb/> 91%<lb/> 0.95<lb/> 4<lb/> PISA mathematics<lb/> TIMSS Mathematics<lb/> TIMSS Age<lb/> Content advantage index<lb/> PISA Reading<lb/> 97%<lb/> 0.99<lb/> EDU/WKP(2010)5 Implications of differential performance of countries in content domains<lb/> 202.<lb/> The findings from previous sections show</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>.10 Correlation between country mean scores in PISA Reading and TIMSS content domains<lb/> </head>
+<lb/> 
+            <table>Correlation with PISA<lb/> Reading<lb/> TIMSS Number<lb/> 0.65<lb/> TIMSS Algebra<lb/> 0.62<lb/> TIMSS Measurement<lb/> 0.79<lb/> TIMSS Geometry<lb/> 0.57<lb/> TIMSS Data<lb/> 0.91<lb/> EDU/WKP(2010)5 205.<lb/> From</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>surveys. Since the content<lb/> 17<lb/> More specifically, the transformation used was:<lb/> PISA standard deviation in TIMSS unit = ( PISA standard deviation / 51.92) * 45.08,<lb/> where 51.92 was the standard deviation of the PISA country mean scores of the 22 countries participated in<lb/> both PISA and TIMSS, and 45.08 was the standard deviation of the TIMSS country mean scores.<lb/> 18<lb/> In fact, Indonesia has the highest standard deviation in TIMSS and lowest standard deviation in PISA<lb/> among the 22 countries. We have sought explanations for this, and it appears that the sampling base (types<lb/> of schools) may not be the same in the two surveys in Indonesia. A thorough investigation of this is outside<lb/> the scope of this report. But there are some indications that the PISA and TIMSS samples do not reflect the<lb/> same population groups in Indonesia, over and above the difference in grade-based and age-based sampling<lb/> in TIMSS and PISA.<lb/> EDU/WKP(2010)5 balance and the items are different in the two surveys, one test may spread students out more than the<lb/> other. However, as PISA has a slightly lower reported reliability than TIMSS&apos; reported reliability, it<lb/> appears unlikely that PISA test should spread students out more than TIMSS test.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>4</label>
+
+            <head>.11 PISA and TIMSS standard deviations for the 22 countries<lb/> </head>
+<lb/> 
+            <table>TIMSS<lb/> standard<lb/> deviation<lb/> PISA standard deviation<lb/> as reported<lb/> PISA standard deviation<lb/> transformed to TIMSS<lb/> unit<lb/> Quebec, Canada<lb/> 58<lb/> 93<lb/> 81<lb/> Tunisia<lb/> 60<lb/> 82<lb/> 71<lb/> Basque country, Spain<lb/> 64<lb/> 82<lb/> 72<lb/> Ontario, Canada<lb/> 66<lb/> 83<lb/> 72<lb/> The Netherlands<lb/> 69<lb/> 93<lb/> 80<lb/> Norway<lb/> 71<lb/> 92<lb/> 80<lb/> Sweden<lb/> 71<lb/> 95<lb/> 82<lb/> Hong Kong -China<lb/> 72<lb/> 100<lb/> 87<lb/> Belgium Flemish<lb/> 73<lb/> 105<lb/> 91<lb/> Latvia<lb/> 73<lb/> 88<lb/> 76<lb/> Scotland<lb/> 75<lb/> 84<lb/> 73<lb/> England<lb/> 77<lb/> 93<lb/> 81<lb/> Italy<lb/> 77<lb/> 96<lb/> 83<lb/> Russian Federation<lb/> 77<lb/> 92<lb/> 80<lb/> New Zealand<lb/> 78<lb/> 98<lb/> 85<lb/> Hungary<lb/> 80<lb/> 94<lb/> 81<lb/> Japan<lb/> 80<lb/> 101<lb/> 87<lb/> United States<lb/> 80<lb/> 95<lb/> 83<lb/> Australia<lb/> 82<lb/> 95<lb/> 83<lb/> Slovak Republic<lb/> 82<lb/> 93<lb/> 81<lb/> Korea<lb/> 84<lb/> 92<lb/> 80<lb/> Indonesia<lb/> 89<lb/> 81<lb/> 70 90.00<lb/> 85.00<lb/> 80.00<lb/> 75.00<lb/> 70.00</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>.12 PISA and TIMSS 95<lb/> th and 5<lb/> th percentiles for countries participating in both Surveys in 2003<lb/> </head>
+<lb/> 
+            <table>TIMSS 5 th<lb/> percentile<lb/> TIMSS<lb/> 95 th<lb/> percentile<lb/> PISA 5 th<lb/> percentile<lb/> PISA 95 th<lb/> percentile<lb/> PISA 5 th<lb/> percentile<lb/> (in TIMSS<lb/> unit)<lb/> PISA 95 th<lb/> percentile<lb/> (in TIMSS<lb/> unit) EDU/WKP(2010)5<lb/> 76<lb/> QUE<lb/> ONT<lb/> BSQ<lb/> USA<lb/> TUN<lb/> SWE<lb/> SVK<lb/> SCO<lb/> RUS<lb/> NZL<lb/> NOR<lb/> NLD<lb/> LVA<lb/> KOR<lb/> JPN<lb/> ITA<lb/> IDN<lb/> HUN<lb/> HKG<lb/> ENG<lb/> BFL<lb/> AUS</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>LVA<lb/> HKG<lb/> IDN<lb/> AUS<lb/> NLD<lb/> NOR<lb/> SWE<lb/> USA<lb/> ENG<lb/> SCO<lb/> QUE<lb/> HUN<lb/> JPN<lb/> BSQ<lb/> RUS<lb/> TUN<lb/> ONT<lb/> BFL<lb/> NZL<lb/> ITA<lb/> SVK<lb/> KOR<lb/> Male mean score -Female mean score (in TIMSS score<lb/> unit)<lb/> PISA gender<lb/> difference<lb/> TIMSS gender<lb/> difference<lb/> 224.<lb/> In</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>5</label>
+
+            <head>.1 Comparison of performance of boys and girls in TIMSS by content area<lb/> </head>
+<lb/> 
+            <table>Mathematics content area<lb/> Number of<lb/> countries/regions in which<lb/> BOYS PERFORMED<lb/> BETTER<lb/> Number of<lb/> countries/regions in which<lb/> GIRLS PERFORMED<lb/> BETTER<lb/> Number of<lb/> countries/regions in which<lb/> there is NO DIFFERENCE<lb/> between performance of<lb/> boys and girls<lb/> Number<lb/> 14<lb/> 10<lb/> 26<lb/> Algebra<lb/> 3<lb/> 23<lb/> 24<lb/> Measurement<lb/> 15<lb/> 2<lb/> 33<lb/> Geometry<lb/> 13<lb/> 8<lb/> 29<lb/> Data<lb/> 9<lb/> 8<lb/> 33</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>5</label>
+
+            <head>.2 Comparison of performance of Boys and Girls in PISA by Overarching Ideas<lb/> </head>
+<lb/> 
+            <table>Mathematics content area<lb/> Number of<lb/> countries/regions in which<lb/> BOYS PERFORMED<lb/> BETTER<lb/> Number of<lb/> countries/regions in which<lb/> GIRLS PERFORMED<lb/> BETTER<lb/> Number of<lb/> countries/regions in which<lb/> there is NO DIFFERENCE<lb/> between performance of<lb/> boys and girls<lb/> Space and shape<lb/> 32<lb/> 1<lb/> 7<lb/> Change and relationship<lb/> 21<lb/> 1<lb/> 18<lb/> Quantity<lb/> 16<lb/> 1<lb/> 23<lb/> Uncertainty<lb/> 29<lb/> 2<lb/> 9</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>241.<lb/> PISA noted that<lb/> Gender differences tend to be larger at the top end of the performance distribution. (OECD,<lb/> 2005, p.98)</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Attitudinal scales<lb/> 245.<lb/> Both PISA and TIMSS collect information on students&apos; attitudes towards mathematics. In<lb/> particular, indices on &quot; self-confidence &quot; and &quot; interest and motivation &quot; have been constructed in both PISA<lb/> and TIMSS.</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>first striking finding is that while gender differences in student performance tend to be modest,<lb/> there are marked differences between males and females in their interest in and enjoyment of<lb/> mathematics as well as in their self-related beliefs, emotions and learning strategies related to<lb/> mathematics. (p.151, OECD, 2004) 252.<lb/> PISA made the comparisons between achievement differences and attitude differences based on<lb/> &quot; effect size &quot; 20 (p.152 – 153, OECD,</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>AUS<lb/> BFL<lb/> ENG<lb/> HKG<lb/> HUN<lb/> IDN<lb/> ITA<lb/> JPN<lb/> KOR<lb/> LVA<lb/> NLD<lb/> NOR<lb/> NZL<lb/> RUS<lb/> SCO<lb/> SVK<lb/> SWE<lb/> TUN<lb/> USA<lb/> TIMSS GIRLS<lb/> TIMSS BOYS<lb/> PISA GIRLS<lb/> PISA BOYS`253 BOYS`<lb/> BOYS`253.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>achievement<lb/> scores.<lb/> 20.<lb/> Effect size is a measure of the magnitude of the difference in relation to the variance of all the scores (see<lb/> Box 3.3, p117, OECD, 2004).<lb/> 21.<lb/> Note that data for Spain-Basque country, Canada-Ontario and Canada-Quebec are not available for this<lb/> graph<lb/> 22.<lb/> Data for Canada-Ontario, Canada-Quebec and Spain-Basque country are not available.<lb/> 23.<lb/> Although not always statistically significant.<lb/> 24.<lb/> Although not always statistically significant.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>.</head>
+
+            <figDesc>2c). While the score units are not<lb/> exactly the same in PISA and TIMSS, and the composition of the countries are different in the two<lb/> surveys, it is still evident that both surveys found a significant impact of parental education on student<lb/> performance in mathematics, and the magnitude of the impact is also of similar order of magnitude.<lb/> </figDesc>
+<lb/> 
+            <table>25.<lb/> This is defined as the highest education level of either parent 261.<lb/> In relation </table>
+ 
+            <head>to home possessions, TIMSS reported student performance against each type of home<lb/> possessions (the number of books at home, the provision of a desk/table, and the availability of a computer<lb/> at home) separately. In contrast, PISA constructed an index of cultural possessions from the number of<lb/> classical literature, books of poetry and works of art in students&apos; homes (OECD, 2004, p.166; OECD,<lb/> 2004, Table 4.2d; OECD, 2005, p.283). A direct comparison of results is difficult because different<lb/> variables were used in PISA and TIMSS. However, both PISA and TIMSS found a strong relationship<lb/> between home possession and student performance.<lb/> </head>
+<lb/> 
+            <table>262.<lb/> The PISA report (OECD</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>264.<lb/> This chapter explores similarities and differences in the findings of PISA and TIMSS in relation<lb/> to student backgrounds and attitudes towards mathematics.<lb/> 265.<lb/> On the surface, it appears the PISA found that boys performed better than girls, while TIMSS<lb/> found little gender differences for</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

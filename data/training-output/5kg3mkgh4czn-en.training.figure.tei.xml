@@ -1,0 +1,29 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5kg3mkgh4czn-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <head>First</head>
+
+            <figDesc>, I match FICUS with the DADS file at the establishment level. In 2001, the<lb/> resulting data set has 2 100 438 observations. Then, the equivalent file for 2004<lb/> (2 367 270 observations) is matched with that of 2001. Then, this matched file (2 806 116<lb/> observations) is restricted to the manufacturing firms (excluding extractive industries)<lb/> with positive sales either in 2001 or in 2004. The file has now 241 702 observations<lb/> (establishments). However, some firms may well be absent from the DADS when they<lb/> have no salaried employees and still be in FICUS (with zero employees in both 2001 and<lb/> 2004). These firms are also kept, resulting in a data set with 288 460 observations (again<lb/> establishments). These establishments are then aggregated at the firm level, resulting in<lb/> 240 447 unique firms present in 2001, 2004 or both. These observations are now matched<lb/> with the customs data file to enter the trade activity. Since most firms do not trade (import<lb/> or export) in any of these years, we keep all firms from the previous match. For the period<lb/> 1998-2001, the number of firms is 254 621 and for the period 1995-2001, the number of<lb/> firms is 261 056.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            . Net job creation rate: Equipment goods<lb/> Intercept<lb/> -0.089<lb/> 0.002<lb/> -0.058<lb/> 0.002<lb/> -0.041<lb/> 0.002<lb/> Change in export intensity<lb/> -0.007<lb/> 0.036<lb/> -0.184<lb/> 0.026<lb/> -0.377<lb/> 0.041<lb/> Change in import intensity<lb/> -0.013<lb/> 0.015<lb/> -0.165<lb/> 0.040<lb/> 0.205<lb/> 0.046<lb/> Growth of sales<lb/> 0.906<lb/> 0.002<lb/> 0.905<lb/> 0.002<lb/> 0.865<lb/> 0.003<lb/> R-Square<lb/> Number of observations<lb/> 31 285<lb/> 32 505<lb/> 32 098<lb/> 1995-1998<lb/> 1998-2001<lb/> 2001-2004<lb/> 0.8348<lb/> 0.8417<lb/> 0.8169<lb/> Table 7d. Net creation jobs rate: Intermediate goods<lb/> Intercept<lb/> -0.048<lb/> 0.001<lb/> -0.049<lb/> 0.001<lb/> -0.041<lb/> 0.001<lb/> Change in export intensity<lb/> -0.251<lb/> 0.028<lb/> -0.223<lb/> 0.010<lb/> -0.234<lb/> 0.033<lb/> Change in import intensity<lb/> 0.006<lb/> 0.004<lb/> -0.028<lb/> 0.013<lb/> 0.031<lb/> 0.011<lb/> Growth of sales<lb/> 0.920<lb/> 0.002<lb/> 0.914<lb/> 0.002<lb/> 0.906<lb/> 0.002<lb/> R-Square<lb/> Number of observations<lb/> 0.8578<lb/> 0.8312<lb/> 0.8572<lb/> 47 001<lb/> 47 151<lb/> 45 282<lb/> 1995-1998<lb/> 1998-2001<lb/> 2001-2004<lb/> </trash>
+<lb/> 
+            <figDesc>Table 7e. Net job creation rate: agro-industries<lb/> Intercept<lb/> -0.027<lb/> 0.001<lb/> -0.018<lb/> 0.002<lb/> -0.022<lb/> 0.001<lb/> </figDesc>
+
+            <lb/> Change in export intensity<lb/> -0.883<lb/> 0.083<lb/> 0.003<lb/> 0.003<lb/> -0.717<lb/> 0.075<lb/> Change in import intensity<lb/> 0.026<lb/> 0.046<lb/> -0.101<lb/> 0.064<lb/> -0.128<lb/> 0.075<lb/> Growth of sales<lb/> 0.948<lb/> 0.002<lb/> 0.920<lb/> 0.002<lb/> 0.931<lb/> 0.002<lb/> R-Square<lb/> Number of observations<lb/> 54 472<lb/> 57 516<lb/> 55 359<lb/> 1995-1998<lb/> 1998-2001<lb/> 2001-2004<lb/> 0.8369<lb/> 0.8053<lb/> 0.8288</trash>
+        </figure>
+
+
+
+    </text>
+</tei>
+

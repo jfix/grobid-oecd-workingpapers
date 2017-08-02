@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>Alesina, A. and A. Drazen</author> (<date>1991</date>), &quot; <title level="a">Why Are Stabilizations Delayed?</title> &quot; , <title level="j">American Economic Review</title>, Vol.<biblScope unit="volume">81</biblScope> ,No .<biblScope unit="issue">5</biblScope> ,pp .<biblScope unit="page">1170 -1188</biblScope>.</bibl>
+	<bibl><author>Altissimo, F., M. Ehrmann and F. Smets</author> (<date>2006</date>), &quot; <title level="a">Inflation Persistence and Price-Setting Behaviour in theEuro Area :A Summary of the IPN Evidence</title> &quot; , <publisher>ECB Occasional Papers</publisher> ,No .<biblScope unit="issue">46</biblScope> .</bibl>
+	<bibl><author>Batini N., P. N&apos;Diaye and A. Rebucci</author> (<date>2005</date>), &quot; <title level="a">The Domestic and Global Impact of Japan&apos;s Policies forGrowth</title> &quot; , <publisher>IMF Working Papers</publisher> ,No .<biblScope unit="issue">05</biblScope> /<date>209</date>.</bibl>
+	<bibl><author>Bils, M. and P. Klenow</author> (<date>2004</date>), &quot; <title level="a">Some Evidence on the Importance of Sticky Prices</title> &quot; , <title level="j">Journal of PoliticalEconomy</title> ,Vol .<biblScope unit="volume">112</biblScope> ,No .<biblScope unit="issue">5</biblScope> ,pp .<biblScope unit="page">947 -984</biblScope>.</bibl>
+	<bibl><author>Cahuc, P. and A. Zylberberg</author> (<date>2004</date>), <title level="m">Labour Economics</title>, <publisher>MIT Press</publisher>, <pubPlace>Cambridge, Mass</pubPlace>.</bibl>
+	<bibl><author>Christopoulou, R. and P. Vermeulen</author> (<date>2008</date>), &quot; <title level="a">Markups in the Euro Area and the US over the Period</title> <date>1981-2004</date>&quot; , <publisher>ECB Working Papers</publisher> ,No .<biblScope unit="issue">856</biblScope> .</bibl>
+	<bibl><author>Coenen, G., P. McAdam and R. Straub</author> (<date>2007</date>), &quot; <title level="a">Tax Reform and Labour-Market Performance in the EuroArea :A Simulation -BasedAnalysis Using the New Area -WideModel</title> &quot; , <publisher>ECB Working Papers</publisher> ,No .<biblScope unit="issue">747</biblScope> .</bibl>
+	<bibl><author>De Grauwe, P.</author> (<date>2008</date>), &quot; <title level="a">DSGE-Modelling: When Agents Are Imperfectly Informed</title> &quot; , <title level="j">ECB Working Papers</title>,No .<biblScope unit="issue">897</biblScope> .</bibl>
+	<bibl><author>Drazen, A.</author> (<date>2000</date>), <title level="m">Political Economy in Macroeconomics</title>, <publisher>Princeton University Press</publisher>, <pubPlace>Princeton</pubPlace>.</bibl>
+	<bibl><author>Everaert, L. and W. Schule</author> (<date>2006</date>), &quot; <title level="a">Structural Reforms in the Euro Area: Economic Impact and Role ofSynchronisation across Markets and Countries</title> &quot; , <publisher>IMF Working Papers</publisher> ,No .<biblScope unit="issue">137</biblScope> .</bibl>
+	<bibl><author>Fuhrer, J.</author> (<date>2000</date>), &quot; <title level="a">Habit Formation in Consumption and Its Implications for Monetary-Policy Models</title>&quot; , <title level="j">American Economic Review</title> ,Vol .<biblScope unit="volume">90</biblScope> ,No .<biblScope unit="issue">3</biblScope> ,pp .<biblScope unit="page">367 -390</biblScope>.</bibl>
+	<bibl><author>Galí, J., D. López-Salido and J. Vallés</author> (<date>2007</date>), &quot; <title level="a">Understanding the Effects of Government Spending onConsumption</title> &quot; , <title level="j">Journal of the European Economic Association</title> ,Vol .<biblScope unit="volume">5</biblScope> ,No .<biblScope unit="issue">1</biblScope> ,pp .<biblScope unit="page">227 -270</biblScope>.</bibl>
+	<bibl><author>Grenouilleau, D., M. Ratto and W. Roeger</author> (<date>2007</date>), &quot; <title level="a">Adjustment to Shocks: A Comparison between theEuro Area and the US Using Estimated DSGE Models</title> &quot; , paper presented at the Workshop on <title level="j">Structural Reforms andEconomic Resilience</title> , <pubPlace>OECD, Paris</pubPlace>, <biblScope unit="page">14</biblScope><date>June</date> .</bibl>
+	<bibl><author>Hamermesh, D.</author> (<date>1995</date>), &quot; <title level="a">Labour Demand and the Source of Adjustment Costs</title> &quot; , <title level="j">Economic Journal</title>, Vol.<biblScope unit="volume">105</biblScope> ,No .<biblScope unit="issue">430</biblScope> ,pp .<biblScope unit="page">620 -634</biblScope>.</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2008</date>)<biblScope unit="page">56</biblScope></bibl>
+	<bibl><author>Kilponen, J. and A. Ripatti</author> (<date>2006</date>), &quot; <title level="a">Labour and Product Market Reforms in General Equilibrium: SimulationResults Using a DGE Model of the Finnish Economy</title> &quot; , <orgName>Bank of Finland Research Discussion Papers</orgName> ,No. <biblScope unit="issue">5</biblScope>/ <date>2006</date>.</bibl>
+	<bibl><author>Mourougane, A. and L. Vogel</author> (<date>2008</date>), &quot; <title level="a">Speed of Adjustment to Selected Labour and Tax Reforms</title> &quot; , <orgName>OECDEconomics Department Working Paper ,forthcoming</orgName> .</bibl>
+	<bibl><title level="j">OECD</title> (<date>2007</date>), <title level="m">Employment Outlook</title>, <pubPlace>OECD, Paris</pubPlace>.</bibl>
+	<bibl><author>Rotemberg, J.</author> (<date>1982</date>), &quot; <title level="a">Monopolistic Price Adjustment and Aggregate Output</title> &quot; , <title level="j">Review of Economic Studies</title>,Vol .<biblScope unit="volume">49</biblScope> ,No .<biblScope unit="issue">4</biblScope> ,pp .<biblScope unit="page">517 -531</biblScope>.</bibl>
+	<bibl><author>Smets, F. and R. Wouters</author> (<date>2003</date>), &quot; <title level="a">An Estimated Dynamic Stochastic General Equilibrium Model of theEuro Area</title> &quot; , <title level="j">Journal of the European Economic Association</title> ,Vol .<biblScope unit="volume">1</biblScope> ,No .<biblScope unit="issue">5</biblScope> ,pp .<biblScope unit="page">1123 -1175</biblScope>.</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2008</date>)<biblScope unit="page">56</biblScope></bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

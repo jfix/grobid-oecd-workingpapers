@@ -1,0 +1,65 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5k43n1zv02g0-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <table>Density<lb/> Pop<lb/> Density<lb/> Emp<lb/> Rate<lb/> Emp<lb/> Education<lb/> Tertiary<lb/> Education<lb/> Primary<lb/> InfrastDen<lb/> QualGov<lb/> B<lb/> p<lb/> CohesionEx<lb/> GDPpc<lb/> GDPpc<lb/> GPDpc ln<lb/> ln<lb/> )<lb/> (<lb/> ln<lb/> ln<lb/> ln<lb/> )<lb/> (<lb/> ln<lb/> ln</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>0.11300)<lb/> Time controls<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Country controls<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Observations<lb/> 972<lb/> 1,017<lb/> 972<lb/> 972<lb/> R-squared<lb/> 0.261<lb/> 0.238<lb/> 0.264<lb/> 0.264<lb/> No. of countries<lb/> 18<lb/> 18<lb/> 18<lb/> 18<lb/> model 1 model 2 model 3 model 4</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>).<lb/> </head>
+<lb/> 
+            <table>80100 150<lb/> 0<lb/> .005<lb/> .01<lb/> .015<lb/> Density<lb/> 0<lb/> 400<lb/> 600<lb/> 800<lb/> 1000<lb/> 200<lb/> pubexp_pc<lb/> kernel = epanechnikov, bandwidth = 13.6492<lb/> Kernel density estimate</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>controls<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Country controls<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Observations<lb/> 218<lb/> 263<lb/> 218<lb/> 218<lb/> R-squared<lb/> 0.336<lb/> 0.379<lb/> 0.355<lb/> 0.362<lb/> No. of countries<lb/> 10<lb/> 14<lb/> 10<lb/> 10<lb/> model 1 model 2 model 3 model 4  When both factors are considered together (</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>. Impact of public investment and quality of government on regional growth, different thresholds<lb/> </head>
+<lb/> 
+            <table>Note: Robust standard errors in parentheses: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.<lb/> Dep. Variable<lb/> model 1<lb/> model 2<lb/> model 3<lb/> model 4<lb/> model 5<lb/> GDP pc growth<lb/> No threshold<lb/> &gt;80€<lb/> &gt;100€<lb/> &gt;120€<lb/> &gt;150€<lb/> ln GDPpc<lb/> 0.00078<lb/> -0.0472**<lb/> -0.0621**<lb/> -0.0816***<lb/> -0.0720***<lb/> (0.00877)<lb/> (0.01820)<lb/> (0.01970)<lb/> (0.02400)<lb/> (0.02210)<lb/> Cohesion expenditure pc<lb/> 3.10e-05** 1.71e-05*** 1.72e-05**<lb/> 2.54e-05*<lb/> 1.48E-05<lb/> (0.00001)<lb/> (0.00001)<lb/> (0.00001)<lb/> (0.00001)<lb/> (0.00002)<lb/> Quality of government<lb/> 0.00392<lb/> 0.0186**<lb/> 0.0225***<lb/> 0.0258***<lb/> 0.0315***<lb/> (0.00243)<lb/> (0.00611)<lb/> (0.00633)<lb/> (0.00627)<lb/> (0.00721)<lb/> Cohesion exp x quality gov<lb/> -9.94E-07<lb/> -4.07e-05** -4.39e-05** -5.49e-05** -6.83e-05***<lb/> (0.00001)<lb/> (0.00002)<lb/> (0.00002)<lb/> (0.00002)<lb/> (0.00002)<lb/> Primary education<lb/> -0.0807**<lb/> -0.273***<lb/> -0.286***<lb/> -0.311***<lb/> -0.280***<lb/> (0.03730)<lb/> (0.05040)<lb/> (0.06150)<lb/> (0.04910)<lb/> (0.05020)<lb/> University education<lb/> -0.00543<lb/> -0.127<lb/> -0.129<lb/> -0.156**<lb/> -0.0967<lb/> (0.04830)<lb/> (0.07290)<lb/> (0.07770)<lb/> (0.06600)<lb/> (0.06740)<lb/> ln Transport density<lb/> 0.00253**<lb/> 0.00998**<lb/> 0.0119**<lb/> 0.0134***<lb/> 0.0144***<lb/> (0.00115)<lb/> (0.00363)<lb/> (0.00379)<lb/> (0.00397)<lb/> (0.00332)<lb/> Employment rate<lb/> 0.000746<lb/> 0.000532<lb/> 0.000987<lb/> 0.000774<lb/> -0.000369<lb/> (0.00076)<lb/> (0.00149)<lb/> (0.00124)<lb/> (0.00101)<lb/> (0.00119)<lb/> ln Employment density<lb/> -0.0699<lb/> -0.112<lb/> -0.135**<lb/> -0.113*<lb/> -0.0646<lb/> (0.04350)<lb/> (0.06770)<lb/> (0.05330)<lb/> (0.05170)<lb/> (0.06690)<lb/> ln Population density<lb/> 0.0723<lb/> 0.119<lb/> 0.144**<lb/> 0.122**<lb/> 0.0715<lb/> (0.04380)<lb/> (0.06880)<lb/> (0.05380)<lb/> (0.05220)<lb/> (0.06820)<lb/> Constant<lb/> -0.0553<lb/> 0.496*<lb/> 0.595**<lb/> 0.842**<lb/> 0.844**<lb/> (0.11300)<lb/> (0.22300)<lb/> (0.22400)<lb/> (0.30400)<lb/> (0.31900)<lb/> Time controls<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Country controls<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Observations<lb/> 972<lb/> 252<lb/> 218<lb/> 193<lb/> 165<lb/> R-squared<lb/> 0.264<lb/> 0.342<lb/> 0.362<lb/> 0.35<lb/> 0.346<lb/> No. of countries<lb/> 18<lb/> 11<lb/> 10<lb/> 10<lb/> 10</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>) and Dawson and Richter (2006). 4<lb/> 4.<lb/> The webpage www.jeremydawson.co.uk/slopes.htm contains various Excel worksheets which help interpret<lb/> the interaction effects.</table>
+        </figure>
+
+
+
+    </text>
+</tei>
+

@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><title level="j">Reports</title> and papers</bibl>
+	<bibl><author>Behrend, S., M. Scharp and L. Erdmann</author>, <date>2007</date>, <title level="a">Rare Metals: Measures and concepts for the solution of the problemof conflict -aggravatingraw material extraction – the example of Coltan</title> .<orgName>Institute for Future Studies andTechnology Assessment</orgName> , <pubPlace>Dessau</pubPlace>.</bibl>
+	<bibl><author>Cathles, L. M.</author>, <date>2010</date>, &apos;A path forward&apos;, SEG Newsletter <biblScope unit="page">83</biblScope></bibl>
+	<bibl><title level="j">DERA</title>, <date>2012</date>, <title level="a">Energy Study 2012: Reserves, Resources and Availability of Energy Resources</title>. <title level="j">German MineralResources Agency</title> ( <pubPlace>DERA),Hannover</pubPlace></bibl>
+	<bibl><author>Erdmann, L. and T. E. Graedel</author>, <date>2011</date>, &apos;<title level="a">Criticality of non-fuel minerals: a review of major approaches and analyzes</title>&apos;,<title level="j">Environmental Science and Technology</title> <biblScope unit="volume">45</biblScope> ,<biblScope unit="page">7620 -7630</biblScope></bibl>
+	<bibl><title level="j">European Commission</title>, <date>2010</date>, <title level="a">Critical Raw Materials for the EU: Report of the Ad-hoc Working Group on definingcritical raw materials .DG Enterprise and Industry</title> .<pubPlace>Brussels</pubPlace></bibl>
+	<bibl><title level="m">European Commission, 2014, Report on Critical Raw Materials for the EU: Report of the Ad hoc Working Groupon defining critical raw materials .DG Enterprise and Industry</title> ,<pubPlace>Brussels</pubPlace></bibl>
+	<bibl><author>Graedel, T. E. and B. R. Allenby</author>, <date>2010</date>, <orgName>Industrial Ecology and Sustainable Engineering</orgName>, <publisher>Prentice Hall</publisher>, <pubPlace>Michigan</pubPlace></bibl>
+	<bibl><author>Graedel, T. E., J. Allwood et al.</author>, <date>2011</date>, &apos;<title level="a">What do we know about metal recycling rates?</title>&apos;, <title level="j">Journal of IndustrialEcology</title> <biblScope unit="volume">15</biblScope> (<biblScope unit="issue">3</biblScope>),<biblScope unit="page">355 -366</biblScope></bibl>
+	<bibl><author>Graedel, T. E., R. Barr et al.</author>, <date>2012</date>, &apos;<title level="a">Methodology of metal criticality determination</title>&apos;, <title level="j">Environmental Scienceand Technology</title> <biblScope unit="volume">46</biblScope> (<biblScope unit="issue">2</biblScope>):<biblScope unit="page">1063 -1070</biblScope></bibl>
+	<bibl><author>Harper, E. M., G. Kavlak et al.</author>, <title level="a">forthcoming, &apos;Criticality of the geological zinc, tin, and lead family</title>&apos;, <title level="j">Journalof Industrial Ecology</title> ,<ptr type="web">DOI :10 .1111/jiec.12213</ptr></bibl>
+	<bibl><author>Krausmann, F., S. Gingrich et al.</author>, <date>2009</date>, &apos;<title level="a">Growth in global materials use, GDP and population during the 20thcentury</title> &apos;,<title level="j">Ecological Economics</title> <biblScope unit="volume">68</biblScope> (<biblScope unit="issue">10</biblScope>),<biblScope unit="page">2696 -2705</biblScope></bibl>
+	<bibl><title level="j">National Resource Council of the National Academies</title>, <date>2008</date>, Minerals, <title level="m">Critical Minerals, and the US Economy</title>,<pubPlace>Washington ,DC</pubPlace> ,<publisher>National Academies Press</publisher></bibl>
+	<bibl><author>Nassar, N. T., R. Barr et al.</author>, <date>2012</date>, &apos;<title level="a">Criticality of the geological copper family</title>&apos;, <title level="j">Environmental Science and Technology</title><biblScope unit="volume">46</biblScope> ,<biblScope unit="page">1071 -1076</biblScope></bibl>
+	<bibl><author>Nuss, P., E. M. Harper et al.</author>, <date>2014</date>, &apos;<title level="a">Criticality of iron and its principal alloying elements</title>&apos;, <title level="j">Environmental Scienceand Technology</title> <biblScope unit="volume">48</biblScope> ,<biblScope unit="page">4171 -4177</biblScope></bibl>
+	<bibl><title level="j">Oakdene Hollins</title>, <date>2008</date>, <title level="a">Material Security: Ensuring Resource Availability for the</title> <title level="j">UK Economy U.S.Geological Survey</title> ,<pubPlace>2012 ,Minerals Yearbook 2010 ENV /WKP</pubPlace>(<date>2015</date>)<biblScope unit="page">12</biblScope></bibl>
+	<bibl><biblScope unit="page">47</biblScope></bibl>
+	<bibl><author>Waeger, P., D. J. Lang et al.</author>, <date>2012</date>, &apos;<title level="a">Towards a more sustainable use of scarce metals: a review of interventionoptions along the metals life cycle</title> &apos;,<title level="j">Gaia</title> <biblScope unit="volume">21</biblScope> (<biblScope unit="issue">4</biblScope>):<biblScope unit="page">300 -309</biblScope></bibl>
+	<bibl><title level="j">Websites</title></bibl>
+	<bibl><title level="a">The Open Market Index (OMI, 2014) from the International Chamber of Commerce www.iccwbo.org/global-influence/g20/reports-and-products/open-markets-index</title>/</bibl>
+	<bibl><title level="m">Political Risk Services (PRS, 2012) from the International Country Risk Guide</title> (<title level="a">ICRG) https://www.prsgroup.com/about-us/our-two-methodologies/icrgMineral profilesfrom the U . S.GeologicalSurvey http : //minerals.usgs.gov/minerals</title>/pubs/commodity/mcp.<title level="m">htmlWorldGovernmentIndicators (WGI , 2014 )fromthe WorldBank http</title> : / / <ptr type="web">info.worldbank.org/governance/wgi/index.aspx#homeENV/WKP</ptr>(<date>2015</date> )<biblScope unit="page">12</biblScope></bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

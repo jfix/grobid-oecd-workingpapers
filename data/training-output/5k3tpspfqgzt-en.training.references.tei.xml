@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>Höglund, L.</author> (<date>2000</date>), <title level="a">Essays on Environmental Regulation with Applications to Sweden</title>, <note type="report">PhD thesis</note>, <orgName>Department of Economics,Gothenburg University</orgName> ,<pubPlace>Sweden</pubPlace> .</bibl>
+	<bibl><author>Höglund-Isaksson, L.</author> (<date>2005</date>), &quot; <title level="a">Abatement Costs in Response to the Swedish Charge on Nitrogen Oxide Emissions</title>&quot; , <title level="j">Journal of Environmental Economics and Management</title> ,Vol .<biblScope unit="volume">50</biblScope> ,pp .<biblScope unit="volume">102 120</biblScope> .</bibl>
+	<bibl><title level="j">OECD</title> (<date>2010a</date>), <title level="a">Innovation Impacts of the Swedish NOx Charge</title>, <pubPlace>OECD, Paris</pubPlace>, <ptr type="web">available at www.oecd.org/ greengrowth/consumption-innovation/43211635.pdf</ptr>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2010b</date>), <title level="a">Taxation, Innovation and the Environment</title>, <publisher>OECD Publishing. doi</publisher>: <biblScope unit="page">10.1787/9789264087637-en</biblScope>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2008</date>), <title level="a">Environmentally Related Taxes and Tradable Permit Systems in Practice, OECD, Paris, available at www.oecd.org/officialdocuments/displaydocumentpdf</title>/?cote=com/env/epoc/ctpa/cfa(<date>2007</date>)<biblScope unit="page">31/final</biblScope>.</bibl>
+	<bibl><title level="j">SEPA</title> (<title level="j">Swedish Environmental Protection Agency)</title> (<date>2008</date>), <title level="m">Database of Information from Annual Surveys of Plants Regulatedby the Swedish NOx Charge</title> ,<pubPlace>SEPA ,Östersund</pubPlace> .</bibl>
+	<bibl><title level="j">SEPA</title> (<date>2006</date>), <title level="a">The Swedish Charge on Nitrogen Oxides – Cost-effective emission reduction</title>, <pubPlace>SEPA, Stockholm</pubPlace>, <ptr type="web">availableat www .naturvardsverket.se/Documents/publikationer/620-8245-0.pdf</ptr>.</bibl>
+	<bibl><title level="j">SEPA</title> (<date>2003</date>), <title level="a">Kväveoxidavgiften – ett effektivt styrmedel</title>. <title level="a">Utvärdering av NOx-avgiften (Reducing NOx Emissions</title>. <title level="a">AnEvaluation of the NOx Tax ),Swedish ,with an English Summary</title> ,Rapport <biblScope unit="volume">5335</biblScope> ,<pubPlace>SEPA ,Stockholm</pubPlace> ,<ptr type="web">available atwww . naturvardsverket.se</ptr>/Documents/publikationer/<biblScope unit="page">620-5335-3</biblScope>.<publisher>pdf</publisher>.</bibl>
+	<bibl><title level="j">SEPA</title> (<date>1997</date>), &quot; <title level="a">Kväveoxider från förbränning &quot; (Nitrogen Oxide Emissions from Combustion</title>), <title level="m">Allmänna råd 98:1, SwedishEnvironmental Protection Agency ,Naturvårdsverket Förlag</title> ,<pubPlace>Stockholm</pubPlace> .</bibl>
+	<bibl><author>Sterner, T. and L. Höglund-Isaksson</author> (<date>2006</date>), &quot; <title level="a">Refunded Emission Payments Theory, Distribution of Costs, and SwedishExperience of NO x Abatement</title> &quot; , <title level="j">Ecological Economics</title> ,Vol .<biblScope unit="volume">57</biblScope> ,pp .<biblScope unit="page">93 –106</biblScope> .</bibl>
+	<bibl><author>Sterner, T. and B. Turnheim</author> (<date>2008</date>), &quot; <title level="a">Innovation and Diffusion of Environmental Technology</title> &quot; , <title level="j">Discussion Paper</title> <date>2008</date>:<biblScope unit="page">02</biblScope>,<title level="a">Resources for the Future</title> ,<pubPlace>Washington ,DC</pubPlace> ,<ptr type="web">available at www .rff.org</ptr>/RFF/Documents/RFF -<idno>DP-08-02.pdf</idno>.</bibl>
+	<bibl><orgName>UCD (University College Dublin</orgName>) (<date>2008</date>), <title level="a">Economic Instruments in Environmental Policy</title>, <ptr type="web">webpage, www. economicinstruments.com/index.php/air-quality/article/73-accessed8</ptr> <date>April 2013</date> .</bibl>
+	<bibl><author>References OECDENVIRONMENT POLICY PAPER NO</author> .<biblScope unit="issue">2</biblScope> <date>© OECD 2013 | 23</date></bibl>
+	<bibl><author>24 | OECD ENVIRONMENT POLICY PAPER NO</author>. <biblScope unit="issue">2</biblScope> <date>© OECD 2013</date></bibl>
+	<bibl><author>THE SWEDISH TAX ON NITROGEN OXIDE EMISSIONS</author>: <title level="j">LESSONS IN ENVIRONMENTAL POLICY REFORM</title> <biblScope unit="volume">1</biblScope>.<title level="j">OECD</title> ( <date>2013</date>),&quot; <title level="a">Climate and Carbon :Aligning Prices and Policies</title> &quot; , <orgName>OECD Environment Policy Papers</orgName>, No. <biblScope unit="issue">1</biblScope>, <publisher>OECDPublishing . doi</publisher>: <biblScope unit="page">10. 1787/5k3z11hjg6r7-en</biblScope>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2013</date>), &quot; <title level="a">The Swedish Tax on Nitrogen Oxide Emissions: Lessons in Environmental PolicyReform</title> &quot; , <publisher>OECD Environment Policy Papers</publisher> ,No .<biblScope unit="issue">2</biblScope> ,<publisher>OECD Publishing</publisher> .</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

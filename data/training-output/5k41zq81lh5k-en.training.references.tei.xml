@@ -1,0 +1,75 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>Employment</author>, <title level="a">Unemployment and Labour Force Participation among those aged 15-24 years</title> <author>.........</author>. <biblScope unit="issue">7</biblScope></bibl>
+	<bibl><author>Employment</author>, <title level="a">Unemployment and Labour Force Participation by Gender and Age Group Q2 2011</title> . <biblScope unit="issue">7</biblScope></bibl>
+	<bibl><author>Total and Long</author>-term Unemployment by Age Group Q2 <date>2011</date> <author>...........................................................</author>. <biblScope unit="issue">8</biblScope></bibl>
+	<bibl><title level="a">Profile of Unemployed Youths in 2006 and 2011 by Labour Market Status (% of total sample)</title> ..... <biblScope unit="page">12</biblScope></bibl>
+	<bibl><orgName>Unemployed Youths Labour Market Transition Rates</orgName>: <date>2006 and 2011</date> <title level="a">(% of total sample)</title> <author>............</author>. <biblScope unit="page">13</biblScope></bibl>
+	<bibl><title level="m">Probit Models of the Determinants of Transitioning from Unemployment to Employment</title>: <date>2006 and 2011</date><author>. .........................................................................................................................................................</author>.<biblScope unit="page">14</biblScope></bibl>
+	<bibl><title level="m">Overall Decomposition Results</title> (<note>changes in transition rates</note><author>) ...........................................................</author>. <biblScope unit="page">15</biblScope></bibl>
+	<bibl><title level="m">Oaxaca Individual Coefficient Effects on the Change in the Labour Market Transition Rates between</title> <date>2006and 2011</date> <author>. .........................................................................................................................................</author>.<biblScope unit="page">16</biblScope></bibl>
+	<bibl><author>ECO/WKP</author>(<date>2013</date>)<biblScope unit="page">76</biblScope></bibl>
+	<bibl><title level="m">Elish Kelly and Seamus McGuinness are at the Economic and Social Research Institute</title>, <pubPlace>Dublin, Ireland</pubPlace>.</bibl>
+	<bibl><author>Philip O&apos;</author><orgName>Connell is at the University College</orgName>, <pubPlace>Dublin, Ireland</pubPlace>. <title level="a">David Haugh and Alberto González Pandiella areat the OECD ,Paris .The authors are very grateful to Robert Ford ,Andrew Dean and Patrick Lenain for valuable commentsand to Deirdre Claassen for essential technical assistance . Theviews expressed are</title> those of the authors, <note>and notnecessarily those of the OECD or of its member countries</note> .</bibl>
+	<bibl><author>Eurostat</author>, <date>March 2013</date>: http://<ptr type="web">epp.eurostat.ec.europa.eu/tgm/table.do?tab=table&amp;plugin=1&amp;language=en&amp;pcode=tsdec4603 .Eurostat</ptr>, <date>October2012</date>: http :/ /<ptr type="web">appsso.eurostat.ec.europa.eu/nui/show.do</ptr>.</bibl>
+	<bibl><title level="j">OECD</title>, <date>March 2013</date>: http://stats.<note type="report">oecd.org/Index.aspx?DatasetCode=DUR_I# 5.Eurostat</note> ,<date>March2013</date> : http: //<ptr type="web">appsso.eurostat.ec.europa.eu/nui/setupModifyTableLayout.doECO/ WKP</ptr>(<date>2013</date>)<biblScope unit="page">76</biblScope></bibl>
+	<bibl><title level="a">Table 8. Oaxaca Individual Coefficient Effects on the Change in the Labour Market Transition Rates between</title> <date>2006and 2011</date></bibl>
+	<bibl><note type="report">Individual Coefficient Effects Male- 0.029***(0 .010</note>)</bibl>
+	<bibl><idno>Aged 15-19 0.061***( 0.004</idno>)</bibl>
+	<bibl><idno>Leaving Certificate -0.077***( 0.007</idno>)</bibl>
+	<bibl><title level="a">Post Leaving Cert Level (includes apprenticeships)</title> <idno>-0.056***( 0.005</idno>)</bibl>
+	<bibl>Third-level Non-<idno>Degree 0.012***( 0.002</idno>)</bibl>
+	<bibl>Third-level <idno>Degree 0.033***( 0.003</idno>)</bibl>
+	<bibl><idno>Border -0.013***( 0.004</idno>)</bibl>
+	<bibl>Mid-<idno>East 0.015***( 0.002</idno>)</bibl>
+	<bibl><idno>Midlands -0.019***( 0.003</idno>)</bibl>
+	<bibl>Mid-<idno>West 0.018***( 0.002</idno>)</bibl>
+	<bibl><author>South-East</author> <idno>-0.002( 0.003</idno>)</bibl>
+	<bibl><author>South-West</author> <idno>0.004( 0.003</idno>)</bibl>
+	<bibl><idno>West -0.004( 0.003</idno>)</bibl>
+	<bibl><idno>Months 0.008***( 0.003</idno>)</bibl>
+	<bibl><idno>7-12 Months -0.052***( 0.004</idno>)</bibl>
+	<bibl><title level="m">13 Months and</title> <idno>Above 0.067***( 0.009</idno>)</bibl>
+	<bibl><idno>Irish 0.227***( 0.027</idno>)</bibl>
+	<bibl><note type="report">Constant (Unexplained Component) -0.451***( 0.037</note>)</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2013</date>)<biblScope unit="page">76</biblScope></bibl>
+	<bibl><title level="j">BIBLIOGRAPHY</title></bibl>
+	<bibl><author>Aaronson, D., B. Mazumder, and S. Schechter</author> (<date>2010</date>), &quot; <title level="a">What is behind the rise in long-term unemployment?&quot; , Economic Perspectives ,Federal Reserve Bank of Chicago ,issue Q II</title> ,pp .<biblScope unit="page">28 -51</biblScope>.</bibl>
+	<bibl><author>Bachmann, R., and M. Sinning</author> (<date>2012</date>), &quot; <title level="a">Decomposing the Ins and Outs of Cyclical Unemployment</title> &quot; , <title level="j">IZADiscussion Papers</title> <biblScope unit="volume">6362</biblScope> ,<orgName>Institute for the Study of Labour</orgName> ( <pubPlace>IZA)</pubPlace>.</bibl>
+	<bibl><title level="j">Central Statistics Office</title> (<date>2012a</date>), <title level="m">Live Register: December 2011. Cork: Central Statistics Office</title>.</bibl>
+	<bibl><title level="j">Central Statistics Office</title> (<date>2012b</date>), <title level="a">Population and Migration Estimates</title>: <date>April 2012</date>. <pubPlace>Cork</pubPlace>: <publisher>Central Statistics Office.</publisher></bibl>
+	<bibl><title level="m">Central Statistics Office</title> (<date>2013a</date>), <title level="a">Live Register</title>: <date>February 2013</date>. <title level="a">Cork: Central Statistics Office CentralStatistics Office ( 2013b),Quarterly National Household Survey Time</title> <ptr type="web">Series :www .cso.ie/en/qnhs/releasesandpublications/qnhs-calendarquarters</ptr>/</bibl>
+	<bibl><author>Choudhry, M. T., E. Marelli, and M. Signorelli</author> (<date>2012</date>), &quot; <title level="a">Youth unemployment rate and impact of financial crises</title>&quot; , <title level="j">International Journal of Manpower</title> ,Vol .<biblScope unit="volume">33 Iss :1</biblScope> ,pp .<biblScope unit="page">76 – 95</biblScope></bibl>
+	<bibl><author>Conefrey, T.</author> (<date>2011</date>), &quot; <title level="a">Unemployment and Labour Force Participation During the Recession</title> &quot; , <title level="m">Economic LetterSeries from Central Bank of Ireland</title> ,Vol .<biblScope unit="volume">2011</biblScope> ,No .<biblScope unit="issue">4</biblScope> .</bibl>
+	<bibl><author>Conefrey, T.</author> (<date>2013</date>), &quot; <title level="a">Migration in Ireland: Recent Trends in Historical Context</title> &quot; , <title level="j">Central Bank of Ireland QuarterlyBulletin</title> <biblScope unit="volume">01</biblScope> /<date>January2013</date> .</bibl>
+	<bibl><author>Dolado, J. J., M. Jansen, F. Felgueroso, A. Fuentes and A. Wölfl</author> (<date>2013</date>), &quot; <title level="a">Youth labour market performancein Spain and its determinants - amicro -levelperspective</title> &quot; , <orgName>OECD Economics Department WorkingPaper</orgName> , No. <biblScope unit="issue">1039</biblScope>.</bibl>
+	<bibl><author>Duffy, D., J. Durkan, and C. O&apos;Sullivan</author> (<date>2011</date>), <title level="m">Quarterly Economic Commentary</title>, <pubPlace>Summer</pubPlace> <date>2011</date>. <pubPlace>Dublin</pubPlace>: <publisher>Economicand Social Research Institute</publisher> .</bibl>
+	<bibl><author>Duffy, D. and K. Timoney</author> (<date>2013</date>), <title level="m">Quarterly Economic Commentary</title>, <date>Spring 2013</date>. <pubPlace>Dublin</pubPlace>: <publisher>Economic and SocialResearch Institute</publisher> .</bibl>
+	<bibl><author>Farber, H.S. and R.G. Valletta</author> (<date>2013</date>), &quot; <title level="a">Do Extended Unemployment Benefits Lengthen Unemployment Spells?Evidence from Recent Cycles in the U .S.Labor Market</title> &quot; , <note type="report">NBER Working Paper</note> ,No .<date>19048</date> .</bibl>
+	<bibl><author>Gomes, P.</author> (<date>2012</date>), &quot; <title level="a">Labour market flows: Facts from the United Kingdom</title> &quot; , <title level="j">Labour Economics</title>, <biblScope unit="volume">19</biblScope>:<biblScope unit="issue">2</biblScope>, pp.<biblScope unit="page">165 -175</biblScope>.</bibl>
+	<bibl><author>Insegard, B.</author> (<date>2003</date>), &quot; <title level="a">Youth Unemployment: Individual Risk Factors and Institutional Determinants. A CaseStudy of Germany and the United Kingdom</title> &quot; , <title level="j">Journal of Youth Studies</title> ,<biblScope unit="volume">6</biblScope> :<biblScope unit="issue">4</biblScope>,pp .<biblScope unit="page">357 -376</biblScope>.</bibl>
+	<bibl><author>Kelly, E. S. McGuinness and P.J. O&apos;Connell</author> (<date>2012</date>), &quot; <title level="a">Transitions to Long-Term Unemployment Risk AmongYoung People :Evidence from Ireland</title> &quot; , <title level="j">Journal of Youth Studies</title> ,<biblScope unit="volume">15</biblScope> :<biblScope unit="issue">6</biblScope>,pp .<biblScope unit="page">780 -801</biblScope>.</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2013</date>)<biblScope unit="page">76</biblScope></bibl>
+	<bibl><author>McGinnity, F., E. Quinn, P.J. O&apos;Connell and N. Donnelly</author> (<date>2011</date>), <title level="m">Annual Monitoring Report on Integration</title><date>2010</date> .<pubPlace>Dublin</pubPlace> :<publisher>Economic and Social Research Institute</publisher> .</bibl>
+	<bibl><author>O&apos;Connell, P.J. and F. McGinnity</author> (<date>1997</date>), &quot; <title level="a">What Works, Who Works? The Employment and Earnings Effectsof Active Labour Market Programmes among Young People in Ireland</title> &quot; , <title level="j">Work Employment and Society</title>, <biblScope unit="volume">11</biblScope>: <biblScope unit="issue">4</biblScope>,pp. <biblScope unit="page">639- 661</biblScope>.</bibl>
+	<bibl><author>Russell, H. and P.J. O&apos;Connell</author> (<date>2001</date>), &quot; <title level="a">Getting a Job in Europe: The Transition from Unemployment to Employmentamong Young People in Nine European Countries</title> &quot; , <publisher>Work Employment and Society</publisher> ,<biblScope unit="volume">15</biblScope> :<biblScope unit="issue">1</biblScope>,pp. <biblScope unit="page">1- 24</biblScope>.</bibl>
+	<bibl><author>Russell, H. and P.J O&apos;Connell</author> (<date>2004</date>), &quot; <title level="a">Women Returning to Employment, Education and Training in Ireland:An Analysis of Transitions</title> &quot; , <title level="j">Economic and Social Review</title> ,<biblScope unit="volume">35</biblScope> :<biblScope unit="issue">1</biblScope>,pp .<biblScope unit="page">1 -25</biblScope>.</bibl>
+	<bibl><author>Valletta, R. and K. Kuang</author> (<date>2012</date>), &quot; <title level="a">Why is unemployment duration so long</title> &quot; , <orgName>Federal Reserve Bank of SanFrancisco Economic Letter</orgName> ,<biblScope unit="page">2012 -3</biblScope>.</bibl>
+	<bibl><author>Veenman, J. and G.E. Bijwaard</author> (<date>2011</date>), &quot; <title level="a">Exclusionary risks on the transitional labour market</title> &quot; <title level="j">EuropeanSociological Review</title> ,pp .<biblScope unit="page">1 -13</biblScope>.</bibl>
+	<bibl><author>Verick, S.</author> (<date>2011</date>), &quot; <title level="a">The impact of the global financial crisis on labour markets in OECD countries: Why youthand other vulnerable groups have been hit hard</title> &quot; in <editor>Iyanatul Islam and Sher Verick</editor> ( eds.),<title level="m">From theGreat Recession to Labour Market Recovery : Issues, Evidenceand Policy Options</title> . <publisher>Hampshire: PalgraveMacmillan</publisher>.</bibl>
+	<bibl><author>Verick, S.</author> (<date>2012</date>), &quot; <title level="a">Giving Up Job Search During a Recession: The Impact of the Global Financial Crisis onthe South African Labour Market</title> &quot; , <title level="j">Journal of African Economies ( forthcoming)</title>,<note>published online 30</note><date>January 2012</date> .</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2013</date>)<biblScope unit="page">76</biblScope></bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

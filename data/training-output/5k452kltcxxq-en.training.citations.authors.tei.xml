@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><forename>D</forename><surname>&apos;Addio</surname>, <forename>C</forename>.<middlename>A</middlename>. and <forename>M</forename>. <surname>Mira d&apos;Ercole</surname></author>
+
+						<author><surname>Jarrett</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Johansson</surname>, <forename>A</forename>., <forename>Y</forename>. <surname>Guillemette</surname>, <forename>F</forename>. <surname>Murtin</surname>, <forename>D</forename>. <surname>Turner</surname>, <forename>G</forename>. <surname>Nicoletti</surname>, <forename>C</forename>. <surname>de la Maisonneuve</surname>, <forename>P</forename>. <surname>Bagnoli</surname>, <forename>G</forename>. <surname>Bousquet</surname> and <forename>F</forename>. <surname>Spinelli</surname></author>
+
+						<author><surname>Kierzenkowski</surname>, <forename>R</forename>, <forename>P</forename>. <surname>Ollivaud</surname>, <forename>F</forename>. <surname>Sédillot</surname> and <surname>Ph</surname>. <surname>Briard</surname></author>
+
+						<author><surname>Luci</surname>, <forename>A</forename>. and <forename>O</forename>. <surname>Thévenon</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

@@ -1,0 +1,132 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Albreht</surname>, <forename>T</forename>. et al.</author>
+
+						<author><surname>Augurzky</surname>, <forename>B</forename> et al.</author>
+
+						<author><surname>Barros</surname>, <forename>P</forename>. and <forename>R</forename>. <surname>Gonçalves</surname></author>
+
+						<author><surname>Bellanger</surname>, <forename>M</forename>. et al.</author>
+
+						<author><surname>Bowers</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Bryndová</surname>, <forename>L</forename>. et al.</author>
+
+						<author><surname>Busse</surname> et al.</author>
+
+						<author><surname>Busse</surname>, <forename>R</forename>. et al.</author>
+
+						<author><surname>Busse</surname>, <forename>R</forename>. et al.</author>
+
+						<author><surname>Busse</surname>, <forename>R</forename>. et al.</author>
+
+						<author><surname>Center</surname> for <forename>Medicare</forename> and <forename>Medicaid</forename> <surname>Innovation</surname></author>
+
+						<author><surname>Carey</surname>, <forename>K</forename>.</author>
+
+						<author><surname>Cohen</surname>, <forename>J</forename>.<middlename>P</middlename>. et al.</author>
+
+						<author><surname>Cohen</surname>, <forename>J</forename>.<middlename>P</middlename>. et al.</author>
+
+						<author><surname>Connor</surname>, <forename>R</forename>. et al.</author>
+
+						<author><surname>Cowing</surname>, <forename>T</forename>.<middlename>G</middlename>. and <forename>A</forename>.<middlename>G</middlename>. <surname>Holtmann</surname></author>
+
+						<author><surname>Czach</surname>, <forename>K</forename>. et al.</author>
+
+						<author><forename>Deutsches</forename> <surname>Krankenhausinstitut</surname></author>
+
+						<author><surname>Ellis</surname>, <forename>R</forename>. <middlename>P</middlename>. and <forename>T</forename>.<middlename>G</middlename>. <surname>McGuire</surname></author>
+
+						<author><surname>Endrei</surname>, <forename>D</forename>. et al.</author>
+
+						<author><surname>Epstein</surname>, <forename>D</forename>., et al.</author>
+
+						<author><surname>Gaal</surname>, <forename>P</forename>. et al.</author>
+
+						<author><surname>Healy</surname>, <forename>J</forename>., <forename>E</forename>. <surname>Sharman</surname> and <forename>B</forename>. <surname>Lokuge</surname></author>
+
+						<author><surname>Heimig</surname>, <forename>F</forename>., <surname>CEO InEK GmbH</surname></author>
+
+						<author><surname>Ho</surname>, <forename>V</forename>. and <forename>L</forename>.<middlename>A</middlename>. <surname>Petersen</surname></author>
+
+						<author><surname>Kalman</surname>, <forename>N</forename>.<middlename>S</middlename>.</author>
+
+						<author><surname>Kim</surname>, <forename>D</forename>. et al.</author>
+
+						<author><surname>Kinkorová</surname>, <forename>J</forename>. and <forename>O</forename>. <surname>Topolčan</surname></author>
+
+						<author><surname>Kobel</surname>, <forename>C</forename>. et al.</author>
+
+						<author><surname>Kristensen</surname>, <forename>T</forename>. et al.</author>
+
+						<author><surname>Kumar</surname>, <forename>A</forename>. and <forename>M</forename>. <surname>Schoenstein</surname></author>
+
+						<author><surname>Kutzin</surname>, <forename>J</forename>. et al.</author>
+
+						<author><surname>Li</surname>, <forename>T</forename>. and <forename>R</forename>. <surname>Rosenman</surname></author>
+
+						<author><surname>Marini</surname>, <forename>G</forename>. et al.</author>
+
+						<author><surname>Menke</surname>, <forename>T</forename>.<middlename>J</middlename>.</author>
+
+						<author><surname>Morgan</surname>, <forename>D</forename>. and <forename>R</forename>. <surname>Astolfi</surname></author>
+
+						<author><surname>Murray</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Or</surname>, <forename>Z</forename>. and <forename>M</forename>. <surname>Bellanger</surname></author>
+
+						<author><surname>Quentin</surname>, <forename>W</forename>. et al.</author>
+
+						<author><surname>Quentin</surname>, <forename>W</forename>. et al.</author>
+
+						<author><surname>Rice</surname>, <forename>T</forename>. et al.</author>
+
+						<author><surname>Roll</surname> <forename>K</forename>, <surname>Stargardt</surname> <forename>T</forename> and <forename>J</forename> <surname>Schreyögg</surname></author>
+
+						<author><surname>Rosen</surname>, <forename>B</forename> and <forename>S</forename>. <surname>Merkur</surname></author>
+
+						<author><surname>Schäfer</surname>, <forename>W</forename>. et al.</author>
+
+						<author><surname>Sagan</surname>, <forename>A</forename>. et al.</author>
+
+						<author><surname>Schreyögg</surname>, <forename>J</forename>. et al.</author>
+
+						<author><surname>Schreyögg</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Schreyögg</surname> <forename>J</forename> et al.</author>
+
+						<author><surname>Schut</surname>, <forename>E</forename>., <forename>S</forename>. <surname>Sorbe</surname> and <forename>J</forename>. <surname>Høj</surname></author>
+
+						<author><surname>Siciliani</surname>, <forename>L</forename>., <forename>M</forename>. <surname>Borowitz</surname> and <forename>V</forename>. <surname>Moran</surname></author>
+
+						<author><surname>Smet</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Smith</surname>, <forename>J</forename>.<middlename>C</middlename>. and <forename>C</forename>. <surname>Medalia</surname> <forename>A</forename>. et al.</author>
+
+						<author><surname>Tiemann</surname>, <forename>O</forename>.</author>
+
+						<author><surname>Tuschen</surname> <forename>KH</forename>, <surname>Braun</surname> <forename>T</forename>, <surname>Rau</surname> <forename>F</forename></author>
+
+						<author><surname>Vita</surname>, <forename>M</forename>.<middlename>G</middlename>.</author>
+
+						<author><surname>Wang</surname>, <forename>J</forename>. et al.</author>
+
+						<author><forename>WAGE-SETTING</forename> <surname>IN</surname> THE <surname>HOSPITAL SECTOR James Buchan</surname>, <forename>Ankit</forename> <surname>Kumar</surname> <forename>HEALTH</forename>, <forename>AUSTERITY</forename> <surname>AND</surname> ECONOMIC <surname>CRISIS</surname>: <surname>ASSESSING</surname> THE <surname>SHORT-TERM</surname> IMPACT <surname>IN</surname> OECD <surname>COUNTRIES</surname></author>
+
+						<author><forename>MANAGING</forename> <surname>HOSPITAL</surname> VOLUMES: <surname>GERMANY</surname> AND <surname>EXPERIENCES</surname> FROM <surname>OECD</surname> COUNTRIES <surname>Paris</surname>, <forename>Annalisa</forename> <surname>Belloni</surname> <forename>HEALTH</forename> <surname>WORKFORCE</surname> PLANNING <surname>IN</surname> OECD <surname>COUNTRIES Klim McPherson</surname>, <forename>Giorgia</forename> <middlename>Gon</middlename> <forename>Roberto</forename> <surname>Astolfi</surname>, <forename>Luca</forename> <surname>Lorenzoni</surname> <forename>ALTERNATIVE</forename> <surname>APPROACHES</surname> TO <surname>MEASURE</surname> AND <surname>PLACE</surname> A <surname>VALUE</surname> ON <surname>HOSPITAL</surname> PRODUCTS <surname>IN</surname> SEVEN <surname>OECD COUNTRIES Juan</surname> <forename>G</forename>. <surname>Gay</surname>, <forename>Valerie</forename> <surname>Paris</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

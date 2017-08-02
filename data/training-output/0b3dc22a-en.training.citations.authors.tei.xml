@@ -1,0 +1,118 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Agrawala</surname> <forename>S</forename> and <forename>Maëlis</forename> <surname>Carraro</surname></author>
+
+						<author><surname>Bello</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Béné</surname>, <forename>C</forename>., et al.</author>
+
+						<author><surname>Cai</surname>, <forename>W</forename>., <forename>S</forename>. <surname>Borlace</surname>, <forename>M</forename>. <surname>Lengaigne</surname>, <forename>P</forename>. <surname>van Rensch</surname>, <forename>M</forename>. <surname>Collins</surname>, <forename>G</forename>. <surname>Vecchi</surname>, <forename>A</forename>. <surname>Timmermann</surname>, <forename>A</forename>. <surname>Santoso</surname>, <forename>M</forename>. <surname>McPhaden</surname>, <forename>L</forename>. <surname>Wu</surname>, <forename>M</forename>. <surname>England</surname>, <forename>G</forename>. <surname>Wang</surname>, <forename>E</forename>. <surname>Guilyard</surname> and <forename>Fei-Fei</forename> <surname>Jin</surname></author>
+
+						<author><surname>Davies</surname>, <forename>M</forename>., <forename>K</forename>. <surname>Oswald</surname> and <forename>T</forename>. <surname>Mitchell</surname></author>
+
+						<author><surname>DesInventar</surname></author>
+
+						<author><surname>DfiD</surname></author>
+
+						<author><forename>DNP-BID</forename></author>
+
+						<author><surname>Durand-Lasserve</surname>, <forename>Alain</forename> and <forename>Selle</forename> <surname>Ndiaye</surname></author>
+
+						<author><forename>ENV</forename>/<surname>WKP</surname></author>
+
+						<author><forename>Egis</forename> <surname>Eau</surname></author>
+
+						<author><forename>G20</forename>/<surname>OECD</surname></author>
+
+						<author><surname>Ghesquiere</surname>, <forename>F</forename>. and <forename>O</forename>. <surname>Mahul</surname></author>
+
+						<author><surname>Government</surname> of <forename>Colombia</forename></author>
+
+						<author><surname>Gouvernement</surname> du Sénégal</author>
+
+						<author><forename>ENV</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Government</surname> of Sénégal</author>
+
+						<author><surname>Government</surname> of Senegal</author>
+
+						<author><surname>Government</surname> of Sénégal</author>
+
+						<author><surname>Heltberg</surname>, <forename>R</forename>., <forename>N</forename>.</author>
+
+						<author><surname>Hochrainer-Stigler</surname>, <forename>S</forename>., <forename>M</forename>. <surname>van der Velde</surname>, <forename>S</forename>. <surname>Fritz</surname>, <forename>G</forename>. <surname>Pflug</surname></author>
+
+						<author><forename>IED</forename> <surname>Afrique</surname></author>
+
+						<author><forename>ENV</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Field</surname>, <forename>C</forename>.<middlename>B</middlename>., <forename>V</forename>. <surname>Barros</surname>, <forename>T</forename>.<middlename>F</middlename>. <surname>Stocker</surname>, <forename>D</forename>. <surname>Qin</surname>, <forename>D</forename>.<middlename>J</middlename>. <surname>Dokken</surname>, <forename>K</forename>.<middlename>L</middlename>. <surname>Ebi</surname>, <forename>M</forename>.<middlename>D</middlename>. <surname>Mastrandrea</surname>, <forename>K</forename>.<middlename>J</middlename>. <surname>Mach</surname>, <forename>G.-K</forename>. <surname>Plattner</surname>, <forename>S</forename>.<middlename>K</middlename>.</author>
+
+						<author><surname>Kellett</surname>, <forename>J</forename>, <forename>A</forename>. <surname>Caravani</surname>, <forename>F</forename>. <surname>Pichon</surname></author>
+
+						<author><surname>Linnerooth-Bayer</surname>, <forename>J</forename>., and <forename>S</forename>. <surname>Hochrainer-Stigler</surname></author>
+
+						<author><surname>Mechler</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Monkam</surname>, <forename>Nara</forename></author>
+
+						<author><forename>ENV</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Olsson</surname>, <forename>L</forename>., <forename>M</forename>. <surname>Opondo</surname>, <forename>P</forename>. <surname>Tschakert</surname>, <forename>A</forename>. <surname>Agrawal</surname>, <forename>S</forename>.<middlename>H</middlename>. <surname>Eriksen</surname>, <forename>S</forename>. <surname>Ma</surname>, <forename>L</forename>.<middlename>N</middlename>. <surname>Perch</surname>, and <forename>S</forename>.<middlename>A</middlename>. <surname>Zakieldeen</surname></author>
+
+						<author><surname>Phaup</surname>, <forename>M</forename>. and <forename>C</forename>. <surname>Kirschner</surname></author>
+
+						<author><surname>Poole</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Republic</surname> of Senegal</author>
+
+						<author><surname>Republic</surname> of <surname>Senegal</surname> and <forename>UNDP</forename></author>
+
+						<author><forename>ENV</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Rogers</surname>, <forename>D</forename>. and <forename>V</forename>. <surname>Tsirkunov</surname></author>
+
+						<author><surname>Suarez</surname>, <forename>P</forename>. and <forename>J</forename>. <surname>Linnerooth-Bayer</surname></author>
+
+						<author><surname>Surminski</surname>, <forename>S</forename>. and <forename>D</forename>. <surname>Oramas-Dorta</surname></author>
+
+						<author><surname>Surminski</surname>, <forename>S</forename>. et al.</author>
+
+						<author><forename>Von</forename> <surname>Peter</surname>, <forename>G</forename>., <forename>S</forename>. <surname>Von Dahlen</surname> and <forename>S</forename>. <surname>Saxena</surname></author>
+
+						<author><forename>ENV</forename>/<surname>WKP</surname></author>
+
+						<author><surname>WFP</surname> and <forename>Oxfam</forename></author>
+
+						<author><surname>Wolfrom</surname>, <forename>L</forename>. and <forename>M</forename>. <surname>Yokoi-Arai</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><surname>World Bank Group</surname>, <forename>Washington</forename> <middlename>D</middlename>.<middlename>C</middlename>. <surname>http</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname> and <forename>GFDRR</forename></author>
+
+						<author><forename>ENV</forename>/<surname>WKP</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

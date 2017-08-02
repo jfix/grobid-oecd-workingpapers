@@ -1,0 +1,209 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5k9h363c5szq-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <head>TABLE </head>
+ 
+            <label>OF </label>
+ 
+            <head>CONTENTS</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Family services<lb/> Services to the elderly<lb/> Other social services (a)<lb/> Health services<lb/> Education services<lb/> Cash transfers (b) income – i.e. the sum of market income (earnings, rents, dividends, etc.) and cash transfers (from both<lb/> public and private sources) less direct taxes and social security contributions paid by households – to one<lb/> that includes additional non-market elements, such as government-provided services, home production 2<lb/> and other components that are usually omitted from conventional statistics. Incorporating the value of<lb/> government services in household income raises a range of questions, some of which are conceptual, and<lb/> others are methodological (see e.g. Marical et al. 2006; Garfinkel et al. 2006; OECD 2008a; Aaberge et al.<lb/> 2010a; Paulus et al., 2010), in particular:<lb/> a) Which of the government services should be included for the analysis of the impact on poverty?<lb/> b) How to value public services?<lb/> c) How to allocate the value of government services among individuals and households?</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>Nordic countries,<lb/> France and the United Kingdom.<lb/> 18.<lb/> Elderly care has emerged as a major social policy concern in OECD countries more recently<lb/> (Österle 2002; OECD 2005b and 2011b; Da Roit et al. 2007; European Commission 2006; Pavolini and<lb/> Ranci 2008). The proportion of GDP spent on long-term care is estimated to at least double and possibly<lb/> triple by 2050 (OECD 2005b; Comas</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>Jensen 2008). According to estimates by the<lb/> European Union (EC 2006), public spending on long-term care will increase by around 1 percentage point<lb/> between 2004 and 2050 in most member states, and by over 2 percentage points in Finland, Sweden and<lb/> Slovenia due to their more developed formal care system.</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. Summary of allocation methods for different public services<lb/> </head>
+<lb/> 
+            <table>Public service<lb/> Allocation<lb/> method<lb/> Beneficiaries<lb/> Education<lb/> AC<lb/> Pupils and students<lb/> Health care<lb/> IV<lb/> All individuals covered by public health<lb/> Social housing<lb/> AC<lb/> Residents of social housing unit<lb/> Early childhood education and care<lb/> AC<lb/> Young children in public childcare and pre-<lb/>primary education<lb/> Long-term elderly care<lb/> IV<lb/> All elderly people covered by the system<lb/> Incapacity-related<lb/> AC<lb/> Individuals that suffer from incapacity and use<lb/> related publicly provided services<lb/> Active labour market programmes<lb/> (ALM)<lb/> AC<lb/> Individuals participating in ALM programmes<lb/> Public transport<lb/> AC<lb/> Passengers of public transport<lb/> Public utilities, e.g. energy,<lb/> communication<lb/> AC<lb/> Users of public utilities<lb/> Note: AC = Actual consumption; IV = insurance value.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>A</label>
+
+            <head>.2 in Annex 1 gives the average monthly<lb/> </head>
+<lb/> 
+            <table>market rent<lb/> reduced rent<lb/> AUT<lb/> No<lb/> OLS<lb/> 2,012<lb/> 471<lb/> BEL<lb/> Yes<lb/> Heckman<lb/> 1,382<lb/> 506<lb/> CZE<lb/> No<lb/> OLS<lb/> 442<lb/> 1,737<lb/> DEU<lb/> Yes<lb/> Heckman<lb/> 5,814<lb/> 768<lb/> DNK<lb/> 1,586<lb/> 0<lb/> EST<lb/> Yes<lb/> Heckman<lb/> 172<lb/> 71<lb/> ESP<lb/> No<lb/> OLS<lb/> 915<lb/> 404<lb/> FIN<lb/> No<lb/> OLS<lb/> 971<lb/> 1,354<lb/> FRA<lb/> Yes<lb/> Heckman<lb/> 1,949<lb/> 1,532<lb/> GRC<lb/> No<lb/> OLS<lb/> 847<lb/> 42<lb/> HUN<lb/> Yes<lb/> Heckman<lb/> 227<lb/> 288<lb/> IRL<lb/> Yes<lb/> Heckman<lb/> 344<lb/> 585<lb/> ISL<lb/> No<lb/> OLS<lb/> 169<lb/> 174<lb/> ITA<lb/> Yes<lb/> Heckman<lb/> 2,708<lb/> 648<lb/> LUX<lb/> Yes<lb/> Heckman<lb/> 1,298<lb/> 159<lb/> NLD<lb/> 2,957<lb/> 0<lb/> NOR<lb/> No<lb/> OLS<lb/> 627<lb/> 210<lb/> POL<lb/> No<lb/> OLS<lb/> 359<lb/> 145<lb/> PRT<lb/> No<lb/> OLS<lb/> 391<lb/> 313<lb/> SWE<lb/> No<lb/> OLS<lb/> 2,112<lb/> 153<lb/> SVN<lb/> No<lb/> OLS<lb/> 343<lb/> 120<lb/> SVK<lb/> No<lb/> OLS<lb/> 434<lb/> 24<lb/> GBR<lb/> Yes<lb/> Heckman<lb/> 662<lb/> 1,643<lb/> No estimation possible<lb/> No estimation possible<lb/> Selection bias?<lb/> Regression method<lb/> Number of households that<lb/> rent at amount of imputed rent for each country, as well as the share of social rent households with negative<lb/> imputed rent. Negative values may arise because of overlapping distribution of social and private renters,<lb/> e.g. because the geographical categorisation used in the regression is too rough. The table shows rather<lb/> high levels of imputed rent for the United Kingdom and Ireland. These high levels may be driven by rent<lb/> levels in London and Dublin. Finally, annual amounts are arrived at by multiplying the estimates by 12 and<lb/> negative values of imputed rent are put to zero.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>household size. 20 But when<lb/> 20<lb/> See OECD (2005a) (http://www.oecd.org/dataoecd/61/52/35411111.pdf) for further explanations and<lb/> specifications.<lb/> 65-74<lb/> 75-84<lb/> 85+<lb/> 65-74<lb/> 75-84<lb/> 85+<lb/> Denmark<lb/> 0.07<lb/> 0.23<lb/> 0.52<lb/> 0.03<lb/> 0.10<lb/> 0.34<lb/> Estonia<lb/> 0.01<lb/> 0.01<lb/> 0.07<lb/> 0.01<lb/> 0.01<lb/> 0.04<lb/> Finland<lb/> 0.02<lb/> 0.10<lb/> 0.25<lb/> 0.01<lb/> 0.05<lb/> 0.19<lb/> France<lb/> ..<lb/> ..<lb/> ..<lb/> 0.01<lb/> 0.06<lb/> 0.24<lb/> Germany<lb/> 0.03<lb/> 0.10<lb/> 0.31<lb/> 0.01<lb/> 0.05<lb/> 0.24<lb/> Hungary<lb/> 0.05<lb/> 0.13<lb/> 0.18<lb/> 0.01<lb/> 0.03<lb/> 0.06<lb/> Iceland<lb/> 0.21<lb/> 0.21<lb/> 0.21<lb/> 0.02<lb/> 0.10<lb/> 0.40<lb/> Italy<lb/> 0.03<lb/> 0.03<lb/> 0.03<lb/> 0.02<lb/> 0.02<lb/> 0.02<lb/> Netherlands<lb/> 0.09<lb/> 0.33<lb/> 0.60<lb/> 0.01<lb/> 0.08<lb/> 0.34<lb/> Norway<lb/> 0.08<lb/> 0.26<lb/> 0.62<lb/> 0.01<lb/> 0.05<lb/> 0.23<lb/> Slovenia<lb/> 0.09<lb/> 0.09<lb/> 0.09<lb/> 0.01<lb/> 0.04<lb/> 0.14<lb/> Spain<lb/> 0.06<lb/> 0.06<lb/> 0.15<lb/> 0.02<lb/> 0.02<lb/> 0.08<lb/> Sweden<lb/> 0.03<lb/> 0.13<lb/> 0.39<lb/> 0.01<lb/> 0.06<lb/> 0.27<lb/> United Kingdom<lb/> ..<lb/> ..<lb/> ..<lb/> 0.01<lb/> 0.11<lb/> 0.11</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>. Imputation of education services in household income for a typical low-income family with two<lb/> children, example with three alternatives<lb/> </head>
+<lb/> 
+            <table>Equivalised<lb/> cash income,<lb/> before taking<lb/> account of<lb/> services (1)<lb/> Extended income (cash income + education services)<lb/> In-kind benefits<lb/> equivalised with same<lb/> equivalence scale as<lb/> cash income (2)<lb/> In-kind benefits<lb/> expressed on per<lb/> capita basis (3)<lb/> In-kind benefits non-<lb/>equivalised and only<lb/> attributed to individual<lb/> beneficiary (4)<lb/> Adult 1<lb/> 20,000<lb/> 24,000<lb/> 22,000<lb/> 20,000<lb/> Adult 2<lb/> 20,000<lb/> 24,000<lb/> 22,000<lb/> 20,000<lb/> Child 8 year<lb/> 20,000<lb/> 24,000<lb/> 22,000<lb/> 23,000<lb/> Child 13 year<lb/> 20,000<lb/> 24,000<lb/> 22,000<lb/> 25,000<lb/> Fixed poverty line:<lb/> 50% of median<lb/> cash income<lb/> 21,000<lb/> 21,000<lb/> 21,000<lb/> 21,000<lb/> Poverty outcomes<lb/> All family<lb/> members poor<lb/> No family member poor No family member poor<lb/> Adult family members<lb/> poor, children not poor<lb/> Floating poverty<lb/> line:<lb/> 50%<lb/> of<lb/> extended income<lb/> 21,000<lb/> 22,900<lb/> 22,100<lb/> 22,000<lb/> Poverty outcomes<lb/> All family<lb/> members poor<lb/> No family member poor<lb/> All family members<lb/> poor</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>They </head>
+ 
+            <label>propose </label>
+ 
+            <head>a fixed cost approach, &quot; assuming that the<lb/> 26<lb/> This approach was discussed with Panos Tsakloglou in February 2010. His comments and suggestions are<lb/> gratefully acknowledged.<lb/> </head>
+<lb/> 
+            <table>Household type<lb/> Age / education level<lb/> Cash<lb/> income<lb/> scale<lb/> (square<lb/> NC-scale (non-<lb/>cash)<lb/> NA-scale<lb/> (extended<lb/> income)<lb/> 20<lb/> 1<lb/> 0.759<lb/> 0.993<lb/> 30<lb/> 1<lb/> 0.787<lb/> 0.994<lb/> 40<lb/> 1<lb/> 1.000<lb/> 1.000<lb/> 50<lb/> 1<lb/> 1.506<lb/> 1.015<lb/> 60<lb/> 1<lb/> 2.491<lb/> 1.043<lb/> 70<lb/> 1<lb/> 4.136<lb/> 1.091<lb/> 80<lb/> 1<lb/> 7.354<lb/> 1.184<lb/> 20<lb/> 1<lb/> 0.899<lb/> 0.997<lb/> 30<lb/> 1<lb/> 1.264<lb/> 1.008<lb/> 40<lb/> 1<lb/> 1.246<lb/> 1.007<lb/> 50<lb/> 1<lb/> 1.592<lb/> 1.017<lb/> 60<lb/> 1<lb/> 2.256<lb/> 1.036<lb/> 70<lb/> 1<lb/> 3.565<lb/> 1.074<lb/> 80<lb/> 1<lb/> 6.454<lb/> 1.158<lb/> 20<lb/> 1.4<lb/> 1.658<lb/> 1.421<lb/> 30<lb/> 1.4<lb/> 2.051<lb/> 1.433<lb/> 40<lb/> 1.4<lb/> 2.246<lb/> 1.438<lb/> 50<lb/> 1.4<lb/> 3.097<lb/> 1.463<lb/> 60<lb/> 1.4<lb/> 4.746<lb/> 1.511<lb/> 70<lb/> 1.4<lb/> 7.701<lb/> 1.597<lb/> 80<lb/> 1.4<lb/> 13.808<lb/> 1.774<lb/> primary (7 y.)<lb/> 1.7<lb/> 11.917<lb/> 2.027<lb/> lower secondary (13 y.)<lb/> 1.7<lb/> 13.229<lb/> 2.065<lb/> upper secondary (16 y.)<lb/> 1.7<lb/> 13.760<lb/> 2.081<lb/> higher (20y.)<lb/> 1.7<lb/> 17.342<lb/> 2.185<lb/> primary (7 y.)<lb/> 2.0<lb/> 18.352<lb/> 2.474<lb/> lower secondary (13 y.)<lb/> 2.0<lb/> 21.587<lb/> 2.568<lb/> upper secondary (16 y.)<lb/> 2.0<lb/> 24.211<lb/> 2.644<lb/> higher (20y.)<lb/> 2.0<lb/> 25.274<lb/> 2.675<lb/> primary (7 y.)<lb/> 1.4<lb/> 9.299<lb/> 1.643<lb/> lower secondary (13 y.)<lb/> 1.4<lb/> 10.917<lb/> 1.690<lb/> upper secondary (16 y.)<lb/> 1.4<lb/> 12.229<lb/> 1.728<lb/> higher (20y.)<lb/> 1.4<lb/> 12.760<lb/> 1.743<lb/> Single man<lb/> Single woman<lb/> Couple, no children<lb/> Couple, both aged<lb/> 40, 1 child in<lb/> education<lb/> Couple, both aged<lb/> 40, 2 children in<lb/> education</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>6</label>
+
+            <head>: </head>
+ 
+            <figDesc>Poverty reduction after imputing education and health care services, seven OECD countries, results<lb/> from earlier studies<lb/> Note: Data refer to the early 1980s.<lb/> </figDesc>
+<lb/> 
+            <table>Source: Smeeding et al. (1993), Table 7.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>rate for<lb/> adjusted disposable<lb/> cash income<lb/> Poverty rate for<lb/> income extended with<lb/> education and health<lb/> care services<lb/> Poverty reduction<lb/> Australia<lb/> 15.1<lb/> 7.4<lb/> 51%<lb/> Canada<lb/> 15.1<lb/> 7.2<lb/> 52%<lb/> Germany<lb/> 7.5<lb/> 5.4<lb/> 28%<lb/> Netherlands<lb/> 6.6<lb/> 4.7<lb/> 29%<lb/> Sweden<lb/> 5.6<lb/> 4.3<lb/> 23%<lb/> United Kingdom<lb/> 13.5<lb/> 4.3<lb/> 68%<lb/> United States<lb/> 18.5<lb/> 12.1<lb/> 35%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5<lb/> Total<lb/> Education<lb/> 30.6%<lb/> 18.5%<lb/> 14.2%<lb/> 10.4%<lb/> 5.6%<lb/> 11.8%<lb/> Health care<lb/> 34.9%<lb/> 22.2%<lb/> 15.8%<lb/> 11.8%<lb/> 7.2%<lb/> 13.9%<lb/> Social housing<lb/> 1.8%<lb/> 0.7%<lb/> 0.4%<lb/> 0.2%<lb/> 0.1%<lb/> 0.4%<lb/> ECEC<lb/> 4.5%<lb/> 3.0%<lb/> 2.4%<lb/> 1.5%<lb/> 0.8%<lb/> 1.8%<lb/> Elderly care<lb/> 4.0%<lb/> 1.9%<lb/> 0.7%<lb/> 0.4%<lb/> 0.2%<lb/> 0.9%<lb/> Total<lb/> 75.8%<lb/> 46.4%<lb/> 33.5%<lb/> 24.3%<lb/> 13.7%<lb/> 28.8%<lb/> 0%<lb/> 10%<lb/> 20%<lb/> 30%<lb/> 40%<lb/> 50%<lb/> 60%<lb/> 70%<lb/> 80%<lb/> 90%<lb/> 100%<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5 16% to 24% and are thus more uniform across countries than inequality reduction achieved through cash<lb/> transfers and taxes (see OECD 2008a, OECD 2011c).</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>8</label>
+
+            <head>. Share of beneficiaries of social housing (SH) and in-kind benefit from social housing as a share of<lb/> disposable income per quintile<lb/> </head>
+<lb/> 
+            <table>Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5<lb/> Total<lb/> Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5<lb/> Total<lb/> AUT<lb/> 8.1%<lb/> 7.1%<lb/> 6.3%<lb/> 5.4%<lb/> 5.2%<lb/> 6.4%<lb/> 10.1%<lb/> 6.7%<lb/> 5.0%<lb/> 4.8%<lb/> 3.0%<lb/> 5.2%<lb/> BEL<lb/> 17.8%<lb/> 9.4%<lb/> 4.6%<lb/> 2.7%<lb/> 1.2%<lb/> 7.1%<lb/> 20.4%<lb/> 10.0%<lb/> 6.5%<lb/> 5.1%<lb/> 2.5%<lb/> 11.6%<lb/> CZE<lb/> 27.6%<lb/> 17.9%<lb/> 15.8%<lb/> 15.5%<lb/> 12.1%<lb/> 17.8%<lb/> 10.1%<lb/> 8.5%<lb/> 7.8%<lb/> 7.2%<lb/> 6.0%<lb/> 7.7%<lb/> DEU<lb/> 9.4%<lb/> 6.6%<lb/> 4.6%<lb/> 4.0%<lb/> 1.9%<lb/> 5.3%<lb/> 9.5%<lb/> 6.3%<lb/> 4.4%<lb/> 3.4%<lb/> 2.5%<lb/> 5.3%<lb/> ESP<lb/> 5.5%<lb/> 2.7%<lb/> 2.7%<lb/> 2.3%<lb/> 1.3%<lb/> 2.9%<lb/> 28.8%<lb/> 11.6%<lb/> 9.3%<lb/> 6.2%<lb/> 4.0%<lb/> 10.6%<lb/> EST<lb/> 2.6%<lb/> 1.8%<lb/> 1.7%<lb/> 1.1%<lb/> 0.7%<lb/> 1.6%<lb/> 17.4%<lb/> 15.4%<lb/> 5.9%<lb/> 9.6%<lb/> 2.6%<lb/> 9.6%<lb/> FIN<lb/> 31.9%<lb/> 21.5%<lb/> 11.9%<lb/> 9.6%<lb/> 4.1%<lb/> 15.8%<lb/> 7.1%<lb/> 5.1%<lb/> 3.9%<lb/> 4.1%<lb/> 3.1%<lb/> 5.0%<lb/> FRA<lb/> 23.1%<lb/> 17.7%<lb/> 15.7%<lb/> 12.4%<lb/> 7.7%<lb/> 15.3%<lb/> 13.2%<lb/> 8.7%<lb/> 6.2%<lb/> 5.2%<lb/> 1.5%<lb/> 6.7%<lb/> GBR<lb/> 36.3%<lb/> 28.1%<lb/> 14.8%<lb/> 6.7%<lb/> 1.6%<lb/> 17.5%<lb/> 41.4%<lb/> 22.6%<lb/> 18.8%<lb/> 9.4%<lb/> 7.2%<lb/> 23.8%<lb/> GRC<lb/> 0.9%<lb/> 0.7%<lb/> 1.0%<lb/> 1.0%<lb/> 0.7%<lb/> 0.9%<lb/> 13.2%<lb/> 7.8%<lb/> 6.1%<lb/> 5.4%<lb/> 1.0%<lb/> 4.2%<lb/> HUN<lb/> 6.9%<lb/> 3.3%<lb/> 3.3%<lb/> 2.0%<lb/> 2.7%<lb/> 3.6%<lb/> 24.3%<lb/> 13.4%<lb/> 16.3%<lb/> 11.5%<lb/> 7.1%<lb/> 14.0%<lb/> IRL<lb/> 28.0%<lb/> 17.1%<lb/> 9.1%<lb/> 4.2%<lb/> 1.9%<lb/> 12.1%<lb/> 37.7%<lb/> 21.2%<lb/> 13.8%<lb/> 10.7%<lb/> 5.9%<lb/> 21.7%<lb/> ISL<lb/> 15.3%<lb/> 7.6%<lb/> 5.1%<lb/> 2.5%<lb/> 1.2%<lb/> 6.4%<lb/> 8.0%<lb/> 6.7%<lb/> 7.7%<lb/> 4.1%<lb/> 4.9%<lb/> 6.8%<lb/> ITA<lb/> 4.6%<lb/> 4.2%<lb/> 2.2%<lb/> 1.9%<lb/> 0.8%<lb/> 2.7%<lb/> 29.3%<lb/> 16.8%<lb/> 11.6%<lb/> 7.1%<lb/> 3.8%<lb/> 13.9%<lb/> LUX<lb/> 7.2%<lb/> 1.8%<lb/> 2.1%<lb/> 3.4%<lb/> 2.1%<lb/> 3.3%<lb/> 11.6%<lb/> 7.9%<lb/> 5.5%<lb/> 3.4%<lb/> 0.9%<lb/> 5.0%<lb/> NOR<lb/> 8.0%<lb/> 5.3%<lb/> 2.5%<lb/> 1.6%<lb/> 0.7%<lb/> 3.6%<lb/> 9.2%<lb/> 8.1%<lb/> 6.8%<lb/> 5.7%<lb/> 6.0%<lb/> 7.6%<lb/> POL<lb/> 1.7%<lb/> 1.5%<lb/> 0.6%<lb/> 0.8%<lb/> 0.7%<lb/> 1.1%<lb/> 10.8%<lb/> 8.0%<lb/> 4.3%<lb/> 5.0%<lb/> 4.4%<lb/> 6.2%<lb/> PRT<lb/> 11.5%<lb/> 10.1%<lb/> 5.8%<lb/> 7.4%<lb/> 3.1%<lb/> 7.6%<lb/> 13.5%<lb/> 9.7%<lb/> 6.2%<lb/> 3.9%<lb/> 3.2%<lb/> 6.7%<lb/> SVK<lb/> 1.1%<lb/> 0.5%<lb/> 0.2%<lb/> 0.5%<lb/> 0.2%<lb/> 0.5%<lb/> 8.9%<lb/> 3.9%<lb/> 3.4%<lb/> 1.3%<lb/> 1.4%<lb/> 4.0%<lb/> SVN<lb/> 4.0%<lb/> 1.8%<lb/> 1.2%<lb/> 1.3%<lb/> 0.7%<lb/> 1.8%<lb/> 6.0%<lb/> 3.1%<lb/> 3.8%<lb/> 1.7%<lb/> 1.5%<lb/> 3.4%<lb/> SWE<lb/> 3.5%<lb/> 2.4%<lb/> 1.5%<lb/> 1.4%<lb/> 1.4%<lb/> 2.0%<lb/> 5.2%<lb/> 2.3%<lb/> 2.5%<lb/> 2.1%<lb/> 1.5%<lb/> 2.6%<lb/> OECD-21<lb/> 12.1%<lb/> 8.0%<lb/> 5.4%<lb/> 4.2%<lb/> 2.5%<lb/> 6.4%<lb/> 16.0%<lb/> 9.7%<lb/> 7.4%<lb/> 5.6%<lb/> 3.5%<lb/> 8.7%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Q1<lb/> Q2<lb/> Q3<lb/> Q4<lb/> Q5<lb/> Total<lb/> AUS<lb/> 33.0%<lb/> 35.0%<lb/> 50.8%<lb/> 39.3%<lb/> 42.4%<lb/> 40.1%<lb/> AUT<lb/> 38.1%<lb/> 44.7%<lb/> 46.6%<lb/> 42.8%<lb/> 47.7%<lb/> 43.2%<lb/> BEL<lb/> 54.2%<lb/> 69.9%<lb/> 71.6%<lb/> 75.7%<lb/> 79.0%<lb/> 69.2%<lb/> CAN<lb/> 30.9%<lb/> 32.9%<lb/> 29.2%<lb/> 27.5%<lb/> 26.3%<lb/> 29.8%<lb/> CZE<lb/> 44.1%<lb/> 45.6%<lb/> 46.9%<lb/> 40.0%<lb/> 40.7%<lb/> 43.8%<lb/> DEU<lb/> 65.8%<lb/> 59.9%<lb/> 67.9%<lb/> 61.0%<lb/> 57.1%<lb/> 62.8%<lb/> DNK<lb/> 80.1%<lb/> 80.4%<lb/> 86.0%<lb/> 86.8%<lb/> 84.6%<lb/> 83.8%<lb/> EST<lb/> 56.1%<lb/> 48.0%<lb/> 54.2%<lb/> 53.3%<lb/> 48.4%<lb/> 52.0%<lb/> ESP<lb/> 64.7%<lb/> 66.4%<lb/> 66.9%<lb/> 68.0%<lb/> 72.7%<lb/> 67.6%<lb/> FIN<lb/> 42.2%<lb/> 45.2%<lb/> 55.2%<lb/> 69.5%<lb/> 66.1%<lb/> 54.0%<lb/> FRA<lb/> 63.4%<lb/> 56.9%<lb/> 63.4%<lb/> 63.2%<lb/> 70.8%<lb/> 63.0%<lb/> GBR<lb/> 33.7%<lb/> 38.8%<lb/> 45.7%<lb/> 52.2%<lb/> 53.1%<lb/> 43.0%<lb/> GRC<lb/> 33.2%<lb/> 37.6%<lb/> 38.1%<lb/> 50.8%<lb/> 43.8%<lb/> 40.7%<lb/> HUN<lb/> 53.0%<lb/> 52.2%<lb/> 54.9%<lb/> 57.2%<lb/> 55.7%<lb/> 54.2%<lb/> IRL<lb/> 15.1%<lb/> 26.7%<lb/> 31.5%<lb/> 31.4%<lb/> 43.0%<lb/> 28.9%<lb/> ISL<lb/> 59.3%<lb/> 70.4%<lb/> 67.4%<lb/> 74.6%<lb/> 66.8%<lb/> 66.8%<lb/> ITA<lb/> 55.3%<lb/> 57.4%<lb/> 57.4%<lb/> 57.4%<lb/> 68.9%<lb/> 58.5%<lb/> LUX<lb/> 52.2%<lb/> 63.3%<lb/> 64.3%<lb/> 63.3%<lb/> 75.6%<lb/> 61.6%<lb/> MEX<lb/> 15.2%<lb/> 15.9%<lb/> 16.2%<lb/> 15.5%<lb/> 16.1%<lb/> 15.8%<lb/> NLD<lb/> 66.2%<lb/> 64.8%<lb/> 66.8%<lb/> 69.1%<lb/> 85.5%<lb/> 69.4%<lb/> NOR<lb/> 48.6%<lb/> 57.2%<lb/> 60.2%<lb/> 58.9%<lb/> 67.6%<lb/> 57.5%<lb/> POL<lb/> 17.4%<lb/> 17.2%<lb/> 20.6%<lb/> 24.5%<lb/> 31.5%<lb/> 21.8%<lb/> PRT<lb/> 46.5%<lb/> 45.3%<lb/> 54.8%<lb/> 68.1%<lb/> 68.3%<lb/> 56.2%<lb/> SWE<lb/> 70.6%<lb/> 70.6%<lb/> 72.6%<lb/> 70.0%<lb/> 69.6%<lb/> 70.9%<lb/> SVK<lb/> 29.3%<lb/> 33.4%<lb/> 56.1%<lb/> 42.4%<lb/> 64.8%<lb/> 43.2%<lb/> SVN<lb/> 56.2%<lb/> 64.1%<lb/> 62.0%<lb/> 57.7%<lb/> 62.7%<lb/> 60.4%<lb/> USA<lb/> 29.6%<lb/> 27.7%<lb/> 29.5%<lb/> 28.8%<lb/> 28.5%<lb/> 28.9%<lb/> OECD-27<lb/> 46.4%<lb/> 49.2%<lb/> 53.2%<lb/> 53.7%<lb/> 56.9%<lb/> 51.4%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>5.4%<lb/> 5.7%<lb/> 4.5%<lb/> 4.3%<lb/> 0.6%<lb/> 0.7%<lb/> 1.2%<lb/> 1.1%<lb/> 0.7%<lb/> 0.8%<lb/> 12.4%<lb/> 12.6%<lb/> AUT<lb/> 6.6%<lb/> 6.8%<lb/> 5.6%<lb/> 5.4%<lb/> 0.4%<lb/> 0.5%<lb/> 0.4%<lb/> 0.4%<lb/> 0.4%<lb/> 0.5%<lb/> 13.5%<lb/> 13.6%<lb/> BEL<lb/> 6.6%<lb/> 7.3%<lb/> 5.9%<lb/> 6.0%<lb/> 0.8%<lb/> 0.9%<lb/> 0.1%<lb/> 0.1%<lb/> 1.1%<lb/> 0.7%<lb/> 14.5%<lb/> 15.1%<lb/> CAN<lb/> 6.2%<lb/> 7.0%<lb/> 5.1%<lb/> 4.9%<lb/> 0.2%<lb/> 0.2%<lb/> 0.0%<lb/> 0.0%<lb/> 2.8%<lb/> 2.7%<lb/> 14.3%<lb/> 14.8%<lb/> DEU<lb/> 8.1%<lb/> 7.8%<lb/> 4.4%<lb/> 4.5%<lb/> 0.7%<lb/> 0.7%<lb/> 0.0%<lb/> 0.0%<lb/> 0.9%<lb/> 1.2%<lb/> 14.1%<lb/> 14.3%<lb/> DNK<lb/> 5.1%<lb/> 6.5%<lb/> 8.3%<lb/> 7.8%<lb/> 1.8%<lb/> 1.8%<lb/> 1.7%<lb/> 1.7%<lb/> 2.0%<lb/> 2.2%<lb/> 18.9%<lb/> 20.0%<lb/> ESP<lb/> 5.2%<lb/> 6.1%<lb/> 4.3%<lb/> 4.3%<lb/> 0.7%<lb/> 0.7%<lb/> 0.2%<lb/> 0.4%<lb/> 0.4%<lb/> 0.5%<lb/> 10.7%<lb/> 12.0%<lb/> FIN<lb/> 5.1%<lb/> 6.1%<lb/> 6.0%<lb/> 5.9%<lb/> 1.3%<lb/> 1.3%<lb/> 0.8%<lb/> 1.0%<lb/> 1.3%<lb/> 1.4%<lb/> 14.5%<lb/> 15.7%<lb/> FRA<lb/> 7.1%<lb/> 7.5%<lb/> 6.0%<lb/> 5.6%<lb/> 1.5%<lb/> 1.7%<lb/> 0.2%<lb/> 0.3%<lb/> 1.0%<lb/> 1.0%<lb/> 15.9%<lb/> 16.0%<lb/> GBR<lb/> 5.5%<lb/> 6.8%<lb/> 4.3%<lb/> 5.4%<lb/> 0.9%<lb/> 1.1%<lb/> 0.4%<lb/> 0.5%<lb/> 1.9%<lb/> 1.8%<lb/> 13.0%<lb/> 15.7%<lb/> GRC<lb/> 4.7%<lb/> 5.9%<lb/> 3.4%<lb/> 4.0%<lb/> 0.4%<lb/> 0.4%<lb/> 0.1%<lb/> 0.1%<lb/> 1.1%<lb/> 0.9%<lb/> 9.7%<lb/> 11.3%<lb/> IRL<lb/> 4.6%<lb/> 5.8%<lb/> 4.3%<lb/> 4.9%<lb/> 0.2%<lb/> 0.3%<lb/> 0.3%<lb/> 0.3%<lb/> 0.4%<lb/> 0.4%<lb/> 9.8%<lb/> 11.7%<lb/> ITA<lb/> 5.8%<lb/> 6.6%<lb/> 4.5%<lb/> 4.3%<lb/> 0.6%<lb/> 0.7%<lb/> 0.1%<lb/> 0.1%<lb/> 0.1%<lb/> 0.1%<lb/> 11.1%<lb/> 11.9%<lb/> LUX<lb/> 5.2%<lb/> 6.4%<lb/> …<lb/> …<lb/> 0.5%<lb/> 0.5%<lb/> 0.0%<lb/> 0.0%<lb/> 0.7%<lb/> 1.1%<lb/> ..<lb/> ..<lb/> NLD<lb/> 5.0%<lb/> 6.0%<lb/> 5.0%<lb/> 5.3%<lb/> 0.8%<lb/> 1.4%<lb/> 0.7%<lb/> 0.8%<lb/> 0.7%<lb/> 0.8%<lb/> 12.1%<lb/> 14.2%<lb/> PRT<lb/> 6.2%<lb/> 6.6%<lb/> 5.4%<lb/> 5.3%<lb/> 0.4%<lb/> 0.4%<lb/> 0.0%<lb/> 0.1%<lb/> 0.1%<lb/> 0.1%<lb/> 12.1%<lb/> 12.5%<lb/> SWE<lb/> 6.3%<lb/> 6.6%<lb/> 7.2%<lb/> 6.7%<lb/> 1.5%<lb/> 1.9%<lb/> 2.5%<lb/> 2.3%<lb/> 2.4%<lb/> 2.7%<lb/> 19.8%<lb/> 20.1%<lb/> USA<lb/> 5.9%<lb/> 7.2%<lb/> 4.9%<lb/> 5.3%<lb/> 0.6%<lb/> 0.6%<lb/> 0.0%<lb/> 0.0%<lb/> 0.2%<lb/> 0.3%<lb/> 11.6%<lb/> 13.4%<lb/> OECD-18<lb/> 5.8%<lb/> 6.6%<lb/> 5.2%<lb/> 5.3%<lb/> 0.8%<lb/> 0.9%<lb/> 0.5%<lb/> 0.5%<lb/> 1.0%<lb/> 1.1%<lb/> 13.3%<lb/> 14.4%<lb/> Total<lb/> Health<lb/> Education<lb/> Family<lb/> Elderly<lb/> Other</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>11</label>
+
+            <head>. Evolution of redistributive impact of publicly provided services, Gini coefficient, 2000 -2007(*)<lb/> </head>
+<lb/> 
+            <table>(*) the most recent year is 2004 for Canada and the United States of America.<lb/> Note: OECD-average excludes Luxembourg, as no estimates for education are available for 2000.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>10</label>
+
+            <head>, which uses GDP as a denominator).<lb/> </head>
+<lb/> 
+            <table>Cash<lb/> income<lb/> Health<lb/> care<lb/> Education Housing<lb/> All<lb/> Cash<lb/> income<lb/> Health<lb/> care Education Housing<lb/> All<lb/> AUS<lb/> 0.315<lb/> -12.2%<lb/> -7.2%<lb/> …<lb/> -18.3%<lb/> 0.312<lb/> -10.3%<lb/> -6.6%<lb/> …<lb/> -16.4%<lb/> AUT<lb/> 0.248<lb/> -10.7%<lb/> -10.0%<lb/> -0.7%<lb/> -20.1%<lb/> 0.267<lb/> -10.5%<lb/> -7.4%<lb/> -0.3%<lb/> -18.0%<lb/> BEL<lb/> 0.284<lb/> -12.2%<lb/> -5.0%<lb/> -0.7%<lb/> -17.1%<lb/> 0.264<lb/> -14.3%<lb/> -5.8%<lb/> -1.5%<lb/> -21.0%<lb/> CAN<lb/> 0.302<lb/> -8.4%<lb/> -8.4%<lb/> …<lb/> -15.9%<lb/> 0.319<lb/> -9.6%<lb/> -8.6%<lb/> …<lb/> -18.7%<lb/> DEU<lb/> 0.258<lb/> -12.0%<lb/> -6.4%<lb/> -0.6%<lb/> -18.6%<lb/> 0.300<lb/> -10.4%<lb/> -5.3%<lb/> -0.3%<lb/> -15.7%<lb/> DNK<lb/> 0.216<lb/> -16.0%<lb/> -6.8%<lb/> -0.4%<lb/> -22.2%<lb/> 0.250<lb/> -10.0%<lb/> -6.1%<lb/> …<lb/> -17.0%<lb/> ESP<lb/> 0.343<lb/> -9.7%<lb/> -9.2%<lb/> 0.0%<lb/> -17.7%<lb/> 0.310<lb/> -11.6%<lb/> -7.9%<lb/> -0.4%<lb/> -19.2%<lb/> FIN<lb/> 0.246<lb/> -10.5%<lb/> -3.3%<lb/> -0.7%<lb/> -14.1%<lb/> 0.266<lb/> -10.8%<lb/> -4.9%<lb/> -1.1%<lb/> -16.2%<lb/> FRA<lb/> 0.272<lb/> -12.7%<lb/> -8.8%<lb/> -0.5%<lb/> -21.0%<lb/> 0.264<lb/> -13.0%<lb/> -7.5%<lb/> -1.1%<lb/> -20.6%<lb/> GBR<lb/> 0.310<lb/> -10.9%<lb/> -8.2%<lb/> -2.1%<lb/> -19.9%<lb/> 0.330<lb/> -12.5%<lb/> -7.6%<lb/> -4.6%<lb/> -23.0%<lb/> GRC<lb/> 0.327<lb/> -11.4%<lb/> -5.1%<lb/> …<lb/> -15.8%<lb/> 0.342<lb/> -9.6%<lb/> -6.5%<lb/> 0.0%<lb/> -15.9%<lb/> IRL<lb/> 0.297<lb/> -11.3%<lb/> -8.0%<lb/> -2.1%<lb/> -19.2%<lb/> 0.317<lb/> -12.5%<lb/> -10.2%<lb/> -3.4%<lb/> -23.5%<lb/> ITA<lb/> 0.295<lb/> -12.9%<lb/> -12.5%<lb/> -0.5%<lb/> -24.1%<lb/> 0.320<lb/> -9.2%<lb/> -9.0%<lb/> -0.5%<lb/> -18.4%<lb/> (LUX<lb/> 0.263<lb/> -11.1%<lb/> …<lb/> …<lb/> -11.1%<lb/> 0.275<lb/> -10.7%<lb/> -10.3%<lb/> -0.3% -20.6%)<lb/> NLD<lb/> 0.259<lb/> -10.2%<lb/> -11.1%<lb/> -0.7%<lb/> -20.9%<lb/> 0.272<lb/> -8.1%<lb/> -8.1%<lb/> …<lb/> -16.4%<lb/> PRT<lb/> 0.362<lb/> -12.8%<lb/> -12.1%<lb/> -0.6%<lb/> -23.1%<lb/> 0.370<lb/> -13.6%<lb/> -8.8%<lb/> -0.5%<lb/> -21.3%<lb/> SWE<lb/> 0.249<lb/> -11.9%<lb/> -10.9%<lb/> …<lb/> -22.6%<lb/> 0.237<lb/> -12.4%<lb/> -6.4%<lb/> …<lb/> -19.1%<lb/> USA<lb/> 0.368<lb/> -10.1%<lb/> -10.1%<lb/> …<lb/> -18.8%<lb/> 0.372<lb/> -9.8%<lb/> -9.8%<lb/> …<lb/> -18.5%<lb/> OECD-17<lb/> 0.291<lb/> -11.4%<lb/> -8.5%<lb/> -0.6%<lb/> -19.3%<lb/> 0.301<lb/> -11.1%<lb/> -7.6%<lb/> -0.8%<lb/> -18.8%<lb/> 2000<lb/> 2007</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>A</label>
+
+            <head>.4: Share of age groups in total population, 2007.<lb/> </head>
+<lb/> 
+            <table>Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries<lb/> &lt;=18<lb/> 18-65<lb/> 66+<lb/> Total<lb/> AUS<lb/> 24.1%<lb/> 64.1%<lb/> 11.7%<lb/> 100%<lb/> AUT<lb/> 18.8%<lb/> 65.3%<lb/> 15.9%<lb/> 100%<lb/> BEL<lb/> 20.8%<lb/> 63.6%<lb/> 15.6%<lb/> 100%<lb/> CAN<lb/> 21.8%<lb/> 66.5%<lb/> 11.7%<lb/> 100%<lb/> CZE<lb/> 18.2%<lb/> 68.5%<lb/> 13.3%<lb/> 100%<lb/> DEU<lb/> 17.1%<lb/> 64.9%<lb/> 18.0%<lb/> 100%<lb/> DNK<lb/> 22.1%<lb/> 63.4%<lb/> 14.6%<lb/> 100%<lb/> EST<lb/> 18.8%<lb/> 65.0%<lb/> 16.2%<lb/> 100%<lb/> ESP<lb/> 17.2%<lb/> 66.9%<lb/> 15.9%<lb/> 100%<lb/> FIN<lb/> 21.0%<lb/> 63.9%<lb/> 15.1%<lb/> 100%<lb/> FRA<lb/> 21.2%<lb/> 63.0%<lb/> 15.8%<lb/> 100%<lb/> GBR<lb/> 22.1%<lb/> 63.2%<lb/> 14.6%<lb/> 100%<lb/> GRC<lb/> 17.4%<lb/> 64.7%<lb/> 17.9%<lb/> 100%<lb/> HUN<lb/> 20.6%<lb/> 65.5%<lb/> 14.0%<lb/> 100%<lb/> IRL<lb/> 27.1%<lb/> 62.8%<lb/> 10.1%<lb/> 100%<lb/> ISL<lb/> 25.9%<lb/> 63.5%<lb/> 10.6%<lb/> 100%<lb/> ITA<lb/> 16.9%<lb/> 63.7%<lb/> 19.4%<lb/> 100%<lb/> LUX<lb/> 21.6%<lb/> 65.4%<lb/> 13.0%<lb/> 100%<lb/> MEX<lb/> 37.5%<lb/> 56.9%<lb/> 5.6%<lb/> 100%<lb/> NLD<lb/> 21.9%<lb/> 64.6%<lb/> 13.5%<lb/> 100%<lb/> NOR<lb/> 23.4%<lb/> 62.5%<lb/> 14.0%<lb/> 100%<lb/> POL<lb/> 19.5%<lb/> 67.5%<lb/> 13.0%<lb/> 100%<lb/> PRT<lb/> 18.4%<lb/> 64.9%<lb/> 16.7%<lb/> 100%<lb/> SWE<lb/> 22.2%<lb/> 61.3%<lb/> 16.5%<lb/> 100%<lb/> SVK<lb/> 16.7%<lb/> 70.1%<lb/> 13.2%<lb/> 100%<lb/> SVN<lb/> 18.3%<lb/> 67.6%<lb/> 14.0%<lb/> 100%<lb/> USA<lb/> 25.3%<lb/> 63.4%<lb/> 11.3%<lb/> 100%<lb/> OECD-27<lb/> 21.3%<lb/> 64.5%<lb/> 14.1%<lb/> 100%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>A</label>
+
+            <head>.</head>
+
+            <table>6. Change (%) in inequality indicators after inclusion of in-kind benefits from public services in<lb/> income concept (education, health care, social housing (*), ECEC and LTC (**) services)<lb/> (*) Average for social housing over 21 countries; (**) average for LTC over 14 countries.<lb/> Source: OECD Secretariat&apos;s computations from OECD/EU database on the distributional impact of in-kind services and national<lb/> survey data for non-EU countries.<lb/> Cash<lb/> plus<lb/> education<lb/> plus<lb/> health<lb/> care<lb/> plus<lb/> social<lb/> housing<lb/> plus<lb/> ECEC<lb/> plus<lb/> LTC<lb/> Cash<lb/> plus<lb/> education<lb/> plus<lb/> health<lb/> care<lb/> plus<lb/> social<lb/> housing<lb/> plus<lb/> ECEC<lb/> plus<lb/> LTC<lb/> Cash<lb/> plus<lb/> education<lb/> plus<lb/> health<lb/> care<lb/> plus<lb/> social<lb/> housing<lb/> plus<lb/> ECEC<lb/> plus<lb/> LTC<lb/> AUS<lb/> 0.312<lb/> -6.6% -10.3%<lb/> -0.4%<lb/> 5.35<lb/> -10.2% -21.5%<lb/> -0.7%<lb/> 4.45<lb/> -7.8% -21.0%<lb/> -0.4%<lb/> AUT<lb/> 0.267<lb/> -6.3% -10.5% -0.3% -1.4%<lb/> 3.92<lb/> -6.6% -14.7%<lb/> -0.3% -1.5%<lb/> 3.26<lb/> -7.0% -15.3% -0.4% -1.5%<lb/> BEL<lb/> 0.264<lb/> -4.4% -14.3% -1.5% -1.5%<lb/> 3.97<lb/> -5.1% -20.1%<lb/> -2.7% -2.4%<lb/> 3.37<lb/> -3.5% -19.8% -3.4% -1.7%<lb/> CAN<lb/> 0.319<lb/> -9.1%<lb/> -9.6%<lb/> -1.2%<lb/> 5.40<lb/> -15.5% -17.0%<lb/> -2.4%<lb/> 4.38<lb/> -15.8% -15.2%<lb/> -2.0%<lb/> CZE<lb/> 0.261<lb/> -5.1% -13.3% -0.8% -1.6%<lb/> 3.66<lb/> -6.2% -15.3%<lb/> -1.2% -2.2%<lb/> 3.07<lb/> -5.5% -15.5% -1.8% -2.7%<lb/> DEU<lb/> 0.300<lb/> -5.1% -10.4% -0.3% -1.2% 0.1%<lb/> 4.88<lb/> -8.7% -18.7%<lb/> -0.7% -2.0% -0.7%<lb/> 3.80<lb/> -6.6% -16.0% -0.6% -1.4% -0.6%<lb/> DNK<lb/> 0.250<lb/> -5.7% -10.0%<lb/> 0.0% -1.1% -5.0%<lb/> 3.68<lb/> -7.5% -14.5%<lb/> -1.3% -5.8%<lb/> 2.88<lb/> -2.2% -14.1%<lb/> 0.0%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>ITA<lb/> 0.320<lb/> -7.8%<lb/> -9.2% -0.5% -1.5% 0.0%<lb/> 5.53<lb/> -14.2% -19.4%<lb/> -1.0% -3.2% -0.4%<lb/> 4.32<lb/> -10.5% -18.3% -1.1% -2.0%<lb/> LUX<lb/> 0.275<lb/> -7.6% -10.7% -0.3% -2.3%<lb/> 4.01<lb/> -9.3% -13.7%<lb/> -0.5% -4.0%<lb/> 3.38<lb/> -7.8% -12.9% -0.4% -3.8%<lb/> MEX<lb/> 0.475<lb/> -11.5% -11.2%<lb/> -1.3%<lb/> 12.20<lb/> -30.3% -33.9%<lb/> -4.6%<lb/> 8.54<lb/> -29.4% -31.0%<lb/> -3.3%<lb/> NLD<lb/> 0.272<lb/> -6.4%<lb/> -8.1%<lb/> 0.0% -1.8% -2.9%<lb/> 4.00<lb/> -9.2% -13.4%<lb/> -2.7% -2.8%<lb/> 3.04<lb/> -3.9% -10.7%<lb/> 0.0% -2.9% -1.3%<lb/> NOR<lb/> 0.242<lb/> -5.8%<lb/> -9.1% -0.4% -1.1% -4.6%<lb/> 3.74<lb/> -9.2% -13.0%<lb/> -0.6% -1.4% -4.9%<lb/> 3.02<lb/> -4.7% -12.5% -0.5% -1.0% -5.6%<lb/> POL<lb/> 0.317<lb/> -9.9%<lb/> -8.6% -0.1% -1.1%<lb/> 5.17<lb/> -16.2% -15.3%<lb/> -0.1% -2.1%<lb/> 4.25<lb/> -15.6% -14.3% -0.1% -2.0%<lb/> PRT<lb/> 0.370<lb/> -8.0% -13.6% -0.5% -0.9%<lb/> 6.61<lb/> -13.6% -26.5%<lb/> -1.3% -1.7%<lb/> 5.29<lb/> -11.4% -22.3% -1.6% -2.5%<lb/> SVK<lb/> 0.251<lb/> -6.7% -12.1%<lb/> 0.0% -0.6%<lb/> 3.59<lb/> -8.0% -15.1%<lb/> -0.1% -1.0%<lb/> 2.99<lb/> -6.6% -14.4% -0.2% -0.9%<lb/> SVN<lb/> 0.236<lb/> -5.8% -11.3% -0.1% -0.9% -0.1%<lb/> 3.40<lb/> -5.3% -14.3%<lb/> -0.2% -0.9% -0.2%<lb/> 2.96<lb/> -2.6% -12.4%<lb/> 0.0%<lb/> 0.2% -0.2%<lb/> SWE<lb/> 0.237<lb/> -5.6% -12.4% -0.1% -1.5% -4.2%<lb/> 3.46<lb/> -6.2% -15.8%<lb/> -0.1% -0.9% -3.9%<lb/> 2.83<lb/> -2.4% -13.4%<lb/> 0.0%<lb/> 1.2% -2.1%<lb/> USA<lb/> 0.372<lb/> -9.0%<lb/> -9.8%<lb/> -0.9%<lb/> 7.78<lb/> -19.7% -26.1%<lb/> -3.2%<lb/> 5.85<lb/> -18.3% -24.4%<lb/> -3.1%</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Cash<lb/> income<lb/> Health<lb/> care<lb/> Education Housing<lb/> All<lb/> Cash<lb/> income<lb/> Health<lb/> care<lb/> Education Housing<lb/> All<lb/> AUS<lb/> 5.17<lb/> -21.5%<lb/> -9.9%<lb/> …<lb/> -28.6%<lb/> 5.35<lb/> -21.5%<lb/> -10.4%<lb/> …<lb/> -28.5%<lb/> AUT<lb/> 3.65<lb/> -15.0%<lb/> -10.6%<lb/> -1.1%<lb/> -23.8%<lb/> 3.92<lb/> -14.7%<lb/> -8.0%<lb/> -0.3%<lb/> -22.3%<lb/> BEL<lb/> 4.14<lb/> -17.8%<lb/> -4.4%<lb/> -1.5%<lb/> -22.7%<lb/> 3.97<lb/> -20.1%<lb/> -6.6%<lb/> -2.7%<lb/> -26.1%<lb/> CAN<lb/> 4.88<lb/> -14.0%<lb/> -13.2%<lb/> …<lb/> -24.6%<lb/> 5.40<lb/> -17.0%<lb/> -17.2%<lb/> …<lb/> -29.9%<lb/> DEU<lb/> 3.71<lb/> -15.8%<lb/> -7.3%<lb/> -0.9%<lb/> -22.6%<lb/> 4.88<lb/> -18.7%<lb/> -8.9%<lb/> -0.7%<lb/> -25.2%<lb/> DNK<lb/> 3.10<lb/> -18.7%<lb/> -5.4%<lb/> -0.5%<lb/> -24.1%<lb/> 3.68<lb/> -14.5%<lb/> -7.6%<lb/> …<lb/> -23.1%<lb/> ESP<lb/> 5.99<lb/> -19.3%<lb/> -17.2%<lb/> 0.0%<lb/> -31.3%<lb/> 5.33<lb/> -22.7%<lb/> -14.3%<lb/> -1.0%<lb/> -32.3%<lb/> FIN<lb/> 3.56<lb/> -13.9%<lb/> -2.0%<lb/> -0.9%<lb/> -17.3%<lb/> 3.83<lb/> -14.5%<lb/> -3.6%<lb/> -1.9%<lb/> -18.4%<lb/> FRA<lb/> 4.06<lb/> -18.1%<lb/> -10.9%<lb/> -0.6%<lb/> -27.2%<lb/> 3.83<lb/> -17.5%<lb/> -9.1%<lb/> -1.8%<lb/> -24.4%<lb/> GBR<lb/> 5.02<lb/> -18.6%<lb/> -13.8%<lb/> -4.1%<lb/> -31.0%<lb/> 5.59<lb/> -22.8%<lb/> -12.1%<lb/> -8.9%<lb/> -32.0%<lb/> GRC<lb/> 5.67<lb/> -22.7%<lb/> -7.7%<lb/> …<lb/> -28.0%<lb/> 6.05<lb/> -20.4%<lb/> -13.4%<lb/> -0.1%<lb/> -30.3%<lb/> IRL<lb/> 4.88<lb/> -20.0%<lb/> -10.9%<lb/> -4.7%<lb/> -29.4%<lb/> 5.00<lb/> -20.4%<lb/> -12.1%<lb/> -7.0%<lb/> -29.8%<lb/> ITA<lb/> 4.85<lb/> -21.5%<lb/> -19.0%<lb/> -1.0%<lb/> -34.8%<lb/> 5.53<lb/> -19.4%<lb/> -16.3%<lb/> -1.0%<lb/> -31.5%<lb/> LUX<lb/> 3.76<lb/> -14.5%<lb/> …<lb/> …<lb/> -14.5%<lb/> 4.01<lb/> -13.7%<lb/> -12.5%<lb/> -0.5%<lb/> -24.1%<lb/> NLD<lb/> 3.73<lb/> -12.8%<lb/> -13.7%<lb/> -1.3%<lb/> -25.3%<lb/> 4.00<lb/> -13.4%<lb/> -11.0%<lb/> …<lb/> -22.8%<lb/> PRT<lb/> 6.47<lb/> -25.7%<lb/> -20.7%<lb/> -1.5%<lb/> -38.5%<lb/> 6.61<lb/> -26.5%<lb/> -14.4%<lb/> -1.3%<lb/> -36.0%<lb/> SWE<lb/> 3.58<lb/> -14.3%<lb/> -12.9%<lb/> …<lb/> -26.0%<lb/> 3.46<lb/> -15.8%<lb/> -6.7%<lb/> -0.1%<lb/> -22.6%<lb/> USA<lb/> 7.14<lb/> -22.9%<lb/> -21.2%<lb/> …<lb/> -36.2%<lb/> 7.78<lb/> -26.1%<lb/> -21.7%<lb/> …<lb/> -38.9%</table>
+        </figure>
+
+
+
+    </text>
+</tei>
+

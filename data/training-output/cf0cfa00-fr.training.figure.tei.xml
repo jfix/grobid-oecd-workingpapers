@@ -1,0 +1,607 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_cf0cfa00-fr.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <figDesc>Ce rapport est publié sous la responsabilité du Secrétaire général de l&apos;OCDE. Les opinions et les<lb/> interprétations exprimées ne reflètent pas nécessairement les vues de l&apos;OCDE ou des gouvernements<lb/> de ses pays membres.<lb/> La publication de ce rapport a reçu l&apos;approbation de Mme Lamia Kamal-Chaoui, Directrice du<lb/> Centre pour l&apos;entreprenariat, les PME, le développement local et le tourisme.<lb/> Ce rapport et toute carte qu&apos;il peut comprendre sont sans préjudice du statut de tout territoire, de<lb/> la souveraineté s&apos;exerçant sur ce dernier, du tracé des frontières et limites internationales, et du nom de<lb/> tout territoire, ville ou région.<lb/> Ce rapport a été déclassifié sous la responsabilité du Comité du tourisme sous la référence<lb/> CFE/TOU(2015)4/FINAL.<lb/> © OCDE 2016<lb/> Vous êtes autorisés à copier, télécharger ou imprimer du contenu OCDE pour votre utilisation personnelle et<lb/> vous pouvez inclure des extraits des publications, des bases de données et produits multimédia de l&apos;OCDE dans<lb/> vos documents, présentations, blogs, sites internet et matériel d&apos;enseignement, sous réserve de faire mention<lb/> de la source OCDE et du copyright. Les demandes pour usage public ou commercial ou de traduction devront<lb/> être adressées à rights@oecd.org. À PROPOS DE L&apos;OCDE<lb/> L&apos;OCDE est une organisation intergouvernementale pluridisciplinaire regroupant 35 pays<lb/> membres qui fait participer à ses travaux un nombre croissant de pays non membres de toutes les<lb/> régions du monde. La principale mission de l&apos;OCDE aujourd&apos;hui est d&apos;aider les gouvernements à<lb/> oeuvrer ensemble à la réalisation d&apos;une économie mondiale plus forte, plus propre et plus juste. À<lb/> travers son réseau de 250 groupes de travail et comités spécialisés, l&apos;OCDE est un forum où les<lb/> gouvernements peuvent comparer leurs expériences de l&apos;action publique, rechercher des solutions à<lb/> des problèmes communs, identifier les bonnes pratiques et coordonner les politiques nationales et<lb/> internationales.<lb/> Les pays membres de l&apos;OCDE sont : l&apos;Allemagne, l&apos;Australie, l&apos;Autriche, la Belgique, le Canada,<lb/> le Chili, la Corée, le Danemark, l&apos;Espagne, l&apos;Estonie, les États-Unis, la Finlande, la France, la Grèce,<lb/> la Hongrie, l&apos;Irlande, l&apos;Islande, Israël, l&apos;Italie, le Japon, la Lettonie, le Luxembourg, le Mexique, la<lb/> Norvège, la Nouvelle-Zélande, les Pays-Bas, la Pologne, le Portugal, la République slovaque, la<lb/> République tchèque, le Royaume-Uni, la Slovénie, la Suède, la Suisse et la Turquie. La Commission<lb/> européenne participe aux travaux de l&apos;OCDE.<lb/> À PROPOS DU COMITÉ DU TOURISME<lb/> Ce rapport a été préparé par le centre pour l&apos;entreprenariat, les PME, le développement local et le<lb/> tourisme de l&apos;OCDE dans le cadre du programme de travail du comité du tourisme. Créé en 1948, le<lb/> Comité du tourisme est le forum de l&apos;OCDE chargé de partager et d&apos;observer les politiques et les<lb/> changements structurels qui affectent le développement du tourisme national et international<lb/> Répondre aux grands défis auxquels est confronté le secteur du tourisme et réaliser tout le<lb/> potentiel économique du tourisme sont deux axes qui nécessitent une approche intégrée et plurielle de<lb/> l&apos;élaboration des politiques du tourisme à de nombreux niveaux et dans bien des secteurs de<lb/> gouvernement. Dans ce contexte, les pays membres de l&apos;OCDE ne voient que des avantages à<lb/> coopérer pour relever les enjeux économiques et les défis du développement durable et de l&apos;emploi, et<lb/> promouvoir la performance des politiques du tourisme, ainsi que l&apos;évaluation, l&apos;innovation et la<lb/> libéralisation dans le secteur du tourisme. Il apparaît par ailleurs crucial de coopérer plus étroitement<lb/> avec les grandes économies émergentes pour renforcer l&apos;impact de ces travaux.<lb/> Le site web du comité du tourisme www.oecd.org/fr/cfe/tourisme/ fournit des informations<lb/> détaillées quant aux activités de l&apos;OCDE sur le tourisme. TABLE DES MATIÈRES<lb/> Vue d&apos;ensemble .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Finlande – Mesurer les effets positifs des loisirs et du tourisme dans les aires protégées ....... 33<lb/> France – Mesurer l&apos;emploi et la richesse dégagée touristiques au niveau local .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Nouvelle-Zélande – Analyser les dépenses touristiques régionales<lb/> au moyen des transactions électroniques par carte .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Suisse – Procéder à l&apos;évaluation comparative de la compétitivité des destinations<lb/> touristiques et des régions .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Tableau3. L&apos;impact économique du tourisme dans l&apos;Ontario, Canada, 2013 .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Tableau 4. Consommation touristique par type d&apos;hébergement, Danemark, 2014 .................. 29<lb/> Tableau 5. Dépenses touristiques par produit et région, Danemark,, 2014 .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Tableau 6. Consommation touristique, effets induits et multiplicateurs, Danemark, 2014 ..... 30<lb/> Tableau 7. Part de la consommation touristique dans l&apos;offre totale par région,<lb/> Danemark, 2014 .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau </head>
+ 
+            <label>8</label>
+
+            <head>. </head>
+ 
+            <figDesc>Emplois générés par le tourisme,, Danemark, 2014.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau </head>
+ 
+            <label>10</label>
+
+            <head>. </head>
+ 
+            <figDesc>Part des emplois touristiques par région, Danemark, 2014 .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau </head>
+ 
+            <label>11</label>
+
+            <head>. </head>
+ 
+            <figDesc>Nombre d&apos;emplois liés au tourisme par région, France métropolitaine, 2011 ..... 42<lb/> Tableau 12. Répartition de la richesse dégagée par le tourisme local, France, 2011............... 42<lb/> Tableau 13. Les 15 destinations les plus prisées des Alpes, Suisse, 2014.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figures<lb/> Graphique </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Indicateurs couverts par la visualisation des données du tourisme<lb/> en Autriche.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Arrivées de touristes allemands dans les régions touristiques<lb/> autrichiennes pendant l&apos;hiver 2014-15 .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>L</head>
+
+            <figDesc>&apos;un des principaux défis consiste, pour les pays, à mettre en place à l&apos;échelon infranational un<lb/> système d&apos;information et de statistiques sur le tourisme permettant d&apos;obtenir en temps voulu des<lb/> données robustes, suffisamment détaillées et permettant des comparaisons d&apos;une région à l&apos;autre et par<lb/> rapport aux chiffres nationaux. De nombreux efforts ont été déployés, ces vingt dernières années, pour<lb/> mieux mesurer du point de vue économique le tourisme à l&apos;échelon national (avec, par exemple, le<lb/> compte satellite du tourisme), mais les efforts ont été moindres à l&apos;échelon infranational.<lb/> L&apos;échelon infranational peut correspondre à une région, une ville ou un autre type de<lb/> « destination touristique ». Le niveau de la destination touristique est très important : la destination est<lb/> la zone géographique choisie par le visiteur en raison de son offre sur le plan des attractions, des<lb/> hébergements, de la restauration et des loisirs/activités. Pourtant, la destination touristique est souvent<lb/> difficile à prendre en compte du point de vue statistique, car elle ne correspond pas nécessairement aux<lb/> échelons administratifs pour lesquels les indications sont généralement disponibles.<lb/> Le présent examen vise principalement à sensibiliser aux diverses incidences du tourisme à<lb/> l&apos;échelon régional et local et à permettre à ces incidences d&apos;être mieux comprises et mesurées grâce à<lb/> une mutualisation des initiatives réussies et novatrices menées par les pays en matière de statistiques<lb/> locales du tourisme. Cet examen contribuera à la mise au point de données et d&apos;analyses fiables à<lb/> l&apos;échelon régional et local, au service des entreprises et des décideurs publics.<lb/> L&apos;examen présente des initiatives statistiques prises en Australie, en Autriche, au Canada, au<lb/> Danemark, en Espagne, en Finlande, en France, en Irlande, en Nouvelle-Zélande, au Royaume-Uni et<lb/> en Suisse. La plupart de ces initiatives sont pilotées par les offices statistiques nationaux et/ou les<lb/> offices nationaux du tourisme. Quelques-unes résultent d&apos;un partenariat entre le secteur public et le<lb/> secteur privé. Ces initiatives portent sur un large éventail de problématiques telles que l&apos;impact<lb/> économique total du tourisme ; l&apos;impact économique direct du tourisme ; les emplois liés au tourisme ;<lb/> la démographie des entreprises ; les dépenses et recettes liées au tourisme et les visiteurs permettant<lb/> une forte rentabilité ; la visualisation des données ; la compétitivité régionale ; et la durabilité.<lb/> À l&apos;échelon national, il existe indéniablement un socle important de connaissances et<lb/> d&apos;expériences s&apos;agissant d&apos;évaluer l&apos;impact du tourisme sur les régions, les villes et les autres<lb/> destinations. Toutefois, ces connaissances restent très disparates. Les travaux entrepris à l&apos;échelon<lb/> infranational sur les statistiques du tourisme portent sur un large éventail de questions : en matière de<lb/> tourisme</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Toutes les données relatives aux voyages proviennent des enquêtes NVS et IVS de TRA. On<lb/> examine les données pour chaque zone administrative locale afin de déterminer si l&apos;échantillon est de<lb/> taille suffisante et si l&apos;erreur standard relative (pour la NVS et l&apos;IVS) est suffisamment raisonnable<lb/> pour produire un profil touristique fiable pour chaque zone administrative locale. Les données sont<lb/> combinées sur une période de quatre ans, et on en tire une moyenne annuelle pour le profil. Cela<lb/> permet d&apos;accroître la taille de l&apos;échantillon tout en réduisant l&apos;erreur standard relative. Quand on ne<lb/> dispose pas, au sujet d&apos;une zone administrative locale, de données suffisamment robustes pour être<lb/> exploitées, elles ne sont pas publiées. Quand des estimations ne sont pas suffisamment fiables pour<lb/> être publiées, elles ne sont pas fournies, et la mention « NP » (non publié) est indiquée dans la case<lb/> correspondante. Des profils pour les zones administratives locales ont été préparés pour la période<lb/> 2011 à 2014. Les rapports sont mis à jour une fois par an.<lb/> Les profils présentent des données aussi bien sur la demande que sur l&apos;offre de tourisme dans les<lb/> zones administratives locales de tous les États et territoires australiens. Ils présentent également des<lb/> estimations de population et des statistiques sur les professionnels du tourisme issues de l&apos;office<lb/> statistique australien (l&apos;ABS).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Pour les profils des zones administratives locales, on a recours à des estimations de dépenses<lb/> tirées du processus de modélisation des dépenses régionales utilisé par TRA pour les visiteurs internes<lb/> à la journée ou passant la nuit et pour les visiteurs internationaux.<lb/> On estime les dépenses des visiteurs internes à la journée ou passant la nuit en réunissant trois<lb/> volets :<lb/> • Les dépenses au domicile, qui sont directement affectées à la région touristique d&apos;origine.<lb/> • Les dépenses de transport à longue distance, qui sont réparties à égalité entre la région<lb/> touristique d&apos;origine et la région touristique de destination.<lb/> • Les dépenses détaillées sur place, qui sont ventilées en fonction de la répartition des nuitées<lb/> passées dans les différentes régions touristiques pour les visiteurs passant la nuit, et en<lb/> fonction de la répartition des différentes visites pour les visiteurs à la journée.<lb/> On estime les dépenses internationales en ventilant les dépenses d&apos;hébergement, les dépenses<lb/> d&apos;alimentation et de boisson (ces trois types de dépenses étant rassemblées sous l&apos;appellation<lb/> « AFB ») et les dépenses liées aux séjours organisés (les séjours « à forfait ») en fonction du nombre<lb/> de nuitées passées dans chaque région touristique.<lb/> TRA a ouvert la voie à d&apos;autres travaux de recherche en rendant publiques les données d&apos;enquête<lb/> relatives aux dépenses de tourisme dans les États ; TRA a aussi enrichi ces données d&apos;enquête afin de<lb/> créer des comptes satellites du tourisme (CST) pour les États et, de plus, s&apos;est doté d&apos;une capacité<lb/> interne de modélisation lui permettant d&apos;analyser l&apos;impact économique du tourisme. En substance,<lb/> TRA a mis au point deux modèles : un modèle de CST pour les États et un modèle d&apos;équilibre général<lb/> calculable (MEGC) pour le tourisme dans les États.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Principaux indicateurs touristiques pour Coffs Harbour, Nouvelle-Galles-du-Sud, Australie<lb/> Source : Zone administrative locale de Coffs Harbour, profil touristique de la Nouvelle-Galles-du-Sud (Australie).<lb/> Les résultats sont également ventilés en fonction d&apos;un certain nombre de critères, parmi lesquels<lb/> l&apos;objet du voyage, le type de groupe de voyageurs et l&apos;hébergement. S&apos;agissant du marché<lb/> international, une catégorie spéciale a été créée, parmi les hébergements, pour les voyageurs de type<lb/> routards (tableau 2).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau</head>
+
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Statistiques du tourisme pour Coffs Harbour, Nouvelle-Galles-du-Sud, Australie<lb/> Source : Zone administrative locale de Coffs Harbour, profil touristique de la Nouvelle-Galles-du-Sud (Australie).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Cela signifie que les estimations portant sur une échelle réduite (notamment à l&apos;échelon local) sont<lb/> moins fiables que les estimations formulées à l&apos;échelon d&apos;un État. Dans ce contexte, combiner des<lb/> estimations portant sur un certain nombre d&apos;années et travailler à partir de chiffres moyens (profilage)<lb/> représente souvent une meilleure méthode pour comprendre les visites réalisées dans une zone locale.<lb/> Dans la mesure du possible, il convient d&apos;utiliser les statistiques issues des profils touristiques de<lb/> zones administratives locales en conjonction avec d&apos;autres sources d&apos;information. TRA s&apos;emploiera,<lb/> dans les années qui viennent, à enrichir les rapports d&apos;indications complémentaires.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Tourism Research Australia (2016),<lb/> http://tra.gov.au/Tourism_in_Local_Government_Areas_2016/LGA_Profiles/index.html Autriche – Visualisation des données relatives au tourisme régional grâce à des cartes<lb/> interactives<lb/> Description et logique<lb/> Ce projet est piloté par l&apos;office statistique national, Statistics Austria.<lb/> Une demande croissante s&apos;exprime en faveur de systèmes d&apos;information géographique (SIG) et<lb/> d&apos;une meilleure présentation et visualisation des données statistiques à l&apos;échelon régional/local. Les<lb/> professionnels de la statistique recommandent désormais fortement la mise en place et la fourniture de<lb/> tels systèmes. Statistics Austria a mis au point des cartes interactives (i.MAP) pour des thèmes précis<lb/> (population, éducation, agriculture et sylviculture, tourisme et comptes nationaux). Les données<lb/> peuvent être visualisées sur des cartes régionales, municipales ou de district. Les cartes interactives<lb/> peuvent également être intégrées aux sites web des utilisateurs.<lb/> Les principaux objectifs de cette initiative sont les suivants :<lb/> • offrir la possibilité de créer des cartes en fonction des besoins de l&apos;utilisateur ;<lb/> • analyser les données en fonction de différentes variables/différents indicateurs (par ex. :<lb/> qualité, occupation des lits) à l&apos;échelon régional ;<lb/> • servir de base à des activités de planification du tourisme et de comparaison entre les<lb/> régions ;<lb/> • repérer les parts de marché et visualiser l&apos;évolution du marché en fonction des pays<lb/> d&apos;origine ;<lb/> • révéler l&apos;intensité touristique en combinant données touristiques et données démographiques.<lb/> Depuis 2011, Statistics Austria fournit gratuitement des cartes interactives en ligne pour les<lb/> utilisateurs intéressés. Pour les régions et les municipalités, un outil de comparaison présente de façon<lb/> visuelle la ventilation des variables, essentiellement à partir de statistiques relatives aux hébergements.<lb/> Les cartes interactives permettent aux utilisateurs de comparer les variables relatives au tourisme à une<lb/> échelle régionale détaillée.<lb/> Méthodologie<lb/> Pour les statistiques relatives aux hébergements, Statistics Austria travaille en étroite coopération<lb/> avec les municipalités. Les données relatives aux hébergements portent sur les nuitées et sur les<lb/> capacités des établissements de tourisme ; elles couvrent les municipalités qui font état de plus d&apos;un<lb/> millier de nuitées par an, soit environ les deux tiers du total. Des données mensuelles sont fournies sur<lb/> les arrivées de touristes et les nuitées, par type d&apos;hébergement et par pays d&apos;origine. Les statistiques<lb/> relatives aux capacités d&apos;hébergement sont réunies une fois par an. Les résultats portent sur 67 000<lb/> établissements d&apos;hébergement, commerciaux comme privés. La visualisation des données est possible<lb/> pour les éléments suivants :<lb/> • 1 559 municipalités déclarantes ;<lb/> • environ 120 destinations touristiques ; • 19 types d&apos;hébergements ;<lb/> • environ 70 pays d&apos;origine (y compris les provinces autrichiennes et sept régions<lb/> allemandes) ;<lb/> • les chiffres par mois, par saison (été et/ou hiver) et par année civile.<lb/> Dans le cadre de cette méthodologie, plusieurs indicateurs sont définis (graphique 1). Les cartes<lb/> interactives couvrent la saison hivernale ou la saison estivale.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Indicateurs couverts par la visualisation des données du tourisme en Autriche<lb/> Indicateur / Filtre<lb/> Information pouvant être obtenue<lb/> Arrivées / Période et pays<lb/> d&apos;origine<lb/> L&apos;indicateur montre l&apos;origine des visiteurs (visiteurs du tourisme interne ou récepteur)</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>données relatives aux arrivées et aux nuitées sont disponibles à l&apos;échelon municipal pour<lb/> 70 pays d&apos;origine, par type d&apos;hébergement (commercial ou privé) et par mois, saison et année<lb/> depuis 1972. Le recours à des cartes interactives permet de disposer de nombreuses options<lb/> analytiques, en fonction de ce que l&apos;on recherche. Par exemple, l&apos;analyse peut porter sur les régions<lb/> préférées des touristes internes, sur l&apos;intensité touristique locale ou sur la part de marché du segment<lb/> du luxe dans les nuitées. Le graphique 2 illustre l&apos;intensité touristique pour l&apos;hiver 2014-15. Les zones<lb/> bleues correspondent aux municipalités dotées d&apos;un niveau relativement faible d&apos;intensité touristique,<lb/> et les zones rouges à des niveaux élevés d&apos;intensité touristique.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Intensité touristique dans les municipalités autrichiennes pendant l&apos;hiver 2014-15<lb/> Source : Statistics Austria, http://www.statistik.at/web_en/publications_services/interactive_maps/index.html<lb/> Les régions correspondent à des destinations homogènes en termes d&apos;offre touristique (par ex. :<lb/> régions de lacs, régions montagneuses, régions axées sur le bien-être et le tourisme doux, villes). Les<lb/> cartes interactives permettent de regrouper des municipalités au sein de destinations touristiques plus<lb/> larges. Les données relatives aux visiteurs du système T-Mona éclairent les habitudes des touristes<lb/> résidents et non-résidents. Le graphique 3 ci-dessous, qui se fonde sur un indicateur et un filtre<lb/> différents que dans le graphique précédent, fournit des indications sur l&apos;importance du marché<lb/> allemand dans les différentes régions touristiques en montrant, pour chaque région, le poids des<lb/> arrivées de visiteurs allemands au sein des arrivées totales. Plus la couleur est foncée, plus le marché<lb/> allemand est important pour la destination. On constate que ce sont surtout les régions de l&apos;Ouest et du<lb/> Sud-Ouest qui dépendent fortement des touristes allemands.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Arrivées de touristes allemands dans les régions touristiques autrichiennes à l&apos;hiver 2014-<lb/>15</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Austria continuera de développer la visualisation de données grâce à des cartes<lb/> interactives. L&apos;objectif consiste avant tout à continuer de visualiser le tourisme interne et international<lb/> à un niveau géographique détaillé et, simultanément, à chercher à intégrer d&apos;autres données spatiales.<lb/> Statistics Austria s&apos;emploie à créer de nouveaux indicateurs et filtres, à intégrer des variables non<lb/> touristiques telles que des statistiques liées à l&apos;agriculture, à l&apos;énergie ou à l&apos;environnement ainsi qu&apos;à<lb/> enrichir le système des cartes interactives en recourant à d&apos;autres statistiques en matière de tourisme et<lb/> de voyages (données relatives aux voyages au sein de la balance des paiements, par exemple).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>informations structurelles fournies par les cartes interactives permettent aux décideurs du<lb/> secteur du tourisme d&apos;analyser, d&apos;adopter et de mettre en place des initiatives visant à promouvoir<lb/> leurs destinations. Cet outil peut aussi être utilisé pour faire connaître les résultats des mesures<lb/> adoptées pour attirer les touristes. Des indications complémentaires provenant de statistiques sur des<lb/> domaines tels que la démographie, l&apos;agriculture ou l&apos;environnement pourraient enrichir cet ensemble<lb/> d&apos;indicateurs, sous réserve que de telles indications soient disponibles à l&apos;échelle locale.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Il est possible de transposer les cartes interactives à d&apos;autres pays pour lesquels des indications<lb/> relatives à l&apos;offre et à la demande de tourisme sont disponibles à l&apos;échelon régional. La pertinence<lb/> d&apos;une telle solution dépendra des besoins des utilisateurs des autres pays. Une meilleure compréhension des performances régionales pourrait susciter un fort intérêt politique dans de<lb/> nombreux pays, surtout quand les politiques du tourisme sont élaborées dans le cadre d&apos;une démarche<lb/> ascendante.<lb/> Pour en savoir plus :<lb/> Contact – Statistics Austria<lb/> http://www.statistik.at/web_en/publications_services/interactive_maps/index.html<lb/> Eurostat -Statistiques illustrées – http://ec.europa.eu/eurostat/web/regions<lb/> INSPIRE – Infrastructure d&apos;information spatiale dans la Communauté européenne –<lb/> http://inspire.jrc.ec.europa.eu/.<lb/> Portail des données de l&apos;OCDE– http://data.oecd.org/<lb/> Comité d&apos;experts sur la gestion de l&apos;information géospatiale à l&apos;échelle mondiale – http://ggim.un.org/ Canada – Mesurer les retombées économiques du tourisme dans les régions<lb/> Description et logique<lb/> Ce projet est piloté par le ministère du Tourisme, de la Culture et du Sport de l&apos;Ontario.<lb/> Le ministère donne accès au Modèle de calcul des répercussions du tourisme sur l&apos;économie<lb/> régionale (MCRTER) sur internet afin de permettre aux organisations et aux particuliers qui travaillent<lb/> dans le secteur touristique ou qui s&apos;y intéressent d&apos;établir plus facilement l&apos;impact économique des<lb/> dépenses des visiteurs et des entreprises dans ce domaine sur les économies locale et provinciale.<lb/> La méthodologie a été mise au point par le Centre for Spatial Economics pour la Direction<lb/> chargée de la recherche sur le tourisme du ministère du Tourisme de l&apos;Ontario. Le but du modèle est<lb/> de prévoir l&apos;impact économique des événements touristiques et du développement des infrastructures<lb/> dans ce domaine au niveau sous-provincial dans l&apos;Ontario.<lb/> La version actuelle du MCRTER est utilisée depuis 2004. Depuis lors, la base de données du<lb/> MCRTER est tenue à jour annuellement et quelques modifications mineures et améliorations ont été<lb/> apportées aux programmes d&apos;origine. Une version améliorée a été mise au point en 2008, qui intègre :<lb/> i) davantage de détails sur le secteur du tourisme ; ii) une méthodologie révisée en ce qui concerne les<lb/> impôts indirects ; iii) une méthodologie améliorée en ce qui concerne les impôts directs ; et iv) une<lb/> méthodologie améliorée en ce qui concerne les impôts locaux.<lb/> Méthodologie<lb/> Le MCRTER est un outil adaptable capable de fournir une analyse d&apos;impact économique<lb/> détaillée pour différentes zones géographiques sélectionnées par l&apos;utilisateur. Le MCRTER peut être<lb/> utilisé pour ventiler les dépenses directes totales des touristes entre différents territoires<lb/> géographiques. Il peut également être utilisé pour estimer l&apos;impact économique d&apos;événements<lb/> touristiques spécifiques ou les répercussions en termes d&apos;offre par filière touristique ou type de projet<lb/> d&apos;investissement, et ce à différents niveaux géographiques. Enfin, l&apos;application peut être utilisée pour<lb/> examiner l&apos;impact de l&apos;activité du secteur touristique du côté de l&apos;offre ou de la demande au niveau de<lb/> la province.<lb/> Le MCRTER produit les données suivantes :<lb/> • retombées directes, indirectes et induites estimées des activités liées au tourisme sur le<lb/> produit intérieur brut (PIB), le revenu du travail et l&apos;emploi ;<lb/> • retombées directes et totales estimées des activités liées au tourisme sur les recettes fiscales<lb/> fédérales, provinciales et municipales ;<lb/> • le MCRTER est essentiellement un modèle d&apos;entrées-sorties plurirégional avec 49 divisions<lb/> de recensement, 14 régions métropolitaines de recensement et agglomérations de<lb/> recensement et 13 régions de voyage, ou encore l&apos;ensemble de la province.<lb/> Les retombées économiques de chacune de ces applications vont au-delà de celles d&apos;un modèle<lb/> d&apos;entrées/sorties ouvert traditionnel. Il est possible de faire du MCRTER un modèle fermé par rapport<lb/> aux ménages et aux investissements, ce qui permet (i) d&apos;isoler l&apos;impact sur l&apos;activité économique du<lb/> revenu supplémentaire découlant de l&apos;activité du secteur touristique versé aux ménages, et (ii) de<lb/> rendre compte de l&apos;impact de l&apos;évolution de l&apos;activité économique sur l&apos;investissement des entreprises. Le MCRTER produit des estimations sur les retombées directes, indirectes et induites de sorte que<lb/> l&apos;utilisateur peut choisir d&apos;activer ou de désactiver les retombées induites. Il peut également fournir<lb/> des estimations de l&apos;impact sur les recettes de l&apos;administration fédérale générées dans l&apos;Ontario ainsi<lb/> que sur les recettes des administrations provinciales et locales en fonction de taux d&apos;imposition définis<lb/> par l&apos;utilisateur.<lb/> Une spécificité du MCRTER est qu&apos;il est directement accessible en ligne aux utilisateurs. La<lb/> version pour une seule région du modèle peut être utilisée pour estimer l&apos;effet d&apos;événements liés au<lb/> tourisme. Le MCRTER ne conserve pas les informations fournies par l&apos;utilisateur. Toutes les données<lb/> saisies par l&apos;utilisateur sont supprimées à la fin de la session.<lb/> La version du modèle prévue pour la province (non accessible en ligne) est utilisée par le<lb/> ministère du Tourisme pour estimer l&apos;impact économique des dépenses touristiques partout dans<lb/> l&apos;Ontario.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Impact économique du tourisme dans l&apos;Ontario, Canada, 2013<lb/> Source : Ministère du Tourisme, de la Culture et du Sport de l&apos;Ontario, Modèle de calcul des répercussions du tourisme sur<lb/> l&apos;économie régionale du Canada, Statistique Canada.<lb/> Le modèle permet à l&apos;utilisateur de définir la zone géographique où se déroule l&apos;activité, l&apos;autre<lb/> zone géographique pour laquelle les retombées sont à estimer, l&apos;année pour laquelle les retombées sont<lb/> à estimer, l&apos;inclusion ou non des retombées induites, et l&apos;inclusion ou non de l&apos;impôt foncier. Selon le<lb/> projet, il sera également demandé à l&apos;utilisateur de saisir des données sur les dépenses des visiteurs ou<lb/> sur les charges d&apos;exploitation ou les investissements. L&apos;utilisateur peut choisir parmi plusieurs options<lb/> et étudier les retombées économiques i) des dépenses des visiteurs ; ii) des activités d&apos;une entreprise ;<lb/> iii) d&apos;un investissement dans une installation touristique ; ou iv) de l&apos;activité du palais des congrès.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>modèles permettant d&apos;estimer les retombées économiques sont couramment utilisés au niveau<lb/> régional/local par les pays. Ils sont particulièrement utiles pour un secteur tel que celui du tourisme<lb/> dans lequel il est nécessaire de mesurer non seulement les effets directs mais également les effets<lb/> indirects et induits, ainsi que d&apos;autres types de retombées (sur les recettes fiscales, par exemple).<lb/> Différentes méthodologies sont utilisées à travers le monde. Elles exigent de solides données sur les<lb/> tableaux régionaux d&apos;entrées-sorties, ainsi que sur les voyages internationaux et internes. Dans la<lb/> mesure où ces sources de données existent, ce type de modèle est facilement transférable à d&apos;autres<lb/> pays.<lb/> Pour en savoir plus<lb/> Contacts – Ministère du Tourisme, de la Culture et du Sport de l&apos;Ontario (travaux de recherche sur le<lb/> tourisme et compétitivité du secteur) et Centre for Spatial Economics<lb/> Centre for Spatial Economics (2008), Modèle de calcul des répercussions du tourisme sur l&apos;économie<lb/> régionale (MCRTER)<lb/> Pour utiliser le modèle : http://www.mtr-treim.com/webtreim/fr/main.aspx Danemark – Concevoir un compte satellite du tourisme régional<lb/> Description et logique<lb/> Le projet est piloté par l&apos;agence VisitDenmark.<lb/> La principale tâche de VisitDenmark est de promouvoir la destination touristique Danemark.<lb/> L&apos;agence analyse également les tendances internationales en matière de tourisme et mesure les effets<lb/> économiques du tourisme. Une partie des fonds publics reçus par VisitDenmark doit être utilisée à cet<lb/> effet.<lb/> VisitDenmark et le Centre for Regional and Tourism Research (CRT) travaillent avec les<lb/> comptes satellites du tourisme régionaux pour le Danemark depuis 2004, le premier compte ayant été<lb/> rendu public en 2006. Le compte satellite du tourisme régional danois contient des informations sur les<lb/> dépenses touristiques en produits par « origine du touriste » et par type de tourisme et effets totaux<lb/> (directs, indirects et induits) sur la valeur ajoutée brute, l&apos;emploi et les impôts par secteur. Les résultats<lb/> pouvant être décomposés jusqu&apos;au niveau municipal, le compte satellite du tourisme régional danois<lb/> constitue un outil de planification très utile pour tous les échelons de l&apos;administration lors de<lb/> l&apos;élaboration et de la documentation des stratégies touristiques. Les données sur les effets<lb/> multiplicateurs qui en résultent – c&apos;est-à-dire les effets totaux liés aux dépenses touristiques – sont très<lb/> utilisées.<lb/> Depuis 2004, VisitDenmark finance le développement et l&apos;amélioration du module sur le<lb/> tourisme du modèle macroéconomique inter-régional du CRT pour le Danemark appelé SAM-<lb/>K/LINE. Grâce à ce modèle, il est possible d&apos;estimer les effets économiques de la consommation<lb/> touristique ; sa portée a été élargie et il couvre maintenant également le « tourisme non marchand ».<lb/> Les principales parties du modèle SAM-K/LINE sont financées par les cinq régions danoises et par<lb/> VisitDenmark. Les régions utilisent le modèle pour beaucoup de choses – en particulier des analyses<lb/> concernant le marché du travail.<lb/> Des rapports reprenant les principaux résultats sont publiés tous les ans et les destinations locales<lb/> peuvent commander des rapports spéciaux pour leur zone géographique.<lb/> Méthodologie<lb/> Le compte satellite du tourisme régional danois est construit principalement à partir d&apos;une<lb/> méthode « ascendante », c&apos;est-à-dire qu&apos;il repose sur des données concernant la demande – à savoir les<lb/> statistiques sur l&apos;hébergement et les dépenses touristiques. Les données en question sont donc des<lb/> « quantités » et des « prix ».<lb/> Les « quantités » sont des statistiques sur les nuitées et les visites à la journée. Les statistiques<lb/> d&apos;hébergement provenant des établissements d&apos;hébergement marchands sont collectées par Statistics<lb/> Denmark. Elles sont complétées par des estimations des nuitées dans les établissements marchands<lb/> non couverts par Statistics Denmark et par des données sur le tourisme non marchand – interne et<lb/> récepteur – recueillies à l&apos;occasion d&apos;enquêtes ponctuelles, ou auprès d&apos;autres sources, et utilisées<lb/> ensuite pendant plusieurs années.<lb/> Les « prix » sont les dépenses quotidiennes des touristes. La source principale est l&apos;enquête sur le<lb/> tourisme réalisée tous les trois ans par VisitDenmark, au cours de laquelle les clients des hébergements<lb/> professionnels couverts par Statistics Denmark sont interrogés sur leurs dépenses quotidiennes dans différentes catégories de biens et services. Au total, 12 500 touristes sont interrogés en face à face dans<lb/> le cadre de cette étude, ce qui permet, dans la plupart des cas, de calculer les dépenses quotidiennes<lb/> par hébergement, marché, motif, au niveau NUTS 2, NUTS 3 ou même municipal. Pour ce qui est des<lb/> « quantités », des enquêtes ponctuelles couvrent la composition des dépenses pour le tourisme non<lb/> marchand.<lb/> Les données sur le tourisme relatives à la demande sont saisies dans le modèle SAM-K/LINE qui<lb/> regroupe des données des comptes nationaux, des tableaux d&apos;entrées-sorties, des données sur la<lb/> production régionale et des données provenant de registres des personnes et des entreprises. Le modèle<lb/> SAM-K/LINE relie les données sur la demande et l&apos;offre tirées des comptes nationaux régionalisés et<lb/> calibre les effets économiques induits sur le tourisme. Lors de ce processus, les données sur la<lb/> consommation touristique sont complétées par des informations sur la consommation touristique dans<lb/> des catégories non couvertes par les enquêtes courantes sur les dépenses. Pour ce faire, les données des<lb/> comptes nationaux et d&apos;autres sources de données sont utilisées – le compte satellite du tourisme<lb/> régional danois présente donc également un aspect « descendant ».<lb/> Le compte satellite du tourisme régional danois présente toutefois des lacunes par rapport à la<lb/> méthodologie du CST. Pour l&apos;instant, il n&apos;inclut ni ne compile les effets du tourisme émetteur sur<lb/> l&apos;économie danoise, et il n&apos;intègre pas encore certains produits touristiques spécifiques, comme la<lb/> consommation touristique sur les vols internationaux. Le compte satellite du tourisme régional danois<lb/> se concentre donc actuellement sur la consommation touristique au Danemark.<lb/> Au fil du temps, des modifications et améliorations ont été apportées aux sources de données et<lb/> aux méthodes d&apos;estimation dans le compte satellite du tourisme régional danois. Ses résultats ne<lb/> peuvent donc pas être comparés dans le temps et il ne s&apos;agit que d&apos;un outil structurel. Si l&apos;on<lb/> s&apos;intéresse au développement diachronique du tourisme au Danemark, des données telles que le<lb/> développement des secteurs NACE liés au tourisme et les statistiques d&apos;hébergement sont des points<lb/> de départ possibles pour l&apos;analyse.<lb/> Principaux résultats<lb/> Tel que mentionné dans les tableaux 4 à 10, les résultats du compte satellite du tourisme régional<lb/> danois sont fortement utilisés au niveau national et local à des fins politiques et dans le cadre de<lb/> l&apos;élaboration des stratégies touristiques. Au niveau national, les touristes au Danemark dépensent<lb/> 87 milliards DKK, dont 41 % peuvent être attribués au tourisme récepteur. Ces 87 milliards DKK sont<lb/> plus ou moins uniformément répartis entre le tourisme marchand (hôtels et résidences de vacances, par<lb/> exemple) et non marchand (visites à des amis et à la famille, tourisme à la journée et dépenses<lb/> effectuées par les propriétaires-occupants des maisons de vacances).<lb/> Le compte satellite du tourisme régional peut également analyser les dépenses consacrées à des<lb/> produits spécifiques. Le tourisme dans la Région de la Capitale est dominé par les hôtels :il n&apos;est donc<lb/> pas surprenant qu&apos;une part plus grande des dépenses touristiques soit consacrée à l&apos;hébergement lui-<lb/>même et aux produits touristiques en général, par comparaison avec d&apos;autres régions au Danemark où<lb/> sont utilisés des hébergements meilleur marché et où davantage de personnes, préparant elles-mêmes<lb/> leurs repas lorsqu&apos;elles séjournent dans un camping ou dans des résidences de vacances, achètent de la<lb/> nourriture dans des commerces de détail et non dans les restaurants et cafés.<lb/> Si l&apos;on s&apos;intéresse aux effets induits au niveau national, le résultat le plus utilisé est le nombre<lb/> d&apos;emplois créés – 122 500, soit à peu près 1.4 emploi par million de DKK dépensé par les touristes. Le<lb/> multiplicateur équivalent pour la valeur ajoutée est de 0.51 et de 0.4 pour les impôts. Il est également<lb/> possible de regarder quelle est la part des produits touristiques dans l&apos;offre totale de produits au niveau national et local. Les disparités entre les régions peuvent entre autres choses s&apos;expliquer par les<lb/> structures industrielles générales dans les régions, et renseignent ainsi sur l&apos;importance relative du<lb/> tourisme dans chacune d&apos;elles. Si l&apos;on se livre au même exercice au niveau municipal, on constate que<lb/> certaines municipalités sont très dépendantes du tourisme (jusqu&apos;à 10 % de l&apos;offre totale). Il est<lb/> également possible d&apos;analyser l&apos;importance du tourisme en termes d&apos;emplois.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau</head>
+
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Consommation touristique par type d&apos;hébergement, Danemark, 2014<lb/> Source : VisitDenmark.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau </head>
+ 
+            <label>7</label>
+
+            <head>. </head>
+ 
+            <figDesc>Part de la consommation touristique dans l&apos;offre totale par région, Danemark, 2014<lb/> Source : VisitDenmark.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Malgré ses défauts, le compte satellite du tourisme régional danois est reconnu comme un outil<lb/> utile et n&apos;est pas étranger à l&apos;intérêt politique croissant pour le tourisme enregistré au Danemark ces<lb/> dernières années. La démarche ascendante et les possibilités de faire des rapports structurels locaux sur<lb/> le tourisme sont très appréciées. La principale difficulté concerne la mise en oeuvre et le coût des<lb/> enquêtes et du modèle macroéconomique sur lequel s&apos;appuie le compte satellite du tourisme régional,<lb/> notamment pendant les phases initiales. De plus, l&apos;absence de séries chronologiques comparables peut<lb/> constituer un problème pratique et une frustration pour les destinations locales qui veulent collecter<lb/> des données sur les effets de nouvelles actions et politiques en faveur du tourisme. Les évolutions<lb/> envisageables sont notamment des enquêtes numériques auprès des consommateurs sur les</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Filières</head>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Les parcs nationaux ainsi que d&apos;autres aires protégées ont de multiples effets positifs sur le plan<lb/> socioéconomique. Nombre de ces bienfaits sont intuitivement perceptibles et la population elle-même<lb/> peut les ressentir, et les ressent, mais ils ne sont pour l&apos;essentiel ni mesurés ni portés à la connaissance<lb/> de tous. Par conséquent, ils ne sont appréciés à leur juste valeur ni par les décideurs ni par le grand<lb/> public, et les financements publics visant à créer et entretenir des aires protégées sont jugés peu<lb/> prioritaires. Nous décrivons ici le système finlandais mis au point pour mesurer et rendre compte des<lb/> effets positifs des loisirs et du tourisme sur le plan socioéconomique dans les aires protégées.<lb/> En Finlande, l&apos;unité Parks &amp; Wildlife Finland de Metsähallitus est chargée de gérer l&apos;ensemble<lb/> des parcs nationaux et autres aires protégées détenues par l&apos;État au moyen de fonds prélevés sur le<lb/> budget public. Il y a une forte demande d&apos;informations sur les bienfaits socioéconomiques des aires<lb/> protégées : outre la volonté de contrôler l&apos;efficacité de la gestion de la préservation de la biodiversité,<lb/> de nombreux politiciens, décideurs locaux et bailleurs de fonds souhaitent également avoir des<lb/> informations sur les retombées économiques de la protection environnementale. Si les valeurs<lb/> socioéconomiques liées aux aires protégées ne peuvent pas toutes être appréciées en termes<lb/> économiques (comme les valeurs culturelles par exemple), une partie de celles liées à l&apos;utilisation peut<lb/> être isolée en estimant l&apos;impact de la fréquentation des parcs, c&apos;est-à-dire la manière dont l&apos;argent<lb/> dépensé par les visiteurs est orienté vers l&apos;économie locale et s&apos;y accumule.<lb/> Outre la mise en évidence des effets positifs des investissements publics, le fait d&apos;appréhender les<lb/> retombées économiques des dépenses des visiteurs peut également servir à mieux faire accepter l&apos;idée<lb/> des parcs nationaux parmi les parties prenantes. C&apos;est également un bon point de départ pour planifier<lb/> le développement socioéconomique d&apos;une zone, par exemple en y créant de nouvelles entreprises. La<lb/> comparaison des bienfaits économiques entre différents parcs peut aussi fournir des renseignements<lb/> utiles sur certains facteurs de réussite reproductibles ailleurs.<lb/> Afin d&apos;estimer les effets socioéconomiques positifs des parcs nationaux et d&apos;autres aires<lb/> protégées de premier plan détenues par l&apos;État, Parks &amp; Wildlife Finland et le Finnish Forest Research<lb/> Institute (Metla, qui fait maintenant partie du Natural Resources Institute Finland) ont mis au point en<lb/> 2009 une méthode standardisée facile à utiliser permettant d&apos;évaluer chaque année les retombées<lb/> économiques cumulatives locales de la fréquentation des parcs (Huhtala et al., 2010). Elle est axée sur<lb/> la quantification des bienfaits économiques associés aux loisirs et au tourisme de plein air dans les<lb/> parcs nationaux finlandais et dans d&apos;autres aires protégées, notamment les activités telles que la<lb/> randonnée, le ski, la pêche et le camping. La méthode s&apos;inspire du Money Generation Model 2<lb/> américain (MGM2, Stynes et al., 2000) mis au point par le National Park Service aux États-Unis.<lb/> En 2010, la méthode a été intégrée dans la base de données nationale recensant les informations<lb/> sur les visiteurs (ASTA) de Parks &amp; Wildlife Finland, créée à l&apos;origine pour estimer la demande de<lb/> loisirs dans les parcs nationaux et d&apos;autres aires protégées et de loisir. Cette intégration permet<lb/> maintenant d&apos;estimer et de rendre compte chaque année des effets positifs associés aux dépenses des<lb/> visiteurs pour chaque aire protégée de premier plan.<lb/> Pour estimer les retombées économiques locales des visiteurs dans une aire protégée, il est<lb/> fondamental de disposer d&apos;un système de suivi des visiteurs standardisé et très complet, incluant à la<lb/> fois des registres des visiteurs et des enquêtes auprès de ces derniers. Au moment de mettre au point le modèle de calcul des impacts économiques, Parks &amp; Wildlife Finland disposait déjà d&apos;un système<lb/> équivalent (Kajala et al., 2007). Les frais ont ainsi pu être limités, grâce à la possibilité d&apos;utiliser des<lb/> informations sur les visiteurs déjà collectées à d&apos;autres fins. Même si la création et la gestion d&apos;un tel<lb/> système de suivi et d&apos;information sur les visiteurs exigent des investissements importants en temps et<lb/> en ressources, d&apos;après l&apos;expérience de Parks &amp; Wildlife Finland, on peut en tirer des enseignements<lb/> riches et diversifiés.<lb/> Méthodologie<lb/> Le modèle d&apos;évaluation adopté s&apos;inspire du Money Generation Model 2 (MGM2) américain. Il<lb/> réunit des informations sur trois variables essentielles : le nombre de visites, les dépenses des visiteurs<lb/> et un ensemble de multiplicateurs qui rendent compte de la manière dont les dépenses des visiteurs<lb/> circulent et se multiplient dans l&apos;économie locale. Les données pourraient être tirées d&apos;un système de<lb/> suivi des visiteurs standardisé et complet existant, qui se sert à la fois des registres et des enquêtes sur<lb/> les visiteurs, et d&apos;une base de données nationale recensant les informations sur les visiteurs (ASTA) de<lb/> Parks &amp; Wildlife Finland.<lb/> La précision des estimations des dépenses et des retombées dépend en grande partie des données<lb/> en entrée, à savoir le nombre de visiteurs, les chiffres des dépenses des visiteurs et les multiplicateurs<lb/> décrivant les flux monétaires dans l&apos;économie locale. Pour estimer les retombées économiques de la<lb/> fréquentation des parcs de manière continue au niveau national, il est donc fondamental de disposer de<lb/> données de suivi des visiteurs standardisées très complètes, notamment des décomptes des visiteurs et<lb/> des enquêtes auprès des visiteurs. Parks &amp; Wildlife Finland disposait déjà d&apos;un système de suivi,<lb/> dénommé ASTA (système de bases de données recensant des informations sur les visiteurs), qui s&apos;est<lb/> avéré très utile puisqu&apos;un nouveau calcul des effets des dépenses des visiteurs a pu y être intégré.<lb/> Principaux résultats<lb/> D&apos;après les statistiques, les parcs nationaux finlandais ont reçu en 2015 quelque 2.6 millions de<lb/> visiteurs. Les effets positifs de ces visites pour les économies locales ont été estimés de moins de 0.1<lb/> million EUR à 36.5 millions EUR par parc, et de 0 à 366 années-personnes (en équivalent temps plein)<lb/> en termes d&apos;emplois créés. La synthèse des effets positifs au niveau national montre que les retombées<lb/> économiques locales des dépenses des visiteurs des parcs nationaux seules (39 aires au total)<lb/> s&apos;élevaient à 141.4 millions EUR et 1 400 années-personnes en 2015. Chacun de ces chiffres est<lb/> également disponible pour d&apos;autres aires protégées détenues par l&apos;État (Metsähallitus, 2016). Les<lb/> répercussions économiques locales les plus importantes sont visibles dans les parcs nationaux situés<lb/> près de centres touristiques où les visiteurs séjournent plus longtemps et où l&apos;offre de services<lb/> touristiques est plus importante.<lb/> Le rapport coûts-avantages des parcs nationaux finlandais est bon. Les effets positifs pour<lb/> l&apos;économie locale sont en moyenne dix fois supérieurs à ceux des investissements publics dans les<lb/> services de randonnée par an. Pour les parcs nationaux situés à proximité de stations de ski, le rapport<lb/> entrées-sorties moyen est encore supérieur, à savoir 14 EUR. Près des grandes villes et de la zone<lb/> métropolitaine d&apos;Helsinki, les impacts des visites sont principalement des effets positifs en termes de<lb/> loisirs et de santé.<lb/> Les effets des dépenses des visiteurs dans les aires protégées ont été l&apos;un des principaux facteurs<lb/> ayant convaincu les décideurs, il y a quelques années, des multiples retombées positives des<lb/> investissements publics dans ces zones de Finlande. Au bout du compte, les réductions budgétaires<lb/> prévues pour la gestion des parcs n&apos;ont pas été appliquées. De plus, les différences entre les retombées<lb/> économiques locales d&apos;un parc national à l&apos;autre ont sensibilisé les entreprises de tourisme régional et de plein air, les aménageurs et les administrateurs aux éventuels débouchés commerciaux offerts par<lb/> les aires protégées. La nécessité d&apos;investir tant dans les activités de gestion que dans le développement<lb/> du secteur privé pour dégager des revenus substantiels pour les régions s&apos;est également imposée. Outre<lb/> la mise en évidence des effets positifs des investissements publics, le fait d&apos;appréhender les retombées<lb/> économiques des dépenses des visiteurs peut également servir à mieux faire accepter l&apos;idée des parcs<lb/> nationaux parmi les parties prenantes.<lb/> Poursuite de la démarche adoptée<lb/> Parks &amp; Wildlife Finland tient la méthodologie à jour, les multiplicateurs utilisés dans le modèle<lb/> ayant par exemple été actualisés en 2014 (Vatanen et Kajala, 2015). Parks &amp; Wildlife Finland suit les<lb/> évolutions méthodologiques internationales, en particulier celles intervenant au sein du National Park<lb/> Service aux États-Unis, dont il s&apos;est inspiré pour créer le modèle adopté par la Finlande. Aux États-<lb/>Unis, l&apos;analyse de 2012 a été l&apos;occasion d&apos;une révision majeure des analyses des effets des dépenses<lb/> des visiteurs des parcs nationaux, avec la mise au point du modèle sur les effets des dépenses des<lb/> visiteurs (VSE) qui a remplacé le précédent Money Generation Model 2 (MGM2). Le modèle VSE<lb/> mesure les effets économiques annuels des dépenses des visiteurs des parcs nationaux tandis qu&apos;elles<lb/> circulent dans l&apos;économie au niveau des parcs, des États, des régions des parcs nationaux et du pays<lb/> (United States National Park Service, 2016).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Enseignementstirés de la démarche adoptée<lb/> L&apos;un des principaux enseignements tirés pendant l&apos;étude est l&apos;importance de la coopération entre<lb/> la recherche et la pratique, c&apos;est-à-dire entre des organisations comme le Finnish Forest Research<lb/> Institute, Metla et Parks &amp; Wildlife Finland. L&apos;association de connaissances théoriques et pratiques a<lb/> permis d&apos;obtenir des renseignements utiles pour mettre au point la méthode, et a significativement<lb/> rehaussé le niveau de confiance dans les résultats.<lb/> Avant la création de la méthode, il existait plusieurs études de cas sur les retombées économiques<lb/> locales de la fréquentation des parcs. Toutefois, ces études utilisent des méthodologies variées et leur<lb/> mise en oeuvre est relativement onéreuse. L&apos;un des principaux objectifs de Metla et de Parks &amp;<lb/> Wildlife Finland a donc été de veiller à la comparabilité des résultats d&apos;un point de vue géographique<lb/> et chronologique, ainsi qu&apos;à la fiabilité et à l&apos;exploitabilité de la méthode sur le long terme. Dans<lb/> l&apos;évaluation finlandaise, la comparabilité est désormais assurée par une collecte de données (via la<lb/> base de données ASTA) et une méthodologie standardisées au niveau national. Les résultats ont<lb/> également été comparés à des études antérieures pour vérifier leur fiabilité. La méthode mise au point<lb/> est pratique et peut être utilisée par tout un chacun au sein de l&apos;organisme.<lb/> Cette démarche a renforcé l&apos;hypothèse selon laquelle, pour pouvoir estimer en continu l&apos;impact<lb/> économique de la fréquentation des aires protégées, il est indispensable de mettre en place au préalable<lb/> un système de suivi permanent et standardisé. Cela est relativement facile en Finlande car tous les<lb/> parcs nationaux sont gérés par un organisme gouvernemental qui pratique déjà le suivi des visiteurs.<lb/> Parks &amp; Wildlife Finland a mis sur pied un groupe d&apos;experts baptisé SMART (experts en matière de<lb/> durabilité et de gestion des loisirs et du tourisme) dont la mission est de conseiller et de guider les<lb/> parcs nationaux et d&apos;autres aires protégées de premier plan pour les questions de suivi du nombre de<lb/> visiteurs, et de poursuivre le développement des méthodes de suivi. Ce travail de conseil est nécessaire<lb/> pour maintenir un suivi des visiteurs de grande qualité, lequel est crucial pour obtenir des résultats<lb/> fiables sur l&apos;impact économique. D&apos;autre part, il semble que l&apos;utilisation de données de suivi du<lb/> nombre de visiteurs pour en estimer l&apos;impact économique ait accru la motivation même face à ce<lb/> suivi : dans de nombreux parcs nationaux, l&apos;importance des investissements dans un système de suivi du nombre de visiteurs est maintenant mieux comprise qu&apos;avant. Ces investissements sont amplement<lb/> rentabilisés du fait de la diversité des informations obtenues.<lb/> Enfin, il est important de garder à l&apos;esprit le fait que si les retombées économiques locales dus<lb/> aux dépenses de loisir des visiteurs des parcs sont des informations importantes qui peuvent influer sur<lb/> la prise de décisions, cette méthode ne décrit et ne prend en compte que certains types de valeurs. En<lb/> Finlande, à partir du moment où l&apos;on a appréhendé et fait connaître les effets positifs associés aux<lb/> dépenses des visiteurs, il a été plus facile de mettre en avant tous les autres types de valeurs associées<lb/> aux aires protégées ; ainsi, Parks &amp; Wildlife Finland a récemment mis au point des méthodes de<lb/> mesure des bienfaits perçus de la fréquentation des aires protégées en termes de santé et de bien-être<lb/> (graphique 5).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>France</head>
+
+            <figDesc>– Mesurer l&apos;emploi et la richesse dégagée touristiques au niveau local<lb/> Description et objectifs<lb/> Le projet est piloté par l&apos;Institut national de la statistique et des études économiques (INSEE).<lb/> L&apos;INSEE a mis au point une méthodologie permettant d&apos;estimer l&apos;emploi et la richesse dégagée<lb/> touristiques au niveau des communes, et notamment :<lb/> • l&apos;emploi touristique par secteur (regroupement d&apos;activités) ou la capacité touristique<lb/> (touristicité) ;<lb/> • l&apos;emploi touristique ventilé par âge moyen, sexe, catégorie socio-professionnelle, âge,<lb/> condition d&apos;emploi, salaires bruts et nets, et horaires moyens ;<lb/> • l&apos;évolution de l&apos;emploi touristique entre l&apos;année de référence et la dernière année pour<lb/> laquelle on dispose de données ;<lb/> • la richesse dégagée des activités touristiques pour un territoire, permettant de juger de leur<lb/> poids économique.<lb/> Méthodologie<lb/> La méthodologie a été révisée en 2014. Elle est notamment devenue plus restrictive s&apos;agissant du<lb/> champ des activités associées, et supprime certaines activités pour lesquelles le tourisme n&apos;est pas le<lb/> facteur explicatif principal de la saisonnalité.<lb/> Calcul de l&apos;emploi touristique<lb/> La méthode repose sur la notion d&apos;emploi résidentiel, qui représente le nombre d&apos;emplois par<lb/> activité nécessaire à la population habituellement présente sur un territoire (hors touristes). L&apos;emploi<lb/> touristique estimé correspond aux emplois générés par la fréquentation touristique, c&apos;est-à-dire à<lb/> l&apos;emploi directement imputable à la présence de touristes sur un territoire. Seuls les emplois directs<lb/> sont pris en compte. L&apos;emploi touristique sur un territoire est égal à la différence entre l&apos;emploi total et<lb/> le ratio d&apos;emploi résidentiel (excepté les activités 100 % touristiques pour lesquelles tout l&apos;emploi est<lb/> considéré comme touristique). La méthode exclut la majorité des moyens de transport et des agences<lb/> de voyage car ils permettent certes de se rendre sur le lieu de tourisme, mais ne constituent pas une<lb/> dépense sur le territoire. Les sources de données sont les Déclarations annuelles de données sociales<lb/> (DADS) pour l&apos;emploi salarié et l&apos;ACOSS (Agence centrale des organismes de sécurité sociale) pour<lb/> l&apos;emploi non salarié.<lb/> La manière d&apos;estimer l&apos;emploi touristique est la suivante :</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>en effet basées sur l&apos;hypothèse que la structure de l&apos;emploi touristique est la même que celle<lb/> de l&apos;emploi total. Il faut donc entourer de précautions l&apos;utilisation de ces données.<lb/> Calcul de la richesse dégagée touristique<lb/> La méthode permet également de calculer la richesse dégagée touristique. La richesse dégagée est<lb/> une notion économique qui permet d&apos;évaluer l&apos;importance de l&apos;activité économique dans un territoire<lb/> donné. Comme pour l&apos;emploi, la richesse dégagée touristique correspond à la richesse générée par la<lb/> fréquentation touristique sur ce territoire. Le concept de richesse dégagée est issu de la valeur ajoutée<lb/> des entreprises et est à considérer comme une mesure indirecte du poids de l&apos;activité économique. La<lb/> richesse dégagée n&apos;est pas comparable au PIB. Ces données permettent par exemple de hiérarchiser le<lb/> poids des principales activités touristiques d&apos;un territoire ou de comparer le poids « économique » de<lb/> ces activités à leur poids en termes d&apos;emploi. La source des données est le Fichier économique enrichi<lb/> de l&apos;INSEE.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Principauxrésultats<lb/> La nouvelle méthodologie permet d&apos;estimer précisément les zones où la part de l&apos;emploi<lb/> touristique est la plus importante sur le territoire (graphique 6 et tableau 11).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>6</label>
+
+            <head>. </head>
+ 
+            <figDesc>Les zones littorales normandes sont nettement les plus touristiques<lb/> Source : DADS 2011, ACOSS 2011 ; traitements Insee,<lb/> http://www.insee.fr/fr/insee_regions/haute-normandie/themes/aval/aval14148/img/aval14148.pdf Tableau 11. Nombre d&apos;emplois liés au tourisme par région, France métropolitaine, 2011<lb/> 1. Hors agriculture, fonction publique d&apos;État et particuliers employeurs.<lb/> Source : Insee, DADS 2011.<lb/> La méthode permet aussi de déterminer la richesse touristique dégagée par le tourisme local<lb/> (tableau 12).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau</head>
+
+            <label>12</label>
+
+            <head>. </head>
+ 
+            <figDesc>Répartition de la richesse dégagée par le tourisme local, France, 2011<lb/> 1. Hors agriculture, fonction publique d&apos;État et particuliers employeurs.<lb/> Source : Insee, DADS 2011.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>données sur l&apos;emploi touristique et la richesse dégagée par le tourisme au niveau local<lb/> intéressent au plus haut point les décideurs locaux. La méthodologie permet de réaliser des<lb/> comparaisons entre régions et une typologie assez fine de l&apos;impact du tourisme en fonction des<lb/> territoires (urbain, littoral, stations de ski, montagne). C&apos;est un nouvel outil pour accompagner la mise<lb/> en place de politiques du tourisme au niveau local, et mieux appréhender la saisonnalité de l&apos;emploi<lb/> touristique au niveau local.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Cette méthode s&apos;appuie sur des sources de données très détaillées concernant la nature de<lb/> l&apos;emploi et la qualification, les dates de début et de fin de période de paie, le nombre d&apos;heures<lb/> salariées, la condition d&apos;emploi (temps complet, temps partiel), le montant des rémunérations versées,<lb/> etc. Ces informations sont complétées par d&apos;autres données, notamment de fréquentation hôtelière, et<lb/> économiques et financières sur les établissements. Cette méthode pourrait être transposable dans un<lb/> pays qui disposerait de données de caractère similaire.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Irlande – Utiliser les registres des entreprises dans l&apos;analyse du secteur touristique en régions<lb/> Description et logique<lb/> Le projet est piloté par le Central Statistical Office d&apos;Irlande<lb/> La démarche consiste à soutenir des initiatives des pouvoirs publics en Irlande pour développer<lb/> des systèmes nationaux et régionaux de gestion des destinations ainsi qu&apos;un ensemble d&apos;indicateurs<lb/> sur les destinations.<lb/> Les registres des entreprises sont la base à partir de laquelle toutes les statistiques sur les<lb/> entreprises sont compilées. En plus de fournir des cadres d&apos;échantillonnage et de pondération, ils<lb/> constituent une riche source d&apos;information sur les structures économiques et industrielles nationales et<lb/> régionales. La couverture très complète des registres des entreprises est particulièrement utile dans le<lb/> contexte du tourisme, qui est un secteur morcelé dispersé entre diverses filières. De grands ensembles<lb/> de données tels que ces registres ont l&apos;avantage d&apos;être déjà bien établis et suffisamment vastes pour<lb/> offrir des données infranationales robustes.<lb/> Cette initiative montre comment les registres des entreprises peuvent servir de source pour<lb/> générer une nouvelle série d&apos;indicateurs touristiques relatifs à l&apos;offre. Elle fournit un profil de la<lb/> démographie des entreprises et de l&apos;emploi pour la filière touristique en Irlande au niveau du comté<lb/> (niveau NUTS 4).<lb/> Ces travaux de recherche entrepris par le Central Statistics Office proposent une nouvelle<lb/> méthode pour mesurer et appréhender les activités de la filière touristique en Irlande à partir de<lb/> données administratives corrélées.<lb/> Méthodologie<lb/> Les données sources principales sont les statistiques sur la démographie des entreprises, publiées<lb/> par le Central Statistics Office en Irlande, en conformité avec la législation de l&apos;UE. Cet ensemble de<lb/> données présente l&apos;avantage d&apos;être déjà compilé et de ce fait, le seul coût d&apos;utilisation de ces données<lb/> est le coût marginal correspondant à la réalisation de nouvelles analyses. Les statistiques sur la<lb/> démographie des entreprises proviennent du registre des entreprises, qui couvre (presque) toutes les<lb/> entreprises en activité dans le pays.<lb/> Les principales variables disponibles dans le registre des entreprises sont la localisation, le statut<lb/> juridique et la taille de l&apos;entreprise, le nombre de salariés et de personnes embauchées, et le chiffre<lb/> d&apos;affaires total (il convient toutefois de noter que la qualité des données sur le chiffre d&apos;affaires n&apos;est<lb/> pas suffisamment bonne pour permettre leur publication). Les autres informations qui seront<lb/> disponibles à l&apos;avenir incluront la nationalité des capitaux.<lb/> Les statistiques sur la démographie des entreprises fournissent des données sur la population<lb/> d&apos;entreprises en activité dans l&apos;État, notamment sur les créations (entrées) et disparitions (sorties ou<lb/> cessations d&apos;activité) d&apos;entreprises, ainsi que des informations sur leur taux de croissance et de survie<lb/> (espérance de vie). Ces statistiques sont également utilisées pour générer des indicateurs de l&apos;activité<lb/> entrepreneuriale et des facteurs qui la renforcent ou la freinent, et pour comprendre la contribution<lb/> d&apos;entreprises nouvellement créées à la création d&apos;emplois.<lb/> Les informations fournies reposent sur la démographie des entreprises et de l&apos;emploi dans la<lb/> filière touristique, que les produits et services vendus par ces entreprises aient ou non été consommés par des touristes. En d&apos;autres termes, les analyses ne fournissent pas d&apos;informations sur les entreprises<lb/> et l&apos;emploi créés par la demande touristique sous forme numérique.<lb/> De nouveaux indicateurs baptisés Tourism Dependency Ratios sont définis et élaborés. Ces ratios<lb/> permettent d&apos;analyser et d&apos;appréhender l&apos;offre touristique d&apos;un point de vue spatial. Il s&apos;agit du rapport<lb/> de la filière touristique à l&apos;économie totale pour une région (nationale ou régionale) et une variable<lb/> (population d&apos;entreprises, emploi total ou chiffre d&apos;affaires total, etc.) donnée.<lb/> Si le registre des entreprises couvre la population totale d&apos;entreprises en activité en Irlande, le<lb/> calcul d&apos;agrégats régionaux requiert quelques précautions. La répartition géographique de chaque<lb/> entreprise est une approximation puisqu&apos;il n&apos;existe actuellement aucune source administrative détaillée<lb/> avec leur localisation exacte. Par conséquent, l&apos;activité au niveau du comté est déterminée par<lb/> l&apos;adresse où l&apos;entreprise est enregistrée fiscalement, et non là où les activités de l&apos;entreprise se<lb/> déroulent. Généralement, il en résulte un déséquilibre en termes d&apos;emploi au profit de Dublin, la<lb/> capitale.<lb/> Principaux résultats<lb/> L&apos;un des principaux objectifs de cette initiative est de mettre au point une démographie régionale<lb/> pour mieux illustrer l&apos;importance relative des filières touristiques pour chaque région. Le graphique 7<lb/> montre que les taux de dépendance aux entreprises de tourisme est très variable d&apos;un comté irlandais à<lb/> l&apos;autre. Par exemple, les entreprises de tourisme sont relativement plus importantes pour les comtés le<lb/> long du littoral occidental, et considérablement moins importantes en termes relatifs pour la région du<lb/> Grand Dublin et de Cork.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>7</label>
+
+            <head>. </head>
+ 
+            <figDesc>Entreprises – Taux de dépendance au tourisme par comté, Irlande, 2011<lb/> Source : J. Delaney et S. MacFeely, Central Statistics Office d&apos;Irlande.<lb/> Le graphique 8 montre l&apos;importance de l&apos;emploi dans le tourisme pour différents comtés. Il<lb/> indique également que la composition de l&apos;emploi à Dublin est assez différente de celle du secteur<lb/> touristique d&apos;autres comtés, avec une dépendance moindre vis-à-vis de la restauration et de<lb/> l&apos;hébergement, mais plus importante en ce qui concerne par exemple les transports, ainsi que les arts,<lb/> le divertissement et les loisirs. Cette réalité est le reflet de la diversité de l&apos;économie de Dublin et en<lb/> particulier de l&apos;importance des infrastructures aéroportuaires et portuaires et des autres infrastructures<lb/> touristiques et sportives.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>8</label>
+
+            <head>. </head>
+ 
+            <figDesc>Emploi – Taux de dépendance au tourisme par comté, Irlande, 2011<lb/> Source : J. Delaney et S. MacFeely, Central Statistics Office d&apos;Irlande.<lb/> Les taux de dépendance au chiffre d&apos;affaire du tourisme sont très irréguliers par rapport aux taux<lb/> de dépendance au tourisme du point de vue des entreprises et de l&apos;emploi. Pour cette raison, les taux<lb/> de dépendance au tourisme pour le chiffre d&apos;affaires ont été déterminés en faisant une moyenne sur la<lb/> période 2009-11 et sont présentés au niveau NUTS 3 de manière à obtenir des données plus stables.<lb/> Ces taux vont d&apos;un faible 3 % dans le sud-ouest à un pourcentage élevé de près de 9 % dans l&apos;ouest<lb/> (graphique 9).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>9</label>
+
+            <head>. </head>
+ 
+            <figDesc>Chiffre d&apos;affaires – Taux de dépendance au tourisme par comté, Irlande, 2011<lb/> Source : J. Delaney et S. MacFeely, Central Statistics Office d&apos;Irlande.<lb/> La démographie des entreprises fournit également des informations sur les taux de création, de<lb/> cessation d&apos;activité et de survie des entreprises par classe NACE et région NUTS 4, ce qui donne des<lb/> renseignements utiles sur les résultats relatifs et l&apos;espérance de vie des différents secteurs du tourisme.<lb/> Les taux de création, de cessation d&apos;activité et de survie régionaux peuvent être très variables. Le<lb/> graphique 10 présente l&apos;évolution des taux de survie pour la filière touristique au niveau NUTS 3. Si<lb/> les tendances sont relativement proches d&apos;une région à l&apos;autre, les taux de survie sont clairement plus<lb/> faibles à Dublin, où au bout de cinq ans 48 % seulement des entreprises créées en 2006 sont encore en<lb/> activité (contre 58 % dans la région centre-ouest).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>10</label>
+
+            <head>. </head>
+ 
+            <figDesc>Taux de survie des entreprises par région, Irlande, 2011<lb/> Source : J. Delaney et S. MacFeely, Central Statistics Office d&apos;Irlande.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>L</head>
+
+            <figDesc>&apos;ensemble de données sur la démographie des entreprises a l&apos;avantage d&apos;être déjà compilé ; de<lb/> ce fait, le seul coût d&apos;utilisation de ces données est le coût marginal correspondant à la réalisation de<lb/> nouvelles analyses. Lorsque ces données sont reliées à d&apos;autres sources de données administratives au<lb/> niveau des microdonnées, leur poids s&apos;accroît significativement. C&apos;est le cas par exemple des<lb/> informations et analyses complémentaires, tels que les taux de dépendance au tourisme.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>données administratives telles que celles des registres des entreprises et les informations<lb/> démographiques constituent une source solide et permettent la réalisation d&apos;analyses comparatives<lb/> avec d&apos;autres secteurs économiques au niveau des macro-et des microdonnées Elles sont déjà<lb/> compilées pour alimenter l&apos;ensemble plus vaste de statistiques sur les entreprises ; leur utilisation est<lb/> donc relativement peu onéreuse et elles n&apos;imposent pas de charge supplémentaire aux répondants ou<lb/> aux entreprises. De ces données découlent différents indicateurs sur les entreprises et divers<lb/> indicateurs sociaux solides et aisément compréhensibles au niveau régional. La méthode des données<lb/> administratives corrélées est applicable dans différents pays et adaptable à différents contextes.<lb/> Il existe des registres d&apos;entreprises structurés dans la plupart des pays dotés de systèmes de<lb/> statistiques relativement développés, de sorte que la méthode présentée est facilement transférable et<lb/> qu&apos;il est possible de mettre au point des indicateurs comparables au plan international en réutilisant<lb/> des sources statistiques déjà harmonisées.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0<lb/> 10<lb/> 20<lb/> 30<lb/> 40<lb/> 50<lb/> 60<lb/> 70<lb/> 80<lb/> 90<lb/> 100<lb/> Frontière<lb/> Centre-ouest<lb/> Sud-ouest<lb/> Centre-est<lb/> Ouest<lb/> Sud-est<lb/> Dublin<lb/> %<lb/> 1 an<lb/> 2 ans<lb/> 3 ans<lb/> 4 ans<lb/> 5 ans Nouvelle-Zélande – </trash>
+ 
+            <figDesc>Analyser les dépenses touristiques régionales au moyen des transactions<lb/> électroniques par carte<lb/> Description et logique<lb/> Le projet est piloté par le ministère des Entreprises, de l&apos;Innovation et de l&apos;Emploi.<lb/> Le tourisme international joue un rôle important dans l&apos;économie néo-zélandaise, avec une<lb/> contribution de 30 milliards NZD au PIB du pays en 2015 (Statistics New Zealand, 2015). La Tourism<lb/> Industry Association de Nouvelle-Zélande s&apos;est fixé comme objectif ambitieux d&apos;atteindre<lb/> 41 milliards NZD d&apos;ici 2025 en améliorant la compétitivité du tourisme.<lb/> En 2012, le ministère des Entreprises, de l&apos;Innovation et de l&apos;Emploi a lancé une action en faveur<lb/> d&apos;indicateurs du tourisme régional (regional tourism indicators ou RTI), dans le but de mieux<lb/> appréhender le tourisme au niveau régional. Les RTI sont conçus pour fournir des données récentes<lb/> sur les dépenses touristiques, qu&apos;il s&apos;agisse de voyageurs internationaux ou internes, dans les<lb/> différentes régions de Nouvelle-Zélande. Les RTI utilisent les données issues des transactions<lb/> électroniques par carte comme source. Les indicateurs peuvent aider à la formulation de la stratégie de<lb/> promotion des différentes régions, apporter une contribution à l&apos;organisation de grands événements,<lb/> éclairer les travaux des pouvoirs publics visant à attirer et prendre en compte davantage des marchés<lb/> spécifiques, et accroître la valeur des visiteurs internationaux.<lb/> Les RTI ont été mis au point pour répondre au besoin de mieux comprendre où les visiteurs se<lb/> rendent dans le pays, à quoi ils dépensent leur argent, comment se modifient les comportements selon<lb/> la saison et quels sont les impacts des événements. Les données des RTI remontent jusqu&apos;à janvier<lb/> 2008. Elles sont compilées tous les mois, et peuvent être synthétisées sous forme de données<lb/> mensuelles, semestrielles ou annuelles.<lb/> Méthodologie<lb/> L&apos;utilisation de données d&apos;enquêtes pour isoler les informations sur les dépenses dans différentes<lb/> régions coûterait cher puisqu&apos;elle exige un échantillon de grande taille pour fournir les données au<lb/> niveau de détail requis.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>RTI sont présentés de cette manière pour éviter toute confusion avec les estimations des<lb/> dépenses totales qui proviennent de l&apos;International Visitor Survey et d&apos;autres sources plus exhaustives.<lb/> L&apos;indice présente les dépenses en les comparant au mois moyen de l&apos;année 2008, auquel est attribuée<lb/> la valeur de 100. Un indice d&apos;une valeur de 110 signifie que les dépenses sont supérieures de 10 pour<lb/> cent à la moyenne de 2008. Les données peuvent couvrir le tourisme international et le tourisme<lb/> interne. Elles peuvent être filtrées par organisation régionale de tourisme, destination locale ou secteur<lb/> d&apos;activité.<lb/> Les organisations régionales de tourisme peuvent utiliser les données pour analyser efficacement<lb/> toute dépense de promotion ou de publicité et mieux cibler les marchés soit prometteurs soit peu<lb/> performants. Les deux exemples ci-dessous montrent ce qui peut être réalisé à l&apos;aide des RTI, les<lb/> nouveaux enseignements et les perspectives.<lb/> Le graphique 11 compare les dépenses mensuelles des visiteurs internationaux dans six<lb/> organisations régionales de tourisme.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>11</label>
+
+            <head>. </head>
+ 
+            <figDesc>Indice des dépenses mensuelles -dépenses internationales totales, trois derniers mois,<lb/> Nouvelle-Zélande<lb/> Indice (mois moyen en 2008=100)<lb/> Source : Ministère des Entreprises, de l&apos;Innovation et de l&apos;Emploi (2013).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            0<lb/>20<lb/> 40<lb/> 60<lb/> 80<lb/> 100<lb/> 120<lb/> 140<lb/> Mars<lb/> Avril<lb/> Mai<lb/> Organisation régionale de tourisme d&apos;Auckland<lb/> 2010<lb/> 2011<lb/> 2012<lb/> 2013<lb/> 2014<lb/> 0<lb/> 20<lb/> 40<lb/> 60<lb/> 80<lb/> 100<lb/> 120<lb/> 140<lb/> 160<lb/> Mars<lb/> Avril<lb/> Mai<lb/> Organisation régionale de tourisme de Queenstown<lb/> 2010<lb/> 2011<lb/> 2012<lb/> 2013<lb/> 2014<lb/> 0<lb/> 20<lb/> 40<lb/> 60<lb/> 80<lb/> 100<lb/> 120<lb/> 140<lb/> Mars<lb/> Avril<lb/> Mai<lb/> Christchurch<lb/> 2010<lb/> 2011<lb/> 2012<lb/> 2013<lb/> 2014<lb/> 0<lb/> 20<lb/> 40<lb/> 60<lb/> 80<lb/> 100<lb/> 120<lb/> 140<lb/> 160<lb/> Mars<lb/> Avril<lb/> Mai<lb/> Organisation régionale de tourisme de Rotorua<lb/> 2010<lb/> 2011<lb/> 2012<lb/> 2013<lb/> 2014<lb/> 0<lb/> 20<lb/> 40<lb/> 60<lb/> 80<lb/> 100<lb/> 120<lb/> 140<lb/> Mars<lb/> Avril<lb/> Mai<lb/> Organisation régionale de tourisme de Dunedin<lb/> 2010<lb/> 2011<lb/> 2012<lb/> 2013<lb/> 2014<lb/> 0<lb/> 20<lb/> 40<lb/> 60<lb/> 80<lb/> 100<lb/> 120<lb/> 140<lb/> Mars<lb/> Avril<lb/> Mai<lb/> </trash>
+<lb/> 
+            <figDesc>Organisation régionale de tourisme de Wellington<lb/> 2010<lb/> 2011<lb/> 2012<lb/> 2013<lb/> 2014</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>ou RTE) vont un peu plus<lb/> loin que les RTI tout en les exploitant. Elles utilisent les mêmes données issues des transactions<lb/> électroniques par carte pour donner des estimations des valeurs monétaires absolues (et non sous<lb/> forme d&apos;indices) des dépenses touristiques qui peuvent être ventilées de manière plus détaillée, par<lb/> exemple par secteur, pays d&apos;origine des visiteurs, région de destination, organisation régionale de<lb/> tourisme et autorité territoriale. Pour ce faire, les RTE s&apos;appuient sur les RTI et sont calibrées par le<lb/> compte satellite du tourisme par filière, et par l&apos;enquête sur les visiteurs internationaux par pays<lb/> d&apos;origine des visiteurs.<lb/> Un exemple du type d&apos;analyse qui peut être réalisée avec les données des RTE est proposé au<lb/> graphique 13, qui présente les dépenses moyennes annuelles des touristes internes et internationaux<lb/> par organisation régionale de tourisme pour la période 2008-13. Le graphique montre qu&apos;Auckland est le centre des dépenses touristiques, qu&apos;il s&apos;agisse du tourisme interne ou international, tandis que<lb/> certaines régions sont dominées par le tourisme interne (par exemple Waikato, Wellington, Hawke&apos;s<lb/> Bay) et d&apos;autres par le tourisme international (Queenstown, Fiordland). Il s&apos;agit d&apos;une initiative<lb/> intéressante qui fournit des informations mensuelles fiables et spécifiques à chaque région sur la<lb/> croissance ou la variation des dépenses touristiques dans différentes régions du pays.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>13</label>
+
+            <head>. </head>
+ 
+            <figDesc>Dépenses touristiques par organisation régionale de tourisme en Nouvelle-Zélande<lb/> Source : Ministère des Entreprises, de l&apos;Innovation et de l&apos;Emploi (2013).<lb/> En 2016, le ministère des Entreprises, de l&apos;Innovation et de l&apos;Emploi a lancé les Monthly<lb/> Regional Tourism Estimates (estimations mensuelles du tourisme régional, MRTE). Ces estimations<lb/> sont une version améliorée des RTI comme des RTE. Les MRTE sont disponibles tous les mois<lb/> comme les RTI, mais ils fournissent des estimations des dollars réellement dépensés, comme les RTE.<lb/> Les estimations des dépenses peuvent être décomposées par région, pays d&apos;origine des touristes et type<lb/> de produit. Les MRTE reposent en partie sur des données provenant de transactions électroniques par<lb/> carte, mais plusieurs améliorations ont été apportées aux données et méthodes statistiques utilisées.<lb/> Comme les RTE, les MRTE sont calibrées par le compte satellite du tourisme par filière et par<lb/> l&apos;enquête sur les visiteurs internationaux par pays d&apos;origine des visiteurs. Toutefois, parce que les</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Les MRTE sont présentées sous forme de graphiques interactifs sur le site internet du ministère<lb/> des Entreprises, de l&apos;Innovation et de l&apos;Emploi, qui permettent aux utilisateurs de filtrer rapidement et<lb/> facilement les données par année, région, type de produit ou pays d&apos;origine. Ce format est plus<lb/> pratique que les tableaux de données pour les utilisateurs non spécialistes. Il limite également la<lb/> nécessité pour le ministère des Entreprises, de l&apos;Innovation et de l&apos;Emploi de fournir certaines données<lb/> personnalisées ou des graphiques statiques, puisqu&apos;ils peuvent être obtenus par l&apos;utilisateur à l&apos;aide des<lb/> graphismes interactifs sur internet.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Espagne – Mesurer la durabilité du tourisme au niveau régional<lb/> Description et logique<lb/> Le projet est piloté par l&apos;administration chargée du tourisme en Andalousie et par l&apos;université de<lb/> Málaga.<lb/> Le système d&apos;indicateurs pour un tourisme durable en Andalousie permet d&apos;évaluer les questions<lb/> de durabilité abordées dans le plan général en faveur du tourisme durable en Andalousie pour la<lb/> période 2014-20, comme l&apos;amélioration des ressources naturelles, culturelles, territoriales et<lb/> paysagères ; la stabilité et la qualité de l&apos;emploi ; et les relations complémentaires entre les produits, la<lb/> qualité globale, l&apos;innovation et la compétitivité de la destination. Grâce à ce système, il est possible de<lb/> comprendre les répercussions du plan général en termes de durabilité puisqu&apos;il fournit des<lb/> informations actualisées, dynamiques et corrélées.<lb/> Méthodologie<lb/> Le système comprend 348 indicateurs pour l&apos;année à analyser, ainsi qu&apos;un point de référence<lb/> pour chacun d&apos;eux. Il couvre une période d&apos;analyse de quatre ans, qui correspond généralement à la<lb/> période de planification. Étant donné le grand nombre d&apos;indicateurs, des indicateurs synthétiques ont<lb/> été mis au point pour simplifier l&apos;analyse. Chaque indicateur est pondéré en fonction des sources<lb/> d&apos;informations et des statistiques disponibles.<lb/> Des indicateurs ont été proposés d&apos;après les informations disponibles. Ces informations doivent<lb/> venir en priorité d&apos;organismes officiels, pour garantir une procédure méthodologique rigoureuse, la<lb/> représentativité statistique et la continuité. Le processus mis en place pour compiler les indicateurs<lb/> permet une analyse continue des différentes sources, ainsi que l&apos;identification des domaines dans<lb/> lesquels les informations statistiques sont insuffisantes bien qu&apos;elles soient jugées importantes pour le<lb/> système.<lb/> Ce système mesure l&apos;évolution vers la durabilité, mais ne permet pas de déterminer si la<lb/> destination touristique est ou non durable. La raison en est que, si la valeur de l&apos;indicateur est<lb/> comparée à l&apos;évolution de ce même indicateur sur une période précise, les valeurs de seuil ou de<lb/> référence désirées ne sont pas définies.<lb/> La méthodologie inclut trois différents niveaux d&apos;analyse, avec des indicateurs synthétiques<lb/> disponibles à chaque niveau. Le premier niveau correspond à sept grands domaines : gouvernance,<lb/> territoire, vulnérabilité, rentabilité, diversification, qualité et innovation. Le deuxième niveau couvre<lb/> 39 thèmes différents (par exemple orientation sur les citoyens, sensibilité à l&apos;environnement,<lb/> saisonnalité, productivité, positionnement du produit, infrastructures publiques, commerce en ligne).<lb/> Le troisième niveau présente un ensemble de 348 indicateurs. Le système envisage le développement<lb/> durable comme un concept intégral et permet de réaliser des analyses à partir des interrelations entre<lb/> les différentes composantes. Pour faciliter l&apos;interprétation, un code de couleur universel correspondant<lb/> au système d&apos;avertissement des feux tricolores est utilisé.<lb/> Les sept domaines clés sont les suivants :<lb/> • Gouvernance : évalue la capacité de l&apos;administration régionale à créer des réseaux qui<lb/> favorisent la collaboration entre les parties prenantes, la participation des résidents et du<lb/> secteur privé à la prise de décisions concernant la destination, et l&apos;efficacité des processus<lb/> administratifs.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>• </head>
+ 
+            <figDesc>Qualité : évalue la satisfaction de la demande et la capacité de l&apos;offre à satisfaire les<lb/> demandes des touristes, et dans quelle mesure, c&apos;est-à-dire en abordant l&apos;évaluation du point<lb/> de vue de la demande et de l&apos;offre.<lb/> • Innovation : inclut des mesures de l&apos;utilisation d&apos;internet par la demande et l&apos;offre<lb/> potentielles, la commercialisation en ligne, la gestion de la relation client, les réseaux<lb/> sociaux et la technologie mobile. Ce domaine consiste à déterminer si le développement de<lb/> la technologie dans le lieu de destination est adéquat du point de vue de la demande et de<lb/> l&apos;offre potentielles et réelles.<lb/> Principaux résultats<lb/> Cette note présente en guise d&apos;exemple les résultats relatifs au domaine de la qualité. Ces<lb/> résultats ont été utilisés pour préparer le plan général en faveur du tourisme durable en Andalousie<lb/> pour la période 2014-20. Dans le graphique 14, la perception et l&apos;évaluation de la qualité en 2012 sont<lb/> comparées à celles de la période 2008-11 du point de vue : i) de la destination dans son ensemble ; ii)<lb/> des ressources touristiques de base (mer, patrimoine et environnement naturel) ; iii) des infrastructures<lb/> publiques ; et iv) de deux branches du secteur du tourisme (hébergement ; restaurants et débits de<lb/> boisson).<lb/> Le thème Destination inclut l&apos;évaluation globale de l&apos;Andalousie en tant que destination<lb/> touristique, ainsi qu&apos;une évaluation de sa capacité à satisfaire de manière adéquate aux demandes des<lb/> touristes. Les principaux aspects nuisant à la qualité de la destination touristique Andalousie sont les<lb/> suivants :<lb/> • un effort budgétaire de l&apos;administration publique en recul, ce qui a des répercussions sur les<lb/> budgets consacrés à l&apos;entretien et à l&apos;amélioration de la destination</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Ces indicateurs de durabilité sont des outils utiles dans le processus de prise de décision, tant<lb/> pour l&apos;étape de planification que pour la gestion publique. Leur valeur réside dans le fait qu&apos;ils mettent<lb/> en lumière en toute objectivité la réalité de la destination touristique. Le système est en mesure d&apos;offrir<lb/> une analyse de la situation de départ, mais permet également de suivre les progrès réalisés.<lb/> Le système de mesure permet d&apos;exposer la situation de la destination touristique avant et après la<lb/> planification, et intègre une évaluation permanente servant de système d&apos;alerte qui anticipe les écarts<lb/> dans les résultats ou les modifications significatives de l&apos;environnement, afin de permettre des<lb/> rectifications rapides pour éviter tout déséquilibre dans le modèle de destination touristique durable.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>BAKBASEL est une société de recherche et de conseil économiques qui apporte son concours<lb/> aux autorités suisses pour l&apos;analyse du tourisme depuis 2005. Le programme d&apos;évaluation comparative<lb/> mesure, analyse et compare la réussite et la compétitivité des destinations et régions touristiques dans<lb/> le but d&apos;accroître leur compétitivité. En axant les efforts sur les destinations, les actions recommandées<lb/> induites par les résultats peuvent être appliquées directement par les prestataires de services dans le<lb/> secteur du tourisme.<lb/> Le programme d&apos;évaluation comparative est mis en oeuvre dans les grandes régions touristiques<lb/> de Suisse : Valais, Berne, Grisons, Vaud, Tessin et Suisse centrale. Le secrétariat d&apos;État à l&apos;économie<lb/> (SECO) soutient financièrement le programme par le biais d&apos;Innotour, un instrument de promotion de<lb/> l&apos;innovation, de la coopération et du renforcement des connaissances dans l&apos;industrie du tourisme.<lb/> Méthodologie<lb/> Le « BAK DESTINATIONSMONITOR® » est au coeur des activités d&apos;évaluation comparative<lb/> du tourisme. C&apos;est un outil en ligne d&apos;analyse comparative pour les destinations et régions touristiques.<lb/> Il propose au secteur du tourisme des informations stratégiques ainsi qu&apos;un outil de prise de décision.<lb/> Il contient plus de 300 destinations et régions touristiques dans cinq pays avec plus de 100 chiffres<lb/> clés par destination. Les informations sont actualisées tous les ans.<lb/> Dans le cadre du programme d&apos;évaluation comparative, BAKBASEL évalue la réussite des<lb/> destinations. Le « BAK TOPINDEX » est utilisé pour mesurer la réussite des destinations et les<lb/> comparer à leurs homologues au niveau international. Cet indice de performance tient compte de<lb/> l&apos;évolution de la part de marché, du taux d&apos;occupation et de la rentabilité d&apos;une destination.<lb/> Premièrement, l&apos;évolution relative des nuitées dans les hôtels (constituant 20 % de l&apos;indice) mesure les<lb/> résultats en termes de volume ou, en d&apos;autres termes, le développement des parts de marché.<lb/> Deuxièmement, le taux d&apos;occupation des lits d&apos;hôtel existants (constituant 50 % de l&apos;indice) donne un<lb/> aperçu de l&apos;utilisation des capacités existantes, qui est un facteur économique déterminant.<lb/> Troisièmement, les prix relatifs des hôtels (constituant 30 % de l&apos;indice) indiquent la rentabilité de la<lb/> destination sous la forme du revenu par séjour et par nuit. Une destination est donc performante<lb/> lorsqu&apos;elle parvient à accroître sa part de marché, utiliser ses capacités le mieux possible et en même<lb/> temps générer un revenu élevé par séjour et par nuit.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Tableau </head>
+ 
+            <label>13</label>
+
+            <head>. </head>
+ 
+            <figDesc>Les 15 destinations les plus prisées des Alpes, Suisse, 2014<lb/> Note : BAK TOPINDEX année touristique, valeur moyenne de l&apos;Arc alpin = 3.5 points.<lb/> Source : BAKBASEL.<lb/> Le système montre également la structure des hôtels en fonction de leur classement par étoiles,<lb/> notamment pour les destinations alpines affichant le pourcentage le plus élevé de lits dans les<lb/> segments du haut de gamme et du luxe (graphique 15).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>15</label>
+
+            <head>. </head>
+ 
+            <figDesc>Structure hôtelière dans certaines destinations alpines, 2000 et 2014<lb/> Note : pourcentage de lits d&apos;hôtel classés suivant leur nombre d&apos;étoiles en %, colonne large = 2014, colonne étroite = 2000.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique </head>
+ 
+            <label>16</label>
+
+            <head>. </head>
+ 
+            <figDesc>Indice permettant de mesurer l&apos;attractivité et la diversité des offres estivales, 2014<lb/> Source : BAKBASEL.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>nouvelles évolutions sont à l&apos;étude. L&apos;innovation majeure est la mise en oeuvre<lb/> d&apos;analyses dites de frontière pour déterminer quels sont les facteurs de réussite des destinations<lb/> touristiques et recenser les facteurs de blocage dans des destinations spécifiques. L&apos;utilisation de ces<lb/> méthodes économétriques relativement nouvelles devrait permettre de savoir dans quelle mesure la<lb/> réussite d&apos;une destination (spécifique) dépend de son attractivité. Les méthodes d&apos;analyse<lb/> traditionnelles ainsi que les approches économétriques ont jusqu&apos;à présent été incapables, ou capables<lb/> seulement dans une faible mesure, de parvenir à de tels résultats.<lb/> Enseignements tirés de la démarche adoptée<lb/> L&apos;évaluation comparative offre une analyse utile aux destinations touristiques alpines. L&apos;analyse<lb/> fournit des informations détaillées et multicouches sur l&apos;importance du tourisme et la structure de<lb/> l&apos;offre touristique. La véritable valeur ajoutée se situe dans la comparaison internationale. La<lb/> comparaison avec les concurrents internationaux est essentielle pour connaître précisément le<lb/> positionnement du marché et pour améliorer en permanence la compétitivité des destinations<lb/> touristiques suisses alpines.<lb/> Pertinence pour les autres pays et transférabilité<lb/> L&apos;évaluation comparative est une pièce maîtresse de la politique touristique suisse. De manière<lb/> générale, on peut dire que la comparaison internationale est particulièrement utile dans les cas où les<lb/> conditions-cadres du tourisme sont comparables d&apos;un pays à l&apos;autre. Une évaluation comparative<lb/> constructive nécessite une base de données vaste et fiable. La création d&apos;une telle base de données est<lb/> complexe et coûteuse.<lb/> </figDesc>
+
+            <lb/> 0<lb/> 10<lb/> 20<lb/> 30<lb/> 40<lb/> 50<lb/> 60<lb/> 70<lb/> 80<lb/> Sports et aventures<lb/> Randonnée et alpinisme<lb/> Famille et découvertes<lb/> Culture et événements<lb/> Bien-être et plaisir</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Royaume-Uni – Optimiser la veille touristique au niveau régional<lb/> Description et logique<lb/> Ce projet est piloté par l&apos;Office for National Statistics (ONS).<lb/> La Tourism Intelligence Unit (TIU) de l&apos;ONS étudie la valeur du tourisme dans les régions et<lb/> sous-régions du Royaume-Uni. Ce projet vise principalement à optimiser l&apos;ensemble des informations<lb/> provenant des différentes sources de données disponibles au niveau régional. L&apos;initiative de la TIU<lb/> s&apos;intéresse à la fois à l&apos;offre et à la demande touristiques.<lb/> En particulier, le projet étend l&apos;analyse du compte satellite du tourisme (CST) au niveau régional<lb/> au Royaume-Uni et au niveau infrarégional en Angleterre et au Pays de Galles (jusqu&apos;aux niveaux<lb/> NUTS 2 et 3) pour renseigner sur la valeur du tourisme à ces échelles spatiales. La ventilation des<lb/> principaux résultats du CST aux niveaux régional et infrarégional est réalisée en utilisant les données<lb/> d&apos;enquête sur les dépenses des entreprises et des visiteurs.<lb/> Cette méthodologie a été appliquée pour les années 2008, 2009, 2011 et 2013 au Royaume-Uni et<lb/> dans la dernière publication pour l&apos;année de référence 2013 (publiée en mai 2016). Les travaux ont été<lb/> commandés par le Department for Culture, Media and Sport (DCMS) qui est le service ministériel<lb/> responsable de la politique touristique au Royaume-Uni. C&apos;est important du point de vue de la<lb/> gouvernance car cela montre que la méthodologie est acceptée par les décideurs et fournit un cadre<lb/> pour l&apos;élaboration de la politique touristique au niveau régional au Royaume-Uni.<lb/> Méthodologie<lb/> Le projet compile et analyse des données qui sont produites au sein de l&apos;ONS, mais aussi<lb/> provenant de l&apos;extérieur. Les données de l&apos;ONS couvrent l&apos;ensemble des mesures de l&apos;offre touristique<lb/> (enquête annuelle auprès des entreprises, tableaux des ressources et des emplois). Du côté de la<lb/> demande, la seule composante de la consommation touristique mesurée par l&apos;ONS est celle des<lb/> dépenses des touristes étrangers. Les données sur la consommation du tourisme interne avec nuitée et<lb/> sur les dépenses des excursionnistes internes (ou visites touristiques à la journée) sont toutes collectées<lb/> auprès de fournisseurs externes.<lb/> S&apos;agissant de l&apos;analyse de l&apos;offre, la méthodologie comporte deux étapes distinctes. La première<lb/> consiste à calculer la valeur ajoutée brute des filières touristiques (Gross Value Added of the Tourism<lb/> Industries, GVATI) suivant les recommandations du TSA : RMF. La GVATI est un indicateur<lb/> important puisqu&apos;il permet de déterminer les niveaux de production imputables aux activités<lb/> touristiques dans chaque région et sous-région. La deuxième étape consiste à harmoniser la valeur<lb/> ajoutée brute liée aux activités touristiques au sein de chaque région et l&apos;offre totale des producteurs<lb/> tirée des tableaux des ressources et des emplois de l&apos;ONS. Le fait d&apos;utiliser les tableaux des ressources<lb/> et des emplois comme dénominateur permet d&apos;obtenir des totaux régionaux qui, additionnés,<lb/> correspondent aux chiffres nationaux du Royaume-Uni, en particulier ceux publiés dans le compte<lb/> satellite du tourisme britannique. Ainsi, l&apos;addition de la valeur ajoutée brute du tourisme régional et<lb/> infrarégional et des résultats totaux de la valeur ajoutée brute correspond aux totaux britanniques<lb/> publiés précédemment. L&apos;homogénéité interne est l&apos;un des grands avantages de cette méthodologie.<lb/> En ce qui concerne l&apos;analyse de la demande, calculer la consommation touristique du Royaume-<lb/>Uni est plus complexe en raison de la multitude de sources de données existantes et du fait que ces<lb/> sources varient en fonction de la composante de la consommation touristique étudiée. La seule<lb/> composante de la demande mesurée à l&apos;ONS est celle des dépenses des visiteurs étrangers, par le biais de l&apos;International Passenger Survey (IPS). Les dépenses des visiteurs internes faisant des séjours de<lb/> plus de 24 heures figurent dans la Great Britain Tourism Survey (GBTS) mise en place par Taylor<lb/> Nelson Sofres (TNS) et commandée par les offices de tourisme nationaux. Les dépenses réalisées dans<lb/> le cadre de visites touristiques d&apos;une journée sont mesurées par la Great Britain Day Visits Survey<lb/> (GBDVS) mise en place par Taylor Nelson Sofres (TNS) et commandée par les offices de tourisme<lb/> nationaux. Ces enquêtes sont toutes disponibles au niveau régional.<lb/> Une fois présenté le cadre méthodologique pour l&apos;analyse du tourisme côté offre et côté demande,<lb/> il est nécessaire de savoir dans quelle mesure la demande touristique contribue à expliquer la<lb/> production de chaque région (en rapprochant la demande et l&apos;offre). Pour ce faire, on calcule un « ratio<lb/> touristique » (tourism ratio) pour chaque région ou sous-région. On obtient cette statistique en divisant<lb/> la demande totale par l&apos;offre totale dans chaque région. Le coefficient touristique est une bonne<lb/> mesure de l&apos;importance économique du secteur touristique au sein des régions, puisqu&apos;il montre le lien<lb/> entre la demande et l&apos;offre touristiques.<lb/> Principaux résultats<lb/> Le graphique 17 présente les chiffres de la GVATI en pourcentage au niveau régional. Un chiffre<lb/> élevé signifie qu&apos;un pourcentage élevé de la production régionale (représentée par la valeur ajoutée<lb/> brute) est imputable aux activités touristiques au sein de la région. Il renseigne sur l&apos;importance<lb/> relative des activités touristiques du point de vue de leur contribution à la valeur ajoutée brute au sein<lb/> de chaque région. Il n&apos;établit toutefois aucun lien avec les dépenses des visiteurs, de sorte qu&apos;il n&apos;offre<lb/> pas de représentation précise de la contribution directe du tourisme à une région.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>17</label>
+
+            <head>. </head>
+ 
+            <figDesc>Valeur ajoutée brute des filières touristiques au Royaume-Uni, 2013<lb/> Source : UK-TSA 2013 (ONS), ONS IO&amp;SUT 2013, Annual Business Survey 2013.<lb/> https://www.ons.gov.uk/search?q=tourism+industries+gva<lb/> https://www.ons.gov.uk/peoplepopulationandcommunity/leisureandtourism/datasets/regionalvalueoftourismestimatesfornuts1an<lb/> dnuts2areas<lb/> Le graphique 18 présente les dépenses en rapport avec le tourisme récepteur, interne et interne<lb/> émetteur par région. Il montre par exemple pour deux régions le poids significatif des aéroports et des<lb/> départs en ferry et par le tunnel sous la Manche dans le tourisme interne émetteur.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Le graphique 19 présente le coefficient touristique au niveau infrarégional. Il montre que le<lb/> tourisme contribue de façon déterminante au produit de certaines régions, comme par exemple les<lb/> Cornouailles et les Îles Scilly et le comté de Cumbria. La moyenne du Royaume-Uni est de 3.5 %.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>19</label>
+
+            <head>. </head>
+ 
+            <figDesc>Coefficients touristiques pour les sous-régions d&apos;Angleterre et du Pays de Galles, 2013<lb/> NUTS 2</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Kent<lb/> Lincolnshire<lb/> Surrey, Sussex de l&apos;Est et de l&apos;Ouest<lb/> Dorset et Somerset<lb/> Galles de l&apos;Est et région des vallées<lb/> Devon<lb/> Outer London<lb/> Yorkshire du Nord<lb/> Cumbria<lb/> Cornouailles et Îles Scilly<lb/> % Dans le graphique 20, le coefficient touristique est appliqué à la production totale de chaque<lb/> région pour fournir une mesure de la valeur ajoutée brute directe du tourisme, qui permet de connaître<lb/> la part que représente le tourisme dans le rendement des secteurs constituant l&apos;économie régionale. Il<lb/> est clair que Londres a une position dominante en termes de valeur ajoutée brute directe du tourisme,<lb/> mais la présence de grands ports joue également un rôle important puisque le Surrey, l&apos;East et le West<lb/> Sussex ont enregistré la quatrième valeur ajoutée brute directe du tourisme la plus élevée, ce qui<lb/> s&apos;explique par la présence de l&apos;aéroport de Gatwick.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Graphique</head>
+
+            <label>20</label>
+
+            <head>. </head>
+ 
+            <figDesc>Valeur ajoutée brute directe du tourisme au Royaume-Uni, 2013<lb/> 15 premières régions NUTS 2 en Angleterre et au Pays de Galles – Écosse et Irlande du Nord incluses<lb/> Source : UK-TSA 2013 (ONS), ONS IO&amp;SUT 2013,</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Il convient d&apos;utiliser avec précaution les estimations des dépenses des visiteurs dans cette<lb/> analyse, en raison de la taille relativement réduite des échantillons issus des enquêtes nationales sur le<lb/> tourisme lors de l&apos;examen des territoires infrarégionaux. Il est possible de remédier en partie à ce<lb/> problème en utilisant des moyennes sur trois ans, mais certaines disparités sont toutefois probables<lb/> dans des estimations de ce niveau.</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

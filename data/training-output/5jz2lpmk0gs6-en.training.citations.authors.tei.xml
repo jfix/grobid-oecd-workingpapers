@@ -1,0 +1,144 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Acemoglu</surname>, <forename>D</forename>. and <forename>J</forename>. <surname>Linn</surname></author>
+
+						<author><surname>Acemoglu</surname>, <forename>D</forename>., <forename>U</forename>. <surname>Akcigit</surname>, <forename>N</forename>. <surname>Bloom</surname> and <forename>W</forename>. <surname>Kerr</surname></author>
+
+						<author><surname>Aghion</surname>, <forename>P</forename>., <forename>P</forename>. <surname>Howitt</surname> and <forename>D</forename>. <surname>Mayer-Foulkes</surname></author>
+
+						<author><surname>Aghion</surname>, <forename>P</forename>., <forename>T</forename>. <surname>Fally</surname> and <forename>S</forename>. <surname>Scarpetta</surname></author>
+
+						<author><surname>Andrews</surname>, <forename>D</forename>. and <forename>C</forename>. <surname>Criscuolo</surname></author>
+
+						<author><surname>Andrews</surname>, <forename>D</forename>. and <forename>F</forename>. <surname>Cingano</surname></author>
+
+						<author><surname>Andrews</surname>, <forename>D</forename>. and <forename>A</forename>. <surname>de Serres</surname></author>
+
+						<author><surname>Acharya</surname>, <forename>V</forename>.<middlename>V</middlename>. and <forename>K</forename>.<middlename>V</middlename>. <surname>Subramanian</surname></author>
+
+						<author><surname>Arnold</surname>, <forename>J</forename>., <forename>G</forename>. <surname>Nicoletti</surname> and <forename>S</forename>. <surname>Scarpetta</surname></author>
+
+						<author><surname>Balasubramanian</surname>, <forename>N</forename>. and <forename>J</forename>. <surname>Sivadasan</surname></author>
+
+						<author><surname>Baldwin</surname>, <forename>J</forename>.<middlename>R</middlename>. and <forename>W</forename>. <surname>Gu</surname></author>
+
+						<author><surname>Bartelsman</surname>, <forename>E</forename>.<middlename>J</middlename>., <forename>P</forename>.<middlename>A</middlename>. <surname>Gautier</surname> and <forename>J</forename>. <surname>De Wind</surname></author>
+
+						<author><surname>Bartelsman</surname>, <forename>E</forename>.<middlename>J</middlename>. and <forename>H</forename>.<middlename>L</middlename>.<middlename>F</middlename>. <surname>De Groot</surname></author>
+
+						<author><surname>Bartelsman</surname>, <forename>E</forename>., <forename>J</forename>. <surname>Haltiwanger</surname> and <forename>S</forename>. <surname>Scarpetta</surname></author>
+
+						<author><surname>Bartelsman</surname>, <forename>E</forename>., <forename>J</forename>. <surname>Haltiwanger</surname> and <forename>S</forename>. <surname>Scarpetta</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Bas</surname>, <forename>M</forename>., <forename>Å</forename>. <surname>Johansson</surname>, <forename>F</forename>. <surname>Murtin</surname> and <forename>G</forename>. <surname>Nicoletti</surname></author>
+
+						<author><surname>Bloom</surname>, <forename>N</forename>. and <forename>J</forename>. <surname>Van Reenen</surname></author>
+
+						<author><surname>Bloom</surname>, <forename>N</forename></author>
+
+						<author><surname>Bourlès</surname>, <forename>R</forename>., et al.</author>
+
+						<author><surname>Bravo-Biosca</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Bravo-Biosca</surname>, <forename>A</forename>., <forename>C</forename>. <surname>Criscuolo</surname> and <forename>C</forename>. <surname>Menon</surname></author>
+
+						<author><surname>Criscuolo</surname>, <forename>C</forename>., <forename>J</forename>. <surname>Haskel</surname> and <forename>M</forename>.<middlename>J</middlename>. <surname>Slaughter</surname></author>
+
+						<author><surname>Criscuolo</surname>, <forename>C</forename>, <forename>P</forename>. <surname>Gal</surname>, <forename>C</forename>. <surname>Menon</surname></author>
+
+						<author><surname>David</surname>, <forename>P</forename>.<middlename>A</middlename>. and <forename>G</forename>. <surname>Wright</surname></author>
+
+						<author><surname>Disney</surname>, <forename>R</forename>, <forename>J</forename>. <surname>Haskel</surname> and <forename>Y</forename>. <surname>Heden</surname></author>
+
+						<author><surname>Dunning</surname>, <forename>J</forename>.<middlename>H</middlename>.</author>
+
+						<author><surname>Eisfeldt</surname>, <forename>A</forename>.<middlename>L</middlename>. and <forename>A</forename>.<middlename>A</middlename>. <surname>Rampini</surname></author>
+
+						<author><surname>Fabbri</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Foster</surname>, <forename>Lucia</forename>, <surname>Haltiwanger</surname>, <surname>John</surname>, and <forename>C</forename>.<middlename>J</middlename>. <surname>Krizan</surname></author>
+
+						<author><surname>Foster</surname>, <forename>L</forename>., <forename>J</forename>.<middlename>C</middlename>. <surname>Haltiwanger</surname> and <forename>C</forename>. <middlename>J</middlename>. <surname>Krizan</surname></author>
+
+						<author><surname>Gal</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Garicano</surname> <forename>L</forename>, <forename>C</forename>. <surname>LeLarge</surname> <forename>J</forename>. <surname>Van Reenen</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Goolsbee</surname>, <forename>Austen</forename></author>
+
+						<author><surname>Gonnard</surname>, <forename>E</forename> and <forename>A</forename>. <surname>Ragoussis</surname></author>
+
+						<author><surname>Goto</surname>, <forename>A</forename>., <surname>Nagata</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Griliches</surname>, <forename>Z</forename>.</author>
+
+						<author><surname>Griliches</surname>, <forename>Z</forename>.</author>
+
+						<author><surname>Guimaraes</surname> <forename>P</forename>, and <forename>P</forename>. <surname>Portugal</surname></author>
+
+						<author><surname>Hall</surname>, <forename>B</forename>. <middlename>H</middlename>., <forename>A</forename>. <middlename>B</middlename>. <surname>Jaffe</surname>, and <forename>M</forename>. <surname>Trajtenberg</surname></author>
+
+						<author><surname>Hall</surname>, <forename>B</forename>.<middlename>H</middlename>. and <forename>J</forename>. <surname>Lerner</surname></author>
+
+						<author><surname>Haltiwanger</surname>, <forename>J</forename>.<middlename>J</middlename>., <forename>S</forename>. <surname>Scarpetta</surname> and <forename>H</forename>. <surname>Schweiger</surname></author>
+
+						<author><surname>Haltiwanger</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Haltiwanger</surname>, <forename>J</forename>, <forename>R</forename>. <surname>Jarmin</surname> and <forename>J</forename>. <surname>Miranda</surname></author>
+
+						<author><surname>Hsieh</surname>, <forename>C-T</forename>. and <forename>P</forename>. <surname>Klenow</surname></author>
+
+						<author><surname>Jappelli</surname>, <forename>T</forename>., <forename>M</forename>. <surname>Paganoand</surname> <forename>M</forename>. <surname>Bianco</surname></author>
+
+						<author><surname>Jovanovic</surname>, <forename>B</forename>. and <forename>P</forename>.<middlename>L</middlename>. <surname>Rousseau</surname></author>
+
+						<author><surname>Klette</surname>, <forename>T</forename>. <middlename>J</middlename>.</author>
+
+						<author><surname>Kogan</surname>, <forename>L</forename>., <forename>D</forename>. <surname>Papanikolaou</surname>, <forename>A</forename>. <surname>Seru</surname> and <forename>N</forename>. <surname>Stoffman</surname></author>
+
+						<author><surname>Lentz</surname>, <forename>R</forename>. and <forename>D</forename>.<middlename>T</middlename>. <surname>Mortensen</surname></author>
+
+						<author><surname>Markusen</surname>, <forename>J</forename>.R</author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Nagaoka</surname> <forename>S</forename>., <forename>K</forename>. <surname>Motohashi</surname>, <forename>A</forename>. <surname>Goto</surname></author>
+
+						<author><surname>Nunn</surname>, <forename>N</forename>.</author>
+
+						<author><surname>Olley</surname>, <forename>G</forename>.<surname>S</surname> and <forename>A</forename>. <surname>Pakes</surname></author>
+
+						<author><surname>Pakes</surname>, <forename>A</forename>., and <forename>Z</forename>. <surname>Griliches</surname></author>
+
+						<author><surname>Pozzi</surname>, <forename>A</forename>., and <forename>F</forename>. <surname>Schivardi</surname></author>
+
+						<author><surname>Restuccia</surname>, <forename>D</forename>. and <forename>R</forename>. <surname>Rogerson</surname></author>
+
+						<author><surname>Schmookler</surname>, <forename>J</forename></author>
+
+						<author><surname>Syverson</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Syverson</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Van Zeebroeck</surname>, <forename>Nicolas</forename> and <surname>Graham</surname>, <forename>J</forename>. <middlename>H</middlename>.<surname>Stuart</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

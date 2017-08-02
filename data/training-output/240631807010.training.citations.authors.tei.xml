@@ -1,0 +1,130 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Balassa</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Baltzer</surname>, <forename>M</forename>.et al.</author>
+
+						<author><surname>Banque de</surname> <forename>France</forename></author>
+
+						<author><surname>Beka</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Brachinger</surname>, <forename>H</forename>.<middlename>W</middlename>.</author>
+
+						<author><surname>Buchwald</surname>, <forename>W</forename>., <surname>Chlumsky</surname>, <forename>J</forename>. and <forename>N</forename>. <surname>Engelhardt</surname></author>
+
+						<author><surname>Chlumsky</surname>, <forename>J</forename>. and <forename>N</forename>. <surname>Engelhardt</surname></author>
+
+						<author><surname>Cincibuch</surname>, <forename>M</forename>. and <forename>J</forename>. <surname>Podpiera</surname></author>
+
+						<author><surname>Codogno</surname>, <forename>L</forename>., <forename>C</forename>. <surname>Favero</surname> and <forename>A</forename>. <surname>Missale</surname></author>
+
+						<author><surname>Conway</surname>, <forename>P</forename>, <forename>V</forename>. <surname>Janod</surname> and <forename>G</forename>. <surname>Nicoletti</surname></author>
+
+						<author><forename>Del</forename> <surname>Giovane</surname>, <forename>P</forename>. and <forename>R</forename>. <surname>Sabbatini</surname></author>
+
+						<author><forename>Deutsche</forename> <surname>Bundesbank</surname></author>
+
+						<author><forename>Deutsche</forename> <surname>Bundesbank</surname></author>
+
+						<author><surname>Döhring</surname>, <forename>B</forename>. and <forename>A</forename>. <surname>Mordonu</surname></author>
+
+						<author><surname>Doliak</surname>, <forename>M</forename>. and <forename>B</forename>. <surname>Karmazin</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Égert</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Égert</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Égert</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Égert</surname>, <forename>B</forename>.et al.</author>
+
+						<author><surname>Égert</surname>, <forename>B</forename>., <surname>Lommatzsch</surname>, <forename>K</forename>. and <forename>A</forename>. <surname>Larhèche</surname>-Révil</author>
+
+						<author><surname>Égert</surname>, <forename>B</forename>. and <forename>D</forename>. <surname>Mihaljek</surname></author>
+
+						<author><surname>Égert</surname>, <forename>B</forename>. and <forename>J</forename>. <surname>Popdiera</surname></author>
+
+						<author><surname>Ehrmann</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Ercolani</surname>, <forename>M</forename>.<middlename>G</middlename>. and <forename>J</forename>. <surname>Dutta</surname></author>
+
+						<author><surname>Fluch</surname>, <forename>M</forename>. and <forename>H</forename>. <surname>Stix</surname></author>
+
+						<author><surname>Folkertsma</surname>, <forename>C</forename>.<middlename>K</middlename>., <forename>C</forename>. <surname>van Renselaar</surname> and <forename>A</forename>.<middlename>C</middlename>.<middlename>M</middlename>. <surname>Stokman</surname></author>
+
+						<author><surname>Frait</surname>, <forename>J</forename>., <forename>L</forename>. <surname>Komárek</surname> and <forename>M</forename>. <surname>Melecký</surname></author>
+
+						<author><surname>Gaiotti</surname>, <forename>E</forename>. and <forename>F</forename>. <surname>Lippi</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Hanousek</surname>, <forename>J</forename>. and <forename>R</forename>.<middlename>K</middlename>. <surname>Filer</surname></author>
+
+						<author><surname>Hobijn</surname>, <forename>B</forename>., <forename>F</forename>. <surname>Ravenna</surname> and <forename>A</forename>. <surname>Tambalotti</surname></author>
+
+						<author><surname>Kahneman</surname>, <forename>D</forename>. and <forename>A</forename>. <surname>Tversky</surname></author>
+
+						<author><surname>Kamleitner</surname>, <forename>B</forename>., <forename>E</forename>. <surname>Kirchler</surname> and <forename>E</forename>. <surname>Hofmann</surname></author>
+
+						<author><surname>Korhonen</surname>, <forename>I</forename>. and <forename>P</forename>. <surname>Wachtel</surname></author>
+
+						<author><surname>Kovács</surname>, <forename>M</forename>.<middlename>A</middlename>.</author>
+
+						<author><surname>Lojschová</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Van Leuvensteijn</surname>, <forename>M</forename>. et al.</author>
+
+						<author><surname>Lünnemann</surname>, <forename>P</forename>. and <forename>T</forename>. <surname>Mathä</surname></author>
+
+						<author><surname>Manganelli</surname>, <forename>S</forename>. and <forename>G</forename>. <surname>Wolswijk</surname></author>
+
+						<author><forename>Merrill</forename> <surname>Lynch</surname></author>
+
+						<author><surname>Mihaljek</surname>, <forename>D</forename>. and <forename>M</forename>. <surname>Klau</surname></author>
+
+						<author><surname>Mikulcová</surname>, <forename>E</forename>. and <forename>E</forename>. <surname>Stavrev</surname></author>
+
+						<author><forename>National</forename> <surname>Bank</surname> of <surname>Belgium</surname></author>
+
+						<author><surname>Oomes</surname>, <forename>N</forename>.</author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Pollan</surname>, <forename>W</forename>.</author>
+
+						<author><surname>Reis</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Samuelson</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Santos</surname>, <forename>D</forename>. et al.</author>
+
+						<author><surname>Sims</surname>, <forename>C</forename>.<middlename>A</middlename>.</author>
+
+						<author><surname>Traut-Mattausch</surname>, <forename>E</forename>. et al.</author>
+
+						<author><surname>Vladová</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Vyskrabka</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Regulation</surname>, <forename>Allocative</forename> <surname>Efficiency</surname> and <surname>Productivity in</surname> <forename>OECD</forename> <surname>Countries</surname></author>
+
+						<author><surname>Stephen</surname> <forename>S</forename>. <surname>Golub</surname> and <forename>Brian</forename> <surname>Tomasik</surname></author>
+
+						<author><surname>Oil</surname> <forename>Price</forename> <surname>Shocks</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

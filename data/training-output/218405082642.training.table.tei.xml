@@ -1,0 +1,53 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_218405082642.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <head>TABLE </head>
+ 
+            <label>OF </label>
+ 
+            <head>CONTENTS</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Multinominal logit model on outcomes of EPO non-pending citing patent applications with respect to<lb/> types of cited patent references<lb/> Filing years of citing patent applications: </figDesc>
+ 
+            <table>1990-2000<lb/> MNL 1<lb/> MNL 2<lb/> Citation profile<lb/> Citation profile and procedural status<lb/> Patent references<lb/> Refusal<lb/> Withdrawal<lb/> Refusal<lb/> Withdrawal<lb/> Marginal<lb/> Effect<lb/> (S.E.)<lb/> Marginal<lb/> Effect<lb/> (S.E.)<lb/> Marginal<lb/> Effect<lb/> (S.E.)<lb/> Marginal<lb/> Effect<lb/> (S.E.)<lb/> X/Y/E of Pure-X<lb/> 0.0008<lb/> (0.0007)<lb/> 0.0741 *** (0.0021)<lb/> X/Y/E of X&amp;A<lb/> -0.0012 *<lb/> (0.0006)<lb/> 0.0388 *** (0.0018)<lb/> A of X&amp;A<lb/> -0.0017 *** (0.0006)<lb/> -0.0351 *** (0.0017)<lb/> A of Pure-A<lb/> 0.0001<lb/> (0.0006)<lb/> -0.0178 *** (0.0017)<lb/> X/Y/E of Pure-X granted<lb/> 0.0005<lb/> (0.0008)<lb/> 0.0358 *** (0.0023)<lb/> X/Y/E of Pure-X withdrawn<lb/> -0.0017<lb/> (0.0011)<lb/> 0.1194 *** (0.0033)<lb/> X/Y/E of Pure-X refused<lb/> 0.0176 *** (0.0033)<lb/> 0.0746 *** (0.0079)<lb/> X/Y/E of Pure-X pending<lb/> 0.0054<lb/> (0.0070)<lb/> 0.0967 *** (0.0143)<lb/> X/Y/E of X&amp;A granted<lb/> -0.0026 *** (0.0006)<lb/> 0.0114 *** (0.0018)<lb/> X/Y/E of X&amp;A withdrawn<lb/> 0.0022 **<lb/> (0.0009)<lb/> 0.0770 *** (0.0027)<lb/> X/Y/E of X&amp;A refused<lb/> 0.0068 *** (0.0021)<lb/> 0.0589 *** (0.0056)<lb/> X/Y/E of X&amp;A pending<lb/> -0.0039<lb/> (0.0036)<lb/> 0.0483 *** (0.0093)<lb/> A of X&amp;A granted<lb/> -0.0026 *** (0.0006) -0.0505 *** (0.0016)<lb/> A of X&amp;A withdrawn<lb/> 0.0018 **<lb/> (0.0008)<lb/> 0.0134 *** (0.0024)<lb/> A of X&amp;A refused<lb/> 0.0029 *<lb/> (0.0017)<lb/> 0.0037<lb/> (0.0048)<lb/> A of X&amp;A pending<lb/> 0.0014<lb/> (0.0043)<lb/> 0.0055<lb/> (0.0092)<lb/> A of Pure-A granted<lb/> -0.0007<lb/> (0.0006) -0.0370 *** (0.0017)<lb/> A of Pure-A withdrawn<lb/> 0.0020 **<lb/> (0.0009)<lb/> 0.0242 *** (0.0024)<lb/> A of Pure-A refused<lb/> 0.0031<lb/> (0.0019)<lb/> 0.0112<lb/> (0.0053)<lb/> A of Pure-A pending<lb/> 0.0016<lb/> (0.0078)<lb/> 0.0196<lb/> (0.0158)<lb/> Applicant countries<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Filing years<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Technology classes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Observations<lb/> 425582<lb/> 425582<lb/> Wald χ 2<lb/> 20802.02<lb/> 22782.58<lb/> Log pseudolikelihood<lb/> -314673.89<lb/> -313540.99<lb/> Note: (S.E.) stands for standard errors. Base outcome is &quot; granted &quot; . Marginal effects of dummy variables are for discrete changes from 0 to 1 (all<lb/> independent variables are dummies). &apos;Pure X&apos; are filings which have only been cited (up to end 2006) as either X, Y or E; &apos;X and A&apos; are filings<lb/> which have been cited as X, Y or E and A; and &apos;Pure A&apos; are filings which have only been cited as A. Robust standard errors in parentheses (S.E.). *<lb/> significant at 10%; ** significant at 5%; *** significant at 1%.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>0.002*<lb/> 0.002<lb/> -0.001<lb/> 0.004<lb/> -0.000<lb/> 0.005<lb/> (0.001)<lb/> (0.003)<lb/> (0.006)<lb/> (0.004)<lb/> (0.009)<lb/> (0.016)<lb/> Number of IPC (log)<lb/> -0.003<lb/> -0.003<lb/> 0.035***<lb/> -0.016***<lb/> -0.014<lb/> 0.037<lb/> (0.002)<lb/> (0.004)<lb/> (0.009)<lb/> (0.006)<lb/> (0.014)<lb/> (0.024)<lb/> Number of inventors (log)<lb/> -0.008***<lb/> -0.002<lb/> -0.013<lb/> -0.006<lb/> 0.004<lb/> -0.020<lb/> (0.001)<lb/> (0.004)<lb/> (0.008)<lb/> (0.005)<lb/> (0.012)<lb/> (0.022)<lb/> Science linkage<lb/> 0.032***<lb/> 0.027***<lb/> 0.134***<lb/> 0.027**<lb/> 0.019<lb/> 0.173***<lb/> (0.003)<lb/> (0.007)<lb/> (0.014)<lb/> (0.011)<lb/> (0.025)<lb/> (0.037)<lb/> Cumulativeness:<lb/> Number of patent references (log)<lb/> 0.008***<lb/> 0.008**<lb/> 0.016**<lb/> 0.006<lb/> -0.019*<lb/> 0.037*<lb/> (0.001)<lb/> (0.003)<lb/> (0.008)<lb/> (0.005)<lb/> (0.011)<lb/> (0.020)<lb/> Self patent references intensity<lb/> 0.017***<lb/> 0.035***<lb/> 0.051***<lb/> 0.048***<lb/> 0.095***<lb/> 0.074<lb/> (0.004)<lb/> (0.007)<lb/> (0.018)<lb/> (0.013)<lb/> (0.024)<lb/> (0.048)<lb/> Applicant´s portfolio:<lb/> Portfolio size (log)<lb/> -0.000<lb/> 0.003***<lb/> 0.005***<lb/> 0.002*<lb/> 0.002<lb/> 0.002<lb/> (0.000)<lb/> (0.001)<lb/> (0.002)<lb/> (0.001)<lb/> (0.003)<lb/> (0.004)<lb/> First time patentee (dummy)<lb/> 0.014***<lb/> 0.027***<lb/> -0.013<lb/> 0.000<lb/> 0.010<lb/> -0.057*<lb/> (0.002)<lb/> (0.009)<lb/> (0.012)<lb/> (0.008)<lb/> (0.025)<lb/> (0.034)<lb/> Country, technology, filing years:<lb/> US applicant<lb/> 0.022***<lb/> 0.014<lb/> 0.031<lb/> 0.005<lb/> -0.049<lb/> 0.023<lb/> Japan applicant<lb/> -0.005<lb/> -0.018<lb/> -0.007<lb/> 0.040*<lb/> -0.036<lb/> 0.059<lb/> Germany applicant<lb/> -0.005<lb/> -0.019<lb/> -0.028<lb/> 0.014<lb/> -0.079<lb/> -0.016<lb/> France applicant<lb/> -0.016***<lb/> -0.030**<lb/> -0.083***<lb/> -0.002<lb/> -0.117**<lb/> -0.028<lb/> UK applicant<lb/> 0.022***<lb/> 0.018<lb/> 0.003<lb/> 0.037<lb/> -0.014<lb/> 0.039<lb/> Australia applicant<lb/> 0.015<lb/> 0.0<lb/> -0.057<lb/> 0.012<lb/> -0.003<lb/> -0.112<lb/> Switzerland applicant<lb/> -0.004<lb/> -0.009<lb/> -0.051**<lb/> 0.016<lb/> -0.051<lb/> -0.021<lb/> Other countries applicant<lb/> 0.003<lb/> -0.011<lb/> -0.018<lb/> 0.010<lb/> -0.074<lb/> 0.008<lb/> Electronics<lb/> -0.007**<lb/> -0.039***<lb/> Instruments<lb/> -0.005*<lb/> -0.017*<lb/> Chemicals-materials<lb/> 0.014***<lb/> 0.059***<lb/> Pharmaceuticals-biotech<lb/> 0.054***<lb/> 0.168***<lb/> Industrial processes<lb/> -0.014***<lb/> -0.014<lb/> Machines, mechanics, transport<lb/> -0.022***<lb/> -0.037***<lb/> Filing year 1991<lb/> -0.007***<lb/> -0.012**<lb/> -0.019<lb/> -0.000<lb/> 0.005<lb/> -0.046<lb/> Filing year 1992<lb/> -0.000<lb/> -0.005<lb/> 0.010<lb/> 0.019**<lb/> 0.016<lb/> 0.007<lb/> Filing year 1993<lb/> -0.006**<lb/> -0.015***<lb/> -0.006<lb/> 0.014<lb/> 0.008<lb/> -0.037<lb/> Filing year 1994<lb/> -0.001<lb/> -0.006<lb/> 0.044***<lb/> 0.038***<lb/> 0.067***<lb/> 0.043<lb/> Filing year 1995<lb/> 0.004<lb/> -0.002<lb/> 0.037**<lb/> 0.053***<lb/> 0.098***<lb/> 0.022<lb/> Filing year 1996<lb/> 0.011***<lb/> 0.006<lb/> 0.026<lb/> 0.074***<lb/> 0.123***<lb/> 0.032<lb/> Filing year 1997<lb/> 0.027***<lb/> 0.020***<lb/> 0.088***<lb/> 0.099***<lb/> 0.126***<lb/> 0.111***<lb/> Filing year 1998<lb/> 0.049***<lb/> 0.030***<lb/> 0.114***<lb/> 0.151***<lb/> 0.162***<lb/> 0.093**<lb/> Filing year 1999<lb/> 0.061***<lb/> 0.061***<lb/> 0.120***<lb/> 0.181***<lb/> 0.218***<lb/> 0.169***<lb/> Filing year 2000<lb/> 0.082***<lb/> 0.100***<lb/> 0.169***<lb/> 0.250***<lb/> 0.295***<lb/> 0.307***<lb/> Observations<lb/> 196781<lb/> 37792<lb/> 10947<lb/> 47925<lb/> 9319<lb/> 3348<lb/> Wald 2<lb/> 2958.65<lb/> 424.26<lb/> 463.64<lb/> 1563.26<lb/> 250.61<lb/> 142.56<lb/> Pseudo R 2<lb/> 0.0291<lb/> 0.0197<lb/> 0.0575<lb/> 0.0270<lb/> 0.0210<lb/> 0.0325<lb/> Log Pseudo likelihood<lb/> -49989.191<lb/> -10868.46<lb/> -4277.1516<lb/> -<lb/>28495.044<lb/> -5901.4803<lb/> -2241.354<lb/> Note: Marginal effects for dummy variables are for discrete changes from 0 to 1.&apos;Pure X&apos; are filings which have only been cited (up to<lb/> end 2006) as either X, Y or E; &apos;X and A&apos; are filings which have been cited as X, Y or E and A; and &apos;Pure A&apos; are filings which have only<lb/> been cited as A. Robust standard errors in parentheses. * significant at 10%; ** significant at 5%; *** significant at 1%.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>(WIPO). effect, but less directly so. 30 In turn, type A references merely provide technical background information.<lb/> See Annex 1 for more details about the definition of our sample of EP patent filings.</table>
+        </figure>
+
+
+
+    </text>
+</tei>
+

@@ -1,0 +1,114 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_218405082642.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <figDesc>14<lb/> The document does not report total percentages of withdrawn filings by motivation. The results of the EPO<lb/> Applicant Panel Survey 2007 on Future Filings (European Patent Office, 2008), addressed to a<lb/> representative sample of applicants having filed patents at EPO in 2006, and can be found at www.epo.org.<lb/> Results referred to here can be found in Tables 95 and 96, pp.106-107.<lb/> DSTI/DOC(2009)8 years comes from PATSTAT. Other EPO sources have been used to draw information on the main IPC<lb/> class (first one listed). Information on refusals and withdrawals, not included in PATSTAT, was extracted<lb/> from other EPO sources and includes up-to-date information, as of May 2007, on the status of published<lb/> European Patent (EP) filings before that date. 15</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>As<lb/> 15<lb/> EPO applications filed during that period but with no patent references in their search reports (because<lb/> their search report only included non-patent literature references or their search report has not been issued<lb/> yet, for example) or which were still pending by May 2007 (no examination decision taken at the EPO yet,<lb/> no withdrawal by the applicant either) are excluded from our analysis. As we are interested in specific<lb/> types of conflicting and state-of-the-art references, applications lacking patent references are excluded.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>: citation profile and procedural status) we test the<lb/> influence of the procedural status of the three different groups of patent references used in the first model.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <label>21<lb/> </label>
+<lb/> 
+            <head>The χ </head>
+ 
+            <label>2 </label>
+ 
+            <figDesc>tests for equality of coefficients are significant at 1%: 450.59 for the former and 19.08, for the latter<lb/> comparison.<lb/> 22<lb/> The coefficient of pending Pure-X references is not significantly different from the coefficients of<lb/> withdrawn Pure-X and refused Pure-X. withdrawal. This main finding holds when we conduct the analysis for two periods (patents being filed<lb/> during the period 1990-1995 and patents being filed during the period 1996-2000). 23</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Growth of Pure-X withdrawn patent references<lb/> Filing years 1990-2000<lb/> Source: PATSTAT, April 2007.<lb/> 23<lb/> The strong pre-emptive power of pending pure-X patent references disappears when we consider filing<lb/> years 1990-1995 for the citing patents. The results of estimating Model 2 on cited status by sub-periods<lb/> (</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Our sample corresponds to all applications filed by business<lb/> applicants in the period 1990-2000 and cited up to end 2006 in non-pending applications as of May 2007.<lb/> Recall that for identifying the category of pure-x withdrawn cited applications, we use all forward citations<lb/> accounted until the last year available in our data (2006). Hence filings made in 2000 have at least six<lb/> years to be referenced in the search reports of new patent applications. 26</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <label>25<lb/> </label>
+<lb/> 
+            <head>For </head>
+ 
+            <figDesc>the selection of patent applications filed by business applicants we have relied on data provided by the<lb/> OECD on EP patent applications by type of applicant (institutional affiliation as defined in the Frascati<lb/> Manual) based on the algorithm developed by van Looy et al., (2006) for Eurostat.<lb/> 26<lb/> We have conducted the same probit regressions reported in this section breaking up the period of analysis<lb/> to patents being filed during 1990-1995 and 1996-2000 and the results are quite similar. Results are<lb/> available upon request. consumer products (the latter being the category of reference). As for filing years, we consider the period<lb/> 1990-2000 and take 1990 as the year of reference.<lb/> We conduct two probit models to estimate: i) the likelihood of being a Pure-X withdrawn patent<lb/> reference against other references (cited in non-pending applications), and ii) the likelihood of being a<lb/> Pure-X withdrawn patent reference against all other references being withdrawn not categorised as Pure-X.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>: Pure-X withdrawn v. other patent references),</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>: Pure-X<lb/> withdrawn v. other withdrawn patent references)</figDesc>
+        </figure>
+
+
+        <figure>
+
+            DSTI/DOC(2009)8 Table 2. The probit model on the likelihood of pre-emptive filings<lb/> Patent references with filing years 1990-2000 cited in non-pending patents (marginal effects)<lb/> PROBIT 1: &apos;Pure-X withdrawn&apos; v other patent<lb/> references<lb/> PROBIT 2: &apos;Pure-X withdrawn v. other<lb/> withdrawn patent references<lb/> All<lb/> Chemicals-<lb/>materials<lb/> Pharma-<lb/>biotechnology<lb/> All<lb/> Chemicals-<lb/>materials<lb/> Pharma-<lb/>biotechnology<lb/> Scope, cost and scientific content:<lb/> Number of claims (log)<lb/> -</trash>
+        </figure>
+
+
+        <figure>
+
+            DSTI/DOC(2009)8</trash>
+        </figure>
+
+
+        <figure>
+
+            DSTI/DOC(2009)8 ANNEX 1: INFORMATION FROM PATENT REFERENCES</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>A1. Citation categories in EPO and PCT search reports<lb/> Category<lb/> Meaning<lb/> X<lb/> Particularly relevant documents when taken alone (a claimed invention cannot be considered<lb/> novel or cannot be considered to involve an inventive step)</figDesc>
+        </figure>
+
+
+        <figure>
+
+            . Summary statistics multinominal logit models: Citing non-pending<lb/> Filing years 1990-2000<lb/> Patent references<lb/> All Non-<lb/>pending<lb/> Granted<lb/> Withdrawn<lb/> Refused<lb/> Mean<lb/> Mean<lb/> Mean<lb/> Mean<lb/> X<lb/> 0.29<lb/> 0.26<lb/> 0.35<lb/> 0.28<lb/> Y<lb/> 0.21<lb/> 0.19<lb/> 0.23<lb/> 0.21<lb/> E<lb/> 0.02<lb/> 0.02<lb/> 0.02<lb/> 0.02<lb/> A<lb/> 0.71<lb/> 0.74<lb/> 0.64<lb/> 0.71<lb/> X/Y/E of Pure-X<lb/> 0.19<lb/> 0.16<lb/> 0.24<lb/> 0.18<lb/> X/Y/E of X&amp;A<lb/> 0.34<lb/> 0.32<lb/> 0.39<lb/> 0.35<lb/> A of X&amp;A<lb/> 0.46<lb/> 0.48<lb/> 0.41<lb/> 0.46<lb/> A of Pure-A<lb/> 0.38<lb/> 0.39<lb/> 0.34<lb/> 0.38<lb/> X/Y/E of Pure-X granted<lb/> 0.13<lb/> 0.12<lb/> 0.15<lb/> 0.12<lb/> X/Y/E of Pure-X withdrawn<lb/> 0.06<lb/> 0.05<lb/> 0.09<lb/> 0.06<lb/> X/Y/E of Pure-X refused<lb/> 0.01<lb/> 0.01<lb/> 0.01<lb/> 0.02<lb/> X/Y/E of Pure-X pending<lb/> 0.00<lb/> 0.00<lb/> 0.00<lb/> 0.00<lb/> X/Y/E of X&amp;A granted<lb/> 0.26<lb/> 0.25<lb/> 0.28<lb/> 0.26<lb/> X/Y/E of X&amp;A withdrawn<lb/> 0.09<lb/> 0.08<lb/> 0.12<lb/> 0.10<lb/> X/Y/E of X&amp;A refused<lb/> 0.02<lb/> 0.02<lb/> 0.02<lb/> 0.02<lb/> X/Y/E of X&amp;A pending<lb/> 0.01<lb/> 0.01<lb/> 0.01<lb/> 0.00<lb/> A of X&amp;A granted<lb/> 0.36<lb/> 0.39<lb/> 0.31<lb/> 0.35<lb/> A of X&amp;A withdrawn<lb/> 0.12<lb/> 0.11<lb/> 0.12<lb/> 0.13<lb/> A of X&amp;A refused<lb/> 0.02<lb/> 0.02<lb/> 0.02<lb/> 0.03<lb/> A of X&amp;A pending<lb/> 0.01<lb/> 0.01<lb/> 0.01<lb/> 0.00<lb/> A of Pure-A granted<lb/> 0.28<lb/> 0.30<lb/> 0.24<lb/> 0.27<lb/> A of Pure-A withdrawn<lb/> 0.11<lb/> 0.11<lb/> 0.12<lb/> 0.12<lb/> A of Pure-A refused<lb/> 0.02<lb/> 0.02<lb/> 0.02<lb/> 0.02<lb/> A of Pure-A pending<lb/> 0.00<lb/> 0.00<lb/> 0.00<lb/> 0.00<lb/> US applicant<lb/> 0.31<lb/> 0.27<lb/> 0.38<lb/> 0.39<lb/> </trash>
+<lb/> 
+            <figDesc>Japan applicant<lb/> 0.18<lb/> 0.20<lb/> 0.13<lb/> 0.15<lb/> Germany applicant<lb/> 0.19<lb/> 0.21<lb/> 0.16<lb/> 0.16<lb/> France applicant<lb/> 0.07<lb/> 0.08<lb/> 0.06<lb/> 0.07<lb/> UK applicant<lb/> 0.05<lb/> 0.04<lb/> 0.05<lb/> 0.06<lb/> Australia applicant<lb/> 0.01<lb/> 0.00<lb/> 0.01<lb/> 0.01<lb/> Canada applicant<lb/> 0.01<lb/> 0.01<lb/> 0.01<lb/> 0.01<lb/> Switzerland applicant<lb/> 0.03<lb/> 0.04<lb/> 0.03<lb/> 0.03<lb/> Other countries applicant<lb/> 0</figDesc>
+.15<lb/> 0.15<lb/> 0.16<lb/> 0.14<lb/> Electronics<lb/> 0.23<lb/> 0.21<lb/> 0.25<lb/> 0.24<lb/> Instruments<lb/> 0.17<lb/> 0.17<lb/> 0.18<lb/> 0.17<lb/> Chemicals-materials<lb/> 0.18<lb/> 0.19<lb/> 0.18<lb/> 0.22<lb/> Pharmaceuticals-biotech<lb/> 0.06<lb/> 0.05<lb/> 0.08<lb/> 0.06<lb/> Industrial processes<lb/> 0.19<lb/> 0.20<lb/> 0.17<lb/> 0.18<lb/> Machines, mechanics, transport<lb/> 0.10<lb/> 0.11<lb/> 0.08<lb/> 0.09<lb/> Construction-consumer products<lb/> 0.06<lb/> 0.06<lb/> 0.07<lb/> 0.05<lb/> Filing year 1990<lb/> 0.07<lb/> 0.08<lb/> 0.07<lb/> 0.10<lb/> Filing year 1991<lb/> 0.08<lb/> 0.08<lb/> 0.06<lb/> 0.10<lb/> Filing year 1992<lb/> 0.08<lb/> 0.09<lb/> 0.07<lb/> 0.11<lb/> Filing year 1993<lb/> 0.09<lb/> 0.09<lb/> 0.07<lb/> 0.12<lb/> Filing year 1994<lb/> 0.09<lb/> 0.09<lb/> 0.08<lb/> 0.11<lb/> Filing year 1995<lb/> 0.09<lb/> 0.10<lb/> 0.08<lb/> 0.11<lb/> Filing year 1996<lb/> 0.10<lb/> 0.10<lb/> 0.09<lb/> 0.11<lb/> Filing year 1997<lb/> 0.10<lb/> 0.10<lb/> 0.11<lb/> 0.09<lb/> Filing year 1998<lb/> 0.11<lb/> 0.10<lb/> 0.12<lb/> 0.07<lb/> Filing year 1999<lb/> 0.10<lb/> 0.09<lb/> 0.12<lb/> 0.04<lb/> Filing year 2000<lb/> 0.09<lb/> 0.08<lb/> 0.12<lb/> 0.03<lb/> Number of observations<lb/> 425582<lb/> 274207<lb/> 136440<lb/> 14935</trash>
+        </figure>
+
+
+
+    </text>
+</tei>
+

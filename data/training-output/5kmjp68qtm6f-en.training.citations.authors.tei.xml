@@ -1,0 +1,112 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Allcott</surname>, <forename>H</forename>. and <forename>N</forename>. <surname>Wozny</surname></author>
+
+						<author><surname>Arguea</surname>, <forename>N</forename>.<middlename>M</middlename>., <forename>C</forename>. <surname>Hsiao</surname> and <forename>G</forename>.<middlename>A</middlename>. <surname>Taylor</surname></author>
+
+						<author><surname>Arrow</surname>, <forename>K</forename>.<middlename>J</middlename>. and <forename>R</forename>.<middlename>C</middlename>. <surname>Lind</surname></author>
+
+						<author><surname>Bateman</surname>, <forename>I</forename>., <forename>A</forename>. <surname>Munro</surname>, <forename>B</forename>. <surname>Rhodes</surname>, <forename>C</forename>. <surname>Starmer</surname> and <forename>R</forename>. <surname>Sugden</surname></author>
+
+						<author><surname>Bento</surname>, <forename>A</forename>.<middlename>M</middlename>., <forename>L</forename>.<middlename>H</middlename>. <surname>Goulder</surname>, <forename>E</forename>. <surname>Henry</surname>, <forename>M</forename>.<middlename>R</middlename>. <surname>Jacobsen</surname> and <forename>R</forename>.<middlename>H</middlename>. <surname>von Haefen</surname></author>
+
+						<author><surname>Bernatzi</surname>, <forename>S</forename>. and <forename>R</forename>.<middlename>H</middlename>. <surname>Thaler</surname></author>
+
+						<author><surname>Berry</surname>, <forename>S</forename>., <forename>J</forename>. <surname>Levinsohn</surname> and <forename>A</forename>. <surname>Pakes</surname></author>
+
+						<author><surname>Bhat</surname>, <forename>C</forename>.<middlename>R</middlename>. and <forename>S</forename>. <surname>Sen</surname></author>
+
+						<author><surname>Bjornstad</surname>, <forename>D</forename>.<middlename>J</middlename>. and <forename>M</forename>. <surname>McKee</surname></author>
+
+						<author><surname>Brownstone</surname>, <forename>D</forename>., <forename>D</forename>.<middlename>S</middlename>. <surname>Bunch</surname> and <forename>K</forename>. <surname>Train</surname></author>
+
+						<author><surname>Brownstone</surname>, <forename>D</forename>., <forename>D</forename>. <middlename>S</middlename>. <surname>Bunch</surname>, <forename>T</forename>.<middlename>F</middlename>. <surname>Golob</surname> and <forename>W</forename>. <surname>Ren</surname></author>
+
+						<author><surname>Busse</surname>, <forename>M</forename>.<middlename>R</middlename>., <forename>C</forename>.<middlename>R</middlename>. <surname>Knittel</surname> and <forename>F</forename>. <surname>Zettelmeyer</surname></author>
+
+						<author><forename>Cambridge</forename> <surname>Econometrics</surname></author>
+
+						<author><surname>Dasgupta</surname>, <forename>S</forename>., <forename>S</forename>. <surname>Siddarth</surname> and <forename>J</forename>. <surname>Silva-Risso</surname></author>
+
+						<author><surname>DellaVigna</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Delucchi</surname>, <forename>M</forename>.<middlename>A</middlename>.</author>
+
+						<author><surname>Diederen</surname>, <forename>P</forename>., <forename>F</forename>. <surname>Van Tongeren</surname> and <forename>H</forename>. <surname>Van der Veen</surname></author>
+
+						<author><surname>Espey</surname>, <forename>M</forename>. and <forename>S</forename>. <surname>Nair</surname></author>
+
+						<author><surname>Fan</surname>, <forename>Q</forename>. and <forename>J</forename>. <surname>Rubin</surname></author>
+
+						<author><surname>Feng</surname>, <forename>Y</forename>., <forename>D</forename>. <surname>Fullerton</surname> and <forename>L</forename>. <surname>Gan</surname></author>
+
+						<author><surname>Fischer</surname>, <forename>C</forename>., <forename>W</forename>. <surname>Harrington</surname> and <forename>I</forename>.<middlename>W</middlename>.<middlename>H</middlename>. <surname>Parry</surname></author>
+
+						<author><surname>Gal</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Goldberg</surname>, <forename>P</forename>.<middlename>K</middlename>.</author>
+
+						<author><surname>Goldberg</surname>, <forename>P</forename>.<middlename>K</middlename>.</author>
+
+						<author><surname>Goldberg</surname>, <forename>P</forename>.<middlename>K</middlename>.</author>
+
+						<author><surname>Greene</surname> <forename>—</forename> <surname>Discussion</surname></author>
+
+						<author><surname>Gramlich</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Greene</surname>, <forename>D</forename>.<middlename>L</middlename>.</author>
+
+						<author><surname>Greene</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Greene</surname>, <forename>D</forename>.<middlename>L</middlename>., <forename>J</forename>. <surname>German</surname> and <forename>M</forename>.<middlename>A</middlename>. <surname>Delucchi</surname></author>
+
+						<author><surname>Greene</surname>, <forename>D</forename>.<middlename>L</middlename>.</author>
+
+						<author><surname>Greene</surname>, <forename>D</forename>.<middlename>L</middlename>., <forename>R</forename>. <surname>Goeltz</surname>, <forename>J</forename>. <surname>Hopson</surname> and <forename>E</forename>. <surname>Tworek</surname></author>
+
+						<author><surname>Hassett</surname>, <forename>K</forename>.<middlename>A</middlename>. and <forename>G</forename>.<middlename>E</middlename>. <surname>Metcalf</surname></author>
+
+						<author><surname>Howarth</surname>, <forename>R</forename>.<middlename>B</middlename>. and <forename>H</forename>.<middlename>H</middlename>. <surname>Stanstad</surname></author>
+
+						<author><surname>Jones</surname>, <forename>B</forename>.<middlename>D</middlename>.</author>
+
+						<author><surname>Langer</surname>, <forename>A</forename>. and <forename>N</forename>. <surname>Miller</surname></author>
+
+						<author><surname>Li</surname>, <forename>S</forename>., <forename>C</forename>. <surname>Timmins</surname>, <forename>R</forename>.<middlename>G</middlename>. <surname>von Haefen</surname></author>
+
+						<author><surname>McManus</surname>, <forename>W</forename>.</author>
+
+						<author><surname>Nye</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Onoda</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Parry</surname>, <forename>I</forename>.<middlename>H</middlename>. and <forename>K</forename>.<middlename>A</middlename>. <surname>Small</surname></author>
+
+						<author><surname>Sawhill</surname>, <forename>J</forename>.<middlename>W</middlename>.</author>
+
+						<author><surname>Stern</surname>, <forename>P</forename>.<middlename>C</middlename>. and <forename>E</forename>. <surname>Aronson</surname></author>
+
+						<author><surname>Train</surname>, <forename>K</forename>.<middlename>E</middlename>. and <forename>C</forename>. <surname>Winston</surname></author>
+
+						<author><surname>Train</surname>, <forename>K</forename>.</author>
+
+						<author><surname>Turrentine</surname>, <forename>T</forename>.<middlename>S</middlename>. and <forename>K</forename>.<middlename>S</middlename>. <surname>Kurani</surname></author>
+
+						<author><surname>Tversky</surname>, <forename>A</forename>. and <forename>D</forename>. <surname>Kahneman</surname></author>
+
+						<author><surname>Tversky</surname>, <forename>A</forename>. and <forename>I</forename>. <surname>Simonson</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

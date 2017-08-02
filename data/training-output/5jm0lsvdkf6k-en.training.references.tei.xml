@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl>Sources: <author>Adalet McGowan, M. and D. Andrews</author> (<date>2015</date>), &quot;<orgName>Labour Market Mismatch and Labour Productivity: Evidence from PIAAC Data</orgName>&quot;,<title level="m">OECD Economics Department Working Papers ,No .1209</title> ,<publisher>OECD Publishing</publisher> ;<author>Bloom ,N .,R .Sadun ,and J .Van Reenen</author> ( <date>2013</date>),&quot;<title level="a">Management as a Technology</title> &quot; , <title level="j">LSE</title> <author>mimeo ; Egert, B. andP . Gal</author>( <date>2016</date> ),&quot;<title level="a">The quantification of structural reforms : Anew Framework</title> &quot; ,<title level="j">OECD Economics Department Working Papers</title> , forthcoming ;<editor>Fournier ,J .- M.,A.Domps ,Y .Gorin ,X .Guillet andD</editor> .</bibl>
+	<bibl><title level="j">Morchoisne</title> (<date>2015</date>), &quot; <title level="a">Implicit Regulatory Barriers in the EU Single Market: New Empirical Evidence from Gravity Models</title> &quot; , <title level="m">OECD EconomicsDepartment Working Papers</title> ,No .<biblScope unit="issue">1181</biblScope> ,<publisher>OECD Publishing ;Fournier</publisher> ,<title level="j">J .-M.</title>( <date>2015</date>),&quot; <title level="a">The Negative Effect of Regulatory Divergence onForeign Direct Investment</title> &quot; , <title level="m">OECD Economics Department Working Papers</title> , No. <biblScope unit="issue">1268</biblScope>, <publisher>OECDPublishing . OECDECONOMIC POLICYPAPERS</publisher> , NO .<biblScope unit="issue">16</biblScope> ©<date>OECD 2016</date></bibl>
+	<bibl><author>Dhingra, S., G. Ottaviano, T. Sampson and J. Van Reenen</author> (<date>2016a</date>), <title level="a">The consequences of Brexit for UK tradeand living standards ,Centre for Economic Performance ( CEP)</title>,<title level="j">London School of Economics and PoliticalScience ( LSE )</title>.</bibl>
+	<bibl><author>Dhingra, S., G. Ottaviano, T. Sampson and J. Van Reenen</author> (<date>2016b</date>), <title level="a">The impact of Brexit on foreign investmentin the UK ,Centre for Economic Performance ( CEP)</title>,<title level="j">London School of Economics and Political Science( LSE )</title>.</bibl>
+	<bibl><author>Egert, B. and P. Gal</author> (<date>2016</date>), &quot; <title level="a">The quantification of structural reforms: A new Framework</title> &quot; , <orgName>OECD EconomicsDepartment Working Papers ,forthcoming</orgName> .</bibl>
+	<bibl><author>Fournier, J.-M., A. Domps, Y. Gorin, X. Guillet and D. Morchoisne</author> (<date>2015</date>), &quot; <title level="a">Implicit Regulatory Barriers in theEU Single Market :New Empirical Evidence from Gravity Models</title> &quot; , <orgName>OECD Economics Department Working Papers</orgName>, No. <biblScope unit="issue">1181</biblScope>, <publisher>OECDPublishing</publisher> .</bibl>
+	<bibl><author>Fournier, J.-M.</author> (<date>2015</date>), &quot; <title level="a">The Negative Effect of Regulatory Divergence on Foreign Direct Investment</title> &quot; , <publisher>OECDEconomics Department Working Papers</publisher> ,No .<biblScope unit="issue">1268</biblScope> ,<publisher>OECD Publishing</publisher> .</bibl>
+	<bibl><author>HM Government</author> (<date>2016</date>), &quot; <title level="a">HM Treasury analysis: the long-term economic impact of EU membership and thealternatives</title> &quot; .</bibl>
+	<bibl><title level="j">OECD</title> (<date>2016</date>), <title level="a">OECD Economic Surveys: European Union 2016</title>, <publisher>OECD Publishing</publisher>, <pubPlace>Paris, forthcoming</pubPlace>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2015</date>), <title level="m">METRO version 1 model documentation, Trade and Agriculture Directorate</title>, <title level="j">OECD</title>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2011</date>): <author>Dee, P. , J. Francois, M. Manchin, H. Norberg, H. Kyvik Nordås, F. van Tongeren</author> , <title level="a">The Impactof Trade Liberalisation on Jobs and Growth :Technical Note</title> ,<pubPlace>Paris ,OECD Trade Policy Working Papers</pubPlace>, no<biblScope unit="volume">107</biblScope> . http: //<ptr type="web">dx.doi.org/10.1787/5kgj4jfj1nq2-en</ptr></bibl>
+	<bibl><author>Petri, P. and M. Plummer</author> (<date>2016</date>) , <title level="a">The Economic Effects of the Trans-Pacific Partnership: New Estimates</title>, <title level="a">ThePeterson Institute ,working paper no .16 -2;Capital Economics</title> ( <date>2016</date>),<title level="a">The economic impact of</title> &apos; Brexit&apos;,<date>February2016</date> .</bibl>
+	<bibl><title level="j">PwC</title> (<date>2016</date>), <title level="a">Leaving the EU: Implications for the UK economy, PricewaterhouseCoopers (PwC) report commissionedby The Confederation of British Industry ( CBI)</title>.</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

@@ -1,0 +1,243 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5jz2lpmk0gs6-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 14<lb/> 26.<lb/> </trash>
+<lb/> 
+            <figDesc>Other firm-level variables come from the ORBIS database. Along with many advantages, this<lb/> commercial dataset also carries a number of caveats. First</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>ECO/WKP(2014)23<lb/> 15<lb/> the count of distinct patent families, rather than distinct patents; the International Patent Documentation<lb/> Centre (INPADOC) family definition has been adopted.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>on the<lb/> limitations of ORBIS) and because the sample excludes firms with less than 20 employees. Finally, the<lb/> descriptive statistics in this section are limited to countries for which a significant number of patenting<lb/> firms over the 2003-2010 period is reported in the dataset, which corresponds to a total of around<lb/> 2.8 million firms across 13 countries.<lb/> 32.<lb/> The left panel of Figure 1 reports the share of firms that own at least one patent in 2009 by<lb/> country. While the share of firms that patent is close to or above 20% in United States and Germany, this<lb/> figure is around 5% for most other countries in Figure 1. The right panel reports the corresponding statistic<lb/> by (NACE Rev. 1.1) 2-digit sectors. The graph shows that there is also large heterogeneity across sectors,<lb/> with manufacturing of chemicals – including pharmaceuticals – (NACE 24), machinery and equipment<lb/> (NACE 29), and electrical and optical (NACE 30-33) showing as expected the largest patenting rates, all<lb/> reporting a share of patenting firms of around 20%. Another stylised fact is that industries in<lb/> manufacturing generally show a much higher patenting rate than in the service sector.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Share of firms that patent by country and by 2-digit sector<lb/> Selected OECD countries<lb/> Panel A: Country<lb/> Panel B: Industry<lb/> Note: the sample is limited to companies and that have at least 20 employees in 2003 or at the time of their first appearance in the<lb/> dataset and to countries for which at least 500 firms applied for a patent over the 2003-2010 period.<lb/> Source: PATSTAT, OECD HAN Database, and OECD ORBIS.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 16<lb/> of 4; capital </trash>
+ 
+            <figDesc>stock by a factor of 5; and employment by a factor of roughly 3. 13 Not surprisingly, patenting<lb/> firms are also more capital intensive and show a higher level of labour productivity than non-patentees. 14<lb/> Table 2. Mean firm characteristics: patentees versus non-patentees<lb/> Selected OECD countries, 2003-2010</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>B1 in<lb/> Appendix B) and anecdotal evidence suggest that patent litigation has shown significantly different time<lb/> ECO/WKP(2014)23<lb/> 19<lb/> patterns across technologies in the last decade, with some technological classes experiencing sudden bursts<lb/> in the number of litigation cases and others showing a more linear pattern. As a consequence of the<lb/> interaction of those two factors – the technological inertia and the significant time variation in litigation<lb/> across fields – some firms exogenously find their prospective patent portfolio potentially more exposed to<lb/> litigation risks, which in turn decreases their incentives to develop new patents. The exogeneity assumption<lb/> also requires that changes in litigation propensity do not affect changes in firm&apos;s employment and capital<lb/> through other channels conditional on country-year and industry-year dummies – an assumption that seems<lb/> plausible.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>For those companies not patenting<lb/> before 2003 (around 10% of the sample), we build the IPC shares based on patents applied for in<lb/> the first year of the firm&apos;s patenting activity in which at least 3 different IPC classes appear in the<lb/> PATSTAT dataset.<lb/> • Litig_prop is the sum of all patents litigated in a given year, divided by the stock of patents<lb/> applied for in the same years. For example, if in year 2005 the data show that 20 patents have<lb/> been litigated, of which 10 have been applied for in 1995 and 10 in 2000, and the total number of<lb/> patents applied for in 1995 and 2000 is 50 and 100, respectively, the value of Litig_prop for the<lb/> year 2005 would be equal to 10/50+10/100=3/10.<lb/> 45.<lb/> Litigation data are sourced from a commercial database created and maintained by Darts-IP. 16 To<lb/> the best of our knowledge, the dataset was first used and described by van Zeerbroeck and Graham (2011).<lb/> Figure B1 (see Appendix B) illustrates the time trends in litigations over the period 2003-2009 for the top<lb/> 10% IPC 4-digit classes and clearly demonstrates that there is a significant variation over time in litigation<lb/> events within technological classes.<lb/> 16<lb/> The Darts-IP dataset covers judgments across different Court levels (first instance, appeal</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Sensitivity of firm characteristics with respect to the patent stock: baseline estimates<lb/> Selected OECD countries, 2003-2010 using yearly variation</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>18<lb/> These results are not presented for sake of brevity and are available from the authors on request.<lb/> 19<lb/> The classification of patent families is based on the INPADOC definition.<lb/> 20<lb/> The year 2009 (rather than the latest available year 2010) was chosen in order to maximise the number of<lb/> observations in the long differences equation.<lb/> ECO/WKP(2014)23</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 26<lb/> Table 6. </trash>
+ 
+            <figDesc>Sensitivity of firm characteristics with respect to the patent stock: group patents<lb/> Selected OECD countries, 2003-2009 using yearly variation<lb/> Notes: Robust standard errors clustered at the firm level in parenthesis. The patent stock is calculated as the log(X+1) where X is the<lb/> cumulated number of USTPO, EPO and PCT granted patents since the 1980 depreciated at the rate 15% per year. The group patent<lb/> variable is calculated in the same way based on the patent stock of other affiliates of the same group. See appendix B for details on<lb/> the group definition. The sample is limited to the period 2003-2009 as ownership information is not available for the year 2010. ***, **,<lb/> * denotes statistical significance at the 1%, 5% and 10% levels respectively. The TFP estimates are based on Wooldridge (2009)<lb/> procedure with imputations based on industry averages for missing data procedure; see Gal (2013) for details.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 27<lb/> Table 7. </trash>
+ 
+            <figDesc>Sensitivity of firm characteristics with respect to the patent stock: controlling for patent quality<lb/> European OECD countries, 2003-2010 using yearly variation<lb/> Notes: Robust standard errors clustered at the firm level in parenthesis. The patent stock is calculated as the log(X+1) where X is the<lb/> cumulated number of granted patents since the 1980 depreciated at the rate 15% per year. ***, **, * denotes statistical significance at<lb/> the 1%, 5% and 10% levels respectively. The TFP estimates are based on Wooldridge (2009) procedure with imputations based on<lb/> industry averages for missing data procedure; see Gal (2013) for details.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>first patent has been filed for by the patentee. If significant differences emerge in the outcome variable<lb/> 21<lb/> The sample is limited to firms that appear at least 6 times between 2002 and 2009 and which belong to<lb/> countries with at least 100 observations. Among those, there are 784 first time patentees in the year 2005 or<lb/> 2006. Each of them is matched to a similar non-patentee; the final sample therefore amounts to 1568 firms<lb/> observed over a maximum of 9 years.<lb/> ECO/WKP(2014)23<lb/> 28<lb/> from the year in which the patent application is filed – but not in preceding years – this would suggest that<lb/> resources tend to flow to firms that patent for the first time (in addition to firms that already patent and<lb/> increase the size of their patent stock).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Event study analysis of first time patentees relative to closest peer<lb/> Propensity score matching estimator based on first-time patent filers in 2005-2006; average effect across countries in<lb/> the sample.<lb/> A: Employment<lb/> B: Capital<lb/> Notes: The chart shows the estimated level difference in employment (left pane) and fixed capital stock (right panel) between<lb/> patentees and non-patentees. Dotted lines report 5% confidence interval. The estimated coefficients are reported in Table B4.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 29<lb/> Table 8. </trash>
+ 
+            <figDesc>Sensitivity of firm characteristics with respect to the patent stock: instrumental variables estimates<lb/> Selected OECD countries, 2003-2010 using yearly variation</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>PANEL B: INSTRUMENTAL VARIABLES ESTIMATION (SECOND STAGE 2SLS)<lb/> PANEL C: FIRST STAGE (Depe nde nt variable : Pate nt stock)<lb/> PANEL D: FALSIFICATION TEST (Depe ndent variable : Pate nt stock)<lb/> PANEL A: OLS PANEL F.E. ESTIMATION<lb/> Patent stock (firm) -OLS<lb/> Patent stock (firm) -IV<lb/> Patent litigation propensity<lb/> ECO/WKP(2014)23<lb/> 30<lb/> average correlation over the period. When identifying the impact of policies in Section 5.3, what generally<lb/> matters is how these relationships change over time at the firm level.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Cross-country differences in resource flows to patenting firms?<lb/> Change in firm inputs associated with a 10% change in patent stock; selected OECD countries (2003-2010)<lb/> A: Capital<lb/> B. Employment<lb/> Notes: The black dot shows the country-specific point estimate of eq. (1), while the grey bands denote the 90% confidence interval<lb/> (note that the confidence intervals vary across countries due to differences in the number of observations). The same estimates are<lb/> reported in Table B5 of Appendix B. The sample is restricted to countries in which at least 300 new patents are granted over the<lb/> sample period and/or the country-specific coefficients are statistically different from zero.<lb/> ECO/WKP(2014)23<lb/> 31<lb/> 68.<lb/> These patterns bear some</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23</trash>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 34<lb/> </trash>
+<lb/> 
+            <head>Figure </head>
+ 
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Framework policies and resource flows to patenting firms, 2003-2010<lb/> A: Change in firm employment associated with a 10% change in the patent stock<lb/> B: Change in firm capital associated with a 10% change in the patent stock</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <label>10</label>
+
+            <head>. </head>
+ 
+            <figDesc>The heterogeneous impact of framework policies on resource flows to patenting firms: young<lb/> versus old firms</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <label>81</label>
+
+            <head>.<lb/> </head>
+<lb/> 
+            <figDesc>To the best of our knowledge, this is the first paper to explore cross-country differences in<lb/> resource flows to patenting firms and further research on this issue is required. Indeed, a number of<lb/> avenues for future research emerge. First, the data underlying the current paper is based on matching<lb/> administrative data on patents and the commercial database ORBIS. As discussed this raises issues related<lb/> to sample representativeness and coverage, and it warrants some caution when interpreting some of the<lb/> results presented, e.g. on young firms. Therefore, one avenue for further research is to use information<lb/> ECO/WKP(2014)23<lb/> 39<lb/> from matching patent data with business register data, which cover the whole population of businesses and<lb/> survey data based on stratified random samples from National Statistical Offices.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23 APPENDIX A: A SIMPLE ALGORITHM TO DEFINE GROUPS IN ORBIS</trash>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 46<lb/> APPENDIX B: ADDITIONAL EMPIRICAL TABLES AND CHARTS</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>B1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Litigation propensity varies significantly across time and IPC<lb/> Human Necessities<lb/> Performing Operations, Transporting<lb/> Chemistry, Metallurgy<lb/> Fixed Constructions<lb/> Mechanical Engineering, Lighting, Heating,<lb/> Weapons &amp; Physics<lb/> Electricity<lb/> ECO/WKP(2014)23<lb/> 47<lb/> Table B1.<lb/> Sample composition by year and country<lb/> Notes: the table reports the number of firm-level observations for which the employment variable is not missing by country and year.<lb/> ECO/WKP(2014)23<lb/> 48<lb/> Table B2.<lb/> Intensive and Extensive margins<lb/> Selected OECD countries, 2003-2010 using yearly variation</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 49<lb/> Table B3.<lb/> </trash>
+<lb/> 
+            <figDesc>Sensitivity of firm characteristics with respect to the patent stock: long difference in common<lb/> sample<lb/> Selected OECD countries, 2003-2009</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 50<lb/> Table B4.<lb/> </trash>
+<lb/> 
+            <figDesc>Patenting and firm characteristics on the extensive margin: before-and-after effects based on<lb/> propensity-score matching<lb/> Selected OECD countries, 2003-2010 using yearly variation<lb/> Note: the sample is limited to companies that file for a patent at EPO, USTPO, or WIPO/PCT for the first time in year 2005 or 2006,<lb/> and to their matched non patentee. The regressions control for matched patentee-non-patentee fixed effects and year fixed effects.<lb/> *** significant at 1%, ** significant at 5%, * significant at 10%.<lb/> ECO/WKP(2014)23<lb/> 51<lb/> Table B5.<lb/> Country specific coefficient estimates of the sensitivity of firm characteristics with respect to<lb/> the patent stock<lb/> Selected OECD countries, 2003-2010 using yearly variation</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ECO/WKP(2014)23<lb/> 52<lb/> Table B6.<lb/> </trash>
+<lb/> 
+            <figDesc>The impact of framework policies on resource flows to patenting firms: robustness</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>, radicalness<lb/> refers to the number of different International Patent Classification (IPC) classes cited different from the one the patent belong to (i.e.<lb/> radical patents are those who bring insights from different technologies); and the number of citations to the non-patent literature<lb/> (NPL), proxies for the closeness of patents to science.<lb/> ECO/WKP(2014)23<lb/> 54<lb/> Table B8.<lb/> The impact of framework policies on employment flows to patenting firms: differences-in-<lb/>differences estimator<lb/> Selected OECD countries, 2003-2010 using yearly variation</figDesc>
+        </figure>
+
+
+        <figure>
+
+            .<lb/> ECO/WKP(2014)23<lb/> 55<lb/> Table B9.<lb/> </trash>
+<lb/> 
+            <figDesc>The impact of framework policies on resource flows to patenting firms: robustness check</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

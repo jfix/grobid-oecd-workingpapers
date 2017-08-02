@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Chansomphou</surname>, <forename>V</forename>. and <forename>M</forename>. <surname>Ichihashi</surname></author>
+
+						<author><surname>Girma</surname>, <forename>S</forename>., <forename>Y</forename>. <surname>Gong</surname>, <forename>H</forename>. <surname>Görg</surname> and <forename>S</forename>. <surname>Lancheros</surname></author>
+
+						<author><surname>Joumard</surname>, <forename>I</forename>., <forename>U</forename>. <surname>Sila</surname> and <forename>H</forename>. <surname>Morgavi</surname></author>
+
+						<author><surname>Nordhaus</surname>, <forename>W</forename>.</author>
+
+						<author><surname>Robertson</surname>, <forename>P</forename>. <middlename>E</middlename>. and <forename>L</forename>. <surname>Ye</surname></author>
+
+						<author><surname>Wu</surname>, <forename>Y</forename>., <forename>N</forename>. <surname>Ma</surname> and <forename>X</forename>. <surname>Guo</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

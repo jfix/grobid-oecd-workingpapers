@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><title level="a">Banking Union. CESEE policy-makers would thus get a seat at the ECB&apos;s Supervisory Board and contributeto the supervisory assessment and decision -makingon these large European banks</title> .</bibl>
+	<bibl><title level="j">Next</title>, capital is a good indicator of the health of a financial institution. <title level="a">Supervisors should supplement theTier 1 Capital Ratio ( basedon risk -weightedassets )with a leverage ratio ( basedon unweighted total assets ),asthe risk - weightedapproachshows some deficiencies . Thesimple leverage ratio provides a useful backstop .It isalso helpful to complement the regulatory ratios , which arebased on book values , with market- basedindicators .Wetherefore introducethe market based leverage ratio ( based on the stockprice of a bank &apos;s equity ) asasignal forsupervisors</title> . <note>Based on this indicator, we find an earlierreported capital shortfall of EUR 84 billion</note>.</bibl>
+	<bibl>Finally, a strong and decisive recapitalisation is key to get <title level="a">the banking sector back in the good equilibrium,in which they contribute to economic growth .Our simulations show that well capitalised banks supportlending . Itis important to conduct the Asset Quality Review by the ECB and the Stress Test by the EBAas swift as possible . The outcomeof these joint tests should be announced in terms of absolute euro amounts instead asa capital ratio . In the lattercase , banks may restoretheir capital ratio by reducing assets ( deleveraging ) insteadof increasingcapital. Banks should also geta short time frame</title> ( <note>up to 3 to 6months</note> ) <note>to restore capital</note>.</bibl>
+	<bibl><title level="j">BIBLIOGRAPHY</title></bibl>
+	<bibl><author>Acharya, V.</author> (<date>2009</date>), <title level="a">A Theory of Systemic Risk and Design of Prudential Bank Regulation</title>, <title level="j">Journal of FinancialStability</title> ,No .<biblScope unit="issue">5</biblScope> ,pp .<biblScope unit="page">224 -255</biblScope>.</bibl>
+	<bibl><author>Acharya, V., R. Engle and M. Richardson</author> (<date>2012</date>), <title level="m">Capital Shortfall: A New Approach to Ranking andRegulating Systemic Risks</title> ,<pubPlace>AEA meetings</pubPlace> <date>January 2012</date> .</bibl>
+	<bibl><author>Acharya, V., D. Schoenmaker and S. Steffen</author> (<date>2011</date>), <title level="a">How much capital do European banks need? Some estimates</title>,<date>VoxEU ,22 November</date> .</bibl>
+	<bibl><author>Blundell-Wignall, A. and P. Atkinson</author> (<date>2012</date>), <title level="a">Deleveraging, Traditional versus Capital Markets Banking andthe Urgent Need to Separate and Recapitalise G -SIFIBanks</title> ,<title level="j">OECD Financial Markets Trends</title> Vol .<biblScope unit="volume">2012</biblScope>, Issue<biblScope unit="issue">1</biblScope> , pp. <biblScope unit="page">1- 44</biblScope>.</bibl>
+	<bibl><author>Boot, A.</author> (<date>1999</date>), <title level="a">European Lessons on Consolidation in Banking</title>, <title level="j">Journal of Banking and Finance</title>, No.<biblScope unit="issue">23</biblScope> ,<biblScope unit="page">609 –613</biblScope>.</bibl>
+	<bibl><author>Bruno, V. and H. Shin</author> (<date>2012</date>), <title level="a">Capital Flows, Cross-Border Banking and Global Liquidity</title>, <pubPlace>AFA 2013 San DiegoMeetings Paper</pubPlace> .</bibl>
+	<bibl><author>Bijlsma, M. and G. Zwart</author> (<date>2013</date>), <title level="a">The Changing Landscape of Financial Markets in Europe</title>, <orgName>the United Statesand Japan ,Bruegel Working Paper</orgName> ,<date>2013</date> /<biblScope unit="page">02</biblScope>.</bibl>
+	<bibl><author>Claessens, S. and L. Laeven</author> (<date>2004</date>), <title level="a">What Drives Banking Competition? Some International Evidence</title>, <title level="j">Journalof Money ,Credit ,and Banking</title> ,No .<biblScope unit="issue">36</biblScope> ,pp .<biblScope unit="page">563 -583</biblScope>.</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2013</date>)<biblScope unit="page">94</biblScope></bibl>
+	<bibl><biblScope unit="page">33</biblScope></bibl>
+	<bibl><author>Das, S. and A. Sy</author> (<date>2012</date>), <title level="a">How Risky Are Banks&apos; Risk Weighted Assets? Evidence from the Financial Crisis</title>,<orgName>IMF Working Paper</orgName> ,WP /<biblScope unit="issue">12</biblScope>/<biblScope unit="volume">36</biblScope>.</bibl>
+	<bibl><author>Engle, R., E. Jondeau and M. Rockinger</author> (<date>2012</date>), <title level="m">Systemic Risk in Europe, Swiss Finance Institute ResearchPaper Series</title> ,No .<biblScope unit="page">12 -45</biblScope>.</bibl>
+	<bibl><author>Jeon, B., M. Olivero and J. Wu</author> (<date>2013</date>), <title level="a">Multinational banking and the international transmission of financialshocks :Evidence from foreign bank subsidiaries</title> ,<title level="j">Journal of Banking &amp; Finance</title> ,No .<biblScope unit="issue">37</biblScope> ,pp .<biblScope unit="page">952- 972</biblScope>.</bibl>
+	<bibl><author>Kalemli-Ozcan, S., B. Sorensen and S. Yesiltas</author> (<date>2012</date>), <title level="a">Leverage across firms, banks, and countries</title>, <title level="j">Journalof International Economics</title> ,No .<biblScope unit="issue">88</biblScope> ,pp .<biblScope unit="page">284 -298</biblScope>.</bibl>
+	<bibl><author>Kiyotaki, N. and J. Moore</author> (<date>1997</date>), <title level="m">Credit Cycles</title>, <title level="j">Journal of Political Economy</title>, No. <biblScope unit="issue">105</biblScope>, pp. <biblScope unit="page">211-248</biblScope>.</bibl>
+	<bibl><author>Le Leslé, V. and S. Avramova</author> (<date>2012</date>), <title level="a">Revisiting Risk-Weighted Assets: Why Do RWAs Differ AcrossCountries and What Can Be Done About It ?,IMF Working Paper</title> ,WP /<biblScope unit="issue">12</biblScope>/<biblScope unit="page">90</biblScope>.</bibl>
+	<bibl><author>Reinhart, C. And K. Rogoff</author> (<date>2009</date>), <title level="a">This Time Is Different: Eight Centuries of Financial Folly</title>, <pubPlace>Princeton</pubPlace>:<publisher>Princeton University Press</publisher> .</bibl>
+	<bibl><author>Schildbach, J. and C. Wenzel</author> (<date>2012</date>), <title level="a">European Banks Retreating from the US, Talking Point</title>, <date>August 16</date>, <pubPlace>DeutscheBank Research ,Frankfurt am Main</pubPlace> .</bibl>
+	<bibl><author>Schoenmaker, D.</author> (<date>2011</date>), <title level="a">The Financial Trilemma, Economics Letters</title>, No. <biblScope unit="issue">111</biblScope>, pp. <biblScope unit="page">57-59</biblScope>.</bibl>
+	<bibl><author>Schoenmaker, D.</author> (<date>2013</date>), <title level="a">Governance of International Banking: The Financial Trilemma</title>, <pubPlace>New York</pubPlace>, <publisher>OxfordUniversity Press</publisher> .</bibl>
+	<bibl><author>Schoenmaker, D. and S. Oosterloo</author> (<date>2005</date>), <title level="a">Financial Supervision in an Integrating Europe: Measuring Cross-BorderExternalities ,International Finance</title> ,No .<biblScope unit="issue">8</biblScope> ,pp .<biblScope unit="page">1 -27</biblScope>.</bibl>
+	<bibl><author>Schoenmaker, D. and C. van Laecke</author> (<date>2007</date>), <title level="a">Current State of Cross-Border Banking</title>, in: <editor>D. Evanoff, G. Kaufmanand J .LaBrosse</editor> ,eds ,<title level="m">International Financial Instability :Global Banking &amp; National Regulation</title> ,<pubPlace>Singapore</pubPlace>: <publisher>WorldScientific</publisher> .</bibl>
+	<bibl><author>Sullivan, D.</author> (<date>1994</date>), <title level="a">Measuring the Degree of Internationalization of a Firm</title>, <title level="j">Journal of International BusinessStudies</title> ,No .<biblScope unit="issue">25</biblScope> ,pp .<biblScope unit="page">325 -342</biblScope>.</bibl>
+	<bibl>The Banker (<date>2012</date>), <title level="m">Top 1000 World Banks 2012</title>, <date>July</date>, <pubPlace>London</pubPlace>.</bibl>
+	<bibl><author>Vienna Initiative</author> (<date>2012</date>), <title level="m">CESEE Deleveraging Monitor, Quarterly Deleveraging Monitor Q2</title>.</bibl>
+	<bibl><author>ECO/WKP</author>(<date>2013</date>)<biblScope unit="page">94</biblScope></bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

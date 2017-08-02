@@ -1,0 +1,160 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><forename>......................................................................</forename>.</author>
+
+						<author><forename>......................................................</forename>.</author>
+
+						<author><forename>exports .....................................................................</forename>.</author>
+
+						<author><forename>.............................................................</forename>.</author>
+
+						<author><surname>Oil</surname> and <forename>gas</forename> <surname>prices have diverged</surname> .<forename>........................................................................................................</forename>.</author>
+
+						<author><forename>) ........................................................................................................</forename>.</author>
+
+						<author><forename>...............................................</forename>.</author>
+
+						<author><forename>........................................................................</forename>.</author>
+
+						<author><forename>growing .........................................................................................</forename>.</author>
+
+						<author><forename>risen .........................................................................</forename>.</author>
+
+						<author><forename>A</forename>.1 <forename>reserves .................................................................................................. ................................................................................................................................</forename>.</author>
+
+						<author><forename>Exploration</forename> <surname>activity</surname> and <forename>price developments ..................................................................................</forename>.</author>
+
+						<author><forename>mining ............................................................................................ ..............................................................................</forename>.</author>
+
+						<author><forename>sustainability ............................................................................</forename>.</author>
+
+						<author><forename>..........................................................................................................</forename>.</author>
+
+						<author><forename>.....................................................................................</forename>.</author>
+
+						<author><forename>Recommendations ...................................................................................................................................</forename>.</author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><forename>Economics</forename> <surname>Department</surname>, <forename>OECD</forename>.</author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Acemoglu</surname>, <forename>D</forename>., <forename>P</forename>.<surname>Aghion</surname>, <forename>L</forename>. <surname>Bursztyn</surname> and <forename>D</forename>. <surname>Hemous</surname></author>
+
+						<author><surname>Aghion</surname>, <forename>P</forename>., <forename>A</forename>. <surname>Dechezlepretre</surname>, <forename>D</forename>. <surname>Hemous</surname>, <forename>R</forename>. <surname>Martin</surname> and <forename>J</forename>. <surname>Van Reenen</surname></author>
+
+						<author><surname>Allen</surname>, <forename>D</forename>. et al.</author>
+
+						<author><surname>Andrade de Sá</surname>, <forename>S</forename>. and <forename>J</forename>. <surname>Daubanes</surname></author>
+
+						<author><surname>Arrow</surname>, <forename>K</forename>., <forename>P</forename>. <surname>Dasgupta</surname>, <forename>L</forename>. <surname>Goulder</surname>, <forename>K</forename>. <surname>Munford</surname> and <forename>K</forename>. <surname>Oleson</surname></author>
+
+						<author><surname>Arrow</surname>, <forename>K</forename>. et al.</author>
+
+						<author><surname>Benatia</surname>, <forename>D</forename>., <forename>N</forename>. <surname>Johnstone</surname> and <forename>I</forename>. <surname>Haščič</surname></author>
+
+						<author><surname>Brandt</surname>, <forename>N</forename>., <forename>P</forename>. <surname>Schreyer</surname> and <forename>V</forename>. <surname>Zipperer</surname></author>
+
+						<author><surname>Brandt</surname>. <middlename>A</middlename>. et al.</author>
+
+						<author><surname>Burtraw</surname>, <forename>D</forename>., <forename>J</forename>. <surname>Linn</surname>, <forename>K</forename>. <surname>Palmer</surname> and <forename>A</forename>. <surname>Paul</surname></author>
+
+						<author><surname>Celasun</surname>, <forename>O</forename>., <forename>G</forename>. <middlename>Di</middlename> <surname>Bella</surname>, <forename>T</forename> <surname>Mahedy</surname> and <forename>C</forename>. <surname>Papageorgiou</surname></author>
+
+						<author><surname>Dasgupta</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Davis</surname>, <forename>L</forename>.</author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Egerer</surname>, <forename>J</forename>., <forename>J</forename>. <surname>Rosellon</surname> and <forename>A-P</forename>. <surname>Schill</surname></author>
+
+						<author><forename>Goldman</forename> <surname>Sachs</surname></author>
+
+						<author><surname>Golosov</surname>, <forename>M</forename>., <forename>J</forename>. <surname>Hassler</surname>, <forename>P</forename>. <surname>Krusell</surname> and <forename>A</forename>. <surname>Tsyvinski</surname></author>
+
+						<author><surname>Goulder</surname>, <forename>L</forename>., <forename>M</forename>. <surname>Hafstead</surname> and <forename>R</forename>. <surname>Williams</surname></author>
+
+						<author><surname>Hamilton</surname>, <forename>K</forename>. and <forename>G</forename>. <surname>Atkinson</surname></author>
+
+						<author><surname>Hartwick</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Hiriart</surname>, <forename>Y</forename>., <forename>D</forename>. <surname>Martimort</surname> and <forename>J</forename>. <surname>Pouyet</surname></author>
+
+						<author><surname>Jacoby</surname>, <forename>H</forename>., <forename>F</forename>. <surname>O&apos;Sullivan</surname>, <forename>S</forename>. <surname>Paltsev</surname></author>
+
+						<author><surname>Kiviat</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Krautkraemer</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Koenigs</surname>, <forename>C</forename>. et al.</author>
+
+						<author><surname>Krupnick</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Landefeld</surname>, <forename>J</forename>. and <forename>S</forename>. <surname>Villones</surname></author>
+
+						<author><surname>Lee-Ashley</surname>, <forename>M</forename>., <forename>J</forename>. <surname>Goad</surname>, <forename>M</forename>. <surname>Madowitz</surname> and <forename>M</forename>. <surname>Conathan</surname></author>
+
+						<author><surname>McFeeley</surname>, <forename>M</forename>.</author>
+
+						<author><surname>McKinsey Global Institute</surname></author>
+
+						<author><surname>Muehlenbachs</surname>, <forename>L</forename>., <forename>E</forename>. <surname>Spiller</surname> and <forename>C</forename>. <surname>Timmins</surname></author>
+
+						<author><surname>Muller</surname>, <forename>N</forename>., <forename>R</forename>. <surname>Mendelsohn</surname> and <forename>W</forename>. <surname>Nordhaus</surname></author>
+
+						<author><surname>Olmstead</surname>, <forename>S</forename>., <forename>L</forename>. <surname>Muellenbachs</surname>, <forename>J-S</forename>. <surname>Shih</surname>, <forename>Z</forename>. <surname>Chu</surname> and <forename>A</forename>. <surname>Krupnick</surname></author>
+
+						<author><surname>Popp</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Rahm</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Richardson</surname>, <forename>N</forename>., <forename>M</forename>. <surname>Gottlieb</surname>, <forename>A</forename>. <surname>Krupnick</surname> and <forename>H</forename>. <surname>Wiseman</surname></author>
+
+						<author><surname>Schmalensee</surname>, <forename>R</forename>.</author>
+
+						<author><forename>SWF</forename> <surname>Institute</surname></author>
+
+						<author><surname>Spencer</surname>, <forename>T</forename>., <forename>O</forename>. <surname>Sartor</surname> and <forename>M</forename>. <surname>Mathieu</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Weber</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Weiss</surname>, <forename>J</forename>., <forename>H</forename>. <surname>Bishop</surname>, <forename>P</forename>. <surname>Fox-Penner</surname> and <forename>I</forename>. <surname>Shavel</surname></author>
+
+						<author><surname>Williams</surname>, <forename>A</forename>.</author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Andrade de Sá</surname>, <forename>S</forename>. and <forename>J</forename>. <surname>Daubanes</surname></author>
+
+						<author><surname>Brook</surname>, <forename>A-M</forename>., <forename>R</forename>. <surname>Price</surname>, <forename>D</forename>. <surname>Sutherland</surname>, <forename>N</forename>. <surname>Westerlund</surname> and <forename>C</forename>. <surname>André</surname></author>
+
+						<author><surname>Forbes</surname>, <forename>K</forename>. and <forename>E</forename>. <surname>Zampelli</surname></author>
+
+						<author><surname>Pesaran</surname>, <forename>M</forename>., <forename>Y</forename>. <surname>Shin</surname> and <forename>R</forename>. <surname>Smith</surname></author>
+
+						<author><surname>Ponce</surname>, <forename>M</forename>. and <forename>A</forename>. <surname>Neumann</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

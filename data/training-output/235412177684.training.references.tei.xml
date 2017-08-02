@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>Arons et al</author> <date>2007</date> A <title level="a">Low-Carbon Fuel Standard for California Part 2: Policy Analysis</title>, <title level="a">A</title><author>.R .Brandt ,A .Eggert ,A .E .Farrell ,B .K .Haya ,J .Hughes ,B .Jenkins, A. D. Jones, D. M. Kammen, C. R. Knittel, M. Melaina, M. O&apos;Hare ,R.Plevin ,D .Sperling</author> ,<publisher>Office ofthe Governor</publisher> / <title level="j">Air Resources Board</title> , <date>2007</date><ptr type="web">www .energy . ca.gov/low_carbon_fuel_standard</ptr>/</bibl>
+	<bibl><author>Brandt et al</author> <date>2007</date> A Low-Carbon Fuel Standard for <title level="j">California Part</title> <biblScope unit="volume">1</biblScope>: Technical <author>Analysis,S .R .Arons ,A .R .Brandt ,M .Delucchi ,A .Eggert ,A .E. Farrell, B. K. Haya, J. Hughes, B. Jenkins, A. D. Jones, D. M.Kammen ,C .R .Knittel ,D .M .Lemoine ,E .W .Martin ,M .Melaina ,J. M. Ogden, R. Plevin, D. Sperling, B. T. Turner, R. B. Williams,and C. Yang</author>, <note>Office ofthe Governor/ Air Resources Board</note> , <ptr type="web">2007 . www .energy. ca. gov/low_carbon_fuel_standard</ptr>/</bibl>
+	<bibl><orgName>Delucchi 2006 Lifecycle Analysis of Biofuels. Delucchi,</orgName> <author>Mark A. ITS-Davis</author>. <date>May2006</date> .<note type="report">Draft Manuscript .Publication No .UCD -ITS-RR-06-08.www .its.ucdavis</note>.edu/people/faculty/delucchi</bibl>
+	<bibl><orgName>De Oliveira Ethanolas Fuel :Energy ,Carbon Dioxide Balances and Ecological Footprint ,</orgName><author>MarceloE , Diasde Oliveira , BuronE . Vaughanand Edward J .Rykiel Jr.</author> , <title level="j">Bioscience</title><biblScope unit="volume">55</biblScope>( <biblScope unit="issue">7</biblScope> ),<date>2005</date>.</bibl>
+	<bibl><author>EUCAR/CONCAWE/JRC</author> <date>2006</date></bibl>
+	<bibl><title level="a">Well-to-Wheels Analysis of Future Automotive Fuels and Powertrainsin the European Context ,www</title> <ptr type="web">.jrc.ec.europa.eu/wtw</ptr></bibl>
+	<bibl><author>Farrell et al</author> <date>2006</date> <title level="j">Ethanol Can Contribute to Energy and Environmental Goals</title>, <author>AlexanderE .Farrell ,Richard J .Plevin ,Brian T .Turner ,Andrew D .Jones, MichaelO &apos; Hare,DanielM</author> . <title level="j">Kammen, Science</title>, Vol. <biblScope unit="volume">311</biblScope>no . <biblScope unit="issue">5760</biblScope>,<biblScope unit="page">27</biblScope> <date>January2006</date> .</bibl>
+	<bibl><author>GM/ANL</author> <date>2005</date> Well-to-Wheels <title level="a">Analysis of Advanced Fuel / Vehicle Systems: ANorth American Study of Energy Use ,Greenhouse gas emissions and CriteriaPollutant Emissions www . transportation.anl.gov/pdfs/TA/339.pdfGraboskiFossilEnergy Usein theManufacture of Corn Ethanol</title> , <publisher>Michael S . Graboski</publisher>, <title level="j">Colorado SchoolofMines</title> ,<note>prepared fro the National CornGrowers Association</note> , <date>2002</date> .</bibl>
+	<bibl>IEA <date>2004</date> <title level="a">Biofuelsfor Transport :An International Perspective</title> ,<orgName>International Energy Agency</orgName>, <pubPlace>Paris</pubPlace>.</bibl>
+	<bibl><title level="m">IPCC 2007 Climatechange 2007 :Mitigation .Contribution of Working group III to theFourth Assessment Report of the Intergovernmental Panel on Climate Change</title> [<author>B . Metz,O .R .Davidson,P .R .Bosch,R .Dave ,L .</author><editor>A .Meyer</editor>(eds. ) ],<publisher>CambridgeUniversityPress</publisher>, <pubPlace>Cambridge , UnitedKingdom andNew York ,NY , USA</pubPlace> .</bibl>
+	<bibl><orgName>Jones 2007 BiofuelBoundaries :Estimating the Medium -TermSupply Potential of DomesticBiofuels ,</orgName> <author>AndrewD . Jones</author>, <orgName>Universityof California Berkeley</orgName> . <note type="report">TransportationSustainabilityResearch Center Working paper UCB - ITS- TRSRC-RR-2007-4</note>,<date>August2007</date>.</bibl>
+	<bibl><title level="j">Koplow</title> <date>2007</date></bibl>
+	<bibl><title level="a">Biofuels -At What Cost? Government support for ethanol and biodieselin the United States</title> <date>2007</date> <editor>Update ,Doug Koplow</editor> ( <note>EarthTrack</note> ),<title level="m">GlobalSubsidies Initiative , InternationalInstitute for Sustainable Development</title> ,<pubPlace>Geneva ,forthcoming</pubPlace> .</bibl>
+	<bibl><author>Kutas et al.</author> <date>2007</date> <title level="j">Biofuels</title> -<title level="a">At what cost? Government support for ethanol and biodieselin the European</title> <pubPlace>Union ,Geraldine Kutas ,Carina Lindberg and RonaldSteenblik</pubPlace> , <title level="m">GlobalSubsidies Initiative , InternationalInstitute for SustainableDevelopment</title> , <pubPlace>Geneva ,forthcoming</pubPlace> .</bibl>
+	<bibl><title level="j">Patzek Thermodynamicsof the Corn -EthanolBiofuel Cycle ,T .W.Patzek ,Critical Reviewsin Plant Sciences</title> , <biblScope unit="volume">23</biblScope>( <biblScope unit="issue">6</biblScope>),<date>2004</date>.</bibl>
+	<bibl><note>Patzek 2007 A</note><title level="a">First -LawThermodynamic Analysis of the Corn -EthanolCycle</title> ,<title level="j">Tad W. Patzek, NaturalResources Research</title> , Vol. <biblScope unit="volume">15</biblScope>, No. <biblScope unit="issue">4</biblScope>, <biblScope unit="page">255- 270</biblScope>,<date>2007</date>.</bibl>
+	<bibl><author>Patzek 2007a Earth,Humans and Energy ,Tad W .Patzek</author> ,<date>2007</date> ,<orgName>University of California Berkeley, forthcoming</orgName>.</bibl>
+	<bibl><orgName>Pimentel EthanolProduction Using Corn</orgName> ,<title level="a">Switchgrass and Wood ;Biodiesel production UsingSoybean and Sunflower</title> , <pubPlace>DavidPimentel and Tad W .Patzek</pubPlace> ,<title level="j">Natural ResourceResearch</title> , <biblScope unit="volume">14</biblScope> (<biblScope unit="issue">1</biblScope> ),<date>2005</date>.</bibl>
+	<bibl><orgName>Shapouri TheEnergy Balance of Corn Ethanol :An Update ,</orgName><author>Hosein Shapouri ,James A. Duffieldand Michael Wang</author> , <orgName>USDepartment of Agriculture</orgName> , <note type="report">AgriculturalEconomicReport No . 814</note> ,<date>2002</date> .</bibl>
+	<bibl><title level="j">Toyota</title> <date>2004</date></bibl>
+	<bibl><title level="a">Well-to-Wheel Analysis of Greenhouse gas emissions of AutomotiveFuels in the Japanese Context ,Mizuho</title> ,<pubPlace>Tokyo</pubPlace> .</bibl>
+	<bibl>Tyner <date>2007</date> <orgName>USEthanol Policy ,W .Tyner ,Purdue University</orgName> ,<date>2007</date> .</bibl>
+	<bibl><title level="a">Wang TheGreenhouse gases ,regulated Emissions ,and Energy Use in Transportation (GREET )Model, version1 . 6</title>,<orgName>MichaelWang , TransportationTechnology R&amp;DCentre , Argonne NationalLaboratory</orgName> .</bibl>
+	<bibl><author>Zah et al.</author> <date>2007</date> <title level="j">Life-cycle Assessment of Energy Products: Environmental Assessmentof Biofuels</title> ,<editor>Rainer Zah ,Heinz Böni ,Marcel Gauch ,Roland Hischier, MartinLehmann and Patrick Wäger</editor> , <orgName>EmpaTechnology and SocietyLaboratory</orgName> , <pubPlace>Gallen ,Switzerland</pubPlace> .</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

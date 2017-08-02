@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><title level="j">ABB</title> (<date>2014</date>), &quot; <title level="a">ABB wins power order worth $78 million in Saudi Arabia</title> &quot; , <date>2 July 2014</date>, available at: http://<ptr type="web">www.abb.com/cawp/seitp202/0e09cf106ddd7202c1257d09002a530f.aspx</ptr>.</bibl>
+	<bibl><author>Al-Monitor</author> (<date>2014</date>), &quot; <title level="a">Egypt decides to cut subsidies</title> &quot; , <date>July 27, 2014</date>, available at: http://<ptr type="web">www.al-monitor.com/pulse/business/2014/07/httpalhayatcomopinionwriters3756908d8aed981d8.html</ptr>.</bibl>
+	<bibl><title level="j">AMM</title> (<date>2013</date>), &quot; <title level="a">World and US Production of DRI and HBI</title> &quot; , <title level="j">American Metal Market</title>, available at: http://<ptr type="web">www.amm.com</ptr>/EventAssets/<biblScope unit="volume">25</biblScope>/<biblScope unit="volume">5847</biblScope>/elements/<note>AMM_DRI_MM_2013_PDF_Report_1D_opt. pdf</note>.</bibl>
+	<bibl><title level="j">CISA</title> (<date>2013</date>), &quot; <title level="a">Handbook for Iron and Steel Statistics</title> &quot; , <title level="j">China Iron and Steel Association</title>, <pubPlace>Beijing</pubPlace>.</bibl>
+	<bibl><author>Creamer Media</author> (<date>2014</date>), &quot; <title level="a">Davies confirms plans for Chinese steel project in Limpopo</title> &quot; , <title level="a">Creamer Media&apos;s EngineeringNews ,available at :http ://www.engineeringnews.co.za/print-version/davies-confirms-plans-for-chinese-steel-project-in-limpopo</title><date>-2014-09-12</date>.</bibl>
+	<bibl><title level="j">EY</title> (<date>2014</date>),&quot; Global<date>steel 2014</date> &quot;, <author>Ernst&amp; Young , availableat</author> :http :// www. ey.com /Publication/vwLUAssets/EY_-_Global_steel_2014/$FILE/EY-Global-<idno>steel-2014.pdf</idno>.</bibl>
+	<bibl><orgName>Government of India, Ministry of Steel</orgName> (<date>2013</date>), &quot; <title level="a">National Steel Policy 2012 (Draft)</title> &quot; , available at: http://<ptr type="web">steel.gov.in/06112012%20National%20Steel%20Policy%20Draft.pdf</ptr>.</bibl>
+	<bibl><title level="j">IMF</title> (<date>2014</date>), &quot; <title level="a">Soaring of the Gulf Falcons: Diversification in the GCC Oil Exporters in Seven Propositions</title>&quot; , available at :http ://<ptr type="web">www.imf.org/external/pubs/ft/wp/2014/wp14177.pdf</ptr>.</bibl>
+	<bibl><title level="j">ISPAT</title> (<date>2013</date>), &quot; <title level="a">The Iron and Steel Industry in Turkey</title> &quot; , <title level="m">Republic of Turkey Prime Ministry Investment Supportand Promotion Agency</title> ,<pubPlace>Ankara ,available at</pubPlace> :http ://<ptr type="web">www.invest.gov.tr/en-US/infocenter</ptr>/publications/Documents/IRON-STEEL-INDUSTRY.<publisher>pdf</publisher>.</bibl>
+	<bibl><title level="j">Japan Metal Bulletin</title> (<date>2014</date>), &quot; <title level="a">Use of Ferrous Scrap to Rise in China</title> &quot; , <date>2 September 2014</date>, available at: http://<ptr type="web">www.japanmetalbulletin.com</ptr>/?<biblScope unit="page">p=22255</biblScope>.</bibl>
+	<bibl><title level="j">JISF</title> (<date>2014</date>), &quot; <title level="a">Handbook for Iron and Steel Statistics</title> &quot; , <title level="m">The Japan Iron and Steel Federation</title>, <pubPlace>Tokyo</pubPlace>.</bibl>
+	<bibl><title level="j">KOSA</title> (<date>2013</date>), &quot; <title level="a">Steel Statistical Yearbook</title> &quot; , <title level="j">Korea Iron and Steel Association</title>, <pubPlace>Seoul</pubPlace>.</bibl>
+	<bibl><author>Kumba Iron Ore</author> (<date>2011</date>), &quot; <title level="a">The South African Iron and Steel Value Chain &quot; web resource available at</title>: http://<ptr type="web">www.kumba.co.za/pdf/presentations/iron_steel_2final.pdf</ptr>.</bibl>
+	<bibl><title level="j">Markaz</title> (<date>2013</date>), &quot; <title level="a">GCC Metals and Mines Sector: Industrial Revolution or Pet Projects?</title> &quot; , available at: http://<ptr type="web">www.markaz.com/DesktopModules/CRD/News_Single.aspx?ikey=570&amp;Module_IKey=32</ptr>.</bibl>
+	<bibl><author>Platts Steel Business Briefing</author> (<date>2014e</date>), &quot; <title level="a">Midrex sees DRI growth of 5 million mt/year over next decade</title> &quot; , <biblScope unit="volume">12</biblScope><date>June 2014</date> ,available at :https ://<ptr type="web">www.steelbb.com</ptr>/?<note>PageID=157&amp;article_id=132699</note>.</bibl>
+	<bibl><author>Platts Steel Business Briefing</author> (<date>2014f</date>), &quot; <title level="a">Iran seeks to lure foreign investors to steel industry</title> &quot; , 5 <date>June 2014</date>, availableat :https ://<ptr type="web">www.steelbb.com</ptr>/?<note>PageID=157&amp;article_id=132499</note>.</bibl>
+	<bibl><author>Platts Steel Business Briefing</author> (<date>2014g</date>), &quot; <title level="a">Chinese output peaking, EAF share to grow: CISA</title> &quot; , 4 <date>June 2014</date>, availableat :https ://<ptr type="web">www.steelbb.com</ptr>/?<note>PageID=157&amp;article_id=132448</note>.</bibl>
+	<bibl><author>Platts Steel Business Briefing</author> (<date>2014h</date>), &quot; <title level="a">Guangdong to close 4.5 mn mt/y capacity for Zhanjiang mill</title> &quot; , <date>18July 2014</date> ,available at :https ://<ptr type="web">www.steelbb.com</ptr>/?<note>PageID=157&amp;article_id=133722</note>.</bibl>
+	<bibl><author>Platts Steel Business Briefing</author> (<date>2014i</date>), &quot; <title level="a">India&apos;s steel secretary advocates 16 new steel plants</title> &quot; , <date>30 June 2014</date>, availableat :https ://<ptr type="web">www.steelbb.com</ptr>/?<note>PageID=157&amp;article_id=133197</note>.</bibl>
+	<bibl><title level="j">Reuters</title> (<date>2014</date>), &quot; <title level="a">Iran boosts steel output, exports in bid to buffer impact of sanctions</title> &quot; , available at: http://<ptr type="web">www.reuters.com/article/2014/10/05/iran-steel-idUSL6N0RY2SL20141005</ptr>.</bibl>
+	<bibl><author>Russian Steel Consortium</author> (<date>2013</date>), &quot; <title level="a">Russian Steel Market Developments</title> &quot; <title level="a">Presented at 75th session of the</title> <publisher>OECDSteel Committee</publisher>, <pubPlace>Paris,available at</pubPlace>:http :/ /<ptr type="web">www. oecd.org/sti/ind/Item%205.12%20Russian%20steel%20market%20.pdf</ptr>.</bibl>
+	<bibl><author>SE UEX</author> (<date>2013</date>), &quot; <title level="a">Global Market and Ukrainian Steel Industry in 2013-2014</title> &quot; <title level="a">Presentation by SE UEX Co</title>. <title level="a">Research&amp; Consulting at 75th session of the OECD Steel Committee</title> ,<pubPlace>Paris ,available at</pubPlace> :http ://<ptr type="web">www.oecd.org/sti/ind/75thsessionoftheoecdsteelcommittee.htm</ptr>.</bibl>
+	<bibl><title level="j">Worldsteel</title> (<date>2014</date>), &quot; <title level="a">Statistical Yearbook</title> &quot; , <title level="m">the World Steel Association</title>, various editions. Available at: http://<ptr type="web">www.worldsteel.org/statistics/statistics-archive/yearbook-archive.html</ptr>.</bibl>
+	<bibl><title level="j">WSJ</title> (<date>2014</date>), &quot; <title level="a">China&apos;s Hebei Iron &amp; Steel to Build Plant in South Africa</title> &quot; , <title level="a">The Wall Street Journal, availableat :http ://online.wsj.com/articles/chinas-hebei-iron-steel-to-build-plant-in-south-</title><biblScope unit="page">africa-1410497371</biblScope>.</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

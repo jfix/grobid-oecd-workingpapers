@@ -1,0 +1,524 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_230461618475.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Simplified Comparison of IPv4 and IPv6 Address Schemes<lb/> Source: United States Government Accountability Office (GAO).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Border Gateway Protocol (BGP) is the standard routing protocol used to exchange information about<lb/> IP routing between autonomous systems. In general, each autonomous system uses BGP to announce (i.e.,<lb/> advertise) the set of prefixes (i.e. aggregated IP addresses) to which it can deliver traffic. For example, the<lb/> network 80.124.192.0/24 (―/24‖ being the prefix) being inside Autonomous System number 8228<lb/> (AS8228), means that AS8228 will announce to other providers that it can deliver any traffic destined for<lb/> 80.124.192.0/24.<lb/> Overview of major initiatives in Internet addressing and routing to-date<lb/> Internet routing and addressing have been revised over the years to support the expansion in the<lb/> global use of Internet, with over one billion Internet users connected in 2007 and increasingly pervasive<lb/> IP‑based devices and infrastructure.<lb/> In 1972 Robert Kahn developed the concept of open-architecture networking, or &quot;Internetting&quot;. His<lb/> concept was that an open architecture would be able to connect multiple independent networks, each<lb/> network itself having a different operating system and design. Such an open-architecture network required<lb/> a new communication protocol which was designed in 1973-74 by Robert Kahn and Vinton Cerf and later<lb/> called TCP/IP (Box 1).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Box</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>&quot; I Survived the TCP/IP Transition &quot;</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>The ARIN (American Registry for Internet Numbers) was created in 1997 for the United States, Canada<lb/> and a portion of the Caribbean. The LACNIC (Latin America and Caribbean Network Information Centre)<lb/> for Latin America and the Caribbean (2002). In 2005, AfriNIC became the RIR for the African region.<lb/> Allocating IP addresses to RIRs came to be known as one of the Internet Assigned Numbers<lb/> Authority (IANA) functions, which ICANN has performed since 1998. 22 ICANN&apos;s Address Supporting<lb/> Organisation (ASO) is the formal entity through which RIRs agree on global address policies, i.e. policies<lb/> that require the involvement of ICANN, IANA, and all the RIRs for implementation. An Address Council<lb/> was created in 1999 to communicate proposed global policies to ICANN&apos;s Board for ratification.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of IPv4 /8 allocations<lb/> Status of 256 /8s IPv4 Address Space<lb/> (data in February 2008)<lb/> IPv4 Allocations RIRs to LIRs/ISPs<lb/> Yearly Comparison (data in February 2008)<lb/> </figDesc>
+
+            <lb/> APNIC, 26<lb/> ARIN, 27<lb/> LACNIC, 6<lb/> RIPE NCC, 26<lb/> Multicast, 16<lb/> IANA Reserved, 42<lb/> Central Registry,<lb/> 93<lb/> AfriNIC, 2<lb/> Experimental, 16<lb/> Public Use, 1<lb/> Private Use, 1</trash>
+        </figure>
+
+
+        <figure>
+
+            0<lb/> 0.5<lb/> 1<lb/> 1.5<lb/> 2<lb/> 2.5<lb/> 3<lb/> 3.5<lb/> 4<lb/> 4.5<lb/> 1999<lb/> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> AfriNIC<lb/> APNIC<lb/> ARIN<lb/> LACNIC<lb/> RIPE NCC<lb/> 0<lb/> 0.5<lb/> 1<lb/> 1.5<lb/> 2<lb/> 2.5<lb/> 3<lb/> 3.5<lb/> 4<lb/> 4.5<lb/> 1999<lb/> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> AfriNIC<lb/> APNIC<lb/> ARIN<lb/> LACNIC<lb/> RIPE NCC<lb/> Source: </trash>
+ 
+            <figDesc>Number Resource Organization, January 2008.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Projected RIR and IANA consumption (/8s)<lb/> Source: IPv4 Address Report, Geoff Huston, 2/2/2008.<lb/> </figDesc>
+
+            <lb/> 0<lb/> 10<lb/> 20<lb/> 30<lb/> 40<lb/> 50<lb/> 60<lb/> 70</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of IPv6 allocations by the RIRs</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>and Korea appear comparative leaders in actual use of IPv6. About 50% of all<lb/> allocated IPv6 LIR prefixes are visible in the IPv6 routing table (Figure 5, right). 32 It should be pointed out,<lb/> however, that volumes of IPv6 activity are extremely low: there are less than 1 000 prefixes announced in the IPv6 routing table, compared to 250 000 in the IPv4 routing table. 33 There have so far been less than<lb/> 100 new IPv6 Internet routes introduced each year since its first introduction. 34 Year-on-year growth has so<lb/> far been negligible.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of IPv6 allocations and allocated versus routed</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>6</label>
+
+            <head>. </head>
+ 
+            <figDesc>Scale of assigned IPv6 addresses to end-users<lb/> Number of Allocated /48 Prefixes in the IP Whois<lb/> Database Per Country<lb/> The Ratio of IPv6 Traffic Volume to IPv4 Traffic Volume<lb/> Source: Internet Association Japan, April 2008.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Most mainstream hardware and software vendors support IPv6 in their products. The level of IPv6<lb/> support in computer and device operating systems is a direct proxy for the number of computers and<lb/> devices that could potentially use the new protocol as soon as IPv6 connectivity is available. All significant<lb/> operating systems, DNS servers, programming languages, and routers now support IPv6 (e.g. BIND DNS,<lb/> PowerDNS, djbdns, Linux Mobile support IPv6, Java 1.4, etc.). Most recent operating systems releases,<lb/> such as Apple Mac OS X 10.x, Linux 2.6, Microsoft Windows Vista or Microsoft Windows Server 2008,<lb/> have IPv6 set by default. In particular, Microsoft&apos;s Windows Vista includes a tunnelling system whereby<lb/> IPv6 is enabled by default and Apple&apos;s Mac OS X has had IPv6 enabled &quot;out of the box&quot; for some time.<lb/> These two platforms represented respectively 100 million and 30 million licences by early 2008 out of a<lb/> total of 1.3 billion Internet users, i.e. some 10%. 40 Almost all Unix/Linux platforms and new smart phone<lb/> operating systems are IPv6-ready. 41</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>On 4 February 2008, IANA added IPv6 (AAAA) records in the ―hints‖ file to provide the IPv6<lb/> addresses of four root servers whose operators requested this, thereby removing an important roadblock to<lb/> IPv6-only Internet access. The move means that IPv6-only devices may now be able to communicate on<lb/> the Internet. Back in July 2004, ICANN had added IPv6 support in the ―root‖, to include IPv6 addresses<lb/> for .KR, .JP and .FR zones. 46 Some 9% of the servers in the Internet DNS root zone are dual-stacked (84<lb/> IPv6-enabled servers in the DNS root zone compared to 1 000 IPv4-enabled DNS servers in the root<lb/> zone). 47 Meanwhile, about half of the top-level (TLD) domain name servers are IPv4 and IPv6 capable. In<lb/> terms of generic top-level domains (gTLDs), .com and .net for example are IPv6-enabled. About a third of<lb/> country code top-level domain (ccTLD) registries (76 out of 245 48 ) are IPv6-enabled. And the<lb/> Measurement Factory found that in 2006 about 0.2% of the second-level zones in COM and NET were<lb/> using IPv6 addresses for their name servers. 49 II. MANAGING THE IPV4 DEPLETION<lb/> The regional Internet registries (RIRs) are considering a number of policy proposals and initiatives to<lb/> manage the remaining unallocated pool of IPv4 address space and existing IPv4 assignments, and to<lb/> encourage the adoption of IPv6. Policies are being prepared for the period until the depletion of previously<lb/> unallocated IPv4 address space and for the post-depletion period, when all IPv4 addresses will have been<lb/> allocated. The uppermost concern in these discussions is the likely continuing demand for IPv4 – fuelled<lb/> by continued Internet growth and transitioning to dual-stack – even as deployment of IPv6 takes place.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Regional distortions because some<lb/> parts of the world would reach<lb/> depletion of IPv4 addresses sooner<lb/> than others.<lb/> LIRs could become members of<lb/> different RIRs ( &quot; RIR shopping &quot; )<lb/> because of remaining IPv4 resources<lb/> in some regions.<lb/> &quot; Set-asides &quot; could invite intervention<lb/> by regulators.<lb/> &quot; Set-asides &quot; may require qualitative<lb/> assessments by RIRs which may in<lb/> turn invite litigation.<lb/> Cooperative<lb/> distribution<lb/> 51<lb/> Would establish a process for RIR-<lb/>to-RIR redistribution of the tail-end<lb/> of the IPv4 pool, taking effect after<lb/> the IANA Reserve is exhausted.<lb/> The five RIRs would run out of IPv4 address space<lb/> at approximately the same time.<lb/> No margin for safeguards by RIRs.<lb/> Rationing<lb/> IPv4<lb/> address<lb/> space<lb/> 52<lb/> Would institute a set of IPv4<lb/> Address Allocation &quot;phases&quot; that<lb/> would make address allocation<lb/> requirements progressively more<lb/> stringent, using the amount of<lb/> address<lb/> space<lb/> remaining<lb/> unallocated by IANA as a metric.<lb/> Aims to provide a smooth transition<lb/> by encouraging the deployment of<lb/> IPv6.<lb/> Aims to encourage more efficient<lb/> use of IPv4 address space through<lb/> progressive supply rationing.<lb/> Also introduces new requirements<lb/> for<lb/> requesters,<lb/> such<lb/> as<lb/> documentation of non-private IPv4<lb/> address space used for internal<lb/> infrastructure or documentation of<lb/> IPv6 plans for offering connectivity<lb/> and services.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Transition to IPv6: Transferring IPv4 addresses could lengthen<lb/> the transition period from IPv4 to IPv6, and as a result, increase the<lb/> likelihood of NAT solutions being widely implemented.<lb/> Predictability: Some argue that introducing a market introduces<lb/> confusion and removes incentives for those who implement IPv6 to<lb/> return IPv4 address space.<lb/> Existing price for addresses: Transfers already take place during mergers or<lb/> acquisitions. Addresses have a scarcity value and cost is transmitted to the<lb/> customer. Cost of addresses will have a market value whether or not transfers<lb/> are liberalised.<lb/> Pricing: The availability of IPv6 as a free and essentially unlimited resource<lb/> means that IPv4 may only have value for a limited time.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Global routing table expansion: Smaller blocks being traded<lb/> would result in increased deaggregation. This could increase the<lb/> cost of routing equipment to accommodate larger routing tables. 55<lb/> Policy proposals aim to control deaggregation by not permitting an<lb/> entity transferring IPv4 to apply again for a specified time period.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>A first proposal for IP Address transfers was introduced in the APNIC region in September 2007. 56<lb/> The proposal suggests removing restrictions on the transfer of registration of IPv4 address allocations and<lb/> IPv4 portable address assignments between current APNIC account holders. The proposal argues that the<lb/> ongoing demand for IPv4 address space, beyond the time of unallocated address availability, will lead to a<lb/> period of movement of IPv4 address blocks between address holders. A similar proposal, entitled<lb/> ―Enabling methods for reallocation of IPv4 resources‖, was proposed and is being discussed in the RIPE<lb/> region. 57 A different proposal is being discussed by ARIN. 58<lb/> The proposals placed before each of the three RIR communities establish initial sets of ―rules of the<lb/> game‖ for address transfers and mandate that all transfers be undertaken through the local RIR. They place<lb/> conditions on the transfer of the IPv4 address block, the source of the transfer (i.e. original assignee) and<lb/> the recipient of the transfer (i.e. new assignee). Such ground rules include, for example, only enabling the<lb/> transfer of IPv4 address blocks equal to, or larger than, a /24 prefix (16 384 addresses) between existing<lb/> account holders. Further stipulations include that the source entity will be ineligible to receive any further<lb/> IPv4 address allocations or assignments from the RIR for a period of 24 months after the transfer and that<lb/> the RIRs will charge recipients a service fee on the transfer transaction. Holders of legacy address space<lb/> are allowed to participate.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Unallocated space and space reserved for technical use can also be represented. 60 The<lb/> allocations/utilisation rates shown in the figure reflect the history of IPv4 address allocation and increased<lb/> efficiency measures introduced by the RIRs over time. It provides a visualisation of the sizes of routed<lb/> address space, from the largest prefixes (/8) through to the smallest prefixes possible (/32).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Box </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Developing a routing PKI or &quot; Certification of Internet resources &quot;<lb/> Several RIRs are developing Internet resource certification frameworks in view of validating assertions of &quot;right-<lb/>to-use&quot; of an Internet Number Resource (IP Addresses and Autonomous System Numbers). APNIC, for example, has<lb/> built a Resource Certification System.<lb/> 62 One potential use for this type of certification and the associated Public Key<lb/> Infrastructure (PKI) is to provide a validation framework to support secure routing on the Internet and improve other<lb/> aspects of securing the use of addresses within protocol transactions. Such certification by RIRs would also apply to a<lb/> market for IP addresses, where a major public policy concern relates to consumer confidence.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head> </head>
+ 
+            <figDesc>The status of addresses: IP addresses are not currently considered as property by the Internet<lb/> community. The introduction of a modified transfer mechanism does not necessarily imply that<lb/> this status needs to be changed if they were, for example, treated as partial use-rights rather than<lb/> all-encompassing property rights. 63 Changes could also emerge in relation to concepts such as<lb/> ―ownership‖ and ―leasing‖.<lb/>  The geographic scope of transfers: whether IP addresses could be transferred within RIR<lb/> regions, between countries with a NIR, between RIR regions, inside countries, or between<lb/> countries, and if/how policies could be enforced.<lb/>  The technical scope of transfers: whether the entire IPv4 address space would be transferable or<lb/> just a subset, and depending on when transfers were enabled, whether the currently unassigned<lb/> pool participates.<lb/>  Pricing: what safeguards are imposed upon transfers to help avoid IP price manipulation.  Participants in transfers: whether existing RIR practices and procedures, in relation to<lb/> demonstrated need, would be used to determine qualified participants or, if not, whether an open<lb/> market would be compatible with achieving existing policy objectives.<lb/>  The optimal size of address blocks and complimentary markets: what the minimum size-<lb/>transfer block should be, how a market would impact global routing table sizes, whether<lb/> complimentary markets, for example a market for route entries, would be co-ordinated or who<lb/> would route smaller address blocks.<lb/>  The design, structure and convenor of a &quot; market venue &quot; : what requirements and issues of<lb/> market design and structure would be; price formation and price discovery, transaction and timing<lb/> costs, and information and disclosure. Microstructure for financial markets can offer insights into<lb/> market design. Comparisons could also draw on secondary markets for spectrum allocations and<lb/> other scare resources (Annex 8). Another question may be whether the RIRs would act as the<lb/> convenor of market venue for transfers and facilitate making the connection between buyer and<lb/> seller in the same form as a stock exchange operator, or whether the RIRs would assume a more<lb/> limited role of a ―title office‖ as the trusted authority for number resource disposition information.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>In June 2003, the United States Department of Defense (DoD) mandated the integration of IPv6 to be<lb/> ready by 2008. 67 In June 2005, the United States&apos; Office of Management Budget (OMB) set June 2008 as<lb/> the deadline by which all agencies&apos; infrastructure (network backbones) must be using IPv6 and agency<lb/> networks must be interfacing with this infrastructure. 68 To provide an idea of the impetus such a decision<lb/> can provide to the market and vendor and operator strategies, spending on communications and network<lb/> services by the US federal government will grow from USD 17.6 billion in 2007 to USD 22.4 billion by<lb/> 2012. 69 The Japanese Ministry of Internet Affairs and Communications released a ―Guideline for e-<lb/>Government IPv6 Systems‖ in April 2007, to help central ministries plan for IPv6 adoption and promote<lb/> IPv6 for e-Government systems. 70 Targets set by the Korean Ministry of Information and Communication<lb/> include converting Internet equipment in public institutions to IPv6 by 2010. The Australian Government<lb/> Information Management Office (AGIMO) has also released its Strategy for the Transition to IPv6 for<lb/> Australian Government agencies, to last from January 2008 to December 2015. 71</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>-</head>
+
+            <figDesc>Energy management: applications using IPv6-based sensor networks allow efficient energy management with<lb/> monitoring solutions for energy awareness and control in enterprise data centers, as well as with electric utility<lb/> programs to influence and sometimes control electric load from subscribers. In Japan for example, the Tokyo<lb/> Metropolitan Art Museum and the Tokyo Art Space have been able to reduce energy consumption by about 5%.<lb/> -Road traffic management: road to car communication systems with IPv6-based sensor networks offer<lb/> promises to help reduce traffic jams and fuel consumption.<lb/> -Risk detection and prevention: IPv6-based sensor networks can be used for global monitoring and disaster<lb/> management of seismic activity, volcanic eruptions or landslides and avalanches, disaster prevention, or<lb/> environmental problems.<lb/> -Industrial automation: wireless sensor networks using Ipv6 can offer previously inaccessible insight and<lb/> information. Costs are reduced because wires or heavy instruments are no longer needed. Problems can be detected<lb/> early, failures or outages prevented, and new information and data can be collected to keep machinery running without<lb/> direct human intervention.<lb/> -Location and proximity: applications developed by Arch Rock include asset tracking and monitoring, worker<lb/> safety, quality of service, hazardous material management, and regulatory compliance.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>7</label>
+
+            <head>. </head>
+ 
+            <figDesc>Supply chain stakeholders, costs, and benefits<lb/> Source: OECD based on RTI, IPv6 Economic Impact Assessment, National Institute of Standards &amp; Technology,<lb/> October 2005.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>8</label>
+
+            <head>. </head>
+ 
+            <figDesc>Dual-stack example<lb/> Source: Huston, G., &quot; Transition to IPv6 &quot; , August 2007.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Several other transition mechanisms have been defined, and may be appropriate for some network<lb/> configurations. For example, a mechanism called ―6to4‖ allows IPv6 packets to be transmitted over an<lb/> IPv4 network using automated tunnel support. The mechanism: i) assigns a block of IPv6 address space to<lb/> any host or network that has a global IPv4 address; ii) encapsulates IPv6 packets inside IPv4 packets for<lb/> transmission over an IPv4 network; and iii) routes traffic between 6to4 and IPv6 networks.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Box</head>
+
+            <label>5</label>
+
+            <head>. </head>
+ 
+            <figDesc>&quot; An Internet Transition Plan &quot;</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>until 2008; ii) a transition phase, from<lb/> January 2009 to December 2010 and; iii) a post-transition phase, after January 2011.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Table </head>
+ 
+            <label>7</label>
+
+            <head>. </head>
+ 
+            <figDesc>10 Essential Planning Steps<lb/> Step 1. Identifying how IPv6 affects operations<lb/> Step 2. Establishing goals, a critical path, and timelines<lb/> Step 3. Inventorying IT equipment and build a deployment plan<lb/> Step 4. Identifying software and services and develop an upgrade plan<lb/> Step 5. Creating an IPv6 training strategy and plan<lb/> Step 6. Developing an addressing plan and corresponding network architecture<lb/> Step 7. Obtaining an IPv6 prefix<lb/> Step 8. Developing an IPv6 threats and countermeasures security policy<lb/> Step 9. Developing an IPv6 procurement strategy and policy<lb/> Step 10. Drafting an exception strategy (systems that don &quot; t need to be modified)<lb/> Source: Planning and Accomplishing the IPv6 Integration, Cisco systems.<lb/> 86<lb/> RTI International, in a study conducted in 2005 for the US National Institute of Standards and<lb/> Technology (NIST) on IPv6&apos;s economic impact, concluded that the major costs to service providers or<lb/> enterprises implementing IPv6, are related to labour costs (</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <label>8</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of IPv6-related transition costs to users<lb/> Distribution of Total Transition Costs<lb/> Category Internal Network Costs<lb/> Network management software (upgrade)<lb/> Network testing<lb/> Installation effort<lb/> Maintaining network performance<lb/> Training (sales, marketing, and technical staff)<lb/> 18%<lb/> 17.6%<lb/> 24%<lb/> 16%<lb/> 24.4%<lb/> The percentages in this table sum to 100 percent, comprising the distribution of all costs for users to move to IPv6.<lb/> Source: RTI International, 2005.<lb/> RTI estimated that the (2005) value of costs for all stakeholder groups to transition to IPv6 in the<lb/> United States would be approximately USD 25 billion, occurring mainly over the 1997 to 2025 period. The<lb/> highest cost year projected was 2007, representing USD 8 billion. 88 RTI also estimated that, in the United<lb/> States, users would incur most of the costs of IPv6 transition (approximately 92%), with ISPs and vendors<lb/> accounting for 0.5 and 8% respectively.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Box </head>
+ 
+            <label>6</label>
+
+            <head>. </head>
+ 
+            <figDesc>Measuring latency<lb/> Researchers in Portugal have compared latency with IPv4 and IPv6 from the Portuguese NREN to commercial<lb/> sites and to National Research and Education Network (NRENs) in Europe, in Japan, and the United States.<lb/> 89</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Source: Domingues, M., Friacas, C., &quot; Is Global IPv6 Deployment on Track? &quot; , FCCN, October 2007.<lb/> Internet traffic experts point to the low number of carriers that provide IPv6 peering and transit as a<lb/> reason for latency and other issues. Lack of IPv6 peering agreements and Internet eXchange Points (IXPs)<lb/> supporting IPv6 can increase latency because traffic may have to travel further to reach its destination.<lb/> They deem that the latency issue with IPv6 will disappear once a critical number of service providers have<lb/> enabled native IPv6, as is the case for IPv4. In the meantime, ISPs and businesses that negotiate peering<lb/> and transit agreements should explicitly provide support for IPv6 traffic. There have been suggestions that<lb/> public policy makers could look into subsidising IPv6 support in IXPs.<lb/> Several content providers seem to have provisioned IPv6 address space, which may signal change.<lb/> For example, Google has started IPv6 deployment (see Section V. Case studies of deploying IPv6: Google)<lb/> and Microsoft and Cisco Systems also each have a /32, as does Speakeasy, an ISP in the United States.<lb/> YouTube has a /48 provider-independent IPv6 network assignment from ARIN, as does Tellme Networks,<lb/> a provider of voice services that has recently been acquired by Microsoft. Another entity with an IPv6<lb/> assignment is Collab Network, which produces leading open source development collaboration software,<lb/> enabling over 2 million geographically dispersed developers to work together on a project.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>The observation that Japan and Europe have the highest degree of peering in IPv6 is consistent with<lb/> the registry allocations of IPv6 prefixes in these regions. It warrants noting that a relatively small number<lb/> of Tier 1 providers are present in both the IPv4 and IPv6 topology maps: NTT, Global Crossing, Cable &amp;<lb/> Wireless, Tiscali, Sprint, Teleglobe and Asia Netcom.<lb/> DSTI/ICCP(2007)20/FINAL</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>9</label>
+
+            <head>. </head>
+ 
+            <figDesc>IPv4/IPv6 Internet topology maps – AS-level internet graph<lb/> Source: CAIDA, observed January 2008.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Source: OECD (2008), based on Telecommunications Bureau, Ministry of Internal Affairs and Communication, Japan,<lb/> December 2007.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Box </head>
+ 
+            <label>7</label>
+
+            <head>. </head>
+ 
+            <figDesc>Why plan for the transition to IPv6 now?</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Source: Adapted from A Strategy for the Transition to IPv6 for Australian Government agencies, &quot; Building Capacity for<lb/> Future Innovation &quot; , AGIMO, October 2007. 102</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Box </head>
+ 
+            <label>8</label>
+
+            <head>. </head>
+ 
+            <figDesc>Summary of key economic considerations related to IPv6 implementation and development<lb/> ECONOMIC CONSIDERATIONS FROM INDIVIDUAL ORGANISATIONS&apos; PERSPECTIVES:<lb/> ● Business continuity and necessary time of transition: because implementing IPv6 takes time, planning IP<lb/> addressing needs over the next few years can enable organisations to devise and implement optimal strategies to<lb/> ensure continued growth and operations after IPv4 address exhaustion.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>●</head>
+
+            <figDesc>Cost: Ipv6 implementation costs vary significantly in function of requirements and deployment plan (e.g. internal<lb/> versus external, peering, transit, DNS, provision to the desktop, web services, hosted services etc.). Experts deem that<lb/> in the medium or long term, IPv6 can potentially reduce operational expenditure for network administration. However,<lb/> in the early stages IPv6 implementation is likely to increase capital and operational expenditures, due to:<lb/> • Internal training and skills upgrading.<lb/> • Costs of running dual-stack interoperability; and<lb/> • Potential lack of vendor and back-office tool support, increased hardware costs or upstream transit.<lb/> ● Initial presence of negative externalities: Initially, economic actors bearing the cost of NAT may not be those who<lb/> need to invest in IPv6 deployment. With time, such negative externalities should give way to (positive) network effects<lb/> for those who invested, as increasing numbers of economic actors implement IPv6 and an adoption &quot; tipping point &quot;<lb/> takes place.<lb/> ● Universal Internet connectivity: IPv6 is projected to become critical for retaining universal Internet connectivity,<lb/> which is in the interest of many organizations.<lb/> ● Scalability and demand for IP addresses: IPv6 can provide the necessary scalability for growth of organisations,<lb/> e.g. for mobile providers to offer always-on Internet access via mobile devices, or for service providers to benefit from<lb/> more IP numbers to offer triple play services.<lb/> ● Innovative applications and services: IPv6 enables new services which cannot be implemented with IPv4, e.g.<lb/> remotely accessible sensor network applications / machine-to-machine communications.<lb/> ● Competitive advantage: operational experience with IPv6 is likely to be a competitive advantage in some<lb/> industries.<lb/> ____________________________________________<lb/> ECONOMIC CONSIDERATIONS FROM A PUBLIC POLICY PERSPECTIVE<lb/> ● Platform for innovation: IPv6 provides a platform for innovation in Internet-based products and services, in<lb/> particular to meet medium and long-term requirements of an increasingly mobile, wireless and ubiquitous Internet.<lb/> ● Growth and competition: IPv6 is necessary to foster an environment capable of sustaining long-term growth of the<lb/> Internet economy and competition across existing players and new entrants.<lb/> ● Competitive advantage: IPv6 expertise is likely to be key for economies to remain competitive in the production of<lb/> technology products and services.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>10</label>
+.<lb/> Comcast&apos;s deployment strategy<lb/> Backbone<lb/> Regional Network s<lb/> System s<lb/> Cable modem<lb/> termination system s<lb/> CM<lb/> PC<lb/> CM<lb/> STB<lb/> CM<lb/> PC<lb/> CM<lb/> STB<lb/> CM<lb/> PC<lb/> CM<lb/> STB<lb/> CM<lb/> PC<lb/> CM<lb/> STB<lb/> LEGACY<lb/> NEW<lb/> NEW<lb/> IPv6<lb/> IPv4<lb/> 2005<lb/> 2006<lb/> 2007<lb/> Source: </trash>
+ 
+            <figDesc>Based on Comcast presentation at Nanog 37.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>NTT </head>
+ 
+            <figDesc>Communications began offering IPv6 Internet service in April 2001, leading the world in the<lb/> provision of commercial IPv6 Internet connection services, both to enterprises and home users. 106 One of<lb/> the largest ISPs in Japan, NTT Communications, provides several commercial IPv6 services. The company<lb/> has been operating a worldwide native commercial IPv6 backbone along with an IPv6-over-IPv4 tunnel<lb/> connection service since 2001 (Figure 11).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>11</label>
+
+            <head>.<lb/> </head>
+<lb/> 
+            <figDesc>NTT Global IPv6 backbone and services<lb/> Source: NTT Communications.<lb/> Dual stack (IPv4 and IPv6) ADSL services have been offered since 2002. In addition, NTT Com has<lb/> operated a dual-stack IPv6/IPv4 backbone connection since 2004. Since 2005, NTT Com has provided<lb/> dual-stack Ethernet access (e.g. for fibre) for enterprise users. And NTT Com&apos;s 5 million residential<lb/> subscribers can easily turn on IPv6 tunnel access to remotely access and control electric appliances<lb/> connected to their home network (Figure 12). 107</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>12</label>
+
+            <head>.<lb/> </head>
+<lb/> 
+            <figDesc>NTT Home Network ( &quot; OCN IPv6 &quot; )</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>First<lb/> among these were the 2003 mandate of the US Department of Defense (DoD) and 2005 mandate by the<lb/> United States Office of Management and Budget (OMB) which required department-wide deployment of<lb/> IPv6 by 2008. Requests for proposals from the US Army and other customers started to explicitly require<lb/> IPv6 products and services. 112 Another driver was that IPv6 is the default in current Windows Vista and<lb/> emerging Windows Server 2008 Microsoft operating systems that are deployed in Bechtel. 113 Additionally,<lb/> Bechtel views IPv6 as a significant foundation for future innovation. Bechtel is exploring opportunities to<lb/> capitalise on IPv6 features to improve its project execution and operational efficiencies over time. The last<lb/> driver is the broad adoption of IPv6 in industry standards as a required part of emerging products and<lb/> services, for example in the standards DOCSIS 3.0 and IMS (IP Multimedia Subsystem).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>13</label>
+
+            <head>.<lb/> </head>
+<lb/> 
+            <figDesc>Project highlights (March 2006)<lb/> Source: IPv6 Transition at Bechtel, presented by Fred Wettling, February 2007.<lb/> 114</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Google started to consult vendors in 2004 and received a ―/32‖ IPv6 delegation from ARIN in 2005.<lb/> Google then started to build out its IPv6 peering. Within the Internet technical community, Google was<lb/> issued a challenge by the Chair of the IETF&apos;s IPv6 Working Group that it would have working IPv6 search<lb/> functionality by November 2008, at the IETF&apos;s 73 rd meeting.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>ANNEXES<lb/> ANNEX 1: OVERVIEW OF GOVERNMENTAL INITIATIVES TO-DATE<lb/> Japan<lb/> WIDE, (Widely Integrated Distributed Environment) established in 1988 is a joint industry,<lb/> government and academia research consortium that promotes the research and development of Internet<lb/> technologies. Represented by Jun Murai, Vice President of Keio University and Professor of the Faculty of<lb/> Environmental Information, over 100 corporations and 40 universities are currently involved in the WIDE<lb/> Project. They partake in a diverse array of research and development activities concerning next generation<lb/> Internet technologies.<lb/> In 2000 Japan&apos;s Prime Minister told Parliament that IPv6 was to be the core of future deployment of<lb/> the Internet in the country. In January 2001, Japan was the first country to put forth a national strategy for<lb/> the adoption of IPv6, e-Japan. 115 It consisted of support for academic research through the WIDE project,<lb/> development of new applications, as well as tax incentives between 2001 and 2003 for organisations that<lb/> deploy IPv6. Japan&apos;s investment in IPv6 is estimated at between USD 10 to USD 13 million a year. To-<lb/>date, Japan is the leading country in IPv6 expertise and has the largest commercial deployments of IPv6. 116<lb/> Japan&apos;s strategy has largely been supply-driven.<lb/> The Japanese government has supported the establishment of an IPv6 Promotion Council in Japan to<lb/> facilitate the resolution of issues related to development and deployment and has provided tax incentives to<lb/> promote deployment. In parallel, major Japanese corporations in the communications and consumer<lb/> electronics sectors are developing IPv6 networks and products. Many commercial IPv6 offerings exist in<lb/> Japan. 117<lb/> In Japan&apos;s ―New IT Reform Strategy‖ that was released in January 2006, a time frame to become<lb/> IPv6-ready was set, ―as information and communications hardware is updated and replaced in the future,<lb/> new equipment will as a general rule be IPv6 compatible by 2008.‖ Each ministry and government agency<lb/> continues its efforts to become IPv6-ready. 118<lb/> In August 2007, the Japanese MIC announced in that it was convening a study group on Internet&apos;s<lb/> smooth transition to IPv6 in order to study measures to facilitate the transition of domestic Internet<lb/> networks to IPv6 from a technical perspective. 119<lb/> Europe and the European Commission<lb/> European technology experts have been involved in the definition and development of IPv6 since the<lb/> beginning. A RIPE WG in this area has been active since April 1994. 120 The European Commission<lb/> initiated a task force in April 2001 to design an IPv6 Roadmap. The Roadmap was to serve as an update and plan of action for the development and future perspectives of IPv6. It was also to serve as a way to co-<lb/>ordinate European efforts for developing, testing, and deploying IPv6.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Latin America has also begun developing projects involving IPv6. For example, the National<lb/> Autonomous University of Mexico has been conducting research to provide IPv6-enabled service to<lb/> Mexico and Latin America.<lb/> United States<lb/> In June 2003, the United States Department of Defense (DoD) mandated the integration of IPv6 to be<lb/> ready by 2008. 123 The Department of Defense&apos;s transition to IPv6 is a key component of its business case<lb/> to be able to architect new technologies and to improve interoperability among many information and<lb/> weapons systems, known as the Global Information Grid (GIG). The IPv6 component of GIG is to<lb/> facilitate DOD&apos;s goal of achieving network-centric operations by exploiting these key characteristics of<lb/> IPv6. The increased address space provides DOD with an opportunity to reconstitute its address space<lb/> architecture to better address the future proliferation of numerous unmanned sensors and mobile assets. 124<lb/> In June 2005, the United States&apos; Office of Management Budget (OMB) set June 2008 as the deadline<lb/> by which all agencies&apos; infrastructure (network backbones) must be using IPv6 and agency networks must<lb/> be interfacing with this infrastructure. 125<lb/> Korea<lb/> In February 2001, the Korean Ministry of Information and Communications established a plan<lb/> entitled &quot;Next Internet Infrastructure Constructing Plan by Diffusing IPv6&quot;.<lb/> In Korea, USD 81 million were invested to support several national research projects including<lb/> KOREN, KREONET2, 6NGIX and TEIN (Trans Eurasia Information Network). In 2004, Korea launched<lb/> its ―all IPv6‖ development plan named IT839 and a nationwide trial service, ―KOREAv6 Project‖.<lb/> The current targets set by the Korean Ministry of Information and Communication (MIC) to<lb/> encourage the use of IPv6 include:<lb/>  Converting Internet equipment in public institutions to IPv6 by 2010.<lb/>  Securing a user base of 10 million IPv6 users by 2010, in partnership with operators and<lb/> equipment vendors: a major driver is expected to come from the creation of an ―IPv6-based User<lb/> Created Content (UCC) portal service‖ to allow users to send UCC in real time through mobile<lb/> terminals such as IPv6 network cameras.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>China&apos;s strategy for the promotion and adoption of IPv6 is based on the development of an IPv6<lb/> backbone network, China Next Generation Internet (CNGI), designed to be the core of China&apos;s Internet<lb/> infrastructure. CNGI intends to foster the development of IPv6 expertise, and of IPv6-enabled products and<lb/> applications. CNGI involves many branches of the Chinese government that invested USD 170 million,<lb/> private sector communication service providers with a matching investment, and academia.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>ANNEX </head>
+ 
+            <label>2</label>
+
+            <head>: </head>
+ 
+            <figDesc>ROLES OF DIFFERENT STAKEHOLDERS<lb/> Among actors that form the Internet&apos;s ecosystem, stakeholders with a particularly important role to<lb/> play in the deployment of IPv6 include:<lb/>  Backbone network operators, who manage global networks.<lb/>  Internet Service Providers (ISPs) of fixed and mobile IP networks.<lb/>  Standardisation bodies, and the individuals and organisations that contribute to them.<lb/>  The IPv6 Forum and national chapters throughout the world, for the training and the sharing of<lb/> best practices that they conduct.<lb/>  Regional Internet Registries that provide stewardship for IP address allocation.<lb/>  Local Internet Registries that manage IP addresses on the collection of some 26 000 autonomous<lb/> systems that together form the Internet.<lb/>  ICANN, which conducts technical co-ordination for Internet parameters, including IP addresses.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>ANNEX 3: PUBLICLY FUNDED RESEARCH AND DEVELOPMENT INITIATIVES<lb/> The first noteworthy experimental network was the 6bone Network, which ceased operation on<lb/> 6 June 2006 after almost a decade. The 6bone was a worldwide network comprising many types of<lb/> organisations (including academic and government organisations, hardware and software vendors, and<lb/> service providers), with oversight from the IETF NGtrans (IPv6 Transition) working group within the<lb/> IETF. It started out as a way to transport IPv6 packets over the existing IPv4-based Internet using a process<lb/> called tunnelling, and later evolved into a network that supported IPv6 directly.<lb/> Investing in experimental networks to provide verifiable IPv6 experience helps develop experience<lb/> and expertise. Cross-fertilisation between research and development and the private sector should be a<lb/> priority. Technical experts with experience from R&amp;D networks are able to train others in order to increase<lb/> the skills base by orders of magnitude. Many major wide-area publicly funded research and development<lb/> networks have been running IPv6 infrastructure, services, and applications over the last few years. Some<lb/> examples are:<lb/>  Australian Academic and Research Network (AARNET) or Grangenet in Australia<lb/>  IPv6 Research and Education Network (6REN), Moonv6, Abilene (Internet2) in the United States<lb/>  Education and Research Network (ERNET) in India<lb/>  SURFnet in the Netherlands<lb/>  CSTNet2, China Education and Research Network (CERNET2), China Next Generation Internet<lb/> (CNGI) in China<lb/>  Gigabit European Academic Network (GEANT), 6NET, 6DISS, Euro6IX and all European<lb/> National Research Network (NRNs) in Europe<lb/>  JGN2 and Widely Integrated Distributed Environment (WIDE) in Japan<lb/>  Korea Research Environment Open Network 2 (KREONET2), 6NGIX and TEIN (Trans Eurasia<lb/> Information Network) and the KOREAv6 Project in Korea<lb/>  RedCLARA in Latin America<lb/>  RUNet and FREEnet in Russia<lb/>  Viagenie/CANARIE in Canada<lb/>  TANET2 and TWAREN in Chinese Taipei<lb/> A number of governmental authorities have actively promoted sector-specific IPv6 applications.<lb/> These include, for example:<lb/>  Applications using IPv6-based 3G mobile services and<lb/> connectivity for transportation applications: trains, cars, airplanes<lb/>  Peer-to-peer communication<lb/>  Computing grid and data grid<lb/>  Video conference and HDTV (high definition television)<lb/>  Environment measurement<lb/>  Remote control of instrument and virtual reality<lb/>  Advanced manufacturing<lb/>  Remote education and digital library<lb/>  Remote medical treatment</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>14</label>
+
+            <head>.<lb/> </head>
+<lb/> 
+            <figDesc>A schematised view of the policy development process at RIPE NCC<lb/> Source: http://www.ripe.net/ripe/docs/pdp.html.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>ANNEX</head>
+
+            <label>6</label>
+
+            <head>: </head>
+ 
+            <figDesc>EFFECTS OF THE DEPLETION OF THE UNALLOCATED IPV4 ADDRESSES<lb/> TYPE OF<lb/> BUSINESS /<lb/> OPERATION<lb/> AFFECTED SERVICE / CONTENT<lb/> IMPACT<lb/> New Internet<lb/> Service Provider<lb/> Internet connection service (New entrance)<lb/> New entrance impossible, limitations, costs<lb/> increase.<lb/> Existing Internet<lb/> Service<lb/> Providers<lb/> Internet connection service<lb/> Limits the type of available services,<lb/> deteriorates quality, service is reduced.<lb/> Global address use service (such as permanent<lb/> address service and peer-to-peer applications)<lb/> Cannot add new subscriptions.<lb/> Procurement of network component equipment<lb/> and lines<lb/> Cost increase.<lb/> Reduced technology selection.<lb/> Equipment<lb/> vendors<lb/> Development of new technologies and operation<lb/> techniques.<lb/> Difficult to determine investment choice<lb/> technologies, cost increase.<lb/> IP telephony<lb/> Global address use service (such as permanent<lb/> address services for IP telephony).<lb/> Procurement of network component equipment<lb/> and lines.<lb/> Cannot add new subscriptions, costs<lb/> increase.<lb/> Application<lb/> Service<lb/> Providers /<lb/> Internet Data<lb/> Centers<lb/> Virtual Private Network/hosting service.<lb/> Deteriorated quality, type of services<lb/> limited, reduced service.<lb/> Global address use service (such as Internet<lb/> VPNs, dedicated hosting, access control with IP<lb/> address, and Video on Demand).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Cannotadd new subscriptions.<lb/> Procurement of network component equipment<lb/> and lines.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Costincrease.<lb/> End nodes and<lb/> new services<lb/> New services (e.g. sensor networks, health and<lb/> medical care, facility management, bi-directional<lb/> mobility, and home appliance remote control).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Serviceprovision difficult, service use<lb/> difficult.<lb/> Operation staff<lb/> Operational tasks.<lb/> Operation difficult, cost increase.<lb/> Source: Based on Telecommunications Bureau, Ministry of Internal Affairs and Communication, December 2007, Japan.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>ANNEX7: PRIORITY IPV6 DEPLOYMENT CHALLENGES AS IDENTIFIED BY ATIS<lb/> &quot; HIGH &quot; priority challenges<lb/> Address Allocation Policies<lb/> Policy<lb/> Site Multi-Homing<lb/> Business<lb/> Quality of Service<lb/> Technical<lb/> Security<lb/> Technical<lb/> Interoperability Between IPv4 &amp; IPv6<lb/> Technical<lb/> Network Address Translators (NATs)<lb/> Business<lb/> Impacts on Network Traffic &amp; Routing<lb/> Technical<lb/> &quot; MEDIUM &quot; priority challenges<lb/> Impacts on Privacy/Legal Issues<lb/> Policy<lb/> Management Tools (Dual-stack &amp; IPv6 Networks)<lb/> Technical<lb/> Impacts on Infrastructure Reliability<lb/> Technical<lb/> Network Renumbering (Portability)<lb/> Business<lb/> Peering Evolution (Impacts on Settlements)<lb/> Business<lb/> Impacts on Access Networks<lb/> Business<lb/> &quot; LOW &quot; priority challenges<lb/> Separation of Locator &amp; Identifier<lb/> Business<lb/> Vendor Availability<lb/> Business<lb/> Dual-Stack with Domain Name System (DNS)<lb/> Technical<lb/> Relationships with other Numbering Systems<lb/> Technical<lb/> Cost<lb/> Business<lb/> Source: ATIS Internet Protocol Version 6 (IPv6), Task Force Report on IPv6 Transition Challenges, July 2007.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ANNEX8: ALLOCATION MECHANISMS FOR SCARCE RESOURCES<lb/> MECHANISM<lb/> DESCRIPTION<lb/> ADVANTAGES<lb/> DISADVANTAGES<lb/> 1. First come<lb/> first served<lb/> Administrative<lb/> measure. Fees aimed<lb/> at recovering costs of<lb/> management.<lb/> -low administrative cost<lb/> -allocative inefficiency<lb/> -possibility of strategic pre-emption<lb/> 2. Lottery<lb/> -perceived equity<lb/> -allocative inefficiency<lb/> -possibility </trash>
+ 
+            <figDesc>of strategic pre-emption<lb/> -does not guarantee that the winner is the<lb/> one with the highest willingness to pay<lb/> 3. Comparative<lb/> selection<lb/> &quot; beauty<lb/> contest &quot;</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Shortly thereafter, on 20 June 2007, in Montevideo, LACNIC announced that it was launching a<lb/> regional campaign so that all the region&apos;s networks would be adapted to IPv6 by 1 January 2011. It advised<lb/> companies, governments and institutions to take the necessary steps to prepare to adopt IPv6 as soon as<lb/> possible. 128<lb/> ICANN&apos;s Board passed a resolution on the deployment of IPv6 on 29 June 2007, which stated:<lb/> ―the future growth of the Internet (…) depends on the availability and timely deployment of<lb/> IPv6‖ and that ―the Board ―resolves to work with the Regional Internet Registries and other<lb/> stakeholders to promote education and outreach, with the goal of supporting the future growth of<lb/> the Internet by encouraging the timely deployment of IPv6.‖<lb/> Beyond a call to real action in encouraging IPv6 deployment, the important message of the ICANN<lb/> Board was that ―the Board expresses its confidence in the Internet community to meet this challenge to its<lb/> future prospects, and expresses its confidence in the bottom-up, inclusive, stakeholder-driven processes in<lb/> place to provide any needed policy changes.‖ 129<lb/> On 1 July 2007, after considering the situation of the IPv4 central pool depletion and the analysis<lb/> paper published by AfriNIC staff in April 2007, the AfriNIC Board passed a Resolution stating:</figDesc>
+        </figure>
+
+
+        <figure>
+
+            3.<lb/> From a network topology context.<lb/> 4.<lb/> </trash>
+<lb/> 
+            <figDesc>Huston, G., ―Addressing as a Fundamental Part of the Internet‖, NSF/OECD workshop, January 2007,<lb/> http://www.oecd.org/sti/ict/futureinternet2007.<lb/> 5.<lb/> The free pool of unallocated IPv4 address space is considered to be the IANA pool. After then, regional<lb/> Internet registries will still have remaining address space to last until mid 2011 at current consumption<lb/> rates. Widely consulted sources for projections are Geoff Huston&apos;s &quot;IPv4 Address Space Report&quot; available<lb/> at http://ipv4.potaroo.net and Tony Hain&apos;s &quot;A Pragmatic Report on IPv4 Address Space Consumption&quot;<lb/> available at http://www.tndh.net/~tony/ietf/ipv4-pool-combined-view.pdf.<lb/> 6.<lb/> The Internet Domain Survey, July 2007, counted 489 million hosts, http://www.isc.org/index.pl?/ops/ds/<lb/> and Internet World stats, Feb 2008, http://www.internetworldstats.com/stats.htm.</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

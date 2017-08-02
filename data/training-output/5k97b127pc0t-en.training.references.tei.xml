@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><idno>.3 55.140 .050. 012.9</idno></bibl>
+	<bibl><idno>Poland 17.523 .237. 970.5 4.1</idno></bibl>
+	<bibl><idno>Local 17.523 .237. 970.5 80.037 .54. 1</idno></bibl>
+	<bibl><idno>Portugal 6.044 .07. 988.6 2.6</idno></bibl>
+	<bibl><idno>Local 6.044 .07. 988.6 60.037 .52. 6</idno></bibl>
+	<bibl><ptr type="web">Spain 26.664 .819. 479.9 17.3</ptr></bibl>
+	<bibl><idno>Regions 18.158 .414. 085.2 0.025 .010</idno>. <biblScope unit="issue">6</biblScope></bibl>
+	<bibl><idno>Local 8.578 .65. 566.2 0.037 .56. 7</idno></bibl>
+	<bibl><idno>Sweden 32.1100 .09. 432.1</idno></bibl>
+	<bibl><idno>Local 32.1100 .09. 440.0 100.032 .1</idno></bibl>
+	<bibl><idno>Switzerland 43.194 .023. 421.4 40</idno>.<biblScope unit="issue">6</biblScope></bibl>
+	<bibl><idno>States 27.090 .416. 122.2 70.075 .024</idno>. <biblScope unit="issue">4</biblScope></bibl>
+	<bibl><idno>Local 16.2100 .07. 219.6 60.037 .516</idno>. <biblScope unit="issue">2</biblScope></bibl>
+	<bibl><idno>Turkey 6.50 .015. 822.7 0.0</idno></bibl>
+	<bibl><idno>Local 6.50 .015. 822.7 70.025 .00. 0</idno></bibl>
+	<bibl><title level="j">United Kingdom</title> <idno>4.5100 .04. 5</idno></bibl>
+	<bibl><idno>Local 4.5100 .04. 5</idno></bibl>
+	<bibl><title level="j">Unweighted Average States</title><idno>19 .658. 714.0 41.938 .070. 012.0</idno></bibl>
+	<bibl><idno>Local 12.473 .111. 345.4 45.652 .89. 4</idno></bibl>
+	<bibl><title level="a">Source : National sources and OECD, Revenue Statistics</title> <date>1965-2004</date>, <date>2005</date> <title level="j">Edition. REFERENCES</title></bibl>
+	<bibl><author>Bergvall, D., C. Charbit, D. Kraan, and O. Merk</author> (<date>2006</date>),: <title level="m">Intergovernmental grants and decentralized publicspending</title> ,<title level="j">OECD Journal of Budgeting</title> ( <note>forthcoming</note>).</bibl>
+	<bibl><author>Joumard, I and P.M. Kongsrud</author> (<date>2003</date>): <title level="a">Fiscal relations across government levels</title>, <title level="j">OECD Economic Studies</title><biblScope unit="volume">36</biblScope> ,pp .<biblScope unit="page">155 -228</biblScope>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>1999</date>): <title level="a">Taxing powers of state and local government, Tax policy studies No 1</title>, <title level="j">Paris OECD</title>( <date>2005</date>):<title level="a">National Accounts of OECD Countries</title> <date>1993 -2004</date>,<editor>Paris Sutherland ,D. R. Priceand I . Joumard</editor>( <date>2005</date> ):<title level="a">Fiscalrules for sub - centralgovernments</title>: <note>designand impact , OECDEconomicsDepartment Working Paper 465</note> .</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

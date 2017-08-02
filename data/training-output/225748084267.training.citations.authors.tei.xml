@@ -1,0 +1,114 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Acheson</surname>, <forename>D</forename>., et al.</author>
+
+						<author><surname>Bajekal</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Banthin</surname> et al.</author>
+
+						<author><surname>Begg</surname>, <forename>S</forename>., et al.</author>
+
+						<author><surname>Blendon</surname>, <forename>R</forename>., et al.</author>
+
+						<author><surname>Crimmins</surname>, <forename>E</forename>.<middlename>M</middlename>. &amp; <middlename>Y</middlename>. <surname>Saito</surname></author>
+
+						<author><surname>Department</surname> of <surname>Health</surname></author>
+
+						<author><surname>Fukuda</surname> <forename>Y</forename>., <forename>K</forename>. <surname>Nakamura</surname> <forename>&amp;</forename> <middlename>T</middlename>. <surname>Takano</surname></author>
+
+						<author><surname>Gakidou</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Gwatkin</surname>, <forename>D</forename>.<middlename>R</middlename>.</author>
+
+						<author><surname>Harper</surname>, <forename>S</forename>. &amp; <middlename>J</middlename>. <surname>Lynch</surname></author>
+
+						<author><surname>Hoffman</surname>, <forename>C</forename>., et al.</author>
+
+						<author><surname>Honjo</surname>, <forename>K</forename>., et al.</author>
+
+						<author><surname>Huber</surname>, <forename>M</forename>., et al.</author>
+
+						<author><surname>Judge</surname>, <forename>K</forename>., et al.</author>
+
+						<author><surname>Kambia-Chopin</surname>, <forename>B</forename>., et al.</author>
+
+						<author><surname>Kawachi</surname>, <forename>I</forename>., <forename>N</forename>. <surname>Daniels</surname> <forename>&amp; D</forename>.<middlename>E</middlename>. <surname>Robinson</surname></author>
+
+						<author><surname>Kawachi</surname>, <forename>I</forename>., <forename>S</forename>.<middlename>V</middlename>. <surname>Subramanian</surname> <forename>&amp;</forename> <middlename>N</middlename>. <surname>Almeida-Filho</surname></author>
+
+						<author><surname>Khang</surname>, <forename>Y</forename>.<middlename>H</middlename>., et al.</author>
+
+						<author><surname>Krieger</surname>, <forename>N</forename>., et al.</author>
+
+						<author><surname>Kunst</surname>, <forename>A</forename>.<middlename>E</middlename>. &amp; <middlename>J</middlename>.<middlename>P</middlename>. <surname>Mackenbach</surname></author>
+
+						<author><surname>Lafortune</surname>, <forename>G</forename>., <forename>G</forename>.</author>
+
+						<author><surname>Lopez</surname>, <forename>A</forename>.<middlename>D</middlename>., et al.</author>
+
+						<author><surname>Lozano</surname>, <forename>R</forename>., et al.</author>
+
+						<author><surname>Mackenbach</surname>, <forename>J</forename>. &amp; <middlename>A</middlename>.<middlename>E</middlename>. <surname>Kunst</surname></author>
+
+						<author><surname>Mackenbach</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Mackenbach</surname>, <forename>J</forename>.<middlename>P</middlename>. &amp; <surname>EUROTHINE Project Members</surname></author>
+
+						<author><surname>Mackenbach</surname>, <forename>J</forename>.<middlename>P</middlename>., et al.</author>
+
+						<author><surname>Mackenbach</surname>, <forename>J</forename>.<middlename>P</middlename>., <forename>W</forename>.<middlename>J</middlename>. <surname>Meerding</surname> <forename>&amp;</forename> <middlename>A</middlename>.<middlename>E</middlename>. <surname>Kunst</surname></author>
+
+						<author><surname>Mead</surname>, <forename>H</forename>., et al.</author>
+
+						<author><surname>Miilunpalo</surname>, <forename>S</forename>., et al.</author>
+
+						<author><surname>Murphy</surname>, <forename>M</forename>., et al.</author>
+
+						<author><surname>Murray</surname> <forename>C</forename>.<middlename>J</middlename>.<middlename>L</middlename>., et al.</author>
+
+						<author><forename>NZ</forename> <surname>MoH</surname></author>
+
+						<author><forename>O&apos;</forename><surname>Donnell</surname>, <forename>O</forename>., et al.</author>
+
+						<author><surname>Or</surname>, <forename>Z</forename>., <forename>F</forename>. <surname>Jusot</surname> <forename>&amp;</forename> <middlename>E</middlename>. <surname>Yilmaz</surname></author>
+
+						<author><surname>Sanmartin</surname>, <forename>C</forename>., et al.</author>
+
+						<author><surname>Schneider</surname>, <forename>M</forename>.<middlename>C</middlename>., et al.</author>
+
+						<author><surname>Schoen</surname> <forename>C</forename>., et al.</author>
+
+						<author><surname>Schoen</surname>, <forename>C</forename>., et al.</author>
+
+						<author><surname>Singh</surname>, <forename>G</forename>.<middlename>K</middlename>. &amp; <middlename>M</middlename>. <surname>Siahpush</surname></author>
+
+						<author><surname>Wagstaff</surname>, <forename>A</forename>., <forename>P</forename>. <surname>Paci</surname> <forename>&amp;</forename> <middlename>E</middlename>. <surname>van Doorslaer</surname></author>
+
+						<author><surname>Walker</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Whitehouse</surname>, <forename>E</forename>.<middlename>R</middlename>. &amp; <middlename>A</middlename>. <surname>Zaidi</surname></author>
+
+						<author><surname>Wilkins</surname>, <forename>R</forename>. &amp; <middlename>C</middlename>. <surname>Houle</surname></author>
+
+						<author><surname>Wilkins</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Xu</surname>, <forename>K</forename>., et al.</author>
+
+						<author><forename>OECD</forename> <surname>HEALTH</surname> WORKING <surname>PAPERS No</surname>. 42 <surname>POLICIES</surname> FOR <surname>HEALTHY</surname> AGEING <surname>THE</surname> REMUNERATION <surname>OF</surname> GENERAL <surname>PRACTITIONERS</surname> AND SPECIALISTS IN 14 <forename>OECD</forename> <surname>COUNTRIES</surname>: <surname>WHAT</surname> ARE <surname>THE</surname> FACTORS <surname>EXPLAINING VARIATIONS</surname> ACROSS <surname>COUNTRIES</surname> MOBILITY <surname>OF</surname> HEALTH <surname>PROFESSIONALS</surname> AND <surname>HEALTH</surname> WORKFORCE <surname>MANAGEMENT</surname> IN <surname>CANADA Jean-Christophe Dumont</surname>, <forename>Pascal</forename> <surname>Zurn</surname>, <forename>Jody</forename> <surname>Church</surname> and <forename>Christine</forename> <middlename>Le</middlename> <surname>Thi</surname> <forename>PHARMACEUTICAL</forename> <surname>PRICING</surname> &amp; <surname>REIMBURSEMENT</surname> POLICIES <surname>IN GERMANY</surname></author>
+
+						<author>32 <forename>THE</forename> <surname>PREVENTION</surname> OF <surname>LIFESTYLE-RELATED CHRONIC</surname> DISEASES: <surname>AN</surname> ECONOMIC <surname>FRAMEWORK</surname> PHARMACEUTICAL <surname>PRICING</surname> AND <surname>REIMBURSEMENT</surname> POLICIES <surname>IN SLOVAKIA</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Deese</surname>, <forename>William</forename> and <forename>John</forename> <surname>Reeder</surname></author>
+
+						<author><surname>Dollive</surname>, <forename>Kendall</forename></author>
+
+						<author><surname>Janow</surname>, <forename>Merit</forename> <middlename>E</middlename>. and <forename>R</forename>.<middlename>W</middlename>. <surname>Staiger</surname></author>
+
+						<author><surname>Nogués</surname>, <forename>Julio</forename> <middlename>J</middlename>.</author>
+
+						<author><surname>Piermartini</surname>, <forename>Roberta</forename></author>
+
+						<author><surname>Saadi</surname>, <forename>Hadj</forename></author>
+
+						<author>, <surname>Paris</surname> <forename>OECD</forename></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

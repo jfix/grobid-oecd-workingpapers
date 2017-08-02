@@ -1,0 +1,100 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Ahola</surname>, <forename>S</forename>., <forename>T</forename>. <surname>Hedmo</surname>, <forename>JP</forename>. <surname>Thomsen</surname> and <forename>A</forename>. <surname>Vabø Denmark</surname>, <surname>Finland</surname>, <surname>Norway</surname> <forename>&amp;</forename> <surname>Sweden</surname></author>
+
+						<author><surname>Amaral</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Bakken</surname>, <forename>P</forename>. and <forename>I</forename>. <surname>Storm</surname></author>
+
+						<author><surname>de Boer</surname>, <forename>H</forename>. and <forename>B</forename>. <surname>Jongbloed</surname></author>
+
+						<author><surname>Benner</surname>, <forename>M</forename>. and <forename>G</forename>. <surname>Öquist</surname></author>
+
+						<author><surname>Bleiklie</surname>, <forename>I</forename>., <forename>J</forename>. <surname>Enders</surname>, <forename>B</forename>. <surname>Lepori</surname> and <forename>C</forename>. <surname>Musselin</surname></author>
+
+						<author><surname>Campbell</surname>, <forename>C</forename>., <forename>R</forename>. <surname>Middlehurst</surname>. and <forename>W</forename>. <surname>Lawton</surname></author>
+
+						<author><surname>Cappelen</surname>, <forename>Å</forename>., <forename>H</forename>. <surname>Gjefsen</surname>, <forename>M</forename>. <surname>Gjelsvik</surname>, <forename>I</forename>. <surname>Holm</surname>, and <forename>N</forename>.<middlename>M</middlename>. <surname>Stølen</surname></author>
+
+						<author><surname>Cheung</surname>, <forename>C</forename>., <forename>Y</forename>. <surname>Guillemette</surname> and <forename>S</forename>. <surname>Mobasher-Fard</surname></author>
+
+						<author><forename>Expert</forename> <surname>Group</surname></author>
+
+						<author><surname>Finnegan</surname>, <forename>M</forename> (</author>
+
+						<author><surname>Goreham</surname>, <forename>H</forename>.</author>
+
+						<author><surname>Government</surname> of <forename>Norway</forename></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Government</surname> of <forename>Norway</forename></author>
+
+						<author><surname>Gunnes</surname>, , <forename>T</forename>., <forename>L</forename>. <surname>Kirkebøen</surname>, <forename>M</forename>. <surname>Rønning</surname></author>
+
+						<author><surname>Gunnes</surname>, , <forename>T</forename>., <forename>L</forename>. <surname>Kirkebøen</surname>, <forename>M</forename>. <surname>Rønning</surname></author>
+
+						<author><surname>Hamberg</surname>, <forename>S</forename>., <surname>Damen</surname>, <forename>M</forename>.<middlename>L</middlename>, and <forename>P</forename>. <surname>Bakken</surname></author>
+
+						<author><surname>Harman</surname>, <forename>G</forename>. and <forename>K</forename>. <surname>Harman</surname></author>
+
+						<author><forename>Hedda</forename></author>
+
+						<author><surname>Hovdhaugen</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Hovdhaugen</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Hovdhaugen</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Hovdhaugen</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Kenna</surname>, <forename>R</forename>. and <forename>B</forename>. <surname>Berche</surname></author>
+
+						<author><surname>Kenna</surname>, <forename>R</forename>. and <forename>B</forename>. <surname>Berche</surname></author>
+
+						<author><surname>Kyvik</surname> <forename>S</forename>.</author>
+
+						<author><surname>Kyvik</surname> <forename>S</forename>., and <forename>B</forename>. <surname>Stensaker</surname></author>
+
+						<author><surname>Maassen</surname>, <forename>P</forename>. <surname>Moen</surname> <forename>E</forename>. and <forename>B</forename>. <surname>Stensaker</surname></author>
+
+						<author><surname>Melin</surname>, <forename>G</forename>., <surname>Fridholm</surname>, <forename>T</forename>.,and <forename>E</forename>., <surname>Ärenman</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Myklebust</surname>, <forename>J</forename>. P</author>
+
+						<author><surname>Opheim</surname>, <forename>V</forename>.</author>
+
+						<author><surname>Orr</surname>, <forename>D</forename>., <surname>Gwosc</surname>, <forename>C</forename>. and <forename>N</forename>. <surname>Netz</surname></author>
+
+						<author><surname>Pruvot</surname>, <forename>E</forename>.<middlename>B</middlename>., <surname>Estermann</surname> <forename>T</forename>., and <forename>P</forename>. <surname>Manson</surname></author>
+
+						<author><surname>Reichert</surname>, <forename>S</forename>. and <forename>L</forename>. <surname>Ekholm</surname></author>
+
+						<author><surname>Santiago</surname>, <forename>P</forename>., <forename>K</forename>. <surname>Tremblay</surname>, <forename>E</forename>. <surname>Basri</surname>, and <forename>E</forename>. <surname>Arnal</surname></author>
+
+						<author><surname>Skodvin</surname>, <forename>O</forename>.<middlename>J</middlename>.</author>
+
+						<author><surname>Skodvin</surname>, <forename>O</forename>.<middlename>J</middlename></author>
+
+						<author><forename>Stensaker</forename> <surname>Shattock</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Tremblay</surname>, <forename>K</forename>., <forename>D</forename>. <surname>Lalancette</surname> and <forename>D</forename>. <surname>Roseveare</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

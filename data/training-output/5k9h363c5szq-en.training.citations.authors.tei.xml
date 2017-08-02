@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Skolverket</surname></author>
+
+						<author><forename>HM</forename> <surname>Treasury</surname></author>
+
+						<author><surname>Kazimirski</surname>, <forename>A</forename>., <surname>Smith</surname>, <forename>R</forename>., <surname>Butt</surname>, <forename>S</forename>., <surname>Ireland</surname>, <forename>E</forename>., <surname>Lloyd</surname>, <forename>E</forename>.</author>
+
+						<author><forename>Danmarks</forename> <surname>Statistiksbank</surname></author>
+
+						<author><forename>Istituto</forename> <surname>Nazionale</surname> <forename>di</forename> <surname>Statistica</surname></author>
+
+						<author><forename>Istituto</forename> <surname>Nazionale</surname> <forename>di</forename> <surname>Statistica</surname></author>
+
+						<author><forename>Sancho</forename> <surname>Castiello</surname> et al.</author>
+
+						<author><surname>Aaberge</surname>, <forename>R</forename>. and <forename>A</forename>. <surname>Langørgen</surname></author>
+
+						<author><surname>Aaberge</surname>, <forename>R</forename>., <forename>M</forename>. <surname>Bhuller</surname>, <forename>A</forename>. <surname>Langørgen</surname>, <forename>M</forename>. <surname>Mogstad</surname></author>
+
+						<author><surname>Aaberge</surname>, <forename>R</forename>., <forename>A</forename>. <surname>Langørgen</surname>, <forename>P</forename>. <surname>Lindgren</surname></author>
+
+						<author><surname>Adema</surname>, <forename>W</forename>., <forename>M</forename>. <surname>Ladaique</surname></author>
+
+						<author><surname>Ananian</surname>, <forename>S</forename>. and <forename>I</forename>. <surname>Robert-Bobée</surname></author>
+
+						<author><surname>Andrews</surname>, <forename>D</forename>., <forename>A</forename>., <surname>Caldera-Sάnchez</surname>, <forename>A</forename>. <surname>Johansson</surname></author>
+
+						<author><surname>Antoninis</surname>, <forename>M</forename>. and <forename>P</forename>. <surname>Tsakloglou</surname></author>
+
+						<author><surname>Asensio</surname>, <forename>J</forename>., <forename>A</forename>. <surname>Matas</surname> and <forename>J</forename>.<middlename>L</middlename>. <surname>Raymond</surname></author>
+
+						<author><surname>Berloffa</surname>, <forename>G</forename>., <forename>A</forename>. <surname>Brugiavini</surname> and <forename>D</forename>. <surname>Rizzi</surname></author>
+
+						<author><surname>Blackorby</surname>, <forename>C</forename>., <forename>D</forename>. <surname>Donaldson</surname></author>
+
+						<author><surname>Busse</surname>, <forename>R</forename>., <forename>C</forename>. <surname>Krauth</surname>, <forename>F</forename>.<middlename>W</middlename>. <surname>Schwartz</surname></author>
+
+						<author><surname>Callan</surname>, <forename>T</forename>., <forename>T</forename>. <surname>Smeeding</surname> and <forename>P</forename>. <surname>Tsakloglou</surname></author>
+
+						<author><surname>Carruthers</surname>, <forename>R</forename>., <forename>M</forename>. <surname>Dick</surname> and <forename>A</forename>. <surname>Saurkar</surname></author>
+
+						<author><surname>Comas-Herrera</surname>, <forename>A</forename>., <forename>R</forename>. <surname>Wittenberg</surname>, , <forename>J</forename>. <surname>Costa-Fonti</surname>, , <forename>C</forename>. <surname>Gori</surname>, , <forename>A</forename>. <middlename>Di</middlename> <surname>Maio</surname>, <forename>C</forename> <surname>Patxot</surname>, <forename>L</forename>. <surname>Pickard</surname>, <forename>A</forename>. <surname>Pozzi</surname>, <forename>H</forename>. <surname>Rothgang</surname></author>
+
+						<author><surname>Da Roit</surname>, <forename>B</forename>., <forename>B</forename>. <surname>Le Bihan</surname>, <forename>A</forename>. <surname>Österle</surname></author>
+
+						<author><surname>Estupiñán</surname> <forename>N</forename>., <forename>A</forename>. <surname>Gómez-Lobo</surname>, <surname>Muñoz-Raskin</surname>, <forename>T</forename>. <surname>Serebrisky</surname></author>
+
+						<author><surname>Evandrou</surname>, <forename>M</forename>., <forename>J</forename>. <surname>Falkingham</surname>, <forename>J</forename>. <surname>Hills</surname> and <forename>J</forename>. <surname>Le Grand</surname></author>
+
+						<author><surname>Fearnley</surname>, <forename>N</forename>.</author>
+
+						<author><surname>Förster</surname>, <forename>M</forename>. and <forename>G</forename>. <surname>Verbist</surname></author>
+
+						<author><surname>Frick</surname>, <forename>J</forename>.<middlename>R</middlename>. and <forename>M</forename>.<middlename>M</middlename>. <surname>Grabka</surname> <forename>U</forename>.<middlename>K</middlename>., <forename>West</forename> <surname>Germany</surname>, and the USA</author>
+
+						<author><surname>Frick</surname>, <forename>J</forename>.<middlename>R</middlename>., <forename>J</forename>. <surname>Goebel</surname> and <forename>M</forename>.<middlename>M</middlename>. <surname>Grabka</surname></author>
+
+						<author><surname>Frick</surname>, <forename>J</forename>.<middlename>R</middlename>., <forename>M</forename>.<middlename>M</middlename>. <surname>Grabka</surname>, <forename>T</forename>. <surname>Smeeding</surname> and <forename>P</forename>. <surname>Tsakloglou</surname></author>
+
+						<author><surname>Gardiner</surname>, <forename>K</forename>., <forename>J</forename>. <surname>Hills</surname>, <forename>V</forename>. <surname>Lechene</surname> and <forename>H</forename>. <surname>Sutherland</surname></author>
+
+						<author><surname>Garfinkel</surname>, <forename>I</forename>., <forename>L</forename>. <surname>Rainwater</surname> and <forename>T</forename>. <surname>Smeeding</surname></author>
+
+						<author><surname>Hernández-Quevado</surname>, <forename>C</forename>., <forename>A</forename>.<middlename>M</middlename>. <surname>Jones</surname>, <forename>A</forename>. <surname>López-Nicolás</surname> and <forename>N</forename>. <surname>Rice</surname></author>
+
+						<author><surname>Huber</surname>, <forename>M</forename>., <forename>R</forename>.<surname>Rodrigues</surname>, <forename>F</forename>.<surname>Hoffmann</surname>, <forename>K</forename>. <surname>Gasior</surname>, <forename>B</forename>. <surname>Marin</surname></author>
+
+						<author><surname>Jensen</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Jones</surname> <forename>F</forename>.</author>
+
+						<author><surname>Jones</surname>, <forename>A</forename>. and <forename>O</forename>. O &quot; Donell</author>
+
+						<author><surname>Marical</surname>, <forename>F</forename>., <forename>M</forename>. <surname>Mira d&apos;Ercole</surname>, <forename>M</forename>. <surname>Vaalavuo</surname> and <forename>G</forename>. <surname>Verbist</surname></author>
+
+						<author><surname>Marical</surname>, <forename>F</forename>., <forename>M</forename>. <surname>Mira d&apos;Ercole</surname>, <forename>M</forename>. <surname>Vaalavuo</surname> <forename>&amp;</forename> <middlename>G</middlename>. <surname>Verbist</surname></author>
+
+						<author><surname>Matsaganis</surname>, <forename>M</forename>. and <forename>G</forename>. <surname>Verbist</surname></author>
+
+						<author><surname>Miranda</surname>, <forename>V</forename>.</author>
+
+						<author><surname>Nolan</surname> <forename>B</forename>. and <forename>H</forename>. <surname>Russell</surname></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Österle</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Parry</surname>, <forename>I</forename>. and <forename>K</forename>. <surname>Small</surname></author>
+
+						<author><surname>Paulus</surname>, <forename>A</forename>., <forename>H</forename>. <surname>Sutherland</surname>, <forename>P</forename>. <surname>Tsakloglou</surname></author>
+
+						<author><surname>Pavolini</surname>, <forename>E</forename>., <forename>C</forename>. <surname>Ranci</surname></author>
+
+						<author><surname>Radner</surname>, <forename>D</forename>.</author>
+
+						<author><forename>Sancho</forename> <surname>Castiello</surname>, <forename>M</forename>., <forename>M</forename>. <surname>De La Pezuela Pinto</surname>, <forename>M</forename>. <middlename>Fernández</middlename> <surname>Moreno</surname></author>
+
+						<author><surname>Saunders</surname>, <forename>P</forename>. and <forename>P</forename>. <surname>Siminski</surname></author>
+
+						<author><surname>Sefton</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Smeeding</surname>, <forename>T</forename>.<middlename>M</middlename>.</author>
+
+						<author><surname>Smeeding</surname> <forename>T</forename>., <forename>P</forename>. <surname>Tsakloglou</surname> and <forename>G</forename>. <surname>Verbist</surname></author>
+
+						<author><surname>Smeeding</surname>, <forename>T</forename>., et al.</author>
+
+						<author><surname>Sutherland</surname>, <forename>H</forename>. and <forename>P</forename>. <surname>Tsakloglou</surname></author>
+
+						<author><surname>Tsakloglou</surname>, <forename>P</forename>., et al.</author>
+
+						<author><surname>Vaalavuo</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Vaalavuo</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Whitehead</surname> , <forename>C</forename>. and <forename>K</forename>. <surname>Scanlon</surname> <forename>LSE</forename> <surname>London</surname></author>
+
+						<author><surname>Zaidi</surname>, <forename>A</forename>. and <forename>T</forename>. <surname>Burchardt</surname></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><forename>OECD</forename> <surname>SOCIAL</surname>, <forename>EMPLOYMENT</forename> <surname>AND</surname> MIGRATION <surname>WORKING</surname> PAPERS <surname>Most</surname></author>
+
+						<author><forename>ELIGIBILITY</forename> <surname>CRITERIA</surname> FOR <surname>UNEMPLOYMENT BENEFITS Danielle Venn</surname></author>
+
+						<author><forename>ARE</forename> <surname>RECENT</surname> IMMIGRANTS <surname>DIFFERENT? A NEW</surname> PROFILE <surname>OF</surname> IMMIGRANTS <surname>IN</surname> THE <surname>OECD</surname> BASED <surname>ON DIOC</surname></author>
+
+						<author><forename>EARNINGS</forename> <surname>VOLATILITY</surname> AND <surname>ITS</surname> CONSEQUENCES <surname>FOR HOUSEHOLDS Danielle Venn</surname> <forename>CRISIS</forename>, <surname>RECESSION</surname> AND <surname>THE</surname> WELFARE STATE Willem Adema</author>
+
+						<author><forename>AGGREGATE</forename> <surname>EARNINGS</surname> AND <surname>MACROECONOMIC</surname> SHOCKS <forename>Andrea</forename> <surname>Bassanini</surname></author>
+
+						<author><forename>OVER-QUALIFIED OR UNDER-SKILLED Glenda</forename> <surname>Quintini</surname> <forename>RIGHT</forename> <surname>FOR</surname> THE JOB Glenda <surname>Quintini</surname></author>
+
+						<author><forename>EARLY</forename> <surname>MATERNAL</surname> EMPLOYMENT <surname>AND</surname> CHILD <surname>DEVELOPMENT</surname> IN <surname>FIVE</surname> OECD COUNTRIES Maria del <forename>Carmen</forename> <surname>Huerta</surname>, <forename>Willem</forename> <surname>Adema</surname>, <forename>Jennifer</forename> <surname>Baxter</surname></author>
+
+						<author><surname>Gray</surname>, <forename>Wen-Jui</forename> <surname>Han</surname>, <forename>Jane</forename> <surname>Waldfogel</surname></author>
+
+						<author><forename>THE</forename> <surname>ROLE</surname> OF <surname>SHORT-TIME WORK SCHEMES</surname> DURING <surname>THE</surname></author>
+
+						<author><forename>INTERNATIONAL</forename> <surname>MIGRANTS</surname> <forename>IN</forename> <surname>DEVELOPED</surname>, <forename>EMERGING</forename> <surname>AND</surname> DEVELOPING <surname>COUNTRIES</surname></author>
+
+						<author><forename>ACTIVATION</forename> <surname>POLICIES</surname> <forename>IN</forename> <surname>JAPAN Nicola Duell</surname>, <forename>David</forename> <surname>Grubb</surname></author>
+
+						<author><forename>ECONOMIC</forename> <surname>DETERMINANTS</surname> AND <surname>CONSEQUENCES</surname> OF <surname>CHILD MALTREATMENT Lawrence</surname> <forename>M</forename>. <surname>Berger</surname></author>
+
+						<author><forename>DISTRIBUTIONAL</forename> <surname>CONSEQUENCES</surname> OF <surname>LABOR DEMAND</surname> ADJUSTMENTS <surname>TO</surname> A <surname>DOWNTURN: A MODEL-BASED APPROACH</surname> WITH <surname>APPLICATION</surname> TO <surname>GERMANY</surname></author>
+
+						<author><forename>Herwig</forename> <surname>Immervoll</surname>, <forename>Olivier</forename> <surname>Bargain</surname>, <forename>Andreas</forename> <surname>Peichl</surname></author>
+
+						<author><forename>DECOMPOSING</forename> <surname>NOTIONAL</surname> <forename>DEFINED-CONTRIBUTION</forename> <surname>PENSIONS</surname></author>
+
+						<author><forename>EARNINGS</forename> <surname>OF MEN</surname> AND <surname>WOMEN</surname> WORKING <surname>IN THE</surname> PRIVATE <surname>SECTOR</surname>: <surname>ENRICHED</surname> DATA <surname>FOR</surname> PENSIONS <surname>AND</surname> <forename>TAX-BENEFIT MODELING Anna</forename> <surname>Cristina</surname></author>
+
+						<author><forename>INSTITUTIONAL</forename> <surname>DETERMINANTS</surname> <forename>OF WORKER FLOWS: A CROSS-COUNTRY/CROSS-INDUSTRY APPROACH Andrea</forename> <surname>Bassanini</surname>, <forename>Andrea</forename> <surname>Garnero</surname></author>
+
+						<author><forename>RISING</forename> <surname>YOUTH</surname> UNEMPLOYMENT <surname>DURING</surname> THE <surname>CRISIS</surname>: <surname>HOW</surname> TO <surname>PREVENT</surname> NEGATIVE <surname>LONG-TERM CONSEQUENCES ON</surname> A <surname>GENERATION? Stefano Scarpetta</surname></author>
+
+						<author><forename>Rafal</forename> <surname>Chomik</surname> and <forename>Edward</forename> <surname>Whitehouse</surname></author>
+
+						<author><forename>ISRAELI</forename> <surname>CHILD</surname> <forename>POLICY AND OUTCOMES John</forename> <surname>Gal</surname>, <forename>Mimi</forename> <surname>Ajzenstadt</surname></author>
+
+						<author><forename>REFORMING</forename> <surname>POLICIES</surname> ON <surname>FOREIGN</surname> WORKERS <surname>IN ISRAEL Adriana Kemp</surname></author>
+
+						<author><forename>LABOUR</forename> <surname>MARKET</surname> AND <surname>SOCIO-ECONOMIC OUTCOMES</surname> OF <surname>THE ARAB-ISRAELI POPULATION</surname> <forename>Jack</forename> <surname>Habib</surname>, <forename>Judith</forename> <surname>King</surname></author>
+
+						<author><forename>TRENDS</forename> <surname>IN</surname> SOUTH <surname>AFRICAN</surname> INCOME <surname>DISTRIBUTION</surname> AND <surname>POVERTY</surname> SINCE <surname>THE</surname> FALL <surname>OF APARTHEID Murray Leibbrandt</surname>, <forename>Ingrid</forename> <surname>Woolard</surname></author>
+
+						<author><forename>MINIMUM-INCOME BENEFITS IN OECD COUNTRIES: POLICY</forename> <surname>DESIGN</surname>, <surname>EFFECTIVENESS</surname> AND CHALLENGES Herwig <surname>Immervoll</surname> <forename>HAPPINESS</forename> <surname>AND</surname> AGE <surname>CYCLES</surname> – <surname>RETURN</surname> TO <surname>START…</surname>? <surname>ON</surname> THE <surname>FUNCTIONAL</surname> RELATIONSHIP <surname>BETWEEN</surname> SUBJECTIVE <surname>WELL-BEING AND</surname> AGE <surname>Justina</surname> <forename>A</forename>.<middlename>V</middlename>. <surname>Fischer</surname></author>
+
+						<author>85 <forename>RECENT</forename> <surname>RELATED</surname> OECD <surname>PUBLICATIONS</surname>: <surname>DIVIDED</surname> WE <surname>STAND</surname> OECD <surname>Bookshop</surname> <forename>OECD</forename> REVIEWS <surname>OF</surname> LABOUR <surname>MARKET</surname> AND <surname>SOCIAL</surname> POLICIES <surname>OECD</surname> REVIEWS <surname>OF</surname> LABOUR <surname>MARKET</surname> AND <surname>SOCIAL</surname> POLICIES <surname>SOCIETY</surname> <middlename>AT A GLANCE – ASIA/PACIFIC</middlename> <surname>EDITIONasia</surname> <forename>OECD</forename> REVIEWS <surname>OF</surname> LABOUR <surname>MARKET</surname> AND <surname>SOCIAL POLICIES/PAG SICKNESS</surname>, <forename>DISABILITY</forename> <surname>AND</surname> WORK <surname>DENMARK</surname>, <forename>FINLAND</forename>, <forename>IRELAND</forename> <surname>AND</surname> THE <surname>NETHERLANDS</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

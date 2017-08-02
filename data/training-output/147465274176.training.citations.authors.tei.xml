@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Aquino</surname>, <forename>Thomas</forename> <middlename>G</middlename>.</author>
+
+						<author><surname>Aron</surname>, <forename>Ravi</forename></author>
+
+						<author><forename>A</forename>.<middlename>T</middlename>. <surname>Kearney</surname></author>
+
+						<author><surname>Athreye</surname>, <forename>S</forename>.<middlename>S</middlename>.</author>
+
+						<author><surname>Bardhan</surname>, <forename>A</forename>.<middlename>B</middlename>. and <forename>C</forename>. <surname>Kroll</surname></author>
+
+						<author><surname>Beshouri</surname>, <forename>C</forename>. and <forename>D</forename>. <surname>Farrell</surname></author>
+
+						<author><surname>Bhagwati</surname>, <forename>J</forename>., <surname>Panagariya</surname>, <forename>A</forename>. and <surname>Srinivasan</surname>, <forename>S</forename>.<middlename>N</middlename>.</author>
+
+						<author><surname>Blanco</surname>, <forename>T</forename>., <surname>Farrell</surname>, <forename>D</forename>. and <surname>Labaye</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Blinder</surname>, <forename>A</forename>.<middlename>S</middlename>.</author>
+
+						<author><surname>Booz Allen</surname> <forename>Hamilton</forename></author>
+
+						<author><surname>Cermak</surname>, <forename>J</forename>. and <forename>B</forename>. <surname>Dackiw</surname></author>
+
+						<author><surname>Chanda</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Dange</surname>, <forename>A</forename>. and <forename>B</forename>. <surname>Vajpayee</surname></author>
+
+						<author><surname>de Filippo</surname>, <forename>G</forename>., <forename>J</forename>. <surname>Hou</surname> and <forename>C</forename>. <surname>Ip</surname></author>
+
+						<author><surname>DeWoskin</surname>, <forename>Kenneth</forename> <middlename>J</middlename>.</author>
+
+						<author><surname>Drezner</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Engman</surname>, <forename>Michael</forename></author>
+
+						<author><surname>Eisenhauer</surname>, <forename>M</forename>.<middlename>P</middlename>. <surname>Hunton</surname> <forename>&amp;</forename> <surname>Williams</surname>, <forename>Atlanta</forename> <surname>Georgia</surname></author>
+
+						<author><surname>Evalueserve</surname> <forename>–</forename> <surname>NASSCOM</surname></author>
+
+						<author><surname>Gartner</surname></author>
+
+						<author><surname>Hira</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Huang</surname>, <forename>Francis</forename> <middlename>L</middlename>.</author>
+
+						<author><forename>JP</forename> <surname>Morgan</surname></author>
+
+						<author><surname>Kumra</surname>, <forename>G</forename>. and <forename>J</forename>. <surname>Sinha</surname></author>
+
+						<author><surname>Lipana</surname>, <forename>T</forename>.<middlename>H</middlename>. and <surname>Cooper</surname>, <forename>P</forename>.<middlename>R</middlename>.</author>
+
+						<author><surname>Locsin</surname>, <forename>Mitch</forename></author>
+
+						<author><surname>Mann</surname>, <forename>C</forename>.<middlename>L</middlename>.</author>
+
+						<author><surname>Mapa</surname>, <forename>Damian</forename></author>
+
+						<author><surname>Mattoo</surname>, <forename>A</forename>. and <forename>S</forename>. <surname>Wunsch</surname></author>
+
+						<author><surname>McCue</surname>, <forename>Andy</forename></author>
+
+						<author><surname>Ministry</surname> of <forename>Informatics</forename></author>
+
+						<author><forename>TD/TC/</forename><surname>WP</surname></author>
+
+						<author><forename>TD/TC/</forename><surname>WP</surname></author>
+
+						<author><forename>TD/TC/</forename><surname>WP</surname></author>
+
+						<author><forename>TD/TC/</forename><surname>WP</surname></author>
+
+						<author><forename>Outsource2philippines</forename>.com (O2P) and <forename>BPA/P</forename></author>
+
+						<author><surname>Pai</surname>, <forename>A</forename>.<middlename>K</middlename>. and <surname>Basu</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Rodolfo</surname>, <forename>C</forename>.<middlename>S</middlename>.</author>
+
+						<author><surname>Rohlmeier</surname>, <forename>J</forename>. and <forename>T</forename>.<middlename>T</middlename>. <surname>Phan</surname></author>
+
+						<author><surname>Saxenian</surname>, <forename>Annalee</forename></author>
+
+						<author><surname>Suri</surname>, <forename>N</forename>.</author>
+
+						<author><surname>Tschang</surname>, <forename>T</forename>. and <forename>L</forename>. <surname>Xue</surname></author>
+
+						<author><surname>Vandrevala</surname>, <forename>Phiroz</forename></author>
+
+						<author><surname>Vashistha</surname>, <forename>A</forename>., <forename>J</forename>. <surname>Cermak</surname>, <forename>I</forename>. <surname>Radmilovic</surname>, <forename>M</forename>. <surname>Rosinski</surname> and <forename>M</forename>. <surname>Mensik</surname></author>
+
+						<author><surname>Van Welsum</surname>, <forename>D</forename>. and <forename>G</forename>. <surname>Vickery</surname></author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><surname>Zahradnik</surname>, <forename>Jaroslav</forename></author>
+
+						<author><forename>ANNEX</forename> <middlename>B</middlename>. <surname>LIST</surname> OF <surname>INTERVIEWS</surname></author>
+
+						<author><forename>Michael</forename> <surname>Chen from Dalian Software Park; Qian Chen</surname>, <forename>Leo</forename> <surname>Curtis</surname>, <forename>Cory</forename> <middlename>M</middlename>. <surname>Grenier</surname>, <forename>Annie</forename> <surname>Jiang</surname></author>
+
+						<author><forename>Chen</forename> <surname>Chong</surname>, <forename>Gu</forename> <surname>Changjiang</surname></author>
+
+						<author><forename>Hong</forename> <surname>Gang</surname> from <surname>Gartner</surname></author>
+
+						<author><forename>Jiří</forename> <surname>Čermák</surname> from <surname>Baker</surname> <forename>&amp;</forename> <surname>McKenzie</surname></author>
+
+						<author><forename>Robert</forename> <surname>Pinkas</surname> from <surname>Grisoft</surname></author>
+
+						<author><surname>Manolo</surname> <forename>E</forename>. <surname>Aquino</surname> and <forename>Joel</forename> <middlename>A</middlename></author>
+
+						<author><forename>Chang</forename> <surname>Huh from Asian Development Bank</surname>; <surname>Mitch</surname> <forename>L</forename></author>
+
+						<author><forename>Beau</forename> <surname>Rudd</surname> from Global <surname>Sky</surname></author>
+
+						<author><forename>Balasubrahmanyam</forename> <surname>Juturi</surname> and <forename>Badree</forename> <surname>Komandur from Wipro Sanjay Jalona</surname>, <forename>Rajesh</forename> <surname>Khandelwal</surname>, <forename>Nitin</forename> <surname>Kulkarni</surname></author>
+
+						<author><surname>Gold</surname> <forename>&amp;</forename> <surname>silver</surname></author>
+
+						<author><surname>Germany</surname></author>
+
+						<author><surname>Slovakia</surname></author>
+
+						<author><surname>Austria</surname></author>
+
+						<author><surname>France</surname></author>
+
+						<author><surname>Japan</surname></author>
+
+						<author><forename>Hong</forename> <surname>Kong</surname></author>
+
+						<author><forename>China</forename></author>
+
+						<author><surname>Taiwan</surname></author>
+
+						<author><surname>Germany</surname></author>
+
+						<author><surname>Russia</surname></author>
+
+						<author><forename>China</forename></author>
+
+						<author><forename>China</forename></author>
+
+						<author><forename>China</forename></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

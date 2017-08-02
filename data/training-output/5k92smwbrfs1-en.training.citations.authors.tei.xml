@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Afonso</surname>, <forename>A</forename>. and <forename>S</forename>. <surname>Fernandes</surname></author>
+
+						<author><surname>Ahrend</surname>, <forename>R</forename>., <forename>J</forename>. <surname>Arnold</surname> and <forename>C</forename>. <surname>Moeser</surname></author>
+
+						<author><surname>Araújo</surname>, <forename>S</forename>. and <forename>D</forename>. <surname>Sutherland</surname></author>
+
+						<author><surname>Arnold</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Barca</surname>, <forename>F</forename>., <forename>P</forename>. <surname>McCann</surname> and <forename>A</forename>. <surname>Rodríguez-Pose</surname></author>
+
+						<author><surname>Blöchliger</surname>, <forename>H</forename>. and <forename>C</forename>. <surname>Vammalle</surname></author>
+
+						<author><surname>Blöchliger</surname>, <forename>H</forename>. and <forename>J</forename>.<middlename>M</middlename>. <surname>Pinero-Campos</surname></author>
+
+						<author><surname>Boussard</surname> <forename>J</forename>., <forename>F</forename>. <surname>de Castro</surname> and <forename>M</forename>. <surname>Salto</surname></author>
+
+						<author><surname>Brzozowski</surname>, <forename>M</forename>. and <forename>J</forename>. <surname>Siwinska-Gorzelak</surname></author>
+
+						<author><surname>Callan</surname>, <forename>T</forename>., <forename>C</forename>. <surname>Leventi</surname>, <forename>H</forename>. <surname>Levy</surname>, <forename>M</forename>. <surname>Matsaganis</surname>, <forename>A</forename>. <surname>Paulus</surname> and <forename>H</forename>. <surname>Sutherland</surname></author>
+
+						<author><surname>Calmfors</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Calmfors</surname>, <forename>L</forename>. and <forename>S</forename>. <surname>Wren-Lewis</surname></author>
+
+						<author><surname>Celasun</surname>, <forename>O</forename>., <forename>X</forename>. <surname>Debrun</surname> and <forename>J</forename>.<middlename>D</middlename>. <surname>Ostry</surname></author>
+
+						<author><surname>Corsetti</surname>, <forename>G</forename>., <forename>A</forename>. <surname>Meier</surname>, <forename>G</forename>. <surname>Müller</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Debrun</surname>, <forename>X</forename>., <forename>D</forename>. <surname>Hauner</surname> and <forename>M</forename>.<middlename>S</middlename>. <surname>Kumar</surname></author>
+
+						<author><forename>European</forename> <surname>Council</surname></author>
+
+						<author><forename>European</forename> <surname>Council</surname></author>
+
+						<author><surname>Guichard</surname>, <forename>S</forename>., <forename>M</forename>. <surname>Kennedy</surname>, <forename>E</forename>. <surname>Wurzel</surname> and <forename>C</forename>. <surname>André</surname></author>
+
+						<author><surname>Hagemann</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Hauptmeier</surname>, <forename>S</forename>.<middlename>A</middlename>., <forename>J</forename>. <surname>Sanchez-Fuentes</surname> and <forename>L</forename>. <surname>Schuknecht</surname></author>
+
+						<author><forename>Intrum</forename> <surname>Justitia</surname></author>
+
+						<author><surname>Joumard</surname>, <forename>I</forename>. and <forename>P</forename>. <surname>Kongsrud</surname></author>
+
+						<author><surname>Kappeler</surname>, <forename>A</forename>. and <forename>M</forename>. <surname>Nemoz</surname></author>
+
+						<author><surname>Kopits</surname>, <forename>G</forename>.</author>
+
+						<author><surname>Lenain</surname>, <forename>P</forename>., <forename>R</forename>. <surname>Hagemann</surname> and <forename>D</forename>. <surname>Carey</surname></author>
+
+						<author><surname>Marzinetto</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Minstry</surname> of <forename>Economy</forename></author>
+
+						<author><surname>Ministry</surname> of <forename>Finance</forename></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Ministry</surname> of <forename>Finance</forename></author>
+
+						<author><surname>Mizell</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Norregaard</surname>, <forename>J</forename>.</author>
+
+						<author><forename>GOV/PGC/</forename><surname>SBO</surname></author>
+
+						<author><surname>Pettersson-Lidbom</surname>, <forename>P</forename>. and <forename>M</forename>. <surname>Dahlberg</surname></author>
+
+						<author><surname>Pina</surname>, <forename>A</forename>. and <forename>I</forename>. <surname>Abreu</surname></author>
+
+						<author><forename>Portuguese</forename> <surname>Government</surname></author>
+
+						<author><forename>Portuguese</forename> <surname>Government</surname></author>
+
+						<author><surname>Reis</surname>, <forename>R</forename>.<middlename>F</middlename>.</author>
+
+						<author><surname>Schick</surname>, <forename>A</forename>.</author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Silva</surname>, <forename>J</forename>. <surname>da</surname></author>
+
+						<author><surname>Sorbe</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Sutherland</surname>, <forename>D</forename>., <forename>R</forename>. <surname>Price</surname> and <forename>I</forename>. <surname>Joumard</surname></author>
+
+						<author><surname>Sutherland</surname>, <forename>D</forename>., <forename>P</forename>. <surname>Hoeller</surname> and <forename>R</forename>. <surname>Merola</surname></author>
+
+						<author><surname>Veiga</surname>, <forename>L</forename>.<middlename>G</middlename>.</author>
+
+						<author><surname>Veiga</surname>, <forename>L</forename> and <forename>F</forename>. <surname>Veiga</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Beynet</surname>, <forename>P</forename> and <forename>W</forename>. <surname>Leibfritz</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

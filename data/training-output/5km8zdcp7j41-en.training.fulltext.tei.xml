@@ -1,0 +1,529 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+			<head>I. INTRODUCTION<lb/></head>
+
+			<p>In reaction to the 2009 global financial crisis, most industrialised and several emerging<lb/> economies enacted Keynesian-type fiscal packages (from personal income tax cuts and indirect<lb/> taxes reductions, to higher infrastructure spending and transfers to local governments, families,<lb/> and firms) to mitigate the collapse of domestic demand.<lb/> Several Latin American economies faced the international crisis on relatively solid<lb/> domestic macroeconomic grounds, both monetary and fiscal. On the fiscal front, most countries<lb/> in the region displayed higher budget surpluses and lower debt-to-GDP levels, giving them<lb/> apparently unprecedented fiscal margins to pursue sustainable counter-cyclical fiscal policies, of<lb/> a similar size of those in OECD countries (see OECD, 2009b) 1 .<lb/> But, is Latin America&apos;s resilience in 2009 a permanent change in paradigm? The success of<lb/> these counter-cyclical fiscal policy responses in Latin American economies is still unclear, and<lb/> will largely depend on both the size of the programmes actually implemented (generally smaller<lb/> and with greater lags than announced) and their effective impact (opening, once again, the<lb/> debate on multipliers). Besides, at the wake of the international financial crisis there was no<lb/> consensus on the cyclical or structural nature of still recent fiscal improvements<lb/> 2 .<lb/></p>
+
+			<p>Our paper joins the latter debate. In section two we present updated original estimates of<lb/> cyclically-adjusted fiscal balances for a number of Latin American countries: Argentina, Brazil,<lb/> Chile, Colombia, Costa Rica, Mexico, Peru and Uruguay. We track these balances since the early<lb/> nineties to 2009, implementing the standardised OECD methodology (<ref type="biblio">Girouard and André, 2005,<lb/> and Van den Noord, 2000</ref>), but adding the fiscal impact of commodity prices (following basically<lb/> the IMF approach in <ref type="biblio">Vladkova and Zettelmeyer, 2008</ref>). With these estimates, we can then<lb/> measure the size of automatic stabilisation tax policies and the size and cyclicality of discretional<lb/> fiscal policy. These measures are compared with those in OECD countries and used to discuss<lb/></p>
+
+			<p>Hausmann (1008) for Latin America, and <ref type="biblio">Talvi and Vegh (2005), Kaminsky et al. (2006)</ref>, and Ilzetzki and<lb/> <ref type="biblio">Vegh (2008)</ref> for emerging markets in general.<lb/> 2 <ref type="biblio">Izquierdo and Talvi (2008)</ref>, from the Inter-American Development Bank, argued that if revenues from the<lb/> seven largest economies in Latin America countries were adjusted using the implicit Hodrick-Prescott<lb/> filter parameter for Chile (i.e. the smoothing coefficient on revenues that would render a structural<lb/> surplus of one per cent of GDP since 2001), structural fiscal balances in the region, with the exception of<lb/> Chile, did not differ significantly from their situation at the onset of the 1998 Russian crisis. Using a<lb/> different methodological approach, Vladkova-Hollar and <ref type="biblio">Zettelmeyer (2008)</ref>, from the International<lb/> Monetary Fund, observed an improvement in structural balances in most countries, although they<lb/> point out that commodity prices added a significant layer of uncertainty.<lb/> the cyclicality of discretionary fiscal policy in the region, differentiating countries and periods.<lb/> Additionally, based on these numbers we perform standard debt sustainability exercises. The<lb/> third section explains the methodology used to estimate the output gap. We opt for an<lb/> unobserved components model to decompose shocks into permanent, cyclical and transitory.<lb/> Section four concludes, underlining the importance of output gap estimates, the inclusion of<lb/> commodity prices and the consideration of automatic fiscal responses in the design of<lb/> sustainable fiscal policies over the business cycle in the region.<lb/></p>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<table>DEV/DOC(2010)8<lb/> 10<lb/> © OECD 2010<lb/></table>
+
+			<head>II. CYCLICALLY ADJUSTED BUDGET BALANCES IN LATIN AMERICA<lb/> II.1. OECD approach to estimation of cyclically-adjusted fiscal revenues<lb/></head>
+
+			<p>As a starting point, we apply the OECD approach to account for the automatic impact of<lb/> the business cycle on public accounts, as presented in detail by <ref type="biblio">Girouard and Andre (2005)</ref> for<lb/> OECD countries, and De Mello and Moccero (2006) for Brazil. This method computes separately<lb/> the cyclical component of unemployment-related transfers and of public receipts from four types<lb/> of taxes: personal income tax (PIT), social security contributions (SSC), and corporate income tax<lb/> (CIT), and indirect taxes (IT), and of unemployment-related transfers.<lb/> Focusing on public revenues, the cyclical response of tax i to the business cycle (labelled ε<lb/> ti,,y) is calculated as the product of two elasticities: the elasticity of tax receipts to the tax base<lb/> (labelled ε ti,,tbi) and the elasticity of the tax base to the economic cycle (labelled ε tbi,,y):<lb/></p>
+
+				<formula>ε ti,,y = ε ti,,tbi × ε tbi,,y<lb/> (1)<lb/></formula>
+
+			<p>where i covers the four taxes mentioned above (PIT, SSC, CIT or IT) or their respective tax bases<lb/> (wage bill for the first two, corporate profits and consumption).<lb/></p>
+
+			<p>On the expenditure side, the adjustment is usually made at the level of total primary<lb/> spending as time-series data on unemployment-related expenditure are not available across<lb/> countries. <ref type="biblio">Girouard and Andre (2005)</ref> use several OECD instruments, publications and<lb/> databases, especially the Annual National Accounts, the Economic Outlook database, national Labour<lb/> Force Surveys, the Taxing Wages model, and Revenue Statistics. Next, we describe the methodology<lb/> more in depth while explaining the approach we follow for Latin American economies.<lb/></p>
+
+			<head>Personal income tax and social security contributions<lb/></head>
+
+			<p>To calculate the elasticity of income tax and social security contributions with respect to<lb/> the tax base, the marginal and the average tax rates of a representative household are calculated<lb/> for several points in the earnings distribution: from 0.5 to 3.0 times the average production<lb/> worker in each OECD country. A representative household is defined as a full-time, two-earner<lb/> married couple with two children, with the secondary earner receiving 50 per cent of the wage of<lb/> the principal earner. Effective tax rates are computed using the OECD Taxing Wages simulator,<lb/> while the distribution of tax payers across income levels in each country are based on labour<lb/> market statistics (based on median, first and ninth deciles incomes taken from Labour Force<lb/> Surveys). The overall elasticities of both PIT and SSC with respect to the tax base (ε ti,,tbi) are<lb/> calculated as the weighted ratios of marginal and average tax rates:<lb/></p>
+
+				<formula><lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> =<lb/> ∑<lb/> ∑<lb/> =<lb/> =<lb/> n<lb/> i<lb/> i<lb/> i<lb/> n<lb/> i<lb/> i<lb/> i<lb/> i<lb/> tb<lb/> t<lb/> AV<lb/> MA<lb/> i<lb/> 1<lb/> 1<lb/> γ<lb/> γ<lb/> ε<lb/> (2)<lb/></formula>
+
+			<p>where γi is the share of earners i in the income distribution, MAi is the marginal income tax rate<lb/> or social security contribution rate at earning level i, and AVi stands for the corresponding<lb/> average rate.<lb/> Due to the lack of comparable databases and instruments, this procedure poses<lb/> significant challenges when applying them to Latin America. We proxy the distribution of<lb/> potential tax payers using the latest available</p>
+
+			<table>National Household Surveys<lb/> 3 in Argentina<lb/> (referred to 2006), Brazil (2006) 4 , Chile (2006), Colombia (2008), Costa Rica (2006), Mexico (2006),<lb/> Peru (2006), and Uruguay (2005)</table>
+
+			<p>. In particular, we calculate the &apos;adjusted first earner income&apos;<lb/> distribution taking into account household composition (if two earners exist, the first earner is<lb/> assigned two thirds of household income while second earner is assigned the rest). We restrict<lb/> our analysis to labour income (dependent and self-employed workers) 5 , and limit the sample to<lb/> households with at least some labour income<lb/> 6 . Given the high levels of informality and income<lb/> inequality in the region, we analyze an extended income interval, covering from 0.05 times<lb/> average income (i.e. almost from the first peso/sol/real of labour income) to more than six times<lb/> average income.<lb/> <ref type="figure">Figure 1</ref> represents the average adjusted income level and those corresponding to the first<lb/> and ninth deciles, corrected by purchasing power parities. Average annual labour income level<lb/> ranges from 7.700 $ PPP in Peru, to nearly 14.600 $ PPP in Chile. Workers in the ninth decile earn<lb/> more than twice the average in all countries, while low earners vary significantly (in Peru, those<lb/> in the first decile earn 20 times less than the average income, while only five times less in Costa<lb/> Rica).<lb/></p>
+
+			<head>© OECD 2010<lb/></head>
+
+			<p>Focusing on the distribution of labour income earners, the analysis shows a high<lb/> concentration of workers below the average labour income: between 60 and 70 per cent of labour<lb/> income earners earn less than the national average (<ref type="figure">Figure 2</ref>). The Peruvian income distribution<lb/> represents an outlier, given the concentration of income earners at lower levels. This fact has a<lb/> very significant impact on the number of effective tax payers and fiscal revenues.<lb/></p>
+
+			<figure>Figure 1. Adjusted first earner annual labour income<lb/></figure>
+
+			<table>(PPP dollars)<lb/> 0.0<lb/> 3,000.0<lb/> 6,000.0<lb/> 9,000.0<lb/> 12,000.0<lb/> 15,000.0<lb/> 18,000.0<lb/> 21,000.0<lb/> 24,000.0<lb/> 27,000.0<lb/> 30,000.0<lb/> ARG 2006<lb/> BRA 2006<lb/> CHL 2006<lb/> COL 2008<lb/> CRI 2006<lb/> MEX 2006<lb/> PER 2006<lb/> URU 2005<lb/> Decile 1<lb/> Average<lb/> Decile 9<lb/> Source: Authors&apos; calculations based on National Household Surveys<lb/> Figure 2. Labour income distribution in Latin American countries<lb/> (Percentage)<lb/> 0.00<lb/> 1.00<lb/> 2.00<lb/> 3.00<lb/> 4.00<lb/> 5.00<lb/> 6.00<lb/> 7.00<lb/> 8.00<lb/> 9.00<lb/> 0.05<lb/> 0.55<lb/> 1.05<lb/> 1.55<lb/> 2.05<lb/> 2.55<lb/> 3.05<lb/> 3.55<lb/> 4.05<lb/> 4.55<lb/> 5.05<lb/> 5.55<lb/> Over 6<lb/> ARG<lb/> BRA<lb/> CHL<lb/> COL<lb/> CRI<lb/> MEX<lb/> PER<lb/> URU<lb/> Note: Percentage of people by household labour income level. 1 represents the national average<lb/> Source: Authors&apos; calculations based on National Household Surveys<lb/></table>
+
+			<p>These national labour income distributions provide the weighs (γi) to compute the overall<lb/> average and marginal personal income and social security tax rates. We calculate the effective tax<lb/> burden for representative households, assuming they only differ in their income level (from 0.05<lb/> to more than 6 times the national average)<lb/> 7 . Chilean and Uruguayan figures were provided by<lb/> the respective Ministries of Finance, while Mexican rates were calculating using the OECD<lb/> Taxing Wages simulator. For other countries, we calculated the fiscal figures based on the<lb/> legislation in place during the corresponding fiscal year.<lb/> Calculations are referred to 2006, because several of the household surveys available are<lb/> from that year, and as it corresponds to a relatively neutral year in cyclical terms (in the case of<lb/> Colombia, we deflated the data referred to 2008 with the national CPI). The only exception is<lb/> Uruguay, in which we updated survey figures with observed CPI up to 2009 to incorporate the<lb/> new personal income tax established in 2008. In those cases where fiscal legislation allows<lb/> individual and household declaration, we chose the one more beneficial to tax payers, including<lb/> allowances for both espouse and children, if existing<lb/> 8 . <ref type="figure">Figures</ref> 3 and 4 show the effective<lb/> marginal and average personal income tax rates by income levels.<lb/> Figure 3. Marginal personal income tax by income levels<lb/> (Percentage)<lb/> 0.00<lb/> 5.00<lb/> 10.00<lb/> 15.00<lb/> 20.00<lb/> 25.00<lb/> 30.00<lb/> 35.00<lb/> 40.00<lb/> 45.00<lb/> 0.1<lb/> 0.6<lb/> 1.1<lb/> 1.6<lb/> 2.1<lb/> 2.6<lb/> 3.1<lb/> 3.6<lb/> 4.1<lb/> 4.6<lb/> 5.1<lb/> 5.6<lb/> ARG<lb/> CHL<lb/> COL<lb/> CRI<lb/> MEX<lb/> PER<lb/> URU<lb/> Note: Marginal tax rate by household labour income level. 1 represents the national average<lb/> Source: Authors&apos; calculations based on OECD Taxing Wages (Mexico), Ministries of Finance (Chile and<lb/> Uruguay) and own elaboration (Argentina, Colombia, Costa Rica and Peru)<lb/> 7 To be precise, we liquidate these two taxes for 121 levels of income (so i =1…121). We grouped all<lb/> households that earn more than six times the national average (this last bracket earns between eight<lb/> times the average in Uruguay, to 11 times in Chile).<lb/> 8 Tax declarations are at the individual level in Chile, Colombia, Peru and Uruguay, and by households in<lb/> Argentina, Costa Rica and Mexico. Argentina and Mexico figures incorporate spouse and children<lb/> allowances. Brazilian figures, taken from De Mello and Moccero <ref type="biblio">(2006)</ref>, are on an individual basis.<lb/> Therefore, we fix both income distribution and tax legislation, as stated in the OECD methodology. As a<lb/> future extension, we plan to test the effects on tax elasticities of changes in the tax code, and of<lb/> variations of income distribution.<lb/></p>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<table>DEV/DOC(2010)8<lb/> 14<lb/> © OECD 2010<lb/></table>
+
+			<p>As shown in <ref type="figure">Figure 4</ref>, the personal income tax in all these Latin American countries is<lb/> formally progressive, since average tax rates increase with income levels. Second, with the<lb/> exception of Mexico (due to the interaction of exempted income, individual declarations and tax<lb/> credits), labour income earners are net payers of the PIT starting at levels ranging from the<lb/> average income in Chile to three times the average income in Colombia. Together with<lb/> informality, these high levels imply that only a small share of households with labour income is a<lb/> net PIT payer.<lb/></p>
+
+			<figure>Figure 4. Average personal income tax by income levels<lb/> (Percentage)<lb/></figure>
+
+			<table>0.00<lb/> 5.00<lb/> 10.00<lb/> 15.00<lb/> 20.00<lb/> 25.00<lb/> 30.00<lb/> 0 . 1<lb/> 0 . 6<lb/> 1 . 1<lb/> 1 . 6<lb/> 2 . 1<lb/> 2 . 6<lb/> 3 . 1<lb/> 3 . 6<lb/> 4 . 1<lb/> 4 . 6<lb/> 5 . 1<lb/> 5 . 6<lb/> ARG<lb/> CHL<lb/> COL<lb/> CRI<lb/> MEX<lb/> PER<lb/> URU<lb/> Note: Average tax rate by household labour income level. 1 represents the national average<lb/> Source: Authors&apos; calculations based on OECD Taxing Wages (Mexico), Ministries of Finance (Chile and<lb/> Uruguay) and own elaboration (Argentina, Colombia, Costa Rica and Peru)<lb/></table>
+
+			<p>By contrast, as shown in <ref type="figure">Figure 5</ref>, social security contributions tend to be flat taxes, or<lb/> even slightly regressive given the existence of minimum contributions in Mexico. Chile and<lb/> Mexico are the only two countries with a fully privatised pension system, where social<lb/> contributions mainly finance health benefits<lb/> 9 .<lb/></p>
+
+			<p>As defined in equation (2), the wage elasticity of PIT and SSC is calculated as the ratio<lb/> between the weighted marginal tax rate, and the weighted average tax rate (included in fifth and<lb/> sixth columns in <ref type="table">Table 1</ref>). With the exception of Mexico, PIT elasticities are between 2.5 and 3.3.<lb/> These levels are higher than those observed in OECD countries, and slightly lower than the 3.4<lb/> found for Brazil in De Mello and Moccero (2006). In other words, formal progressivity of the PIT<lb/> is higher in Latin America. On the other hand, SSC elasticities are very much in line with OECD<lb/> estimates, except Mexico and Colombia, where they are significantly lower.<lb/></p>
+
+			<figure>Figure 5. Average social security contributions by income levels<lb/> (Percentage)<lb/></figure>
+
+			<table>0.00<lb/> 5.00<lb/> 10.00<lb/> 15.00<lb/> 20.00<lb/> 25.00<lb/> 30.00<lb/> 35.00<lb/> 40.00<lb/> 45.00<lb/> 0 . 1<lb/> 0 . 6<lb/> 1 . 1<lb/> 1 . 6<lb/> 2 . 1<lb/> 2 . 6<lb/> 3 . 1<lb/> 3 . 6<lb/> 4 . 1<lb/> 4 . 6<lb/> 5 . 1<lb/> 5 . 6<lb/> ARG<lb/> CHL<lb/> COL<lb/> CRI<lb/> MEX<lb/> PER<lb/> URU<lb/> Note: Average tax rate by household labour income level. 1 represents the national average<lb/> Source: Authors&apos; calculations based on OECD Taxing Wages (Mexico), Ministries of Finance (Chile and<lb/> Uruguay) and own elaboration (Argentina, Colombia, Costa Rica and Peru)<lb/></table>
+
+			<p>To calculate the overall elasticities, the second step involves the econometric estimation of<lb/> the sensitivity of the relevant tax bases with respect to the output gap (ε tbi,,y). As in <ref type="biblio">Girouard and<lb/> André (2005)</ref>, the cyclical sensitivity of the wage base (PIT and SSC tax base) has been estimated<lb/> using an equation that links directly the cyclical component of the wage bill to the output gap.<lb/> We regress the share of the real wage bill in potential GDP (constructed with active population<lb/> from the Penn World tables, and unemployment and urban workers wages from ECLAC) on the<lb/> output gap (estimated using unobserved components model on real chained GDP series from<lb/> Penn World tables as described in section III) and a constant, in logs with annual data from 1981<lb/> to 2007 (see details in Annex).<lb/></p>
+
+				<formula>t<lb/> t<lb/> t<lb/> y<lb/> twl<lb/> t<lb/> t<lb/> t<lb/> Y<lb/> Y<lb/> Y<lb/> L<lb/> W<lb/> t<lb/> t<lb/> µ<lb/> ε<lb/> α<lb/> +<lb/> ∆<lb/> ×<lb/> +<lb/> =<lb/> ∆<lb/> )<lb/> /<lb/> ln(<lb/> )<lb/> /<lb/> ln(<lb/> *<lb/> ,<lb/> *<lb/> (3)<lb/></formula>
+
+			<p>The estimated responsiveness of the wage bill for Uruguay, Colombia (taken from<lb/> <ref type="biblio">Lozano and Toro, 2007</ref>) and Argentina (around 1.0) are slightly above the OECD average (0.7<lb/> according to <ref type="biblio">Girouard and Andre, 2005</ref>), and Brazil (0.8 reported by De <ref type="biblio">Mello and Moccero,<lb/> 2006</ref>), while elasticities for the rest are significantly above previous estimates (up to 2.0 in Peru).<lb/> Details on the estimations are also included in the Annex.<lb/></p>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<table>DEV/DOC(2010)8<lb/> © OECD 2010<lb/> Table 1<lb/> Marginal and Average Tax Rates<lb/> PIT<lb/> SSC<lb/> PIT<lb/> SSC<lb/> PIT<lb/> SSC<lb/></table>
+
+			<figure>Argentina<lb/> 2.9<lb/> 39.3<lb/> 0.9<lb/> 40.0<lb/> 3.3<lb/> 1.0<lb/> Brazil<lb/> ---<lb/>---<lb/>---<lb/>---<lb/>3.4<lb/> 1.8<lb/> Chile<lb/> 1.7<lb/> 6.9<lb/> 0.7<lb/> 7.5<lb/> 2.5<lb/> 0.9<lb/> Colombia<lb/> 0.9<lb/> 5.7<lb/> 0.3<lb/> 10.9<lb/> 2.5<lb/> 0.5<lb/> Costa Rica<lb/> 3.4<lb/> 34.3<lb/> 1.3<lb/> 35.0<lb/> 2.6<lb/> 1.0<lb/> Mexico<lb/> 13.7<lb/> 8.8<lb/> 7.0<lb/> 17.5<lb/> 2.0<lb/> 0.5<lb/> Peru<lb/> 1.1<lb/> 22.6<lb/> 0.4<lb/> 23.3<lb/> 2.7<lb/> 1.0<lb/> Uruguay<lb/> 1.6<lb/> 20.0<lb/> 0.5<lb/> 19.0<lb/> 3.2<lb/> 1.1<lb/> Canada<lb/></figure>
+
+			<table>28.6<lb/> 7.8<lb/> 18.3<lb/> 9.7<lb/> 1.6<lb/> 0.8<lb/> France<lb/> 13.9<lb/> 34.9<lb/> 8.2<lb/> 30.7<lb/> 1.7<lb/> 1.1<lb/> Germany<lb/> 26.2<lb/> 23.9<lb/> 11.4<lb/> 31.1<lb/> 2.3<lb/> 0.8<lb/> Italy<lb/> 26.3<lb/> 26.5<lb/> 13.2<lb/> 27.6<lb/> 2.0<lb/> 1.0<lb/> Japan<lb/> 9.6<lb/> 18.7<lb/> 4.9<lb/> 20.5<lb/> 1.9<lb/> 0.9<lb/> Korea<lb/> 8.5<lb/> 11.2<lb/> 3.6<lb/> 13.1<lb/> 2.3<lb/> 0.9<lb/> Spain<lb/> 20.2<lb/> 18.3<lb/> 9.5<lb/> 24.1<lb/> 2.1<lb/> 0.8<lb/> United Kingdom<lb/> 22.8<lb/> 13.6<lb/> 13.5<lb/> 10.4<lb/> 1.7<lb/> 1.3<lb/> United States<lb/> 19.1<lb/> 11.6<lb/> 10.3<lb/> 12.8<lb/> 1.9<lb/> 0.9<lb/> OECD<lb/> 21.8<lb/> 19.0<lb/> 12.7<lb/> 18.8<lb/> 1.7<lb/> 1.0<lb/> Marginal tax rate<lb/> Real wage elasticity of<lb/> X<lb/> Z = X / Y<lb/> Average tax rate<lb/> Y<lb/> Notes: Marginal and average rates are weighted by the distribution of tax payers across income levels. OECD<lb/> unweighted average, excluding Chile and Mexico<lb/> Source: Authors&apos; calculations for Argentina, Chile, Colombia, Costa Rica, Mexico, Peru and Uruguay, de Mello<lb/> and Moccero (2006) for Brazil, and Girouard and André (2005) for the rest<lb/></table>
+
+			<p>Finally, we multiply both elasticities to obtain the overall tax elasticities. <ref type="table">Table 2</ref> collects<lb/> the output elasticity of PIT and SSC in our selected Latin American countries, compared to those<lb/> in selected OECD economies and Brazil. Given the higher elasticities of the wage bill to output<lb/> gap, output elasticities of PIT are much larger in Latin America than those observed in OECD<lb/> countries (3.5 on average vs. 1.2), and less in the case of SSC elasticities (1.2 on average vs. 0.7).<lb/></p>
+
+			<head>Corporate income tax<lb/></head>
+
+			<p>Concerning corporate taxes, we strictly apply the OECD methodology. Therefore, the<lb/> cyclical sensitivity of the corporate tax base (proxied by corporate profits) is also a function of the<lb/> elasticity of the wage bill relative to the output.<lb/></p>
+
+				<formula>ε CIT,,y = (1-(1-PS) ε wl,,y )PS<lb/> (4)<lb/></formula>
+
+			<p>where PS is the profit share in output proxied by the ratio of the gross operating surplus over<lb/> GDP, and ε wl,,y is the elasticity of the wage bill to the output gap. Profit shares over GDP are<lb/> taken from OECD Annual National Accounts in the case of Chile, from the national central banks<lb/> in Costa Rica and Uruguay, and from national statistics institutes in Argentina (INDEC),<lb/> Colombia (DANE), Mexico (INEGI) and Peru (INEI). As shown in <ref type="table">Table 3</ref>, output elasticities of<lb/> CIT vary from 0.3 in Costa Rica to 1.2 in Uruguay, therefore lower than in OECD countries.<lb/></p>
+
+			<table>Table 2<lb/> Elasticities of Personal Income Tax and Social Security Contributions<lb/> Output elasticity<lb/> PIT<lb/> SSC<lb/> of wages<lb/> PIT<lb/> SSC<lb/> B<lb/> Argentina<lb/> 3.3<lb/> 1.0<lb/> 1.1<lb/> 3.6<lb/> 1.1<lb/> Brazil<lb/> 3.4<lb/> 1.8<lb/> 0.8<lb/> 2.7<lb/> 1.4<lb/> Chile<lb/> 2.5<lb/> 0.9<lb/> 1.4<lb/> 3.5<lb/> 1.3<lb/> Colombia<lb/> 2.5<lb/> 0.5<lb/> 1.1<lb/> 2.6<lb/> 0.6<lb/> Costa Rica<lb/> 2.6<lb/> 1.0<lb/> 1.7<lb/> 4.5<lb/> 1.7<lb/> Mexico<lb/> 2.0<lb/> 0.5<lb/> 1.5<lb/> 3.0<lb/> 0.8<lb/> Peru<lb/> 2.7<lb/> 1.0<lb/> 2.0<lb/> 5.3<lb/> 1.9<lb/> Uruguay<lb/> 3.2<lb/> 1.1<lb/> 0.9<lb/> 2.8<lb/> 0.9<lb/> Canada<lb/> 1.6<lb/> 0.8<lb/> 0.7<lb/> 1.1<lb/> 0.6<lb/> France<lb/> 1.7<lb/> 1.1<lb/> 0.7<lb/> 1.2<lb/> 0.8<lb/> Germany<lb/> 2.3<lb/> 0.8<lb/> 0.7<lb/> 1.6<lb/> 0.6<lb/> Italy<lb/> 2.0<lb/> 1.0<lb/> 0.9<lb/> 1.8<lb/> 0.9<lb/> Japan<lb/> 1.9<lb/> 0.9<lb/> 0.6<lb/> 1.2<lb/> 0.5<lb/> Korea<lb/> 2.3<lb/> 0.9<lb/> 0.6<lb/> 1.4<lb/> 0.5<lb/> Spain<lb/> 2.1<lb/> 0.8<lb/> 0.9<lb/> 1.9<lb/> 0.7<lb/> United Kingdom<lb/> 1.7<lb/> 1.3<lb/> 0.7<lb/> 1.2<lb/> 0.9<lb/> United States<lb/> 1.9<lb/> 0.9<lb/> 0.7<lb/> 1.3<lb/> 0.6<lb/> OECD<lb/> 1.7<lb/> 1.0<lb/> 0.7<lb/> 1.2<lb/> 0.7<lb/> Output elasticity of<lb/> Real wage elasticity of<lb/> A<lb/> C = A X B<lb/> Notes: Change in tax revenues as a per cent of GDP for a 1 percentage-point change in the output gap. Based<lb/> on weights for 2003 for OECD, and 2005-2006 in Latin America. OECD unweighted average, excluding Chile<lb/> and Mexico.<lb/> Source: Authors&apos; calculations for Argentina, Chile, Costa Rica, Mexico, Peru and Uruguay, de Mello and<lb/> Moccero (2006) for Brazil, and Girouard and André (2005) for the rest. Output elasticity of wages in Colombia<lb/> is taken from Lozano and Toro (2007).<lb/> Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/> © OECD 2010<lb/> Table 3<lb/> Elasticities of Corporate Income Tax<lb/> Profits elasticity Profit share Output elasticity<lb/> Output elasticity<lb/> Output elasticity of<lb/> of CIT<lb/> in GDP<lb/> of wages<lb/> of profits<lb/> of CIT<lb/> A<lb/> B<lb/> C<lb/> E = (1 -(1 -B) C) / B<lb/> F = A x E<lb/></table>
+
+			<figure>Argentina<lb/> 1.0<lb/> 0.38<lb/> 1.1<lb/> 0.8<lb/> 0.8<lb/> Brazil<lb/> 1.0<lb/> 0.54<lb/> 0.8<lb/> 1.2<lb/> 1.2<lb/> Chile<lb/> 1.0<lb/> 0.54<lb/> 1.4<lb/> 0.7<lb/> 0.7<lb/> Colombia<lb/> 1.0<lb/> 0.59<lb/> 1.1<lb/> 1.0<lb/> 1.0<lb/> Costa Rica<lb/> 1.0<lb/> 0.49<lb/> 1.7<lb/> 0.3<lb/> 0.3<lb/> Mexico<lb/> 1.0<lb/> 0.62<lb/> 1.5<lb/> 0.7<lb/> 0.7<lb/> Peru<lb/> 1.0<lb/> 0.62<lb/> 2.0<lb/> 0.4<lb/> 0.4<lb/> Uruguay<lb/> 1.0<lb/> 0.36<lb/> 0.9<lb/> 1.2<lb/> 1.2<lb/></figure>
+
+			<table>Canada<lb/> 1.0<lb/> 0.35<lb/> 0.7<lb/> 1.5<lb/> 1.5<lb/> France<lb/> 1.0<lb/> 0.34<lb/> 0.7<lb/> 1.6<lb/> 1.6<lb/> Germany<lb/> 1.0<lb/> 0.36<lb/> 0.7<lb/> 1.5<lb/> 1.5<lb/> Italy<lb/> 1.0<lb/> 0.45<lb/> 0.9<lb/> 1.1<lb/> 1.1<lb/> Japan<lb/> 1.0<lb/> 0.38<lb/> 0.6<lb/> 1.6<lb/> 1.6<lb/> Korea<lb/> 1.0<lb/> 0.43<lb/> 0.6<lb/> 1.5<lb/> 1.5<lb/> Spain<lb/> 1.0<lb/> 0.40<lb/> 0.9<lb/> 1.2<lb/> 1.2<lb/> United Kingdom<lb/> 1.0<lb/> 0.31<lb/> 0.7<lb/> 1.7<lb/> 1.7<lb/> United States<lb/> 1.0<lb/> 0.36<lb/> 0.7<lb/> 1.5<lb/> 1.5<lb/> OECD<lb/> 1.0<lb/> 0.39<lb/> 0.7<lb/> 1.5<lb/> 1.5<lb/> Notes: Change in tax revenues as a per cent of GDP for a 1 percentage-point change in the output gap. Based<lb/> on weights for 2003 for OECD, and 2005-2006 in Latin America. OECD unweighted average, excluding Chile<lb/> and Mexico<lb/> Source: Authors&apos; calculations for Argentina, Chile, Costa Rica, Mexico, Peru and Uruguay, de Mello and<lb/> Moccero (2006) for Brazil, and Girouard and André (2005) for the rest. Output elasticity of wages in Colombia<lb/> is taken from Lozano and Toro (2007)<lb/></table>
+
+			<head>Other revenues, expenditures and overall balance<lb/></head>
+
+			<p>The output elasticity of the indirect tax base with respect to the economic cycle is set to<lb/> unity for all countries, as in <ref type="biblio">Girouard and André (2005)</ref>. Finally, due to the lack of data and given<lb/> the absence of unemployment benefits in many countries in the region, we suppose that current<lb/> expenditures do not respond automatically to the cycle at all.<lb/></p>
+
+			<p>The cyclical budget response, as a share of GDP, can be expressed as the weighted sum of<lb/> the four different tax revenues elasticities (based on the tax structure in 2006; see Table A.1 in the<lb/> Annex). According to our calculations, the sensitivity (semi elasticity in GDP percentage points)<lb/> of government budget balances to a 1 percentage point change in the output gap is 0.21<lb/> (unweighted average of the six Latin American economies), ranging from 0.12 in Mexico and 0.14<lb/> in Colombia, to 0.24 in Argentina and Uruguay, 0.25 in Brazil (De <ref type="biblio">Mello and Moccero, 2006</ref>), and<lb/> 0.26 in Costa Rica. This regional average is almost half the OECD average, and is explained by<lb/> significantly lower automatic stabilisation from PIT (<ref type="figure">Figure 6</ref>).<lb/></p>
+
+			<figure>Figure 6. Tax semi-elasticities to output<lb/> (Percentage points of GDP)<lb/> 0.0<lb/> 0.1<lb/> 0.2<lb/> 0.3<lb/> 0.4<lb/> 0.</figure>
+
+			<table>5<lb/> CRI<lb/> ARG<lb/> BRA<lb/> URU<lb/> PER<lb/> CHL<lb/> COL<lb/> MEX<lb/> SPA<lb/> US<lb/> KOR<lb/> OECD<lb/> Indirect taxes<lb/> Corporate Income Tax<lb/> Social Security Contributions<lb/> Personal Income Tax<lb/> Note: OECD unweighted average, excluding Chile and Mexico<lb/> Source: Authors&apos; calculations for Argentina, Chile, Colombia, Costa Rica, Mexico, Peru and Uruguay, de<lb/> Mello and Moccero (2006) for Brazil, and Girouard and André (2005) for the rest<lb/></table>
+
+			<p>These estimates of the cyclical response of budget balance are positively correlated with<lb/> the size of the government, as stated in the literature on fiscal macroeconomic stability in<lb/> industrialised economies (see for instance Gali, 1994 and Fatas and <ref type="biblio">Mihov, 2001</ref>). Nonetheless, as<lb/> shown in <ref type="figure">Figure 7</ref>, some of the biggest economies in Latin America (notably Brazil, Colombia<lb/> and Mexico) deviate significantly from their &quot; expected &quot; trends as automatic stabilisers are<lb/> significantly lower than the government size (in part due to the high non-tax revenues).<lb/></p>
+
+			<figure>Figure 7. Government size and tax automatic stabilisers in OECD and Latin America<lb/> (Percentage points of GDP)<lb/> 0.00<lb/> 0.10<lb/> 0.20<lb/> 0.30<lb/> 0.40<lb/> 0.50<lb/> 0.60<lb/> 0.10<lb/> 0.15<lb/> 0.20<lb/> 0.25<lb/> 0.30<lb/> 0.35<lb/> 0.40<lb/> 0.45<lb/> 0.50<lb/> 0.55<lb/> 0.60<lb/> Tax elasticity to output<lb/> Expenditure over GDP<lb/> MEX<lb/> COL<lb/> PER<lb/> CHL<lb/> CRI<lb/> ARG<lb/> BRA<lb/> URY<lb/> Source: Authors&apos; calculations for Argentina, Chile, Colombia, Costa Rica, Mexico, Peru and Uruguay, de<lb/> Mello and Moccero (2006) for Brazil, and Girouard and André (2005) for the rest.<lb/></figure>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<figure>DEV/DOC(2010)8<lb/> 20<lb/> © OECD 2010<lb/></figure>
+
+			<head>II.2. Adjustment of tax and non-tax revenues for commodity prices<lb/></head>
+
+			<p>A special feature of several Latin American countries is the importance of commodity<lb/> prices for its fiscal accounts, whether it is due to a significant share of taxation linked to rents in<lb/> natural resource extraction, or the utilities of state-owned enterprises in these sectors. Not only<lb/> are commodity-linked revenues important as a source of revenue, but they also tend to be very<lb/> volatile, primarily due to large fluctuations in prices. Therefore, they are also relevant for fiscal<lb/> sustainability and macroeconomic stability (<ref type="biblio">Avendaño et al., 2008</ref>)<lb/> 10 .<lb/></p>
+
+			<figure>Figure 8 shows copper revenues as a share of GDP in Chile from 1990 to 2009. Copper<lb/> revenues during this period have risen from less than 0.5 per cent of GDP in 1999 up to more<lb/> than 12 per cent of GDP in 2006. Compared with total revenues, these revenues are more than<lb/> five times more volatile (copper revenues have a coefficient of variation of 1.01 versus 0.18 for<lb/> total revenues). Thus, it is necessary to separate this source of income in countries where<lb/> commodities are important for fiscal revenues and perform a special adjustment for commodity<lb/> price fluctuations.<lb/> Figure 8. Copper revenues as share of GDP and the price of copper<lb/> (US dollars cents/pound)<lb/> 0%<lb/> 2%<lb/> 4%<lb/> 6%<lb/> 8%<lb/> 10%<lb/> 12%<lb/> 14%<lb/> 0<lb/> 50<lb/> 100<lb/> 150<lb/> 200<lb/> 250<lb/> 300<lb/> 350<lb/> <ref type="biblio">1990 1991 1992 1993 1994 1995 1996 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 2007</ref> 2008 2009<lb/> US$ cents per pound (lhs)<lb/> Copper-related Revenues/GDP (rhs)<lb/> Source: Authors&apos; calculations based on DIPRES and COCHILCO data<lb/> 10 These authors show that the macroeconomic response to the latest Asian-driven commodity boom of<lb/> exporting countries in Africa and Latin America has been fairly positive. In contrast to the nineties,<lb/> during 2000-2005 African commodity-exporters have shown a more counter-cyclical fiscal stance,<lb/> displaying various positive macroeconomic developments (notably, reserves accumulation, exports<lb/> diversification, and improved credit profile). Results are more modest in Latin America.<lb/> Unfortunately, the OECD methodology is silent regarding this issue.<lb/> 11 Therefore, we<lb/> follow a similar methodology to the Chilean fiscal rule (see Marcel et al., 2001 and Rodríguez et<lb/> al., 2007) and recent IMF work on this topic in Latin America and the Caribbean (e.g. Vladkova-<lb/>Hollar and Zettelmeyer, 2008). The adjustment is made for Argentina, Chile, Mexico and Peru. 12<lb/></table>
+
+			<p>In Argentina, we consider export taxes on agricultural goods introduced in 2002. For Chile, we<lb/> consider revenues transferred to the central government from the public copper company<lb/> (CODELCO) and revenues from specific taxes on private mining firms. 13 In the case of Mexico,<lb/> we use international oil price data to adjust the value of transfers from the public oil firm<lb/> (PEMEX) to the federal government, royalties and revenues of specific taxes on oil and petrol<lb/> derivatives. It is important to point out that there are differences – due to data availability<lb/> restrictions – between how we treat public enterprises in the commodity sector for Chile and<lb/> Mexico. While for Chile we consider the general government, which implies that we do consider<lb/> only the transfers and income taxes paid by CODELCO, for Mexico we used the non-financial<lb/> public sector. Finally, in the case of Peru, we consider royalties and income taxes of the mining<lb/> and fishing industries, adjusted by a weighted average (according to their share in revenues) of<lb/> international copper, gold and fishmeal prices. In Annex A.3 we present more details on the<lb/> series and data sources.<lb/></p>
+
+			<p>In terms of the adjustment, we first separate revenues (tax and non-tax) into revenues<lb/> related to commodities and non-commodity revenues. The latter are adjusted as indicated in the<lb/> section II.1 by the business cycle. For commodity-related revenues, we proceed as follows.<lb/> Considering a spot price of p and a long-run price of the relevant commodity price p * , structural<lb/> commodity-linked revenues at time t are given by:<lb/></p>
+
+				<formula>γ<lb/>  <lb/> <lb/> <lb/>  <lb/> <lb/> <lb/> =<lb/> t<lb/> t<lb/> c<lb/> t<lb/> c<lb/> t<lb/> s<lb/> p<lb/> p<lb/> R<lb/> R<lb/> *<lb/> ,<lb/> .<lb/> (5)<lb/></formula>
+
+			<p>As <ref type="biblio">Marcel et al. (2001)</ref> and Vladkova-Hollar and Zettelmeyer (2008), we consider a<lb/> unitary elasticity, such that γ = 1. For p * , we considered four different options, depending on<lb/> available information: future prices, five-year-ahead forecasts, a 10-year moving average or a<lb/> reference price set by a panel of experts (the case of copper in Chile). As shown in <ref type="figure">Figure 9</ref> for<lb/> the case of copper, a 10-year moving average coincides roughly with the forecasts of the experts&apos;<lb/> panel, with the exception of 2009. For the latest year, it seems that experts consider a larger<lb/> fraction of the recent rise in copper prices to be persistent. We discard future markets, as they<lb/> 11 For Norway, OECD exercises are carried out using Norway-mainland fiscal and national accounts that<lb/> exclude the oil and natural gas sector in a consistent way. There is no such information available for<lb/> Mexico or Chile.<lb/> 12 Commodity prices are also important in the other countries studied here, but their impact on the fiscal<lb/> accounts is mainly through the business cycle rather than an autonomous effect for these economies.<lb/> For the case of Colombia, it is important to point out that energy and mining related revenues represent<lb/> close to 1 per cent of GDP, but are expected to play an important role in the near future (see Comité<lb/> <ref type="biblio">Técnico Interinstitucional, 2010</ref>).<lb/> 13 Although other metals like molybdenum, gold and silver are also produced in Chile, copper remains by far<lb/> the most important source of revenues.<lb/></p>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<figure>DEV/DOC(2010)8<lb/> 22<lb/> © OECD 2010<lb/></figure>
+
+			<p>prove to be relatively small and shallow (probably with the exception of oil futures), and prices<lb/> tend to be very volatile. In what follows, we report our results based on the 10-year moving<lb/> average price. Commodity revenues are not separately adjusted by the output gap, given that<lb/> commodity prices are already significantly linked to the business cycle.<lb/></p>
+
+			<figure>Figure 9. Copper prices (US dollars cents/pound)<lb/> 0<lb/> 50<lb/> 100<lb/> 150<lb/> 200<lb/> 250<lb/> 300<lb/> 350<lb/></figure>
+
+				<formula>s<lb/> c<lb/> i<lb/> y<lb/> t<lb/> i<lb/> R<lb/> Y<lb/> X<lb/> G<lb/> Y<lb/> Y<lb/> T<lb/> b<lb/> i<lb/> +<lb/> +<lb/> −<lb/> <lb/> <lb/> <lb/> <lb/> <lb/> <lb/> =<lb/> ∑<lb/> =<lb/> *<lb/> 4<lb/> 1<lb/> ,<lb/> *<lb/> *<lb/> )<lb/> /<lb/> (<lb/> ε<lb/> (6)<lb/></formula>
+
+			<p>where G are current primary government expenditures, the expression in parenthesis is<lb/> the cyclically-adjusted receipts from taxes excluding those directly related to commodities, X are<lb/> non-tax revenues not related to commodities minus capital and net interest spending, Y * is the<lb/> level of potential output, and Rc s are the structural revenues related to commodities from<lb/> equation (5).<lb/></p>
+
+			<table>Table 4. Commodity-linked revenues<lb/> Argentina Chile<lb/> Mexico<lb/> Peru<lb/> as percentage of GDP (1)<lb/> 1998<lb/> 0.0<lb/> 0.5<lb/> 6.1<lb/> 2.1<lb/> 2003<lb/> 2.5<lb/> 1.3<lb/> 7.4<lb/> 2.5<lb/> 2007<lb/> 2.5<lb/> 11.2<lb/> 7.9<lb/> 5.0<lb/> 2009<lb/> 2.9<lb/> 3.4<lb/> 7.4<lb/> 3.8<lb/> as percentage of total revenues (2)<lb/> 1998<lb/> 0.0<lb/> 2.1<lb/> 29.8<lb/> 11.1<lb/> 2003<lb/> 10.3<lb/> 5.7<lb/> 33.3<lb/> 14.0<lb/> 2007<lb/> 8.6<lb/> 37.9<lb/> 35.4<lb/> 23.7<lb/> 2009<lb/> 9.0<lb/> 11.4<lb/> 31.0<lb/> 18.2<lb/> Structural commodity revenues (per cent of GDP) (3)<lb/> 1998<lb/> 0.0<lb/> 0.7<lb/> 9.9<lb/> 3.4<lb/> 2003<lb/> 2.3<lb/> 1.5<lb/> 5.7<lb/> 2.3<lb/> 2007<lb/> 1.5<lb/> 4.0<lb/> 3.9<lb/> 2.5<lb/> 2009<lb/> 2.1<lb/> 2.3<lb/> 5.9<lb/> 2.6<lb/> Difference (3) -(1)<lb/> 1998<lb/> 0.0<lb/> 0.2<lb/> 3.8<lb/> 1.3<lb/> 2003<lb/> -0.1<lb/> 0.2<lb/> -1.7<lb/> -0.2<lb/> 2007<lb/> -1.0<lb/> -7.2<lb/> -4.0<lb/> -2.5<lb/> 2009<lb/> -0.8<lb/> -1.0<lb/> -1.5<lb/> -1.2<lb/> Source: Authors&apos; calculations based on national sources, IMF and ECLAC-ILPES and IDB data<lb/> <ref type="figure">Figure 10</ref> shows the evolution of the primary budget balance (excluding interests) in the<lb/> selected Latin American economies, the estimated impact of the economic cycle on revenues<lb/> (automatic stabilisation) with the price of commodities (for Argentina, Chile, Mexico and Peru),<lb/> and the resulting &quot; adjusted primary balance &quot; .<lb/></p>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<figure>DEV/DOC(2010)8<lb/> 24<lb/> © OECD 2010<lb/> Figure 10. Adjusted primary budget balance<lb/> (Percentage points of GDP)<lb/> Argentina<lb/> Brazil<lb/> Chile<lb/> Colombia<lb/> Costa Rica<lb/> Mexico<lb/> Peru<lb/> Uruguay<lb/> -6.00<lb/> -4.00<lb/> -2.00<lb/> 0.00<lb/> 2.00<lb/> 4.00<lb/> 6.00<lb/> 8.00<lb/> 10.00<lb/> 12.00<lb/> <ref type="biblio">1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/></ref> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> 2008<lb/> 2009<lb/> Cyclical<lb/> Commodity related<lb/> Observed<lb/> Adjusted<lb/> -6.00<lb/> -4.00<lb/> -2.00<lb/> 0.00<lb/> 2.00<lb/> 4.00<lb/> 6.00<lb/> 8.00<lb/> 10.00<lb/> 12.00<lb/> 1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> 2008<lb/> 2009<lb/> Cyclical<lb/> Commodity related<lb/> Observed<lb/> Adjusted<lb/> -6.00<lb/> -4.00<lb/> -2.00<lb/> 0.00<lb/> 2.00<lb/> 4.00<lb/> 6.00<lb/> 8.00<lb/> 10.00<lb/> <ref type="biblio">1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/></ref> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> 2008<lb/> 2009<lb/> Cyclical<lb/> Observed<lb/> Adjusted<lb/> -3.00<lb/> -2.00<lb/> -1.00<lb/> 0.00<lb/> 1.00<lb/> 2.00<lb/> 3.00<lb/> 4.00<lb/> 5.00<lb/> 6.00<lb/> <ref type="biblio">1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/></ref> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> 2008<lb/> 2009<lb/> Cyclical<lb/> Commodity related<lb/> Observed<lb/> Adjusted<lb/> -6.00<lb/> -4.00<lb/> -2.00<lb/> 0.00<lb/> 2.00<lb/> 4.00<lb/> 6.00<lb/> 8.00<lb/> 10.00<lb/> 1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> 2008<lb/> 2009<lb/> Cyclical<lb/> Commodity related<lb/> Observed<lb/> Adjusted<lb/> -2.00<lb/> -1.00<lb/> 0.00<lb/> 1.00<lb/> 2.00<lb/> 3.00<lb/> 4.00<lb/> 5.00<lb/> 1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> 2008<lb/> 2009<lb/> Cyclical<lb/> Observed<lb/> Adjusted<lb/> -2.00<lb/> -1.00<lb/> 0.00<lb/> 1.00<lb/> 2.00<lb/> 3.00<lb/> 4.00<lb/> 5.00<lb/> <ref type="biblio">1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/></ref> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> 2008<lb/> 2009<lb/> Cyclical<lb/> Observed<lb/> Adjusted<lb/> -3.00<lb/> -2.00<lb/> -1.00<lb/> 0.00<lb/> 1.00<lb/> 2.00<lb/> 3.00<lb/> 4.00<lb/> 5.00<lb/> 6.00<lb/> <ref type="biblio">1990<lb/> 1991<lb/> 1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/></ref> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> 2008<lb/> 2009<lb/> Cyclical<lb/> Observed<lb/> Adjusted<lb/> Notes: Primary budget balance is adjusted for deviations of GDP and commodity prices (for Argentina, Chile,<lb/> Mexico and Peru) around their trends, as explained in sections II.1 and II.2. Non-financial public sector<lb/> figures in Argentina, Colombia, Mexico and Uruguay, and general government figures for Brazil, Chile, Costa<lb/> Rica and Peru, from ECLAC-ILPES and IDB databases<lb/> Source: Authors&apos; calculations<lb/> OECD Development Centre Working Paper No. 291<lb/> DEV/DOC(2010)8<lb/></table>
+
+			<p>According to our estimates, at the onset of the crisis, adjusted primary balances were in<lb/> equilibrium or surplus in a majority of</p>
+
+			<figure>countries (1 p.p of GDP in Peru, 2 p.p. in Uruguay,<lb/> 2.5 p.p. in Brazil, almost 3 p.p. in Chile and Colombia, and 5 p.p. in Costa Rica; -1.0 p.p. in<lb/> Argentina and -3.6 p.p. in Mexico). So, even taking into account the positive economic and<lb/> commodity price cycles, these figures confirm that the region faced the crisis in relatively good<lb/> shape. The figure also highlights the significant impact of the economic cycle; especially in<lb/> Argentina and Uruguay (automatic stabilisers via revenue contributed more than 4 p.p. of GDP<lb/> to sustain aggregate demand). Finally, commodity prices (copper, gold and oil) contributed<lb/> significantly to improve fiscal positions in latest years (around 1 p.p. in Argentina, 2 p.p. in<lb/> Mexico, 3 p.p. in Peru and over 6 p.p. in Chile). Obviously, 2009 figures reflect a generalised<lb/> deterioration, driven by cyclical, commodity related and discretionary factors<lb/> 14 .<lb/></figure>
+
+			<p>Next, we explore the pro-cyclicality of discretionary fiscal policy in the standard way,<lb/> comparing the variation of the adjusted primary balance and the output gap level. Fiscal policy is<lb/> defined as counter-cyclical if the surplus increases (deficit decreases) in a year with positive<lb/> output gap, or if the deficit increases (surplus decreases) when the output gap is negative. As<lb/> represented in <ref type="figure">Figure 11</ref>, in the last two decades discretionary fiscal policy in Latin America has<lb/> tended to be pro-cyclical (the correlation coefficient is –0.37 and in more than 60 per cent of cases,<lb/> 53 out of the 144 cases, discretionary fiscal policy was not stabilising).<lb/></p>
+
+			<figure>Figure 11. Output gap and change in adjusted budget balance<lb/> (Percentage points of GDP)<lb/> URU02<lb/> URU03<lb/> ARG02<lb/> -0.06<lb/> -0.04<lb/> -0.02<lb/> 0.00<lb/> 0.02<lb/> 0.04<lb/> 0.06<lb/> 0.08<lb/> -0.25<lb/> -0.20<lb/> -0.15<lb/> -0.10<lb/> -0.05<lb/> 0.00<lb/> 0.05<lb/> 0.10<lb/> 0.15<lb/> Variation of cyclically adjusted primary balance<lb/> Output gap<lb/> Source: Authors&apos; calculations<lb/> 14 2009 budget figures are preliminary for many economies. Data for Argentina, Costa Rica, Colombia and<lb/> Peru where taken from the respective Central Bank databases, for Mexico and Uruguay from Ministry<lb/> of Finance databases, and Brazil and Chile from OECD Economic Outlook projections (May 2010). Access<lb/> to stable funding (both internal and external) determined the size of announced fiscal packages in the<lb/> region. Chile and Peru were the top performers in the &quot; fiscal resilience index &quot; constructed by the OECD<lb/> (2009b); an index that takes into account the external debt to exports ratio (a standard fiscal solvency<lb/> indicator), the financing cost of fiscal expansions (proxied by the JP Morgan&apos;s EMBI Global spreads),<lb/> and the government&apos;s pre-crisis budget balance with respect to GDP. Not coincidentally, these two<lb/> countries announced and implemented the biggest fiscal stimuli for 2009.<lb/></figure>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/></head>
+
+			<p>Debt sustainability depends on a series of factors such as long-term economic growth<lb/> perspectives, the cost of funds (interest rate), and the composition of debt; but also things much<lb/> harder to measure such as expectations (<ref type="biblio">Calvo, 1988</ref>) and institutional/political characteristics<lb/> affecting a country&apos;s ability and willingness to service its sovereign debt. Furthermore,<lb/> exogenous shocks to each of these variables are hard to identify, making debt sustainability<lb/> analysis a challenging topic. Therefore, in this section we explore some aspects of debt dynamics<lb/> in the region using standard techniques in the literature, rather than making a precise judgement<lb/> regarding the need and size of fiscal adjustment in each country.<lb/> Although it is not obvious how to establish a benchmark for safe debt levels, one way to<lb/> approach this issue is to compute the primary surplus required to stabilise debt to GDP ratios at<lb/> their current level, and compare this required surplus with both actual and structural balances.<lb/></p>
+
+			<p>Given the government budget dynamics in equation (7), fiscal policy is considered<lb/> sustainable if the primary surplus (S) is greater than the primary surplus required to stabilise the<lb/> debt level (D) relative to GDP (Y):<lb/></p>
+
+				<formula>1<lb/> 1<lb/> 1<lb/> )<lb/> 1<lb/> (<lb/> +<lb/> +<lb/> +<lb/> −<lb/> +<lb/> =<lb/> t<lb/> t<lb/> t<lb/> t<lb/> S<lb/> D<lb/> r<lb/> D<lb/> 1<lb/> 1<lb/> +<lb/> +<lb/> +<lb/> +<lb/> −<lb/> +<lb/> +<lb/> =<lb/> t<lb/> t<lb/> t<lb/> t<lb/> t<lb/> s<lb/> d<lb/> g<lb/> r<lb/> d<lb/> ,<lb/> (8)<lb/></formula>
+
+			<p>where all lower case variables refer now to GDP ratios.<lb/></p>
+
+			<p>Thus, for a given interest rate and GDP growth rate (assuming that they are constant over<lb/> time), the primary surplus that stabilises the current debt-to-GDP level is given by:<lb/></p>
+
+				<formula>d<lb/> r<lb/> g<lb/> r<lb/> s<lb/> +<lb/> −<lb/> = 1<lb/> .<lb/> (9)<lb/></formula>
+
+			<p>It should be recognised that this definition has some limitations. First, it does not say<lb/> anything regarding the initial debt-to-GDP ratio, which might be too high and therefore an<lb/> additional fiscal effort to reduce it to a safe level would be required. Second, this &apos;accounting<lb/> approach&apos; does not consider underlying correlations and endogeneity of variables. For instance,<lb/> in the presence of default risk, interest rates would increase with the debt burden and with net<lb/> financing needs if liquidity risks are also present. Growth could in turn depend negatively on the<lb/> cost of funding (r) and the debt burden (if there is a debt overhang problem, where private<lb/> investment is lower because economic agents incorporate the prospects of higher future taxes to<lb/> service the debt).<lb/> In addition, valuation effects can have very important quantitative effects, as most<lb/> countries in the region have painfully learnt during the 1980s and 1990s (debt dollarization). In<lb/></p>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<table>DEV/DOC(2010)8<lb/> 28<lb/> © OECD 2010<lb/></table>
+
+			<p>particular, swings in the real exchange rate often imply large fluctuations in the debt-to-GDP<lb/> ratio, if the fraction of dollarised debt is different from the share of tradable goods in GDP.<lb/></p>
+
+			<head>15<lb/></head>
+
+			<p>Observe that the steady-state debt-to-GDP ratio can be written as:<lb/></p>
+
+				<formula>Y<lb/> eD<lb/> B<lb/> d<lb/> *<lb/> +<lb/> =<lb/> ,<lb/> (10)<lb/></formula>
+
+			<p>where e is the relative price of tradable goods in terms of one unit of output, D* is debt<lb/> denominated in tradables (dollars) and B in output units. The right-hand-side of equation (10)<lb/> can be written as:<lb/></p>
+
+				<formula>Y<lb/> D<lb/> Y<lb/> B<lb/> φ<lb/> +<lb/> ,<lb/> (11)<lb/> with<lb/> D<lb/> eD *<lb/> =<lb/> φ<lb/> representing</formula>
+
+			<p>the share of foreign-currency denominated debt.<lb/></p>
+
+			<p>The valuation-corrected debt-to-GDP ratio for a given equilibrium exchange rate e ~ is:<lb/></p>
+
+				<formula>d<lb/> Y<lb/> B<lb/> d<lb/> φ<lb/> ~<lb/> ~<lb/> +<lb/> =<lb/> ,<lb/> (12)<lb/> where<lb/> D<lb/> D<lb/> e *<lb/> ~<lb/> ~ =<lb/> φ<lb/> .<lb/></formula>
+
+			<p>Thus, under an appreciated real exchange rate (<lb/> e<lb/> e ~<lb/> &lt; ), the valuation-corrected debt ratio<lb/> will be greater than the observed ratio. This implies that the required primary surplus, shown in<lb/> equation (13), will also be higher, given that a depreciation of the currency vis-à-vis the dollar<lb/> would be expected in the transition to the steady state. Vice versa, if the currency is depreciated<lb/> (above the equilibrium exchange rate), the adjusted debt level will be less than the observed one.<lb/></p>
+
+				<formula>d<lb/> r<lb/> g<lb/> r<lb/> s<lb/> ~<lb/> 1<lb/> ~<lb/> +<lb/> −<lb/> =<lb/> .<lb/> (13)<lb/></formula>
+
+			<p>In practical terms, we measure the equilibrium real exchange rate to be measured by the<lb/> average bilateral real exchange rate vis-à-vis the US dollar, considering CPI prices over the<lb/> period 1990 – 2008. Furthermore, as proxy for the share of foreign currency debt in total debt, we<lb/> use data on the markets where debt was issued, assuming that all external debt is in US dollars<lb/> and all domestic debt is indexed to the domestic price level (which we assume to equal the GDP<lb/> deflator; this is the implicit assumption in equations 11 – 13).<lb/> A final adjustment refers to point in the cycle at which GDP stands, given that the debt-<lb/>to-GDP ratio would be lower during a boom (holding constant the stock of debt), such that our<lb/> preferred measure of sustainability is given by:<lb/></p>
+
+				<formula>*<lb/> ~<lb/> 1<lb/> Y<lb/> Y<lb/> d<lb/> r<lb/> g<lb/> r<lb/> s<lb/> +<lb/> −<lb/> =<lb/> )<lb/> ,<lb/> (14)<lb/></formula>
+
+			<p>where Y * is potential output. In practical terms, we compute potential output jointly with the<lb/> business cycle using the structural time series approach described below.<lb/></p>
+
+			<p>Before computing the required fiscal surpluses, it is useful to explore the relevance of<lb/> these adjustments. <ref type="figure">Figure 12</ref> shows the potential importance of these adjustments from a<lb/> quantitative point of view for the case of Uruguay. Debt levels as a ratio of GDP in the late 1990s<lb/> were slightly below 30 per cent of GDP. However, when taking into account the appreciation of<lb/> the real exchange rate with respect to its long-term average, debt levels would have been ten<lb/> percentage points of GDP higher. The opposite is true for 2002, where the observed debt-to-GDP<lb/> ratio shot up to over 100 per cent of GDP, while it would have been around 76 per cent of GDP if<lb/> debt was valued at the long-term real exchange rate, and almost 16 p. p. of GDP less if it were<lb/> taken into account that the Uruguayan economy was in a deep crisis with GDP far below its<lb/> potential (almost 20 per cent, according to our estimates).</p>
+
+			<figure>Finally, regarding the large reduction<lb/> in the debt-to-GDP ratio after the crisis of more than 50 percentage points of GDP between 2002<lb/> and 2009, our structural measure of debt was reduced by 7.7 percentage points until 2008, but<lb/> increased in 2009 to reach similar levels as in 2002. Thus, most of the reduction in the debt-to-<lb/>GDP ratio could be attributed to the rebound in economic growth and the appreciation of the<lb/> real exchange rate in the aftermath of the devaluation of the currency.<lb/> Figure 12. Debt dynamics and the real exchange rate in Uruguay<lb/> (Percentage points of GDP)<lb/> 20<lb/> 40<lb/> 60<lb/> 80<lb/> 100<lb/> <ref type="biblio">1992<lb/> 1993<lb/> 1994<lb/> 1995<lb/> 1996<lb/> 1997<lb/> 1998<lb/> 1999<lb/></ref> 2000<lb/> 2001<lb/> 2002<lb/> 2003<lb/> 2004<lb/> 2005<lb/> 2006<lb/> 2007<lb/> 2008<lb/> 2009<lb/> Debt/GDP<lb/> Debt/GDP adjusted for real exchange rate<lb/> Debt/GDP adj. for real exchange rate and cycle<lb/> Source: Authors&apos; calculations based on ECLAC-ILPES database<lb/> The main results for the eight countries for 2009 are reported in Table 5.<lb/> 16 As discussed<lb/> above, in 2009, most countries present a considerably lower structural balance in 2009 than in<lb/> previous years, given the automatic and discretionary fiscal expansion in response to the<lb/> economic crisis. However, all countries (except Argentina) have been able during the last decade<lb/> to exhibit fiscal balances above those required to sustain their current debt levels, such that they<lb/> could be expected to reverse expansionary policies without major difficulties. In terms of the<lb/> difference between the adjusted balance and the required balance to keep debt levels at their<lb/> 16 For each country we considered the current yields (average 2010) on sovereign debt bonds (JP Morgan&apos;s<lb/> EMBIG) as the relevant interest rate. Observed and trend growth rates in 2009 are estimated according<lb/> to the methodology explained in section III.<lb/> Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/> 30<lb/> © OECD 2010<lb/> current values, while Brazil is the only country with a structural balance above the required<lb/> surplus, for several countries the difference is below two percent (Costa Rica, Uruguay,<lb/> Colombia, Mexico and Peru).<lb/> Table 5. Debt sustainability analysis<lb/> Country<lb/> Adjusted primary<lb/> balance (2009)<lb/> Observed primary<lb/> balance (2000 -2009)<lb/> Required surplus<lb/> (baseline)<lb/> Required surplus<lb/> (IMF forecasts)<lb/> Argentina<lb/> -0.8<lb/> 2.1<lb/> 3.1<lb/> 3.5<lb/> Brazil<lb/> 2.0<lb/> 3.0<lb/> 1.3<lb/> 1.0<lb/> Chile<lb/> -3.7<lb/> 2.8<lb/> 0.1<lb/> 0.0<lb/> Colombia<lb/> -1.1<lb/> 1.6<lb/> 0.5<lb/> 0.3<lb/> Costa Rica<lb/> -0.2<lb/> 2.3<lb/> 0.8<lb/> 0.4<lb/> Mexico<lb/> -0.7<lb/> 1.5<lb/> 1.2<lb/> 0.4<lb/> Peru<lb/> -1.9<lb/> 1.2<lb/> -0.1<lb/> -0.1<lb/> Uruguay<lb/> -0.2<lb/> 1.6<lb/> 0.9<lb/> 1.2<lb/> Notes: Required surplus corresponds to equation (14) with debt-to-GDP ratios adjusted by the real exchange<lb/> rate and the business cycle. Observed primary balance is the average of observed fiscal balances as<lb/> percentage of GDP over the last ten years. IMF forecasts refer to the WEO April 2010 forecast of real GDP<lb/> growth in 2015<lb/> Source: Authors&apos; calculations<lb/></table>
+
+			<figure>Argentina and Chile are the exceptions, with a difference of 3.9 and 3.7 p. p. of GDP,<lb/> respectively. However, Argentina and Chile are in very different situations. First, Chile took<lb/> discretionary measures with a fiscal impulse of around 5.6 p. p. of GDP (comparing 2007 with<lb/> 2009), while the impulse in Argentina was much smaller (1.3 p. p. of GDP)</figure>
+
+			<p>. Thus, countercyclical<lb/> fiscal policy was much stronger in Chile than Argentina. This impulse was taken from a very<lb/> strong position (debt-to-GDP of only around 6 per cent of GDP) in Chile, which is also reflected<lb/> in the low fiscal surplus required to balance debt levels at their current value; meanwhile<lb/> Argentina requires a much higher fiscal primary surplus (and has higher levels of debt, 47.1 per<lb/> cent of GDP, adjusting for the real exchange rate and the business cycle). In more general terms,<lb/> the level of the structural balances (as well as the fiscal impulse during 2007 – 2009) is highly<lb/> correlated with the initial debt position. Countries with higher levels of debt were in a more solid<lb/> position to have higher structural deficits and larger fiscal impulses (the correlation coefficients<lb/> with the debt levels are 0.90 and 0.48, respectively).<lb/></p>
+
+			<head>III. ESTIMATION OF OUTPUT GAP<lb/></head>
+
+			<p>Many researchers have recognised and analysed aggregate cycles in production without<lb/> reaching consensus on its causes. 17 Lack of consensus regarding the theory is accompanied by an<lb/> empirical problem; measurement of economic cycles depends on the estimation of potential<lb/> output, which is unobservable. OECD methodology decomposes production through classical<lb/> Solow factor decomposition of capital constructed though perpetual inventory methods, labour<lb/> (hours worked) and multifactor productivity (MFP). Potential output is then constructed as the<lb/> counter-factual production arising from full capital utilisation 18 , unemployment rate equal to the<lb/> NAIRU, and MFP given by its long-run trend.<lb/> Although we follow the above criteria to construct potential output in the Latin American<lb/> countries, we could not follow OECD methodology by further disaggregating factors by their<lb/> specific types, by the sectors of the economy where they are being used, or by their rate of<lb/> utilization. In particular, restrictions on data availability for several Latin American countries<lb/> forced us to construct capital from aggregate investment figures, using the perpetual inventory<lb/> method with infinite lifespan and a constant depreciation rate of eight percent. Real investment,<lb/> real GDP and active population data are chained series<lb/> 19 built from series in Penn World tables,<lb/> which cover a span of nearly six decades, from 1950 to 2007. The series are extended up to 2013<lb/> using IMF&apos;s World Economic Outlook estimates and forecast as of April 2010.<lb/> 20 The treatment of<lb/> net exports, in real terms (volume) or in terms of its purchasing power (dollars), merits also some<lb/> attention. While the first measure better reflects production dynamics, the latter better reflects<lb/> change on income. We opt for the former measure of volume on two grounds: we keep<lb/> consistency when we later decompose GDP using a production function, and we analyze the<lb/></p>
+
+			<figure>17 This has lead economist to declare such aggregate behaviour dead in more than one occasion. The latest<lb/> notable quote came in 2003 from Robert Lucas, who in his presidential address to the American Economic<lb/> Association declared that &apos;the central problem of depression-prevention has been solved, for all practical<lb/> purposes, and has in fact been solved for many decades&apos;.<lb/> 18 OECD latest revision to potential output uses total capital rather than a filtered series of such series<lb/> (OECD, 2008).<lb/> 19 See OECD (2001) for the benefit of chained indices with respect to other bases of conversion, especially<lb/> when looking at higher frequency data and avoiding level comparison across countries.<lb/> 20 Potential output is estimated up to 2009. But forecasts for years 2010 onwards are used as a way to<lb/> circumvent well-known end point filter problems when estimating trends. GDP forecasts are provided<lb/> by the IMF, while investment forecasts are estimated from those GDP forecasts, using simple regression<lb/> of investment growth on GDP growth between 1990 and 2009.<lb/></figure>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<p>DEV/DOC(2010)8<lb/> effect of terms of trade on fiscal balance separately from the effect of the business cycle. Initial<lb/> capital stock in 1950 is assumed to be on a balanced growth path, thus approximated by<lb/></p>
+
+				<formula>K 1950 = I 1950 / [(1 + g)(1 + n) − (1 − δ)]<lb/> (15)<lb/></formula>
+
+			<p>where I 1950 is initial investment expenditure (filtered by a linear interpolation of the log<lb/> investment throughout the 1950s), g is the average rate of technological progress on that same<lb/> decade, and n is the corresponding average growth rate of active population.<lb/> For the implicit Cobb-Douglas production function we assume a capital share of 0.5 for<lb/> all countries. This is significantly different from the standard approximation of one third, but<lb/> closer to the average obtained in the literature that covers emerging markets (see for example<lb/> Gollin, 2002 for country–specific measures of this parameter for a wide range of countries).<lb/> Given the broad level of aggregation, cyclical action will be centred in MFP. Several<lb/> statistical studies have questioned the usual Hodrick-Prescott methodology to de-trend economic<lb/> series, arguing that it is tailor-made for the output cycles in the US, but not necessarily optimal<lb/> for any other type of economic series (see <ref type="biblio">Harvey et al., 2008</ref>). Furthermore, there is ample<lb/> evidence that emerging markets have a very different cyclical behaviour than industrialised<lb/> economies, with some authors putting into question even the existence of cyclical shocks<lb/> (e.g. <ref type="biblio">Aguiar and Gopinath, 2007</ref>).<lb/> To address some of these challenges posed in the literature, we de-trend the resulting<lb/> MFP series using the unobserved components model suggested by Harvey (1998). We use this<lb/> state-space estimation method to estimate unexpected shocks to the MFP series, decomposing<lb/> these shocks into three components: shocks that have a permanent effect on MFP, cyclical shocks<lb/> with an estimated frequency, and time decay, and transitory &apos;white noise&apos; shocks. Permanent<lb/> shocks determine the trend while the two latter shocks determine the gap to potential output.<lb/> <ref type="biblio">Harvey (1989)</ref> shows that the Hodrick-Prescott filter can be obtained as a particular case of this<lb/> method, by imposing two additional restrictions: no cyclical component and a predetermined<lb/> ratio between the variance of transitory and permanent shocks (a ratio that coincides with the<lb/> parameter lambda of HP filters).<lb/> We define the logarithm of multifactor productivity a, and use the state-space domain to<lb/> decompose the series into three unobserved components: a trend t, a cycle c, and a transitory<lb/> shock ξι :<lb/></p>
+
+				<formula>a = t + c + ξι<lb/> (16)<lb/></formula>
+
+			<p>The trend component accounts for permanent changes in the growth rate of (log) MFP,<lb/> and is thus interpreted as the &apos;long run trend for multi factor productivity&apos; in potential output. It<lb/> is specified as growing with a stochastic drift µ :<lb/></p>
+
+				<formula>t = t−1 + γ ∆crisis + µ<lb/> (17)<lb/></formula>
+
+			<p>where t−1 is the trend in the previous period and ∆crisis is a year dummy that account for large<lb/> permanent MFP losses at the beginning of the 1980s debt crisis. The drift rate µ is assumed to<lb/> follow a random walk:<lb/></p>
+
+				<formula>µ = µ−1 + β ∆crisis +ξµ<lb/> (18)<lb/></formula>
+
+			<p>where the same 1980s dummy ∆crisis is used to account for any large permanent reduction in<lb/> MFP&apos;s growth rates after the debt crisis. Thus, MFP trend grows at a rate that varies, but that at<lb/> any time t, is best forecasted as remaining constant and equal to current rate µ. The large<lb/> recession in the early 1980s and the prolonged low growth that resulted call for adding the ∆crisis<lb/> dummy, which proves to be significantly negative for both the level and rate of MFP trend. As<lb/> countries felt the 1980s recession in different years (<ref type="biblio">between 1981 and 1982</ref>), for each country we<lb/> select the year dummy which maximises the log likelihood (following the AIC criteria).<lb/> The cycle component c follows the autoregressive process:<lb/></p>
+
+				<formula>c = ρ cos(λ) c−1 + ρ sin(λ) c*−1 + ξχ<lb/> (19)<lb/> c* = −ρ sin(λ) c−1 + ρ cos(λ) c*−1 + ξχ *<lb/> (20)<lb/></formula>
+
+			<p>where ξχ and ξχ * are disturbances with equal variance. The period of the cycle is 2π /λ. The<lb/> damping factor ρ with 0 &lt; ρ &lt; 1 ensures that c is a stationary ARMA (2, 1) process with complex<lb/> roots in the autoregressive part. It is assumed that all disturbances are normally distributed and<lb/> are independent of each other (usual assumption to assure the identification of the parameters).<lb/> Initial values for the stationary cycle components are given by the unconditional distribution and<lb/> for the non-stationary trend and drift components by a diffuse prior. The filtered and smoothed<lb/> values of the unobserved components are generated by the Kalman filter.<lb/> Estimated parameters for the temporary, cyclical and trend components vary significantly<lb/> across countries. <ref type="figure">Figure 13</ref> shows the variance decomposition of unexpected shocks in each<lb/> period (ξµ +ξχ + ξι ). While Uruguay has the largest estimated total variance, its shocks are mostly<lb/> cyclical. The <ref type="figure">figure also</ref> shows that long term estimated shocks to the trend in Chile, Costa Rica,<lb/> Peru and Uruguay have a statistically significant variance. As expected, even for these countries,<lb/> this variance is significantly smaller than the estimated variance of the two stationary shocks; a<lb/> fact that translates into a relatively smooth long-term trend. Though smaller in size than the<lb/> stationary shocks, trend shocks follow a random walk. Thus their effect is cumulative and large<lb/> after several periods.<lb/></p>
+
+			<figure>Figure 13. Estimated variance decomposition of shocks to log MFP<lb/> 0.0000<lb/> 0.0002<lb/> 0.0004<lb/> 0.0006<lb/> 0.0008<lb/> 0.0010<lb/> 0.0012<lb/> 0.0014<lb/> Uruguay<lb/> Peru<lb/> Chile<lb/> Argentina Costa Rica Mexico<lb/> Brazil<lb/> Colombia<lb/> Trend<lb/> Cyclical<lb/> Transitory<lb/> Source: Author&apos;s calculations<lb/></figure>
+
+			<p>For this reason, while estimated trends in Argentina, Brazil and Uruguay are close to (but<lb/> different than) zero, growth rate of MFP, together with changes in capital formation, may<lb/> accumulate and cause significant changes on long run GDP (as observed in <ref type="figure">Figure 14</ref>).<lb/></p>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<figure>DEV/DOC(2010)8<lb/> 34<lb/> © OECD 2010<lb/> Figure 14. Evolution of estimated trend and cycles for Argentina, Chile, Colombia and Peru<lb/> 18.5<lb/> 19<lb/> 19.5<lb/> 20<lb/> 20.5<lb/> 21<lb/> 21.5<lb/> <ref type="biblio">1950<lb/> 1953<lb/> 1956<lb/> 1959<lb/> 1962<lb/> 1965<lb/> 1968<lb/> 1971<lb/> 1974<lb/> 1977<lb/> 1980<lb/> 1983<lb/> 1986<lb/> 1989<lb/> 1992<lb/> 1995<lb/> 1998<lb/></ref> 2001<lb/> 2004<lb/> 2007<lb/> Argentina<lb/> GDP<lb/> Potential GDP<lb/> -0.2<lb/> -0.15<lb/> -0.1<lb/> -0.05<lb/> 0<lb/> 0.05<lb/> 0.1<lb/> 0.15<lb/> 0.2<lb/> <ref type="biblio">1950<lb/> 1953<lb/> 1956<lb/> 1959<lb/> 1962<lb/> 1965<lb/> 1968<lb/> 1971<lb/> 1974<lb/> 1977<lb/> 1980<lb/> 1983<lb/> 1986<lb/> 1989<lb/> 1992<lb/> 1995<lb/> 1998<lb/></ref> 2001<lb/> 2004<lb/> 2007<lb/> Argentina<lb/> GDP Gap<lb/> Stochastic Cycle<lb/> 17<lb/> 17.5<lb/> 18<lb/> 18.5<lb/> <ref type="biblio">19<lb/> 19.5<lb/> 20<lb/> 1951<lb/> 1954<lb/> 1957<lb/> 1960<lb/> 1963<lb/> 1966<lb/> 1969<lb/> 1972<lb/> 1975<lb/> 1978<lb/> 1981<lb/> 1984<lb/> 1987<lb/> 1990<lb/> 1993<lb/> 1996<lb/> 1999<lb/> 2002<lb/> 2005<lb/> 2008<lb/></ref> Chile<lb/></p>
+
+			<figure>GDP<lb/> Potential GDP<lb/> -0.2<lb/> -0.15<lb/> -0.1<lb/> -0.05<lb/> 0<lb/> 0.05<lb/> 0.1<lb/> 0.15<lb/> 0.2<lb/> <ref type="biblio">1951<lb/> 1954<lb/> 1957<lb/> 1960<lb/> 1963<lb/> 1966<lb/> 1969<lb/> 1972<lb/> 1975<lb/> 1978<lb/> 1981<lb/> 1984<lb/> 1987<lb/> 1990<lb/> 1993<lb/> 1996<lb/> 1999<lb/> 2002<lb/> 2005<lb/> 2008<lb/></ref> Chile<lb/></p>
+
+			<figure>GDP Gap<lb/> Stochastic Cycle<lb/> 17<lb/> 17.5<lb/> 18<lb/> 18.5<lb/> <ref type="biblio">19<lb/> 19.5<lb/> 20<lb/> 1950<lb/> 1953<lb/> 1956<lb/> 1959<lb/> 1962<lb/> 1965<lb/> 1968<lb/> 1971<lb/> 1974<lb/> 1977<lb/> 1980<lb/> 1983<lb/> 1986<lb/> 1989<lb/> 1992<lb/> 1995<lb/> 1998<lb/> 2001<lb/> 2004<lb/> 2007<lb/></ref> Colombia<lb/></p>
+
+			<figure>GDP<lb/> Potential GDP<lb/> -0.2<lb/> -0.15<lb/> -0.1<lb/> -0.05<lb/> 0<lb/> 0.05<lb/> 0.1<lb/> 0.15<lb/> 0.2<lb/> <ref type="biblio">1950<lb/> 1953<lb/> 1956<lb/> 1959<lb/> 1962<lb/> 1965<lb/> 1968<lb/> 1971<lb/> 1974<lb/> 1977<lb/> 1980<lb/> 1983<lb/> 1986<lb/> 1989<lb/> 1992<lb/> 1995<lb/> 1998<lb/></ref> 2001<lb/> 2004<lb/> 2007<lb/> Colombia<lb/> GDP Gap<lb/> Stochastic Cycle<lb/> 16.5<lb/> 17<lb/> 17.5<lb/> 18<lb/> 18.5<lb/> <ref type="biblio">19<lb/> 19.5<lb/> 1950<lb/> 1953<lb/> 1956<lb/> 1959<lb/> 1962<lb/> 1965<lb/> 1968<lb/> 1971<lb/> 1974<lb/> 1977<lb/> 1980<lb/> 1983<lb/> 1986<lb/> 1989<lb/> 1992<lb/> 1995<lb/> 1998<lb/> 2001<lb/> 2004<lb/> 2007<lb/></ref> Peru<lb/></p>
+
+			<figure>GDP<lb/> Potential GDP<lb/> -0.2<lb/> -0.15<lb/> -0.1<lb/> -0.05<lb/> 0<lb/> 0.05<lb/> 0.1<lb/> 0.15<lb/> 0.2<lb/> <ref type="biblio">1950<lb/> 1953<lb/> 1956<lb/> 1959<lb/> 1962<lb/> 1965<lb/> 1968<lb/> 1971<lb/> 1974<lb/> 1977<lb/> 1980<lb/> 1983<lb/> 1986<lb/> 1989<lb/> 1992<lb/> 1995<lb/> 1998<lb/></ref> 2001<lb/> 2004<lb/> 2007<lb/> Peru<lb/> GDP Gap<lb/> Stochastic Cycle<lb/> Source: Author&apos;s calculation<lb/> <ref type="table">Table 6</ref> shows the estimated damping factor and the estimated period 2/ for the<lb/> stochastic cycle componentt Uruguay shows the longest stochastic cycles (averaging 15 years)<lb/> while Mexico and Peru show the shortest cycles (averaging 9 years). Brazil&apos;s estimated cycles are<lb/> the closest to the &apos;biblical cycle&apos; of 14 years. The damping factor for Costa Rica is the strongest<lb/> with equal to 0.24 (i.e., the cyclical shock is dampened to a fourth of its size by the following<lb/> year), while Mexico exhibits the weakest dampening effect with an estimated ρ equal to 0.93<lb/> (i.e. it takes 19 years for the cyclical shock to be dampened to a fourth of its size). In Mexico, the<lb/> high estimated value of ρ, combined with the low estimated variance of cyclical shocks, implies a<lb/> very stable &apos;almost non-stochastic&apos; cycle.<lb/></p>
+
+			<table>Table 6. Estimated parameters for cyclical shocks<lb/> Period<lb/> ρ<lb/> Argentina<lb/> 11.4<lb/> 0.84<lb/> Brazil<lb/> 14.1<lb/> 0.66<lb/> Chile<lb/> 11.6<lb/> 0.77<lb/> Colombia<lb/> 14.3<lb/> 0.74<lb/> Costa Rica<lb/> 12.8<lb/> 0.24<lb/> Mexico<lb/> 8.6<lb/> 0.93<lb/> Uruguay<lb/> 15.3<lb/> 0.72<lb/> Peru<lb/> 8.9<lb/> 0.67<lb/> Source: Author&apos;s calculations<lb/> Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/> 36<lb/> © OECD 2010<lb/></table>
+
+			<head>IV. CONCLUSIONS AND POLICY IMPLICATIONS<lb/></head>
+
+			<p>This paper aims to contribute to the debate on fiscal policy in Latin America by<lb/> measuring cyclicality of fiscal balances using a common methodology. At the onset of the<lb/> international financial crisis in 2008-2009, many indicators suggested that Latin American<lb/> economies were facing the crisis in a much better macroeconomic position that in the past; with<lb/> positive budget surpluses, lower debt-to-GDP levels and a more credible monetary policy thanks<lb/> to inflation targeting regimes. Solid macro balances were the new reality in a region where fiscal<lb/> fragility had been at the root of past protracted crises, such as the dramatic debt crisis of the<lb/> 1980s.<lb/></p>
+
+			<p>We track fiscal balances since the early nineties for a set of Latin American economies,<lb/> implementing both standardised cyclical-adjustment OECD methodology and regional specific<lb/> adjustments for the impact of commodity prices. These estimations allow measuring the size of<lb/> automatic stabilisers embedded in tax policies, and the cyclicality of discretionary fiscal policy in<lb/> the region as a whole. Additionally, we perform debt sustainability exercises to analyse how far<lb/> from a potential benchmark current fiscal balances are.<lb/></p>
+
+			<p>Our main messages can be summarised as follow. First, there is a great degree of<lb/> uncertainty concerning output gap estimates in Latin America. Compounded with highly<lb/> volatile cyclical shocks, there is evidence of highly volatile trends for potential output. Second,<lb/> commodity cycles may be as relevant to countercyclical policy as economic cycles, because of the<lb/> former&apos;s significance in total fiscal revenues. Third, tax automatic stabilisers are significant,<lb/> although fairly small. Primary budget balances respond automatically around 0.2 p.p. for each<lb/> percentage point of output gap in the region, half the OECD average (although with significant<lb/> regional differences). Forth, since the early nineties, discretionary fiscal policy has been pro-<lb/>cyclical in Argentina, Brazil, Costa Rica, Mexico and Uruguay, while neutral in Chile, Colombia<lb/> and Peru. Fifth, pro-cyclicality of discretionary fiscal policy is probably explained by lack of<lb/> access to credit during deep crises, rather than by profligate spending. And sixth, from a<lb/> structural perspective, both cyclically-adjusted balances and debt sustainability analysis confirm<lb/> the better position enjoyed by most countries in the region before the crisis.<lb/></p>
+
+			<p>Venues for continuing research include lifting restrictions and understanding the<lb/> implications of distinguishing cyclical and trend volatility. In a first stage, some hard<lb/> assumptions we made to apply the OECD methodology may be relaxed, in particular the unitary<lb/> elasticity of consumption taxes to the cycle, and the consideration of automatic stabilization via<lb/> expenditure. Additionally, alternative data sources of the distribution of tax payers<lb/> (administrative data) may be used as a robustness check of the results. Finally, it would be<lb/> interesting to identify in the tax revenues series the effects of tax and social security reforms<lb/> implemented since 1990, and to estimate their impact on elasticities.<lb/></p>
+
+			<head>APPENDIX<lb/> A.1. Output gap and wages<lb/> Regressions of income growth to growth of output gap<lb/> Argentina<lb/> ------------------------------------------------------------------------------<lb/>sW |<lb/></head>
+
+			<table>Coef.<lb/> Std. Err.<lb/> t<lb/> P&gt;|t|<lb/> [95% Conf. Interval]<lb/></table>
+
+			<head>-------------+----------------------------------------------------------------<lb/></head>
+
+			<table>sGap |<lb/> 1.052835<lb/> .3538535<lb/> 2.98<lb/> 0.006<lb/> .3240601<lb/> 1.78161<lb/> cons | -.0010282<lb/> .0146514<lb/> -0.07<lb/> 0.945<lb/> -.0312034<lb/> .029147<lb/> --</table>
+
+			<head>----------------------------------------------------------------------------<lb/></head>
+
+			<p>Chile<lb/></p>
+
+			<head>------------------------------------------------------------------------------<lb/>sW |<lb/></head>
+
+			<table>Coef.<lb/> Std. Err.<lb/> t<lb/> P&gt;|t|<lb/> [95% Conf. Interval]<lb/></table>
+
+			<head>-------------+---------------------------------------------------------------</head>
+
+			<table>-<lb/>sGap |<lb/> .696172<lb/> .2313957<lb/> 3.01<lb/> 0.006<lb/> .2196036<lb/> 1.17274<lb/> cons | -.0014225<lb/> .0055165<lb/> -0.26<lb/> 0.799<lb/> -.0127839<lb/> .0099388<lb/> --</table>
+
+			<head>----------------------------------------------------------------------------<lb/>Costa Rica<lb/> ------------------------------------------------------------------------------<lb/></head>
+
+			<p>sW |<lb/> Coef.<lb/> Std. Err.<lb/> t<lb/> P&gt;|t|<lb/> <ref type="biblio">[95% Conf. Interval]<lb/></ref> -------------+----------------------------------------------------------------<lb/></p>
+
+			<table>sGap |<lb/> 1.729863<lb/> .3118525<lb/> 5.55<lb/> 0.000<lb/> 1.087591<lb/> 2.372136<lb/> cons | -.0016511<lb/> .0082065<lb/> -0.20<lb/> 0.842<lb/> -.0185527<lb/> .0152505<lb/> --</table>
+
+			<head>----------------------------------------------------------------------------<lb/></head>
+
+			<p>Mexico<lb/></p>
+
+			<head>------------------------------------------------------------------------------<lb/></head>
+
+			<p>sW |<lb/> Coef.<lb/> Std. Err.<lb/> t<lb/> P&gt;|t|<lb/> <ref type="biblio">[95% Conf. Interval]<lb/></ref> -------------+----------------------------------------------------------------<lb/></p>
+
+			<table>sGap |<lb/> 1.452921<lb/> .3424351<lb/> 4.24<lb/> 0.000<lb/> .7476625<lb/> 2.158179<lb/> cons |<lb/> .002872<lb/> .0117638<lb/> 0.24<lb/> 0.809<lb/> -.0213559<lb/> .0270999<lb/> --</table>
+
+			<head>----------------------------------------------------------------------------<lb/>Peru<lb/> ------------------------------------------------------------------------------<lb/></head>
+
+			<p>sW |<lb/> Coef.<lb/> Std. Err.<lb/> t<lb/> P&gt;|t|<lb/> <ref type="biblio">[95% Conf. Interval]<lb/></ref> -------------+---------------------------------------------------------------</head>
+
+			<table>-<lb/>sGap |<lb/> 1.954151<lb/> .4909695<lb/> 3.98<lb/> 0.001<lb/> .9429808<lb/> 2.965322<lb/> cons |<lb/> -.01838<lb/> .0258092<lb/> -0.71<lb/> 0.483<lb/> -.0715351<lb/> .034775<lb/> Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/> 38<lb/> © OECD 2010<lb/></table>
+
+			<head>------------------------------------------------------------------------------<lb/>Uruguay<lb/> ------------------------------------------------------------------------------<lb/>sW |<lb/></head>
+
+			<table>Coef.<lb/> Std. Err.<lb/> t<lb/> P&gt;|t|<lb/> [95% Conf. Interval]<lb/></table>
+
+			<head>-------------+---------------------------------------------------------------</head>
+
+			<table>-<lb/>sGap |<lb/> .8907144<lb/> .2280803<lb/> 3.91<lb/> 0.001<lb/> .4209743<lb/> 1.360454<lb/> cons | -.0116578<lb/> .012358<lb/> -0.94<lb/> 0.355<lb/> -.0371096<lb/> .013794<lb/> --</table>
+
+			<head>----------------------------------------------------------------------------<lb/>Results of unobserved components model estimation for potential multi factor productivity<lb/></head>
+
+			<figure>Argentina<lb/> Sample: 1950 -2007<lb/> Number of obs<lb/> =<lb/> 58<lb/> Log likelihood = 105.73313<lb/> --</figure>
+
+			<head>---------------------------------------------------------------------------<lb/>log MFP<lb/></head>
+
+			<table>|<lb/> Coef.<lb/> Std. Err.<lb/> z<lb/> P&gt;|z|<lb/> [95% Conf. Interval]<lb/></table>
+
+			<head>-------------+----------------------------------------------------------------<lb/></head>
+
+			<figure>γ 1981<lb/> | -.1532983<lb/> .0204885<lb/> -7.48<lb/> 0.000<lb/> -.</figure>
+
+			<head>193455<lb/> -.1131416<lb/> -------------+----------------------------------------------------------------<lb/></head>
+
+			<figure>β 1981<lb/> | -.0011573<lb/> .0011727<lb/> -0.99<lb/> 0.324<lb/> -.0034557<lb/> .0011411<lb/> S.E. of ξµ | 5.45e-10 .0002444<lb/> 0.00<lb/> 1.000<lb/> -.</figure>
+
+			<head>0004791<lb/> .0004791<lb/> -------------+----------------------------------------------------------------<lb/>ρ cos(λ)<lb/></head>
+
+			<table>|<lb/> .7885919<lb/> 9.55e-06 8.3e+04<lb/> 0.000<lb/> .7885732<lb/> .7886106<lb/> ρ sin(λ)<lb/> | -.4852602<lb/> 4.16e-06 -1.2e+05<lb/> 0.000<lb/> -.4852683<lb/> -.485252<lb/> S.E. of ξχ |<lb/> .013292<lb/> .0032897<lb/> 4.04<lb/> 0.000<lb/> .0068444<lb/> .0197397<lb/></table>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+			<table>S.E. of ξι<lb/> | -.0221279<lb/> .0035741<lb/> -6.19<lb/> 0.000<lb/> -.</table>
+
+			<head>029133<lb/> -.0151228<lb/></head>
+
+			<p>------------------------------------------------------------------------------<lb/></p>
+
+			<table>Brazil<lb/> Sample: 1950 -2007<lb/> Number of obs<lb/> =<lb/> 58<lb/> Log likelihood = 118.84452<lb/> --</table>
+
+				<formula>---------------------------------------------------------------------------<lb/>log MFP<lb/> |<lb/> Coef.<lb/> Std. Err.<lb/> z<lb/> P&gt;|z|<lb/> [95% Conf. Interval]<lb/></formula>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+			<figure>γ 1981<lb/> | -.1207987<lb/> .0291704<lb/> -4.14<lb/> 0.000<lb/> -.</figure>
+
+			<head>1779716<lb/> -.0636257<lb/></head>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+			<table>β 1981<lb/> | -. 0231028<lb/> .0098635<lb/> -2.34<lb/> 0.019<lb/> -.042435<lb/> -.0037707<lb/> S.E. of ξµ | .0026364 .0014108<lb/> 1.87<lb/> 0.062<lb/> -.0001286<lb/> .0054014<lb/> --</table>
+
+			<head>-----------+----------------------------------------------------------------<lb/></head>
+
+			<table>ρ cos(λ)<lb/> |<lb/> 7330813<lb/> 4.68e-06 1.6e+05<lb/> 0.000<lb/> .7330721<lb/> .7330905<lb/> ρ sin(λ)<lb/> |<lb/> 3568044<lb/> 1.44e-06 2.5e+05<lb/> 0.000<lb/> .3568015<lb/> .3568072<lb/> S.E. of ξχ | .0181422 .0035965<lb/> 5.04<lb/> 0.000<lb/> .0110932<lb/> .0251912<lb/> --</table>
+
+			<head>-----------+----------------------------------------------------------------<lb/></head>
+
+			<figure>S.E. of ξι<lb/> | -.0090068<lb/> .0044601<lb/> -2.02<lb/> 0.043<lb/> -.</figure>
+
+			<head>0177485<lb/> -.0002651<lb/></head>
+
+			<p>------------------------------------------------------------------------------<lb/></p>
+
+			<figure>Chile<lb/> Sample: 1950 -2007<lb/> Number of obs<lb/> =<lb/> 57<lb/></figure>
+
+			<p>Log likelihood = 93.5357<lb/> -----------------------------------------------------------------------------<lb/>log MFP<lb/> |<lb/> Coef.<lb/> Std. Err.<lb/> z<lb/> P&gt;|z|<lb/> [95% Conf. Interval]<lb/> -------------+----------------------------------------------------------------<lb/></p>
+
+			<table>γ 1982<lb/> | -.1585976<lb/> .0411957<lb/> -3.85<lb/> 0.000<lb/> -.</table>
+
+			<head>2393397<lb/> -.0778556<lb/> -------------+----------------------------------------------------------------<lb/>β 1982<lb/></head>
+
+			<table>|<lb/> 0.06319<lb/> .0140235<lb/> 1.47<lb/> 0.141<lb/> -.0068536<lb/> .0481175<lb/> S.E. of ξµ | 0.042634 .0017336<lb/> 2.46<lb/> 0.014<lb/> .0008655<lb/> .0076612<lb/> --</table>
+
+			<head>-----------+----------------------------------------------------------------<lb/>ρ cos(λ)<lb/></head>
+
+			<table>|<lb/> 7542281<lb/> 2.89e-06 2.6e+05<lb/> 0.000<lb/> .7542225<lb/> .7542338<lb/> ρ sin(λ)<lb/> |<lb/> 4502893<lb/> 1.72e-06 2.6e+05<lb/> 0.000<lb/> .4502859<lb/> .<lb/> S.E. of ξχ | . 0193095 .0041932<lb/> 4.60<lb/> 0.000<lb/> .011091<lb/> .0275281<lb/></table>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+			<table>S.E. of ξι<lb/> |<lb/> .0203625<lb/> .0039529<lb/> 5.15<lb/> 0.000<lb/> .0126149<lb/> .0281101<lb/></table>
+
+			<p>------------------------------------------------------------------------------<lb/></p>
+
+			<table>Colombia<lb/> Sample: 1950 -2007<lb/> Number of obs<lb/> =<lb/> 58<lb/> Log likelihood = 168.231<lb/> --</table>
+
+			<head>---------------------------------------------------------------------------<lb/>log MFP<lb/></head>
+
+			<table>|<lb/> Coef.<lb/> Std. Err.<lb/> z<lb/> P&gt;|z|<lb/> [95% Conf. Interval]<lb/></table>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+			<figure>γ 1982<lb/> | -.0589079<lb/> .0163315<lb/> -3.61<lb/> 0.000<lb/> -.</figure>
+
+			<head>090917<lb/> -.0268988<lb/></head>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+			<table>β 1982<lb/> | -.0202486<lb/> .0009121<lb/> -22.20<lb/> 0.000<lb/> -.0220363<lb/> -.0184609<lb/> S.E. of ξµ | 3.78e-11 .0001884<lb/> 0.00<lb/> 1.000<lb/> -.0003692<lb/> .0003692<lb/></table>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+				<formula>ρ cos(λ)<lb/> |</formula>
+
+			<table>.7802297<lb/> .052166<lb/> 14.96<lb/> 0.000<lb/> .6779863<lb/> .8824731<lb/> ρ sin(λ)<lb/> | .3666441<lb/> .0603868<lb/> 6.07<lb/> 0.000<lb/> .2482882<lb/> .4850001<lb/> S.E. of ξχ | -.0137002 .0012958 -10.57 0.000<lb/> -.0162398<lb/> -.0111605<lb/></table>
+
+				<formula>-------------+----------------------------------------------------------------<lb/>S.E.</formula>
+
+			<figure>of ξι | -6.98e-10 .0067861 -0.00 1.000 -.</figure>
+
+			<head>0133004 .0133004<lb/></head>
+
+			<p>------------------------------------------------------------------------------<lb/></p>
+
+			<figure>Mexico<lb/> Sample: 1950 -2007<lb/> Number of obs<lb/> =<lb/> 58<lb/> Log likelihood = 123.58014<lb/> -----------------------------------------------------------------------------<lb/>log MFP<lb/> |<lb/> Coef.<lb/> Std. Err.<lb/> z<lb/> P&gt;|z|<lb/> [95% Conf. Interval]<lb/> --</figure>
+
+			<head>-----------+----------------------------------------------------------------<lb/></head>
+
+			<figure>γ 1982<lb/> | -.1558083<lb/> .0115221<lb/> -13.52<lb/> 0.000<lb/> -.</figure>
+
+			<head>1783912<lb/> -.1332254<lb/> -------------+----------------------------------------------------------------<lb/></head>
+
+			<table>β 1982<lb/> | -.0150606<lb/> .0007016<lb/> -21.46<lb/> 0.000<lb/> -.0164358<lb/> -.0136854<lb/> S.E. of ξµ | 9.95e-12 .0001558<lb/> 0.00<lb/> 1.000<lb/> -.0003054<lb/> .0003054<lb/></table>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<table>DEV/DOC(2010)8<lb/> 40<lb/> © OECD 2010<lb/> ρ cos(λ)<lb/> |<lb/> .7152843<lb/> 2.40e-06 3.0e+05<lb/> 0.000<lb/> .7152796<lb/> .715289<lb/> ρ sin(λ)<lb/> |<lb/> .6461949<lb/> 4.06e-06 1.6e+05<lb/> 0.000<lb/> .6462028<lb/> .6461869<lb/> S.E. of ξχ | .0047896 .0015288<lb/> 3.13<lb/> 0.002<lb/> .0077859<lb/> .0017933<lb/></table>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+			<table>S.E. of ξι | -.019532<lb/> .002262<lb/> -8.63<lb/> 0.000<lb/> -.</table>
+
+			<head>0239654<lb/> -.0150986<lb/> ------------------------------------------------------------------------------<lb/></head>
+
+			<figure>Peru<lb/> Sample: 1950 -2007<lb/> Number of obs<lb/> =<lb/> 58<lb/> Log likelihood = 89.85937<lb/> -----------------------------------------------------------------------------<lb/>log MFP<lb/> |<lb/> Coef.<lb/> Std. Err.<lb/> z<lb/> P&gt;|z|<lb/> [95% Conf. Interval]<lb/> --</figure>
+
+			<head>-----------+----------------------------------------------------------------<lb/>γ 1982<lb/></head>
+
+			<table>| -.0245013<lb/> .0455782<lb/> -0.54<lb/> 0.591<lb/> -.1138329<lb/> .0648302<lb/></table>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+			<table>β 1982<lb/> | -.0336053<lb/> .0225792<lb/> -1.49<lb/> 0.137<lb/> -.0778597<lb/> .0106492<lb/> S.E. of ξµ | .0076486<lb/> .002554<lb/> 2.99<lb/> 0.003<lb/> .0026427<lb/> .0126544<lb/></table>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+				<formula>ρ cos(λ)<lb/> |<lb/></formula>
+
+			<table>.6275314<lb/> 2.78e-06 2.3e+05<lb/> 0.000<lb/> .6275259<lb/> .6275368<lb/> ρ sin(λ)<lb/> |<lb/> .5331292<lb/> 2.36e-06 2.3e+05<lb/> 0.000<lb/> .5331246<lb/> .5331338.<lb/> S.E. of ξχ | .0298896 .0030726<lb/> 9.73<lb/> 0.000<lb/> .0359118<lb/> .0238673<lb/> --</table>
+
+			<head>-----------+----------------------------------------------------------------<lb/></head>
+
+			<table>S.E. of ξι<lb/> |<lb/> 2.89e-32<lb/> .0116013<lb/> 0.00<lb/> 1.000<lb/> -.0227381<lb/> .0227381<lb/> --</table>
+
+			<head>---------------------------------------------------------------------------<lb/></head>
+
+			<figure>Uruguay<lb/> Sample: 1950 -2007<lb/> Number of obs<lb/> =<lb/> 58<lb/></figure>
+
+			<p>Log likelihood = 89.822777<lb/> -----------------------------------------------------------------------------<lb/></p>
+
+				<formula>log MFP<lb/> |<lb/> Coef.<lb/> Std. Err.<lb/> z<lb/> P&gt;|z|<lb/> [95% Conf. Interval]<lb/> -------------+----------------------------------------------------------------<lb/>γ 1982<lb/> | -.0956271<lb/> .0450603<lb/> -2.12<lb/> 0.034<lb/> -.1839436<lb/> -.0073105<lb/> -------------+----------------------------------------------------------------<lb/></formula>
+
+			<table>β 1982<lb/> |<lb/> .0032569<lb/> .0192269<lb/> 0.17<lb/> 0.865<lb/> -.0344272<lb/> .040941<lb/> S.E. of ξµ | .0052465 .0025954<lb/> 2.02<lb/> 0.043<lb/> .0001596<lb/> .0103334<lb/></table>
+
+			<p>-------------+----------------------------------------------------------------<lb/></p>
+
+				<formula>ρ cos(λ)<lb/> |<lb/></formula>
+
+			<table>.7841392<lb/> 3.36e-06 2.3e+05<lb/> 0.000<lb/> .7841326<lb/> .7841458<lb/> ρ sin(λ)<lb/> |<lb/> .3442606<lb/> 2.25e-06 1.5e+05<lb/> 0.000<lb/> .3442562<lb/> .344265<lb/> S.E. of ξχ | .0352872 .0035362<lb/> 9.98<lb/> 0.000<lb/> .0283563<lb/> .0422181<lb/> --</table>
+
+			<head>-----------+----------------------------------------------------------------<lb/>S.E. of ξι<lb/></head>
+
+			<p>|<lb/> 2.72e-07<lb/> .0103452<lb/> 0.00<lb/> 1.000<lb/> -</p>
+
+			<head>.020276<lb/> .0202765<lb/> ------------------------------------------------------------------------------<lb/></head>
+
+			<p>OECD Development Centre Working Paper No. 291<lb/> DEV/DOC(2010)8<lb/> OECD 2010<lb/> 41<lb/></p>
+
+			<head>A.2. Tax rates<lb/></head>
+
+			<figure>Figure A.1. Marginal personal income tax by income levels<lb/> (Percentage)<lb/> 0.00<lb/> 5.00<lb/> 10.00<lb/> 15.00<lb/> 20.00<lb/> 25.00<lb/> 30.00<lb/> 35.00<lb/> 40.00<lb/> 45.00<lb/> 0.5<lb/> 1<lb/> 1.5<lb/> 2<lb/> 2.5<lb/> 3<lb/> ARG<lb/> CHL<lb/> COL<lb/> CRI<lb/> MEX<lb/> PER<lb/> URU<lb/> SPA<lb/> OECD<lb/> Note: Marginal tax rate by household labour income level. 1 represents the national average. OECD unweighted average,<lb/> excluding Chile and Mexico<lb/> Source: Authors&apos; calculations based on OECD Taxing Wages (Mexico), Ministries of Finance (Chile and Uruguay) and own<lb/> elaboration (Argentina, Colombia, Costa Rica and Peru)<lb/> Figure A.2. Average personal income tax by income levels<lb/> (Percentage)<lb/> 0.00<lb/> 5.00<lb/> 10.00<lb/> 15.00<lb/> 20.00<lb/> 25.00<lb/> 30.00<lb/> 0.25<lb/> 0.75<lb/> 1.25<lb/> 1.75<lb/> 2.25<lb/> 2.75<lb/> ARG<lb/> CHL<lb/> COL<lb/> CRI<lb/> MEX<lb/> PER<lb/> SPA<lb/> URU<lb/> OECD<lb/> Note: Average tax rate by household labour income level. 1 represents the national average. OECD unweighted average,<lb/> excluding Chile and Mexico<lb/> Source: Authors&apos; calculations based on OECD Taxing Wages (Mexico), Ministries of Finance (Chile and Uruguay) and own<lb/> elaboration (Argentina, Colombia, Costa Rica and Peru)<lb/></figure>
+
+			<head>Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/></head>
+
+			<figure>DEV/DOC(2010)8<lb/> 42<lb/> © OECD 2010<lb/> Figure A.3. Marginal social contribution tax by income levels<lb/> (Percentage)<lb/> 0.00<lb/> 5.00<lb/> 10.00<lb/> 15.00<lb/> 20.00<lb/> 25.00<lb/> 30.00<lb/> 35.00<lb/> 40.00<lb/> 45.00<lb/> 0.1<lb/> 0.6<lb/> 1.1<lb/> 1.6<lb/> 2.1<lb/> 2.6<lb/> 3.1<lb/> 3.6<lb/> 4.1<lb/> 4.6<lb/> 5.1<lb/> 5.6<lb/> ARG<lb/> CHL<lb/> COL<lb/> CRI<lb/> MEX<lb/> PER<lb/> URU<lb/> Note: Marginal tax rate by household labour income level. 1 represents the national average<lb/> Source: Authors&apos; calculations based on OECD Taxing Wages (Mexico), Ministries of Finance (Chile and Uruguay) and<lb/> own elaboration (Argentina, Colombia, Costa Rica and Peru)<lb/> Figure A.4. Average social contribution tax by income levels<lb/> (Percentage)<lb/> 0.00<lb/> 5.00<lb/> 10.00<lb/> 15.00<lb/> 20.00<lb/> 25.00<lb/> 30.00<lb/> 35.00<lb/> 40.00<lb/> 45.00<lb/> 0 . 5<lb/> 1<lb/> 1 . 5<lb/> 2<lb/> 2 . 5<lb/> 3<lb/> ARG<lb/> COL<lb/> CHL<lb/> CRI<lb/> MEX<lb/> PER<lb/> URU<lb/> SPA<lb/> OECD<lb/> Note: Average tax rate by household labour income level. 1 represents the national average. OECD unweighted average,<lb/> excluding Chile and Mexico<lb/> Source: Authors&apos; calculations based on OECD Taxing Wages (Mexico), Ministries of Finance (Chile and Uruguay) and own<lb/> elaboration (Argentina, Colombia, Costa Rica and Peru)<lb/> Table A.1. General government revenues (Percentage points of GDP)<lb/> Corporate<lb/> Personal<lb/> Indirect<lb/> Social<lb/> security Total<lb/> Non-tax<lb/> revenue<lb/> Total<lb/> Argentina<lb/> 3.5<lb/> 1.5<lb/> 11.6<lb/> 3.8<lb/> 20.4<lb/> 2.8<lb/> 23.2<lb/> Brazil<lb/> 3.4<lb/> 0.3<lb/> 14.2<lb/> 8.1<lb/> 26.1<lb/> 4.8<lb/> 30.9<lb/> Chile<lb/> 5.5<lb/> 1.0<lb/> 9.4<lb/> 1.4<lb/> 17.2<lb/> 8.1<lb/> 25.3<lb/> Colombia<lb/> 5.7<lb/> 0.2<lb/> 5.6<lb/> 2.2<lb/> 15.6<lb/> 12.6<lb/> 28.2<lb/> Costa Rica<lb/> 3.2<lb/> 1.3<lb/> 8.9<lb/> 6.4<lb/> 19.8<lb/> 2.7<lb/> 22.5<lb/> Mexico<lb/> 2.3<lb/> 2.0<lb/> 3.7<lb/> 1.3<lb/> 9.3<lb/> 13.3<lb/> 22.6<lb/> Peru<lb/> 5.2<lb/> 1.4<lb/> 7.0<lb/> 1.6<lb/> 15.1<lb/> 3.1<lb/> 18.2<lb/> Uruguay<lb/> 2.6<lb/> 1.9<lb/> 10.1<lb/> 6.2<lb/> 20.8<lb/> 6.2<lb/> 27.0<lb/></figure>
+
+			<table>France<lb/> 2.2<lb/> 9.0<lb/> 15.1<lb/> 18.5<lb/> 44.7<lb/> 4.6<lb/> 49.4<lb/> Germany<lb/> 0.8<lb/> 9.8<lb/> 12.0<lb/> 18.6<lb/> 41.1<lb/> 3.1<lb/> 44.2<lb/> Italy<lb/> 2.5<lb/> 11.2<lb/> 14.5<lb/> 13.1<lb/> 41.3<lb/> 2.6<lb/> 44.0<lb/> Japan<lb/> 2.9<lb/> 4.6<lb/> 8.3<lb/> 10.6<lb/> 26.3<lb/> 1.5<lb/> 27.8<lb/> Korea<lb/> 3.1<lb/> 4.0<lb/> 12.8<lb/> 4.7<lb/> 24.5<lb/> 3.1<lb/> 27.7<lb/> Spain<lb/> 3.4<lb/> 7.2<lb/> 12.0<lb/> 13.7<lb/> 36.2<lb/> 2.7<lb/> 38.9<lb/> United Kingdom<lb/> 2.9<lb/> 12.5<lb/> 13.3<lb/> 7.8<lb/> 36.4<lb/> 3.0<lb/> 39.4<lb/> United States<lb/> 2.1<lb/> 9.1<lb/> 7.3<lb/> 7.0<lb/> 25.4<lb/> 4.9<lb/> 30.4<lb/> Tax<lb/> Current primary revenue<lb/> Note: Data is referred to 2003 for the OECD excluding Chile and Mexico, 2008 for Uruguay and 2006 for Latin America<lb/> Source: ECLAC-ILPES and IDB databases, and Girouard and André (2005)<lb/> Table A.2. Tax elasticities<lb/> Corporate<lb/> Personal<lb/> Indirect<lb/> Social Security<lb/> Total<lb/> Total<lb/> Income Tax<lb/> Income Tax<lb/> Taxes<lb/> Contributions<lb/> over cyc-adj taxes<lb/> over GDP<lb/></table>
+
+			<figure>Argentina<lb/> 0.83<lb/> 3.61<lb/> 1.00<lb/> 1.08<lb/> 1.16<lb/> 0.27<lb/> Brazil<lb/> 1.17<lb/> 2.72<lb/> 1.00<lb/> 1.44<lb/> 0.95<lb/> 0.25<lb/> Chile<lb/> 0.66<lb/> 3.51<lb/> 1.00<lb/> 1.30<lb/> 1.30<lb/> 0.14<lb/> Colombia<lb/> 0.96<lb/> 2.65<lb/> 1.00<lb/> 0.55<lb/> 0.94<lb/> 0.14<lb/> Costa Rica<lb/> 0.27<lb/> 4.49<lb/> 1.00<lb/> 1.67<lb/> 1.31<lb/> 0.27<lb/> Mexico<lb/> 0.69<lb/> 2.95<lb/> 1.00<lb/> 0.76<lb/> 1.29<lb/> 0.13<lb/> Peru<lb/> 0.38<lb/> 5.33<lb/> 1.00<lb/> 1.94<lb/> 1.54<lb/> 0.18<lb/> Uruguay<lb/> 1.18<lb/> 2.85<lb/> 1.00<lb/> 0.95<lb/> 1.17<lb/> 0.25<lb/> LAC<lb/> 0.69<lb/> 3.61<lb/> 1.00<lb/> 1.28<lb/> 1.22<lb/> 0.19<lb/> Canada<lb/></figure>
+
+			<table>1.55<lb/> 1.10<lb/> 1.00<lb/> 0.56<lb/> 1.03<lb/> 0.34<lb/> France<lb/> 1.59<lb/> 1.18<lb/> 1.00<lb/> 0.79<lb/> 0.98<lb/> 0.49<lb/> Germany<lb/> 1.53<lb/> 1.61<lb/> 1.00<lb/> 0.57<lb/> 0.96<lb/> 0.44<lb/> Italy<lb/> 1.12<lb/> 1.79<lb/> 1.00<lb/> 0.86<lb/> 1.18<lb/> 0.40<lb/> Japan<lb/> 1.65<lb/> 1.17<lb/> 1.00<lb/> 0.55<lb/> 0.92<lb/> 0.39<lb/> Korea<lb/> 1.52<lb/> 1.40<lb/> 1.00<lb/> 0.51<lb/> 1.04<lb/> 0.25<lb/> Spain<lb/> 1.15<lb/> 1.92<lb/> 1.00<lb/> 0.68<lb/> 1.08<lb/> 0.39<lb/> United Kingdom<lb/> 1.66<lb/> 1.18<lb/> 1.00<lb/> 0.91<lb/> 1.10<lb/> 0.34<lb/> United States<lb/> 1.53<lb/> 1.30<lb/> 1.00<lb/> 0.64<lb/> 1.05<lb/> 0.24<lb/> OECD<lb/> 1.47<lb/> 1.21<lb/> 1.00<lb/> 0.71<lb/> 1.02<lb/> 0.40<lb/> Note: LAC unweighted average. OECD unweighted average, excluding Chile and Mexico<lb/> Source: Authors&apos; calculations for Argentina, Chile, Colombia, Costa Rica, Mexico and Uruguay, de Mello and Moccero<lb/> (2006) for Brazil, and Girouard and André (2005) for the rest<lb/> Fiscal Policy in Latin America: Countercyclical and Sustainable at Last?<lb/> DEV/DOC(2010)8<lb/> 44<lb/> © OECD 2010<lb/></table>
+
+			<head>A.3. Commodity series<lb/> Argentina<lb/></head>
+
+			<p>We consider export taxes introduced in 2002 ( &quot; Derechos de exportaciones &quot; ). All data are<lb/> available at: http://www.mecon.gov.ar/sip/basehome/rectrib.htm<lb/></p>
+
+			<p>Prices come from the IMF commodity price database (food and energy indices) and are weighted<lb/> according to their importance in exports.<lb/></p>
+
+			<head>Chile<lb/> • Corporate income tax paid by CODELCO<lb/></head>
+
+			<p>• Transfers from CODELCO to the central government<lb/> • Royalties paid by private mining firms<lb/></p>
+
+			<p>All these data come from DIPRES (www.dipres.cl). The price adjustment is based on a 10-year<lb/> rolling window average of copper prices from COCHILO (refined copper prices BML/LME in<lb/> US$).<lb/></p>
+
+			<figure>Mexico<lb/> • PEMEX net income<lb/> • Royalties paid by private firms in the petrol sector to the federal government<lb/> • Special tax on petrol related income<lb/> • Specific net excise tax (IEPS)<lb/></figure>
+
+			<p>All data come from the SHCP (www.apartados.hacienda.gob.mx). The price adjustment is based<lb/> on a 10-year rolling window oil prices from the IMF commodity price database.<lb/></p>
+
+			<head>Peru<lb/> • Royalties paid by mining sector<lb/></head>
+
+			<p>• Corporate income tax paid by mining and hydrocarbon sector, petrol refinery, fishing<lb/> sector, non-metal minerals<lb/> • General Internal Sales Tax of same sectors<lb/></p>
+
+			<p>Prices are taken from the IMF commodity prices database (copper, fishmeal, oil and gold),<lb/> weighted by importance of sectors in revenues.</p>
+
+
+	</text>
+</tei>

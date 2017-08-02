@@ -1,0 +1,571 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+			<head>NOTE BY THE SECRETARIAT<lb/></head>
+
+			<p>This paper has been authored by Zoe Dayan and Winona Rei Bolislis with significant inputs from<lb/> Filippo Cavassini and Faisal Naru. The authors would like to thank Max Bulakovskiy, Antonio Fanelli,<lb/> Stephen Lumpkin, Mark Steel, Julie Nind, and Nick Malyshev for their useful comments. The authors<lb/> would also like to thank our colleagues from the ASEAN Secretariat, Nora&apos;in Ali and Fadhlan Rifki Weno<lb/> for their valuable support to this paper. This paper contributes to Component 2 of the Canada-OECD<lb/> Project for ASEAN SMEs (COPAS) that supports the activities of the ASEAN Task Force on Business<lb/> Registration. A draft of the paper was also presented and discussed at the 3 rd ASEAN-OECD Good<lb/> Regulatory Practice Meeting on 14 March, 2017, in Iloilo City Philippines. The authors would like to thank<lb/> all the delegates who attended the meeting and contributed to the paper.<lb/></p>
+
+			<table>TABLE</table>
+
+			<figure>OF CONTENTS<lb/> NOTE BY THE SECRETARIAT .</figure>
+
+			<head>.................................................................................................................. 4<lb/> TABLE OF CONTENTS ................................................................................................................................ 5<lb/></head>
+
+			<p>INTRODUCTION -WHY CARE ABOUT BUSINESS ENTRY REGISTRATION? .</p>
+
+			<head>................................. 7<lb/></head>
+
+			<p>Why would a business register? .</p>
+
+			<head>.................................................................................................................. 7<lb/></head>
+
+			<p>Why governments want businesses to register? .</p>
+
+			<head>.......................................................................................... 8<lb/> Reforms to increase registration .................................................................................................................. 9<lb/></head>
+
+			<p>What is a business register? .</p>
+
+			<head>...................................................................................................................... 10<lb/></head>
+
+			<p>I. GOOD PRACTICE IN CUSTOMER ORIENTATION .</p>
+
+			<head>........................................................................... 11<lb/></head>
+
+			<p>Pillar 1: Minimise formal requirements .</p>
+
+			<head>.................................................................................................... 12<lb/> Reduce or eliminate capital requirements .............................................................................................. 12<lb/> Review historical requirements .............................................................................................................. 12<lb/></head>
+
+			<p>A goal-based approach to company formation and termination, with simple standard models but<lb/> flexibility allowed if wanted.</p>
+
+			<head>.................................................................................................................. 13<lb/></head>
+
+			<p>Pillar 2: Elimination of multiple checks and validation in the process .</p>
+
+			<head>..................................................... 15<lb/></head>
+
+			<p>To eliminate duplication of information obligations .</p>
+
+			<head>............................................................................. 15<lb/></head>
+
+			<p>Easy access to clear, accurate information about what is required .</p>
+
+			<head>....................................................... 15<lb/></head>
+
+			<p>A simple and practical process to follow .</p>
+
+			<head>.............................................................................................. 16<lb/></head>
+
+			<p>Pillar 3: Commit to time frames .</p>
+
+			<head>................................................................................................................ 16<lb/></head>
+
+			<p>Transparent service standards (speed, timeliness, feedback and redress) .</p>
+
+			<head>............................................. 16<lb/></head>
+
+			<p>Pillar 4: Inform businesses of their rights .</p>
+
+			<head>................................................................................................. 18<lb/> Incentives aligned to promote compliance ............................................................................................. 18<lb/></head>
+
+			<p>II. GOOD PRACTICE IN JOINED-UP GOVERNMENT .</p>
+
+			<head>.......................................................................... 19<lb/></head>
+
+			<p>Pillar 5: Have a credible system for reviewing regulations .</p>
+
+			<head>...................................................................... 19<lb/></head>
+
+			<p>Make effective use of one-stop shops .</p>
+
+			<head>................................................................................................... 21<lb/></head>
+
+			<p>Provide information once only .</p>
+
+			<head>.............................................................................................................. 22<lb/></head>
+
+			<p>Pillar 6: Move towards a unique business identifier .</p>
+
+			<head>................................................................................. 23<lb/></head>
+
+			<p>Pillar 7: Make effective use of ICT .</p>
+
+			<head>........................................................................................................... 24<lb/> Provide appropriate protection of data ................................................................................................... 26<lb/> Enable online applications...................................................................................................................... 26<lb/></head>
+
+			<p>Implement simple and transparent fees and payment systems .</p>
+
+			<head>.............................................................. 27<lb/></head>
+
+			<p>Pillar 8: Take the opportunity for business licensing reform .</p>
+
+			<head>.................................................................... 29<lb/></head>
+
+			<p>III. FEATURES OF A MODERN NATIONAL BUSINESS REGISTRATION SYSTEM .</p>
+
+			<head>....................... 29<lb/></head>
+
+			<p>Challenges and policy recommendations for ASEAN .</p>
+
+			<head>.............................................................................. 31<lb/></head>
+
+			<p>POLICY RECOMMENDATION 1: Simplify legal company forms and requirements, such as capital<lb/> deposit .</p>
+
+			<head>................................................................................................................................................... 31<lb/> POLICY RECOMMENDATION 2: Map and simplify processes ........................................................ 34<lb/></head>
+
+			<p>POLICY RECOMMENDATION 3: Build on the one-stop shop approach .</p>
+
+			<head>......................................... 34<lb/></head>
+
+			<figure>POLICY RECOMMENDATION 4: Consider other business permit / licensing requirements. ........... 35<lb/> IV. DRIVERS OF A MODERN REGIONAL BUSINESS REGISTRATION SYSTEM .</figure>
+
+			<head>........................... 38<lb/></head>
+
+			<p>Challenges and policy recommendations for ASEAN .</p>
+
+			<head>.............................................................................. 40<lb/></head>
+
+			<p>POLICY RECOMMENDATION 5: Define objectives and targets for business registration in ASEAN40<lb/> POLICY RECOMMENDATION 6: Share skills across ASEAN .</p>
+
+			<head>........................................................ 41<lb/></head>
+
+			<p>Tables<lb/> <ref type="table">Table 1</ref>. 1 Comparison of ASEAN member state performance on insolvency measures .</p>
+
+			<head>......................... 14<lb/> <ref type="table">Table 2</ref>.1. Singapore – ACRA Service Standards (extract) .</p>
+
+			<head>...................................................................... 16<lb/> <ref type="table">Table 2</ref>.2. Hong Kong Companies Registry – Service standards (extract) .</p>
+
+			<head>............................................... 17<lb/> <ref type="table">Table 3</ref>.1 Legal requirements for starting a domestic business in ASEAN member states .</p>
+
+			<head>...................... 32<lb/> <ref type="table">Table 3</ref>.2. Summary comparison of ease of starting a business across ASEAN .</p>
+
+			<head>...................................... 33<lb/> <ref type="table">Table 3</ref>.3 Current one stop shops and combination of registration for business start-up in ASEAN<lb/> member states .</p>
+
+			<head>........................................................................................................................................... 36<lb/></head>
+
+			<figure>Figures<lb/> Progress of the EU Points of Single Contact .</figure>
+
+			<head>............................................................................................ 39<lb/></head>
+
+			<p>Boxes<lb/></p>
+
+			<head>INTRODUCTION -WHY CARE ABOUT BUSINESS ENTRY REGISTRATION?<lb/></head>
+
+			<p>Firm creation is important for GDP growth and jobs. But micro, small-and medium-sized enterprises<lb/> continue to start up and operate under sub-optimal conditions in economies around the world. Barriers<lb/> associated with registration, &apos;Entry barriers&apos;, are one of the early constraints that aspiring entrepreneurs<lb/> encounter while attempting to access the formal economy.<lb/></p>
+
+			<head>Why would a business register?<lb/></head>
+
+			<p>Registering a business provides it with formal protection of rights and removes the threat of penalties.<lb/> It should make it easier to trade and grow, for instance by improving access to credit (banks will rarely<lb/> lend to informal businesses) or government support.<lb/></p>
+
+			<p>Business registration, oftentimes in the form of incorporation, gives the business the characteristics of<lb/> a legal entity. It limits the liability of shareholders and reduces the transactions costs of organizing<lb/> commercial activity by giving the business a legal persona, providing assurance that contracts are<lb/> enforceable. The articles of association and any associated memorandum achieve this and establish limited<lb/> liability for company agents or entrepreneurs who engage in contracts on behalf of the company or<lb/> enterprise. These articles are filed in the registry and shield those acting on behalf of the company or<lb/> enterprise from personal liability.<lb/></p>
+
+			<head>Box 1. Registration reduces risk<lb/></head>
+
+			<p>In modern trade, transactions can be complex, involving dozens of steps and suppliers. The more complex and<lb/> the longer the time frame over which it occurs, the greater the risk. Registration can reduce that risk.<lb/> For example, an importer of agricultural products in one country wishes to place an order with an exporter in<lb/> another country, far away. Registration lets the importer find out that the company they are dealing with is in good<lb/> standing and that the counterpart in the company with which they are dealing has the legal authority to commit to an<lb/> export contract.<lb/></p>
+
+			<p>Each firm compares its perceived costs of being formal—including the burden of initial registration<lb/> and ongoing costs (e.g., tax payments, licensing, labour law)—with its perceived benefits of being formal<lb/> (e.g., access to larger contracts, banks, courts and government contracts, potential growth in productivity 1 ,<lb/> reduced risk of fines and penalties). Businesses with larger efficient scales rationally register as they grow<lb/> large enough to benefit from the formal institutions. The majority of microenterprises in most developing<lb/> countries remain informal, despite more than a decade of reforms 2 aimed at making it easier and cheaper<lb/> for them to formalize, because of the lack of intention or interest to grow. What, therefore, are the elements<lb/> of business registration that can help motivate businesses to grow and why should this be important for<lb/> governments?<lb/></p>
+
+			<head>Why governments want businesses to register?<lb/></head>
+
+			<p>Government wants new businesses to be created for many reasons. The effect of new business<lb/> formation is to increase economic growth 3 by fostering firm productivity 4 , increasing jobs 5 in the new and<lb/> incumbent businesses, and raising profitability by reducing the transaction costs of doing business. The<lb/> competition created lowers prices and drives innovation and technology adoption, creating a better range of<lb/> products for consumers. Registration enables businesses to link into regional and global supply chains,<lb/> with advantages of larger markets, access to finance and technology, and exposure to good business<lb/> practice and skills.<lb/></p>
+
+			<p>Good registration is also an important step in the broader promotion of an accountable, transparent,<lb/> efficient, and predictable regulatory business operating environment, often implemented by different<lb/> licensing and inspection authorities and tax and custom administrations.<lb/> Informal employment is positively correlated with poverty and low-level of development. 60-80% of<lb/> micro, small, and medium enterprises (MSMEs) in developing countries are informal (IFC 2014). They are<lb/> typically three-person enterprises or smaller (McKenzie and Bruhn 2013). For instance, 90% of informal<lb/> firms in Sri Lanka are sole trader enterprises (<ref type="biblio">De Mel et. al. 2013</ref>). In the 43 developing and transition<lb/> economies for which ILO data is available on the share of the workforce in informal sector enterprises, the<lb/> main job of a third (31%) of the non-agricultural workforce is in an informal sector enterprise 6 . In<lb/> Cambodia in 2013, under half of agro-enterprises had any degree of formality 7 .<lb/></p>
+
+			<p>Bringing businesses into the formal economy is an entry point for fair taxation, protection of<lb/> employees, other business licensing and investor protection (e.g. disqualification of insolvent directors,<lb/> share registration). Expanding the tax base allows government to pursue these and other policy objectives.<lb/> Registration also provides valuable data for policy development.<lb/></p>
+
+			<p>Conversely, excessively cumbersome regulation for start-ups is associated with higher levels of<lb/> corruption and informality 8 . There is also some evidence that FDI crowds out domestic investment in<lb/> countries with entry regulation cost above a certain level 9 . Making the business exit process more cost-<lb/>effective can also facilitate a more efficient allocation of capital and labour in different sectors. Job losses<lb/> due to failing firms should be outweighed by jobs created.<lb/></p>
+
+			<head></head>
+
+			<table>Lower barriers to start-up are associated with a smaller informal sector.<lb/>  Lower costs of entry encourage entrepreneurship, enhance firm productivity and reduce<lb/> corruption.<lb/>  Simple start-up translates into greater employment opportunities<lb/></table>
+
+			<head>Reforms to increase registration<lb/></head>
+
+			<p>Starting up a business has usually involved 3 phases of interaction with regulatory requirements:<lb/>  pre-registration – e.g. name check, prepare company statutes, deposit capital<lb/>  registration – procedures at the registry and announcement<lb/>  post-registration – e.g. acquiring company books and seal, registration with tax and labour<lb/> authorities, other permits/licenses and related inspections<lb/></p>
+
+			<p>Klapper and Love (2010) 10 find that a more than 40% reduction in procedures and 50% in costs and<lb/> time are needed to have a significantly increase registrations. Other studies show that these can increase<lb/> registration by up to 20%. Countries with weaker business environments require relatively larger reforms<lb/> in order increase registration. Multiple reforms make more impact. It is beneficial to make entry regulation<lb/> simple but it will not increase formal registration if tax rates or other regulations are onerous. 11<lb/></p>
+
+			<head>What is a business register?<lb/></head>
+
+			<p>A registry is where the laws governing the formation of companies or enterprises, the creation and<lb/> enforcement of contracts and the formalization of collecting and storing of essential information on which<lb/> economic activity is based intersect. The register may also include non-incorporated businesses, such as<lb/> sole traders/proprietorships, partnerships or other legal forms.<lb/> A registry typically contains answers to questions such as, &apos;Who makes the decisions in a company or<lb/> enterprise and benefits from them?&apos; i.e. who are the shareholders, the directors and the beneficial owners,<lb/> &apos;Who has the legal authority to enter into contracts on behalf of the company or enterprise?&apos;, and &apos;At what<lb/> address should legal notices be served?&apos;<lb/> Specific national requirements vary considerably, reflecting the local legal and administrative context<lb/> (e.g. local/ national responsibilities), how far compliance is expected or approval required in advance.<lb/></p>
+
+			<head>I. GOOD PRACTICE IN CUSTOMER ORIENTATION<lb/></head>
+
+			<p>Customer orientation is an approach in which objectives are defined around satisfying the customers,<lb/> registering businesses, while achieving the policy objective of high registration compliance to enable<lb/> sustainable economic growth.<lb/> It means arranging processes around the needs of new businesses rather than the ease of existing<lb/> agency structures. Institutions, laws and procedures may all need to be changed to make the new processes<lb/> effective and efficient. Agencies will need to work with businesses and organisations skilled in business<lb/> support to understand what a business needs, when it needs it, and provide it in the way that is simplest and<lb/> cheapest for the business.<lb/> As a new business needs to interact with many areas of government policy – company law, taxation,<lb/> labour law and employee protection to name but a few, this means that many public laws and functions are<lb/> relevant. This goes far beyond the Ministry responsible for commerce and requires close interaction with<lb/> relevant ministries and stakeholders. It is undeniably difficult and risky to change everything at once. As a<lb/> result, most countries make improvements on a step-by-step basis.<lb/></p>
+
+			<p>Business should be able to expect:<lb/>  a reduction or elimination of capital deposit requirements<lb/>  a review of historical requirements<lb/>  a goal-based approach to company or enterprise formation and termination, with simple standard<lb/> models<lb/>  to eliminate duplication of information obligations<lb/>  easy access to clear, accurate information about what is required<lb/>  a simple and practical process to follow<lb/>  transparent service standards (speed, timeliness, feedback and redress)<lb/>  incentives aligned to promote compliance<lb/></p>
+
+			<p>The legal requirements for business registration come from company law. However, business<lb/> registration is not the only requirement before a company can legally operate. There are other registrations,<lb/> permits and licences required. Everything that the public sector requires before a business can legally<lb/> operate should be considered as part of the &apos;start-up&apos; process.<lb/></p>
+
+			<p>An effective and efficient process requires well designed laws and regulations, effective co-ordination<lb/> among national and regional agencies – with coherent policy objectives legal backing, clearly defined<lb/> responsibilities, adequate and well-trained registration, permit/licensing and enforcement resources and<lb/> effective consultation.<lb/> A dynamic approach should be adapted to improving systems over time, with reforms carried out in a<lb/> logical order and effectively evaluated.<lb/></p>
+
+			<head>Pillar 1: Minimise formal requirements<lb/> Reduce or eliminate capital requirements<lb/></head>
+
+			<p>Minimum capital requirements significantly slow entrepreneurship. 13 Such requirements also fail to<lb/> serve their intended purpose of protecting consumers and creditors from hastily established and potentially<lb/> insolvent firms 14 . In recent years many governments have stopped requiring new businesses to deposit<lb/> minimum capital in banks or with notaries before they can begin operations. As access to finance is<lb/> probably the largest barrier to MSME growth 15 , capital deposit requirements should be a priority.<lb/></p>
+
+			<figure>Box 3. International elimination of minimum capital deposit requirements<lb/> The Organization for the Harmonization of Business Law in Africa (OHADA) has encouraged member states to<lb/> reduce their minimum capital requirements. Seven member states have already passed national legislation to this<lb/> effect in 2014/15, and were followed by six more in 2015/16.<lb/></figure>
+
+			<p>In 2016, the government of Indonesia passed Government Regulation No. 7 of 2016, which abolished the<lb/> formerly imposed minimum capital requirement for small and medium sized enterprises (SMEs) previously amounting<lb/> to 31% income per capita.<lb/></p>
+
+			<head>Review historical requirements<lb/></head>
+
+			<p>When reviewing requirements, requirements that were obvious in the past can be reconsidered. For<lb/> instance, in an increasingly digital age, is a carved Company Seal really a necessity? Historically, common<lb/> seals were the standard means by which a company would execute documents and they had to be affixed to<lb/> deeds. In a world of electronically verified signatures, what role should they now play? Does anyone check<lb/> a seal now?<lb/></p>
+
+			<figure>Box 4. Who uses a company seal?<lb/></figure>
+
+			<p>Australia: The Company Law Review Act 1988 abolished the requirement for a company to have a seal, and the<lb/> need for documents to be executed under seal.<lb/></p>
+
+			<head>Hong Kong, China:</head>
+
+			<p>The use of a common seal, or company seal, was made optional in starting a business<lb/> under the new Companies Ordinance (Chapter 622). A company can now execute a document either by signature or<lb/> using a common seal, at their discretion.<lb/></p>
+
+			<head>Cambodia</head>
+
+			<p>: A seal is still required although the Law on Commercial Enterprises, Article 115 states, &apos;An<lb/> instrument or agreement executed on behalf of a company by a director, an officer or an agent of the company is not<lb/> invalid merely because a corporate seal is not affixed thereto. (Note: many legal and financial transactions in<lb/> Cambodia use a combination of signature with photocopy of ID card or thumbprint)<lb/> Some countries still have a separate and relatively expensive step to check and reserve the proposed<lb/> company name. If the business register is open online, could the entrepreneur choose whether to check it or<lb/> get legal or other business service support to assure the name is within the rules? If a company or<lb/> enterprise can be registered immediately, what is the need for a name reservation period?<lb/></p>
+
+			<figure>Box 5. Checking the name of a new business in the UK<lb/> The entrepreneur checks the name by themselves against the legal restrictions and the Companies House and<lb/> Trademark Registers. They may have to change the name if someone complains and Companies House agrees it&apos;s<lb/> &apos;too like&apos; a name registered before yours. Fewer than 10 cases per year are taken to the Company Names Tribunal.<lb/></figure>
+
+			<head>A goal-based approach to company formation and termination, with simple standard models but<lb/> flexibility allowed if wanted<lb/></head>
+
+			<p>The needs of small company start-ups and big companies are different and the risks they pose can be<lb/> different too. The demands at registration should be the minimum needed to meet the relevant economic,<lb/> social and environmental requirements. The corporate registry typically contains answers to questions such<lb/> as, &apos;Who makes the decisions in a company and benefits from them?&apos; i.e. who are the shareholders and the<lb/> directors, &apos;Who has the legal authority to enter into contracts on behalf of the company?&apos;, and &apos;At what<lb/> address should legal notices be served?&apos; Especially for small companies, the use of this information should<lb/> be reviewed and the benefits of more extensive information assessed against the costs. An entrepreneur<lb/> may just want a simple clear requirement: &apos;Just tell me what to do&apos;. Model company statutes are able to<lb/> provide this. However, larger, more complex businesses value options for flexibility.<lb/></p>
+
+			<figure>Box 6. UK Company Law reform: &apos;Think Small First&apos;-Some of the proposals for small businesses<lb/> Legislation should provide a self-contained statement of the law for the small and private companies. More<lb/> detailed provisions can be added for larger and public companies.<lb/></figure>
+
+			<p> Simplify the law for private companies generally, by simplifying the model constitution, simplifying capital<lb/> maintenance rules, removing the requirement to have a company secretary<lb/>  Simplify the law further for &quot; owner-managed &quot; companies (owners and directors are the same people)<lb/></p>
+
+			<head> Simpler forms of report and accounts<lb/></head>
+
+			<p>Exemption from audit for smallest companies. (Note: Latest review, after further modifications to the law, is that<lb/> up to 90% of eligible companies take advantage of this exemption, broadly in line with the RIA and it is a valuable<lb/> reduction in burden for small companies. The take-up of audit exemptions is generally lower for companies that<lb/> reported having shareholders, lenders and/or external investors, suggesting that these companies may undergo audits<lb/> to satisfy and provide confidence to these external parties.</p>
+
+			<figure>)<lb/> Source: Modern Company Law, a Consultation Document from the Company Law Review Steering Group, March 2000<lb/></figure>
+
+			<p>While the registration rationale is similar in all cases, in practice, the amount of information that they<lb/> contain and what is publicly available differs substantially between countries. Besides the basic<lb/> information -shareholders, directors, officers, and legal address, the law may also require the registry to<lb/> hold and make public the articles of association, financial accounts, and the capital structure, including the<lb/> types, numbers and rights of outstanding shares.<lb/></p>
+
+			<figure>Box 7. Croatia – Simpler company form<lb/> A 2012 law allowed a new, simpler form of Limited Liability Company (LLC) in Croatia, which also required a<lb/> minimum capital of under $2 (cf $3,571 before). In the first 12 months, 8 407 simple LLCs were established and only 5<lb/> 488 of the old form were private LLCs.<lb/></figure>
+
+			<p>The Simple LLC cannot have more than three members/shareholders and can only have one member on its<lb/> management. The simple company registration process is more user-friendly, via a prescribed form that needs to be<lb/> filled by a Public Notary, stating only the intention to form a company, the list of members, the list of persons<lb/> authorised to manage the company&apos;s business and acceptance of a member of the nomination to manage the<lb/> company. The form is signed by all members and lodged electronically with the business court registry.<lb/></p>
+
+			<p>Some jurisdictions, such as the UK, have allowed flexible entities. An objects clause was originally to<lb/> do with the state&apos;s granting of a concession for private individual to &apos;operate a trade&apos; and anything<lb/> contracted outside those objects was considered null and void. Under Companies Act 2006, Article 31: (1)<lb/> unless a company&apos;s articles specifically restrict the objects of the company, its objects are unrestricted.<lb/> This allows innovative business models to develop and companies to take advantage of opportunities.<lb/> These could range from the transformation of a manufacturing business into a service delivery business, a<lb/> restaurant developing its own farming or vocational training to a physical school turning into online<lb/> educational institutions. As technology enables faster change, this becomes more appropriate. It does make<lb/> it hard to use business registers to signpost other relevant licensing or permitting requirements but this is<lb/> rarely done anyway. It puts the onus back on the entrepreneur to check the regulations s/he is required to<lb/> follow. It is worth noting that companies still have to be classified by SIC code for statistical purposes.<lb/> Nonetheless, law in this area will continue to develop. For instance, due to concerns about illicit<lb/> domestic and cross-border money laundering and tax evasion, discussions from the June 2013 G8 summit<lb/> agreement ensured that companies should obtain and hold adequate, accurate, and up-to-date information<lb/> on their beneficial owners. There has been subsequent G20 and EU action and this information is starting<lb/> to be held in national registers.<lb/></p>
+
+			<p>Clear rules and procedures for the closure of a business are also vital for market efficiency and<lb/> confidence of investors and consumers. Attention to this area of law has tended to come after<lb/> simplification of start-up arrangements and the variation in any chosen measure tends to be wider. The<lb/> most significant issues are the cost – and how much of the value is lost in inefficient bankruptcy<lb/> procedures, time taken and then the priority of claims and extent of court involvement. In many countries,<lb/> the need to engage with the judicial system is a significant disincentive in seeking to recover money<lb/> through insolvency proceedings but the ability to resolve commercial disputes, of whatever kind, is very<lb/> important for a supportive business environment.<lb/></p>
+
+			<table>Table 1. 1 Comparison of ASEAN member state performance on insolvency measures<lb/> Brunei<lb/> Darussalam<lb/> Cambodia<lb/> Indonesia<lb/> Lao PDR<lb/> Malaysia<lb/> Myanmar<lb/> Philippines<lb/> Singapore<lb/> Thailand<lb/> Vietnam<lb/> Resolving insolvency Ease<lb/> of Doing Business ranking<lb/> 57<lb/> 72<lb/> 76<lb/> 169<lb/> 46<lb/> 164<lb/> 56<lb/> 29<lb/> 23<lb/> 125<lb/> Cents on the dollar<lb/> recovered in insolvency<lb/> 47.2<lb/> 13.9<lb/> 29.9<lb/> none<lb/> reported<lb/> 81.3<lb/> 14.7<lb/> 21.3<lb/> 88.7<lb/> 67.7<lb/> 21.6<lb/> Time taken to liquidate<lb/> after reorganisation<lb/> (years)<lb/> 2.5<lb/> 6<lb/> 2<lb/> none<lb/> reported<lb/> 1<lb/> 5<lb/> 1.7<lb/> 0.8<lb/> 1.5<lb/> 5<lb/></table>
+
+			<head>Pillar 2: Elimination of multiple checks and validation in the process<lb/> To eliminate duplication of information obligations<lb/></head>
+
+			<p>Some countries put more emphasis on public officials ensuring that the information is accurate, while<lb/> others put the onus on the applicant, and manage complaints if they arise. It is important that the cost and<lb/> benefit to entrepreneurs, agencies, other businesses and the public are assessed; for example, name checks<lb/> and notarization. A notary public is an official witness to the free and willing signing of one or more<lb/> documents by one or more people whose identity the notary has verified. However, it plays a more limited<lb/> role in protecting the proponents by ensuring the legal form or articles are suitable. Systems which require<lb/> notarisation still often also require identity documents to be submitted for checking at registration. This<lb/> often shows that requiring information to be notarized can be an expensive process for small companies<lb/> and with limited benefits gained in the process. Nonetheless, as company law is clarified and documents<lb/> are standardised, the need for legal advice for simple company formation is reduced.<lb/></p>
+
+			<head>Box 8. Comparison of Company Memorandum and Articles of Association standardisation and notarisation<lb/></head>
+
+			<p>The Articles of Association (or incorporation) along with the memorandum of association (if required) are the<lb/> constitutional documents of a company. They set out the company&apos;s operating rules -the responsibilities of the<lb/> directors, the kind of business to be undertaken, and the means by which the shareholders exert control over the board<lb/> of directors. The Articles make the company a legal entity (legal personality). National rules vary:<lb/></p>
+
+			<figure><lb/> United Kingdom: At registration, companies are offered a standard (&apos;model&apos;) template for the Memorandum<lb/> and Articles of Association. If these are used, the company can be registered online directly.<lb/> <lb/> Myanmar: Applicant is given standard Memorandum and Articles when they reserve a company name.<lb/> These will have to be certified (stamped) for a fee.<lb/> <lb/> Singapore: Companies limited by guarantee and unlimited companies must register articles of association,<lb/> while for companies limited by shares, registration of articles is optional. If no articles are registered,<lb/> then Table A in the Fourth Schedule of the Companies Act will be applicable by default as the articles of the<lb/> company. In practice, companies tend to register their own customized versions of Table A.<lb/> <lb/> Indonesia: An applicant must arrange for a notary to obtain the standard form of the company deed and<lb/> notarize company documents<lb/> <lb/> Philippines: Articles of incorporation and treasurer&apos;s affidavit must be notarized.<lb/></figure>
+
+			<p>Nonetheless, it is equally important to ensure that the data inserted in the company register are<lb/> verified and that, if automated, do not get corrupted. Simplification processes must therefore go in parallel<lb/> with the efficient co-ordination and integration of data across the different agencies. Administrative<lb/> simplification can contribute to reducing informality, but must also be supported by strong investment.<lb/></p>
+
+			<p>It is equally important to understand what is required from a business and to tailor-fit this in the<lb/> business registration system, For example, a more integrated system would ensure that businesses are able<lb/> to obtain authorization at once and minimise the need to provide information multiple times.<lb/></p>
+
+			<head>Easy access to clear, accurate information about what is required<lb/></head>
+
+			<p>How far should a potential business owner have to go to find out what they need to do to start up? The<lb/> information should be widely available and accurate. The internet is littered with sites with out-of-date<lb/> requirements that were not changed when the law was reformed. This is even more often true for the<lb/> translations. How far are national languages and local institutions respected? This is the first stage of<lb/> making the regulatory process transparent. Involve businesses and experts in giving support to businesses<lb/> in preparing the material in a way that works best for new businesses.<lb/></p>
+
+			<head>A simple and practical process to follow<lb/></head>
+
+			<p>Regulatory and administrative procedures should be streamlined and transparent. There should be the<lb/> fewest sensible number of procedures required within a time frame e.g. only one at any time. Agencies<lb/> should work with representative groups to design the processes and make sure that feedback is asked for,<lb/> welcomed, and is used to make improvements. Best practice is to use impact assessment – with even<lb/> simple cost-benefit assessment – to assess the value of changes. The aim should be to minimise aggregate<lb/> regulatory burden in order to stimulate economic efficiency, while achieving intended benefits of the<lb/> regulation. Consider both types of cost: (1) actual cost of complying with the rules, such as hiring a notary<lb/> and (2) the administrative cost of dealing with the process, such as the time spent going to the agency<lb/> office or making five copies of the documents. Involving stakeholders in the process, and learning more<lb/> about their experiences, will help make these cost-benefit estimates more realistic.<lb/> It is also a good idea to check if the requirements are practical. For example, it would necessary to<lb/> ensure that certain requirements do not create a situation where a bank cannot open an account for a<lb/> business which is not in the registered but the law also requires evidence of a bank deposit before a<lb/> business could be registered.<lb/></p>
+
+			<head>Pillar 3: Commit to time frames<lb/> Transparent service standards (speed, timeliness, feedback and redress)<lb/></head>
+
+			<p>A way of driving improvement is to set measures for the standard of the service that can be expected,<lb/> and then to set targets and publish performance.<lb/></p>
+
+			<p>Speed is important for businesses. Agencies should set targets for maximum response and processing<lb/> times. If time limits are defined, then a decision is needed regarding what happens when the limit is<lb/> reached. A few jurisdictions have a &apos;Silence is Consent&apos; rule: if the deadline is passed without certification<lb/> or explicit objection, the business is automatically considered registered. This approach was pioneered in<lb/> Italy and currently enforced in Armenia, Georgia and Morocco 16 . An alternative is &apos;Silence is Negation&apos;<lb/> where the business can immediately appeal as it is assumed that the application has been rejected.<lb/></p>
+
+			<table>Table</table>
+
+			<figure>2.1. Singapore – ACRA Service Standards (extract)<lb/> Business Registration Department<lb/> Registration of new business<lb/> (direct registration)<lb/> 100% within 15 minutes of payment<lb/> Registration of new business<lb/> (processing of name appeal)<lb/> 100% within 3 working days of complete submission of information<lb/> Online renewal of business<lb/> registration<lb/> 100% within 15 minutes of payment<lb/> Processing of incorporation /<lb/> 98% within 15 minutes of payment<lb/> registration of companies<lb/> 100% within 2 months of payment<lb/> Customer Relations Department<lb/> Attending to public at<lb/> Compliance Enquiry Counter<lb/> 95% of customers attended to within 30 minutes of waiting time<lb/> 100% of customers attended to within 60 minutes of waiting time<lb/> Attending to public at General<lb/> Enquiry Counter<lb/> 95% of customers attended to within 60 minutes of waiting time<lb/> 100% of customers attended to within 90 minutes of waiting time<lb/> Compliance Department<lb/> Processing of application for<lb/> extension of time (private and<lb/> public unlisted companies)<lb/> 85% within 5 working days of payment<lb/> 100% within 14 working days of payment<lb/> Striking off names of<lb/> companies from the register<lb/> 85% within 6 months after processing the application for striking-off (no<lb/> objection cases)<lb/> 100% within 8 months after processing the application for striking off<lb/> (objection cases)<lb/></figure>
+
+			<table>Table 2.2. Hong Kong Companies Registry – Service standards (extract)<lb/> Service<lb/> 2015-16 Targets<lb/> 2016-17 Targets<lb/> Service<lb/> Standard (Note<lb/> 1)<lb/> % meeting<lb/> standard<lb/> Service<lb/> Standard<lb/> (Note 1)<lb/> % meeting<lb/> standard<lb/> (expressed in working days unless otherwise specified)<lb/> Registration of new companies (Note 2)<lb/> • local company<lb/> delivery in hard copy form<lb/> delivery in electronic form<lb/> Non-Hong Kong company<lb/> 4<lb/> 1 hr<lb/> 13<lb/> 95<lb/> 90<lb/> 95<lb/> 4<lb/> 1 hr<lb/> 13<lb/> 95<lb/> 90<lb/> 95<lb/> Change of name of local company<lb/> Delivery in hard copy form<lb/> Delivery in electronic form<lb/> 4<lb/> 1hr<lb/> 95<lb/> 90<lb/> 4<lb/> 1 hr<lb/> 95<lb/> 90<lb/> Registration of general documents<lb/> Delivery in hard copy form<lb/> Delivery of specified forms in electronic form<lb/> (Note 3)<lb/> 6<lb/> 24 hrs<lb/> 90<lb/> 90<lb/> 5<lb/> 12 hrs<lb/> 90<lb/> 90<lb/> Registration of charges<lb/> 8<lb/> 90<lb/> 7<lb/> 90<lb/> Deregistration of companies<lb/> Issue of approval letter<lb/> 5<lb/> 95<lb/> 5<lb/> 95<lb/> Source: Notes :<lb/> 1. The service standard for delivery in hard copy form excludes the day of delivery. The service standard for delivery in electronic<lb/> form is calculated from the time of e-submission.<lb/> 2. Business Registration Certificates are issued by the Companies Registry for the Inland Revenue Department together with<lb/> Certificates of Incorporation.<lb/> 3. The service standard applies to specified forms which are submitted electronically and automatically processed by the Integrated<lb/> Companies Registry Information System.<lb/> Agencies should also offer clear appeals process. It is best practice for the appeal to be considered by someone other than the<lb/> original official.<lb/></table>
+
+			<head>Box 9. Examples of administrative appeals processes<lb/> WASHINGTON STATE<lb/></head>
+
+			<p>Reconsideration is used when you identify a mistake of law or fact made in the determination that could change<lb/> the result of your decision. This process is available for mainstream cases only.<lb/></p>
+
+			<head>When does a petition for reconsideration have to be made?<lb/></head>
+
+			<p>The written petition for reconsideration must be postmarked or delivered by the due date shown on the decision<lb/> (plus any extensions granted prior to the due date).<lb/></p>
+
+			<head>What happens if a petition for reconsideration is not filed on time?<lb/></head>
+
+			<p>When the petition for reconsideration is not filed on time, the decision becomes final. If you do not pay the<lb/> assessment by the due date, additional interest and penalties will accrue.<lb/></p>
+
+			<head>Can I request an extension for filing a petition for reconsideration?<lb/></head>
+
+			<p>Yes. An extension may be granted on the same grounds as other petitions.<lb/></p>
+
+			<head>What should I include in a petition for reconsideration?<lb/></head>
+
+			<p>A petition for reconsideration must identify specific mistakes in law or fact that requires reconsideration. If you fail<lb/> to specify mistakes of law or fact, your petition for reconsideration may be summarily dismissed without a hearing.<lb/></p>
+
+			<p>You must include any new documents and explanations with your petition for reconsideration. If your petition for<lb/> reconsideration is accepted, it will be assigned to the original TRO so that any errors in fact or law can be corrected<lb/> and new arguments and information addressed.<lb/></p>
+
+			<head>Will there be a reconsideration hearing?<lb/></head>
+
+			<p>Most petitions for reconsideration can be decided without a hearing. The TRO may decide to hold a<lb/> reconsideration hearing in some cases.<lb/></p>
+
+			<head>How will I be informed of the reconsideration decision?<lb/></head>
+
+			<p>The TRO will issue a written reconsideration decision and send it by regular US mail to you and your authorized<lb/> representative.<lb/></p>
+
+			<head>AUSTRALIAN BUSINESS REGISTER<lb/></head>
+
+			<p>If you are not satisfied with a decision that has been made on behalf of the Registrar of the Australian Business<lb/> Register, please call our information line first so we can try to resolve the issue. If you are still not satisfied you have<lb/> the right to lodge an objection. You have 60 days from the date you received the decision to lodge an objection.<lb/> When we receive an objection, we review the facts and evidence you provide and come to a decision. We may<lb/> contact you or your representative to discuss your objection or request further information. We will let you know if your<lb/> objection will take longer than usual to decide (for example, because it raises complex matters).<lb/></p>
+
+			<p>Both these organisations have further appeals processes to the courts.<lb/></p>
+
+			<head>Pillar 4: Inform businesses of their rights<lb/> Incentives aligned to promote compliance<lb/></head>
+
+			<p>Despite the potential benefits, most businesses see registration, at best, as a necessary evil -something<lb/> they have to do before they can get on with their real activities. So as well as making it as simple as<lb/> possible, government should make sure that the incentives to comply are aligned as well.<lb/></p>
+
+			<p>Examples of relevant action could include additional start-up advice being offered alongside<lb/> registration or to newly registered businesses or tax breaks for small registered businesses. Enforcement<lb/> should be well targeted and supportive of compliance: registering a business must not be an opportunity for<lb/> rent-seeking behaviour by officials. If a level playing field is particularly important, such as of food outlets<lb/> for public health, then there should be compliance checks for all businesses operating in that field.<lb/></p>
+
+			<head>Box 10. Business registration compliance and enforcement thinking:<lb/> Some examples from Malaysia<lb/></head>
+
+			<p><lb/> Links to support and advice. At incorporation, the business is automatically registered with specified<lb/> authorities and with the SME Corp. This is a network of &apos;one-stop centres&apos; for business advisory services,<lb/> relevant information on Government funds and incentives for SMEs, including tax incentives, and also<lb/> provides a channel for feedback on SME issues.<lb/></p>
+
+			<table><lb/> Companies Commission of Malaysia (SSM). SSM is a strong proponent of the philosophy of &quot; enforcement by<lb/> education &quot; . With the &apos;Balanced Enforcement&apos; approach, SSM believes that education complements the<lb/> effectiveness of enforcement initiatives in ensuring voluntary compliance. The Companies Commission of<lb/> Malaysia Training Academy (COMTRAC) was established in 2007 to educate stakeholders and strengthen<lb/> public awareness about the need, importance, and benefits of complying with corporate legal provisions.<lb/> Since implementing this approach, the compliance rate has improved from 40% in the early 2000s to 93% in<lb/> 2016.<lb/> <lb/> Tax compliance. The approach includes an education and outreach programme (including one-stop service<lb/> counters at tax offices), verification (surveillance, public information gathering, cooperation with other<lb/> government agencies for data matching between asset acquisitions e.g. through stamp duty on property,<lb/> motor vehicle registrations and insurance) and tax payer database), and enforcement<lb/> Source: SME Corp and SSM websites, https://www.imf.org/external/np/seminars/eng/2013/asiatax/pdfs/malaysia1.pdf<lb/></table>
+
+			<p>Singapore uses the power of IT to generate and send reminders for Annual General Meetings and<lb/> annual returns to the businesses at its registered office address and to all officers of the business at their<lb/> residential address. If the deadline for filing the return is passed, the system will again generate reminders<lb/> to the business and its officers giving them a grace period to rectify the default. Once the grace period has<lb/> passed and the AR has not been filed, the records will be transmitted to the State Courts.<lb/></p>
+
+			<head>II. GOOD PRACTICE IN JOINED-UP GOVERNMENT<lb/></head>
+
+			<figure>Pillar 5: Have a credible system for reviewing regulations<lb/></figure>
+
+			<p>In the past when societal problems were less complex and information flowed more slowly,<lb/> governments could deal with matters in a &apos;top-down&apos;, hierarchical arrangement. However, with IT services<lb/> offering the possibility for more personalised and connected services, this approach no longer works so<lb/> well. Even an apparently simple issue, such as registering a company, is not usefully contained within<lb/> ministerial or agency boundaries. A business should not have to supply the same information to more than<lb/> one government body.<lb/> One term to capture this type of development is &apos;joined-up government&apos;. The New Labour<lb/> Government in Britain, in 1997, coined the term to mean enhancing coordination and integration within the<lb/> public sector. It was not only about removing organisational boundaries but also the need to align targets,<lb/> incentives (such as joint funding, pooled budgets and linking remuneration to joined-up targets), structures,<lb/> and cultures of authority in order to fit tasks that cross organisational boundaries.<lb/> Experience shows that this breaking of silos is the most difficult change management agenda of all. It<lb/> is common to create new structures and processes to oversee and account for the delivery of outcomes.<lb/> Such arrangements are usually needed both at the political level (such as cabinet sub-committees or<lb/> horizontal ministerial portfolios) and within the administrative system (such as cross-departmental working<lb/> groups or inter-agency task forces). In some cases, local or bottom-up cooperation is more innovative and<lb/> successful and has lessons to offer for any joined-up government initiative. Greater use of e-technology is<lb/> often part of the solution but it is far from the only approach that is needed.<lb/></p>
+
+			<figure>Governments should:<lb/>  make effective use of one-stop shops<lb/>  ask for information only once<lb/>  consider a unique business identifier<lb/>  make appropriate use of ICT<lb/>  provide appropriate protection for data<lb/>  implement simple and transparent fees and payment systems<lb/>  take the opportunity to reform business licensing too<lb/></figure>
+
+			<p>Key features of the British initiative included new structures such as cross-departmental policy and<lb/> delivery units and the allocation of cross-cutting portfolios to ministers. In New Zealand, standardised<lb/> governance arrangements for public service agencies were introduced. In Australia, a number of one-stop-<lb/>shops were created at both federal and state level to provide easier citizen access to services. In Singapore,<lb/> successive e-government action plans provided the basis of greater service integration and accessibility.<lb/> Cross-agency project teams are now commonly used to tackle inter-agency matters and, through its use of<lb/> standards-based infrastructure, application services and supporting processes and procedures, Singapore<lb/> has emerged as one of the world leaders in e-services.<lb/> Many countries often work within silos within and across institutions that are responsible for business<lb/> registration. This therefore makes it challenging to bring together like-minded institutions to adopt<lb/> meaningful changes in business registration practices. Performance management and incentive systems can<lb/> play a role in influencing institutional behaviour to shift from silo and vertical administration to horizontal<lb/> governance to further promote good business registration practices.<lb/> However, there are also many examples of failures in joined-up government initiatives, particularly in<lb/> the area of e-government and the use of IT to integrate services. Based on international experience, a<lb/> number of common critical success factors towards achieving joined-up government can be identified.<lb/> These include: (1) the identification of clear objectives and political commitment; (2) the existence of<lb/> viable structures (particularly at lower levels of government); and (3) the allocation of an appropriate<lb/> budget and the alignment of that budget with joined-up goals and clear accountability lines. For public<lb/> servants used to working in discrete parts of the public sector, engaging in substantive joined-up<lb/> government work requires emphasis on particular values including collaboration, integration, innovation,<lb/> risk-taking and flexibility.<lb/></p>
+
+			<head>Make effective use of one-stop shops<lb/></head>
+
+			<p>The one-stop-shop concept is the arrangement of functions together for the convenience of the<lb/> customer, in the way a mall or supermarket/hypermarket does for a shopper. The one-stop shop can be<lb/> physical or online, provide only information or also used for transactional processes. At best, a business<lb/> can be set up in a single visit and with a single (affordable) payment.<lb/></p>
+
+			<p>In reality there is a continuum of varieties of one-stop shop, from a single door with information<lb/> board into separate agency functions to a single desk dealing with all functions, a single visit or single<lb/> interaction online platform, and single payment points.<lb/> In the past, in many civil law countries, notaries coordinated company start-up procedures, effectively<lb/> compensating for the failure of various government offices to work together. For the entrepreneur, the<lb/> notary was the one-stop shop. Some bodies, which have become known as &apos;one more stop shops&apos; are there<lb/> simply to co-ordinate the activities of other agencies on behalf of the entrepreneur – they are additional<lb/> administrative step but at least it&apos;s a single, hopefully friendly face to deal with.<lb/> Several countries, including Colombia, Portugal, and Estonia, have concluded that, for<lb/> straightforward incorporations, a notary is not necessary. In Belgium, Italy, and Spain notaries have<lb/> become key intermediaries for electronic filing. In the United Kingdom and Ireland, company<lb/> incorporation agents have for many years been active as &quot; one-stop shop &quot; intermediaries and are finding a<lb/> new role in connection with electronic filing, but there is no obligation to use their services.<lb/> The first inter-agency coordination is usually between business registration and basic business tax<lb/> registration. Both agencies can often see the links and the potential for simplification. The next most<lb/> common registrations are for labour requirements but these are much more rarely included. European<lb/> experience is that it can be very difficult for other agencies to see how they benefit from the one-stop shop<lb/> and the lead agency has often had little or no contact with them before, making communication harder still.<lb/> The Albanian National Registration Centre is one of the few examples where investors can complete all the<lb/> procedures for business registration, registration for health insurance, social insurance and labour<lb/> directorate registration, with a single application. But they must then register separately at the Municipality<lb/> Bureau of Internal Revenue. Benin established a One-stop shop, Guichet Unique de Formalisation des<lb/> Entreprises (GUFE), as a single access point to post-registration requirements -tax declaration, application<lb/> for import and export licences, tradesman card, registration with ministry of trade and affiliation with<lb/> Social Security Office. Only later did the commercial registry join, for approval of incorporation<lb/> documents.<lb/></p>
+
+			<head>Box 11. Singapore – OneStopShop@ACRA, Accounting and Corporate Regulatory Authority<lb/></head>
+
+			<p>A new business registers with ACRA and is then given the option to register for one of the following services:<lb/></p>
+
+			<table>Domain Name Reservation<lb/> Open Bank Account<lb/> Register for Goods and Services Tax<lb/> Activate Customs Account<lb/> Subscribe to free e-newsletter<lb/> Sign up for GeBiz Alerts<lb/></table>
+
+			<p>All the above services are managed by other agencies. If the applicant signs up for any of them, the details are<lb/> sent by ACRA to the relevant agency.<lb/></p>
+
+			<head>Few</head>
+
+			<p>governments have tried to combine regulatory requirements and other MSME business support<lb/> activity in their one-stop shops. Australia has adopted a single portal approach -business.gov.au -for all<lb/> government information, transactions and services. It is marketed as a whole-of-government service<lb/> providing essential information on planning, starting, running and selling or closing a business, as well as<lb/> access to business compliance requirements. The Philippines Negosyo centres are another rare example,<lb/> aiming to provide business registration assistance, business advisory services, and business information<lb/> and advocacy.<lb/></p>
+
+			<head>How well do one-stop shops deal with local registration and other regulatory requirements?<lb/></head>
+
+			<figure>Box 12. Finding out about local requirements for a business<lb/> In the USA, Business licenses and permit are found at every level of government (federal, state, region, county,<lb/> city). administrations seem largely to have made use of on-line portals to help businesses establish the nature and<lb/> scope of required permits and other requirements. The U.S. Small Business Administration provides a &quot; Business<lb/> Licenses and Permits tool &quot; which helps business identify the licenses and permits that they require and provides links<lb/> to web pages, application forms and instructions. The tool also includes links to portals for each of the fifty states.<lb/> In Australia, the Business License &amp; Information Service (ABLIS) provides location-specific information on<lb/> required state licenses and permits.<lb/> Most businesses require some form of local -municipal/regional/provincial -registration but<lb/> decentralization, deconcentration and devolution have often created cultural and technical barriers to<lb/> making these links.<lb/> The largest attempts to achieve this are the European Points of Single Contact which will be discussed<lb/> later.<lb/></figure>
+
+			<head>Provide information once only<lb/></head>
+
+			<p>A business should not have to supply the same information to more than one government body. As<lb/> well as being a waste of time, it makes data entry errors far more likely and failure to update information in<lb/> all systems almost inevitable. Enabling a single data provision requires cooperation between agencies, at<lb/> the least making them share data. Further developments range from consolidating registrations into a single<lb/> application to interconnecting databases or registries.<lb/> In 2016, it was reported that over 80% of corporate registries share info with other public agencies<lb/> and over 50% take information from other agencies, for instance, sharing registration with tax authority or<lb/> checking IDs.<lb/></p>
+
+			<figure>For example, from 1 May 2015, India reduced the number of forms required to incorporate and start a<lb/> business to just one, INC-29. Until then, it had required a minimum of 8 forms with much duplication of<lb/> the information, including one each for a digital signature certificate, approval of the company name,<lb/> registration of the memorandum and articles of the company, approval of the registered office and a<lb/> separate form for every director.<lb/> Since 2005, Norway has required all public registers and public administrations to use the data in the<lb/> Central Coordinating Register for Legal Entities instead of asking businesses again for the data.<lb/> Box 13. How far is information shared between the business registry and tax authority in ASEAN countries?<lb/> Brunei Darussalam – The Registry of Companies notifies the Collector of Income Tax of the company&apos;s registration<lb/> and basic details. The company collects a letter from the registry to take to the tax office.<lb/> Cambodia and Indonesia – The company must register for tax separately.<lb/> Lao PDR – The company gets a letter for the tax office when registered at Enterprise Registration Office.<lb/> Philippines – The company is issued a Taxpayer Identification Number at registration but must still register in person<lb/> with Bureau of Internal Revenue<lb/></figure>
+
+			<p>Malaysia – The company must register separately for income tax and PAYE. This is done online after receiving the<lb/> MyCOID number. To register for GST the company needs to submit further details with to Royal Malaysian customs.<lb/> Myanmar – companies are obliged to register for commercial tax with the tax authorities one month before the start of<lb/> their business and inform the tax authorities within 10 days of starting a business. Each month the Company<lb/> Registration Office also sends a list of newly registered to the relevant townships for cross-checking.<lb/> Singapore, Thailand, and Viet Nam – Information for tax officials are automatically registered at business registration.<lb/> Source: World Bank Ease of Doing Business 2016<lb/> Note: Because of national variation between time and thresholds, VAT registration is often a separate activity<lb/></p>
+
+			<head>Pillar 6: Move towards a unique business identifier<lb/></head>
+
+			<p>The next developments are the use of a unique ID for individual and legal entity, then linking all<lb/> information to that entity. There is a basic data integrity improvement from using a unique ID but the full<lb/> efficiency benefits for an economy depend on all trading entities being in the same system. For instance in<lb/> New Zealand, 19 percent of actively trading businesses in New Zealand are sole traders, 15 percent are<lb/> trusts, and 12 percent are partnerships. A further four percent of entities that are not businesses in the<lb/> traditional sense undertake business activity, such as government agencies and the not-for-profit sector.<lb/> The full benefits (network effects) of the NZBN to the wider economy depend on all of these having an<lb/> NZBN.<lb/></p>
+
+			<head>Box 14. New Zealand Business Number (NZBN)<lb/></head>
+
+			<p>NZBN is a universal identifier which will enable businesses to easily update, share key information and interact<lb/> with each other and the public sector. NZBN has been introduced to streamline all essential business information, and<lb/> over time will become the only number businesses will need to use to interact with a range of other businesses and<lb/> government agencies. Both registered and unincorporated businesses may have an NZBN.<lb/></p>
+
+			<figure>Government agencies will progressively recognise businesses by their NZBN. Linking information between these<lb/> agencies and businesses will also lead to improved data quality and reduced rework. Concerns raised during<lb/> consultation focused on maximising the benefits of the NZBN, while protecting the privacy of individuals in business,<lb/> such as sole traders.<lb/> The success of the NZBN depends on rapid uptake of the number by businesses and state sector agencies. This<lb/> is needed to build momentum for infrastructure development and private investment in commercial opportunities.<lb/> Otherwise it becomes another number, rather than the intended replacement for the many current identifiers.<lb/> Source: Cabinet Circular CO (16) 3 to all Departments, Ministerial Direction to Crown Entities issued under Section 107 of the<lb/> Crown Entities Act 2004, NZBN regulatory impact statement, May 2014<lb/> Pillar 7: Make effective use of ICT<lb/></figure>
+
+			<p>There is ever-increasing use of computer systems for managing corporate registration systems, for<lb/> back office data storage, for giving information, to allow documents to be sent and finally to enable online<lb/> registration. Streamlining registries and databases offers faster processing and helps to meet growing<lb/> demands for company information within government for reduction of duplication and regulatory<lb/> oversight. It improves data integrity by reducing reduce the number of times information has to be given. It<lb/> can improve access for firms operating at a distance from registrar&apos;s offices and application forms can even<lb/> be pre-filled with information already held on other government systems.<lb/></p>
+
+			<p>But all too often, even sites that work are not user-friendly. Operators and applicants need to be able<lb/> to find simple information about what they have to do, save their application part-way through, have access<lb/> to help to complete any forms or attach or retrieve documents and so on. Even navigating around the<lb/> system has to be carefully thought through e.g. the Bulgarian Point of Single Contact has an A-Z search<lb/> facility, but licensing is under &apos;A&apos; for &apos;Application for …&apos; rather than the activity that the licence covers.<lb/></p>
+
+			<figure>Box 15. E-enabling changes in corporate registries in 2015<lb/> Albania introduced electronic signature for the first time.<lb/> Arizona, USA implemented online LLC formation.<lb/> Brazil (Alagoas Maceio) introduced a digital registry for sole traders.<lb/> Colombia implemented e-filing for incorporation and changes.<lb/> Denmark implemented a brand new digital registration solution that increases quality of registration. It enables<lb/> automatic checks and facilitates users to do additional types of registrations online.<lb/></figure>
+
+			<p>Gibraltar introduced electronic consultation, electronic archive and electronic filing on essential documents.<lb/> Hong Kong launched a full-scale electronic filing service, covering all specified forms. The registration process can be<lb/> completed in less than 24 hours for specified forms that are submitted electronically and processed automatically.<lb/> In Ireland, since June 2015, registration of charges (mortgages-security interests) can only be completed<lb/> electronically.<lb/> Macedonia (The Former Yugoslav Republic) introduced electronic filing of changes.<lb/> Norway extended the scope of the types of applications that are processed electronically and automatically by the<lb/> business register. Automated procedures include several types of notifications to the register, such as change of<lb/> business address, email address, mailing address, auditor, CEO and a few more. In addition to this, they have<lb/> introduced a full electronic to enable the whole process, from incorporation to registration of the limited liability<lb/> company, to be done electronically.<lb/> Israel launched a web system for electronic filing of applications for registration of companies and changes to<lb/> company information.<lb/></p>
+
+			<figure>Mongolia updated their law governing the web-based entity registration.<lb/> Qatar recently launched an e-service portal.<lb/> Spain introduced new legal provisions making e-filing of accounts mandatory and governing electronic<lb/> documents for the registration of sole traders with limited liability.<lb/></figure>
+
+			<p>Business registries are generally leading the way in these e-enabled registry solutions, with the<lb/> pressure and support from large companies to help them deliver improvements. But, as every organisation<lb/> knows, getting IT systems to work sounds easier than it is in reality. Although data is limited, survey and<lb/> poll results about e-government initiatives in developing/transitional countries show that 35% are total<lb/> failures, 50% are partial failures and only 15% are successful 17 . Even in highly developed economies, IT<lb/> projects rightfully have poor reputations.<lb/></p>
+
+			<head>Box 16. Austria – implementation of web portal for business registration<lb/></head>
+
+			<p>In Austria, www.usp.gv.at is estimated to have reduced companies&apos; costs by €100 -€300 million. The site&apos;s<lb/> success since launch has been seen in significant user growth.<lb/> The portal has, at the same time, been a medium for administrative reform, in particular improvement of<lb/> processes and the elimination of multiple notifications.<lb/></p>
+
+			<p>Further benefits have been better data quality, and reduced maintenance and set-up costs for new e-Gov<lb/> applications, with savings of up to €20 million expected by 2016.<lb/></p>
+
+			<table>Use of www.usp.gv.at :<lb/> 2010<lb/> 2011<lb/> 2012<lb/> 2013<lb/> User sessions<lb/> 363 783<lb/> 489 606<lb/> 586 477<lb/> 1 286 405<lb/> Annual growth (%)<lb/> 35%<lb/> 20%<lb/> 119%<lb/> Unique clients<lb/> 281 289<lb/> 449 575<lb/> 511 486<lb/> 753 460<lb/> Annual growth (%)<lb/> 60%<lb/> 14%<lb/> 47%<lb/></table>
+
+			<p>The success of the Austrian site is seen as a function of its speed and relevance, which resulted from:<lb/></p>
+
+			<p> Involving senior politicians and administrators from the very start to ensure project support;<lb/>  Putting in place an appropriate legal framework to support the e-Gov project;<lb/></p>
+
+			<p> Recognising that organisational and legal aspects can be more challenging than technical<lb/> problems – and planning accordingly;<lb/></p>
+
+			<p> Co-operating with a wide range of business-related partners to ensure a high quality of<lb/> information; and<lb/>  Ensuring collaboration across government (federal and regional), and recognising this takes time.<lb/></p>
+
+			<p>As well as the need to simplify the process and authorisations before bringing specifying an online<lb/> process, the computer and e-infrastructure has to be reliable, sufficient trained and competent staff<lb/> available and the applicants need support. In developing economies, where rural systems may still, or until<lb/> recently have been, paper based, these changes are significant. There is also a more fundamental question,<lb/> particularly in developing economies, about access to online systems. While mobile penetration is growing<lb/> dramatically, this doesn&apos;t necessarily mean that even tech-savvy entrepreneurs have computer screen<lb/> access. Can the portals be truly responsive (mobile-friendly) and is the support available compatible with<lb/> using the same device to fill in the form?<lb/></p>
+
+			<head>Provide appropriate protection of data<lb/></head>
+
+			<p>Particularly when systems are being brought online, issues of data protection and the risks of identity<lb/> theft have to be considered. Most registry applications require at least a username and password and the<lb/> option of automatic notification, if registration details are changed. Within the EU, 17 Member States have<lb/> stronger electronic identification (eID) systems but cross-border recognition remains to be seen.<lb/></p>
+
+			<head>Box 17. eID implementation for businesses in Denmark<lb/></head>
+
+			<p>NemID consists of a user ID, password, and a keycard with &quot; keys &quot; (time codes). When an employee logs on, they<lb/> must enter their user ID and password and the code from the keycard. This indicates they are authorized to contact<lb/> public authorities, access secure portals and data and sign documents on behalf of the business.<lb/> A business may request up to 3 free NemID signatures for its employees.<lb/></p>
+
+			<head>Enable online applications<lb/></head>
+
+			<p>In addition, a problem with all these automated processes is the verification of signatures. We<lb/> discussed earlier some of the issues with notarisation of signatures on company documents. The use of<lb/> electronic communication presents further challenges. The acceptance of records of approval reduces<lb/> markedly along the spectrum from pen and paper, through photograph, fax and scan to digital and e-<lb/>signatures.<lb/> In ASEAN alone, the full spectrum of forms is used. In Cambodia, many legal documents are still<lb/> signed by thumbprint which is perceived as more secure than a written signature and is often accompanied<lb/> by photocopy of the individual&apos;s ID card. Scans of original documents are not widely accepted although it<lb/> is probably legally enforceable. However, in Indonesia, Malaysia and the Philippines, a digital signature is<lb/> accepted while Singapore has recently adopted the use of e-signature.<lb/></p>
+
+			<p>In a similar way that requiring bank transfer for fee payment would increase the number of businesses<lb/> with a bank account or perhaps create a barrier to registration, the acceptance and use of the next form of<lb/> signature approval along the spectrum could incentivise its recognition in general commerce.<lb/></p>
+
+			<head>Box 18. &apos;e-signature&apos; systems<lb/> Electronic signature<lb/></head>
+
+			<p>An electronic signature is, like its paper equivalent, a legal concept adopted by a person with the intent to sign a<lb/> record. An electronic signature can be broken down into these components:<lb/></p>
+
+				<formula> A method of signing<lb/>  Data authentication<lb/>  User authentication<lb/>  Capture of intent<lb/></formula>
+
+			<head>Digital Signature<lb/></head>
+
+			<p>A digital signature refers only to the encryption / decryption technology on which an electronic signature solution<lb/> is built. Digital signature encryption secures the data associated with a signed document and helps verify the<lb/> authenticity of a signed record. Used alone, it cannot capture a person&apos;s intent to sign a document or be legally bound<lb/> to an agreement or contract.<lb/></p>
+
+			<head>Implement simple and transparent fees and payment systems<lb/></head>
+
+			<p>Best practice is for all types of public sector registration and permit/license requirements to be<lb/> available at a flat fee, set simply to cover processing and any related costs, such as mandatory publication<lb/> of information. Some countries have chosen, for a time, to incentivise business registration by making it<lb/> free. This helps reduce the costs of entry but is not sustainable. Roughly 50% of corporate registries<lb/> globally are fully funded by fees collected while the rest receive government support or funding.<lb/></p>
+
+			<figure>Box 19. Companies House – example fees and payments (1)<lb/> Company registration<lb/>  Online (using standard articles): £12, payable by debit, credit card, or PayPal.<lb/>  By post: £40, payable by cheque.<lb/>  Same day registration: £100. Get application at Companies House by 3pm.<lb/> Note: All Companies House fees are set by regulation, fees shown are as of February 2016.<lb/></figure>
+
+			<p>Requiring fee payment through a bank can encourage the commercial use of banking and reduce the<lb/> opportunity for informal payments. However, across many countries, a significant proportion of the<lb/> population is unbanked, including entrepreneurs. This means that it is probably too early to mandate<lb/> payment by bank transfer. The local context must be taken into account when checking whether sufficient<lb/> branches are available to make this practical, or whether, for instance, MFI should become involved.<lb/> Governments are starting to consider single payment points for individual and business interaction<lb/> with government. Drivers range from convenience and efficiency to transparency and reducing the<lb/> opportunity for corruption.<lb/></p>
+
+			<figure>Box 20. Canberra, Australia: Framework for the payment of ACT Government bills<lb/> The objective is to accelerate business engagement with the digital economy, help businesses access new<lb/> customers and markets and to continue to remove red tape.<lb/> It will provide:<lb/> a) Consistency in service offering – progressively standardising the suite of payment services and bill<lb/> presentation across government, while taking into account the limitations of the current systems and the needs of<lb/> specific business or regulatory processes<lb/> b) Facilitate a staged approach to electronic notification and presentment of bills to the community<lb/> c) Implement strategies to further promote electronic payment to government.<lb/> The key principles for the policy are:<lb/> a) Cost effective for government – direct transactional costs (bank fees, payment infrastructure etc) must be as<lb/> cost effective as possible given the transaction value and volume<lb/> b) Process efficient – downstream processing costs (impact on other parts of government etc) must be as<lb/> efficient as possible<lb/> c) Customer convenience – simple and cost effective options for the customer<lb/> d) Digital first – new services must be designed with a digital payment solution foremost allowing customer choice<lb/> of digital service<lb/></figure>
+
+			<p>e) Adaptable – payment methods that are flexible, ensure fit for purpose while able to adapt to emerging payment<lb/> trends and facilities.<lb/></p>
+
+			<head>Source: ACT Government Bill Payment Policy 2015<lb/> Box 21. GOV.UK Pay<lb/></head>
+
+			<p>The objective is a uniform payments platform to allow government bodies to improve the way they reconcile<lb/> payments across multiple payment methods, such as debit cards, credit cards and digital wallets.<lb/></p>
+
+			<p>The UK government knows that a cross-government platform cannot be developed in isolation. It needs<lb/> collaboration, business process analysis, and lots of user research. The discussions have already taken place with<lb/> many colleagues across government to find out how they currently take payments and how that could be improved.<lb/> That research is being intensified and is focussing on taking credit and debit card payments for some online<lb/> transactions of the first partners: Companies House, Environment Agency, Home Office and Ministry of Justice.<lb/></p>
+
+			<p>An important way in which corporate registration enables the economy is by reducing the risk of<lb/> business-business transactions by allowing the contracting partners to know that each other are legal and<lb/> currently active and solvent. This information is a type of public good (the value and availability is not<lb/> reduced by use) and is usually provided free. It should be highly accessible. More detailed data is often<lb/> legally accessible but charged for. Other permits and licences are also often displayed at the business<lb/> premises but less often accessible online.<lb/></p>
+
+			<figure>Box 22. Companies House – example fees and payments (2)<lb/> Information services<lb/>  Online search of all public data held on companies – free of charge e.g. basic company information and<lb/> status, nature of business, date of last and next accounts, full transaction filing, mortgage charge data and<lb/> disqualified directors details<lb/>  Search company information using WebCHeck – basic information free, £1 per document image<lb/>  Companies House Direct subscription service – access to all 130million documents held, going back 20<lb/> years. Subscription £4 per month and £1 per document image<lb/>  Historical company records, document packages, company reports and appointments and detailed<lb/> mortgage information. Can be sorted by company or individual.<lb/> Note: All Companies House fees are set by regulation, fees shown are as of February 2016.<lb/></figure>
+
+			<head>Pillar 8: Take the opportunity for business licensing reform<lb/></head>
+
+			<p>This can be a significant regulatory reform project in its own right and is often more politically<lb/> sensitive than other business registration reform, because the costs and benefits are more distributed. It<lb/> must be undertaken within the national contexts of de-concentration and de-centralisation. For many<lb/> countries, even the first step of collating current requirements will be difficult in itself. Small business<lb/> representative organisations should be involved as well as business support intermediaries.<lb/></p>
+
+			<head>III. FEATURES OF A MODERN NATIONAL BUSINESS REGISTRATION SYSTEM<lb/></head>
+
+			<p>Starting or formalising a business should appear to the business, so far as possible, as a single step. It<lb/> is the public sector&apos;s responsibility to make the connections to different agencies work behind the scenes.<lb/></p>
+
+			<p>Company law should offer simple legal forms for businesses with standard or model templates, capital<lb/> deposit requirements reduced or eliminated, and the need for the use of intermediaries, such as notaries,<lb/> removed. There must be clear decisions on whether micro-enterprises, sole traders and other non-<lb/>incorporated businesses should be included in the register: a single register may be simpler to maintain. It<lb/> is best practice for registration to be an administrative not judicial process.<lb/></p>
+
+			<p>The process should be simple for the applicant. Best practice is to manage this through accessible one-<lb/>stop shops, including virtual presence, with clear inter-agency commitments, funding and performance<lb/> targets. These services could be provided by a government agency or could also be sub-contracted out.<lb/> They should provide clear information on all registration and common licensing/permitting requirements.<lb/> Any need for rare and highly specialised assessment e.g. major hazard installations and sources of non-<lb/>standard support, such as sector-specific grants, should be signposted. The interface should be developed<lb/> and improved in collaboration with business representative groups and using the skills of those who<lb/> regularly provide support to start-ups.<lb/></p>
+
+			<p>There should be no duplication of information requests and a single application form should be used<lb/> where possible, with requirements only separated if there is a clear reason to do so, e.g. if VAT registration<lb/> is not required until after many months of trading.<lb/></p>
+
+			<p>An online process should be available but, recognising local contexts, probably a paper and face-to-<lb/>face option too available reasonable locally, with support on request in all cases so that forms can be<lb/> completed correctly first time. ASEAN has a young demographic, some with high IT skills, alongside a<lb/> sometimes less literate older generation and incomplete infrastructure including electrification. For<lb/> example, while there is high mobile penetration, computer access is more limited. Only 40% of the<lb/> population have internet access 18 .<lb/></p>
+
+			<p>There should be transparent service standards, mechanisms for feedback and redress and a minimum<lb/> flat fee – set to cover only processing costs and transferrable electronically.<lb/></p>
+
+			<p>Government should move towards a unique business identifier for all interaction with public agencies,<lb/> national and local, and consider the development of a single payment point to government.<lb/> Many of these elements, such as accepting online communication, shared data access and single<lb/> application forms, will require legislation.<lb/></p>
+
+			<p>Enforcement should be designed to support business growth while achieving compliance. The public<lb/> sector must consider who should have access to which parts of the information, for each agency, and how<lb/> to maintain data protection while allowing suitable transparency and search. For instance, for the business<lb/> registry, government will want to enable domestic companies to join global value chains. Allowing easy<lb/> access to trustworthy registry information enables due diligence processes by larger players in the supply<lb/> chain, reducing the risk for them of contracting with local companies.<lb/></p>
+
+			<head>Challenges and policy recommendations for ASEAN<lb/></head>
+
+			<p>ASEAN is committed to streamlining business permit and registration, to enable less costly and faster<lb/> business formation. The Strategic Action Plan for SME Development 2016-2025 includes the<lb/> establishment of one-stop shops, benchmarking for registration and obtaining construction permits and<lb/> registering property and improving the capacity of policy makers to design, simplify and implement such<lb/> systems.<lb/></p>
+
+			<head>POLICY RECOMMENDATION 1: Simplify legal company forms and requirements, such as capital<lb/> deposit<lb/></head>
+
+			<p>There are opportunities for simplification in company forms and requirements in some ASEAN<lb/> countries.<lb/> This is a regulatory simplification process. There is good practice to follow, with impact assessment<lb/> and cost-benefit calculation advice available. Both compliance costs and administrative costs should be<lb/> considered, although the one-stop shop steps below will add to the administrative burden reduction. The<lb/> priorities should be:<lb/></p>
+
+			<head>1.1 Minimise</head>
+
+			<figure>remaining capital deposit requirements<lb/> 1.2 Offer a simple limited liability company form, with model company documents and minimum<lb/> necessary requirements for registration. Revisit the rationale and benefits and costs of notarisation.<lb/></figure>
+
+			<head>1.3 Reconsider the need for other elements</head>
+
+			<p>such as the company seal or certified invoices.<lb/></p>
+
+			<table>Table 3.1 Legal requirements for starting a domestic business in ASEAN member states<lb/> Brunei-<lb/>Darusssalam<lb/> Cambodia<lb/> Indonesia<lb/> Laos<lb/> Malaysia<lb/> Myanmar<lb/> Philippines<lb/> Singapore<lb/> Thailand<lb/> Vietnam<lb/> What name<lb/> check is<lb/> required?<lb/> Online name<lb/> check and<lb/> payment for<lb/> reservation<lb/> Online search<lb/> and<lb/> reservation,<lb/> fee paid<lb/> online or at<lb/> bank<lb/> Online<lb/> clearance,<lb/> with fee.<lb/> Usually by<lb/> notary public.<lb/> At same time<lb/> as main<lb/> registration<lb/> application<lb/> Mandatory<lb/> search and<lb/> reservation<lb/> online<lb/> At office<lb/> Online search<lb/> but pay<lb/> reservation<lb/> fee in person<lb/> Online in<lb/> same<lb/> procedure as<lb/> filing<lb/> Online search<lb/> facility<lb/> As part of<lb/> registration<lb/> Is a bank<lb/> deposit required<lb/> no<lb/> yes.<lb/> $1000 within<lb/> 30 days of<lb/> incorporation<lb/> no<lb/> no<lb/> no<lb/> yes for foreign<lb/> company<lb/> yes<lb/> yes<lb/> yes -<lb/>value set by<lb/> bank $100-$300<lb/> Are there<lb/> standard<lb/> templates for<lb/> company<lb/> statutes (eg<lb/> Articles)<lb/> no<lb/> no<lb/> yes -<lb/>standard form<lb/> of company<lb/> deed<lb/> yes<lb/> no<lb/> yes (or rubber<lb/> stamp)<lb/> $100<lb/> Articles not<lb/> required except<lb/> for company ltd<lb/> by shares, but<lb/> common<lb/> no<lb/> Must<lb/> memorandum<lb/> and articles be<lb/> notarised?<lb/> no -<lb/>but certified at<lb/> registration<lb/> Form must be<lb/> signed by<lb/> share-holders<lb/> and directors<lb/> at MoC,<lb/> public notary<lb/> or Cambodian<lb/> lawyer.<lb/> Must be<lb/> notarised<lb/> no<lb/> Must be<lb/> signed by<lb/> lawyer or<lb/> company<lb/> secretary<lb/> Must be<lb/> signed before<lb/> lawyer or<lb/> CPA<lb/> Must be<lb/> notarised<lb/> Must be<lb/> notarised<lb/> no<lb/> Is a company<lb/> seal required<lb/> no -but used<lb/> in practice<lb/> yes -<lb/>registered and<lb/> acknowledged<lb/> by MoC<lb/> yes -two<lb/> Ministries<lb/> must give<lb/> permission to<lb/> carve then<lb/> register at<lb/> provincial<lb/> department<lb/> before use<lb/> yes (lawyer or<lb/> company<lb/> secretary)<lb/> yes (or rubber<lb/> stamp)<lb/> yes<lb/> no -except for<lb/> share<lb/> certificates, but<lb/> commonly used<lb/> in practice<lb/> yes<lb/> 33<lb/> Table 3.2. Summary comparison of ease of starting a business across ASEAN<lb/> Brunei-<lb/>Darusssalam<lb/> Cambodia<lb/> Indonesia<lb/> Laos<lb/> Malaysia<lb/> Myanmar<lb/> Philippines<lb/> Singapore<lb/> Thailand<lb/> Vietnam<lb/> time (days)<lb/> 14<lb/> 99<lb/> 22<lb/> 67<lb/> 18<lb/> 13<lb/> 28<lb/> 2.5<lb/> 25.5<lb/> 24<lb/> cost (% of<lb/> income per<lb/> capita)<lb/> 1.6<lb/> 57.2<lb/> 19.1<lb/> 4.6<lb/> 6.2<lb/> 40.4<lb/> 15.8<lb/> 0.6<lb/> 6.6<lb/> 4.6<lb/> Source: World Bank, Ease of Doing Business 2017<lb/> :<lb/> 34<lb/></table>
+
+			<head>POLICY RECOMMENDATION 2: Map and simplify processes<lb/></head>
+
+			<p>Currently there is a significant variation across ASEAN member states in effort required to register a<lb/> business. The average time needed, over 30 days, is skewed by outliers but there is room for improvement<lb/> across the board.<lb/> Bring together a team, with effective representatives from the agencies involved and very preferably<lb/> the private sector, especially small businesses. Evaluate how well agency-business interaction is working.<lb/></p>
+
+			<head>2.1 Map the processes. Start</head>
+
+			<p>by finding out what is really happening now. Detailed mapping of<lb/> procedures invariably yields surprises and opportunities for improvement.<lb/></p>
+
+			<head>2.2 Simplify individual procedures</head>
+
+			<figure>and reassess whether they can be completed in parallel. Is it<lb/> necessary to ask for certain checks before the next step can be taken e.g. authorisation to print invoices<lb/> and receipts by specified printer then bring them back for stamping?. Use simple RIA, at least calculating<lb/> the administrative burden cost compared with any evidence of real benefit. How will data be keep up to<lb/> date?<lb/> 2.3 Set a common approach to fees across different procedures. Are fees going to be flat rate and<lb/> set to recover costs? How will this be measured? Will offices handle cash? Government may want to<lb/> encourage banking but this will be a barrier for some. According to KPMG, in 2016, only 27% of<lb/> Southeast Asia&apos;s population have a bank account. In Cambodia, for instance, this number is 5% 19 .<lb/> 2.4 Establish a single business register for all types of enterprises. If possible, countries should<lb/> look</figure>
+
+			<p>into the possibility of establishing a single business register for all business enterprises, which can be<lb/> carried out in the process when adopting a one-stop shop approach (see policy recommendation 3). Once<lb/> properly set and managed, this basic infrastructure has the potential to produce positive spill-over effects<lb/> in statistical data collection, information for credit bureaus, legal documentation, etc.<lb/></p>
+
+			<head>POLICY RECOMMENDATION 3: Build on the one-stop shop approach<lb/></head>
+
+			<p>Build on the existing the one-stop shop approach – do not create another body 20 . The national one-<lb/>stop shops of the ASEAN Strategic Action Plan for SME Development are realistic and yet will be a<lb/> major challenge for all member states to achieve across all locations. The barriers include infrastructure –<lb/> such as electrification, civil service capacity and co-operation between ministries and local<lb/> governments/authorities. ASEAN should consider surveying MSMEs about the barriers they face, or<lb/> working with the World Bank Entrepreneurship/Enterprise Surveys, for instance, to explore more detail<lb/> across the region. Note that successful improvements elsewhere have been developed and implemented<lb/> step by step.<lb/> Again, a team is essential, with effective representatives from the agencies involved and preferably<lb/> the private sector, especially small businesses. Evaluate how well existing one-stop shops are doing.<lb/></p>
+
+			<head>3.1 Decide</head>
+
+			<figure>which processes to include first. Most ASEAN countries have started by integrating<lb/> elements of tax registration into the business registry process. The next sizeable elements are labour<lb/> requirements e.g. social security. Can there be a single form? Can the business have common number for<lb/> the registrations – this could be a first step towards a unique business identifier?<lb/> 3.2 Simplify fees and payment. Can there be a single payment and can one office collect fees on<lb/> behalf of all agencies? Does the One Stop Shop keep any of the fees?<lb/> 3.3 Where should the shops be and how will they be staffed? What is the appropriate<lb/> provincial/regional spread? Will offices be under national or sub-national control?<lb/> 3.4 How does the business get information about what they need to do? At the One Stop Shop,<lb/> online or from other lcoations?<lb/> 3.5 Can the business deal with just one person. Can they get help with filling in the form(s)?<lb/> 3.6 Set service standards. Set targets and establish monitoring needs. Make sure that it is possible<lb/> for businesses to give feedback and that there is a procedure for this to be meaningfully dealt with.<lb/> 3.7 Specify any computer system. Who will enter the data? Can the information be shared<lb/> electronically with other organisations; consider data security and future interconnection needs.<lb/> 3.8 Will there be an online filing option? This is the move from online information to transaction.<lb/> Will the online option include payment and transmission of certificates? ASEAN has multi-speed<lb/> economies within and between its member states.<lb/></figure>
+
+			<head>POLICY RECOMMENDATION 4: Consider other business permit / licensing requirements.<lb/></head>
+
+			<table>Table 3.3 Current one stop shops and combination of registration for business start-up in ASEAN member states<lb/> Brunei-<lb/>Darusssalam<lb/> Cambodia<lb/> Indonesia<lb/> Laos<lb/> Malaysia<lb/> Myanmar<lb/> Philippines<lb/> Singapore<lb/> Thailand<lb/> Vietnam<lb/> Is there a One-Stop<lb/> Shop to facilitate<lb/> the process? (more<lb/> than one type of<lb/> registration)<lb/> yes<lb/> yes …<lb/> but does not<lb/> cover name<lb/> clearance,<lb/> approval of deed<lb/> of establishment,<lb/> or Certificate of<lb/> Company<lb/> Domicile<lb/> no<lb/> yes -<lb/>SSM and MyCOID<lb/> online portal. Must<lb/> register online if<lb/> shareholders are<lb/> only individuals.<lb/> Else in person<lb/> yes<lb/> yes<lb/> being<lb/> introduced<lb/> through<lb/> Cities.<lb/> yes<lb/> ACRA<lb/> yes<lb/> Single<lb/> Point<lb/> Service<lb/> Centre<lb/> yes<lb/> National<lb/> Business<lb/> Registration<lb/> Portal<lb/> OTHER<lb/> MANDATORY,<lb/> SEPARATE<lb/> REGISTRATIONS<lb/> (NOT Labour,<lb/> Tax)<lb/> Certificate of<lb/> Company<lb/> Domicile -by<lb/> head of village.<lb/> Except Jakarta,<lb/> separate<lb/> application for<lb/> registration<lb/> certificate and<lb/> trading licence<lb/> 1. Register<lb/> Articles with<lb/> State Asset<lb/> Management<lb/> Office, with<lb/> copy of ERC.<lb/> 2. Location<lb/> certificate<lb/> 3. Approval of<lb/> signage<lb/> Location -<lb/>register with<lb/> Barangay.<lb/> Community<lb/> tax<lb/> certification.<lb/> In business<lb/> permit to<lb/> operate<lb/> TAXES – separate registration<lb/> Business&apos; or<lb/> &apos;corporation&apos; or<lb/> described as<lb/> &apos;income&apos; tax<lb/> Collector<lb/> notified and<lb/> registration<lb/> form issued at<lb/> company<lb/> registration.<lb/> with above<lb/> yes<lb/> apply at office<lb/> or online<lb/> yes -take letter<lb/> from<lb/> registration<lb/> office and<lb/> many other<lb/> documents<lb/> Through web<lb/> portal, attaching<lb/> Certificate of<lb/> Incorporation and<lb/> director/manager<lb/> details<lb/> Number<lb/> issued at<lb/> company<lb/> registration<lb/> but must go in<lb/> person to<lb/> register<lb/> with<lb/> above<lb/> yes -pay<lb/> local tax<lb/> authority or<lb/> through bank<lb/> VAT<lb/> with above<lb/> yes<lb/> apply at office<lb/> or online<lb/> yes<lb/> Online -<lb/>requires bank<lb/> account and<lb/> business<lb/> registration number<lb/> Register at<lb/> township 1<lb/> month<lb/> before start<lb/> Register and<lb/> get authority<lb/> to print<lb/> invoices and<lb/> receipts. Must<lb/> then be<lb/> stamped<lb/> with above<lb/> yes<lb/> Register to<lb/> print own<lb/> LABOUR -separate registration<lb/> Notify Ministry of<lb/> Labour<lb/> yes.<lb/> Written<lb/> declaration<lb/> before start.<lb/> Then register<lb/> enterprise<lb/> ledger and<lb/> payroll,<lb/> certification<lb/> of internal<lb/> regulations, if<lb/> large –<lb/> recognition of<lb/> election of<lb/> shop steward<lb/> yes -<lb/>within 30 days<lb/> yes<lb/> list of<lb/> employees<lb/> taken for tax<lb/> registration<lb/> yes<lb/> yes<lb/> at Single<lb/> Point<lb/> Service<lb/> Centre (or<lb/> directly)<lb/> yes -<lb/>within 30<lb/> days<lb/> Social Security<lb/> yes -with<lb/> National<lb/> Social<lb/> Security Fund<lb/> yes<lb/> yes<lb/> yes, online<lb/> yes<lb/> yes<lb/> at Single<lb/> Point<lb/> Service<lb/> Centre<lb/> yes<lb/> Health insurance or<lb/> provident funds…<lb/> form issued at<lb/> registration<lb/> yes<lb/> yes<lb/> yes<lb/> Mandatory<lb/> Employee<lb/> Compensation<lb/> Insurance<lb/> at Single<lb/> Point<lb/> Service<lb/> Centre<lb/> yes -with<lb/> Social<lb/> Security<lb/></table>
+
+			<head>IV. DRIVERS OF A MODERN REGIONAL BUSINESS REGISTRATION SYSTEM<lb/></head>
+
+			<p>When governments commit to integrating their economic development to achieve growth, they want<lb/> to improve market efficiency. Regulatory heterogeneity or administrative barriers should not prevent<lb/> companies from establishing themselves in the territory of other Member States. Cross-border trade has<lb/> traditionally been the first area of cooperation. Regional free trade areas and customs unions have preceded<lb/> economic integration and states have developed mechanisms for working together by creating systems to<lb/> support these.<lb/></p>
+
+			<p>An internal market is enabled by a degree of regulatory cooperation, based on the establishment of<lb/> common regulatory goals and principles, taking into account the current policies and regulations in place,<lb/> and the challenges faced by the different countries. The experience is that managing structures to resolve<lb/> issues of harmonisation and create common approaches is not easy.<lb/></p>
+
+			<p>The kind of issues that need to be addressed for regional business registration include key issues of<lb/> company law such as company formation requirements and procedures, corporate governance, capital<lb/> maintenance, mergers and acquisitions, accounting and audit, and market regulation 21 . After 10 years, EU<lb/> member states are still struggling to implement achieve this. It requires excellent interconnection between<lb/> national and local systems. Even at a less complex level, for example, few EU corporate registries have<lb/> information or search functions in other languages, only about 50% will accept foreign language<lb/> Memoranda and Articles, etc. even with certified translation and many have difficulties recognising foreign<lb/> mobile numbers and bank account details.<lb/></p>
+
+			<figure>Box 23. A decade for the EU to make an interconnected regional business registry<lb/> 2009: Directive 2009/01 – required certified copies of filings to be available electronically<lb/> 2012: amended Directive 2012/17 – required Business Registries Interconnection System (BRIS) to be established.<lb/> 2015: Commission Implementing Regulation (EU) 2015/884 -technical specifications and procedures<lb/> 2016: call for funding in 2016 for back-office but not national Access Points (18 month project)<lb/></figure>
+
+			<p>2019: BRIS should be running, at least the back office<lb/> For a competitive internal market, information must also flow freely. Useful business registration<lb/> information includes business existence, insolvency, ownership, disqualification of directors. At the larger<lb/> end of the commercial spectrum, cross-border takeovers, mergers and restructuring need to be recognised.<lb/> It is also valuable to know when a business is just a branch from another jurisdiction – a subsidiary, not a<lb/> separate legal entity. It is very common, across countries, to register these and most regimes give them a<lb/> number. However, very few have yet managed to link this to their home registry number, which would<lb/> help to keep the information up to date if the parent status changes. ASEAN is considering the benefits of<lb/> harmonization of information requirements for the establishment of companies and the creation of an<lb/> official company register accessible by all Member States 22 .<lb/> As covered earlier, business registration goes far beyond the initial corporate registration. To start<lb/> operating in most jurisdictions, businesses require a host of other permissions, from requirements to do<lb/> with employing people to sector-specific protections for issues such as health and safety or professional<lb/> licenses to operate.<lb/> The EU Services Directive mandated that Member States must make easily accessible through the<lb/> &quot; Points of Single Contact &quot; for an individual or business in another member state to find out about the rules,<lb/> regulations and formalities that apply to service activities and to complete the administrative procedures<lb/> online. The PSCs are like a virtual one-stop shop, with national counters. In addition, it also requires<lb/> creating a network among regulatory and supervisory authorities.<lb/></p>
+
+			<head>Progress of the EU Points of Single Contact<lb/></head>
+
+			<p>Source: Performance of the Points of Single Contact. Final report for DG Internal Market, Industry,</p>
+
+			<head>Entrepreneurship and SMEs 2015<lb/></head>
+
+			<p>This was far more than an IT project to e-link national services. Establishing a regional system<lb/> replicates all the difficulties of creating an integrated national one -financial, political, legal, technical<lb/> inter-operability and basic communication and co-ordination challenges -with the addition of sovereignty,<lb/> language and cultural barriers. Clear institutional arrangements are needed, such as a steering committee<lb/> with technical working groups to discuss harmonisation of relevant policy and data exchange. In addition,<lb/> many member states did not have one-stop shops at the outset or not with anything like this scope. After a<lb/> decade, fewer than 40% of the requirements are yet in place.<lb/></p>
+
+			<p>In the EU, the process of establishing the PSCs has gone alongside and in some cases driven<lb/> permitting and licensing reforms. The stages are similar, although there are different stakeholders and more<lb/> powerful incumbents to manage. The potential benefits are often huge but the scale of the task is also large,<lb/> with numerous competent authorities and enforcement agencies to work with.<lb/></p>
+
+			<figure>22 ASEAN Services Integration Report 2016<lb/> 0% 10% 20% 30% 40% 50% 60% 70% 80% 90%<lb/> License for food distribution<lb/> License to provide accomodation<lb/> Licencse for plumbing, heating or…<lb/> License to serve alcohol<lb/> Approval of hygiene/sanitary…<lb/> Approval safety compliance<lb/> Registration on a sector-specific register<lb/> Social security registration<lb/> Application for VAT number<lb/> Application for Tax ID/number<lb/> Business registration<lb/> Points of Single Contact (EU28+)<lb/></figure>
+
+			<p>Detailed requirements and contact details included in PSC<lb/> to consider and agree on standard entries for business registers e.g. the information that would need to be<lb/> included in forms. This would further encourage regional data sharing that is consistent and can be<lb/> comparable across ASEAN countries.<lb/></p>
+
+			<head>5.5 Build a common platform for company or enterprise names. In</head>
+
+			<p>parallel to improving national<lb/> databases to ease name-checking process for companies and enterprises, further progress toward data<lb/> sharing can be achieved through the creation of a common platform for company or enterprise names.<lb/></p>
+
+			<head>5.6 Integrated network for business start-ups. This</head>
+
+			<p>could be a longer-term objective but the<lb/> European experience is that achieving national one-stop shops including all national and local registration,<lb/> permit and licensing requirements is extremely difficult to achieve. Making these accessible to cross-<lb/>border users has received even less attention even across the EU. Even the relatively self-contained,<lb/> technologically enabled and business-like world of business registration finds this difficult and in the<lb/> ASEAN context, some member states do not yet have the capacity or infrastructure to put a national<lb/> system in place.<lb/></p>
+
+			<head>POLICY RECOMMENDATION 6: Share skills across ASEAN<lb/> 6.1 Sharing</head>
+
+			<figure>IT system development skills for government. While national requirements and<lb/> challenges are different, technical skills in implementing IT projects are transferable and member states<lb/> could support each other in implementing and integrating systems. Regional technical and inter-operability<lb/> standards could be developed for new systems, setting the groundwork for further integration in due<lb/> course.</figure>
+
+
+	</text>
+</tei>

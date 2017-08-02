@@ -1,0 +1,147 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5kg9sqzz9mlx-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>: </head>
+ 
+            <figDesc>FTTH as a percentage of existing broadband lines</figDesc>
+        </figure>
+
+
+        <figure>
+
+            Table 2: Top ten countries worldwide in terms of FTTH/B subscribers<lb/> 1<lb/> Japan<lb/> 15 500 000<lb/> 2<lb/> Korea<lb/> 8 050 000<lb/> 3<lb/> United States<lb/> 4 800 000<lb/> 4<lb/> Taiwan<lb/> 1 345 000<lb/> 5<lb/> Hong Kong<lb/> 740 000<lb/> 6<lb/> Russia<lb/> 724 000<lb/> 7<lb/> China*<lb/> 612 000<lb/> 8<lb/> Sweden<lb/> 478 900<lb/> 9<lb/> Italy<lb/> 324 500<lb/> 10<lb/> France<lb/> 252 900<lb/> *Not<lb/> included<lb/> are<lb/> China<lb/> Telecom&apos;s roughly 10 million<lb/> FTTx + LAN subs<lb/> </trash>
+<lb/> 
+            <head>Source </head>
+ 
+            <figDesc>IDATE. Data as of Mid 2009.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>FTTH/B deployments have been made.<lb/> Reviewing the history of countries such as Japan and Korea can be instructive in terms of identifying<lb/> investment drivers.<lb/> In September 2000, the Japanese government directed Nippon Telegraph and Telephone, the<lb/> incumbent operator, to unbundle its copper local loop. In 2004, partial unbundling rates were JPY 120<lb/> (USD 1.50) per month and JPY 1,300 (USD 16) per month for total unbundling.<lb/> Softbank, a major Japanese ISP, launched its DSL service in 2001 &quot;Yahoo! BB&quot; and invested heavily<lb/> in DSL technology. When SoftBank started its (12 Mbit/s) ADSL service at a price of around JPY 3000<lb/> USD 30) it made a huge impact in the Japanese market. The price proposed by Softbank was<lb/> approximately half the prevailing price in the market and, coupled with aggressive marketing campaigns,<lb/> led to Softbank capturing a large share of the market such that, by 2003, it was already the largest DSL<lb/> operator, even ahead of the traditional incumbent. Competitors and Softbank each dropped prices in an<lb/> iterative fashion and repeatedly offered higher speed services to entice customers with offers that quickly<lb/> ran from12 Mbit/s to 24 Mbit/s and 50 Mbit/s.<lb/> In 2004, 52.1% of Japanese households had Internet access, with more than half of these using<lb/> broadband. By March 2005, DSL had more than 13.6 million customers in Japan and the development of<lb/> FTTH became part of the competitive landscape with the arrival of operators like TEPCO (Tokyo Electric<lb/> Power Company), allied to KDDI and NTT. Three million customers were wired with FTTH in March<lb/> 2005 and by 2007 it had overtaken DSL in Japan.<lb/> As noted by Cave (2010) and Ida (2009) regarding Japan, it was the competition in the supply of<lb/> xDSL (driven by low unbundling charges) which was then followed by competition in capacity that ultimately drove fibre deployment. This allowed high fibre penetration rates to be established without<lb/> government subsidies, which were largely confined to taking high speed broadband into rural areas.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>The development of the Korean fibre optic network can also be divided into two stages. The first,<lb/> starting in 2004, included the extension of the fibre network without focusing on the direct connection of<lb/> households to the new network. Development in this period was driven by policy decisions. In 2003, the<lb/> Ministry of Information and Communication (MIC) amended the Facility Sharing Directive. For fibre<lb/> optics deployed before 2004</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>In the 2003 Triennial Review Order (TRO) the United States found that &quot; excessive network<lb/> unbundling requirements tend to undermine the incentives of both incumbent LECs and new entrants to<lb/> invest in new facilities and deploy new technology. &quot; 2 The Federal Communications Commission (FCC)<lb/> found in the TRO that competitive access was not appropriate for most fiber loops used to serve enterprise<lb/> and mass market customers, and reinforced that finding in 2004. 3<lb/> On 20 March 2006, Verizon&apos;s petition for forbearance from dominant carrier regulation of high-<lb/>capacity broadband services – fiber circuits used to serve enterprise customers and as inputs by competitive<lb/> carriers – was &quot; deemed granted &quot; by operation of law. 4 The FCC granted comparable forbearance relief to<lb/> AT&amp;T 5 , Qwest 6 , and Embarq and Frontier 7 in subsequent orders in 2007, stating that &quot; [f]orbearance in<lb/> these circumstances also will increase [their] incentives to invest in advanced network technologies that<lb/> will enable it to provide enterprise customers with increasingly innovative services. &quot; 8<lb/> Clearly, significant progress in terms of investment and homes passed has been achieved, as shown in<lb/> Figure 2 below, and the regulatory action in the United States was accompanied by a significant period of<lb/> investment where cable and telecom networks competed directly. It should be noted, again by reference to<lb/> Table 2 above, that despite the levels of FTTH/B deployment noted in the United States, take-up rates lag someway behind leaders in the OECD though, as noted by IDATE (2010) &quot;The United States, Canada and<lb/> Mexico have connected 27% more users with fibre than all of the countries in West, Central and Eastern<lb/> Europe combined&quot;. On the other hand, performance in terms of fibre access investment in the United States<lb/> is greater than in Canada and Mexico and these countries also have limited or no third-party access via<lb/> policies such as unbundling, and it is difficult to assess the effects of the global economic crisis on<lb/> demand.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>2</label>
+
+            <head>:</head>
+
+            <figDesc>United States FTTH/B homes passed<lb/> Source: RVA and FTTH Council North America.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>More generally in the European Union, the &quot;Europe 2020 Strategy&quot; was launched in March 2010 with<lb/> the aim of preparing Europe&apos;s economy for the next decade. In May 2010 the Commission published its<lb/> Digital Agenda element which detailed how ICT would contribute to the overall EU2020 Strategy vision<lb/> through the creation of advanced networks. Seven target areas are specified, including the need to increase<lb/> Europeans&apos; access to fast and ultra fast Internet. The target set in these policy documents is for Europe to<lb/> achieve Internet speeds of 30 Mbps or above for 100% of European citizens, with 50% or more of<lb/> European households subscribing to connections of 100Mbps or higher.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>has been soundly<lb/> dismissed. Access conditions on fibre based networks will include risk premiums to entice investment.<lb/> The Recommendation also puts significant emphasis on remedies which are aimed at lowering<lb/> deployment costs such as granting access to passive infrastructures. Also in September 2010, the European<lb/> Commission published its Communication &quot;European Broadband: investing in digitally driven growth&quot;. As part of that Communication the Commission committed itself to make a proposal, in co-operation<lb/> with the European Investment Bank (EIB) in 2011:<lb/> • For broadband financing.<lb/> • To issue guidance for local and regional authorities on the use of European Union funds for<lb/> broadband project design and preparation.<lb/> • To adopt investment guidelines on broadband for local and regional authorities to facilitate full<lb/> absorption of European Union funds.<lb/> The European Commission also committed itself to:<lb/> • Complete a review of cost-reduction practices [for NGA deployment] by 2012.<lb/> • Reinforce and rationalise the use of funding of high-speed broadband through European Union<lb/> instruments under the current financial framework (e.g. the European Regional Development Fund<lb/> (ERDF), the Eastern Recovery Development Programme (ERDP), the European Agricultural Fund<lb/> for Rural Development (EAFRD), the Trans-European Networks (TEN) and the Competitiveness<lb/> and Innovation Framework Programme (CIP) by end 2013.<lb/> In turn, the European Commission asks that its Member States:<lb/> • Set national broadband targets and adopt operational plans that are in line with the European<lb/> broadband target; the European Commission will review the national plans in 2011,<lb/> • Take national actions to reduce broadband investment costs.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>3</label>
+
+            <head>: </head>
+ 
+            <figDesc>New entrant share of Broadband lines January 2010<lb/> New Entrant Share of Broadband Lines<lb/> </figDesc>
+
+            <lb/> 0.00%<lb/> 10.00%<lb/> 20.00%<lb/> 30.00%<lb/> 40.00%<lb/> 50.00%<lb/> 60.00%<lb/> 70.00%<lb/> 80.00%<lb/> BE BG </trash>
+ 
+            <figDesc>CZ DK DE EE EL ES FR IE IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU<lb/> Source: European Commission 2010: Progress Report On The Single European Electronic Communications Market<lb/> (15th Report).</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>4</label>
+
+            <head>: </head>
+ 
+            <figDesc>Share of Entrant lines based on Full ULL over DSL<lb/> Share of New Entrant lines based on Full LLU<lb/> 0.00%<lb/> 10.00%<lb/> 20.00%<lb/> 30.00%<lb/> 40.00%<lb/> 50.00%<lb/> 60.00%<lb/> 70.00%<lb/> 80.00%<lb/> 90.00%<lb/> 100.00%<lb/> BE BG CZ DK DE EE EL ES FR IE IT CY LV LT LU HU MT NL AT PL PT RO SI SK FI SE UK EU<lb/> Source: Ibid.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>5</label>
+
+            <head>: </head>
+ 
+            <figDesc>NGA ladder of investment<lb/> Source: BEREC : BoR (10) 08 BEREC Report on NGA wholesale products.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>6</label>
+
+            <head>: </head>
+ 
+            <figDesc>Discounted FTTH payback (w. USD 1000/home costs, 45% cash margin and 12.5% WACC)<lb/> Source: Source: Yankee Group, 2009.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>For </head>
+ 
+            <figDesc>a full definition please refer to FTTH Council definitions 32 .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure</head>
+
+            <label>7</label>
+
+            <head>: </head>
+ 
+            <figDesc>Point to point fibre deployment</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

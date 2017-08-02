@@ -1,0 +1,117 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_226023512638.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <label>2</label>
+
+            <head>.3.</head>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Difference of definitions in compiling trade statistics .</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>4.3. Impact of changes ....</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>An example of flows of goods in three countries/regions</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Official U.S. and Chinese merchandise trade data (billion USD)<lb/> Year<lb/> Official U.S.<lb/> exports to China<lb/> (U .S. data)<lb/> Official Chinese<lb/> imports from the<lb/> U.S.<lb/> (Chinese data)<lb/> Official U.S.<lb/> imports from<lb/> China<lb/> (U .S. data)<lb/> Official Chinese<lb/> exports to the<lb/> U.S.<lb/> (Chinese data)<lb/> Official U.S. -<lb/>China trade<lb/> balance<lb/> (U.S. data)</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Table </head>
+ 
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Re-exports through Hong Kong (USD billion)<lb/> Source: Fung and Lau (2003)</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ReX j , can be expressed as Re X j = e ij<lb/> i=1<lb/> m<lb/> </trash>
+<lb/> 
+            <head>∑ </head>
+ 
+            <figDesc>, where m is the number of originating countries. Note that<lb/> Hong Kong merchandise trade statistics are compiled at the 8-digit level of HS.<lb/> Feenstra et al. (2005), on the other hand, adjusted the trade flows between China/Hong Kong and<lb/> other countries by taking into account the re-exports between China and Hong Kong. Their starting point is<lb/> to consider the value-added generated in Hong Kong when the re-exports occur. Different mark-up rates<lb/> are applied to different destination countries based on 1-digit SITC level according to the availability of<lb/> trade statistics for Chinese exports to Hong Kong and the Hong Kong re-exports of the same commodities.<lb/> That is, the mark-up of the value added is calculated by multiplying the mark-up rate to the value of<lb/> Chinese re-exports through Hong Kong to the destination countries. However, in order to avoid the<lb/> situation in which the Hong Kong re-export value added is higher than the import value from China as<lb/> reported in UN trade statistics, the value added of Hong Kong is re-defined as:<lb/> HK VA = Mark-up rate × min {UN country imports from China, China re-exports to UN country}<lb/> Note that the import statistics from China reported by the UN are at the 4-digit level of SITC. For<lb/> each country in the UN dataset, the value of imports from China is reduced by the calculated HK VA, while<lb/> the value of imports from Hong Kong is increased by the calculated HK VA.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>for exceptions), Canada, Norway, Chinese Taipei, South Africa, Switzerland and<lb/> Turkey.<lb/> Note that in the OECD ITCS and UN Comtrade databases, data are sometimes reported where the<lb/> declaring country and partner country are identical (for example: Australian imports from Australia or<lb/> French exports to France). Such information is more prevalent for import data. While some of these data<lb/> can be attributed to re-imports or re-exports of goods, according to the available country notes in ITCS,<lb/> this is not always the case – see latest documentation for OECD&apos;s Bilateral Trade Database (OECD, 2008)<lb/> for more details.<lb/> 13.<lb/> See http://comtrade.un.org/kb/article.aspx?id=10152.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>L: Last known destination at the time of shipment.<lb/> 1. O: Country of Origin; C: Country of Consignment; O/C: Country of Origin / Country of consignment for intra-EU.<lb/> 2. G: General trade; S: Special trade. According to IMTS (UN</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>Of particular note are the variations of shares of unallocated trade for product across years within<lb/> countries. For example, in OECD&apos;s ITCS database, Australia has very high shares of exports not allocated<lb/> by product from 1990 to 2000 (14-19%) which drops to about 7% in 2005. Reasons for such variations can<lb/> include improvements in identifying transactions; changes in trading structures so that more or fewer<lb/> transactions in &quot; confidential trade &quot; are undertaken; or changes in the way such data are reported – from<lb/> providing data by partner but not by product to providing data by product but not by partner or vice versa.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            17-19<lb/> 0.2<lb/> 0.4<lb/> 0.3<lb/> 0.1<lb/> 0.2<lb/> 0.1<lb/> </trash>
+<lb/> 
+            <figDesc>Wood and products of wood and cork<lb/> 20<lb/> 0.0<lb/> 0.0<lb/> 0.1<lb/> 0.1<lb/> 0.1<lb/> 0.0<lb/> Pulp, paper, paper products, printing and publishing<lb/> 21-22<lb/> 0.8<lb/> 0.4<lb/> 0.5<lb/> 0.1<lb/> 0.2<lb/> 0.1<lb/> Coke, refined petroleum products and nuclear fuel<lb/> </figDesc>
+
+            <lb/> 23<lb/> 6.2<lb/> 4.4<lb/> 5.4<lb/> 1.6<lb/> 2.5<lb/> 1.7<lb/> Chemicals<lb/> 24<lb/> 1.7<lb/> 1.3<lb/> 1.4<lb/> 0.4<lb/> 0.3<lb/> 0.3<lb/> Rubber &amp; plastics products<lb/> 25<lb/> 0.1<lb/> 0.2<lb/> 0.1<lb/> 0.1<lb/> 0.1<lb/> 0.1<lb/> Other non-metallic mineral products<lb/> 26<lb/> 0.7<lb/> 1.4<lb/> 0.9<lb/> 0.3<lb/> 0.3<lb/> 0.3<lb/> Basic metals<lb/> 27<lb/> 0.4<lb/> 1.2<lb/> 0.9<lb/> 0.3<lb/> 0.2<lb/> 0.3<lb/> Fabricated metal products, except machinery &amp; equipment<lb/> 28<lb/> 0.1<lb/> 0.4<lb/> 0.3<lb/> 0.2<lb/> 0.3<lb/> 0.2<lb/> Machinery &amp; equipment, nec<lb/> 29<lb/> 0.3<lb/> 0.3<lb/> 0.3<lb/> 0.2<lb/> 0.2<lb/> 0.2<lb/> Office, accounting &amp; computing machinery<lb/> 30<lb/> 0.2<lb/> 0.1<lb/> 0.2<lb/> 0.2<lb/> 0.1<lb/> 0.1<lb/> Electrical machinery &amp; apparatus, nec<lb/> 31<lb/> 0.4<lb/> 0.2<lb/> 0.3<lb/> 0.2<lb/> 0.2<lb/> 0.2<lb/> Radio, television &amp; communication equipment<lb/> 32<lb/> 1.4<lb/> 0.8<lb/> 0.5<lb/> 1.2<lb/> 0.3<lb/> 0.6<lb/> Medical, precision &amp; optical instruments<lb/> 33<lb/> 0.5<lb/> 0.3<lb/> 0.2<lb/> 0.1<lb/> 0.2<lb/> 0.1<lb/> Motor vehicles, trailers &amp; semi-trailers<lb/> 34<lb/> 0.1<lb/> 0.2<lb/> 0.1<lb/> 0.0<lb/> 0.0<lb/> 0.0<lb/> Other transport equipment<lb/> 35<lb/> 0.6<lb/> 0.5<lb/> 0.8<lb/> 0.2<lb/> 0.1<lb/> 0.2<lb/> Manufacturing nec; recycling (include Furniture)</trash>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>OECD trade<lb/> databases. Data for years beyond 2005 have been processed by OECD and UNSD with nearly identical<lb/> software systems and during 2008 increased efforts were made to &quot; harmonise &quot; ITCS with Comtrade by<lb/> reprocessing data for all OECD countries back to 2000 with the common software and procedures.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>For </head>
+ 
+            <figDesc>some years the OECD has produced the Bilateral Trade Database (BTD) for industrial analysis<lb/> which presents trade in goods according to economic activities, most recently using a classification based<lb/> on ISIC Rev.3. It is designed to be comparable with other data sets in OECD&apos;s &quot; STAN family &quot; including<lb/> OECD&apos;s I-O tables 17 . BTD is compiled from OECD&apos;s ITCS by using a standard conversion from the 1988<lb/> version of the Harmonized Commodity Description and Coding System (HS 1988) to ISIC Rev.3 for all<lb/> countries 18 . Data recorded in later versions of HS (HS 1996, HS 2002) are converted to HS 1988<lb/> beforehand. The drawbacks of this standard approach include the following:</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

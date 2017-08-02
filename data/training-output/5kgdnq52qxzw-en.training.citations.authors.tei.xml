@@ -1,0 +1,148 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Antweiler</surname> <forename>W</forename>. and <forename>D</forename>. <surname>Trefler</surname></author>
+
+						<author><surname>Athukorala</surname>, <forename>P</forename>. <middlename>C</middlename>. and <forename>N</forename>. <surname>Yamashita</surname></author>
+
+						<author><surname>Attanasio</surname>, <forename>O</forename>., <forename>P</forename>. <middlename>K</middlename>. <surname>Goldberg</surname> and <forename>N</forename>. <surname>Pavcnik</surname></author>
+
+						<author><surname>Balassa</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Baldwin</surname> <forename>R</forename>. and <forename>F</forename>. <surname>Robert-Nicoud</surname></author>
+
+						<author><surname>Badri</surname>, <forename>N</forename>. <middlename>G</middlename>. and <forename>T</forename>. <middlename>L</middlename>. <surname>Walmsley</surname></author>
+
+						<author><surname>Berman</surname>, <forename>E</forename>., <forename>J</forename>. <surname>Bound</surname> and <forename>Z</forename>. <surname>Griliches</surname></author>
+
+						<author><surname>Bernard</surname>, <forename>A</forename>., <forename>J</forename>. <surname>Jensen</surname>, <forename>S</forename>. <surname>Redding</surname> and <forename>P</forename>. <surname>Schott</surname></author>
+
+						<author><surname>Bowen</surname> <forename>H</forename>. <middlename>P</middlename>. and <forename>L</forename>. <surname>Sveikauskas</surname></author>
+
+						<author><surname>Davis</surname>, <forename>S</forename>. <middlename>J</middlename>. and <forename>J</forename>. <surname>Haltiwanger</surname></author>
+
+						<author><surname>Davis</surname>, <forename>D</forename>. <middlename>R</middlename>. and <forename>D</forename>. <middlename>E</middlename>. <surname>Weinstein</surname></author>
+
+						<author><surname>Davis</surname>, <forename>D</forename>. <middlename>R</middlename>. and <forename>D</forename>. <middlename>E</middlename>. <surname>Weinstein</surname></author>
+
+						<author><surname>Deardorff</surname>, <forename>A</forename>. <middlename>V</middlename>.</author>
+
+						<author><surname>Dimaranan</surname>, <forename>B</forename>. <middlename>D</middlename>. and <forename>R</forename>.<middlename>A</middlename>. <surname>McDougall</surname></author>
+
+						<author><surname>Feenstra</surname>, <forename>R</forename>. <middlename>C</middlename>. and <forename>G</forename>. <middlename>H</middlename>. <surname>Hanson</surname></author>
+
+						<author><surname>Fisher</surname>, <forename>E</forename>. and <forename>K</forename>. <surname>Marshall</surname></author>
+
+						<author><surname>Freeman</surname>, <forename>R</forename>. <middlename>B</middlename>.</author>
+
+						<author><surname>Freeman</surname>, <forename>R</forename>. <middlename>B</middlename>. and <forename>R</forename>. <surname>Ostendorp</surname></author>
+
+						<author><surname>Gabaix</surname>, <forename>X</forename>.</author>
+
+						<author><forename>THE</forename> <surname>ROLE</surname> OF <surname>FACTOR</surname> CONTENT <surname>IN</surname> TRADE: <surname>HAVE</surname> CHANGES <surname>IN</surname> FACTOR <surname>ENDOWMENTS</surname> BEEN <surname>REFLECTED</surname></author>
+
+						<author><surname>Goldberg</surname>, <forename>P</forename>. <middlename>K</middlename>. and <forename>N</forename>. <surname>Pavcnik</surname></author>
+
+						<author><surname>Grossman</surname> <forename>G</forename>. and <forename>E</forename>. <surname>Rossi-Hansberg</surname></author>
+
+						<author><surname>Hakura</surname>, <forename>D</forename>. <middlename>S</middlename>.</author>
+
+						<author><surname>Hanson</surname>, <forename>G</forename>. and <forename>A</forename>. <surname>Harrison</surname></author>
+
+						<author><surname>Heckscher</surname>, <forename>E</forename>. <middlename>F</middlename>.</author>
+
+						<author><surname>Helpman</surname>, <forename>E</forename>.</author>
+
+						<author><surname>Helpman</surname>, <forename>E</forename>., <forename>O</forename>. <surname>Itskhoki</surname>, and <forename>S</forename>. <surname>Redding</surname></author>
+
+						<author><surname>Katz</surname>, <forename>L</forename>. <middlename>F</middlename>. and <forename>D</forename>. <middlename>H</middlename>. <surname>Autor</surname></author>
+
+						<author><surname>Katz</surname>, <forename>L</forename>. <middlename>F</middlename>. and <forename>K</forename>. <middlename>M</middlename>. <surname>Murphy</surname></author>
+
+						<author><surname>Lawrence</surname>, <forename>R</forename>. <middlename>Z</middlename>. and <forename>M</forename>. <middlename>J</middlename>. <surname>Slaughter</surname></author>
+
+						<author><surname>Leamer</surname>, <forename>E</forename>. <middlename>E</middlename>.</author>
+
+						<author><surname>Leontief</surname>, <forename>W</forename>.</author>
+
+						<author><surname>Liu</surname>, <forename>J</forename>., <forename>N</forename>. <surname>van Leeuwen</surname>, <forename>T</forename>. <middlename>T</middlename>. <surname>Vo</surname>, <forename>R</forename>. <surname>Tyers</surname> and <forename>T</forename>. <surname>Hertel</surname></author>
+
+						<author><surname>Lutz</surname>, <forename>W</forename>., <forename>A</forename>. <surname>Goujon</surname>, <forename>K</forename>. <middlename>C</middlename>. <surname>Samir</surname>, <forename>W</forename>. <surname>Sanderson</surname></author>
+
+						<author><surname>Lutz</surname>, <forename>W</forename>., <forename>A</forename>. <surname>Goujon</surname>, <forename>K</forename>. <middlename>C</middlename>. <surname>Samir</surname>, <forename>W</forename>. <surname>Sanderson</surname></author>
+
+						<author><surname>Melitz</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Muriel</surname>, <forename>B</forename>. and <forename>C</forename>. <surname>Terra</surname></author>
+
+						<author><surname>Murphy</surname>, <forename>K</forename>. <middlename>M</middlename>. and <forename>F</forename>. <surname>Welch</surname></author>
+
+						<author><surname>Nicita</surname> <forename>A</forename>. and <forename>M</forename>. <surname>Olarreaga</surname></author>
+
+						<author><forename>THE</forename> <surname>ROLE</surname> OF <surname>FACTOR</surname> CONTENT <surname>IN</surname> TRADE: <surname>HAVE CHANGES</surname> IN <surname>FACTOR</surname> ENDOWMENTS <surname>BEEN</surname> REFLECTED <surname>IN</surname> TRADE <surname>PATTERNS</surname> AND <surname>ON</surname> RELATIVE <surname>WAGES</surname>? <surname>OECD TRADE</surname> POLICY <surname>WORKING</surname> PAPER <surname>NO</surname></author>
+
+						<author><surname>Nordas</surname>, <forename>H</forename>., <forename>S</forename>. <surname>Miroudot</surname> and <forename>P</forename>. <surname>Kowalski</surname></author>
+
+						<author><forename>OECD</forename>, <forename>STAN</forename> <surname>database</surname></author>
+
+						<author><surname>Ohlin</surname>, <forename>B</forename>. <middlename>G</middlename>.</author>
+
+						<author><surname>Pilat</surname>, <forename>D</forename>, <forename>A</forename>. <surname>Cimper</surname>, <forename>K</forename>. <surname>Olsen</surname>, <forename>K</forename>. and <forename>C</forename>. <surname>Webb</surname></author>
+
+						<author><surname>Reimer</surname>, <forename>J</forename>. <middlename>J</middlename>.</author>
+
+						<author><surname>Reimer</surname>, <forename>J</forename>. <middlename>J</middlename>.</author>
+
+						<author><surname>Romalis</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Romer</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Sachs</surname>, <forename>J</forename>. <middlename>D</middlename>. and <forename>H</forename>. <middlename>J</middlename>. <surname>Shatz</surname></author>
+
+						<author><surname>Samir</surname> <forename>K</forename>. <middlename>C</middlename>, <forename>B</forename>. <surname>Barakat</surname>, <forename>A</forename>. <surname>Goujon</surname>, <forename>V</forename>. <surname>Skirbekk</surname>, <forename>W</forename>. <surname>Sanderson</surname>, <forename>W</forename>. <surname>Lutz</surname></author>
+
+						<author><surname>Samuelson</surname>, <forename>P</forename>. <middlename>S</middlename>.</author>
+
+						<author><surname>Trefler</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Trefler</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Trefler</surname>, <forename>D</forename>. and <forename>S</forename>. <surname>Zhu</surname></author>
+
+						<author><surname>Trefler</surname>, <forename>D</forename>. and <forename>S</forename>. <surname>Zhu</surname></author>
+
+						<author><surname>Vanek</surname>, <forename>J</forename>.</author>
+
+						<author><forename>World</forename> <surname>Bank</surname></author>
+
+						<author><surname>Wu</surname>, <forename>X</forename>. and <forename>J</forename>. <surname>Perloff</surname></author>
+
+						<author><forename>THE</forename> <surname>ROLE</surname> OF <surname>FACTOR</surname> CONTENT <surname>IN</surname> TRADE: <surname>HAVE CHANGES</surname> IN <surname>FACTOR</surname> ENDOWMENTS <surname>BEEN</surname> REFLECTED <surname>IN</surname> TRADE <surname>PATTERNS</surname> AND <surname>ON</surname> RELATIVE <surname>WAGES?– 33</surname> <forename>OECD</forename> <surname>TRADE</surname> POLICY <surname>WORKING</surname> PAPER <surname>NO</surname></author>
+
+						<author><surname>Table</surname> <forename>A6</forename></author>
+
+						<author><forename>%</forename> <surname>Growth</surname> <forename>Wage</forename></author>
+
+						<author><forename>%</forename> <surname>Growth</surname> <forename>Wage</forename></author>
+
+						<author><forename>%</forename> <surname>Growth</surname> <forename>Wage</forename></author>
+
+						<author><forename>%</forename> <surname>Growth</surname> <forename>Wage</forename></author>
+
+						<author><forename>%</forename> <surname>Growth</surname> <forename>Wage</forename></author>
+
+						<author><surname>Log</surname> of GDP per capita</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

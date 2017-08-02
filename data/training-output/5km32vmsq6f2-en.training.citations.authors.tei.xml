@@ -1,0 +1,106 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Anderson</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Bernanke</surname>, <forename>B</forename>. and <forename>M</forename>. <surname>Gertler</surname></author>
+
+						<author><surname>Bordo</surname>, <forename>M</forename>.<middlename>D</middlename>. and <forename>D</forename>. <middlename>C</middlename>. <surname>Wheelock</surname></author>
+
+						<author><surname>Burdekin</surname>, <forename>R</forename>. and <forename>P</forename>. <surname>Siklos</surname></author>
+
+						<author><surname>Chatelain</surname>, <forename>J.-B</forename>., <forename>A</forename>. <surname>Generale</surname>, <forename>I</forename>. <surname>Herando</surname>, <forename>U</forename>. <surname>von Kalckreuth</surname> and <forename>P</forename>. <surname>Vermeulen</surname></author>
+
+						<author><surname>Chen</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Chirinko</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Chirinko</surname>, <forename>R</forename>., <forename>S</forename>. <surname>Fazzari</surname> and <forename>A</forename>. <surname>Meyer</surname></author>
+
+						<author><surname>Coe</surname>, <forename>D</forename>. and <forename>J</forename>. <surname>Mcdermott</surname></author>
+
+						<author><surname>Cheung Yin-Wong</surname>, <forename>M</forename>. <middlename>D</middlename>. <surname>Chinn</surname> and <forename>E</forename>. <surname>Fujii</surname></author>
+
+						<author><surname>Cournède</surname>, <forename>B</forename>., <forename>R</forename>. <surname>Ahrend</surname> and <forename>R</forename>. <surname>Price</surname></author>
+
+						<author><surname>Estrella</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Feyzioglu</surname>, <forename>T</forename>., <forename>N</forename>. <surname>Porter</surname> and <forename>E</forename>. <surname>Takats</surname></author>
+
+						<author><surname>Frankel</surname>, <forename>J</forename>. and <forename>S</forename>. <surname>Wei</surname></author>
+
+						<author><surname>Garcia-Herrero</surname>, <forename>A</forename>. and <forename>D</forename>. <surname>Santabárbara</surname></author>
+
+						<author><surname>Geiger</surname>, <forename>M</forename>.</author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Gerlach</surname>, <forename>S</forename>. and <forename>J</forename>. <surname>Kong</surname></author>
+
+						<author><surname>Gerlach</surname>, <forename>S</forename>. and <forename>W</forename>. <surname>Peng</surname></author>
+
+						<author><surname>Gilchrist</surname>, <forename>S</forename>. and <forename>E</forename>. <surname>Zakrajsek</surname></author>
+
+						<author><surname>Girardin</surname>, <forename>E</forename>. and <forename>Y</forename>. <surname>Liu</surname></author>
+
+						<author><surname>He</surname>, <forename>D</forename>., <forename>C</forename>. <surname>Chu</surname>, and <forename>A</forename>. <surname>Wong</surname></author>
+
+						<author><surname>He</surname>, <forename>D</forename>. and <forename>L</forename>. <surname>Pauwels</surname></author>
+
+						<author><surname>von Kalckreuth</surname>, <forename>U</forename>.</author>
+
+						<author><surname>Koivu</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Koivu</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Laurens</surname>, <forename>J</forename>. and <forename>R</forename>. <surname>Maino</surname></author>
+
+						<author><surname>Liu</surname>, <forename>L</forename>. and <forename>W</forename>. <surname>Zhang</surname></author>
+
+						<author><surname>Ma</surname>, <forename>G</forename>. and <forename>R</forename>. <surname>McCauley</surname></author>
+
+						<author><surname>McKinnon</surname>, <forename>R</forename>. and <forename>G</forename>. <surname>Schnabl</surname></author>
+
+						<author><surname>Mehrotra</surname>, <forename>A</forename>. and <forename>J</forename>.<middlename>R</middlename>. <surname>Sánchez-Fung</surname></author>
+
+						<author><surname>Mishkin</surname>, <forename>F</forename>. and <forename>K</forename>. <surname>Schmidt</surname>-Hebbel</author>
+
+						<author><surname>Nagahata</surname>, <forename>T</forename>. and <forename>T</forename>. <surname>Sekine</surname></author>
+
+						<author><forename>ECO</forename>/<surname>WKP</surname></author>
+
+						<author><surname>Peltonen</surname>, <forename>T</forename>., <forename>R</forename>. <surname>Sousa</surname> and <forename>I</forename>. <surname>Vansteenkiste</surname></author>
+
+						<author><surname>Oppers</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Ouyang</surname>, <forename>A</forename>., <forename>R</forename>. <surname>Rajan</surname> and <forename>T</forename>. <surname>Willett</surname></author>
+
+						<author><surname>Porter</surname>, <forename>N</forename>. and <forename>T</forename>. <surname>Xu</surname></author>
+
+						<author><forename>Helmut</forename> <surname>Reisen</surname> <forename>H</forename>.</author>
+
+						<author><surname>Scheibe</surname>, <forename>J</forename>. and <forename>D</forename>. <surname>Vines</surname></author>
+
+						<author><surname>Schlicht</surname>, <forename>E</forename>. and <forename>J</forename>. <surname>Ludsteck</surname></author>
+
+						<author><surname>Shu</surname>, <forename>C</forename>. and <forename>R</forename>. <surname>Yip</surname></author>
+
+						<author><surname>White</surname>, <forename>W</forename>.</author>
+
+						<author><surname>Zhu</surname>, <forename>H</forename>.</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

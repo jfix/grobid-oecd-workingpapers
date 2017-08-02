@@ -1,0 +1,155 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5jz2lpmk0gs6-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <table>1<lb/> Corresponding authors are: Dan Andrews (Dan.Andrews@oecd.org) from the OECD Economics<lb/> Department<lb/> and<lb/> Chiara<lb/> Criscuolo<lb/> (Chiara.Criscuolo@oecd.org)<lb/> and<lb/> Carlo<lb/> Menon<lb/> (Carlo.Menon@oecd.org) from </table>
+ 
+            <figDesc>the OECD Science, Technology and Industry Directorate. The authors are<lb/> indebted to Hélène Dernis for her advice with the HAN patent dataset; Peter Gal and Alexandros Ragoussis<lb/> for help with the ORBIS database; Stuart Graham and Nicolas van Zeebroeck for useful advice on the<lb/> litigation data; and to Evrard van Zuylen for answering to all our enquiries on the same data. The authors<lb/> would also like to thank Eric Bartelsman, Antoine Dechezleprêtre, Stuart Graham, Bronwyn Hall, Nick<lb/> Johnstone, Giuseppe Nicoletti, Mariagrazia Squicciarini, Jean-Luc Schneider and participants to the CAED<lb/> 2013 conference in Atlanta and to the PSDM 2013 conference in Rio de Janeiro for helpful comments on<lb/> the paper and Ines Gomez Palacio for excellent editorial support. The views expressed in the paper are<lb/> those of the authors and do not reflect those of the OECD and its member countries.<lb/> </figDesc>
+<lb/> 
+            <table>2<lb/> For example, see Restuccia and Rogerson, (2008) and Hsieh and Klenow (2009).<lb/> ECO/WKP(2014)23<lb/> 6<lb/> associated with important economic changes within firms (</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>).<lb/> 5<lb/> Over the first-half of the 1990s, firm turnover rates (entry plus exit rates) in OECD countries were in the<lb/> range of 15 to more than 20% in the business sector (see Bartelsman, Haltiwanger and Scarpetta 2004).<lb/> Meanwhile, average annual gross job reallocation – the sum of job creation and job destruction between t–<lb/> ECO/WKP(2014)23<lb/> 9<lb/> that resource reallocation is always desirable – shifting resources also entails costs for firms, workers and<lb/> governments – and excessive reallocation is no more desirable than the persistent trapping of resources in<lb/> inefficient activities. Nevertheless, continuous reallocation is a key feature of well-functioning market<lb/> economies and aggregate productivity will be improved if resources are reallocated away from less<lb/> productive to more productive businesses and activities over time. The key mechanisms through which this<lb/> process occurs are firm turnover (i.e. entry and exit), shifts in resources across incumbent firms and<lb/> resource reallocation within firms.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>).<lb/> 7<lb/> Baldwin and Gu (2006) for Canada find that this reallocation accounts for about 70% of aggregate labour<lb/> productivity growth. Foster et al. (2006) find that entry and exit explain almost all labour productivity<lb/> growth of the US retail sector.<lb/> 8<lb/> This lagged response of TFP may also reflect the fact that the patent stock is based on the year of<lb/> application as opposed to the year in which the patent is ultimately granted.<lb/> ECO/WKP(2014)23<lb/> 10<lb/> 13.<lb/> Since the model controls for industry specific year fixed</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>]<lb/> 13<lb/> These variables are logarithms of the original values, and hence the factor, say, for employment is<lb/> computed as e1.034 = 2.8.<lb/> 14<lb/> Note that 4,524 observations with zero real capital stock are excluded from the fixed assets statistics. The<lb/> real capital stock is calculated using the perpetual inventory method. See Gal (2013) for detail.<lb/> ECO/WKP(2014)23<lb/> 17<lb/> where Y is the economic characteristic (employment, capital, turnover) for firm i, </table>
+ 
+            <head>in sector s, in country c<lb/> at time t and PatS is the depreciated patent stock. </head>
+ 
+            <table>The specification also includes firm fixed effects and<lb/> industry*country*year fixed effects. As a robustness test and to explore longer run impacts, we also<lb/> estimated equation (1) in long difference form – i.e., on a cross-sectional dataset formed by the 2009-2003<lb/> difference of all variables.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>isct<lb/> sct<lb/> i<lb/> it<lb/> j<lb/> ct<lb/> isct<lb/> j<lb/> j<lb/> it<lb/> j<lb/> ct<lb/> isct<lb/> j<lb/> j<lb/> it<lb/> isct<lb/> it<lb/> isct<lb/> isct<lb/> Old<lb/> P<lb/> PatS<lb/> Yg<lb/> P<lb/> PatS<lb/> Old<lb/> PatS<lb/> Yg<lb/> PatS<lb/> Y</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>. Policy variables, structural factors and relevant industry characteristics in difference-in-differences<lb/> estimator<lb/> </head>
+<lb/> 
+            <table>Variable<lb/> Country-level variable<lb/> Industry-level exposure variable<lb/> EPL<lb/> EPL is the OECD Employment Protection<lb/> Legislation (EPL) sub-index of restrictions on<lb/> individual dismissal of workers with regular<lb/> contracts.<lb/> Layoff rates (defined as the percentage ratio of annual<lb/> layoffs to total employment) at the industry level in the<lb/> United States. Sourced from Bassanini et al., (2009).<lb/> Firm entry rates obtained from Haltiwanger et al.,<lb/> (2006).<lb/> PMR<lb/> PMR is the overall index of the OECD product<lb/> market regulation index.<lb/> Firm turnover rate (defined as the entry rate + exit rate)<lb/> at the industry level in the United States. Sourced from<lb/> Bartelsman et al., (2013).<lb/> Barriers to trade and<lb/> investment<lb/> Sub-index from the OECD product market<lb/> regulation index.<lb/> Trade intensity at the industry level in the United States<lb/> proxied by the sum of exports and imports divided by<lb/> output. Data are sourced from the OECD STAN<lb/> database and refer to the year 2002.<lb/> Stock<lb/> market<lb/> capitalisation to GDP<lb/> Sourced from the World Bank.<lb/> The variable measuring industries&apos; dependence on<lb/> external finance is computed from information contained<lb/> in the Thomson Financial Worldscope database for US<lb/> listed firms with less than 1000 employees. These<lb/> estimates are sourced from de Serres et al., (2006) and<lb/> following Rajan and Zingales (1998), a firm&apos;s<lb/> dependence on external finance is defined as its capital<lb/> expenditure minus internal funds (cash flow from<lb/> operations) divided by capital expenditure.<lb/> Seed and early stage<lb/> finance<lb/> Investment in seed and early stage financing as a per<lb/> cent of GDP, 2005. OECD calculations, based on<lb/> Pricewaterhouse Coopers/National Venture Capital<lb/> Association MoneyTree™ Report.<lb/> Firm entry rates obtained from Haltiwanger et al.,<lb/> (2006).<lb/> Expansion<lb/> stage<lb/> venture<lb/> capital<lb/> finance<lb/> Investment in seed and early stage financing as a per<lb/> cent of GDP, 2005. OECD calculations, based on<lb/> Pricewaterhouse Coopers/National Venture Capital<lb/> Association MoneyTree™ Report.<lb/> Firm entry rates obtained from Haltiwanger et al.,<lb/> (2006).<lb/> Bankruptcy law<lb/> The stringency of bankruptcy rules is measured by<lb/> an indicator of the cost to close a business, sourced<lb/> from the World Bank. Data from 2004.<lb/> Firm turnover rate.<lb/> External finance dependency at the industry level in the<lb/> United States (see above).<lb/> Judicial efficiency<lb/> The cost of enforcing contracts – which measures<lb/> court costs and attorney fees as a per cent of the debt<lb/> value – sourced from the World Bank Doing<lb/> Business Indicators.<lb/> Firm turnover rate<lb/> 49.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>.<lb/> As a robustness check of the estimates, equation [1] was re-estimated solely for the United States<lb/> manufacturing sector and compared to the estimates in Balasubramanian and Sivadasan (2011). While<lb/> analysis in this paper is based on a lower quality data set and refers to a later time period than in the<lb/> 17<lb/> Given the wide set of fixed effects included and the sheer size of the dataset, regressions are incomputable<lb/> with a standard PC and traditional panel fixed-effect procedures. Therefore, estimates are obtained through<lb/> an algorithm for estimation of a linear regression model with two high dimensional fixed effects<lb/> implemented in STATA by Guimaraes and Portugal (2010).<lb/> </figDesc>
+<lb/> 
+            <table>ECO/WKP(2014)23<lb/> 24<lb/> aforementioned study, it is reassuring that the results from this exercise were in the same ballpark to those<lb/> presented in Balasubramanian and Sivadasan (2011). 18<lb/> 57.<lb/> The lower panel of table</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>5</label>
+
+            <head>. Sensitivity of firm characteristics with respect to the patent stock: long differences<lb/> Selected OECD countries, 2003-2009<lb/> Notes: Robust </head>
+ 
+            <figDesc>standard errors clustered at the firm level in parenthesis. All variables are calculated as the difference between the<lb/> 2009 and the 2003 value, and the sample is limited to firms for which data are available in both years. Patent stock is calculated as<lb/> the log(X+1) where X is the cumulated number of USTPO, EPO, or PCT granted patents since the 1980 depreciated at the rate 15%<lb/> per year. Patent stock -Families stock is calculated as the log(X+1) where X is the depreciated number of individual patent families<lb/> (INPADOC classification). ***, **, * denotes statistical significance at the 1%, 5% and 10% levels respectively. Data on value added is<lb/> less widely available than turnover due to missing data on intermediate inputs; the lower coefficient for value-added compared to<lb/> turnover largely reflects the more limited sample. The TFP estimates are based on Wooldridge (2009) procedure with imputations<lb/> based on industry averages for missing data; see Gal (2013) for details.<lb/> 59.</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>Capital /<lb/> Employme nt<lb/> 0.0973***<lb/> 0.126***<lb/> 0.0294***<lb/> 0.0988***<lb/> 0.0518***<lb/> 0.00927<lb/> -0.00747<lb/> -0.0118<lb/> -0.00982<lb/> -0.00935<lb/> -0.00808<lb/> -0.00658<lb/> Firm fixed effects<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Country-year fixed effects<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Number of observations<lb/> 72,905<lb/> 72,700<lb/> 72,700<lb/> 70,929<lb/> 40,809<lb/> 55,025<lb/> 0.625**<lb/> 0.779**<lb/> 0.178<lb/> 0.741**<lb/> 1.113*<lb/> 0.340<lb/> (0.278)<lb/> (0.372)<lb/> (0.381)<lb/> (0.329)<lb/> (0.600)<lb/> (0.290)<lb/> Firm fixed effects<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Country-year fixed effects<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Number of observations<lb/> 72,905<lb/> 72,700<lb/> 72,700<lb/> 70,929<lb/> 40,809<lb/> 55,025<lb/> Kleibergen-Paap rk Wald F<lb/> statistic<lb/> 21.64<lb/> 21.02<lb/> 21.02<lb/> 19.24<lb/> 5.785<lb/> 13.52<lb/> -1.788***<lb/> -1.763***<lb/> -1.763***<lb/> -1.742***<lb/> -1.157**<lb/> -1.628***<lb/> -0.384<lb/> -0.384<lb/> -0.384<lb/> -0.397<lb/> -0.481<lb/> -0.443<lb/> Firm fixed effects<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Country-year fixed effects<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Number of observations<lb/> 72,905<lb/> 72,700<lb/> 72,700<lb/> 70,929<lb/> 40,809<lb/> 55,025<lb/> -0.099<lb/> -0.074<lb/> -0.074<lb/> -0.122<lb/> 0.124<lb/> 0.076<lb/> -0.307<lb/> -0.308<lb/> -0.308<lb/> -0.313<lb/> -0.39<lb/> -0.344<lb/> Firm fixed effects<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Country-year fixed effects<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Yes<lb/> Number of observations<lb/> 72,905<lb/> 72,700<lb/> 72,700<lb/> 70,929<lb/> 40,809<lb/> 55,025<lb/> TFP<lb/> Employme nt<lb/> Capital<lb/> Stock<lb/> Turnover<lb/> Value adde d<lb/> Placebo IV</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>9</label>
+
+            <head>. The impact of framework policies on resource flows to patenting firms: baseline estimates<lb/> One policy interaction included in each regression; using yearly variation</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>B8</label>
+
+            <head>).<lb/> </head>
+<lb/> 
+            <table>24<lb/> A one unit reduction in the EPL index (on regular contracts) roughly corresponds to the difference between<lb/> Switzerland and the United States in 2008.<lb/> ECO/WKP(2014)23<lb/> 37<lb/> Table 11. The impact of framework policies on employment flows to patenting firms: differences-in-<lb/>differences estimator<lb/> One policy interaction included in each regression; using yearly variation<lb/> Notes: Robust standard errors clustered at country-industry level in parenthesis. The patent stock is calculated as the log(X+1) where<lb/> X is the cumulated number of USTPO, EPO, and PCT granted patents since the 1980 depreciated at the rate 15% per year. Firm<lb/> fixed effects and country-sector-year fixed effects are included in all regressions. *** significant at 1%, ** significant at 5%, *<lb/> significant at 10%. The corresponding estimates for the firm capital stock are reported in Table B9.<lb/> 6.<lb/> Extensions and robustness tests<lb/> 78.<lb/> The baseline results are robust to a number of sensitivity tests, including: 25</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>− Including a zero patent dummy to the baseline regressions. This method – already used in the<lb/> patent literature (Klette, 1996) – tests whether the estimates are robust to accounting for a<lb/> 25<lb/> Some of these results are not reported for sake of brevity, but are available from the authors upon request.<lb/> ECO/WKP(2014)23<lb/> 38<lb/> potential heterogeneous effect at the intensive and extensive margin, respectively. The<lb/> estimates coefficients are very similar to those obtained from the baseline regressions.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>A1 </label>
+ 
+            <head>– Original table example<lb/> </head>
+<lb/> 
+            <table>BVD_ID SH_BVD_ID LINK_TYPE<lb/> A<lb/> B<lb/> ISH<lb/> B<lb/> C<lb/> GUO</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table</head>
+
+            <label>A2 </label>
+ 
+            <head>– Final desired output<lb/> </head>
+<lb/> 
+            <table>BVD_ID GUO GROUP ID<lb/> A<lb/> C<lb/> 1<lb/> B<lb/> C<lb/> 1<lb/> C<lb/> 1<lb/> ECO/WKP(2014)23<lb/> 45<lb/> 5.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>B7</label>
+
+            <head>.<lb/> Young firms&apos; patent stock is more radical and closer to science<lb/> European OECD countries, 2003-2010 using yearly variation</head>
+        </figure>
+
+
+
+    </text>
+</tei>
+

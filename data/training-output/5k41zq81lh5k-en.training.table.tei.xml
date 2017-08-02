@@ -1,0 +1,101 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5k41zq81lh5k-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure type="table">
+
+            <table>2006 to 14.7% in 2012 (Central Statistics Office, 2012a and 2013a), while the<lb/> youth unemployment rate increased from 8.7% in 2006 to 30.6 % in 2012 (Eurostat, 2013)<lb/> 2 . Two<lb/> developments raise particular concerns in relation to young unemployed people: the growth in the numbers<lb/> with no formal education, which rose from 17.4% of unemployed people aged 15-24 in 2007 to 48.9% in<lb/> 2011 (Eurostat, 2012)<lb/> 3 ; and the percentage who are in long-term unemployment, which increased from<lb/> 20.3% in 2007 to 45.8% in 2011 (OECD, 2013) 4 . Another worry is the rise in young people not in<lb/> employment, education or training (NEET), which has grown from 11.8 % in 2006 to 24% in 2011<lb/> (Eurostat, 2013) 5 .</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. Employment, Unemployment and Labour Force Participation among those aged 15-24 years<lb/> </head>
+<lb/> 
+            <table>Employment Rate<lb/> Unemployment rate<lb/> Participation rate<lb/> Unemployment ratio<lb/> Per cent<lb/> Per cent<lb/> Per cent<lb/> Per cent<lb/> Q3 2007<lb/> 53.7<lb/> 9.2<lb/> 59.1<lb/> 5.4<lb/> Q3 2011<lb/> 30.1<lb/> 29.8<lb/> 42.9<lb/> 12.8<lb/> Q1 2013<lb/> 27.3<lb/> 26.4<lb/> 37.2<lb/> 9.8<lb/> Source: Central Statistics Office, Quarterly National Household Survey Time Series:<lb/> www.cso.ie/en/qnhs/releasesandpublications/qnhs-calendarquarters/</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>2</label>
+
+            <head>. Employment, Unemployment and Labour Force Participation by Gender and Age Group Q2 2011<lb/> </head>
+<lb/> 
+            <table>Employment rate<lb/> Unemployment rate<lb/> Participation rate<lb/> Unemployment ratio<lb/> Per cent<lb/> Per cent<lb/> Per cent<lb/> Per cent<lb/> Male<lb/> 15-19<lb/> 8.6<lb/> 46.4<lb/> 16.0<lb/> 7.4<lb/> 20-24<lb/> 45.5<lb/> 33.4<lb/> 68.2<lb/> 22.8<lb/> Female<lb/> 15-19<lb/> 10.5<lb/> 34.0<lb/> 15.9<lb/> 5.4<lb/> 20-24<lb/> 50.8<lb/> 21.4<lb/> 64.6<lb/> 13.8<lb/> Source: Central Statistics Office, Quarterly National Household Survey (Supplementary tables) Time Series:<lb/> www.cso.ie/en/qnhs/releasesandpublications/qnhs-calendarquarters/</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>3</label>
+
+            <head>. Total and Long-term Unemployment by Age Group Q2 2011<lb/> </head>
+<lb/> 
+            <table>Male<lb/> Female<lb/> All<lb/> 15-24<lb/> Unemployed (1,000)<lb/> 44.5<lb/> 28.2<lb/> 72.7<lb/> Long-term Unemployed (1,000)<lb/> 20.6<lb/> 8.5<lb/> 29.1<lb/> % Long-term<lb/> 46.3<lb/> 30.1<lb/> 40.0<lb/> 25-44<lb/> Unemployed (1,000)<lb/> 117.9<lb/> 55<lb/> 172.9<lb/> Long-term Unemployed (1,000)<lb/> 74.6<lb/> 28.1<lb/> 102.7<lb/> % Long-term<lb/> 63.3<lb/> 51.1<lb/> 59.4<lb/> 45+<lb/> Unemployed (1,000)<lb/> 51.6<lb/> 20.1<lb/> 71.7<lb/> Long-term Unemployed (1,000)<lb/> 35.2<lb/> 11.1<lb/> 46.3<lb/> % Long-term<lb/> 68.2<lb/> 55.2<lb/> 64.6<lb/> All<lb/> Unemployed (1,000)<lb/> 214.1<lb/> 103.3<lb/> 317.4<lb/> Long-term Unemployed (1,000)<lb/> 130.4<lb/> 47.7<lb/> 178.1<lb/> % Long-term<lb/> 60.9<lb/> 46.2<lb/> 56.1<lb/> Source: Central Statistics Office, Quarterly National Household Survey (Supplementary tables) Time Series:<lb/> www.cso.ie/en/qnhs/releasesandpublications/qnhs-calendarquarters/</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <figDesc>2006 and 2011 respectively,<lb/> focusing particularly on their transitions from unemployment into employment. Given this, our<lb/> unemployed youth sample is 5 926 for 2006 and 13 933 for 2011<lb/> 8 . In order to accommodate our empirical<lb/> 7.<lb/> Information provided by the CSO.<lb/> 8.<lb/> We excluded those who transitioned into economic inactivity from the analysis, and also those individuals that<lb/> did not provide information on their education.<lb/> ECO/WKP(2013)76 strategy, we transform our balanced panel into a cross-sectional dataset based on the characteristics of<lb/> individuals observed in Q2 2006 and Q2 2011 respectively and incorporate their transition behaviours in<lb/> Q3 and Q4 for each of the observed years. Given that we only consider individuals who remain present in<lb/> Ireland over the observation periods, those who migrated to or from Ireland during the period covered by<lb/> each panel are excluded from the analysis.</figDesc>
+        </figure>
+
+
+        <figure type="table">
+
+            <table>estimate our<lb/> models.<lb/> 10.<lb/> nldecompose command in Stata. between 2006 and 2011 (from 54% to 28%) and a sizeable increase in the numbers with a Leaving<lb/> Certificate (31 to 43%) and Post-Leaving Cert level (4 to 18%) qualification. There was some change</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <table>Profile of Unemployed Youths in 2006 and 2011 by Labour Market Status (% of total sample)<lb/> Continuously Unemployed<lb/> Into Employment<lb/> 2006<lb/> 2011<lb/> 2006<lb/> 2011<lb/> Age:<lb/> 15-19<lb/> 46.3<lb/> 18.6<lb/> 27.3<lb/> 26.3<lb/> 20-24<lb/> 53.7<lb/> 81.4<lb/> 72.7<lb/> 73.7<lb/> Gender:<lb/> Male<lb/> 70.4<lb/> 72.0<lb/> 58.9<lb/> 53.1<lb/> Female<lb/> 29.6<lb/> 28.0<lb/> 41.1<lb/> 46.9<lb/> Nationality:<lb/> Irish<lb/> 93.2<lb/> 91.0<lb/> 90.8<lb/> 98.0<lb/> Non-Irish<lb/> 6.8<lb/> 9.0<lb/> 9.2<lb/> 2.0<lb/> Educational Attainment:<lb/> 11<lb/> Junior Certificate or Less<lb/> 54.0<lb/> 28.0<lb/> 21.3<lb/> 12.8<lb/> Leaving Certificate<lb/> 31.1<lb/> 42.9<lb/> 55.5<lb/> 40.7<lb/> Post-Leaving Cert Level (includes<lb/> apprenticeships)<lb/> 3.7<lb/> 18.3<lb/> 12.8<lb/> 12.6<lb/> Third-level Non-degree<lb/> 6.3<lb/> 5.3<lb/> 3.2<lb/> 5.5<lb/> Third-level Degree or Higher<lb/> 5.0<lb/> 5.4<lb/> 7.3<lb/> 28.4<lb/> Geographic Location:<lb/> Dublin<lb/> 24.2<lb/> 23.4<lb/> 36.6<lb/> 22.7<lb/> Border<lb/> 12.9<lb/> 17.1<lb/> 14.3<lb/> 12.0<lb/> Mid-East<lb/> 5.5<lb/> 6.7<lb/> 3.3<lb/> 6.2<lb/> Midlands<lb/> 4.4<lb/> 8.9<lb/> 5.6<lb/> 12.1<lb/> Mid-West<lb/> 17.6<lb/> 8.2<lb/> 9.6<lb/> 17.4<lb/> South-East<lb/> 16.3<lb/> 11.2<lb/> 11.1<lb/> 12.0<lb/> South-West<lb/> 10.4<lb/> 10.7<lb/> 7.4<lb/> 9.7<lb/> West<lb/> 8.7<lb/> 13.8<lb/> 12.0<lb/> 7.9<lb/> Previous Unemployment Duration:<lb/> 1-3 Months<lb/> 31.4<lb/> 16.6<lb/> 49.5<lb/> 39.7<lb/> 4-6 Months<lb/> 9.6<lb/> 11.1<lb/> 12.3<lb/> 16.7<lb/> 7-12 Months<lb/> 25.2<lb/> 22.5<lb/> 22.5<lb/> 8.4<lb/> 13 Months and Above<lb/> 33.8<lb/> 49.9<lb/> 15.7<lb/> 35.2<lb/> Source: Constructed with data from the 2006 (Q2) and 2011 (Q2) Quarterly National Household Survey longitudinal datafiles.<lb/> 11.<lb/> The Junior Certificate examination is taken at the end of lower secondary education, while the Leaving<lb/> Certificate marks the end of upper secondary education. Post Leaving Cert (PLC) level courses are vocational<lb/> education courses and apprenticeships that are mainly accessed by those who have completed a Leaving<lb/> Certificate at upper secondary level.</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>5</label>
+
+            <head>. Unemployed Youths Labour Market Transition Rates: 2006 and 2011 (% of total sample)<lb/> </head>
+<lb/> 
+            <table>Continuously Unemployed<lb/> Into Employment<lb/> Into Inactivity<lb/> 2006<lb/> 37.4<lb/> 38.0<lb/> 24.6<lb/> 2011<lb/> 51.6<lb/> 17.4<lb/> 31.0</table>
+        </figure>
+
+
+        <figure type="table">
+
+            <head>Table </head>
+ 
+            <label>7</label>
+
+            <head>. Overall Decomposition Results (changes in transition rates)<lb/> </head>
+<lb/> 
+            <table>Fairlie<lb/> Nldecompose<lb/> Oaxaca<lb/> Overall Difference<lb/> -24.6<lb/> -24.9<lb/> -24.9<lb/> Endowment Effect<lb/> -2.5<lb/> -2.5<lb/> -2.5<lb/> Coefficient Effect<lb/> -25.6<lb/> -25.6<lb/> Interaction<lb/> 3.2<lb/> 3.2</table>
+        </figure>
+
+
+
+    </text>
+</tei>
+

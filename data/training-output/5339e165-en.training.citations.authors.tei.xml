@@ -1,0 +1,186 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Alston</surname>, <forename>J</forename>.<middlename>M</middlename>., <forename>C</forename>. <surname>Chan-Kang</surname>, <forename>M</forename>.<middlename>C</middlename>. <surname>Marra</surname>, <forename>P</forename>.<middlename>G</middlename>. <surname>Pardey</surname>, and <forename>T</forename>.<middlename>J</middlename>. <surname>Wyatt</surname></author>
+
+						<author><surname>Alston</surname>, <forename>J</forename>., <forename>G</forename>. <surname>Norton</surname>, and <forename>P</forename>. <surname>Pardey</surname></author>
+
+						<author><surname>Andersen</surname>, <forename>M</forename>.<middlename>A</middlename>.</author>
+
+						<author><surname>Avila</surname>, <forename>A</forename>.<middlename>F</middlename>., <forename>G</forename>.<middlename>S</middlename>. <surname>Rodrigues</surname>, <forename>G</forename>.<middlename>L</middlename>. <surname>Vedovoto</surname>, <forename>R</forename>. <surname>de Camargo Penteado Filho</surname>, and <forename>W</forename>. <surname>Corrêa da Fonseca</surname> <forename>Junior</forename></author>
+
+						<author><surname>Beintema</surname>, <forename>N</forename>.<middlename>M</middlename>., <forename>G.-J</forename>. <surname>Stads</surname>, <forename>K</forename>.<middlename>O</middlename>. <surname>Fuglie</surname>, and <forename>P.-W</forename>. <surname>Heisey</surname></author>
+
+						<author><surname>Bornmann</surname>, <forename>L</forename>.</author>
+
+						<author><surname>DOI</surname></author>
+
+						<author><surname>Bozeman</surname>, <forename>B</forename>.</author>
+
+						<author><surname>Bozeman</surname>, <forename>B</forename>., and <forename>G</forename>. <surname>Kingsley</surname></author>
+
+						<author><surname>Bozeman</surname>, <forename>B</forename>., and <forename>D</forename>. <surname>Sarewitz</surname></author>
+
+						<author><surname>Bozeman</surname>, <forename>B</forename>., and <forename>J</forename>. <surname>Youtie</surname></author>
+
+						<author><surname>Burch</surname>, <forename>D</forename>., <forename>G</forename>. <surname>Lawrence</surname>, <forename>G</forename>.<middlename>P</middlename>. <surname>Green</surname>, <forename>K</forename>. <surname>Ichijo</surname>, <forename>I</forename>. <surname>Nonaka</surname>, <forename>M</forename>. <surname>Pimentel</surname>, <forename>J</forename>. <surname>Bower</surname>, <forename>C</forename>. <surname>Gilbert</surname>, <forename>V</forename>. <surname>Couto Filho</surname>, and <forename>L</forename>. <surname>Flavio</surname></author>
+
+						<author><surname>Callon</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Cunningham</surname>, <forename>P</forename>., <forename>A</forename>. <surname>Gök</surname>, and <forename>P</forename>. <surname>Larédo</surname></author>
+
+						<author><surname>de Jong</surname>, <forename>S</forename>., <forename>K</forename>. <surname>Barker</surname>, <forename>D</forename>. <surname>Cox</surname>, <forename>T</forename>. <surname>Sveinsdottir</surname>, and <forename>P</forename>. <surname>van den Besselaar</surname></author>
+
+						<author><surname>DOI</surname></author>
+
+						<author><surname>Donovan</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Donovan</surname>, <forename>C</forename>.</author>
+
+						<author><surname>DOI</surname></author>
+
+						<author><surname>Donovan</surname>, <forename>C</forename>.</author>
+
+						<author><forename>AGRICULTURAL</forename> <surname>RESEARCH</surname> IMPACT <surname>ASSESSMENT</surname>: <surname>ISSUES</surname>, <surname>METHODS</surname> AND <surname>CHALLENGES</surname> OECD <surname>FOOD</surname>, <forename>AGRICULTURE</forename> <surname>AND</surname> FISHERIES <surname>PAPERS N°98 © OECD</surname></author>
+
+						<author><surname>Donovan</surname>, <forename>C</forename>., and <forename>S</forename>. <surname>Hanney</surname></author>
+
+						<author><surname>Douthwaite</surname>, <forename>B</forename>., <forename>S</forename>. <surname>Alvarez</surname>, <forename>S</forename>. <surname>Cook</surname>, <forename>R</forename>. <surname>Davies</surname>, <forename>P</forename>. <surname>George</surname>, <forename>J</forename>. <surname>Howell</surname>, <forename>R</forename>. <surname>Mackay</surname>, and <forename>J</forename>. <surname>Rubiano</surname></author>
+
+						<author><surname>Douthwaite</surname>, <forename>B</forename>., <forename>T</forename>. <surname>Kuby</surname>, <forename>E</forename>. <surname>van de Fliert</surname>, and <forename>S</forename>. <surname>Schulz</surname></author>
+
+						<author><surname>DOI</surname></author>
+
+						<author><forename>EU</forename> <surname>SCAR</surname></author>
+
+						<author><surname>Evenson</surname>, <forename>E</forename>. <surname>Gardner</surname>, <forename>R</forename>.<middlename>E</middlename>. and <forename>G</forename>. <surname>Rausser</surname></author>
+
+						<author><surname>Feller</surname>, <forename>I</forename>.</author>
+
+						<author><surname>Foray</surname>, <forename>D</forename>., <forename>D</forename>.<middlename>C</middlename>. <surname>Mowery</surname> and <forename>R</forename>.<middlename>R</middlename>. <surname>Nelson</surname></author>
+
+						<author><surname>Fuglie</surname>, <forename>K</forename>.<middlename>O</middlename>.</author>
+
+						<author><surname>Fuglie</surname>, <forename>K</forename>., <forename>P</forename>. <surname>Heisey</surname>, <forename>J</forename>. <surname>King</surname>, <forename>C</forename>.<middlename>E</middlename>. <surname>Pray</surname>, and <forename>D</forename>. <surname>Schimmelpfennig</surname></author>
+
+						<author><surname>Fuglie</surname>, <forename>K</forename>.<middlename>O</middlename>., and <forename>A</forename>.<middlename>A</middlename>.<surname>Toole</surname></author>
+
+						<author><surname>Georghiou</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Georghiou</surname>, <forename>L</forename>., <forename>J</forename>. <surname>Rigby</surname>, <forename>H</forename>. <surname>Cameron</surname>, <forename>N</forename>. <surname>Vonortas</surname>, <forename>G</forename>. <surname>Prastacos</surname>, <forename>Y</forename>. <surname>Spanos</surname>, <forename>S</forename>. <surname>Kuhlmann</surname>, and <forename>T</forename>. <surname>Heinze</surname></author>
+
+						<author><surname>Gibbons</surname>, <forename>M</forename>., <forename>C</forename>. <surname>Limoges</surname>, <forename>H</forename>. <surname>Nowotny</surname>, <forename>S</forename>. <surname>Schwartzman</surname>, <forename>P</forename>. <surname>Scott</surname>, and <forename>M</forename>. <surname>Trow</surname></author>
+
+						<author><surname>Griliches</surname>, <forename>Z</forename>.</author>
+
+						<author><surname>Grassini</surname>, <forename>P</forename>., <forename>K</forename>.<middlename>M</middlename>. <surname>Eskridge</surname>, and <forename>K</forename>.<middlename>G</middlename>. <surname>Cassman</surname></author>
+
+						<author><surname>Hanney</surname>, <forename>S</forename>., <forename>M</forename>. <surname>Buxton</surname>, <forename>C</forename>. <surname>Green</surname>, <forename>D</forename>. <surname>Coulson</surname>, and <forename>J</forename>. <surname>Raftery</surname></author>
+
+						<author><surname>Heisey</surname>, <forename>P</forename>., <forename>J</forename>.<middlename>L</middlename>. <surname>King</surname>, <forename>K</forename>. <surname>Rubenstein</surname>, <forename>D</forename>.<middlename>A</middlename>. <surname>Bucks</surname>, and <forename>R</forename>. <surname>Welsh</surname></author>
+
+						<author><surname>Hurley</surname>, <forename>T</forename>.<middlename>M</middlename>., <forename>X</forename>. <surname>Rao</surname>, and <forename>P</forename>.<middlename>G</middlename>. <surname>Pardey</surname></author>
+
+						<author><surname>DOI</surname></author>
+
+						<author><surname>Joly</surname>, <forename>P.-B</forename>., <forename>A</forename>. <surname>Gaunand</surname>, <forename>L</forename>. <surname>Colinet</surname>, <forename>P</forename>. <surname>Larédo</surname>, <forename>S</forename>. <surname>Lemarié</surname>, and <forename>M</forename>. <surname>Matt</surname></author>
+
+						<author><surname>DOI</surname></author>
+
+						<author><surname>Kamenetzky</surname>, <forename>J</forename>.<middlename>R</middlename>.</author>
+
+						<author><forename>OECD</forename> <surname>FOOD</surname>, <forename>AGRICULTURE</forename> <surname>AND</surname> FISHERIES <surname>PAPERS N°98 © OECD</surname></author>
+
+						<author><surname>Kingsley</surname>, <forename>G</forename>., <forename>B</forename>. <surname>Bozeman</surname>, and <forename>K</forename>. <surname>Coker</surname></author>
+
+						<author><surname>Kuby</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Kuhlmann</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Maredia</surname>, <forename>M</forename>.<middlename>K</middlename>., and <forename>D</forename>.<middlename>A</middlename>. <surname>Raitzer</surname></author>
+
+						<author><surname>Molas-Gallart</surname>, <forename>J</forename>., <forename>A</forename>. <surname>Salter</surname>, <forename>P</forename>. <surname>Patel</surname>, <forename>A</forename>. <surname>Scott</surname>, and <forename>X</forename>. <surname>Duran</surname></author>
+
+						<author><surname>Molas-Gallart</surname>, and <forename>P</forename>. <surname>Tang</surname></author>
+
+						<author><surname>Moreddu</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Moreddu</surname>, <forename>C</forename>. and <forename>K</forename>.<middlename>J</middlename>. <surname>Poppe</surname></author>
+
+						<author><surname>Mowery</surname>, <forename>D</forename>.<middlename>C</middlename>., <forename>R</forename>.<middlename>R</middlename>. <surname>Nelson</surname>, and <forename>B</forename>.<middlename>R</middlename>. <surname>Martin</surname></author>
+
+						<author><surname>DOI</surname></author>
+
+						<author><surname>Mutangadura</surname>, <forename>G</forename>. and <forename>G</forename>.<middlename>W</middlename>. <surname>Norton</surname></author>
+
+						<author><surname>Pardey</surname>, <forename>P</forename>.<middlename>G</middlename>., <forename>C</forename>. <surname>Chan-Kang</surname>, <forename>S</forename>. <surname>Dehmer</surname>, <forename>J</forename>.<middlename>M</middlename>. <surname>Beddow</surname>, <forename>T</forename>.<middlename>M</middlename>. <surname>Hurley</surname>, <forename>X</forename>. <surname>Rao</surname> and <forename>J</forename>.<surname>Alston</surname></author>
+
+						<author><surname>Neal</surname> <forename>K</forename>. <surname>Van Alfen</surname></author>
+
+						<author><surname>Power</surname>, <forename>M</forename>.</author>
+
+						<author><surname>Ray</surname>, <forename>D</forename>.<middlename>K</middlename>., <forename>N</forename>. <surname>Ramankutty</surname>, <forename>N</forename>.<middlename>D</middlename>. <surname>Mueller</surname>, <forename>P</forename>.<middlename>C</middlename>. <surname>West</surname>, and <forename>J</forename>.<middlename>A</middlename>. <surname>Foley</surname>.</author>
+
+						<author><surname>Rip</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Rodrigues</surname>, <forename>G</forename>.<middlename>S</middlename>., <forename>C</forename>.<middlename>C</middlename>. <surname>de Almeida Buschinelli</surname>, and <forename>A</forename>.<middlename>F</middlename>. <surname>Dias Avila</surname></author>
+
+						<author><surname>Ruegg</surname>, <forename>R</forename>., and <forename>I</forename>. <surname>Feller</surname></author>
+
+						<author><surname>Ruegg</surname>, <forename>R</forename>., and <forename>G</forename>. <surname>Jordan</surname></author>
+
+						<author><surname>Rymer</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Salter</surname>, <forename>A</forename>.<middlename>J</middlename>., and <forename>B</forename>.<middlename>R</middlename>. <surname>Martin</surname></author>
+
+						<author><surname>Scherer</surname>, <forename>F</forename>., and <forename>D</forename>. <surname>Harhoff</surname></author>
+
+						<author><forename>AGRICULTURAL</forename> <surname>RESEARCH</surname> IMPACT <surname>ASSESSMENT</surname>: <surname>ISSUES</surname>, <surname>METHODS</surname> AND <surname>CHALLENGES</surname> OECD <surname>FOOD</surname>, <forename>AGRICULTURE</forename> <surname>AND</surname> FISHERIES <surname>PAPERS N°98 © OECD</surname></author>
+
+						<author><surname>Shapira</surname>, <forename>P</forename>., and <forename>S</forename>. <surname>Kuhlmann</surname></author>
+
+						<author><surname>Sheng</surname>, <forename>Y</forename>., <forename>E</forename>.<middlename>M</middlename>. <surname>Gray</surname>, <forename>J</forename>.<middlename>D</middlename>. <surname>Mullen</surname>, and <forename>A</forename>. <surname>Davidson</surname></author>
+
+						<author><surname>Spaapen</surname>, <forename>J</forename>.<middlename>M</middlename>., and <forename>L</forename>. <surname>Van Drooge</surname></author>
+
+						<author><surname>Sparger</surname>, <forename>J</forename>.<middlename>A</middlename>., <forename>G</forename>.<middlename>W</middlename>. <surname>Norton</surname>, <forename>P</forename>.<middlename>W</middlename>. <surname>Heisey</surname>, and <forename>J</forename>. <surname>Alwang</surname></author>
+
+						<author><surname>Triomphe</surname>, <forename>B</forename>., <forename>D</forename>. <surname>Barret</surname>, <forename>D</forename>. <surname>Clavel</surname>, <forename>M</forename>.<middlename>H</middlename>. <surname>Dabat</surname>, <forename>A</forename>. <surname>Devaux-Sparatakis</surname>, <forename>G</forename>. <surname>Faure</surname>, <forename>E</forename>. <surname>Hainzelin</surname>, <forename>S</forename>. <surname>Mathé</surname>, <forename>L</forename>. <surname>Temple</surname>, <forename>L</forename>. and <forename>A</forename>. <surname>Toillier</surname></author>
+
+						<author><surname>Walker</surname>, <forename>T</forename>., <forename>M</forename>. <surname>Maredia</surname>, <forename>T</forename>. <surname>Kelley</surname>, <forename>R</forename>.<middlename>L</middlename>. <surname>Rovere</surname>, <forename>D</forename>. <surname>Templeton</surname>, <forename>G</forename>. <surname>Thiele</surname>, and <forename>B</forename>. <surname>Douthwaite</surname></author>
+
+						<author><surname>Wilson</surname>, <forename>K</forename>.</author>
+
+						<author><surname>Wooding</surname>, <forename>S</forename>., <forename>S</forename>.<middlename>R</middlename>. <surname>Hanney</surname>, <forename>A</forename>. <surname>Pollitt</surname>, <forename>J</forename>. <surname>Grant</surname>, and <forename>M</forename>.<middlename>J</middlename>.</author>
+
+						<author><surname>Wright</surname>, <forename>B</forename>.<middlename>D</middlename>., and <forename>T</forename>.<middlename>M</middlename>. <surname>Shih</surname></author>
+
+						<author><forename>OECD</forename> <surname>FOOD</surname>, <forename>AGRICULTURE</forename> <surname>AND</surname> FISHERIES <surname>PAPERS N°98 © OECD</surname></author>
+
+						<author><surname>Bennett</surname>, <forename>J</forename>.</author>
+
+						<author><surname>de Janvry</surname>, <forename>A</forename>., <forename>A</forename>. <surname>Dunstan</surname>, and <forename>E</forename>. <surname>Sadoulet</surname></author>
+
+						<author><forename>IEA</forename> <surname>CGIAR</surname></author>
+
+						<author><surname>Kelley</surname>, <forename>T</forename>., <forename>J</forename>. <surname>Ryan</surname>, and <forename>H</forename>. <surname>Gregersen</surname></author>
+
+						<author><surname>Raitzer</surname>, <forename>D</forename>.<middlename>A</middlename>., and <forename>T</forename>.<middlename>G</middlename>. <surname>Kelley</surname></author>
+
+						<author><surname>Renkow</surname>, <forename>M</forename>., and <forename>D</forename>. <surname>Byerlee</surname></author>
+
+						<author><surname>SPIA</surname>, <forename>CGIAR</forename>, <forename>Rome</forename></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

@@ -1,0 +1,93 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_5k43n1zv02g0-en.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Regional quality of government index, 2009</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Regional quality of government combined index, 2009</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>Table </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Impact of public investment and quality of government on regional growth, no threshold<lb/> Note: Robust standard errors in parentheses: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            Dep. Variable<lb/> GDP pc growth<lb/> ln GDPpc<lb/> 0.00119 0.00693 0.00076 0.00078<lb/> (0.00848) (0.00976) (0.00878) (0.00877)<lb/> Cohesion expenditure pc<lb/> 3.16e-05**<lb/> 3.05e-05** 3.10e-05**<lb/> (0.00001)<lb/> (0.00001) (0.00001)<lb/> Quality of government<lb/> 0.00384 0.00380* 0.00392<lb/> (0.00277) (0.00217) (0.00243)<lb/> Cohesion exp x quality gov<lb/> 0.00000<lb/> (0.00001)<lb/> Primary education<lb/> -0.0847* -0.0670** -0.0804** -0.0807**<lb/> (0.04110) (0.02810) (0.03790) (0.03730)<lb/> University education<lb/> -0.01250 -0.02010 -0.00525 -0.00543<lb/> (0.05030) (0.04530) (0.04870) (0.04830)<lb/> ln Transport density<lb/> 0.00275** 0.00238** 0.00253** 0.00253**<lb/> (0.00124) (0.00110) (0.00116) (0.00115)<lb/> Employment rate<lb/> 0.00061 -0.00142 0.00075 0.00075<lb/> (0.00075) (0.00156) (0.00070) (0.00076)<lb/> ln Employment density<lb/> -0.05440 0.03140 -0.07020 -0.06990<lb/> (0.04460) (0.08410) (0.04050) (0.04350)<lb/> ln Population density<lb/> 0.05660 -0.03090 0.0726* 0.07230<lb/> (0.04480) (0.08480) (0.04070) (0.04380)<lb/> Constant<lb/> -0.03030 0.10900 -0.05590 -0.05530<lb/> (0.11500) (0.13900) (0.10900) (</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>3</label>
+
+            <head>. </head>
+ 
+            <figDesc>Distribution of EU funds per capita: Kernel density estimate</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <label>2</label>
+
+            <head>. </head>
+ 
+            <figDesc>Impact of public investment and quality of government on regional growth, threshold 100 EUR<lb/> Note: Robust standard errors in parentheses: *** p&lt;0.01, ** p&lt;0.05, * p&lt;0.1</figDesc>
+        </figure>
+
+
+        <figure>
+
+            Dep. variable<lb/> GDP pc growth<lb/> ln GDPpc<lb/> -0.0494** -0.0116 -0.0603** -0.0621**<lb/> (0.02070) (0.01570) (0.02020) (0.01970)<lb/> Cohesion expenditure pc<lb/> 2.12E-05<lb/> 1.41E-06 1.72e-05**<lb/> (0.00002)<lb/> (0.00002) (0.00001)<lb/> Quality of government<lb/> 0.0136** 0.0125*** 0.0225***<lb/> (0.00514) (0.00336) (0.00633)<lb/> Cohesion exp x quality gov<lb/> -4.39e-05**<lb/> (0.00002)<lb/> Primary education<lb/> -0.328*** -0.105* -0.281*** -0.286***<lb/> (0.08980) (0.05380) (0.06070) (0.06150)<lb/> University education<lb/> -0.189<lb/> 0.0587<lb/> -0.121<lb/> -0.129<lb/> (0.11400) (0.05930) (0.07690) (0.07770)<lb/> ln Transport density<lb/> 0.0124** 0.00398 0.0111** 0.0119**<lb/> (0.00474) (0.00365) (0.00401) (0.00379)<lb/> Employment rate<lb/> 0.000967 0.00057 0.000933 0.000987<lb/> (0.00138) (0.00155) (0.00117) (0.00124)<lb/> ln Employment density<lb/> -0.104<lb/> -0.114<lb/> -0.120*<lb/> -0.135**<lb/> (0.08050) (0.07760) (0.05660) (0.05330)<lb/> ln Population density<lb/> 0.111<lb/> 0.12<lb/> 0.128*<lb/> 0.144**<lb/> (0.08250) (0.07760) (0.05740) (0.05380)<lb/> Constant<lb/> 0.546**<lb/> 0.00242<lb/> 0.596**<lb/> 0.595**<lb/> (0.23500) (0.20000) (0.21500) (0.22400)<lb/> Time</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>4</label>
+
+            <head>. </head>
+ 
+            <figDesc>Two-way interaction effect for quality of government and cohesion expenditure<lb/> Note: unstandardized values<lb/> Figure 4 plots the returns of EU investments (low-and high-cohesion expenditure in the x-axis) in<lb/> terms of economic growth per capita (y-axis), taking into account the quality of government at the different<lb/> thresholds of cohesion expenditure considered in the analysis. Several conclusions can be extracted from<lb/> this Figure.</figDesc>
+        </figure>
+
+
+
+    </text>
+</tei>
+

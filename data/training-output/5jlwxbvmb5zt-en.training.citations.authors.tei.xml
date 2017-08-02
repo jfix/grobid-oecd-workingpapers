@@ -1,0 +1,352 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Achato</surname>, <forename>Lorrah</forename>, <forename>Mike</forename> <surname>Eaton</surname> and <forename>Chis</forename> <surname>Jones</surname></author>
+
+						<author><surname>Badikyan</surname>, <forename>Tamara</forename></author>
+
+						<author><surname>Barone</surname>, <forename>Carlo</forename></author>
+
+						<author><surname>Baum</surname>, <forename>Christopher</forename> <middlename>F</middlename>.</author>
+
+						<author><surname>Beine</surname>, <forename>Michael</forename>, <forename>Romain</forename> <surname>Noel</surname> and <forename>Lionel</forename> <surname>Ragot</surname></author>
+
+						<author><surname>Bijwaard</surname>, <forename>Govert</forename> <middlename>E</middlename>.</author>
+
+						<author><surname>Bijwaard</surname>, <forename>Govert</forename> and <forename>Qi</forename> <surname>Wang</surname></author>
+
+						<author><surname>Bond</surname>, <forename>Ross</forename>, <forename>Sue</forename> <surname>Grundy</surname> and <forename>Katharine</forename> <surname>Charsley</surname></author>
+
+						<author><surname>Borjas</surname>, <forename>George</forename> <middlename>J</middlename>. and <forename>Bernt</forename> <surname>Bratsberg</surname></author>
+
+						<author><surname>Bratsberg</surname>, <forename>Bernt</forename></author>
+
+						<author><surname>Bracht</surname>, <forename>Oliver</forename>, <forename>Constanze</forename> <surname>Engel</surname></author>
+
+						<author><surname>Brekke</surname></author>
+
+						<author><surname>Bruche</surname>, <forename>Gert</forename></author>
+
+						<author><surname>Caruso</surname>, <forename>Raul</forename>, and <forename>Hans</forename> <surname>de</surname> <forename>Wit</forename></author>
+
+						<author><surname>Charles</surname>, <forename>Maria</forename> and <forename>Karen</forename> <surname>Bradley</surname></author>
+
+						<author><surname>Charness</surname>, <forename>Gary</forename> and <forename>Uri</forename> <surname>Gneezy</surname></author>
+
+						<author><surname>Davidson</surname>, <forename>Russell</forename> and <forename>James</forename> <middlename>G</middlename>. <surname>MacKinnon</surname></author>
+
+						<author><surname>Delpierre</surname>, <forename>Matthieu</forename> and <forename>Bertrand</forename> <surname>Verheyden</surname></author>
+
+						<author><surname>DeWaard</surname>, <forename>Jack</forename>, <forename>Keuntae</forename> <surname>Kim</surname> and <forename>James</forename> <surname>Raymer</surname></author>
+
+						<author><forename>Di</forename> <surname>Pietro</surname>, <forename>Giorgio</forename></author>
+
+						<author><surname>Dohmen</surname>, <forename>Thomas</forename> et al.</author>
+
+						<author><surname>Felbermayr</surname>, <forename>Gabriel</forename> <middlename>J</middlename>. and <forename>Isabella</forename> <surname>Reczkowski</surname></author>
+
+						<author><surname>Findlay</surname>, <forename>Allan</forename> <middlename>M</middlename>.</author>
+
+						<author><surname>Findlay</surname>, <forename>Allan</forename> <middlename>M</middlename>., <forename>Russel</forename> <surname>King</surname>, <forename>Fiona</forename> <middlename>M</middlename>. <surname>Smith</surname>, <forename>Alistair</forename> <surname>Geddes</surname> and <forename>Ronald</forename> <surname>Skeldon</surname></author>
+
+						<author><surname>Finn</surname>, <forename>Michael</forename> <middlename>G</middlename>.</author>
+
+						<author><surname>Gaule</surname>, <forename>Patrick</forename></author>
+
+						<author><surname>Guo</surname>, <forename>Fei</forename></author>
+
+						<author><surname>Hansel</surname>, <forename>Bettina</forename></author>
+
+						<author><surname>Hein</surname>, <forename>Miriam</forename> and <forename>Joachim</forename> <surname>Plesch</surname></author>
+
+						<author><surname>Hooghe</surname>, <forename>Marc</forename>, <forename>Ann</forename> <surname>Trappers</surname>, <forename>Bart</forename> <surname>Meulemann</surname> and <forename>Tim</forename> <surname>Reeskens</surname></author>
+
+						<author><surname>House</surname> of <forename>Commons</forename></author>
+
+						<author><surname>House</surname> of <forename>Lords</forename></author>
+
+						<author><surname>Jaeger</surname>, <forename>David</forename> et al.</author>
+
+						<author><surname>Kaufmann</surname>, <forename>Daniel</forename>, <forename>Aart</forename> <surname>Kraay</surname> and <forename>Massimo</forename> <surname>Mastruzzi</surname></author>
+
+						<author><surname>Kim</surname>, <forename>Dongbin</forename>, <forename>Charles</forename> <middlename>A</middlename>. <middlename>S</middlename>. <surname>Bankart</surname> and <forename>Laura</forename> <surname>Isdell</surname></author>
+
+						<author><surname>King</surname>, <forename>Russel</forename> and <forename>Enric</forename> <surname>Ruiz-Gelices</surname></author>
+
+						<author><surname>Krieger</surname>, <forename>Tim</forename> and <forename>Thomas</forename> <surname>Lange</surname></author>
+
+						<author><surname>Lange</surname>, <forename>Thomas</forename></author>
+
+						<author><surname>Lehr</surname>, <forename>Sabine</forename></author>
+
+						<author><surname>Mayer</surname>, <forename>Thierry</forename> and <forename>Soledad</forename> <surname>Zignago</surname></author>
+
+						<author><surname>Melitz</surname>, <forename>Jacques</forename>, and <forename>Farid</forename> <surname>Toubal</surname></author>
+
+						<author><surname>Merwood</surname>, <forename>Paul</forename></author>
+
+						<author><surname>Ministeriet</surname> for <forename>Forskning</forename></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Nicholson</surname>, <forename>Nigel</forename>, <forename>Emma</forename> <surname>Soane</surname>, <forename>Mark</forename> <surname>Fenton-O&apos;Creevy</surname> and <forename>Paul</forename> <surname>Willman</surname></author>
+
+						<author><surname>Norris</surname>, <forename>Emily</forename> <surname>Mohajeri</surname> and <forename>Joan</forename> <surname>Gillespie</surname></author>
+
+						<author><surname>Nowotny</surname>, <forename>Klaus</forename></author>
+
+						<author><surname>Nemeckova</surname>, <forename>Tereza</forename> and <forename>Petra</forename> <surname>Krylova</surname></author>
+
+						<author><surname>Oosterbeek</surname>, <forename>Hessel</forename> and <forename>Dinand</forename> <surname>Webbink</surname></author>
+
+						<author><surname>Ortega</surname>, <forename>Francesc</forename></author>
+
+						<author><surname>Paige</surname>, <forename>R</forename>. <surname>Michael</surname>, <forename>Gerald</forename> <middlename>W</middlename>. <surname>Fry</surname>, <forename>Elizabeth</forename> <surname>Stallman</surname>, <forename>Jae-Eun</forename> <surname>Jon</surname> and <forename>Jasmine</forename> <surname>Josic</surname></author>
+
+						<author><surname>Papke</surname>, <forename>Leslie</forename> <middlename>E</middlename>. and <forename>Jeffrey</forename> <middlename>M</middlename>. <surname>Wooldridge</surname></author>
+
+						<author><surname>Parey</surname>, <forename>Matthias</forename> and <forename>Fabian</forename> <surname>Waldinger</surname></author>
+
+						<author><surname>Perkins</surname>, <forename>Richard</forename> and <forename>Eric</forename> <surname>Neumayer</surname></author>
+
+						<author><surname>Poutvaara</surname>, <forename>Panu</forename></author>
+
+						<author><surname>Ramalho</surname>, <forename>Esmeralda</forename> <middlename>A</middlename>., <surname>Joaquim</surname> <forename>J</forename>.<middlename>S</middlename>. <surname>Ramalho</surname> and <forename>José</forename> <middlename>M</middlename>.<middlename>R</middlename>. <surname>Murteira</surname></author>
+
+						<author><surname>Ramalho</surname>, <forename>Esmeralda</forename> <middlename>A</middlename>., <surname>Joaquim</surname> <forename>J</forename>.<middlename>S</middlename>. <surname>Ramalho</surname> and <forename>José</forename> <middlename>M</middlename>.<middlename>R</middlename>. <surname>Murteira</surname></author>
+
+						<author><forename>Rodríguez</forename> <surname>González</surname>, <forename>Carlos</forename>, <forename>Ricardo</forename> <middlename>Bustillo</middlename> <surname>Mesanza</surname> and <forename>Petr</forename> <surname>Mariel</surname></author>
+
+						<author><surname>Rosenzweig</surname>, <forename>Mark</forename> <middlename>R</middlename>.</author>
+
+						<author><surname>Rosenzweig</surname>, <forename>Mark</forename> <middlename>R</middlename>.</author>
+
+						<author><surname>Roy</surname>, <forename>A</forename>. <middlename>D</middlename>.</author>
+
+						<author><surname>Ruiz</surname>, <forename>Neil</forename> <middlename>G</middlename>.</author>
+
+						<author><surname>Sage</surname>, <forename>Jo</forename>, <forename>Maria</forename> <surname>Evandrou</surname> and <forename>Jane</forename> <surname>Falkingham</surname></author>
+
+						<author><surname>Schwab</surname>, <forename>Klaus</forename></author>
+
+						<author><surname>Silver</surname>, <forename>Carole</forename></author>
+
+						<author><surname>Suter</surname>, <forename>Brigitte</forename> and <forename>Michael</forename> <surname>Jandl</surname></author>
+
+						<author><surname>Thissen</surname>, <forename>Laura</forename> and <forename>Sjef</forename> <surname>Ederveen</surname></author>
+
+						<author><surname>Tian</surname>, <forename>Fangmeng</forename></author>
+
+						<author><forename>Van</forename> <surname>Bouwel</surname>, <forename>Linda</forename></author>
+
+						<author><surname>Van Bouwel</surname>, <forename>Linda</forename> and <forename>Reinhilde</forename> <surname>Veugelers</surname></author>
+
+						<author><surname>Van Bouwel</surname>, <forename>Linda</forename> and <forename>Reinhilde</forename> <surname>Veugelers</surname></author>
+
+						<author><surname>Van de Sande</surname>, <surname>Daphne</surname>, <forename>Helen</forename> <middlename>Louise</middlename> <surname>Ackers</surname> and <forename>bryony</forename> <surname>Gill</surname></author>
+
+						<author><surname>Vasiljeva</surname>, <forename>Kristine</forename></author>
+
+						<author><surname>Venhorst</surname>, <surname>Viktor</surname>, <forename>Jouke</forename> <surname>van Dijk</surname> and <forename>Leo</forename> <surname>van Wissen</surname></author>
+
+						<author><surname>Voin</surname>, <forename>Mélanie</forename>, <forename>Marcel</forename> <surname>Gérard</surname></author>
+
+						<author><surname>Vossensteyn</surname>, <forename>Hans</forename>, <forename>Leon</forename> <surname>Cremonini</surname>, <forename>Elisabeth</forename> <surname>Epping</surname></author>
+
+						<author><surname>Wang</surname>, <forename>Huiyao</forename></author>
+
+						<author><surname>Weisser</surname>, <forename>Reinhard</forename> <middlename>A</middlename>.</author>
+
+						<author><surname>Weisser</surname>, <forename>Reinhard</forename> <middlename>A</middlename>.</author>
+
+						<author><surname>Wiers-Jenssen</surname>, <forename>Jannecke</forename></author>
+
+						<author><surname>Wilkinson</surname>, <forename>Angie</forename>, <forename>Paul</forename> <surname>Merwood</surname> and <forename>Anne-Marie</forename> <surname>Masgoret</surname></author>
+
+						<author><surname>Wolfeil</surname>, <forename>Nina</forename></author>
+
+						<author><surname>Zhang</surname>, <forename>Guochu</forename> and <forename>Li</forename> <surname>Wenjun</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>GCI</forename> <surname>DC</surname> &gt; OC 0</author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><surname>Regulatory</surname> quality <forename>DC</forename> &gt; <surname>OC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><surname>Unemployment rate</surname> <forename>DC</forename> &gt; <surname>OC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC &gt; DC -0</forename></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>DC</forename> controls <forename>GDP</forename> per <surname>capita</surname> <forename>DC</forename> &gt; <surname>OC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><surname>Unemployment rate</surname> <forename>DC</forename> &gt; <surname>OC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><surname>Infrastructure</surname> <forename>DC</forename> &gt; <surname>OC -</surname></author>
+
+						<author><forename>OC &gt; DC -0</forename></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC &gt; DC -0</forename></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC &gt; DC -0</forename></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><surname>Unemployment rate</surname> <forename>DC</forename> &gt; <surname>OC -</surname></author>
+
+						<author><forename>OC &gt; DC -0</forename></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><surname>Government</surname> effectiveness <forename>DC</forename> &gt; <surname>OC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>Political</forename> <surname>stability</surname> and absence of <forename>DC</forename> &gt; <surname>OC -</surname></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Rule of law</surname> <forename>DC</forename> &gt; <surname>OC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><surname>Regulatory</surname> quality <forename>DC</forename> &gt; <surname>OC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>*</forename>** p&lt;0</author>
+
+						<author><surname>Reported</surname> values for GGOFF and RESET are p-values</author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><surname>Unemployment rate</surname> <forename>DC</forename> &gt; <surname>OC</surname></author>
+
+						<author><forename>OC &gt; DC -0</forename></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><surname>Government</surname> effectiveness <forename>DC</forename> &gt; <surname>OC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Rule of law</surname> <forename>DC</forename> &gt; <surname>OC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>*</forename>** p&lt;0</author>
+
+						<author><surname>Reported</surname> values for GGOFF and RESET are p-values</author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><surname>Unemployment rate</surname> <forename>DC</forename> &gt; <surname>OC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><surname>Government</surname> effectiveness <forename>DC</forename> &gt; <surname>OC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Rule of law</surname> <forename>DC</forename> &gt; <surname>OC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC</surname></author>
+
+						<author><forename>OC</forename> &gt; <surname>DC -</surname></author>
+
+						<author><forename>*</forename>** p&lt;0</author>
+
+						<author><surname>Reported</surname> values for GGOFF and RESET are p-values</author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>

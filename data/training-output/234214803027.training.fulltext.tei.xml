@@ -1,0 +1,179 @@
+<?xml version="1.0" ?>
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text xml:lang="en">
+			<figure>TABLE OF CONTENTS<lb/> Short-term distributional effects of structural reforms: selected simulations in a DGSE framework . 5<lb/> 1.<lb/> Introduction and main findings .</figure>
+
+			<head>........................................................................................................... 5<lb/> 2.<lb/> Framework of the DGE model ............................................................................................................. 6<lb/> Households ......................................................................................................................................... 6<lb/> Consumption....................................................................................................................................... 7<lb/> Labour market .................................................................................................................................... 8<lb/> Production and prices ......................................................................................................................... 9<lb/> Monetary and fiscal policies ............................................................................................................. 10<lb/></head>
+
+			<p>3.<lb/> Calibration of the model .</p>
+
+			<head>................................................................................................................... 11<lb/> 4.<lb/> Simulations ........................................................................................................................................ 12<lb/> 5.<lb/> Some reforms entail short-term costs ................................................................................................. 12<lb/> 6.<lb/> Budgetary compensation schemes can reduce potential short-term costs .......................................... 16<lb/> 7.<lb/> Conclusions ........................................................................................................................................ 20<lb/></head>
+
+			<p>Bibliography .</p>
+
+			<head>................................................................................................................................................ 21<lb/></head>
+
+			<p>Tables<lb/></p>
+
+			<head>1. Calibration of the parameters<lb/></head>
+
+			<figure>Figures<lb/> 1. Impact of a one percentage-point income tax rate cut<lb/> 2. Impact of a one percentage-point cut in the benefit replacement rate<lb/> 3. One percentage-point cut in social security contributions<lb/> 4. Impact of a one percentage-point cut in income tax rate with budget balance rule<lb/> 5. Impact of a one percentage-point cut in the benefit replacement rate under alternative budget-balancing<lb/> schemes<lb/> 6. One percentage-point cut in social security contributions under alternative budget-balancing schemes<lb/> ECO/WKP(2008)56<lb/></figure>
+
+			<head>1.<lb/> Introduction and main findings<lb/></head>
+
+			<p>1.<lb/> Opposition to structural reforms usually arise because of the limited knowledge on these reforms&apos;<lb/> distributional effects, especially in the short term. Indeed, reforms can generate (transitory) losses for<lb/> specific population groups, even if long-term welfare gains are found to be positive (e.g. <ref type="biblio">Alesina and<lb/> Drazen, 1991; Drazen, 2000</ref>). However, very little information is currently available on the short-term<lb/> costs of reforms and to what extent different groups of the population are affected.<lb/> 2.<lb/> Against this background, this paper examines the short-term distributional effects of a number of<lb/> tax and labour market reforms, using a micro-founded dynamic general equilibrium (DGE) model<lb/> calibrated for the euro area. DGE models are explicitly derived from the optimisation of agent behaviour<lb/> under constraints. Their use presents a number of advantages. First, they allow a wide range of structural<lb/> reforms to be examined and possible spillovers between the variables to be taken into account. 2 Second,<lb/> these models are less subject to the Lucas critique as they are based on structural equations with sound<lb/> microeconomic foundations. Third, it is possible to assess policies through their effects on consumer<lb/> welfare. Finally, DGE models encompass dynamic effects and are well suited to examine the adjustment to<lb/> changes in economic structure and policy. However, the lag structure reflects the optimisation-based<lb/> micro-foundations and is generally limited and similar across regions or countries. Consequently, DGE<lb/> results may tend to overemphasise similarities and to attribute differences to shocks rather than to<lb/> economic structure. The empirical validation of DGE models is an important concern, but also an active<lb/> field of economic research. Both the model dynamics and steady-state values can be quite sensitive to<lb/> particular functional forms and parameter choices.<lb/></p>
+
+			<p>3.<lb/> In order to focus on the distributional effects of reforms, a heterogeneous household sector with<lb/> two groups of consumers is considered. The first group maximises intertemporal utility over an infinite<lb/> planning horizon in the presence of habit persistence (e.g. <ref type="biblio">Fuhrer, 2000; Smets and Wouters, 2003</ref>). 2 The<lb/> second group is liquidity-constrained (the so-called rule-of-thumb consumers), has no access to financial<lb/> markets for intertemporal income transfers and consequently spends its disposable period income entirely<lb/> on current consumption (e.g. <ref type="biblio">Galí et al., 2004, 2007</ref>).<lb/> 4.<lb/> The main conclusions are the following:<lb/> − Although the examined labour market reforms are estimated to boost aggregate consumption<lb/> and output immediately after implementation, they have sizeable distributional effects.<lb/> Liquidity-constrained households may incur transitional losses after a cut in the benefit<lb/> replacement ratio.<lb/> − A reduction in the average income tax rate or in employer social security contributions would<lb/> not involve transitory losses for liquidity-constrained households, although gains from the<lb/> reform will be unequally distributed between the two types of households.<lb/></p>
+
+			<p>− Lowering employment and/or price adjustment costs could markedly reduce the short-term<lb/> costs for liquidity-constrained households from a cut in the benefit replacement ratio, without<lb/> changing the long-term impact of the reform. The absence of long-term effects reflects the<lb/> introduction of specific types of adjustment costs in the model, notably the fact that no<lb/> distinction is made between gross and net fluctuations in employment.<lb/> − A suitable compensation scheme could also reduce the potential short-term losses from a cut<lb/> in the benefit replacement rate, but at the expense of lower aggregate gains in the long run.<lb/> More generally, there appears to be a trade-off between long-run aggregate effects of reforms<lb/> and more equal distribution of these gains through a redistribution scheme at least when the<lb/> latter is not phased out once the pay-off from reforms for liquidity-constrained consumers<lb/> moves to positive territory. Decisions on the design of reforms and compensation of losers<lb/> will thus depend on the country&apos;s preferences in terms of efficiency gains and equity.<lb/> 5.<lb/> The paper first describes the DGE model that will subsequently used to simulate the impact of<lb/> selected tax and labour market reforms. Both the theoretical framework and the calibration of the model<lb/> are detailed. The short-term distributional effects of a number of simulations are then discussed. These<lb/> include a cut in the average income tax rate, a cut in the benefit replacement rate and a cut in the employer<lb/> social security contribution rate are then discussed. The implications of a budgetary compensation scheme<lb/> to lessen short-term costs for specific groups are also examined. A final section concludes.<lb/></p>
+
+			<head>2.<lb/> Framework of the DGE model<lb/></head>
+
+			<p>6.<lb/> This section presents the DGE model used to perform a number of policy simulations in the euro<lb/> area. The model assumes a closed economy with monopolistic competition in product and labour markets,<lb/> which provides firms and unions with price and wage setting power. Firms use a bundle of differentiated<lb/> labour services to produce a bundle of differentiated goods. Labour is the only production factor and yields<lb/> constant returns to scale.<lb/></p>
+
+			<head>Households<lb/></head>
+
+			<p>7.<lb/> The household sector consists of a continuum of households<lb/> . A share<lb/> of these<lb/> households faces liquidity constraints. Liquidity-constrained households, labelled<lb/> , have no<lb/> access to financial markets and consume their current disposable income at each period. By contrast,<lb/> unconstrained households, labelled<lb/> , have full access to financial markets. They can buy and sell<lb/> assets and transfer income over time.<lb/> Lifetime utility is the expected discounted value of utility at each period over an infinite horizon. The<lb/> utility function is additive in the utility from consumption and the disutility from work :<lb/></p>
+
+				<formula>(1)<lb/></formula>
+
+			<p>ECO/WKP(2008)56<lb/> where<lb/> indicates the degree of habit persistence, and the weight of leisure. The higher the<lb/> degree of habit persistence, the slower is the adjustment of consumption and output to a structural reform.<lb/> The parameters and<lb/> respectively denote the discount factor and the labour supply elasticity. The<lb/> parameter h is assumed to be zero for the liquidity-constrained households.<lb/> 8.<lb/> Each household supplies differentiated labour services in a monopolistically competitive labour<lb/> market. For simplicity, the labour services of liquidity-constrained and intertemporally optimising<lb/> households are assumed to be of comparable quality. Labour inputs are then combined in a CES bundle of<lb/> the differentiated labour services:<lb/> with as the elasticity of substitution between services.<lb/></p>
+
+			<p>Demand for variety is a function of the relative wage and of total labour demand:<lb/></p>
+
+				<formula>(2)<lb/></formula>
+
+			<p>9.<lb/> The budget constraint of unrestricted households is:<lb/></p>
+
+				<formula>(3)<lb/></formula>
+
+			<p>with<lb/> the nominal wage of household ,<lb/> the average nominal wage,<lb/> is the labour income tax,<lb/> the replacement rate for the non-employed part of the household (a proxy of the reservation wage),<lb/> profits,<lb/> nominal consumption,<lb/> the consumption tax rate,<lb/> one-period government bonds bought<lb/> at the start of period , the nominal interest rate, and<lb/> lump-sum taxes. The parameter<lb/> is the<lb/> share of lump-sum taxes levied from the non liquidity-constrained households.<lb/> Liquidity-constrained households can neither save current income nor borrow against future income. They<lb/> do not receive any profit. As a result, their net expenditure at each period equals their net income:<lb/></p>
+
+				<formula>(4)<lb/></formula>
+
+			<p>Consumption<lb/></p>
+
+			<figure>10.<lb/> Households consume a bundle of differentiated goods, each one being provided by a firm<lb/> . Aggregate consumption thus equals:<lb/> with as the elasticity of substitution between . Demand for<lb/> depends on the relative price of the<lb/> variety and on the aggregate demand for consumption goods:<lb/> ECO/WKP(2008)56<lb/> (5)<lb/></figure>
+
+			<p>11.<lb/> Intertemporally optimising households choose the consumption path that ensures equality of the<lb/> discounted marginal utility of consumption expenditure at each point of time. Differentiating utility (2)<lb/> under the budget restriction (3) gives the marginal utility of consumption:<lb/></p>
+
+				<formula>(6)<lb/></formula>
+
+			<p>12.<lb/> Moreover, the intertemporal optimality condition that determines income transfers, i.e. the<lb/> optimal amount of saving, reads:<lb/></p>
+
+				<formula>(7)<lb/></formula>
+
+			<p>Combining the first-order conditions (6) and (7) yields the optimal consumption path:<lb/></p>
+
+				<formula>(8)<lb/></formula>
+
+			<p>13.<lb/> The liquidity-constrained households spend all their currently disposable income on current<lb/> consumption. The marginal utility of income, derived from maximising (2) with<lb/> under restriction (4)<lb/> is:<lb/></p>
+
+				<formula>(9)<lb/></formula>
+
+			<p>Consumption under the budget constraint (4) equals:<lb/></p>
+
+				<formula>(10)<lb/></formula>
+
+			<p>14.<lb/> Finally, aggregate consumption is the weighted sum of the consumption levels of both types of<lb/> households:<lb/></p>
+
+			<p>(11)<lb/></p>
+
+			<head>Labour market<lb/></head>
+
+			<p>15.<lb/> Labour unions set wages for the differentiated households in a monopolistically competitive<lb/> labour market. It is assumed that optimising and liquidity-constrained consumers are uniformly distributed<lb/> across types of labour and hence across unions (see e.g. <ref type="biblio">Galí et al., 2007</ref>). At each period, a typical union,<lb/> representing workers of type i, sets the wage to maximise the marginal value of income subject to the<lb/> labour demand function (2). The optimum wage obtained from differentiating (1) under the constraints (2)<lb/></p>
+
+			<p>and (3) -or (4) for liquidity-constrained households -with respect to<lb/> is: 3<lb/></p>
+
+			<p>3.<lb/> This first-order condition assumes that unions neglect the effect of wage levels on unemployment transfer<lb/> levels, e.g. that unions care only about the working insiders. If unions took into account that, given the<lb/> replacement rate, higher wages imply higher transfers to the unemployed and higher household income, the<lb/> first-order condition would become<lb/> All unions target the same wage, and wages are fully flexible, so that<lb/> . The previous expression<lb/> simplifies to:<lb/></p>
+
+			<p>The replacement rate exerts upward pressures on wages. The union weights the utility of labour income<lb/> using the weighted average of constrained and unconstrained households&apos; marginal utility of consumption,<lb/> i.e.<lb/> . Inserting (6) and (9) along this weighting scheme yields:<lb/></p>
+
+				<formula>(12)<lb/></formula>
+
+			<p>16.<lb/> Employment is equal across households, i.e.<lb/> , as firms allocate labour demand<lb/> uniformly across different workers,<lb/></p>
+
+			<head>Production and prices<lb/></head>
+
+			<p>17.<lb/> The production sector consists of a continuum of firms<lb/> producing a differentiated<lb/> product and setting prices in a monopolistically competitive product market. Labour is the only input and<lb/> yields constant returns to scale. Without loss of generality, the technology parameter is normalised to one.<lb/> Consequently, gross output of firm under this simple production function is:<lb/></p>
+
+			<figure>(13)<lb/> 18.<lb/> Each firm faces quadratic employment and price adjustment costs<lb/> and<lb/> respectively.<lb/> Adjustment costs are sunk costs that use part of the output and drive a wedge between production and<lb/> consumption. Labour adjustment costs can be interpreted as hiring and firing costs and price adjustment<lb/> costs as menu costs. A common specification of quadratic per-unit adjustment costs of firm (e.g. <ref type="biblio">Cahuc<lb/> and Zylberberg, 2004; Hamermesh, 1995; Rotemberg, 1982</ref>) is:<lb/></p>
+
+			<p>The choice of a quadratic specification has obviously some implications on the path to adjust to policy<lb/> shocks. However, using linear rather than quadratic adjustment costs would not fundamentally modify the<lb/> results (<ref type="biblio">Mourougane and Vogel, 2008</ref>).<lb/> and the subsequent wage setting equation would change accordingly.<lb/></p>
+
+			<figure>ECO/WKP(2008)56<lb/> 10<lb/> 19.<lb/> The aggregate level of output is:<lb/></figure>
+
+			<p>Assuming firms adjust at the same time, as in <ref type="biblio">Rotemberg (1982)</ref>, there is no relative price dispersion and<lb/> . Following equation (5), consumption demand equally spreads across the product varieties .<lb/> Symmetry also implies adjustment costs are identical across firms, so that<lb/> and<lb/> . Consequently, aggregate output equals:<lb/></p>
+
+				<formula>(14)<lb/></formula>
+
+			<p>Firms set the price so as to maximise their discounted stream of profits:<lb/></p>
+
+			<p>,<lb/> which yields the dynamic price-setting equation<lb/></p>
+
+			<figure>(15)<lb/> 20.<lb/> Quadratic price adjustment costs reduce the elasticity of prices to current production costs and<lb/> introduce a forward-looking component into pricing decisions. Aggregate demand influences the current<lb/> level of output and employment because of the sluggish price adjustment. Both employment and price<lb/> adjustment costs generate gaps between actual output and the production level that would prevail under<lb/> perfectly flexible markets. 4 The marginal value of income<lb/> in equation (15) refers to intertemporal<lb/> optimisers only, because liquidity-constrained consumers do not own firms. Without adjustment costs,<lb/> , equation (15) reduces to<lb/> . The latter is the standard pricing rule<lb/> under monopolistic competition and flexible prices, when<lb/> are the marginal costs of production.<lb/></figure>
+
+			<head>Monetary and fiscal policies<lb/></head>
+
+			<p>21.<lb/> The government budget is assumed to be balanced over the long-run. The government collects a<lb/> wage income tax , a consumption tax , and employer social security contributions . It pays transfers<lb/> at the replacement rate to unemployed household members and issues bonds<lb/> to balance the budget.<lb/> It can also levy lump-sum taxes to this aim. Public final demand is omitted for simplicity, but this would<lb/> not substantially modify the results. The government budget constraint is:<lb/></p>
+
+				<formula>(</formula>
+
+			<table>16)<lb/> 4.<lb/> Note that although price adjustment costs introduce persistence in prices, they do not generate inflation<lb/> persistence. In order to generate inflation persistence one would have to include some form of price<lb/> indexation (e.g. Smets and Wouters, 2003) or backward-looking behaviour in the formation of<lb/> expectations.<lb/> ECO/WKP(2008)56<lb/> 22.<lb/> Forward-looking consumption and price setting behaviour requires a policy rule to ensure the<lb/> uniqueness and stability of the equilibrium. To keep the analysis simple, policy rates are assumed to react<lb/> to current inflation:<lb/> (17)<lb/></table>
+
+			<p>with<lb/> in all simulations. The inclusion of an output gap in the policy rule would require the choice<lb/> of a specific definition for potential output within the DGE framework. In addition some may argue that<lb/> output gap estimates are particularly uncertain in the aftermath of structural reforms. As the ECB usually<lb/> focuses on price stability, a monetary reaction function with inflation as the main determinant appears to be<lb/> a plausible assumption.<lb/></p>
+
+			<table>Table 1. Calibration of the parameters<lb/> Variable<lb/> Label<lb/> Value<lb/> Source<lb/> Employment adjustment costs<lb/> Euro area<lb/> θ<lb/> 63 Grenouilleau et al. (2007)<lb/> United States<lb/> 30<lb/> Price adjustment costs<lb/> Euro area<lb/> ψ<lb/> 21 Grenouilleau et al. (2007)<lb/> United States<lb/> 3.40<lb/> Consumption tax<lb/> τ<lb/> c<lb/> 0.18 OECD (2007)<lb/> Labour income tax<lb/> τ<lb/> w<lb/> 0.24 OECD (2007)<lb/> Employer social security contributions<lb/> τ<lb/> e<lb/> 0.22 OECD (2007)<lb/> Replacement rate<lb/> R<lb/> 0.25 OECD (2007)<lb/> Elasticity of substitution between types of labour<lb/> η<lb/> 6.00 Coenen et al. (2007)<lb/> Elasticity of substitution between types of goods<lb/> ε<lb/> 5.00 Christopoulou and Vermeulen (2008)<lb/> Habit persistence<lb/> h<lb/> 0.85 Grenouilleau et al. (2007)<lb/> Share of liquidity-constrained households<lb/> ω<lb/> 0.25 Coenen et al. (2007)<lb/> Disutility weight of labour<lb/> κ<lb/> 1.00 Coenen et al. (2007)<lb/> Discount factor<lb/> β<lb/> 0.99 Coenen et al. (2007)<lb/> Inverse of labour supply elasticity<lb/> φ<lb/> 2.20 Smets and Wouters (2003)<lb/> Policy response to inflation<lb/> 1.50 Galí et al. (2007)<lb/> 3.<lb/> Calibration of the model<lb/> 23.<lb/> The calibration of the model parameters builds on the estimated euro area DGE models of<lb/> Coenen et al. (2007) and Grenouilleau et al. (2007) as well as mark-up estimates from Christopoulou and<lb/> Vermeulen (2008) and tax and benefit data from OECD (2007) (see <ref type="table">Table 1</ref>). The parameter of price<lb/> adjustment costs matches the empirical evidence on average price duration in the euro area and the United<lb/> States (<ref type="biblio">Altissimo et al., 2006; Bils and Klenow, 2004</ref>). The fiscal parameters follow the OECD (2007) tax<lb/> and benefits data for euro area countries and are consistent with those in <ref type="biblio">Coenen et al. (2007)</ref>.<lb/> Unemployment in the model being unemployment of second earners, the average replacement rate is for a<lb/> spouse in work.<lb/></p>
+
+			<figure>24.<lb/> The estimated average elasticity of substitution in the goods market in Christopoulou and<lb/> Vermeulen (2008) suggests a 25% price mark-up. The elasticity of substitution between labour services<lb/> from Coenen et al. (2007) implies a 20% steady-state wage mark-up. The remaining parameter values are<lb/> taken from the euro area models of Coenen et al. (2007), Grenouilleau et al. (2007) and Smets and<lb/> Wouters (2003) and are in line with other empirical studies.<lb/></figure>
+
+			<head>4.<lb/> Simulations<lb/></head>
+
+			<p>25.<lb/> The short-term distributional effects of reforms are examined using DGE model-based<lb/> simulations. Three types of policy changes are considered: a one percentage-point cut in the<lb/> (unemployment) benefit replacement rate, a one percentage-point average income tax rate cut and a one<lb/> percentage-point cut in employer social security contributions. The main mechanisms at play in the model<lb/> following a cut in these policy variables are:<lb/> − An income tax rate cut increases the net real wage, labour supply and current disposable<lb/> income, while a decrease in employer social security contributions directly reduces<lb/> production costs and consequently dampens prices.<lb/></p>
+
+			<p>− Unemployment benefits can be assimilated to a reservation wage and reduce labour supply at<lb/> given real wage levels. As a result, lower benefits will raise labour supply, even though they<lb/> may temporarily decrease disposable income.<lb/></p>
+
+			<p>− Disposable income and consumption of liquidity-constrained households are affected by the<lb/> way reforms are financed (self-financing of reforms or introduction of a scheme to balance<lb/> the budget).<lb/></p>
+
+			<head>5.<lb/> Some reforms entail short-term costs<lb/></head>
+
+			<p>26.<lb/> The distributional effects of reforms vary widely across the different policy measures. In<lb/> particular, the impact on consumption of a cut in income tax or in social security contributions is positive<lb/> in the short term for both types of households, while differences are more pronounced for a reduction in the<lb/> benefit replacement rate (Figures 1 to 3). In the latter case, liquidity-constrained households experience an<lb/> initial decline in their level of consumption, while non-constrained households do not. This result suggests<lb/> that structural reforms can display short-term costs concentrated on specific population groups. The<lb/> absence of transitional losses for some specific groups of the population reflects to a large extent the<lb/> specific shock introduced here namely a cut in the average income tax rate. A cut in the top rate or in the<lb/> rate that applies to low-income workers could generate significant distributional effects, depending on the<lb/> way the loss in government revenue is counterbalanced. Despite the absence of short-term losses, the gains<lb/> from an income tax cut or a cut in social security contributions will not be equally distributed across the<lb/> two types of households.<lb/> 27.<lb/> Employment adjustment costs have temporary but moderate effects on the distribution of short-<lb/>term income and consumption gains between households. Reducing euro area employment adjustment<lb/> costs to their US levels has virtually no effect on the consumption path of intertemporally optimising<lb/> households but a more pronounced impact on liquidity-constrained households. 5 Indeed, it reduces the<lb/> amplitude of the decline in real wages during the transition, so that the consumption of liquidity-<lb/>constrained agents is higher. In most cases, price adjustment costs are found to have only a marginal<lb/> impact on real adjustment after structural reforms, the main exception being in the case of a benefit<lb/> replacement rate cut (<ref type="figure">Figure 2</ref>).<lb/> 5.<lb/> It is assumed that a budget-neutral policy immediately offsets the wealth effect of fiscal measures by lump-<lb/>sum transfers. Each household type receives or pays a proportionate share of these transfers.<lb/></p>
+
+			<figure>Figure 1. Impact of a one percentage-point income tax rate cut<lb/> (Percentage change compared to baseline, percentage points for inflation)<lb/> ––– Euro area ―― Euro area with US labour adjustment costs<lb/> -----Euro area with US labour and price adjustment costs<lb/></figure>
+
+			<p>Note: IO and LC designate &quot; intertemporal optimisers &quot; i.e. unconstrained households, and &quot; liquidity-constrained &quot;<lb/> households respectively.<lb/></p>
+
+			<figure>Figure 2. Impact of a one percentage-point cut in the benefit replacement rate<lb/> (Percentage change compared to baseline, percentage points for inflation)<lb/> ––– Euro area ―― Euro area with US labour adjustment costs<lb/> ----Euro area with US labour and price adjustment costs<lb/></figure>
+
+			<p>Note: IO and LC designate &quot; intertemporal optimisers &quot; i.e. unconstrained households, and &quot; liquidity-constrained &quot;<lb/> households respectively.<lb/></p>
+
+			<head>28.<lb/></head>
+
+			<p>The impact of employment and price adjustment costs varies across policy measures. Lower<lb/> employment adjustment costs accelerate the adjustment of real wages and liquidity-constrained<lb/> consumption after an income tax rate cut or a cut in employer social security contributions. However, the<lb/> difference is more pronounced after a benefit replacement rate reduction, as liquidity-constrained<lb/> consumers initially lose income. Lower adjustment costs attenuate and shorten the temporary real wage<lb/> decline and the transitory real consumption loss for liquidity-constrained households. In the same vein,<lb/> lowering price adjustment costs is found to have a marked effect only in the case of a cut in the benefit<lb/> replacement rate. Indeed, the reduction of the reservation wage exerts downward pressure on real wages<lb/> and lowers production costs. The faster the reaction of prices to lower production costs, the more contained<lb/> is the drop in real wages and the decline in real consumption from liquidity-constrained households.<lb/></p>
+
+			<figure>Figure 3. One percentage-point cut in social security contributions<lb/> (Percentage change compared to baseline, percentage points for inflation)<lb/> ––– Euro area ―― Euro area with US labour adjustment costs<lb/> ----US labour and price adjustment costs<lb/></figure>
+
+			<p>Note: IO and LC designate &quot; intertemporal optimisers &quot; i.e. unconstrained households, and &quot; liquidity-constrained &quot;<lb/> households respectively.<lb/></p>
+
+			<head>6.<lb/> Budgetary compensation schemes can reduce potential short-term costs<lb/></head>
+
+			<p>29.<lb/> The introduction of a fiscal rule to balance the government budget after the implementation of<lb/> structural reforms can have a marked impact on the short-term adjustment and the long-run distribution of<lb/> efficiency gains (Figures 4 to 6). Under a deficit-neutral reform, the government budget is balanced at each<lb/> point in time, assuming for simplicity the availability of lump-sum taxes and transfers to achieve this<lb/> balance. Lump-sum measures offset the wealth effect of reforms without introducing further substitution<lb/> effects. 6 Relying on distortionary taxation and demand components instead would affect incentives and<lb/> either reinforce or weaken the initial impact of the reform. The baseline scenario assumes that liquidity-<lb/>constrained households proportionately share the fiscal burden after a tax cut or the reduction in social<lb/> security contributions, or the fiscal gains from a reduction in the benefit replacement rate. Under an<lb/> alternative scenario, the fiscal burden or gain is entirely shifted to the intertemporally optimising<lb/> households.<lb/> 30.<lb/> Shifting the entire fiscal burden of an income tax cut or a reduction in employer social security<lb/> contributions to intertemporally optimising households diminishes the gains of the latter from structural<lb/> reforms. By contrast, liquidity-constrained consumers experience an increase in disposable income and<lb/> consumption. Depriving liquidity-constrained households from the fiscal gains from lower unemployment<lb/> transfers would have the opposite effect. Liquidity-constrained households would lose in net wealth terms,<lb/> while optimising consumers would gain compared to the baseline redistribution scheme, where budgetary<lb/> surpluses are shared between the two types of households.<lb/> 31.<lb/> A budget consolidation scheme would affect not only the relative long-term position of the two<lb/> types of consumers, but also aggregate production and consumption in the long run. Exempting liquidity-<lb/>constrained consumers from fiscal consolidation reduces aggregate output, while excluding them from the<lb/> redistribution of fiscal surpluses would moderately raise long-run production. These effects reflect mostly<lb/> the assumption of a diminishing marginal utility of income. Liquidity-constrained households do not<lb/> receive profits and dividends from firms and thus consume less than unconstrained households in the<lb/> steady state. The exemption from fiscal consolidation raises liquidity-constrained consumers&apos; disposable<lb/> income and consumption. Given the decreasing marginal utility of consumption, labour supply declines<lb/> and wage claims rise, reducing equilibrium employment and production. Excluding liquidity-constrained<lb/> households from the redistribution of fiscal gains would reduce their disposable income and lead to wage<lb/> moderation and higher production. As structural reforms have a permanent budgetary impact in the model<lb/> these income effects are also long-lasting.<lb/> 32.<lb/> Overall the introduction of a budgetary compensation scheme can help to alleviate short-term<lb/> transition costs borne by certain population groups, thereby reducing potential opposition to reforms. The<lb/> counterpart is that the expected positive long-term effects of structural reforms will also be diminished.<lb/> However, aggregate long-term effects are a weighted average across both types of households. Computing<lb/> measures of aggregate welfare is not straightforward and the weighting of individual pay-offs is a matter of<lb/> social choice, as are the weights attributed to efficiency versus equity outcomes.<lb/></p>
+
+			<figure>6.<lb/> As the intertemporal optimisers operate under an infinite planning horizon the time structure of budget<lb/> consolidation does not affect private sector behaviour in this case. Budget balancing may even only occur<lb/> in the distant future.<lb/> Figure 4. Impact of a one percentage-point cut in income tax rate with budget balance rule<lb/> (Percentage change compared to baseline, percentage points for inflation)<lb/> ––– Contribution from both types of households ―― No contribution from liquidity-constrained households<lb/></figure>
+
+			<p>Note: IO and LC designate &quot; intertemporal optimisers &quot; i.e. unconstrained households, and &quot; liquidity-constrained &quot;<lb/> households respectively.<lb/></p>
+
+			<figure>Figure 5. Impact of a one percentage-point cut in the benefit replacement rate<lb/> under alternative budget-balancing schemes<lb/> (Percentage change compared to baseline, percentage points for inflation)<lb/> ––– Fiscal surplus to both types of households ―― Fiscal surplus only to optimising households<lb/> Note: IO and LC designate &quot; intertemporal optimisers &quot; i.e. unconstrained households, and &quot; liquidity-constrained &quot;<lb/> households respectively.<lb/> Figure 6. One percentage-point cut in social security contributions<lb/> under alternative budget-balancing schemes<lb/> (Percentage change compared to baseline, percentage points for inflation)<lb/> ––– Contribution of both types of households ―― No contribution from liquidity-constrained households<lb/></figure>
+
+			<p>Note: IO and LC designate &quot; intertemporal optimisers &quot; i.e. unconstrained households, and &quot; liquidity-constrained &quot;<lb/> households respectively.<lb/></p>
+
+			<head>7.<lb/> Conclusions<lb/></head>
+
+			<p>33.<lb/> This paper has cast some light on the short-term distributional effects of selected structural<lb/> reforms using DGE-based simulations and differentiating the impact on liquidity-constrained households<lb/> which cannot fully optimise their consumption patterns over time and non-constrained households, which<lb/> have full access to financial markets. The main conclusion is that liquidity-constrained households are<lb/> found to experience significant short-term losses after a cut in the benefit replacement rate. By contrast,<lb/> cuts in the average income tax rate or in employer social security contributions do not generate similar<lb/> short-term losses. Taking measures that lower price and employment adjustment costs or, alternatively,<lb/> introducing a budgetary scheme that compensates losers can reduce these short-term losses. The first<lb/> alternative may appear more promising as it has no impact on the long-term benefits of reforms, but this<lb/> also reflects the way adjustment costs are modelled in the DGE model. At the same time, setting up a fiscal<lb/> compensation scheme may be easier and faster to implement than trying to alter adjustment costs, as policy<lb/> makers have a direct control on fiscal instruments. Overall, the final decision about the extent of<lb/> redistribution will depend on the country&apos;s social preferences in terms of economic efficiency and equity.<lb/> 34.<lb/> The work undertaken in this paper is subject to the usual caveats of using simple DGE models<lb/> (<ref type="biblio">De Grauwe, 2008</ref>). In addition, a number of extensions are worth investigating. First, it would be useful<lb/> to replicate this work for other countries using alternative calibration of habit persistence or labour supply<lb/> parameters to check the robustness of the findings. Second, the framework could be extended to examine in<lb/> more detail how different population groups are affected by structural reforms in the short term (e.g.<lb/> households differentiated by employment status, earnings or age).</p>
+
+
+	</text>
+</tei>

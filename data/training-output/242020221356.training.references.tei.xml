@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><author>Ahmad, N. and A. Wyckoff</author> (<date>2003</date>), &quot; <title level="a">Carbon Dioxide Emissions Embodied in International Trade of Goods</title>&quot; , <title level="m">OECD STI Working Paper 2003 -15</title>,<pubPlace>OECD ,Paris</pubPlace> .</bibl>
+	<bibl><author>Baldwin, R.</author> (<date>2006</date>), &quot; <title level="a">Globalisation: the Great Unbundling(s)</title> &quot; , <note>contributed paper to the project &quot;Globalisation Challenges for Europe and Finland &quot; by the Economic Council of Finland</note> .</bibl>
+	<bibl><author>Bergoeing, R., T.J. Kehoe, V. Strauss-Kahn and K. Yi</author> (<date>2004</date>), &quot; <title level="a">Why is Manufacturing Trade Rising Even asManufacturing Output is Falling ?</title>&quot; , <title level="j">American Economic Review</title> ,Vol .<biblScope unit="volume">94</biblScope> (<biblScope unit="issue">2</biblScope>),pp .<biblScope unit="page">134 -138</biblScope>.</bibl>
+	<bibl><author>Feenstra, R.C. and G.H. Hanson</author> (<date>1996</date>), &quot; <title level="a">Globalisation, Outsourcing and Wage Inequality</title> &quot; , <title level="j">American EconomicReview</title> ,Vol .<biblScope unit="volume">86</biblScope> (<biblScope unit="issue">2</biblScope>),pp .<biblScope unit="page">240 -245</biblScope>.</bibl>
+	<bibl><author>Feenstra, R.C. and G.H. Hanson</author> (<date>1999</date>), &quot; <title level="a">The Impact of Outsourcing and High-Technology Capital on Wages:Estimates for the United States</title> ,<date>1979 -1990</date>&quot; , <title level="j">Quarterly Journal of Economics</title> ,Vol .<biblScope unit="volume">114</biblScope>( <biblScope unit="issue">3</biblScope>).</bibl>
+	<bibl><author>Groshen, E.L., B. Hobijn and M.M. McConnell</author> (<date>2005</date>), &quot; <title level="a">US Jobs Gained and Lost through Trade: A Net Measure</title>&quot; , <title level="j">Current Issues in Economics and Finance</title> ,Vol .<biblScope unit="volume">11</biblScope> (<biblScope unit="issue">8</biblScope>),<date>August</date> ,<pubPlace>Federal Reserve Bank of NewYork , NewYork</pubPlace> .</bibl>
+	<bibl><author>Grossman, G. and E. Rossi-Hansberg</author> (<date>2006</date>), &quot; <title level="a">The Rise of Offshoring: It&apos;s Not Wine for Cloth Anymore</title> &quot; , <note>paperpresented at the Federal Reserve Bank of Kansas City</note> ,<date>2006</date> .</bibl>
+	<bibl><author>Hummels, D., D. Rapoport, and K. Yi</author> (<date>1998</date>), &quot; <title level="a">Vertical Specialization and the Changing Nature of World Trade</title>&quot; , <pubPlace>Federal Reserve Bank New York Economic Policy Review</pubPlace> ,<date>June</date> ,pp .<biblScope unit="page">79 -99</biblScope>.</bibl>
+	<bibl><author>Hummels, D., J. Ishii and K. Yi</author> (<date>2001</date>), &quot; <title level="a">The Nature and Growth of Vertical Specialisation in World Trade</title>&quot; , <title level="j">Journal of International Economics</title> ,Vol .<biblScope unit="volume">54</biblScope> ,pp .<biblScope unit="page">75 -96</biblScope>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2007a</date>), &quot; <title level="a">Staying Competitive in the Global Economy: Moving up the Value Chain</title> &quot; , <pubPlace>OECD, Paris</pubPlace>.</bibl>
+	<bibl><title level="j">OECD</title> (<date>2007b</date>), &quot; <title level="a">Offshoring and Employment: Trends and Impacts</title> &quot; , <pubPlace>OECD, Paris</pubPlace>.</bibl>
+	<bibl><author>Porter, M.E.</author> (<date>1985</date>) &quot; <title level="a">Competitive Advantage</title> &quot; , <publisher>The Free Press</publisher>, <pubPlace>New York</pubPlace>.</bibl>
+	<bibl><author>Srholec, M.</author> (<date>2007</date>), &quot; <title level="a">High Tech Exports from Developing Countries: A Symptom of Technology Spurts or StatisticalIllusion ?</title>&quot; , <title level="j">Review of World Economics</title> ,Vol .<biblScope unit="volume">143</biblScope> ,pp .<biblScope unit="page">227 -255</biblScope>.</bibl>
+	<bibl><orgName>United States Government Accountability Office</orgName> (<date>2004</date>), &quot; <title level="a">International Trade: Current Government Data ProvideLimited Insight into Offshoring of Services</title> &quot; , GAO -<biblScope unit="page">04-932</biblScope>.</bibl>
+	<bibl><orgName>United States National Research Council</orgName>, <title level="j">National Academy of Sciences</title> (<date>2006</date>), &quot; <title level="a">Analyzing the U.S. Contentof Imports and the Foreign Content of Exports</title> &quot; , <biblScope unit="page">64p</biblScope> .</bibl>
+	<bibl><author>DSTI/DOC</author>(<date>2007</date>)<biblScope unit="issue">8</biblScope></bibl>
+	<bibl><biblScope unit="page">31</biblScope></bibl>
+	<bibl><author>Wixted, B., N. Yamano and C. Webb</author> (<date>2006</date>), &quot; <title level="a">Input-Output Analysis in an Increasingly Globalised World: Applicationsof OECD &apos;sHarmonised International Tables</title> &quot; , <title level="m">OECD STI Working Paper</title> <date>2006 -7,OECD</date> ,<pubPlace>Paris</pubPlace>.</bibl>
+	<bibl><author>Yamano, N. and N. Ahmad</author> (<date>2006</date>), &quot; <title level="a">The OECD Input-Output Database</title> <date>2006</date> <title level="j">Edition</title> &quot; , <note type="report">OECD STI WorkingPaper 2006 -8</note>,<pubPlace>OECD ,Paris</pubPlace> .</bibl>
+	<bibl><author>Yi, K.</author> (<date>2003</date>), &quot; <title level="a">Can Vertical Specialization Explain the Growth of World Trade?</title> &quot; , <title level="j">Journal of Political Economy</title>,Vol .<biblScope unit="volume">11</biblScope> (<biblScope unit="issue">1</biblScope>),pp .<biblScope unit="page">52-102</biblScope>.</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

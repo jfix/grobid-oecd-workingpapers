@@ -1,0 +1,51 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="0"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+<listBibl>
+	<bibl><title level="j">ATOC</title> (<date>2009</date>), <title level="a">Energy Consumption and CO 2 Impacts of High Speed Rail: ATOC analysis for Greengauge21 .The Association of Train Operating Companies</title> ,<pubPlace>London</pubPlace> ( by<editor>Richard Davies and Leigh Thompson</editor>) .</bibl>
+	<bibl><title level="j">Banverket</title> (<date>2008</date>), <title level="a">Svenska Höghastighetsbanor</title>. <note type="report">Banverket Rapport 2008-005-30</note>, <pubPlace>Borlänge, Sweden</pubPlace>. (NationalRail Administration )</bibl>
+	<bibl><author>CCAP and CNT</author> (<date>2006</date>), <title level="m">High Speed Rail and Greenhouse Gas Emissions in the U.S.. Center for Clean AirPolicy ,and Center for Neighborhood Technology</title> .</bibl>
+	<bibl><title level="j">CCC</title> (<date>2008</date>). <title level="a">Building a low-carbon economy – the UK&apos;s contribution to tackling climate change. The Committeeon Climate Change</title> ,<pubPlace>London</pubPlace> .</bibl>
+	<bibl><author>DfT</author> (<date>2007</date>), <title level="a">Delivering a Sustainable Railway</title>. <note type="report">Department for Transport</note>, <pubPlace>London</pubPlace>.</bibl>
+	<bibl><author>de Rus, G. and Nash C.</author> (<date>2007</date>), In <title level="m">What Circumstances is Investment in High Speed Rail Worthwhile? Instituteof Transport Studies</title> ,<orgName>University of Leeds</orgName> .<note type="report">Working Paper 590</note> .</bibl>
+	<bibl><author>de Rus, G.</author> (<date>2008</date>), <title level="a">The Economic Effects of High Speed Rail Investment</title>. <orgName>University of Las Palmas and OECDJoint Research Centre</orgName> .</bibl>
+	<bibl><title level="j">ECON</title> (<date>2008a</date>), <title level="a">Klimaeffekter av højhastighetstog</title>. <note type="report">Rapport 2008-101</note>, <pubPlace>Oslo</pubPlace>.</bibl>
+	<bibl><title level="j">ECON</title> (<date>2008b</date>), <title level="a">Nytte-kostnadsanalyse av højhastighetstog i Norge</title>. <note type="report">Rapport 2008-154</note>, <pubPlace>Oslo</pubPlace>.</bibl>
+	<bibl><title level="j">Entec</title> (<date>2008</date>), <title level="a">Evaluation of the Member States&apos; emission inventories 2004-2006 for LCPs under the LCPDirective</title> ( <date>2001</date>/80EC).<title level="a">Final report by Entec UK Ltd</title> .<orgName>Consultancy for the European Commission ,DGEnvironment</orgName> .</bibl>
+	<bibl><title level="j">European Commission, DG Regional Policy</title> (<date>2008</date>), <title level="m">Guide to Cost-Benefit Analysis of Investment Projects</title>.</bibl>
+	<bibl><author>Hacker, F., Harthan, R., Matthes, F. and Zimmer, W.</author> (<date>2009</date>), <title level="a">Environmental impacts and impact on theelectricity market of large scale introduction of electric cars in Europe</title> .<title level="j">Critical Review of Literature .ETC/ ACCTechnicalPaper</title> , <title level="m">EuropeanTopic Centre on Air and Climate Change</title> .</bibl>
+	<bibl><title level="j">IPCC</title> (<date>1999</date>), <title level="a">Aviation and the Global Atmosphere. Intergovernmental Panel on Climate Change</title>, <publisher>CambridgeUniversity Press</publisher> .</bibl>
+	<bibl><author>Kemp, R.</author> (<date>2004</date>), <title level="a">Transport energy consumption. A discussion paper</title>. <orgName>Lancaster University</orgName>, <biblScope unit="page">10</biblScope></bibl>
+	<bibl><date>September 2004</date>.</bibl>
+	<bibl><author>King, J.</author> (<date>2007</date>), <title level="a">The King Review of low-carbon cars. Part 1: The potential for CO2 reduction</title>. <pubPlace>London</pubPlace>.</bibl>
+	<bibl><author>P. Kageson</author> <note type="report">— Discussion Paper 2009-28 — © OECD/ITF</note>, <date>2009</date></bibl>
+	<bibl><biblScope unit="page">27</biblScope></bibl>
+	<bibl><author>Lukaszewicz, P. and Andersson, E.</author> (<date>2006</date>), <title level="a">Energy consumption and related air pollution for Scandinavianelectric passenger trains</title> .<note type="report">Report KTH /AVE2006 :46</note>,<orgName>KTH Rail Group ,Royal Institute of Technology</orgName>, <pubPlace>Stockholm</pubPlace>.</bibl>
+	<bibl><author>Lukaszewicz, P. and Andersson, E.</author> (<date>2009</date>), <title level="a">Green Train energy consumption. Estimations on high-speedrail operations ,KTH Rail Group</title> ,<title level="j">Royal Institute of Technology</title> ,<pubPlace>Stockholm</pubPlace> .</bibl>
+	<bibl><author>Nelldal, B.L., Troche, G. and Jansson, K.</author> (<date>2003</date>), <title level="m">Europakorridoren. Ett bredband för fysiska transporter.KTH Rail Group</title> ,<title level="j">Royal Institute of Technology</title> ,<pubPlace>Stockholm Network Rail</pubPlace>( <date>2009</date> ),<title level="a">Comparingenvironmental impact of conventional and high speed rail</title> . <pubPlace>London</pubPlace>.</bibl>
+	<bibl><author>Nilsson, J.E. and Pyddoke, R.</author> (<date>2009</date>), <title level="m">Höghastighetsjärnvägar – ett klimatpolitiskt stickspår. Rapport tillExpertgruppen för miljöstudier 2009 :3.Ministry of Finance</title> ,<pubPlace>Stockholm</pubPlace> .</bibl>
+	<bibl><author>Norges Naturvernforbund</author> (<date>2008</date>), <title level="a">Energi-og klimakonsekvenser av modern transportsystemer</title>. <title level="a">Effekterved bygging av høyhastighetsbaner i Norge</title> .<note>Rapport 3</note> /<date>2008</date>.</bibl>
+	<bibl><title level="j">RSSB</title> (<date>2007</date>), <title level="a">Traction energy metrics</title>. <title level="j">Rail Safety &amp; Standard Board</title>, <pubPlace>London</pubPlace> (by <editor>Roger Kemp</editor>).</bibl>
+	<bibl><title level="j">UIC</title> (<date>2008a</date>), <title level="a">High speed rail. Fast track to sustainable mobility</title>. <pubPlace>Union Internationale des Chemin de fer,Paris</pubPlace> .</bibl>
+	<bibl><title level="j">UIC</title> (<date>2008b</date>), <title level="a">Process, Power, people. Energy Efficiency for Railway Managers</title>. <pubPlace>Union Internationale desChemin de fer ,Paris</pubPlace> .</bibl>
+	<bibl><author>UIC and CER</author> (<date>2008</date>), <title level="a">Rail Transport and Environment. Facts &amp; Figures</title>, <pubPlace>Paris and Brussels, November</pubPlace>.</bibl>
+	<bibl><title level="j">UNIFE</title> (<date>2008</date>), <title level="a">More rail = Less CO 2 . The European Rail Industry</title>.</bibl>
+	<bibl><title level="j">UOH</title> (<date>2009</date>), <title level="m">Höghastighetsbanor – ett samhällsbygge för stärkt utveckling och konkurrenskraft</title>.</bibl>
+	<bibl><author>Betänkande av Utredningen om höghastighetsbanor. SOU</author> <date>2009</date>:<biblScope unit="page">74</biblScope> (<orgName>Ministry of Enterprise</orgName>, <pubPlace>Stockholm</pubPlace>)</bibl>
+	<bibl><author>van Essen, H., Bello, O., Dings J. and van den Brink R.</author> (<date>2003</date>), <title level="a">To shift or not to shift, that´s the question</title>.<title level="j">CE Delft and RIVM</title> .</bibl>
+	<bibl><title level="j">VWI</title> (<date>2007</date>), <title level="a">Feasibility Study Concerning High Speed Rail Lines in Norway</title>, <note type="report">Report Phase 2</note>.</bibl>
+	<bibl><author>Verkehrswissenschaftliche Institut, Stuttgart WSPand KTH Järnvägsgruppen</author> ( <date>2008</date>),<title level="a">Höghastighetståg – affärsmässighet och samhällsnytta</title> .Slutrapport <date>2008</date>. <title level="j">WSPAnalys &amp; Strategi , andKTH Järnvägsgruppen</title> , <pubPlace>Stockholm</pubPlace>.</bibl>
+	<bibl><title level="j">WWF</title> (<date>2009</date>), <title level="a">Auswirkungen von Elektroautos auf den Kratwerkspark und die CO 2 -Emissionen in Deutchland,World Wide Fund for Nature</title> ,<pubPlace>Frankfurt</pubPlace> .</bibl>
+	<bibl><author>Zängl, W.</author> (<date>1993</date>), <title level="a">Die Geisterbahn. Das Dilemma der Hochgeschwindigkeitzüge</title>. <publisher>Raben Verlag</publisher>, <pubPlace>München</pubPlace>.</bibl>
+
+		</listBibl>
+	</back>
+	</text>
+</TEI>

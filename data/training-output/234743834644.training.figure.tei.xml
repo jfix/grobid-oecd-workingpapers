@@ -1,0 +1,77 @@
+<tei>
+    <teiHeader>
+        <fileDesc xml:id="_234743834644.pdf"/>
+    </teiHeader>
+    <text xml:lang="en">
+
+
+        <figure>
+
+            <figDesc>Mayeres and Proost (1997) construct a stylized applied general equilibrium model which captures<lb/> the essence of the congestion problem without simulating the process by which infrastructure spending<lb/> affects the value of time. They consider a simple economy made up of a utility-maximizing representative</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>The simple logic of the model is that production creates a derived demand for transport. As trips<lb/> via congested modes (in this case roads, R) rise, so does congestion, which in turn reduces available<lb/> capacity and time spent traveling by those modes, inducing substitution of trips to less congested<lb/> alternatives. The critical parameters governing this process are the elasticities of substitution among<lb/> transit modes in f and between travel time and unused mode capacity in D, and the coefficients of the road<lb/> availability function.<lb/> Parry and Bento&apos;s (2002) extension enumerates trips on congested freeways (RF) and alternate<lb/> back roads (RB) as additional modes of travel, includes negative externalities such as accidents and air<lb/> pollution (which we indicate using the function E), and represents congestion in terms of travel time using<lb/> a more traditional approach</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>As in (PB4), trips incur fixed marginal pecuniary costs (PB6), but marginal expenditures of time (PB7)<lb/> which increase with congestion. Eq. (PB10) defines the latter relationship using the classic Bureau of<lb/> Public Roads (BPR) capacity restraint formula.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <head>• </head>
+ 
+            <figDesc>A reduction in average productivity of transport-producers. Because congestion increases the duration<lb/> of freight trips of a given distance, it reduces the number of trips which transport producers can<lb/> supply with a given fleet of vehicles. The consequent dissipation of operating time—and thus<lb/> revenue—drives a wedge between the marginal cost of each transportation firm&apos;s output and the unit<lb/> value of its trips consumed by firms and households, much like a tax.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            TC<lb/> i l m<lb/> γ<lb/> are technical </trash>
+ 
+            <figDesc>coefficients which indicate how the retail<lb/> trips associated with each commodity are distributed across mode-link alternatives in the benchmark data<lb/> used to calibrate the model.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>(17)<lb/> In an appendix to the paper we provide a detailed mathematical elaboration of how the foregoing<lb/> elements may be used to construct an operational CGE model. The assumption of Walrasian competitive<lb/> equilibrium allows us to express the production and aggregation relations in eqs. (3)-(7) and (10)-(14) in<lb/> terms of their dual cost functions and associated conditional input demand functions. The latter can then<lb/> be substituted into the supply-demand balance constraints (6), (8), (9) and (15)-(17) to yield a system of<lb/> nonlinear equations (Ξ) in commodity and factor prices, the activity levels of firms and the income level<lb/> of the representative agent. The result is the Walrasian excess demand correspondence of the economy.</figDesc>
+        </figure>
+
+
+        <figure>
+
+            <figDesc>The CGE model consists of the paired, stacked vectors of 9 + 10I + M + (3 + 2I) (L × M)</figDesc>
+        </figure>
+
+
+        <figure>
+
+            ) ≥ 0,<lb/> b ≥ 0,<lb/> b′ Ξ(b) = 0,</trash>
+        </figure>
+
+
+        <figure>
+
+            <head>Figure </head>
+ 
+            <label>1</label>
+
+            <head>. </head>
+ 
+            <figDesc>Nested CES Utility and Production Functions Used in the Model<lb/> </figDesc>
+
+            <lb/> U<lb/> σ U<lb/> Λ<lb/> A. Utility<lb/> B. Production: Non-Transport Firms (i ∈ I)<lb/> C. Production: Transportation Firms (m ∈ M)</trash>
+        </figure>
+
+
+
+    </text>
+</tei>
+

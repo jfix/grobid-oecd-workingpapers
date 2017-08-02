@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+
+
+						<author><surname>Angrist</surname>, <forename>J</forename>. and <forename>A</forename>. <surname>Krueger</surname></author>
+
+						<author><surname>Angrist</surname>, <forename>J</forename>. and <forename>V</forename>. <surname>Lavy</surname></author>
+
+						<author><surname>Ashenfelter</surname>, <forename>O</forename>. and <forename>C</forename>. <surname>Rouse</surname></author>
+
+						<author><surname>Barro</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Barro</surname>, <forename>R</forename>. and <forename>J-W</forename>. <surname>Lee</surname></author>
+
+						<author><surname>Becker</surname>, <forename>G</forename>.</author>
+
+						<author><surname>Bénabou</surname>, <forename>R</forename>., <forename>F</forename>. <surname>Kramarz</surname> and <forename>C</forename>. <surname>Prost</surname></author>
+
+						<author><surname>Björklund</surname>, <forename>A</forename>. <middlename>B</middlename>. <surname>Bratsberg</surname>, <forename>T</forename>. <surname>Eriksson</surname>, <forename>M</forename>. <surname>Jäntti</surname>, <forename>R</forename>. <surname>Naylor</surname>, <forename>O</forename>. <surname>Raaum</surname>, <forename>K</forename>. <surname>Roed</surname> and <forename>E</forename>. <surname>Österbacka</surname></author>
+
+						<author><surname>Black</surname>, <forename>S</forename>., <forename>P</forename>. <surname>Devereux</surname> and <forename>K</forename>. <surname>Salvanes</surname></author>
+
+						<author><surname>Black</surname>, <forename>S</forename>. and <forename>A</forename>. <surname>Sufi</surname></author>
+
+						<author><surname>Blanden</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Blanden</surname>, <forename>J</forename>. and <forename>P</forename>. <surname>Gregg</surname></author>
+
+						<author><surname>Blanden</surname>, <forename>J</forename>. and <forename>S</forename>. <surname>Machin</surname></author>
+
+						<author><surname>Blanden</surname>, <forename>J</forename>, <forename>P</forename>.<surname>Gregg</surname> and <forename>S</forename>. <surname>Machin</surname></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Blanden</surname>, <forename>J</forename>, <forename>P</forename>.<surname>Gregg</surname> and <forename>S</forename>. <surname>Machin</surname></author>
+
+						<author><surname>Blundell</surname>, <forename>R</forename>., <forename>L</forename>. <surname>Dearden</surname>, <forename>A</forename>. <surname>Goodman</surname> and <forename>H</forename>. <surname>Reed</surname></author>
+
+						<author><surname>Blundell</surname>, <forename>R</forename>., <forename>L</forename>., <forename>A</forename>. <surname>Dearden</surname> and <forename>B</forename>. <surname>Sianesi</surname></author>
+
+						<author><surname>Brehm</surname>, <forename>J</forename>. and <forename>W</forename>. <surname>Rahn</surname></author>
+
+						<author><surname>Burghardt</surname>, <forename>J</forename>., <forename>P</forename>. <surname>Schochet</surname>, <forename>S</forename>. <surname>McConnell</surname>, <forename>T</forename>. <surname>Johnson</surname>, <forename>R</forename>. <surname>Gritz</surname>, <forename>S</forename>. <surname>Glazerman</surname>, <forename>J</forename>. <surname>Homrighausen</surname> and <forename>R</forename>. <surname>Jackson</surname></author>
+
+						<author><surname>Bynner</surname>, <forename>J</forename>. and <forename>M</forename>. <surname>Egerton</surname></author>
+
+						<author><surname>Bynner</surname>, <forename>J</forename>. and <forename>L</forename>. <surname>Feinstein</surname></author>
+
+						<author><surname>Bynner</surname>, <forename>J</forename>. and <forename>S</forename>. <surname>Parsons</surname></author>
+
+						<author><surname>Card</surname>, <forename>D</forename>.</author>
+
+						<author><surname>Carneiro</surname>, <forename>P</forename>. and <forename>J</forename>. <surname>Heckman</surname></author>
+
+						<author><surname>Chevalier</surname>, <forename>A</forename>. and <forename>G</forename>. <surname>Conlon</surname></author>
+
+						<author><surname>Chevalier</surname>, <forename>A</forename>., <forename>P</forename>. <surname>Dolton</surname> and <forename>R</forename>. <surname>Levacic</surname></author>
+
+						<author><surname>Coleman</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Conneely</surname>, <forename>K</forename>. and <forename>R</forename>. <surname>Uusitalo</surname></author>
+
+						<author><surname>Conlon</surname>, <forename>G</forename>.</author>
+
+						<author><surname>Currie</surname>, <forename>J</forename>.</author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Currie</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Dearden</surname>, <forename>L</forename>., <forename>C</forename>. <surname>Emmerson</surname>, <forename>C</forename>. <surname>Frayne</surname> and <forename>C</forename>. <surname>Meghir</surname></author>
+
+						<author><surname>Dee</surname>, <forename>T</forename>.</author>
+
+						<author><surname>Dynarski</surname>, <forename>M</forename>., and <forename>P</forename>. <surname>Gleason</surname></author>
+
+						<author><surname>Dynarksi</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Dynarski</surname>, <forename>S</forename>.</author>
+
+						<author><surname>Feinstein</surname>, <forename>L</forename>.</author>
+
+						<author><surname>Feinstein</surname> <forename>L</forename>. and <forename>R</forename>. <surname>Sabates</surname></author>
+
+						<author><surname>Friedlander</surname>, <forename>D</forename>., <forename>D</forename>. <surname>Greenberg</surname> and <forename>P</forename>. <surname>Robins</surname></author>
+
+						<author><surname>Fukuyama</surname>, <forename>F</forename>.</author>
+
+						<author><surname>Gregg</surname>, <forename>P</forename>. and <forename>S</forename>. <surname>Machin</surname></author>
+
+						<author><surname>Gregg</surname>, <forename>P</forename>. and <forename>S</forename>. <surname>Machin</surname></author>
+
+						<author><surname>Grossman</surname>, <forename>M</forename>. and <forename>R</forename>. <surname>Kaestner</surname></author>
+
+						<author><surname>Halpin</surname>, <forename>D</forename>., <forename>S</forename>. <surname>Power</surname>, <forename>G</forename>. <surname>Whitty</surname> and <forename>Z</forename>. <surname>Gerwirtz</surname></author>
+
+						<author><surname>Hammond</surname>, <forename>C</forename>. and <forename>L</forename>. <surname>Feinstein</surname></author>
+
+						<author><surname>Harmon</surname>, <forename>C</forename>. and <forename>I</forename>. <surname>Walker</surname></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Heckman</surname>, <forename>J</forename>., and <forename>L</forename>. <surname>Lochner</surname></author>
+
+						<author><surname>Heckman</surname>, <forename>J</forename>. and <forename>Y</forename>. <surname>Rubinstein</surname></author>
+
+						<author><surname>Heckman</surname>, <forename>J</forename>. and <forename>E</forename>. <surname>Vytlacil</surname></author>
+
+						<author><surname>Heckman</surname>, <forename>J</forename>. and <forename>A</forename>. <surname>Wax</surname></author>
+
+						<author><surname>Johnson</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Johnson</surname>, <forename>P</forename>. and <forename>H</forename>. <surname>Reed</surname></author>
+
+						<author><surname>Kitigawa</surname>, <forename>E</forename>. and <forename>P</forename>. <surname>Hauser</surname></author>
+
+						<author><surname>Krueger</surname>, <forename>A</forename>. and <forename>M</forename>. <surname>Lindahl</surname></author>
+
+						<author><surname>LaLonde</surname>, <forename>R</forename>.</author>
+
+						<author><surname>Lavy</surname>, <forename>V</forename>. and <forename>A</forename>. <surname>Schlosser</surname></author>
+
+						<author><surname>Lavy</surname>, <forename>V</forename>.</author>
+
+						<author><surname>Lleras-Muney</surname>, <forename>A</forename>.</author>
+
+						<author><surname>Lochner</surname>, <forename>L</forename>. and <forename>E</forename>. <surname>Moretti</surname></author>
+
+						<author><surname>Machin</surname>, <forename>S</forename>., <forename>S</forename>. <surname>McNally</surname>, and <forename>C</forename>. <surname>Meghir</surname></author>
+
+						<author><surname>Machin</surname>, <forename>S</forename>. and <forename>S</forename>. <surname>Vujic</surname></author>
+
+						<author><surname>Magnuson</surname>, <forename>K</forename>., <forename>M</forename>. <surname>Meyers</surname>, <forename>C</forename>. <surname>Ruhm</surname> and <forename>J</forename>. <surname>Waldfogel</surname></author>
+
+						<author><surname>Mayer</surname>, <forename>S</forename>.</author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><surname>Meyers</surname>, <forename>M</forename>., <forename>D</forename>. <surname>Rosenbaum</surname>, <forename>C</forename>. <surname>Ruhm</surname> and <forename>J</forename>. <surname>Waldfogel</surname></author>
+
+						<author><surname>Miller</surname>, <forename>P</forename>., <forename>C</forename>. <surname>Mulvey</surname> and <forename>N</forename>. <surname>Martin</surname></author>
+
+						<author><surname>Mincer</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Mortimore</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Payne</surname>, <forename>J</forename>.</author>
+
+						<author><surname>Putnam</surname>, <forename>R</forename>., <surname>with</surname> <forename>R</forename>. <surname>Leonardi</surname> and <forename>R</forename>. <surname>Nanetti</surname></author>
+
+						<author><surname>Ryan</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Ryan</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Sammons</surname>, <forename>P</forename>.</author>
+
+						<author><surname>Sammons</surname>, <forename>P</forename>., <forename>K</forename>. <surname>Sylva</surname>, <forename>E</forename>. <surname>Melhuish</surname>, <forename>I</forename>. <surname>Siraj-Blatchford</surname>, <forename>B</forename>. <surname>Taggart</surname> and <forename>K</forename>. <surname>Elliot</surname></author>
+
+						<author><surname>Schuetz</surname>, <forename>G</forename>., <forename>H</forename>. <surname>Ursprung</surname> and <forename>L</forename>. <surname>Woessman</surname></author>
+
+						<author><surname>Sipe</surname>, <forename>C</forename>.</author>
+
+						<author><surname>Solon</surname>, <forename>G</forename>.</author>
+
+						<author><surname>Teddlie</surname>, <forename>C</forename>. and <forename>D</forename>. <surname>Reynolds</surname></author>
+
+						<author><forename>DELSA</forename>/<forename>ELSA</forename><middlename>/</middlename><surname>WD</surname>/<surname>SEM</surname></author>
+
+						<author><forename>OECD</forename> <surname>SOCIAL</surname>, <forename>EMPLOYMENT</forename> <surname>AND</surname> MIGRATION <surname>WORKING</surname> PAPERS <surname>Most</surname> <forename>CAN</forename> <surname>PARENTS</surname> AFFORD <surname>TO</surname> WORK? <surname>CHILDCARE COSTS</surname>, <surname>TAX-BENEFIT POLICIES</surname> AND <surname>WORK</surname> INCENTIVES <surname>ETHNIC</surname> TIES <surname>AND</surname> THE <surname>LOCATION</surname> CHOICE <surname>OF</surname> HIGHLY <surname>SKILLED IMMIGRANTS</surname> CHOICES <surname>IN</surname> MARKET <surname>COMPETITION</surname> FOR <surname>EMPLOYMENT</surname> SERVICES <surname>FOR</surname> THE <surname>LONG- TERM UNEMPLOYED</surname> MARGINAL <surname>EFFECTIVE TAX</surname> RATES <surname>FACING</surname> WORKERS <surname>IN</surname> THE <surname>EU</surname>. <middlename>A</middlename> <surname>MICRO- LEVEL ANALYSIS</surname> OF <surname>LEVELS</surname>, <forename>DISTRIBUTIONS</forename> <surname>AND</surname> DRIVING <surname>FACTORS</surname></author>
+
+					</analytic>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+</TEI>
