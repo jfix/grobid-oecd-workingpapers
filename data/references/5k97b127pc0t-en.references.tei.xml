@@ -1,0 +1,124 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_118"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="27,91.08,686.92,47.74,5.72;27,194.04,686.92,8.60,5.72;27,237.00,686.92,15.44,5.72;27,492.72,686.92,8.60,5.72" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">United Kingdom</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,91.08,707.56,57.32,5.72;27,96.36,717.16,17.61,5.72;27,190.56,717.16,12.08,5.72;27,240.36,717.16,12.08,5.72;27,290.16,717.16,12.08,5.72;27,339.96,717.16,11.96,5.72;27,389.75,717.16,11.96,5.72;27,439.43,717.16,12.08,5.72;27,489.23,717.16,12.08,5.72" >
+	<monogr>
+		<title level="m" type="main">Unweighted Average States 19</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,91.08,740.08,229.10,5.72;31,259.20,130.14,73.98,9.94" >
+	<analytic>
+		<title level="a" type="main">Source : National sources and OECD, Revenue Statistics</title>
+	</analytic>
+	<monogr>
+		<title level="j">Edition. REFERENCES</title>
+		<imprint>
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,178.50,447.35,9.94;31,87.84,191.10,268.17,9.94" >
+	<analytic>
+		<title level="a" type="main">Intergovernmental grants and decentralized public spending</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Bergvall</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Charbit</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Kraan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Merk</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Journal of Budgeting</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>forthcoming</note>
+</biblStruct>
+
+<biblStruct coords="31,59.52,215.82,439.94,9.94;31,87.84,228.42,107.50,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal relations across government levels</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Joumard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">M</forename>
+				<surname>Kongsrud</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economic Studies</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="155" to="228" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,253.14,404.74,9.94;31,59.52,277.74,318.25,9.94;31,59.52,302.46,438.78,9.94;31,87.84,315.06,263.43,9.94" >
+	<analytic>
+		<title level="a" type="main">Taxing powers of state and local government, Tax policy studies No 1 National Accounts of OECD Countries Fiscal rules for sub-central governments: design and impact</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<editor>Paris Sutherland, D. R. Price and I. Joumard</editor>
+		<imprint>
+			<publisher>Paris OECD</publisher>
+			<date type="published" when="1993" />
+			<publisher>Paris OECD</publisher>
+		</imprint>
+	</monogr>
+	<note>Department. Working Paper 465</note>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

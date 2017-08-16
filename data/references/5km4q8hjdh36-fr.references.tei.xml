@@ -1,0 +1,868 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_137"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="30,79.38,182.82,434.54,12.15;30,107.76,195.48,406.85,12.15" >
+	<analytic>
+		<title level="a" type="main">A Structural Model of Peak-Period Congestion: A Traffic Bottleneck with Elastic Demand</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Arnott</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>De Palma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Lindsey</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">83</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="161" to="179" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,208.08,421.68,12.15;30,107.76,220.74,411.48,12.15;30,107.76,233.40,417.64,12.15;30,107.76,246.06,277.60,12.15" >
+	<monogr>
+		<title level="m" type="main">A comparison of Conjoint, multicriteria , conditional logit and neural network analyses for rank-ordered preference data</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Beuthe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Ch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Bouffioux</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Krier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Mouchart</surname>
+			</persName>
+		</author>
+		<editor>M. Ben-Akiva, H. Meersman and E. Van de Voorde</editor>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Emerald Group Publishing Ltd</publisher>
+			<biblScope unit="page" from="157" to="178" />
+			<pubPlace>Bingley, UK., Ch</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Recent. developments in transport modelling</note>
+</biblStruct>
+
+<biblStruct coords="30,79.38,258.72,413.69,12.15;30,107.76,271.38,418.54,12.15;30,107.76,283.98,240.64,12.15" >
+	<analytic>
+		<title level="a" type="main">A Comprehensive Econometric Microsimulator for Daily Activity-Travel Patterns</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">R</forename>
+				<surname>Bhat</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">Y</forename>
+				<surname>Guo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Srinivasan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sivakumar</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Transportation Research Record</title>
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="page" from="57" to="66" />
+		</imprint>
+	</monogr>
+	<note>Board. 1894</note>
+</biblStruct>
+
+<biblStruct coords="30,79.38,296.64,438.35,12.15;30,107.76,309.30,164.97,12.15" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Boiteux</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Baumstark</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Transports: choix de investissements et co^ut des nuisances&apos;. Commissariat General du Plan</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,321.96,450.07,12.15;30,107.76,334.62,237.46,12.15;30,107.76,347.21,350.80,12.15;30,107.76,359.87,76.76,12.15" >
+	<monogr>
+		<title level="m" type="main">Spatial Effects of European Transport Initiatives: An Update In Territorial impact of EU transport and TEN policies, ESPON project 2.1.1</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Bröcker</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,372.53,410.62,12.15;30,107.76,385.19,308.85,12.15" >
+	<analytic>
+		<title level="a" type="main">National vs European incentive policies :Bargaining, information and coordination</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Caillaud</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Jullien</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Picard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,397.85,420.38,12.15;30,107.76,410.45,287.82,12.15;30,79.38,423.11,451.11,12.15;30,107.76,435.77,287.28,12.15" >
+	<analytic>
+		<title level="a" type="main">Cost-Benefit analysis of transport investments in distorted economies</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Calthrop</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">De</forename>
+				<surname>Borger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Proost</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transportation research Part B forthcoming CGDD</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>Commissariat. Général du Développement Durable) 2009, Annual Report to the Parliament on implementing France&apos;s Environment Round Table commitments</note>
+</biblStruct>
+
+<biblStruct coords="30,79.38,448.43,443.51,12.15;30,107.76,461.09,231.85,12.15" >
+	<analytic>
+		<title level="a" type="main">De l&apos;influence des péages sur l&apos;utilité des voies de communication</title>
+		<author>
+			<persName>
+				<forename type="first">Jules</forename>
+				<surname>Dupuit</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annales des ponts et chaussées</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">207</biblScope>
+			<date type="published" when="1849" />
+		</imprint>
+	</monogr>
+	<note>mémoires. et documents</note>
+</biblStruct>
+
+<biblStruct coords="30,79.38,473.75,448.74,12.15;30,107.76,486.35,415.26,12.15;30,107.76,499.01,240.46,12.15" >
+	<monogr>
+		<title level="m" type="main">Econometric models of land use and transportation): Transport Geography and Spatial Systems. Handbook 5 of Handbook in Transport</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Echenique</surname>
+			</persName>
+		</author>
+		<editor>Hensher, D.A., Button, K.J. (Hg.</editor>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>PergamonElsevier Science</publisher>
+			<biblScope unit="page" from="185" to="202" />
+			<pubPlace>Kidlington, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,511.67,449.67,12.15" >
+	<monogr>
+		<title level="m" type="main">Etude d&apos;impact du Projet de loi de Grenelle de l&apos;environnement 2008</title>
+		<imprint/>
+	</monogr>
+	<note>Mimeo. Ministère de l&apos;écologie</note>
+</biblStruct>
+
+<biblStruct coords="30,79.38,524.33,422.76,12.15" >
+	<monogr>
+		<title level="m" type="main">Cost benefit analysis and incentives in Evaluation</title>
+		<author>
+			<persName>
+				<surname>Elgar</surname>
+			</persName>
+		</author>
+		<editor>Florio M</editor>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,536.99,440.54,12.15;30,107.76,549.59,182.70,12.15" >
+	<monogr>
+		<title level="m" type="main">Survival of the unfittest : why the worst infrastructure gest built Oxford economic review</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Flyvberg</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="344" to="367" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,562.25,427.49,12.15;30,107.76,574.91,159.81,12.15" >
+	<analytic>
+		<title level="a" type="main">Agglomeration, productivity and transport investment</title>
+		<author>
+			<persName>
+				<forename type="first">Dj</forename>
+				<surname>Graham</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Transport Economics and Policy</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="317" to="343" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,587.57,388.54,12.15;30,107.76,600.23,69.06,12.15" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Grenelle De L &apos;environnement Website</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,612.89,407.31,12.15;30,107.76,625.49,423.82,12.15;30,107.76,638.15,93.79,12.15" >
+	<monogr>
+		<title level="m" type="main">An Introduction to the Valuation of Travel-Time Savings and Losses, in Handbook of Transport Modelling</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">F</forename>
+				<surname>Gunn</surname>
+			</persName>
+		</author>
+		<editor>D. A. Hensher and K. J. Button</editor>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Elsevier Science Ltd</publisher>
+		</imprint>
+	</monogr>
+	<note>Second. edition</note>
+</biblStruct>
+
+<biblStruct coords="30,79.38,650.81,424.89,12.15;30,107.76,663.47,207.19,12.15" >
+	<analytic>
+		<title level="a" type="main">Current practice in project appraisals in Europe Analysis of Country Reports Deliverable 1</title>
+	</analytic>
+	<monogr>
+		<title level="j">HEATCO</title>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.38,676.13,447.23,12.15;30,107.76,688.73,302.53,12.15" >
+	<monogr>
+		<title level="m" type="main">Valuation of travel time savings, in « Handbook of transport economics</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Hensher</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Palma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Lindsey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Vickerman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Edward</forename>
+				<surname>Elgar</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>forthcoming</note>
+</biblStruct>
+
+<biblStruct coords="30,79.38,701.39,449.38,12.15;30,107.76,714.05,163.50,12.15" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Laird</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Nellthorp</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Mackie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Network effects and total economic impact in transport appraisal Transport Policy</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="537" to="544" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,98.16,418.22,12.15;31,107.76,110.82,323.43,12.15" >
+	<monogr>
+		<title level="m" type="main">de programmation relative à la mise en oeuvre du Grenelle de l</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Loi Grenelle</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-08-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,123.48,426.08,12.15;31,107.76,136.08,159.09,12.15" >
+	<monogr>
+		<title level="m" type="main">Loi du 29 juin 2010 portant engagement national pour l&apos;environnement</title>
+		<author>
+			<persName>
+				<forename type="first">Ii</forename>
+				<surname>Loi Grenelle</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,148.74,449.65,12.15;31,107.76,161.40,418.26,12.15;31,107.76,174.06,205.21,12.15;31,107.76,186.72,264.79,12.15" >
+	<monogr>
+		<title level="m" type="main">Values of travel time savings in the UK -Summary Report, Report to the Department of Transport, Institute for Transport Studies</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Mackie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Wardman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Fowkes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Whelan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Nellthorp</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Bates</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,199.38,439.37,12.15;31,107.76,211.98,278.14,12.15" >
+	<analytic>
+		<title level="a" type="main">Optimisation et decentralisation des investissements de transports</title>
+		<author>
+			<persName>
+				<forename type="first">Maurice</forename>
+				<forename type="middle">J</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Sauvant</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economie et Prévision</title>
+		<imprint>
+			<biblScope unit="page" from="175" to="176" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,224.64,411.19,12.15;31,107.76,237.30,302.47,12.15" >
+	<analytic>
+		<title level="a" type="main">Optimal tax and public investment rules for congestion type of externalities</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Mayeres</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Proost</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scandinavian Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="261" to="279" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,249.96,420.63,12.15" >
+	<monogr>
+		<title level="m" type="main">Application of transport economics and imperfect competition</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Meunier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,262.62,453.03,12.15;31,107.76,275.22,64.74,12.15" >
+	<monogr>
+		<title level="m" type="main">Ministère de l&apos;écologie 2010 Avant projet de Schéma National des Infrastructures de Transport soumis à concertation</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,287.87,435.65,12.15;31,107.76,300.53,310.93,12.15" >
+	<monogr>
+		<title level="m" type="main">Ministère de l&apos;Equipement 2004 : instruction cadre du 25 Mars 2004 relative à l&apos;harmonisation des méthodes d&apos;évaluation des grands projets d&apos;infrastructure de transport</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,313.19,448.43,12.15;31,107.76,325.85,24.76,12.15" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Ministère de l&apos;Equipement 2005 : circulaire du 27 Mai : Mise à jour de l&apos;instruction cadre du 25 Mars</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,338.45,443.49,12.15;31,107.76,351.11,101.13,12.15" >
+	<monogr>
+		<title level="m" type="main">Ministère de l&apos;écologie 2008 a Circulaire du 9 decembre 2008 relative à l&apos;établissement d&apos;une charte qualité de l&apos;évaluation</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,363.77,441.73,12.15;31,107.76,376.43,388.77,12.15;31,107.76,389.09,41.23,12.15" >
+	<monogr>
+		<title level="m" type="main">Ministère de l&apos;écologie 2008 b Circulaire du 9 decembre 2008 relative au référentiel d&apos;évaluation au ministère de l&apos;écologie, de l&apos;energie, du développement durable et de l</title>
+		<imprint/>
+	</monogr>
+	<note>aménagement. du territoire</note>
+</biblStruct>
+
+<biblStruct coords="31,79.38,401.75,452.38,12.15;31,107.76,414.35,57.12,12.15" >
+	<monogr>
+		<title level="m" type="main">Ministère de l&apos;écologie 2010 Avant projet de Schéma National d&apos;Infrastructures de Transport soumis à concertation</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,427.01,435.15,12.15;31,107.76,439.67,33.30,12.15" >
+	<monogr>
+		<title level="m" type="main">Ministère de l&apos;Equipement 2007 projet de circulaire sur l&apos;évaluation des projets routiers</title>
+		<imprint/>
+	</monogr>
+	<note>document. interne</note>
+</biblStruct>
+
+<biblStruct coords="31,79.38,452.33,447.97,12.15;31,107.76,464.99,189.08,12.15" >
+	<monogr>
+		<title level="m" type="main">Ministère de l&apos;Equipement n°98-99 DU 20 OCTOBRE 1998 Méthodes d&apos;évaluation economique des investissements routiers en rase campagne</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,477.59,305.11,12.15;31,79.38,490.25,285.39,12.15" >
+	<analytic>
+		<title level="a" type="main">Agglomeration. and trade revisited</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">I P</forename>
+				<surname>Ottaviano</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Tabuchi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J.-F</forename>
+				<surname>Thisse</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="page" from="409" to="436" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,502.91,442.74,12.15;31,107.76,515.57,78.54,12.15" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Baumstark</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Celestin-Urbain</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>La. valeur tutelaire du carbone ; centre d&apos;analyse strategique</note>
+</biblStruct>
+
+<biblStruct coords="31,79.38,528.23,449.45,12.15;31,107.76,540.89,293.39,12.15" >
+	<monogr>
+		<title level="m" type="main">Cost Benefit Analysis of Transport Projects in France &quot; in &quot; Cost benefit analysis and incentives in Evaluation</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<editor>M Florio, Edward Elgar</editor>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,553.49,409.94,12.15;31,107.76,566.15,323.16,12.15" >
+	<monogr>
+		<title level="m" type="main">Issues of Price definition in CBA : imperfect competition and relative prices divergences, Transition Studies Reviw</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,578.81,441.99,12.15;31,107.76,591.47,385.11,12.15;31,107.76,604.13,39.47,12.15" >
+	<analytic>
+		<title level="a" type="main">Evaluating urban transport improvements: cost-benefit analysis in the presence of agglomeration and income taxation</title>
+		<author>
+			<persName>
+				<forename type="first">Aj</forename>
+				<surname>Venables</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Transport Economics and Policy</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="173" to="188" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,616.73,409.86,12.15;31,107.76,629.39,309.44,12.15" >
+	<monogr>
+		<title level="m" type="main">Rail access charges and the competitiveness os high speed trains Transport Policy</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Sanchez-Borras</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Nash</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Abrantes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Lopez-Pita</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="102" to="108" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,642.05,424.33,12.15;31,107.76,654.71,258.37,12.15" >
+	<monogr>
+		<title level="m" type="main">Recent evolution of Research into the wider Economic Benefits of Transport Infrastructure Investment Discussion paper</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Vickerman</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>ITF</publisher>
+			<biblScope unit="page" from="2007" to="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,667.37,433.45,12.15;31,107.76,680.03,416.71,12.15;31,107.76,692.63,39.47,12.15" >
+	<monogr>
+		<title level="m" type="main">Overview of land-use transport models Transport Geography and Spatial Systems</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Wegener</surname>
+			</persName>
+		</author>
+		<editor>Hensher, D.A., Button, K.</editor>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>Elsevier Science</publisher>
+			<biblScope unit="page" from="127" to="146" />
+			<pubPlace>Handbook Kidlington ; Pergamon</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.38,705.29,436.26,12.15;31,107.76,717.95,422.82,12.15;31,107.76,730.61,407.50,12.15" >
+	<monogr>
+		<title level="m" type="main">From macro to micro – how much micro is too much?. Paper presented at the International Seminar &quot;Transport Knowledge and Planning Practice</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Wegener</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

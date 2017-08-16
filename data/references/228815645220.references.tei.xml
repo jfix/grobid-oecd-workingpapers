@@ -1,0 +1,957 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_22"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="23,79.38,159.33,420.04,10.16;23,79.38,171.99,41.61,10.16" >
+	<monogr>
+		<title level="m" type="main">The types of the folktale, FF communications 184</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Aarne</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>St</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Thompson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1964" />
+			<pubPlace>Helsinki</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.38,197.31,431.08,10.16;23,79.38,209.97,437.83,10.16;23,79.38,222.63,84.47,10.16" >
+	<analytic>
+		<title level="a" type="main">« Les lignes directrices de mon oeuvre, », Conférence Nobel prononcée devant l&apos;Académie Royale des Sciences de Suède</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Allais</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Annales d&apos;économie et de statistique</title>
+		<imprint>
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+	<note>n°. 14</note>
+</biblStruct>
+
+<biblStruct coords="23,79.38,247.89,433.44,10.16" >
+	<monogr>
+		<title level="m" type="main">Interfuturs vingt ans après&apos;, in Décision, prospective, auto-organisation</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Albert</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.38,260.55,318.52,10.16" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Mélanges En L &apos;honneur De</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Lesourne</surname>
+			</persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="306" to="317" />
+			<pubPlace>Paris, Dunod</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.38,285.87,419.39,10.16;23,79.38,298.46,130.20,10.16" >
+	<monogr>
+		<title level="m" type="main">Ethnomathematics, Chapman and Hall. 1994 ; tr. fr. Mathématiques d&apos;ailleurs, tr. fr</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Ascher</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.38,323.78,421.90,10.16;23,79.38,336.44,402.42,10.16;23,79.38,349.10,139.43,10.16" >
+	<monogr>
+		<title level="m" type="main">Seeds of Disaster, Roots of response (How Private Action Can Reduce Public Vulnerability)</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Auerswald</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Branscomb</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">La</forename>
+				<surname>Porte</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">O</forename>
+				<surname>Michel-Kerjan</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.38,374.35,427.66,10.16;23,79.38,387.01,447.17,10.16;23,79.38,399.67,407.73,10.16;23,79.38,412.33,152.86,10.16" >
+	<analytic>
+		<title level="a" type="main">Specimen theoriae novae de mensura sortis&apos;, tr. fr Esquisse d&apos;une théorie nouvelle de mesure du sort &quot; , Cahiers du séminaire d&apos;histoire des mathématiquesExposition of a New Theory on the Measurement of Risk</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Bernoulli</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<publisher>eng. tr</publisher>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="61" to="77" />
+			<date type="published" when="1738" />
+			<publisher>eng. tr</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.39,437.59,356.92,10.16" >
+	<analytic>
+		<title level="a" type="main">The Nature of the Firm</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">H</forename>
+				<surname>Coase</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economica</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="386" to="405" />
+			<date type="published" when="1937" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.39,462.91,445.13,10.16" >
+	<analytic>
+		<title level="a" type="main">La tarification des transports, Enjeux et défis</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>De Palma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economica</title>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.39,488.23,407.27,10.16;23,79.39,500.82,254.93,10.16" >
+	<monogr>
+		<title level="m" type="main">Investment and the Use of Tax and Toll Revenues in the Transport Sector</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>De Palma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Lindsey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Proost</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Elsevier Science</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.39,526.14,451.89,10.16;23,79.39,538.80,214.66,10.16" >
+	<analytic>
+		<title level="a" type="main">Hedging Global Environment Risks: an Option-based Portfolio Insurance</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>De Palma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J.-L</forename>
+				<surname>Prigent</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Automatica</title>
+		<imprint>
+			<biblScope unit="page" from="1519" to="1531" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.39,564.12,409.77,10.16;23,79.39,576.72,435.45,10.16;23,79.39,589.38,36.00,10.16" >
+	<monogr>
+		<title level="m" type="main">Cardinal and ordinal measure of investor&apos;s risk aversion</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>De Palma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Picard</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>École Normale Supérieure de Cachan</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Département. d économie et de gestion, mimeo</note>
+</biblStruct>
+
+<biblStruct coords="23,79.39,614.70,435.92,10.16;23,79.39,627.36,452.32,10.16;23,79.39,639.95,198.10,10.16" >
+	<analytic>
+		<title level="a" type="main">Uncertainty and Discrete Choice Models</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>De Palma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Ben-Akiva</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Brownstone</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Holt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Magnac</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Mcfadden</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Moffatt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Picard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Train</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Wakker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Walker</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Risk Marketing Letters</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="269" to="285" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.39,665.27,304.42,10.16" >
+	<monogr>
+		<title level="m" type="main">Paradoxe sur le Comédien</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Diderot</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1773" />
+			<pubPlace>Gallimard</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,79.39,690.59,276.33,10.16" >
+	<monogr>
+		<title level="m" type="main">Tout Empire périra</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">B</forename>
+				<surname>Duroselle</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+	<note>Armand. Colin</note>
+</biblStruct>
+
+<biblStruct coords="23,79.39,715.84,403.44,10.16;23,79.39,728.50,118.66,10.16" >
+	<analytic>
+		<title level="a" type="main">Risk, Ambiguity and the Savage Axioms</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Ellsberg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="page" from="643" to="669" />
+			<date type="published" when="1961" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,227.75,760.78,319.68,10.16" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">A. De</forename>
+				<surname>Palma</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Document. de référence 2008-21 — © OCDE/FIT</note>
+</biblStruct>
+
+<biblStruct coords="24,79.38,122.74,437.15,10.16;24,79.38,135.33,233.63,10.16" >
+	<analytic>
+		<title level="a" type="main">« The promise and perils of our times</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Haig</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International symposium on Sino- US-Europe relations in the new century</title>
+		<meeting><address><addrLine>Beijing</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,160.65,425.25,10.16;24,79.38,173.31,95.39,10.16" >
+	<analytic>
+		<title level="a" type="main">La théorie de l&apos;institution et de la fondation</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Hauriou</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Cahiers de la Nouvelle Journée</title>
+		<imprint>
+			<date type="published" when="1925" />
+			<biblScope unit="page" from="2" to="45" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,198.63,450.62,10.16;24,79.38,211.22,135.11,10.16" >
+	<analytic>
+		<title level="a" type="main">Prospect theory: An analysis of decisions under risk</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Kahneman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Tversky</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="313" to="327" />
+			<date type="published" when="1979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,235.89,281.21,10.16" >
+	<monogr>
+		<title level="m" type="main">A treatise on probability</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Keynes</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1921" />
+			<publisher>Macmillan</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,260.55,451.69,10.16;24,79.38,273.21,283.03,10.16" >
+	<monogr>
+		<title level="m" type="main">Risk, Uncertainty, and Profit</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">H</forename>
+				<surname>Knight</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1916" />
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+	<note>voir. sa thèse Theory of Business Profit</note>
+</biblStruct>
+
+<biblStruct coords="24,79.38,297.87,444.74,10.16;24,79.38,310.46,168.75,10.16" >
+	<analytic>
+		<title level="a" type="main">La prospective stratégique d&apos;entreprise : de la réflexion à l&apos;action, Dunod (2ème éd</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lesourne</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Et Chr</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stoffaës</title>
+		<imprint>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,335.12,294.10,10.16" >
+	<monogr>
+		<title level="m" type="main">Un homme de notre siècle</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lesourne</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<pubPlace>Odile Jacob</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,359.78,402.91,10.16;24,79.38,372.44,144.30,10.16" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<surname>Lévi-Strauss</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Guerre et commerce chez les Indiens d&apos;Amérique du Sud</title>
+		<imprint>
+			<date type="published" when="1943" />
+			<biblScope unit="page" from="1" to="2" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,397.10,407.76,10.16;24,79.38,409.76,419.91,10.16;24,79.38,422.36,79.48,10.16" >
+	<analytic>
+		<title level="a" type="main">« Judged frequency of lethal Events</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Lichtenstein</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Slovic</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Fischhoff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Layman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Combs</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Experimental Psychology: Human Learning and Memory</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">565</biblScope>
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,447.02,415.24,10.16;24,79.38,459.68,175.61,10.16" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Meusnier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Journ@l électronique d&apos;histoire des probabilités et de la statistique</title>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,484.34,451.19,10.16;24,79.38,497.00,124.76,10.16" >
+	<monogr>
+		<title level="m" type="main">The Logic of Collective Action: Public Goods and the Theory of Groups</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">L</forename>
+				<surname>Olson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1965" />
+			<publisher>Harvard University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,522.25,228.70,10.16" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Pascal</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1660" />
+			<pubPlace>Pensées, Paris, Seuil</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,547.57,443.23,10.16;24,79.38,560.23,432.41,10.16;24,79.38,572.83,113.73,10.16" >
+	<monogr>
+		<title level="m" type="main">« La logique des sciences sociales », exposé pour la Société allemande de Sociologie, tr. fr. De Vienne à Francfort, La querelle allemande des sciences sociales</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Popper</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1961" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,598.15,449.96,10.16" >
+	<analytic>
+		<title level="a" type="main">A Bayesian truth serum for subjective data</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Prelec</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science</title>
+		<imprint>
+			<biblScope unit="volume">306</biblScope>
+			<biblScope unit="issue">5695</biblScope>
+			<biblScope unit="page" from="462" to="466" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.38,623.47,452.99,10.16" >
+	<monogr>
+		<title level="m" type="main">Discours sur l&apos;origine et les fondements de l&apos;inégalité</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">J</forename>
+				<surname>Rousseau</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1755" />
+			<pubPlace>Gallimard</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.39,648.72,426.16,10.16" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Sageman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Understanding Terror Networks</title>
+		<imprint>
+			<publisher>University of Pennsylvania Press</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.39,674.04,311.23,10.16" >
+	<monogr>
+		<title level="m" type="main">Models of Bounded Rationality</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">A</forename>
+				<surname>Simon</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1982" />
+			<publisher>MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.39,699.36,338.10,10.16" >
+	<monogr>
+		<title level="m" type="main">The Three Trillion Dollar War</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Stiglitz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Bilmes</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>Norton</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="24,79.39,724.62,387.14,10.16" >
+	<monogr>
+		<title level="m" type="main">Advances in Behavioral Finance</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">H</forename>
+				<surname>Thaler</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993" />
+			<publisher>Russel Sage Foundation</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.38,110.08,451.18,10.16;25,79.38,122.74,83.14,10.16" >
+	<analytic>
+		<title level="a" type="main">Weighting risk and uncertainty</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Tversky</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Cr</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Fox</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Psychological Review</title>
+		<imprint>
+			<biblScope unit="volume">102</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="269" to="283" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.38,147.99,391.95,10.16;25,79.38,160.65,396.83,10.16" >
+	<analytic>
+		<title level="a" type="main">Advances in prospect theory: cumulative representation of uncertainty</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Tversky</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Kahneman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Risk and Uncertainty</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="297" to="323" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.39,185.97,364.96,10.16" >
+	<analytic>
+		<title level="a" type="main">Faits et dits mémorables</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Valerius Maximmus</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Belles lettres</title>
+		<imprint>
+			<biblScope unit="issue">31</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.39,211.22,243.29,10.16" >
+	<monogr>
+		<title level="m" type="main">The Risks of Terrorism</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Viscusi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<pubPlace>Kluwer</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.39,236.54,418.18,10.16;25,79.39,249.20,429.86,10.16" >
+	<monogr>
+		<title level="m" type="main">Nationalökonomie. Theorie Des Handelns und Wirtschaftens, tr. angl.Human Action: A Treatise on Economic, Foundation for Economic Education</title>
+		<author>
+			<persName>
+				<forename type="first">Von</forename>
+				<surname>Mises</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1940" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.39,273.87,429.17,10.16;25,79.39,286.46,132.09,10.16" >
+	<monogr>
+		<title level="m" type="main">Theory of Games and Economic Behavior</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Von Neumann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Morgenstern</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1944" />
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

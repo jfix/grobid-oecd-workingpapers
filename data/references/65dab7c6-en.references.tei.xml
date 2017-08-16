@@ -1,0 +1,772 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_152"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="19,59.52,150.26,473.31,9.94;19,87.84,162.85,394.71,9.94" >
+	<analytic>
+		<title level="a" type="main">Labour Market Mismatch and Labour Productivity: Evidence from PIAAC Data</title>
+		<author>
+			<persName>
+				<forename type="first">Adalet</forename>
+				<surname>Mcgowan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Andrews</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economics Department Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">1209</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.52,187.57,473.46,9.94;19,87.84,200.17,260.04,9.94" >
+	<analytic>
+		<title level="a" type="main">Skill Mismatch and Public Policy in OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">Adalet</forename>
+				<surname>Mcgowan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Andrews</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<date type="published" when="1210" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.52,224.89,473.52,9.94;19,87.84,237.48,102.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Mismatch in the Spanish Labour Market</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Alba-Ramirez</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Human Resources</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="259" to="278" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.52,262.20,473.53,9.94;19,87.84,274.80,445.16,9.94;19,87.84,287.39,13.80,9.94" >
+	<analytic>
+		<title level="a" type="main">Educational Mismatches versus Skill Mismatches: Effects on Wages, Job Satisfaction, and On-the-job Search</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Allen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Van Der Velden</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford Economic Papers</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="434" to="52" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.52,312.11,473.48,9.94;19,87.85,324.71,445.21,9.94;19,87.85,337.43,179.76,9.94" >
+	<monogr>
+		<title level="m" type="main">Skill Mismatch and Skill Use in Developed Countries: Evidence from the PIAAC Study</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Allen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Levels</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Van Der Velden</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.53,362.02,473.53,9.94;19,87.85,374.62,340.43,9.94" >
+	<analytic>
+		<title level="a" type="main">Housing Markets and Structural Policies in OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Andrews</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sánchez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Å</forename>
+				<surname>Johansson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economics Department Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">836</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.53,399.34,473.54,9.94;19,87.85,411.94,187.08,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Arulampalam</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Booth</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Bryan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Training in Europe Journal of the European Economic Association</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="346" to="60" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.53,436.66,473.45,9.94;19,87.85,449.25,210.00,9.94" >
+	<monogr>
+		<title level="m" type="main">Management Practices Across Firms and Countries</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Bloom</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Genakos</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Sadun</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Van Reenen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>NBER Working Papers</publisher>
+			<biblScope unit="page">17850</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.53,473.85,473.50,9.94;19,87.85,486.57,224.76,9.94" >
+	<monogr>
+		<title level="m" type="main">The New Empirical Economics of Management</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Bloom</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Lemos</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Sadun</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Scur</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Van Reenen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.53,511.16,473.48,9.94;19,87.85,523.88,201.13,9.94" >
+	<analytic>
+		<title level="a" type="main">Policy Challenges for the Next 50 Years</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Braconier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Nicoletti</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Westmore</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economics Department Policy Papers</title>
+		<imprint>
+			<biblScope unit="issue">9</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.53,548.48,473.56,9.94;19,87.85,561.08,222.47,9.94" >
+	<analytic>
+		<title level="a" type="main">Over-education, Regional Labour Markets and Spatial Flexibility</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Büchel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Van Ham</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Urban Economics</title>
+		<imprint>
+			<biblScope unit="volume">53</biblScope>
+			<biblScope unit="page" from="482" to="93" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.52,585.79,473.47,9.94;19,87.84,598.39,398.51,9.94" >
+	<monogr>
+		<title level="m" type="main">To Move or not to Move: What Drives Residential Mobility Rates in the OECD?</title>
+		<author>
+			<persName>
+				<forename type="first">Caldera</forename>
+				<surname>Sánchez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">.</forename>
+				<forename type="middle">D</forename>
+				<surname>Andrews</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.52,623.11,444.49,9.94" >
+	<analytic>
+		<title level="a" type="main">Skill Mismatch: The Role of the Enterprise</title>
+	</analytic>
+	<monogr>
+		<title level="j">CEDEFOP Cedefop Research Papers</title>
+		<imprint>
+			<biblScope unit="issue">21</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.52,647.71,473.52,9.94;19,87.84,660.30,191.28,9.94" >
+	<analytic>
+		<title level="a" type="main">The Skill Matching Challenge: Analysing Skill Mismatch and Policy Implications</title>
+	</analytic>
+	<monogr>
+		<title level="j">CEDEFOP</title>
+		<imprint>
+			<publisher>Publications Office of the European</publisher>
+			<date type="published" when="2010" />
+			<publisher>Publications Office of the European</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.52,685.02,473.51,9.94;19,87.84,697.62,198.35,9.94" >
+	<analytic>
+		<title level="a" type="main">The Part-time Pay Penalty: Earnings Trajectories of British Women</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Connolly</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Gregory</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford Economic Papers</title>
+		<imprint>
+			<biblScope unit="volume">61</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,59.51,722.34,473.53,9.94;19,87.83,734.93,190.80,9.94" >
+	<monogr>
+		<title level="m" type="main">An Analysis of Skill Mismatch Using Direct Measures of Skills</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Desjardins</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Rubenson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>OECD Education Working Papers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,440.16,64.82,90.00,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+			<biblScope unit="page">35</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.52,101.66,473.52,9.94;20,87.84,114.26,99.96,9.94" >
+	<analytic>
+		<title level="a" type="main">Residential Mobility, Housing Equity and the Labour Market</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Henley</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Journal</title>
+		<imprint>
+			<biblScope unit="volume">108</biblScope>
+			<biblScope unit="page" from="414" to="427" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.51,138.85,473.51,9.94;20,87.83,151.57,410.64,9.94" >
+	<analytic>
+		<title level="a" type="main">The Role of Geographic Mobility in Reducing Education- Job Mismatches in the Netherlands</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Hensen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>De Vries</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Cörvers</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papers in Regional Science</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="667" to="82" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.51,176.17,473.52,9.94;20,87.83,188.89,445.22,9.94;20,87.84,201.48,58.44,9.94" >
+	<analytic>
+		<title level="a" type="main">Mobility in Europe-Why is it Low, the Bottlenecks and the Policy Solutions</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Janiak</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Wasmer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Economy, Economic and Financial Affairs Directorate General</title>
+		<imprint>
+			<publisher>European Commission</publisher>
+			<date type="published" when="2008" />
+			<publisher>European Commission</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.52,226.20,473.47,9.94;20,87.84,238.80,233.16,9.94" >
+	<monogr>
+		<title level="m" type="main">Who Should We Ask? Employer and Employee Perceptions of Skill Gaps within Firms</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Mcguinness</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Ortiz</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>ESRI Working Papers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.52,263.40,473.48,9.94;20,87.84,276.11,260.52,9.94" >
+	<analytic>
+		<title level="a" type="main">Skill Mismatch and Training in Australia: Some Implications for Policy</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Messinis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Olekalns</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="300" to="306" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.52,300.71,401.88,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Skills Matter: Further Results from the Survey of Adult Skills</title>
+		<meeting><address><addrLine>OECD, Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.53,325.43,220.07,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Skills Outlook 2013</title>
+		<meeting><address><addrLine>OECD, Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.53,350.03,473.51,9.94;20,87.85,362.62,445.19,9.94;20,87.85,375.34,19.32,9.94" >
+	<monogr>
+		<title level="m" type="main">A New Measure of Skills Mismatch: Theory and Evidence from the Survey of Adult Skills (PIAAC)</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Pelizzari</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Fichen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>OECD Social</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.53,399.94,473.54,9.94;20,87.85,412.66,183.11,9.94" >
+	<monogr>
+		<title level="m" type="main">Who is Afraid of a Globalised World? FDI and the Allocation of Talent</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Pica</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J. Rodriguez</forename>
+				<surname>Mora</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>CSEF Working Papers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.53,437.25,473.53,9.94;20,87.85,449.85,162.96,9.94" >
+	<monogr>
+		<title level="m" type="main">Right for the Job: Over-qualified or Under-skilled?</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Quintini</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>OECD Social</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.53,474.57,473.52,9.94;20,87.85,487.17,71.28,9.94" >
+	<analytic>
+		<title level="a" type="main">Gender Equality, Part-time Work and Segregation</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Sparreboom</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Labour Review</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="20,59.53,511.88,473.64,9.94;20,87.85,524.48,316.91,9.94" >
+	<analytic>
+		<title level="a" type="main">The Training of School Leavers, Complementarity or Substitution?</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Van Smoorenburg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Van Der Velden</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economics of Education Review</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="207" to="224" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.52,64.82,90.00,9.94;26,285.38,196.40,25.10,6.33;26,345.51,196.40,25.10,6.33;26,405.63,196.40,25.10,6.33" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,145.53,285.92,37.01,6.33;26,285.34,285.92,25.54,6.33;26,344.02,285.92,28.44,6.33;26,407.05,285.92,22.64,6.33;26,285.34,298.97,25.10,6.33;26,345.47,298.97,25.10,6.33;26,405.59,298.97,25.10,6.33" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Age</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,145.51,364.24,97.11,6.33;26,286.77,364.24,22.53,6.33;26,345.45,364.24,25.54,6.33;26,404.13,364.24,28.44,6.33;26,285.33,377.30,25.10,6.33;26,345.45,377.30,25.10,6.33;26,405.57,377.30,25.10,6.33" >
+	<monogr>
+		<title level="m" type="main">Upper secondary education -0</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,145.51,390.35,100.30,6.33;26,288.22,390.35,19.63,6.33;26,345.45,390.35,25.54,6.33;26,404.13,390.35,28.44,6.33;26,145.51,403.41,34.11,6.33;26,285.32,403.41,25.10,6.33;26,345.44,403.41,25.10,6.33;26,405.57,403.41,25.10,6.33" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Post-Secondary</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,145.57,167.18,227.47,6.33;26,145.57,576.87,58.74,6.33;26,145.57,586.20,84.08,6.33" >
+	<monogr>
+		<title level="m" type="main">Dependent variable: 1 if the individual is mismatched, 0 otherw ise Temp agency</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

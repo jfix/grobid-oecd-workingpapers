@@ -1,0 +1,659 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_154"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="54,65.18,139.42,371.86,10.33;54,65.18,149.74,451.14,10.33" >
+	<monogr>
+		<title level="m" type="main">Year-end wrap-up &quot; . LLC MetroBike</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Demaio</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017-01-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,166.06,402.67,10.33" >
+	<monogr>
+		<title level="m" type="main">Shared Mobility and the Transformation of Public Transit</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Feigan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Murphy</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,182.38,420.94,10.33;54,65.18,192.82,356.55,10.33" >
+	<analytic>
+		<title level="a" type="main">Mobility on Demand (MOD) Sandbox Program. https://www.transit.dot.gov/researchinnovation/mobility-demand-mod-sandbox-program .html (accessed 10</title>
+	</analytic>
+	<monogr>
+		<title level="j">FTA</title>
+		<imprint>
+			<date type="published" when="2016-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,209.14,444.10,10.33;54,65.18,219.46,340.71,10.33" >
+	<analytic>
+		<title level="a" type="main">Shared Mobility Frequently Asked Questions. https://www.transit.dot.gov/regulations-andguidance/shared-mobility-frequently-asked-questions (accessed 10</title>
+	</analytic>
+	<monogr>
+		<title level="j">FTA</title>
+		<imprint>
+			<date type="published" when="2017-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,235.78,453.00,10.33;54,65.18,246.10,432.06,10.33" >
+	<analytic>
+		<title level="a" type="main">Future bus transport contracts under a mobility as a service (MaaS) regime in the digital age: Are they likely to change?</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">A</forename>
+				<surname>Hensher</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transportation Research Part A: Policy and Practice</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,262.42,442.79,10.33;54,65.18,272.74,382.14,10.33" >
+	<analytic>
+		<title level="a" type="main">Introducing Shared Mobility: How cities can manage the transition to new, more inclusive, transport services</title>
+	</analytic>
+	<monogr>
+		<title level="j">ITF International Transport Forum Policy Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2017" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,289.09,454.01,10.33;54,65.18,299.41,197.25,10.33" >
+	<analytic>
+		<title level="a" type="main">App-Based Ride and Taxi Services: Principles for Regulation &quot; . International Transport Forum Policy Papers</title>
+	</analytic>
+	<monogr>
+		<title level="j">ITF</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">22</biblScope>
+			<date type="published" when="2016" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,309.73,210.02,10.33;54,65.18,326.05,447.51,10.33;54,65.18,336.49,73.06,10.33" >
+	<analytic>
+		<title level="a" type="main">Data-driven Transport Policy</title>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Transport Forum Policy Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">20</biblScope>
+			<date type="published" when="2016" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,346.81,211.46,10.33;54,65.18,363.13,460.52,10.33;54,65.18,373.45,135.08,10.33" >
+	<analytic>
+		<title level="a" type="main">Shared Mobility: Innovation for Liveable Cities</title>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Transport Forum Policy Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">21</biblScope>
+			<date type="published" when="2016" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,383.77,215.30,10.33;54,65.18,401.89,428.28,10.33;54,65.18,414.85,305.71,10.33;54,65.18,427.93,346.13,10.33;54,65.18,445.09,432.46,10.33;54,65.18,455.41,324.60,10.33" >
+	<analytic>
+		<title level="a" type="main">The Economic Benefits of Improved Accessibility to Transport Systems International Transport Forum Policy PapersUrban Mobility System Upgrade: How shared self-driving cars could change city traffic</title>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Transport Forum Policy Papers</title>
+		<imprint>
+			<publisher>OECD Publishing OECD Publishing</publisher>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2015" />
+			<publisher>OECD Publishing OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,465.75,212.42,10.33;54,65.18,482.07,330.37,10.33" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Valuing Convenience in Public Transport</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,492.39,223.70,10.33" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,508.71,444.16,10.33;54,65.18,519.03,155.53,10.33" >
+	<monogr>
+		<title level="m" type="main">Intelligent Paratransit, Rudin Center for Transportation Policy and Management</title>
+		<author>
+			<persName>
+				<surname>Kaufman</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<pubPlace>New York University ; New York City</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,535.47,435.91,10.33;54,65.18,545.79,310.94,10.33" >
+	<monogr>
+		<title level="m" type="main">Connecting Low-Income People to Opportunity with Shared Mobility. Institute for Transportation and Development Policy</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Kodransky</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Lewenstein</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,562.11,446.58,10.33;54,65.18,572.43,454.96,10.33;54,65.18,582.75,73.06,10.33" >
+	<monogr>
+		<title level="m" type="main">Trends in Severe Disability Among Elderly People: Assessing the Evidence in 12 OECD Countries and the Future Implications</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Lafortune</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Balestat</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>OECD Health Working Papers OECD Publishing</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,593.07,204.08,10.33" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,609.39,435.95,10.33;54,65.18,619.71,418.71,10.33;54,65.18,630.03,393.54,10.33" >
+	<analytic>
+		<title level="a" type="main">Adapting the best elements of the Danish approach to combine several types of transportation</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">T</forename>
+				<surname>Larsen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Demand Responsive Transportation: Paratransit from Dial-a-Ride to Technology Enabled Services. Breckenridge</title>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,646.35,422.46,10.33;54,65.18,656.70,94.90,10.33" >
+	<analytic>
+		<title level="a" type="main">Now Arriving: A connected mobility roadmap for public transport</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Lindsay</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Cities Foundation</title>
+		<imprint>
+			<date type="published" when="2016-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,673.02,377.36,10.33;54,65.18,683.46,452.94,10.33" >
+	<monogr>
+		<title level="m" type="main">How a Failed Experiment Could Still Be the Future of Public Transit. https://www.wired.com/2017/03/failed-experiment-still-future-public-transit</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Marshall</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,65.18,699.78,432.34,10.33;54,65.18,710.10,155.14,10.33" >
+	<analytic>
+		<title level="a" type="main">NACTO City Data Sharing Principles. https://nacto.org/policy-2016/city-data-sharing- principles</title>
+	</analytic>
+	<monogr>
+		<title level="j">NACTO</title>
+		<imprint>
+			<date type="published" when="2017-03" />
+		</imprint>
+	</monogr>
+	<note>accessed. 10</note>
+</biblStruct>
+
+<biblStruct coords="55,65.18,765.18,336.57,8.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Shaping</forename>
+				<surname>The</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Between</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Transport</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Innovative Mobility – ©</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Oecd</surname>
+			</persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">2017</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,104.98,445.75,10.33;55,65.18,115.30,307.04,10.33" >
+	<monogr>
+		<title level="m" type="main">Unsustainable? The Growth of App-Based Ride Services and Traffic, Travel and the Future of New York City</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Schaller</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017-02-27" />
+			<publisher>Schaller Consulting</publisher>
+			<pubPlace>Brooklyn</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,131.62,427.73,10.33;55,65.18,141.94,162.97,10.33" >
+	<monogr>
+		<title level="m" type="main">Unfinished Business: A Blueprint for Uber, Lyft and Taxi Regulation</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Schaller</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016-09-20" />
+			<publisher>Schaller Consulting</publisher>
+			<pubPlace>Brooklyn</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,158.38,418.36,10.33;55,65.18,168.70,451.87,10.33;55,65.18,179.02,178.81,10.33" >
+	<analytic>
+		<title level="a" type="main">Living in an App-Enabled World: Implications for transit agency leadership, management and service delivery</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Schaller</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Conference on Demand Responsive Transportation. Breckenridge</title>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,195.34,433.62,10.33;55,65.18,205.66,34.17,10.33" >
+	<analytic>
+		<title level="a" type="main">Travel Decisions Survey</title>
+	</analytic>
+	<monogr>
+		<title level="j">SFMTA</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,221.98,460.93,10.33;55,65.18,232.30,348.90,10.33" >
+	<monogr>
+		<title level="m" type="main">Shared Mobility: Current Practices and Guiding Principles. US DEpartment of Transportation: Federal Highway Administration</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Shaheen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Cohen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Zohdy</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,248.62,427.59,10.33;55,65.18,258.94,405.66,10.33" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Shaheen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Cohen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Zohdy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Kock</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Smartphone Applications to Influence Travel Choices</title>
+		<meeting><address><addrLine>Washington, DC.</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,275.29,456.04,10.33;55,65.18,285.61,464.36,10.33" >
+	<analytic>
+		<title level="a" type="main">RideKC -Bridj Pilot Evaluation:Impact, Operational, and Institutional Analysis</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Shaheen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Stocker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lazarus</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Bhattacharyya</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transportation Sustainability Research Center</title>
+		<imprint>
+			<publisher>UC Berkeley</publisher>
+			<date type="published" when="2016" />
+			<publisher>UC Berkeley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,301.93,462.34,10.33;55,65.18,312.37,311.43,10.33" >
+	<analytic>
+		<title level="a" type="main">Advancing accessibility of digital transport services</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Somerpalo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Tamminen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Alinikula</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Helsinki: Finnish Ministry of Transport and Communications</title>
+		<imprint>
+			<date type="published" when="2017-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,328.69,420.82,10.33;55,65.18,339.01,182.05,10.33" >
+	<monogr>
+		<title level="m" type="main">The City from the Valley. https://hi.stamen.com/the-city-from-the-valley- 57e835ee3dc6 (accessed 23</title>
+		<author>
+			<persName>
+				<forename type="first">Stamen</forename>
+				<surname>Design</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,355.33,460.95,10.33;55,65.18,365.65,359.74,10.33" >
+	<analytic>
+		<title level="a" type="main">Public Interest: How Public Agencies can work with Emerging Mobility Providers</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">P</forename>
+				<surname>Tsay</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+				<surname>Accuardi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Schaller</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Hovenkotter</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Private Mobility</title>
+		<meeting><address><addrLine>New York City ; Transit Center</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,381.97,418.64,10.33;55,65.18,392.29,203.65,10.33" >
+	<analytic>
+		<title level="a" type="main">Organising Authorities Committee, Organising Authorities Mission Statement</title>
+	</analytic>
+	<monogr>
+		<title level="j">UTTP</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,65.18,457.55,45.77,19.34" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Notes</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

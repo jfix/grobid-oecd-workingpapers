@@ -1,0 +1,984 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_9"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="25,59.52,195.96,433.04,12.22;25,87.84,208.56,132.92,12.22" >
+	<analytic>
+		<title level="a" type="main">Defensive publications in an R&amp;D race</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Bar</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economics and Management Strategy</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page" from="229" to="254" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,233.28,441.21,12.22;25,87.84,245.88,109.68,12.22" >
+	<analytic>
+		<title level="a" type="main">Disclosure as a Strategy in the Patent Race</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Baker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Mezzetti</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Law and Economics</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="173" to="194" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,270.60,454.17,12.22;25,87.84,283.20,141.48,12.22" >
+	<analytic>
+		<title level="a" type="main">Motives to Patent: Evidence from Germany</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Blind</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Edler</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Frietsch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">U</forename>
+				<surname>Schmoch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="655" to="672" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,307.92,447.97,12.22;25,87.84,320.52,96.82,12.22" >
+	<analytic>
+		<title level="a" type="main">Appropriability, Pre-emption and Firm Performance</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Ceccagnoli</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Strategic Management Journal, forthcoming</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,345.12,433.08,12.22;25,87.84,357.84,405.24,12.22" >
+	<analytic>
+		<title level="a" type="main">R&amp;D Spillovers, Patents and the Incentives to Innovate in Japan and the United States</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Cohen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Goto</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Nagata</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Nelson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Walsh</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="8" to="9" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,382.44,471.10,12.22;25,87.84,395.16,414.50,12.22;25,87.84,407.76,121.06,12.22" >
+	<analytic>
+		<title level="a" type="main">Appropriation Strategy and the Motivations to Use the Patent System: An Econometric Analysis at the Firm Level in French Manufacturing</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Duguet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Kabla</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Annales d&apos;Economie et de Statistique 49</title>
+		<imprint>
+			<date type="published" when="1998" />
+			<biblScope unit="page" from="289" to="327" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,432.36,387.16,12.22" >
+	<analytic>
+		<title level="a" type="main">Evaluating the Knowledge Economy</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Commission</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,457.08,462.64,12.22;25,87.84,469.68,425.88,12.22" >
+	<monogr>
+		<title level="m" type="main">Applicant Panel Survey 2007 of Intentions for Filing Patent Applications at the European Patent Office and other Offices</title>
+		<author>
+			<persName>
+				<surname>European Patent Office</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>EPO, Munich</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,494.40,389.48,12.22" >
+	<monogr>
+		<title level="m" type="main">The Value of Patents</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Gambardella</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Harhoff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Verspagen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note>mimeo</note>
+</biblStruct>
+
+<biblStruct coords="25,59.52,519.00,433.33,12.22;25,87.84,531.60,196.44,12.22" >
+	<analytic>
+		<title level="a" type="main">Preemptive Patenting and the Persistence of Monopoly</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Gilbert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Newbery</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">72</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="514" to="526" />
+			<date type="published" when="1982" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,556.32,440.40,12.22;25,87.84,568.92,437.74,12.22;25,87.84,581.64,420.87,12.22;25,87.84,594.24,199.19,12.22" >
+	<analytic>
+		<title level="a" type="main">Post-Issue Patent Quality Control: A Comparative Study of US Patent Re-Examinations and European Patent Oppositions</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Graham</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">H</forename>
+				<surname>Hall</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Harhoff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">C</forename>
+				<surname>Mowery</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Patents in the Knowledge-Based Economy</title>
+		<editor>W. M. Cohen and S. A. Merrill</editor>
+		<meeting><address><addrLine>Washington, D.C</addrLine></address></meeting>
+		<imprint>
+			<publisher>The National Academies Press</publisher>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="74" to="119" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,618.84,465.59,12.22;25,87.84,631.56,402.12,12.22" >
+	<analytic>
+		<title level="a" type="main">Submarines in Software? Continuations in US Software Patenting in the 1980s and the 1990s</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Graham</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Mowery</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economics of Innovation and New Technologies</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="443" to="456" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,656.16,306.71,12.22" >
+	<monogr>
+		<title level="m" type="main">Econometric Analysis</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Greene</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Prentice Hall</publisher>
+			<pubPlace>New Jersey</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,59.52,680.88,462.95,12.22;25,87.84,693.48,156.72,12.22" >
+	<analytic>
+		<title level="a" type="main">Pre-empting Technology Competition through Firm Acquisitions</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Grimpe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Hussinger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economics Letters</title>
+		<imprint>
+			<biblScope unit="volume">100</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="189" to="191" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,444.48,62.52,85.68,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,99.36,432.11,12.22;26,87.84,111.96,415.94,12.22;26,87.84,124.56,267.42,12.22" >
+	<analytic>
+		<title level="a" type="main">Patent as a Market Instrument</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Guellec</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Van Pottelsberghe De La Potterie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Van Zeebroeck</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Economics of the European Patent System Guellec and B. van Pottelsberghe de la Potterie</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,149.28,462.91,12.22;26,87.84,161.88,391.92,12.22" >
+	<analytic>
+		<title level="a" type="main">The Patent Paradox Revisited: An Empirical Study of Patenting in the US Semiconductor Industry 1979-1995</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">H</forename>
+				<surname>Hall</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">H</forename>
+				<surname>Ziedonis</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rand Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="101" to="128" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,186.60,442.84,12.22;26,87.84,199.20,212.79,12.22" >
+	<monogr>
+		<title level="m" type="main">Intellectual Property Strategy in the Global Cosmetics Industry</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Harhoff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">H</forename>
+				<surname>Hall</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,223.92,465.44,12.22;26,87.84,236.52,355.89,12.22" >
+	<analytic>
+		<title level="a" type="main">Citation Frequency and The Value of Patented Inventions</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Harhoff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Narin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">M</forename>
+				<surname>Scherer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Vopel</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Review of Economics and Statistics</title>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="511" to="515" />
+			<date type="published" when="1999" />
+			<publisher>MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,261.12,468.60,12.22;26,87.84,273.84,443.88,12.22" >
+	<analytic>
+		<title level="a" type="main">Determinants of Opposition against EPO Patent Grants – The Case of Biotechnology and Pharmaceuticals</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Harhoff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Reitzig</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Industrial Organisation</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="443" to="480" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,298.44,456.42,12.22;26,87.84,311.16,404.89,12.22" >
+	<monogr>
+		<title level="m" type="main">Incidence and Growth of Patent Thickets – The Impact of Technological Opportunities and Complexity</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Harhoff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Von Graevenitz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Wagner</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,335.76,469.85,12.22;26,87.84,348.36,346.00,12.22;26,87.84,361.08,265.32,12.22" >
+	<monogr>
+		<title level="m" type="main">Alternatives to the Patent Arms Race: An Empirical Study of Defensive Publishing</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Henkel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Pangerl</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,385.68,456.75,12.22;26,87.84,398.40,368.96,12.22" >
+	<analytic>
+		<title level="a" type="main">IP-Valuation as a Tool to Sustain Innovation</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Iversen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Kaloudis</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Studies in Technology, Innovation and Innovation Policy</title>
+		<imprint>
+			<publisher>The Step Group</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,423.00,434.64,12.22;26,87.84,435.60,273.96,12.22" >
+	<analytic>
+		<title level="a" type="main">Characteristics of Patent Litigation: A Window on Competition</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">O</forename>
+				<surname>Lanjouw</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Mark</forename>
+				<surname>Schankerman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Rand Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">32</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="129" to="51" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,460.32,462.20,12.22;26,87.84,472.92,402.03,12.22;26,87.84,485.64,429.03,12.22" >
+	<monogr>
+		<title level="m" type="main">The Rigour of EPO´s Patentability Criteria: An Insight into the &apos;Induced Withdrawls</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Lazaridis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Van Pottelsberghe De La Potterie</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>CEB</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,510.24,423.02,12.22;26,87.84,522.84,119.88,12.22" >
+	<analytic>
+		<title level="a" type="main">The Importance of Patent Scope: An Empirical Analysis</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lerner</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RAND Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="319" to="333" />
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,547.56,405.36,12.22" >
+	<analytic>
+		<title level="a" type="main">Patent Citation Analysis</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Michel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Bettels</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Scientometrics</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="185" to="201" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,572.16,274.26,12.22" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Patent Statistics Manual</title>
+		<meeting><address><addrLine>OECD, Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,596.88,415.31,12.22" >
+	<monogr>
+		<title level="m" type="main">The Value of International Patent Rights</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Putnam</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,621.48,466.80,12.22;26,87.84,634.08,369.38,12.22" >
+	<monogr>
+		<title level="m" type="main">Quality versus Quantity: Strategic Interactions and the Patent Inflation &quot; , presentation at the EPIP Conference</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>De Rassenfosse</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Guellec</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,658.80,455.81,12.22;26,87.84,671.40,405.14,12.22;26,87.84,684.12,75.21,12.22" >
+	<monogr>
+		<title level="m" type="main">The Determinants of Patent Application Outcomes – Does Experience Matter? &quot; , CEBR discussion paper</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Schneider</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<pubPlace>Copenhagen Business School</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,708.72,393.69,12.22;26,87.84,721.44,184.96,12.22" >
+	<monogr>
+		<title level="m" type="main">Injunctions, Hold Up and Patent Royalties</title>
+		<author>
+			<persName>
+				<surname>Shapiro</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,62.52,85.68,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,99.36,463.43,12.22;27,87.84,111.96,440.16,12.22" >
+	<analytic>
+		<title level="a" type="main">Determinants of Patent Withdrawals: Evidence from a Sample of Italian Applications with the EPO</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sterlacchini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Schetttino</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">MPRA paper 7765</title>
+		<meeting><address><addrLine>Germany</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,136.56,468.77,12.22;27,87.84,149.28,444.62,12.22;27,87.84,161.88,236.00,12.22" >
+	<analytic>
+		<title level="a" type="main">Patenting Procedures and Filing Strategies at the EPO</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Stevnsborg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Van Pottelsberghe De La Potterie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Economics of the European Patent System Guellec and B. van Pottelsberghe de la Potterie</title>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,186.60,463.66,12.22;27,87.84,199.20,421.58,12.22" >
+	<analytic>
+		<title level="a" type="main">Data Production Methods for Harmonised Patent Indicators: Assignee Sector Allocation</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Van Looy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Du Plessis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Magerman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">EUROSTAT working paper and studies</title>
+		<meeting><address><addrLine>Luxembourg</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,223.92,462.21,12.22;27,87.84,236.52,103.66,12.22" >
+	<monogr>
+		<title level="m" type="main">The Cost Factor in Patent Systems</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Van Pottelsberghe De La Potterie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>François</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,261.12,443.62,12.22;27,87.84,273.84,385.32,12.22;27,87.84,286.44,93.47,12.22" >
+	<analytic>
+		<title level="a" type="main">Claiming More: The Increased Voluminosity of Patent Applications and its Determinants</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Van Zeebroeck</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Van Pottelsberghe De La Potterie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Guellec</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1006" to="1020" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,311.16,443.11,12.22;27,87.84,323.76,407.45,12.22;27,87.84,336.36,429.08,12.22;28,444.48,62.52,85.68,12.22" >
+	<analytic>
+		<title level="a" type="main">Analysing European and International Patent Citations: A Set of EPO Patent Database Building Blocks</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Webb</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Dernis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Harhoff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Hoisl</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Science, Technology and Industry Working Paper</title>
+		<imprint>
+			<biblScope unit="volume">98</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

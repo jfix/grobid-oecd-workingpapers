@@ -1,0 +1,103 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_134"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="26,236.53,761.47,291.13,9.27" >
+	<monogr>
+		<title level="m" type="main">Winsor — Document de référence 2010-21 — © OCDE/FIT</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,101.44,123.06,431.67,9.88;26,101.46,135.66,431.49,9.88;26,101.46,148.32,431.62,9.88" >
+	<monogr>
+		<title level="m" type="main">Cette décision provoqua un scandale politique, le Sénat adoptant une motion de censure puis rejetant la nomination de M. Taney au poste de Ministre des Finances. C&apos;était la première fois dans l&apos;histoire des États-Unis qu&apos;il rejetait une nomination</title>
+		<imprint/>
+	</monogr>
+	<note>par. le Président à un poste du Cabinet</note>
+</biblStruct>
+
+<biblStruct coords="26,101.46,160.98,431.51,9.88;26,101.46,173.64,431.54,9.88;26,101.46,186.30,431.53,9.88;26,101.46,198.96,431.48,9.88;26,101.46,211.56,431.58,9.88;26,101.46,224.22,59.27,9.88" >
+	<monogr>
+		<title level="m" type="main">Taney à la Cour suprême des États-Unis, cette nomination échoua également. Des changements dans la composition du Sénat permirent finalement qu&apos;il soit renommé et confirmé au poste de Président de la Cour suprême, un événement extrêmement regrettable étant donné que M. Taney, sans doute plus que quiconque, a été responsable</title>
+		<author>
+			<persName>
+				<surname>Lorsqu &apos;en 1835</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Le Président Jacskon Nomma</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,101.45,248.88,431.47,9.88;26,101.46,261.54,431.57,9.88;26,101.46,274.20,337.00,9.88" >
+	<analytic>
+		<title level="a" type="main">Examens de l&apos;OCDE de la réforme de la réglementation – Politiques de régulation dans les pays de l&apos;OCDE : De l&apos;interventionnisme à la gouvernance de la régulation</title>
+	</analytic>
+	<monogr>
+		<title level="j">OCDE</title>
+		<imprint>
+			<biblScope unit="page">97</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note>Organisation. de coopération et de développement économiques</note>
+</biblStruct>
+
+<biblStruct coords="26,101.46,298.80,431.57,9.88;26,101.46,311.46,106.39,9.88" >
+	<monogr>
+		<title level="m" type="main">Power and Gas Regulation – Issues and International Experience</title>
+		<imprint>
+			<date type="published" when="2001" />
+			<pubPlace>La Banque Mondiale, Washington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,101.46,336.12,431.50,9.88;26,101.46,348.78,321.02,9.88" >
+	<monogr>
+		<title level="m" type="main">The Regulatory State: Ensuring its Accountability, Commission de la Chambre des Lords sur la Constitution, 6ème rapport de la session 2003-04</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,101.46,373.44,160.80,9.88" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<surname>Op</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Cit</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">§ 113 et</title>
+		<imprint>
+			<biblScope unit="page">373</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

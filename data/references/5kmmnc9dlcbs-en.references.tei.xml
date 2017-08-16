@@ -1,0 +1,597 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_149"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="26,79.46,175.60,213.23,9.94;26,292.75,179.95,3.48,6.26;26,301.99,175.60,230.93,9.94;26,79.46,188.38,453.82,10.80;26,79.46,202.00,81.93,9.94" >
+	<analytic>
+		<title level="a" type="main">Energy Consumption and CO 2 Impacts of High Speed Rail: ATOC analysis for Greengauge 21. The Association of Train Operating Companies</title>
+	</analytic>
+	<monogr>
+		<title level="j">ATOC</title>
+		<editor>Richard Davies and Leigh Thompson</editor>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,227.32,453.63,9.94;26,79.46,240.04,135.60,9.94" >
+	<analytic>
+		<title level="a" type="main">Svenska Höghastighetsbanor</title>
+	</analytic>
+	<monogr>
+		<title level="j">Banverket</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,265.24,453.73,9.94;26,79.46,277.99,238.84,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Cnt</forename>
+				<surname>Ccap</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">High Speed Rail and Greenhouse Gas Emissions in the U.S.. Center for Clean Air Policy, and Center for Neighborhood Technology</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,301.01,453.78,12.23;26,79.46,315.91,179.11,9.94" >
+	<analytic>
+		<title level="a" type="main">Building a low-carbon economy – the UK&apos;s contribution to tackling climate change. The Committee on Climate Change</title>
+	</analytic>
+	<monogr>
+		<title level="j">CCC</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,341.23,365.01,9.94" >
+	<monogr>
+		<title level="m" type="main">Delivering a Sustainable Railway</title>
+		<author>
+			<persName>
+				<surname>Dft</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,366.55,453.54,9.94;26,79.46,379.15,315.94,9.94" >
+	<monogr>
+		<title level="m" type="main">In What Circumstances is Investment in High Speed Rail Worthwhile? Institute of Transport Studies</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>De Rus</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Nash</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>Paper. 590</note>
+</biblStruct>
+
+<biblStruct coords="26,79.46,404.47,453.71,9.94;26,79.46,417.07,132.04,9.94" >
+	<monogr>
+		<title level="m" type="main">The Economic Effects of High Speed Rail Investment</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>De Rus</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,442.39,336.03,9.94" >
+	<analytic>
+		<title level="a" type="main">Klimaeffekter av højhastighetstog</title>
+	</analytic>
+	<monogr>
+		<title level="j">ECON</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,467.73,411.54,9.94" >
+	<analytic>
+		<title level="a" type="main">Nytte-kostnadsanalyse av højhastighetstog i Norge</title>
+	</analytic>
+	<monogr>
+		<title level="j">ECON</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,490.75,441.28,12.23;26,79.46,505.65,396.50,9.94;26,79.46,518.25,139.87,9.94" >
+	<analytic>
+		<title level="a" type="main">Evaluation of the Member States&apos; emission inventories 2004-2006 for LCPs under the LCP Directive</title>
+	</analytic>
+	<monogr>
+		<title level="m">Final report by Entec UK Ltd. Consultancy for the European Commission</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>DG. Environment</note>
+</biblStruct>
+
+<biblStruct coords="26,79.46,543.57,430.60,9.94;26,79.46,556.29,39.46,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Guide to Cost-Benefit Analysis of Investment Projects</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,581.61,439.18,9.94;26,79.46,594.21,413.87,9.94;26,79.46,606.81,405.10,9.94" >
+	<analytic>
+		<title level="a" type="main">Environmental impacts and impact on the electricity market of large scale introduction of electric cars in Europe</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Hacker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Harthan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Matthes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Zimmer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">European Topic Centre on Air and Climate Change</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,632.13,427.73,9.94;26,79.46,644.85,126.77,9.94" >
+	<analytic>
+		<title level="a" type="main">Aviation and the Global Atmosphere. Intergovernmental Panel on Climate Change</title>
+	</analytic>
+	<monogr>
+		<title level="j">IPCC</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="1999" />
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,670.08,418.93,9.94" >
+	<monogr>
+		<title level="m" type="main">Transport energy consumption. A discussion paper</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Kemp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="page">10</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,708.12,418.76,9.94;26,79.46,720.72,37.08,9.94" >
+	<monogr>
+		<title level="m" type="main">The King Review of low-carbon cars. Part 1: The potential for CO2 reduction</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>King</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,759.68,284.65,11.09" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Kageson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,110.20,453.68,9.94;27,79.46,122.80,453.64,9.94;27,79.46,135.52,120.20,9.94" >
+	<analytic>
+		<title level="a" type="main">Energy consumption and related air pollution for Scandinavian electric passenger trains</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Lukaszewicz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Andersson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Report KTH</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,160.84,453.77,9.94;27,79.46,173.44,367.12,9.94" >
+	<analytic>
+		<title level="a" type="main">Green Train energy consumption. Estimations on highspeed rail operations, KTH Rail Group</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Lukaszewicz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Andersson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Royal Institute of Technology</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,198.76,411.93,9.94;27,79.46,211.36,321.07,9.94;27,79.46,236.68,447.80,9.94" >
+	<analytic>
+		<title level="a" type="main">Comparing environmental impact of conventional and high speed rail</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">L</forename>
+				<surname>Nelldal</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Troche</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Jansson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Europakorridoren. Ett bredband för fysiska transporter. KTH Rail Group</title>
+		<meeting><address><addrLine>Stockholm Network Rail ; London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,259.70,453.76,12.23;27,79.46,274.63,333.79,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">E</forename>
+				<surname>Nilsson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Pyddoke</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Höghastighetsjärnvägar – ett klimatpolitiskt stickspår. Rapport till Expertgruppen för miljöstudier 2009:3. Ministry of Finance</title>
+		<meeting><address><addrLine>Stockholm</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,299.95,453.63,9.94;27,79.46,312.55,306.27,9.94" >
+	<monogr>
+		<title level="m" type="main">Energi-og klimakonsekvenser av modern transportsystemer. Effekter ved bygging av høyhastighetsbaner i Norge</title>
+		<author>
+			<persName>
+				<forename type="first">Norges</forename>
+				<surname>Naturvernforbund</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,337.87,430.49,9.94" >
+	<analytic>
+		<title level="a" type="main">Traction energy metrics</title>
+	</analytic>
+	<monogr>
+		<title level="j">RSSB Rail Safety &amp; Standard Board</title>
+		<editor>Roger Kemp</editor>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,363.19,453.73,9.94;27,79.46,375.79,42.55,9.94" >
+	<analytic>
+		<title level="a" type="main">High speed rail. Fast track to sustainable mobility</title>
+	</analytic>
+	<monogr>
+		<title level="j">UIC</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,401.11,453.72,9.94;27,79.46,413.83,110.71,9.94" >
+	<analytic>
+		<title level="a" type="main">Process, Power, people. Energy Efficiency for Railway Managers</title>
+	</analytic>
+	<monogr>
+		<title level="j">UIC</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,439.15,453.58,9.94;27,79.46,451.75,49.19,9.94" >
+	<monogr>
+		<title level="m" type="main">Rail Transport and Environment. Facts &amp; Figures</title>
+		<author>
+			<persName>
+				<forename type="first">Cer</forename>
+				<surname>Uic</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-11" />
+			<pubPlace>Paris and Brussels</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,477.09,163.09,9.94;27,242.57,481.44,3.48,6.26;27,246.05,477.09,130.61,9.94" >
+	<analytic>
+		<title level="a" type="main">More rail = Less CO 2 . The European Rail Industry</title>
+	</analytic>
+	<monogr>
+		<title level="j">UNIFE</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,500.11,453.82,12.23" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Höghastighetsbanor – ett samhällsbygge för stärkt utveckling och konkurrenskraft</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,515.01,453.44,9.94;27,79.46,527.61,51.31,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Betänkande Av Utredningen Om Höghastighetsbanor</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Sou</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page">74</biblScope>
+			<pubPlace>Stockholm</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,552.93,424.17,9.94;27,79.46,565.65,135.05,9.94" >
+	<analytic>
+		<title level="a" type="main">To shift or not to shift, that´s the question</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Van Essen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Bello</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Dings</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Van Den Brink</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CE Delft and RIVM</title>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,590.85,413.80,9.94" >
+	<analytic>
+		<title level="a" type="main">Feasibility Study Concerning High Speed Rail Lines in Norway</title>
+	</analytic>
+	<monogr>
+		<title level="j">VWI</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,603.57,195.28,9.94;27,79.46,626.59,453.82,12.23;27,79.46,641.49,364.22,9.94" >
+	<analytic>
+		<title level="a" type="main">Höghastighetståg – affärsmässighet och samhällsnytta. Slutrapport</title>
+		<author>
+			<persName>
+				<forename type="first">Verkehrswissenschaftliche</forename>
+				<surname>Institut</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Wsp</forename>
+				<surname>Stuttgart</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Kth</forename>
+				<surname>Järnvägsgruppen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">WSP Analys &amp; Strategi, and KTH Järnvägsgruppen</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,666.84,362.91,9.94;27,442.30,671.19,3.48,6.26;27,445.78,666.84,65.86,9.94;27,79.46,679.44,234.97,9.94" >
+	<analytic>
+		<title level="a" type="main">Auswirkungen von Elektroautos auf den Kratwerkspark und die CO 2 -Emissionen in Deutchland, World Wide Fund for Nature</title>
+	</analytic>
+	<monogr>
+		<title level="j">WWF</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,704.76,425.44,9.94;27,79.46,717.36,44.37,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Zängl</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Die Geisterbahn. Das Dilemma der Hochgeschwindigkeitzüge. Raben Verlag</title>
+		<meeting><address><addrLine>München</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

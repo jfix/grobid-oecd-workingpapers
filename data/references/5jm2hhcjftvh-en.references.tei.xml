@@ -1,0 +1,400 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_62"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="19,105.26,609.47,16.54,8.96;19,209.81,609.47,45.72,8.96;19,328.87,609.47,45.72,8.96;19,447.94,609.47,45.72,8.96;19,213.17,620.99,39.13,8.96;19,332.23,620.99,39.13,8.96;19,451.30,620.99,39.13,8.96;19,90.98,632.51,45.08,8.96;19,206.45,632.51,52.43,8.96;19,325.51,632.51,52.43,8.96;19,444.58,632.51,52.43,8.96;19,211.73,644.03,41.95,8.96;19,330.79,644.03,41.95,8.96;19,449.86,644.03,41.95,8.96" >
+	<analytic>
+		<title level="a" type="main">0497*** -0.0485*** (0.00163) (0.00156) (0.00160) Age square 0</title>
+	</analytic>
+	<monogr>
+		<title level="j">Age</title>
+		<imprint>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="66" to="0570" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="19,84.02,655.58,59.05,8.96;19,212.33,655.58,40.69,8.96;19,331.39,655.58,40.69,8.96;19,450.46,655.58,40.69,8.96;19,215.57,666.98,34.21,8.96;19,332.23,666.98,39.13,8.96;19,451.30,666.98,39.13,8.96;19,71.78,678.50,83.51,8.96;19,213.89,678.50,37.45,8.96;19,332.95,678.50,37.45,8.96;19,452.02,678.50,37.45,8.96;19,215.57,690.02,34.21,8.96;19,334.63,690.02,34.21,8.96;19,453.70,690.02,34.21,8.96;19,76.82,701.54,73.44,8.96;19,213.89,701.54,37.45,8.96;19,332.95,701.54,37.45,8.96;19,452.02,701.54,37.45,8.96;19,215.57,713.06,34.21,8.96;19,334.63,713.06,34.21,8.96;19,453.70,713.06,34.21,8.96;19,75.98,724.46,75.11,8.96;19,213.89,724.46,37.45,8.96;19,332.95,724.46,37.45,8.96;19,452.02,724.46,37.45,8.96;19,215.57,735.97,34.21,8.96;19,334.63,735.97,34.21,8.96;19,453.70,735.97,34.21,8.96" >
+	<analytic>
+		<title level="a" type="main">180*** -0.173*** (0.0101) (0.00952) (0.00989) Secondary education 0.600*** 0.448*** 0.546*** (0.0169) (0.0161) (0.0165) Tertiary education 0</title>
+	</analytic>
+	<monogr>
+		<title level="j">Gender</title>
+		<imprint>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,365.59,51.42,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">References</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,389.95,473.34,9.94;31,87.86,402.67,444.92,9.94;31,87.86,415.27,251.10,9.94" >
+	<monogr>
+		<title level="m" type="main">Cross-country determinants of life satisfaction: exploring different determinants across groups in society</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Bjørnskov</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Dreher</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Fischer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<pubPlace>Konjunkturforschungsstelle, Eidgenössische Technische Hochschule Zürich</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,439.99,473.51,9.94;31,87.86,452.59,245.85,9.94" >
+	<monogr>
+		<title level="m" type="main">The Forms of Capital Handbook of Theory and Research for the Sociology of Education</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Bourdieu</surname>
+			</persName>
+		</author>
+		<editor>Richardson, John G., ed.</editor>
+		<imprint>
+			<date type="published" when="1986" />
+			<publisher>Greenwood</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,474.91,473.51,12.23;31,87.86,489.93,173.19,9.94" >
+	<analytic>
+		<title level="a" type="main">Some uses of happiness data in economics</title>
+		<author>
+			<persName>
+				<forename type="first">Di</forename>
+				<surname>Tella</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Mcculloch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of economic perspectives</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="25" to="46" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,514.53,36.76,9.94;31,116.15,514.53,29.39,9.94;31,165.47,514.53,32.98,9.94;31,218.23,514.53,9.20,9.94;31,247.37,514.53,18.34,9.94;31,285.63,514.53,8.63,9.94;31,314.05,514.53,34.67,9.94;31,368.83,514.53,164.41,9.94;31,87.86,527.25,423.58,9.94" >
+	<analytic>
+		<title level="a" type="main">Quality of Life in Europe</title>
+	</analytic>
+	<monogr>
+		<title level="j">Eurostat</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,549.55,473.48,12.23;31,87.86,564.45,445.13,9.94;31,87.86,577.17,42.84,9.94" >
+	<analytic>
+		<title level="a" type="main">Flextime Commuters and Their Driver Stress, Feelings of Time Urgency, and Commute Satisfaction</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">L</forename>
+				<surname>Lucas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">B</forename>
+				<surname>Heady</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Business and Psychology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page">565</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,601.77,314.29,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<surname>Fleurbay</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Théories économiques de la justice</title>
+		<meeting><address><addrLine>Paris: Economica</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,624.19,473.50,12.23;31,87.86,639.09,269.57,9.94" >
+	<monogr>
+		<title level="m" type="main">Well-being, social capital and public policy: What&apos;s new? NBER Working Paper 11807</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Helliwell</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,663.84,473.52,9.94;31,87.86,676.44,190.95,9.94" >
+	<analytic>
+		<title level="a" type="main">Well-Being and Trust in the Workplace</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">F</forename>
+				<surname>Helliwell</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Huang</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Happiness Studies</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,701.04,18.88,9.94;31,104.63,701.04,29.34,9.94;31,160.16,701.04,41.12,9.94;31,227.32,701.04,44.60,9.94;31,297.96,701.04,23.31,9.94;31,347.39,701.04,4.90,9.94;31,378.45,701.04,51.57,9.94;31,456.19,701.04,39.69,9.94;31,521.92,701.04,10.98,9.94;31,87.86,713.76,205.25,9.94" >
+	<analytic>
+		<title level="a" type="main">Rapporto Benessere Equo e Sostenibile</title>
+	</analytic>
+	<monogr>
+		<title level="j">Istat</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.54,738.36,358.16,9.94" >
+	<monogr>
+		<title level="m" type="main">Happiness: Lessons from a New Science</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Layard</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<pubPlace>London, Allen Lane</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.54,101.68,120.21,9.94;32,197.57,101.68,48.36,9.94;32,263.81,101.68,8.52,9.94;32,290.23,101.68,37.90,9.94;32,346.03,101.68,29.04,9.94;32,392.94,101.68,29.81,9.94;32,440.57,101.68,49.91,9.94;32,508.36,101.68,24.80,9.94;32,87.86,114.28,201.77,9.94" >
+	<analytic>
+		<title level="a" type="main">Measuring Well-being in Mexican States</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2015" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.54,138.88,473.62,9.94;32,87.86,151.60,194.91,9.94" >
+	<analytic>
+		<title level="a" type="main">How&apos;s Life? 2015: Measuring Well-being</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2015" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.54,176.20,472.09,9.94;32,87.86,188.92,314.48,9.94" >
+	<analytic>
+		<title level="a" type="main">How&apos;s Life in Your Region?, Measuring Regional and Local Well-being for Policy Making</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2014" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.54,213.52,473.44,9.94;32,87.86,226.24,201.77,9.94" >
+	<analytic>
+		<title level="a" type="main">OECD Guidelines on Measuring Subjective Well-being</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2013" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.54,250.84,439.23,9.94" >
+	<analytic>
+		<title level="a" type="main">Measuring national well-being; Personal well-being in the UK</title>
+	</analytic>
+	<monogr>
+		<title level="j">Office for National Statistics</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.54,275.44,325.35,9.94" >
+	<analytic>
+		<title level="a" type="main">Commuting and personal well-being</title>
+	</analytic>
+	<monogr>
+		<title level="j">Office for National Statistics</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.54,300.19,473.01,9.94;32,87.86,312.79,83.51,9.94" >
+	<monogr>
+		<title level="m" type="main">Bowling Alone: The Collapse and Revival of American Community</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Putnam</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<publisher>Simon &amp; Schuster</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.54,337.51,473.56,9.94;32,87.86,350.11,56.22,9.94;32,168.93,350.11,15.94,9.94;32,209.72,350.11,27.54,9.94;32,262.14,350.11,40.64,9.94;32,327.79,350.11,39.68,9.94;32,392.32,350.11,10.98,9.94;32,428.26,350.11,104.86,9.94;32,87.86,362.71,185.07,9.94" >
+	<monogr>
+		<title level="m" type="main">Report by the Commission on the Measurement of Economic Performance and Social Progress</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">E</forename>
+				<surname>Stiglitz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J.-P</forename>
+				<surname>Fitoussi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.54,385.13,473.36,12.23;32,87.86,400.03,211.49,9.94" >
+	<monogr>
+		<title level="m" type="main">Stress that doesn&apos;t pay: the commuting paradox. IZA Discussion Paper n. 1278, available at</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Stutzer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Frey</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,2813 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_50"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="32,79.34,158.65,409.19,7.44;32,100.58,167.89,279.70,7.44;32,100.58,177.01,221.15,7.44" >
+	<monogr>
+		<title level="m" type="main">A Meta-Analysis of Rates of Return to Agricultural R&amp;D: Ex Pede Herculem?, IFPRI Research Report No. 113, IFPRI</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Alston</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Chan-Kang</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">C</forename>
+				<surname>Marra</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">G</forename>
+				<surname>Pardey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">J</forename>
+				<surname>Wyatt</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,192.25,416.07,7.44;32,100.58,201.49,256.51,7.44" >
+	<monogr>
+		<title level="m" type="main">Science Under Scarcity: Principles and Practice for Agricultural Research Evaluation and Priority Setting</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Alston</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Norton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Pardey</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995" />
+			<publisher>Cornell University Press</publisher>
+			<pubPlace>Ithaca, NY, US</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,216.61,411.39,7.44;32,100.58,225.85,226.43,7.44" >
+	<analytic>
+		<title level="a" type="main">Public investment in U.S. agricultural R&amp;D and the economic benefits</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Andersen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Policy</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">51</biblScope>
+			<biblScope unit="page" from="38" to="43" />
+			<date type="published" when="2015" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,241.09,417.95,7.44;32,100.58,248.70,413.37,8.96;32,100.58,259.45,205.92,7.44;32,100.58,268.72,345.73,7.44" >
+	<monogr>
+		<title level="m" type="main">EMBRAPA&apos;s experience on the impact assessment of agricultural R&amp;D: 15 years using a multidimensional approach, presented at the ImpAR Conference</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">F</forename>
+				<surname>Avila</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">S</forename>
+				<surname>Rodrigues</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">L</forename>
+				<surname>Vedovoto</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>De Camargo Penteado</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Filho</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Junior</forename>
+				<surname>Corrêa Da Fonseca</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<pubPlace>INRA, Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,283.84,430.96,7.44;32,100.58,291.57,377.43,8.95;32,100.58,302.32,213.10,7.44;32,100.58,311.44,266.77,7.44" >
+	<analytic>
+		<title level="a" type="main">ASTI global assessment of agricultural R&amp;D spending — Developing Countries Accelerate Investment Agricultural Science and Technology Indicators Initiative and IFPRI</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">M</forename>
+				<surname>Beintema</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G.-J</forename>
+				<surname>Stads</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">O</forename>
+				<surname>Fuglie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P.-W</forename>
+				<surname>Heisey</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Food Policy Report</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,326.68,431.91,7.44;32,100.58,335.92,284.28,7.44" >
+	<analytic>
+		<title level="a" type="main">What is societal impact of research and how can it be assessed? a literature survey</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Bornmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Society for Information Science and Technology</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="217" to="233" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,100.58,345.04,141.80,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,360.28,418.41,7.44;32,100.58,369.52,331.92,7.44;32,100.58,378.64,407.04,7.44;32,100.58,387.88,47.21,7.44" >
+	<monogr>
+		<title level="m" type="main">Public value mapping of science outcomes: theory and method. Knowledge flows and knowledge collectives: Understanding the role of science and technology policies in development/home/scientific-and-technical-human-capital/public-value-mapping-of-science-outcomes-theory- and-method</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Bozeman</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="3" to="48" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,403.12,427.36,7.44;32,100.58,412.24,256.69,7.44" >
+	<analytic>
+		<title level="a" type="main">R&amp;D value mapping: A new approach to case study-based evaluation</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Bozeman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Kingsley</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">J Technol Transfer</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="33" to="41" />
+			<date type="published" when="1997" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,427.48,426.99,7.44;32,100.58,436.72,179.14,7.44" >
+	<monogr>
+		<title level="m" type="main">Public Value Mapping and Science Policy Evaluation</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Bozeman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Sarewitz</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>DOI</publisher>
+			<biblScope unit="page" from="1" to="23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,452.10,432.64,7.44;32,100.58,461.22,401.03,7.44;32,100.58,470.46,164.99,7.44" >
+	<monogr>
+		<title level="m" type="main">Socio‐Economic Impacts and Public Value of Government-Funded Research: Lessons From Four US National Science Foundation Initiatives, presented at the ImpAR Conference</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Bozeman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Youtie</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<pubPlace>INRA, Paris, France</pubPlace>
+		</imprint>
+	</monogr>
+	<note>colloque. .inra.fr/impar/Program-Material</note>
+</biblStruct>
+
+<biblStruct coords="32,79.34,485.70,425.66,7.44;32,100.58,494.82,373.02,7.44;32,100.58,504.06,284.65,7.44" >
+	<analytic>
+		<title level="a" type="main">Agriculture for development, The World Bank</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Burch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Lawrence</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">P</forename>
+				<surname>Green</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Ichijo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Nonaka</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Pimentel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Bower</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Gilbert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Couto Filho</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Flavio</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Development Report</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>siteresources.worldbank.org/INTWDR2008/Resources/WDR_00_book.pdf</note>
+</biblStruct>
+
+<biblStruct coords="32,79.34,519.30,427.42,7.44;32,100.58,528.42,98.30,7.44" >
+	<analytic>
+		<title level="a" type="main">The sociology of an actor-network</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Callon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mapping the Dynamics of Science and Technology, M. Callon, J. Law, and A. Rip</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,542.15,438.15,8.95;32,100.58,552.90,376.36,7.44" >
+	<analytic>
+		<title level="a" type="main">The GCARD RoadMap — Transforming Agricultural Research for Development Systems for Global Impact</title>
+	</analytic>
+	<monogr>
+		<title level="j">CGARD</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,568.02,288.18,7.44" >
+	<analytic>
+		<title level="a" type="main">Impact Evaluation Guide, CSIRO, Performance &amp; Evaluation Unit</title>
+	</analytic>
+	<monogr>
+		<title level="j">CSIRO</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,583.26,438.48,7.44;32,100.58,592.50,413.28,7.44;32,100.58,601.62,113.98,7.44" >
+	<analytic>
+		<title level="a" type="main">The Impact of Direct Support to R&amp;D and Innovation in Firms</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Cunningham</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Gök</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Larédo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Compendium of Evidence on the Effectiveness of Innovation Policy</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,616.89,427.78,7.44;32,100.58,626.13,322.20,7.44" >
+	<analytic>
+		<title level="a" type="main">Understanding societal impact through productive interactions: ICT research as a case</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>De Jong</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Barker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Cox</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Sveinsdottir</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Van Den Besselaar</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="89" to="102" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,100.58,635.25,161.87,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,650.49,426.16,7.44;32,100.58,659.73,295.33,7.44" >
+	<analytic>
+		<title level="a" type="main">State of the art of assessing research impact: introduction to a special issue</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Donovan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="175" to="179" />
+			<date type="published" when="2011" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,674.85,417.86,7.44;32,100.58,684.09,392.79,7.44" >
+	<monogr>
+		<title level="m" type="main">The Australian Research Quality Framework: A live experiment in capturing the social, economic, environmental, and cultural returns of publicly funded research, New Directions for Evaluation</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Donovan</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="47" to="60" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,100.58,693.33,133.42,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,79.34,708.45,410.19,7.44;32,100.58,717.69,181.31,7.44" >
+	<analytic>
+		<title level="a" type="main">The qualitative future of research evaluation</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Donovan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science and Public Policy</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="585" to="597" />
+			<date type="published" when="2007" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,83.30,62.09,296.12,6.26;33,318.29,762.71,211.51,5.55" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Agricultural</forename>
+				<surname>Research</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Assessment</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Issues</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Methods</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Challenges</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Agriculture</forename>
+				<surname>Food</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>And</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Papers N°98 ©</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Oecd</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,99.30,424.71,8.96;33,100.58,110.05,214.68,7.44" >
+	<analytic>
+		<title level="a" type="main">The &quot; Payback Framework &quot; explained</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Donovan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Hanney</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="181" to="183" />
+			<date type="published" when="2011" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,125.17,420.11,7.44;33,100.58,134.41,397.40,7.44;33,100.58,143.65,335.03,7.44" >
+	<analytic>
+		<title level="a" type="main">Participatory impact pathways analysis: a practical application of program theory in research-for-development</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Douthwaite</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Alvarez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Cook</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Davies</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>George</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Howell</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Mackay</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Rubiano</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Canadian Journal of Program Evaluation</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,158.77,435.35,7.44;33,100.58,168.01,291.48,7.44" >
+	<analytic>
+		<title level="a" type="main">Impact pathway evaluation: an approach for achieving and attributing impact in complex systems</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Douthwaite</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Kuby</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Van De Fliert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Schulz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agricultural Systems</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="243" to="265" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,100.58,177.25,197.39,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="308" to="521" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,192.37,396.71,7.44;33,100.58,201.61,179.20,7.44" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">SOCIAL REPORT -Balanço Social 2014, EMBRAPA: Communication Secretariat</title>
+		<meeting><address><addrLine>Strategic, Management Secretariat, Brasilia, Distrito Federal</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,215.34,421.17,8.95;33,100.58,225.97,285.61,7.44" >
+	<analytic>
+		<title level="a" type="main">Agricultural Knowledge and Innovation Systems Towards the Future – a Foresight Paper</title>
+		<author>
+			<persName>
+				<forename type="first">Eu</forename>
+				<surname>Scar</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EU SCAR</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,241.21,412.63,7.44;33,100.58,250.45,210.47,7.44" >
+	<analytic>
+		<title level="a" type="main">Economic impacts of agricultural research and extension</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Evenson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">E</forename>
+				<surname>Gardner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Rausser</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Handbook of Agricultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="573" to="628" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,265.60,425.17,7.44;33,100.58,274.84,360.01,7.44" >
+	<analytic>
+		<title level="a" type="main">The academic policy analyst as reporter: The who, what and how of evaluating science and technology programmes</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Feller</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Learning from Science and Technology Policy Evaluation</title>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="18" to="31" />
+		</imprint>
+	</monogr>
+	<note>Edward. Elgar</note>
+</biblStruct>
+
+<biblStruct coords="33,79.34,288.57,415.68,8.96;33,100.58,297.69,190.91,8.96" >
+	<analytic>
+		<title level="a" type="main">Public R&amp;D and social challenges: What lessons from mission R&amp;D programs?</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Foray</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">C</forename>
+				<surname>Mowery</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">R</forename>
+				<surname>Nelson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="1697" to="1702" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,314.44,431.83,7.44;33,100.58,323.68,406.88,7.44;33,100.58,332.80,59.24,7.44" >
+	<analytic>
+		<title level="a" type="main">Total factor productivity in the global agricultural economy: Evidence from FAO data</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">O</forename>
+				<surname>Fuglie</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The Shifting Patterns of Agricultural Production and Productivity Worldwide</title>
+		<meeting><address><addrLine>Ames, Iowa</addrLine></address></meeting>
+		<imprint>
+			<publisher>Julian Alston, Bruce Babcock Philip Pardey</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="63" to="91" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,348.04,437.46,7.44;33,100.58,357.28,387.03,7.44" >
+	<analytic>
+		<title level="a" type="main">The contribution of private industry to agricultural innovation</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Fuglie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Heisey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>King</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">E</forename>
+				<surname>Pray</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Schimmelpfennig</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science, Policy Forum</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">338</biblScope>
+			<biblScope unit="page" from="1031" to="1032" />
+			<date type="published" when="2012" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,372.40,404.30,7.44;33,100.58,381.64,386.68,7.44" >
+	<analytic>
+		<title level="a" type="main">The evolving institutional structure of public and private agricultural research</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">O</forename>
+				<surname>Fuglie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">A</forename>
+				<surname>Toole</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Agricultural Economics</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="862" to="883" />
+			<date type="published" when="2014" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,396.88,429.16,7.44;33,100.58,406.00,276.25,7.44" >
+	<analytic>
+		<title level="a" type="main">Socio-economic effects of collaborative R&amp;D—European experiences</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Georghiou</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Technology Transfer</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="69" to="79" />
+			<date type="published" when="1999" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,421.24,439.06,7.44;33,100.58,430.48,288.72,7.44;33,100.58,439.62,414.56,7.44;33,100.58,448.86,213.59,7.44" >
+	<monogr>
+		<title level="m" type="main">Assessing the Socio-economic Impacts of the Framework Programme</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Georghiou</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Rigby</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Cameron</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Vonortas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Prastacos</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Spanos</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Kuhlmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Heinze</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<pubPlace>PREST, Manchester</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,464.10,429.50,7.44;33,100.58,473.22,354.84,7.44" >
+	<monogr>
+		<title level="m" type="main">The new production of knowledge: Dynamics of Science and Research in Contemporary Societies</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Gibbons</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Limoges</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Nowotny</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Schwartzman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Scott</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Trow</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>SAGE Publications Ltd</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,488.46,413.01,7.44;33,100.58,497.70,226.07,7.44" >
+	<analytic>
+		<title level="a" type="main">Research costs and social returns: hybrid corn and related innovations</title>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+				<surname>Griliches</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Political Econnomy</title>
+		<imprint>
+			<biblScope unit="volume">66</biblScope>
+			<biblScope unit="page" from="419" to="431" />
+			<date type="published" when="1958" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,511.31,412.57,8.96;33,100.58,520.55,355.08,8.96;33,100.58,531.30,157.55,7.44" >
+	<analytic>
+		<title level="a" type="main">Distinguishing between yield advances and yield plateaus in historical crop production trends</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Grassini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">M</forename>
+				<surname>Eskridge</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">G</forename>
+				<surname>Cassman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature communications</title>
+		<imprint>
+			<publisher>Nature Publishing Group DOI</publisher>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">2918</biblScope>
+			<date type="published" when="2013" />
+			<publisher>Nature Publishing Group DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,546.42,417.23,7.44;33,100.58,555.66,280.44,7.44;33,100.58,564.78,142.79,7.44" >
+	<analytic>
+		<title level="a" type="main">An assessment of the impact of the NHS Health Technology Assessment Programme</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Hanney</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Buxton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Green</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Coulson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Raftery</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Technology Assessment</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">11</biblScope>
+			<date type="published" when="2007" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,580.02,438.89,7.44;33,100.58,587.75,401.55,8.95;33,100.58,598.38,387.76,7.44" >
+	<analytic>
+		<title level="a" type="main">Assessing the Benefits of Public Research Within an Economic Framework — The Case of USDA&apos;s Agricultural Research Service</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Heisey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">L</forename>
+				<surname>King</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Rubenstein</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">A</forename>
+				<surname>Bucks</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Welsh</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Research Report</title>
+		<imprint>
+			<biblScope unit="issue">95</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,613.62,411.92,7.44;33,100.58,622.89,348.36,7.44" >
+	<analytic>
+		<title level="a" type="main">Re-examining the Reported Rates of Return to Food and Agricultural Research and Development</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">M</forename>
+				<surname>Hurley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Rao</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">G</forename>
+				<surname>Pardey</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Agricultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="1492" to="1504" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,100.58,632.01,153.47,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,647.25,405.75,7.44;33,100.58,656.49,414.03,7.44;33,100.58,665.61,403.13,7.44;33,100.58,674.85,388.72,7.44" >
+	<analytic>
+		<title level="a" type="main">Sustainable agricultural productivity growth and bridging the gap for small-family farms, Interagency Report to the Mexican G20 Presidency, with contributions by Bioversity, CGIAR Consortium Coordination team of UN High Level Task Force on the Food Security Crisis</title>
+	</analytic>
+	<monogr>
+		<title level="j">Interagency Report</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,690.09,428.13,7.44;33,100.58,699.21,406.83,7.44" >
+	<analytic>
+		<title level="a" type="main">ASIRPA: A comprehensive theory-based approach to assessing the societal impacts of a research organization</title>
+		<author>
+			<persName>
+				<forename type="first">P.-B</forename>
+				<surname>Joly</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Gaunand</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Colinet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Larédo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Lemarié</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Matt</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="440" to="453" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,100.58,708.45,161.39,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,79.34,722.18,412.38,8.96;33,100.58,732.81,386.32,7.44;34,217.13,59.30,312.65,9.94" >
+	<analytic>
+		<title level="a" type="main">Opportunities for impact: Statistical analysis of the National Science Foundation&apos;s broader impacts criterion</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+				<surname>Kamenetzky</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">AGRICULTURAL RESEARCH IMPACT ASSESSMENT: ISSUES, METHODS AND CHALLENGES– 33</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="72" to="84" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,65.16,762.71,211.57,5.55" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+				<surname>Food</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Agriculture</forename>
+				<surname>And</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Papers N°98 ©</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Oecd</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,99.30,439.46,8.96;34,100.58,110.05,382.24,7.44" >
+	<analytic>
+		<title level="a" type="main">Technology transfer and absorption: An &quot; R &amp; D value-mapping &quot; approach to evaluation</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Kingsley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Bozeman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Coker</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">96</biblScope>
+			<biblScope unit="page" from="967" to="9950048" />
+			<date type="published" when="1996" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,125.17,439.28,7.44;34,100.58,134.41,160.49,7.44" >
+	<monogr>
+		<title level="m" type="main">Innovation as a Social Process: What Does this Mean for Impact Assessment in Agricultural Research</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Kuby</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<pubPlace>Costa Rica</pubPlace>
+		</imprint>
+	</monogr>
+	<note>presented. at the CIAT workshop</note>
+</biblStruct>
+
+<biblStruct coords="34,79.34,148.14,439.41,8.96;34,100.58,158.77,356.77,7.44" >
+	<monogr>
+		<title level="m" type="main">Evaluation as a source of &apos;strategic intelligence&apos;&quot;, in: Learning from Science and Technology Policy Evaluation: Experiences from the United States and Europe</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Kuhlmann</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="352" to="379" />
+			<pubPlace>Shapira, P., Kuhlmann, S</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,174.01,439.36,7.44;34,100.58,183.25,418.20,7.44;34,100.58,192.37,91.64,7.44" >
+	<analytic>
+		<title level="a" type="main">CGIAR and NARS partner research in sub-Saharan Africa: evidence of impact to date</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">K</forename>
+				<surname>Maredia</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">A</forename>
+				<surname>Raitzer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science Council Secretariat</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>impact. .cgiar.org/sites/default/files/pdf/Maredia- Raitzer_October2006.pdf</note>
+</biblStruct>
+
+<biblStruct coords="34,79.34,207.61,439.49,7.44;34,100.58,216.85,309.65,7.44" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Molas-Gallart</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Salter</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Patel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Scott</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Duran</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Measuring third stream activities (Final Report to the Russell Group of Universities)</title>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,230.46,439.62,8.96;34,100.58,241.21,409.72,7.44" >
+	<analytic>
+		<title level="a" type="main">Tracing &quot; productive interactions &quot; to identify social impacts: an example from the social sciences</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Molas-Gallart</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Tang</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="219" to="226" />
+			<date type="published" when="2011" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,256.45,439.58,7.44;34,100.58,265.60,413.08,7.44" >
+	<analytic>
+		<title level="a" type="main">Public-Private Partnerships for Agricultural Innovation: Lessons From Recent Experiences</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Moreddu</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Food, Agriculture and Fisheries Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">92</biblScope>
+			<date type="published" when="2016" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,280.84,439.60,7.44;34,100.58,290.08,418.44,7.44;34,100.58,299.20,63.20,7.44" >
+	<analytic>
+		<title level="a" type="main">Agricultural Research and Innovation Systems in Transition</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Moreddu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">J</forename>
+				<surname>Poppe</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">EuroChoices Special Issue: Innovation in Agri-food</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="15" to="20" />
+			<date type="published" when="2013-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,314.44,439.26,7.44;34,100.58,322.17,418.35,8.96" >
+	<analytic>
+		<title level="a" type="main">Technology policy and global warming: Why new policy models are needed (or why putting new wine in old bottles won&apos;t work)</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">C</forename>
+				<surname>Mowery</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">R</forename>
+				<surname>Nelson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">R</forename>
+				<surname>Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="1011" to="1023" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,100.58,332.80,182.02,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Doi</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,348.04,438.98,7.44;34,100.58,357.28,386.32,7.44" >
+	<analytic>
+		<title level="a" type="main">Agricultural research priority setting under multiple objectives: an example from Zimbabwe</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Mutangadura</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">W</forename>
+				<surname>Norton</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agricultural Economics</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="issue">99</biblScope>
+			<biblScope unit="page" from="277" to="286" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,372.40,434.96,7.44;34,100.58,381.64,201.34,7.44" >
+	<analytic>
+		<title level="a" type="main">Agricultural Innovation Systems: A Framework for Analysing the Role of the Government</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2013" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,396.88,405.35,7.44;34,100.58,406.00,242.89,7.44" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Improving Agricultural Knowledge and Innovation Systems: OECD Conference Proceedings</title>
+		<meeting><address><addrLine>Paris. DOI</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,421.24,428.32,7.44;34,100.58,430.48,408.86,7.44" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">G</forename>
+				<surname>Pardey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Chan-Kang</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Dehmer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Beddow</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">M</forename>
+				<surname>Hurley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Rao</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Alston</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Investments in and the Economic Returns to Agricultural and Food R&amp;D Worldwide Encyclopedia of Agriculture and Food Systems</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>ed</note>
+</biblStruct>
+
+<biblStruct coords="34,100.58,439.62,402.60,7.44;34,100.58,448.86,79.04,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Neal</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Van Alfen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Academic Press</publisher>
+			<biblScope unit="page" from="78" to="97" />
+			<pubPlace>Oxford, United Kingdom</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,464.10,434.74,7.44;34,100.58,473.22,247.34,7.44;34,100.58,482.46,310.92,7.44" >
+	<analytic>
+		<title level="a" type="main">Report to the President on Agricultural Preparedness &amp; the United States Agricultural Research Enterprise, President&apos;s Council of Advisors on Science and Technology (PCAST). www.whitehouse.gov/sites</title>
+	</analytic>
+	<monogr>
+		<title level="j">PCAST</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>default. /files/microsites/ostp/pcast_agriculture_20121207.pdf</note>
+</biblStruct>
+
+<biblStruct coords="34,79.34,497.70,167.14,7.44" >
+	<monogr>
+		<title level="m" type="main">The audit explosion</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Power</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<pubPlace>Demos</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,511.31,414.76,8.96;34,100.58,520.55,278.52,8.96;34,100.58,531.30,157.55,7.44" >
+	<analytic>
+		<title level="a" type="main">Recent patterns of crop yield growth and stagnation</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">K</forename>
+				<surname>Ray</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Ramankutty</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">D</forename>
+				<surname>Mueller</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">C</forename>
+				<surname>West</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Foley</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature communications</title>
+		<imprint>
+			<publisher>Nature Publishing Group DOI</publisher>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">1293</biblScope>
+			<date type="published" when="2012" />
+			<publisher>Nature Publishing Group DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,546.42,417.44,7.44;34,100.58,555.66,371.41,7.44" >
+	<monogr>
+		<title level="m" type="main">Societal challenges for R&amp;D evaluation, in: Learning from Science and Technology Policy Evaluation: Experiences from the United States and Europe</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rip</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="32" to="53" />
+			<pubPlace>Shapira, P., Kuhlmann, S, Chetltenham, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,570.78,437.35,7.44;34,100.58,580.02,385.38,7.44;34,100.58,589.26,158.03,7.44" >
+	<analytic>
+		<title level="a" type="main">An environmental impact assessment system for agricultural research and development ii: institutional learning experience at Embrapa</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">S</forename>
+				<surname>Rodrigues</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">C</forename>
+				<surname>De Almeida Buschinelli</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">F</forename>
+				<surname>Dias</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Avila</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of technology management &amp; innovation</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="38" to="56" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,602.87,436.62,8.96;34,100.58,613.62,357.30,7.44" >
+	<analytic>
+		<title level="a" type="main">A Toolkit for Evaluating Public R&amp;D Investment: Models, Methods, and Findings from ATP&apos;s First Decade</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ruegg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Feller</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">National Institute of Standards and Technology</title>
+		<meeting><address><addrLine>Gaithersburg</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,628.89,438.06,7.44;34,100.58,638.01,393.21,7.44;34,100.58,647.25,311.89,7.44" >
+	<monogr>
+		<title level="m" type="main">Overview of evaluation methods for R&amp;D programmes: A Directory of Evaluation Methods Relevant to Technology Development Programmes</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ruegg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Jordan</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>The National academies Press</publisher>
+			<pubPlace>Washington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,662.49,345.80,7.44;34,100.58,671.61,140.87,7.44;34,100.58,680.85,333.24,7.44" >
+	<monogr>
+		<title level="m" type="main">Measuring the impact of research: the context for metric development, Group of eight Backgrounder No</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Rymer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,696.09,431.99,7.44;34,100.58,705.21,298.33,7.44" >
+	<analytic>
+		<title level="a" type="main">The economic benefits of publicly funded basic research: a critical review</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">J</forename>
+				<surname>Salter</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">R</forename>
+				<surname>Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">00</biblScope>
+			<biblScope unit="page" from="509" to="532" />
+			<date type="published" when="2001" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,79.34,720.45,432.87,7.44;34,100.58,729.69,246.48,7.44" >
+	<analytic>
+		<title level="a" type="main">Technology policy for a world of skew-distributed outcomes</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Scherer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Harhoff</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Policy</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="issue">99</biblScope>
+			<biblScope unit="page" from="559" to="566" />
+			<date type="published" when="2000" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,83.30,62.09,296.12,6.26;35,318.29,762.71,211.51,5.55" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Agricultural</forename>
+				<surname>Research</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Assessment</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Issues</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Methods</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Challenges</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Agriculture</forename>
+				<surname>Food</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>And</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Papers N°98 ©</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Oecd</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,79.34,100.81,439.44,7.44;35,100.58,110.05,125.38,7.44" >
+	<monogr>
+		<title level="m" type="main">Learning from Science and Technology Policy Evaluation</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Shapira</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Kuhlmann</surname>
+			</persName>
+		</author>
+		<editor>Elgar. ed. Shapira, P.</editor>
+		<imprint>
+			<date type="published" when="2003" />
+			<pubPlace>Kuhlmann, S, Chetltenham, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,79.34,125.17,439.31,7.44;35,100.58,134.41,407.43,7.44" >
+	<analytic>
+		<title level="a" type="main">Public investment in agricultural R&amp;D and extension: an analysis of the static and dynamic effects on Australian broadacre productivity</title>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Sheng</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">M</forename>
+				<surname>Gray</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">D</forename>
+				<surname>Mullen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Davidson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ABARES Research Report</title>
+		<imprint>
+			<biblScope unit="issue">117</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,79.34,148.14,439.63,8.96;35,100.58,158.77,334.81,7.44" >
+	<analytic>
+		<title level="a" type="main">Introducing &quot; productive interactions &quot; in social assessment</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Spaapen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Van Drooge</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="211" to="218" />
+			<date type="published" when="2011" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,79.34,174.01,438.99,7.44;35,100.58,183.25,381.88,7.44" >
+	<analytic>
+		<title level="a" type="main">Is the share of agricultural maintenance research rising in the United States?</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Sparger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">W</forename>
+				<surname>Norton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">W</forename>
+				<surname>Heisey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Alwang</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Policy</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">38</biblScope>
+			<biblScope unit="page" from="126" to="135" />
+			<date type="published" when="2013" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,79.34,198.37,439.38,7.44;35,100.58,207.61,417.91,7.44;35,100.58,216.85,417.93,7.44;35,100.58,225.97,164.99,7.44" >
+	<monogr>
+		<title level="m" type="main">Towards a generic, comprehensive and participatory approach for assessing the impact of agricultural research in developing countries, presented at the ImpAR conference</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Triomphe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Barret</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Clavel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">H</forename>
+				<surname>Dabat</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Devaux-Sparatakis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Faure</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Hainzelin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Mathé</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Temple</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Toillier</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<publisher>Program-Material</publisher>
+			<pubPlace>INRA, Paris, France</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,79.34,241.21,439.56,7.44;35,100.58,250.45,418.09,7.44;35,100.58,259.57,403.24,7.44" >
+	<monogr>
+		<title level="m" type="main">Strategic Guidance for Ex Post Impact Assessment of Agricultural Research, report prepared for the Standing Panel on Impact Assessment</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Walker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Maredia</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Kelley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">L</forename>
+				<surname>Rovere</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Templeton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Thiele</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Douthwaite</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>Rome</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,79.34,274.84,439.45,7.44;35,100.58,284.08,106.30,7.44" >
+	<monogr>
+		<title level="m" type="main">One Billion Hungry: Can We Feed the World? Facts and Figure, Agriculture for Impact</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Wilson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>Cornstock Pub Associates</publisher>
+			<pubPlace>Ithaca, New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,79.34,299.20,439.23,7.44;35,100.58,308.44,417.86,7.44;35,100.58,317.68,341.65,7.44" >
+	<analytic>
+		<title level="a" type="main">Buxton on behalf of the Project Retrosight TeamUnderstanding factors associated with the translation of cardiovascular research: a multinational case study approach</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Wooding</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">R</forename>
+				<surname>Hanney</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Pollitt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Grant</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Implementation Science</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="471748" to="5908" />
+			<date type="published" when="2014" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,79.34,332.80,439.46,7.44;35,100.58,342.04,418.07,7.44;35,100.58,351.28,62.84,7.44" >
+	<analytic>
+		<title level="a" type="main">Agricultural innovation Accelerating Energy Innovation: Insights from Multiple Sectors</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">D</forename>
+				<surname>Wright</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">M</forename>
+				<surname>Shih</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research</title>
+		<editor>R.M. Henderson and R.G. Newell</editor>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<biblScope unit="page" from="49" to="85" />
+			<date type="published" when="2011" />
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,329.95,762.80,200.42,5.40" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+				<surname>Food</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Agriculture</forename>
+				<surname>And</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Papers N°98 ©</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Oecd</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,101.20,439.07,8.33;51,79.34,111.52,136.50,8.33;51,100.58,127.96,418.31,8.32;51,79.34,138.28,439.18,8.32;51,79.34,148.60,53.09,8.32" >
+	<analytic>
+		<title level="a" type="main">It will be important to see if these recommendations influence the monitoring and evaluation system In terms of results, between 2013 and 2015, the IEA supported the evaluation of all 15 CRPs. It also carried out a few cross-cutting thematic evaluations such as Capacity Strengthening</title>
+	</analytic>
+	<monogr>
+		<title level="m">agricultural research can contribute</title>
+		<imprint>
+			<publisher>Gender and Partnerships</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,100.58,163.24,417.81,10.03;51,79.34,175.36,91.30,8.32;51,170.69,172.95,6.70,5.55;51,177.41,175.36,341.40,8.32;51,79.34,185.68,412.42,8.32;51,100.58,202.00,418.15,8.32;51,79.34,212.32,438.95,8.32;51,79.34,222.76,330.00,8.32" >
+	<analytic>
+		<title level="a" type="main">CRPs&apos; evaluation results are used for communication purposes (the evaluation documents are published on the CGIAR website 39 ) but also for internal learning With the completion of Phase I evaluation, the IEA is planning to conduct a synthesis to build on the evaluative evidence from the 15 CRP evaluation reports. Evaluations are accompanied by a Management Response and an action plan. Thus CRPs are expected to implement the recommendations in an agreed timeline. Some CRP evaluation reports may contribute to decisions regarding fund allocation</title>
+	</analytic>
+	<monogr>
+		<title level="m">or structural changes in CRPs</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,244.96,64.60,8.32;51,100.58,261.43,417.85,8.32;51,79.34,271.75,100.08,8.32" >
+	<monogr>
+		<title level="m" type="main">Key references In addition to an interview conducted with members of SPIA, IEA and a CRP</title>
+		<imprint/>
+	</monogr>
+	<note>some. key bibliographic documents were studied</note>
+</biblStruct>
+
+<biblStruct coords="51,79.34,287.95,416.55,8.32;51,100.58,298.51,412.14,8.32;51,100.58,308.83,251.19,8.32" >
+	<monogr>
+		<title level="m" type="main">Advancing ex-post impact assessment of environmental and social impacts of CGIAR research, paper submitted to the Standing Panel on Impact Assessment of the CGIAR Science Council</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Bennett</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,325.03,387.24,8.32" >
+	<analytic>
+		<title level="a" type="main">CGIAR Strategy and Results Framework 2016-2030. www.cgiar.org/our-strategy</title>
+	</analytic>
+	<monogr>
+		<title level="j">CGIAR</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,341.47,398.34,8.32;51,100.58,351.91,414.92,8.32" >
+	<monogr>
+		<title level="m" type="main">A Stripe Review of Natural Resources Management Research in the CGIAR, Independent Science and Partnership Council Secretariat</title>
+		<imprint>
+			<date type="published" when="2012" />
+			<pubPlace>Rome</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,368.23,433.35,8.32;51,100.58,378.55,382.91,8.32;51,100.58,388.87,404.20,8.32;51,100.58,399.31,401.87,8.32;51,100.58,409.63,404.82,8.32;51,100.58,419.95,318.90,8.32" >
+	<analytic>
+		<title level="a" type="main">Recent Advances in Impact Analysis Methods for Ex-post Impact Assessments of Agricultural Technology: Options for the CGIAR Report prepared for the workshop: Increasing the rigor of ex-post impact assessment of agricultural research: A discussion on estimating treatment effects, organized by the CGIAR Standing Panel on Impact Assessment (SPIA</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>De Janvry</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Dunstan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Sadoulet</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Independent Science and Partnership Council Secretariat</title>
+		<meeting><address><addrLine>Berkeley, California, USA ; Rome, Italy</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>impact. .cgiar.org/sites/default/files/docs/deJanvryetal2011.pdf</note>
+</biblStruct>
+
+<biblStruct coords="51,79.34,436.27,430.31,8.32;51,100.58,446.73,358.38,8.32" >
+	<analytic>
+		<title level="a" type="main">Guidance for Managing the Independent External Evaluation of CGIAR Research Programmes (CRPs) (IEA Guidance Note G1), IEA CGIAR</title>
+	</analytic>
+	<monogr>
+		<title level="j">IEA</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,463.05,320.93,8.32;51,100.58,473.37,320.94,8.32" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Iea</forename>
+				<surname>Cgiar</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">CGIAR standards for Independent external Evaluation</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,489.69,300.39,8.32" >
+	<monogr>
+		<title level="m" type="main">IEA evaluation reports of CRPs available on http</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,506.13,361.38,8.32" >
+	<monogr>
+		<title level="m" type="main">IEA guiding documents for external evaluation available on http</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,522.33,436.89,8.33;51,100.58,532.65,244.46,8.33;51,100.58,543.09,204.39,8.33" >
+	<analytic>
+		<title level="a" type="main">Enhancing ex-post impact assessment of agricultural research: the CGIAR experience</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Kelley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Ryan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Gregersen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,559.53,437.85,8.33;51,100.58,569.73,400.56,8.33;51,100.58,580.17,204.39,8.33" >
+	<analytic>
+		<title level="a" type="main">Assessing the contribution of impact assessment to donor decisions for international agricultural research</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">A</forename>
+				<surname>Raitzer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">G</forename>
+				<surname>Kelley</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="187" to="199" />
+			<date type="published" when="2008" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,596.37,420.75,8.33;51,100.58,606.81,324.42,8.33" >
+	<analytic>
+		<title level="a" type="main">The impacts of CGIAR research: A review of recent evidence</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Renkow</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Byerlee</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Food Policy</title>
+		<imprint>
+			<publisher>DOI</publisher>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="391" to="402" />
+			<date type="published" when="2010" />
+			<publisher>DOI</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,79.34,623.28,270.61,8.33;51,100.58,633.60,366.30,8.33;51,65.18,732.09,11.12,7.44;51,107.66,732.09,109.07,7.44" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Cgiar</forename>
+				<surname>Spia</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Rome</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SPIA</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>SIAC. Program Progress Report,</note>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

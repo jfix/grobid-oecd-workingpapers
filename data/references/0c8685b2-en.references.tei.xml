@@ -1,0 +1,558 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_5"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="31,70.94,148.62,434.81,8.96;31,99.26,160.14,386.81,8.96" >
+	<analytic>
+		<title level="a" type="main">Behavioural economics as applied to firms: a primer</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Amstrong</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Huck</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Competition Policy International</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,183.66,450.47,8.96;31,99.26,195.18,285.55,8.96" >
+	<analytic>
+		<title level="a" type="main">Behavioural Economics, Handbook of the</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Angner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Loewenstein</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Philosophy of Science</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,218.70,444.89,8.96;31,99.26,230.22,379.60,8.96" >
+	<analytic>
+		<title level="a" type="main">Existence of an Equilibrium for a Competitive Economy</title>
+		<author>
+			<persName>
+				<forename type="first">Debreu</forename>
+				<surname>Arrow</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="265" to="290" />
+			<date type="published" when="1954" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,253.62,416.37,8.96;31,99.26,265.14,335.51,8.96;31,99.26,276.69,175.93,8.96" >
+	<analytic>
+		<title level="a" type="main">Behavioral economics: Reunifying psychology and economics</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">F</forename>
+				<surname>Camerer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Proceedings of the National Academy of Sciences (PNAS)</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="10575" to="10577" />
+			<date type="published" when="1999-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,300.21,415.77,8.96;31,99.26,311.73,209.65,8.96;31,99.26,323.13,408.38,8.96" >
+	<monogr>
+		<title level="m" type="main">Behavioral Economics: Past, Present, Future in Advances in Behavioural Economics</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">F</forename>
+				<surname>Camerer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Loewenstein</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+	<note>gl20. /GeorgeLoewenstein/Papers_files/pdf/BehEconPastPresentFuture.pdf</note>
+</biblStruct>
+
+<biblStruct coords="31,70.94,346.65,422.92,8.96;31,99.26,358.17,406.97,8.96;31,99.26,369.69,237.14,8.96" >
+	<monogr>
+		<title level="m" type="main">The Netherlands Authority for Consumers and Markets (2013) Behavioural Economics and Competition Policy, www.acm.nl/en/publications/publication/11610/ACM-publishes- study-into-behavioural-economics-and-competition-policy</title>
+		<author>
+			<persName>
+				<forename type="first">&amp;</forename>
+				<surname>Consument</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Markt</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,393.21,443.45,8.96;31,99.26,404.73,285.14,8.96;31,99.26,416.13,417.28,8.96" >
+	<analytic>
+		<title level="a" type="main">Behavioral economics: implications for regulatory behaviour</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Cooper</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">E</forename>
+				<surname>Kovacic</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Regulatory Economics</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="41" to="58" />
+			<date type="published" when="2012-02" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,439.65,452.65,8.96;31,99.26,451.17,237.42,8.96;31,99.26,462.71,343.08,8.96" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Dolan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Dr</forename>
+				<surname>Halpern</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>King</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Vlaev</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Hallsworth</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">MINDSPACE, Influencing behaviour through public policy, UK Cabinet Office/Institute for Government</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,486.23,452.59,8.96;31,99.26,497.75,386.15,8.96;31,70.94,521.15,451.71,8.96;31,99.26,532.67,382.23,8.96;31,99.26,544.19,424.19,8.96" >
+	<analytic>
+		<title level="a" type="main">Applying behavioural economics at the Financial Conduct Authority, Occasional Paper 1, www.fca.org.uk/static/documents/occasional-papers/occasional-paper-1.pdf Financial literacy and education Russian Trust Fund (2013), Improving financial education effectiveness through behavioural economics</title>
+	</analytic>
+	<monogr>
+		<title level="m">Financial Conduct Authority (FCA)</title>
+		<imprint>
+			<date type="published" when="2013-02" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,567.71,428.68,8.96;31,99.26,579.23,384.92,8.96;31,99.26,590.75,252.34,8.96;31,99.26,602.15,423.33,8.96;31,99.26,613.67,123.42,8.96" >
+	<analytic>
+		<title level="a" type="main">Increasing Savings Behavior Through Age-Progressed Renderings of the Future Self</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">E</forename>
+				<surname>Hershfield</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">G</forename>
+				<surname>Goldstein</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">F</forename>
+				<surname>Sharpe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Fox</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Yeykelis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">L</forename>
+				<surname>Carstensen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">N</forename>
+				<surname>Bailenson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">XLVIII</biblScope>
+			<biblScope unit="page" from="23" to="37" />
+			<date type="published" when="2011-11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,637.19,422.04,8.96;31,99.26,648.74,132.20,8.96;31,99.26,660.26,336.88,8.96" >
+	<monogr>
+		<title level="m" type="main">Kahneman and Tversky and the origin of behavioral economics, Tinbergen Institute Discussion Paper TI 2007-003</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Heukelom</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,683.66,445.39,8.96;31,99.26,695.18,398.48,8.96" >
+	<analytic>
+		<title level="a" type="main">Prospect Theory: An analysis of decision under risk</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Kahneman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Tversky</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="263" to="292" />
+			<date type="published" when="1979-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,70.94,718.70,292.34,8.96;31,99.26,730.22,203.97,8.96" >
+	<monogr>
+		<title level="m" type="main">Regulatory Policy and Behavioural Economics</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Lunne</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<pubPlace>OECD, DOI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,70.94,100.02,426.16,8.96;32,99.26,111.54,261.85,8.96" >
+	<monogr>
+		<title level="m" type="main">Economics Behaving Badly, OpEd Newx York Times</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Loewenstein</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Hubel</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010-07-14" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,70.94,135.06,429.02,8.96;32,99.26,146.46,282.69,8.96;32,70.94,169.98,423.53,8.96;32,99.26,181.50,218.62,8.96;32,70.94,205.02,388.01,8.96;32,99.26,216.54,173.76,8.96;32,99.26,228.06,314.30,8.96;32,70.94,251.46,447.65,8.96;32,99.26,262.98,27.41,8.96;32,70.94,286.53,432.67,8.96;32,99.26,298.05,228.95,8.96" >
+	<analytic>
+		<title level="a" type="main">Implications of behavioural economics for mandatory individual account pension systems, www.oecd.org/finance/private-pensions/39368306 Improving financial education and awareness on insurance and private pensions, www.oecd.org/finance/financial-education/ improvingfinancialeducationandawarenessoninsuranceandprivatepensions</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Mcauley</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">When does behavioural economics really matter? Australian Economic Forum Consumer Policy toolkit Behavioural Insights and Public Policy: Lessons from Around the World</title>
+		<meeting><address><addrLine>Paris. DOI</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD OECD Publishing</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,70.94,321.57,239.18,8.96" >
+	<monogr>
+		<title level="m" type="main">The Mind and Society</title>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Pareto</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1935" />
+			<publisher>Kessinger Pub Co</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,70.94,345.09,423.51,8.96;32,99.26,356.49,207.70,8.96" >
+	<monogr>
+		<title level="m" type="main">Behavioral Economics: New or new to you? www.linkedin.com/pulse/20140424183336- 6511942-behavioral-economics-new-or-new-to-you</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Pettit</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,70.94,380.01,221.88,8.96" >
+	<monogr>
+		<title level="m" type="main">Salmuelson (1947) Foundations of Economics Analysis</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,70.94,403.53,303.16,8.96" >
+	<monogr>
+		<title level="m" type="main">Models of man, social and rational</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">A</forename>
+				<surname>Simon</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1957" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note>1st. edition</note>
+</biblStruct>
+
+<biblStruct coords="32,70.94,427.05,379.79,8.96" >
+	<monogr>
+		<title level="m" type="main">The Theory of Moral Sentiments, www.econlib.org/library/Smith/smMS</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Smith</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1790" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,70.94,450.57,427.33,8.96;32,99.26,462.11,381.43,8.96" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Thaler</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Sunstein</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Libertarian Paternalism</title>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="175" to="179" />
+		</imprint>
+	</monogr>
+	<note>ucsd. .edu/~jandreon/Econ264/papers/Thaler%20Sunstein%20AER%202003.pdf</note>
+</biblStruct>
+
+<biblStruct coords="32,70.94,485.51,431.20,8.96;32,99.26,497.03,65.75,8.96;32,70.94,520.55,218.41,8.96;32,99.26,532.07,389.43,8.96" >
+	<monogr>
+		<title level="m" type="main">Nudge: Improving Decisions About Health, Wealth, and Happiness</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Thaler</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Sunstein</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>Yale University Press UK Cabinet Office Behavioural Insights Team</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,70.94,555.59,438.17,8.96;32,99.26,566.99,336.83,8.96;32,99.26,578.51,157.01,8.96;45,113.42,97.94,411.03,12.23;45,113.42,112.84,77.92,9.94;45,113.42,131.56,305.72,9.94;45,113.42,150.16,411.16,9.94;45,113.42,162.88,77.92,9.94;45,113.42,181.48,411.15,9.94;45,113.42,194.08,131.69,9.94;45,113.42,212.80,336.48,9.94;45,113.42,231.40,332.53,9.94;45,113.42,250.12,301.17,9.94;45,113.42,268.72,242.90,9.94;45,113.42,287.35,301.75,9.94;45,113.42,306.07,411.06,9.94;45,113.42,318.67,174.78,9.94;45,113.42,337.39,325.35,9.94;45,113.42,355.99,289.97,9.94;45,113.42,374.71,411.02,9.94;45,113.42,387.31,183.05,9.94;45,70.94,412.15,22.08,9.94;45,113.42,430.63,288.46,9.94;45,113.42,449.23,323.82,9.94;45,113.42,467.97,204.62,9.94;45,113.42,486.57,310.77,9.94;45,113.42,505.17,410.88,9.94;45,113.42,517.89,100.90,9.94;45,70.94,542.73,22.08,9.94;45,113.42,558.91,410.97,12.23;45,113.42,573.81,74.28,9.94;45,113.42,592.41,172.95,9.94;45,113.42,611.13,251.76,9.94;45,113.42,629.73,411.18,9.94;45,113.42,642.45,131.34,9.94;45,113.42,661.08,378.08,9.94;45,113.42,679.68,410.75,9.94;45,113.42,692.40,157.20,9.94;46,70.94,100.48,269.32,9.94;46,70.94,125.08,22.08,9.94;46,113.42,143.56,411.00,9.94;46,113.42,156.16,42.57,9.94;46,113.42,172.58,411.13,12.23;46,113.42,187.48,43.37,9.94;46,113.42,206.08,304.28,9.94;46,70.94,231.04,22.08,9.94;46,113.42,249.40,295.30,9.94;46,113.42,268.12,370.65,9.94;46,113.42,286.75,331.93,9.94;46,113.42,305.35,241.08,9.94;46,113.42,324.07,349.08,9.94;46,113.42,342.67,219.09,9.94;46,113.42,361.39,244.31,9.94;46,113.42,379.99,114.64,9.94;46,113.42,398.71,365.57,9.94;46,70.94,423.55,22.08,9.94;46,113.42,441.91,229.66,9.94;46,113.42,460.65,212.01,9.94;46,113.42,479.25,192.50,9.94;46,113.42,497.97,148.83,9.94;46,113.42,516.57,200.16,9.94;46,113.42,535.17,207.50,9.94;46,113.42,553.89,384.56,9.94;46,113.42,572.49,152.43,9.94;46,113.42,591.21,187.36,9.94;46,113.42,609.81,149.46,9.94;46,113.42,628.41,203.81,9.94;46,113.42,647.16,379.22,9.94;46,113.42,665.76,410.83,9.94;46,113.42,678.48,42.80,9.94;46,113.42,697.08,223.63,9.94;47,70.94,100.48,22.08,9.94;47,113.42,118.84,294.13,9.94;47,113.42,137.56,217.59,9.94;47,113.42,156.16,410.88,9.94;47,113.42,168.88,36.56,9.94;47,113.42,187.48,244.90,9.94;47,113.42,206.08,140.33,9.94;47,113.42,224.80,240.77,9.94;47,113.42,243.40,277.40,9.94;47,113.42,262.12,108.21,9.94;47,113.42,280.75,252.15,9.94;47,113.42,299.35,290.20,9.94;47,113.42,318.07,190.58,9.94;47,113.42,336.67,239.60,9.94;47,70.94,361.63,22.08,9.94;47,113.42,385.99,196.04,9.94" >
+	<analytic>
+		<title level="a" type="main">Asset Allocations WP23: The Role of Institutional Investors in Financing Clean Energy WP22: Defining and Measuring Green Investments: Implications for Institutional Investors&apos; Asset Allocations WP21: Identification and Assessment of Publicly Available Data Sources to Calculate Indicators of Private Pensions WP20: Coverage of Private Pensions Systems: Evidence and Policy Options WP19: Annual DC Pension Statements and the Communications Challenge WP18: Lessons from National Pensions Communication Campaigns WP17: Review of the Swedish National Pension Funds WP16: Current Status of National Strategies for Financial Education WP15: Measuring Financial Literacy: Results of the OECD International Network on Financial Education (INFE) Pilot Study WP14: Empowering Women through Financial Awareness and Education WP13: Pension Fund Investment in Infrastructure: Policy Actions WP12: Designing Optimal Risk Mitigation and Risk Transfer Mechanisms to Improve the Management of Earthquake Risk in Chile 2011 WP11: The Role of Guarantees in Defined Contribution Pensions WP10: The Role of Pension Funds in Financing Green Growth Initiatives WP9: Catastrophe Financing for Governments WP8: Funding in Public Sector Pension Plans -International Evidence WP7: Reform on Pension Fund Governance and Management: The 1998 Reform of Korea National Pension Fund 2010 WP6: Options to Improve the Governance and Investment of Japan&apos;s Government Pension Investment Fund WP5: The New IAS 19 Exposure Draft WP4: The EU Stress Test and Sovereign Debt Exposures WP3: The Impact of the Financial Crisis on Defined Benefit Plans and the Need for Counter- Cyclical Funding Regulations WP2: Assessing Default Investment Strategies in Defined Contribution Pension Plans WP1: Framework for the Development of Financial Literacy Baseline Surveys: A First International Comparative Analysis OECD Working Papers on Insurance and Private Pensions 2010 WP41: Policy Action in Private Occupational Pensions in Japan since the Economic Crisis of the 1990s WP40: Pension Funds&apos; Risk-management Framework: Regulation and Supervisory Oversight WP38: Managing Investment Risk in Defined Benefit Pension Funds 2009 WP37: Investment Regulations and Defined Contribution Pensions WP36: Private Pensions and Policy Responses to the Financial and Economic Crisis WP35: Defined-contribution (DC) arrangements in Anglo-Saxon Countries WP34: Evaluating the Design of Private Pension Plans WP33: Licensing Regulation and the Supervisory Structure of Private Pensions WP32: Pension Fund Investment in Infrastructure WP31: Pension Coverage and Informal Sector Workers WP30: Pensions in Africa WP29: Ageing and the Payout Phase of Pensions, Annuities and Financial Markets</title>
+		<author>
+			<persName>
+				<forename type="first">Van</forename>
+				<surname>Bavel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Herrmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Esposito</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Proestakis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Applying Behavioural Sciences to EU Policymaking , European Commission, Joint Research Centre Scientific and Policy reportspdf WP24: Defining and Measuring Green Investments: Implications for Institutional Investors WP27: Fees in Individual Account Pension Systems WP26: Forms of Benefit Payment at Retirement WP25: Policy Options for the Payout Phase WP24: National Annuity Markets WP23: Accounting for Defined Benefit Plans WP22: Description of Private Pension Systems WP21: Comparing Aggregate Investment Returns in Privately Managed Pension Funds WP20: Pension Fund Performance WP19: Coverage of Funded Pension Plans WP18: Pension Fund Governance WP17: Funding Regulations and Risk Sharing WP16: Evaluating the Impact of Risk Based Funding Requirements on Pension Funds WP15: Governance and Investment of Public Pension Reserve Funds in Selected OECD Countries WP14: Sovereign Wealth and Pension Fund Issues 2007 WP13: Reforming the Valuation and Funding of Pension Promises WP12: Pension Fund Investment in Hedge Funds WP11: Implications of Behavioural Economics for Mandatory Individual Account Pension Systems WP10: Portfolio Investment in an Intertemporal Setting WP9: Collective Pension Funds WP8: Pension Fund Regulation and Risk Management WP7: Survey of Investment Choice by Pension Fund Members WP6: Benefit Protection WP5: Benefit Security Pension Fund Guarantee Schemes WP4: Governments and the Market for Longevity-Indexed Bonds WP3: Longevity Risk and Private Pensions WP2: Policy Issues for Developing Annuities Markets 2006 WP1: Funding Rules and Actuarial Methods</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

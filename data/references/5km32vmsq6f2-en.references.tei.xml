@@ -1,0 +1,1104 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_135"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="47,59.58,62.70,89.85,12.15" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,252.90,101.88,86.75,9.88" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">BIBLIOGRAPHY</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.57,148.19,445.40,12.15" >
+	<monogr>
+		<title level="m" type="main">The China Monetary Policy Handbook</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Anderson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<pubPlace>Hong Kong</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.57,172.85,441.45,12.15;47,87.96,185.51,286.01,12.15" >
+	<analytic>
+		<title level="a" type="main">Inside the Black Box: The Credit Channel of Monetary Policy Transmission</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Bernanke</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Gertler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Perspectives</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.57,210.18,462.04,12.15;47,87.96,222.77,361.05,12.15" >
+	<analytic>
+		<title level="a" type="main">Monetary Policy and Asset Prices: A Look Back at Past U.S. Stock Market Booms</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">D</forename>
+				<surname>Bordo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">C</forename>
+				<surname>Wheelock</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Federal Reserve Bank of St. Louis Review</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.57,247.43,468.14,12.15;47,87.96,260.09,375.81,12.15" >
+	<monogr>
+		<title level="m" type="main">What Has Driven Chinese Monetary Policy Since 1990? Investigating the People&apos;s Bank of China Policy Rule</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Burdekin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Siklos</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.57,284.75,466.80,12.15;47,87.97,297.41,438.34,12.15;47,87.96,310.01,27.18,12.15" >
+	<analytic>
+		<title level="a" type="main">New Findings on Firm Investment and Monetary Transmission in the Euro Area</title>
+		<author>
+			<persName>
+				<forename type="first">J.-B</forename>
+				<surname>Chatelain</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Generale</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Herando</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">U</forename>
+				<surname>Von Kalckreuth</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Vermeulen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford Economic Papers</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.57,334.67,461.63,12.15;47,87.96,347.33,170.71,12.15" >
+	<monogr>
+		<title level="m" type="main">Financial Constraints and the Investment of Chinese Listed Firms</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Chen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.57,371.99,454.56,12.15;47,87.96,384.65,363.64,12.15" >
+	<analytic>
+		<title level="a" type="main">Business Fixed Investment: A Critical Survey of Modelling Strategies, Empirical Results, and Policy Implications</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Chirinko</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Literature</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.59,409.31,456.81,12.15;47,87.97,421.90,402.40,12.15" >
+	<monogr>
+		<title level="m" type="main">That Elusive Elasticity: A Long-Run Panel Approach to Estimating the Capital-labour Substitution Elasticity</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Chirinko</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Fazzari</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Meyer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>CESIFO Working Papers</publisher>
+			<biblScope unit="page">1240</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.59,446.56,464.27,12.15" >
+	<analytic>
+		<title level="a" type="main">Does the Gap Model Work in Asia?</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Coe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Mcdermott</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IMF Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">96</biblScope>
+			<biblScope unit="page">69</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.59,471.23,470.87,12.15;47,87.97,483.89,348.85,12.15" >
+	<monogr>
+		<title level="m" type="main">Measuring Renminbi Misalignment: Where Do We Stand?</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">D</forename>
+				<surname>Cheung Yin-Wong</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Chinn</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Fujii</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>Hong. Kong Institute for Monetary Research</note>
+</biblStruct>
+
+<biblStruct coords="47,59.59,508.55,420.59,12.15;47,87.97,521.14,417.30,12.15" >
+	<monogr>
+		<title level="m" type="main">Have Long-Term Financial Trends Changed the Transmission of Monetary Policy?</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Cournède</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ahrend</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Price</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.59,545.80,469.76,12.15;47,87.96,558.46,85.28,12.15;47,59.57,583.12,251.95,12.15" >
+	<analytic>
+		<title level="a" type="main">The Yield curve as a Leading Indicator</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Estrella</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Monthly Bulletin</title>
+		<imprint>
+			<date type="published" when="2005-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.57,607.78,441.44,12.15;47,87.95,620.44,89.58,12.15" >
+	<analytic>
+		<title level="a" type="main">Interest Rate Liberalization in China</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Feyzioglu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Porter</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Takats</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IMF Working Papers</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.56,645.04,456.65,12.15" >
+	<analytic>
+		<title level="a" type="main">Assessing China&apos;s Exchange Rate Regime</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Frankel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Wei</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">51</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.56,669.70,449.62,12.15;47,87.95,682.36,346.34,12.15" >
+	<monogr>
+		<title level="m" type="main">Where is the Chinese Banking Sector going after the Crises? &quot; , mimeo, ESCB seminar on the Chinese Economy</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Garcia-Herrero</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Santabárbara</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010-01" />
+			<pubPlace>Frankfurt</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.56,707.02,469.55,12.15;47,87.95,719.68,162.88,12.15" >
+	<monogr>
+		<title level="m" type="main">Monetary Policy in China): Targets, Instruments and their Effectiveness</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Geiger</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<pubPlace>Würzburg Economic Papers</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,440.34,62.70,89.85,12.15" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.58,99.54,433.92,12.15;48,87.96,112.20,149.79,12.15" >
+	<monogr>
+		<title level="m" type="main">Money and Inflation in China</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Gerlach</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Kong</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.58,136.86,454.79,12.15;48,87.96,149.52,38.26,12.15" >
+	<analytic>
+		<title level="a" type="main">Output Gaps and Inflation in Mainland China</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Gerlach</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Peng</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BIS Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">194</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.58,174.18,435.83,12.15;48,87.96,186.77,272.25,12.15" >
+	<monogr>
+		<title level="m" type="main">Investment and the Cost of Capital: New Evidence from the Corporate Bond Market</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Gilchrist</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Zakrajsek</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>NBER Working Papers</publisher>
+			<biblScope unit="page">13174</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.59,211.43,468.58,12.15;48,87.97,224.09,133.82,12.15" >
+	<monogr>
+		<title level="m" type="main">The Effects of Monetary Policy in China since 1997</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Girardin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Liu</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.59,248.75,441.73,12.15;48,87.97,261.41,357.98,12.15" >
+	<analytic>
+		<title level="a" type="main">Monetary Management in China in the Face of Large Capital Inflows</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>He</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Chu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Wong</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hong Kong Monetary Authority Research Memorandum</title>
+		<imprint>
+			<biblScope unit="issue">07</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.59,286.01,460.94,12.15;48,87.96,298.67,400.05,12.15;48,87.96,311.33,42.78,12.15" >
+	<monogr>
+		<title level="m" type="main">What prompts the People&apos;s Bank of China to change its monetary policy stance? Evidence from a discrete choice model</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>He</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Pauwels</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.58,335.99,409.38,12.15;48,87.96,348.65,229.13,12.15" >
+	<analytic>
+		<title level="a" type="main">Monetary Policy Implementation at Different Stages of Market Development</title>
+	</analytic>
+	<monogr>
+		<title level="j">IMF</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>pdf</note>
+</biblStruct>
+
+<biblStruct coords="48,59.59,373.31,428.32,12.15;48,87.96,385.91,398.38,12.15" >
+	<analytic>
+		<title level="a" type="main">Monetary Transmission in Germany: New Perspectives on Financial Constraints and Investment Spending</title>
+		<author>
+			<persName>
+				<forename type="first">U</forename>
+				<surname>Von Kalckreuth</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">European Central Bank Working Papers</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.58,410.57,461.61,12.15;48,87.95,423.23,278.98,12.15" >
+	<analytic>
+		<title level="a" type="main">Has the Chinese Economy Become More Sensitive to Interest Rates? Studying Credit Demand in China</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Koivu</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Bank of Finland Discussion Paper</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.57,447.89,444.83,12.15;48,87.95,460.55,256.80,12.15" >
+	<monogr>
+		<title level="m" type="main">Monetary policy, asset prices and consumption in China &quot; , mimeo, presented at an ESCB conference on the Chinese economy</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Koivu</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.57,485.14,466.42,12.15;48,87.95,497.80,83.45,12.15" >
+	<analytic>
+		<title level="a" type="main">China: Strengthening Monetary Policy Implementation</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Laurens</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Maino</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IMF Working Papers</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">07</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.57,522.46,446.31,12.15;48,87.95,535.12,315.26,12.15" >
+	<monogr>
+		<title level="m" type="main">A New Keynesian Model for Analysing Monetary Policy in Mainland China</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Liu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Zhang</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>Hong Kong Monetary Authority Working Papers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.57,559.78,447.87,12.15;48,87.95,572.44,308.57,12.15" >
+	<analytic>
+		<title level="a" type="main">Do China&apos;s Capital Controls Still Bind? Implications for Monetary Autonomy and Capital Liberalisation</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Ma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Mccauley</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BIS Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">233</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.57,597.04,421.04,12.15;48,87.95,609.70,134.09,12.15" >
+	<analytic>
+		<title level="a" type="main">China&apos;s Financial Conundrum and Global Imbalances</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Mckinnon</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Schnabl</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BIS Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">277</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.58,634.36,458.62,12.15;48,87.96,647.02,185.75,12.15" >
+	<monogr>
+		<title level="m" type="main">China&apos;s monetary policy and the exchange rate</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Mehrotra</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+				<surname>Sánchez-Fung</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.58,671.68,456.42,12.15;48,87.96,684.28,99.65,12.15" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Mishkin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Schmidt</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Monetary Policy Under Inflation Targeting</title>
+		<meeting><address><addrLine>Santiago, Central Bank of Chile</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.58,708.94,430.73,12.15;48,87.96,721.60,430.12,12.15;48,87.97,734.26,33.58,12.15" >
+	<analytic>
+		<title level="a" type="main">Firm Investment, Monetary Transmission and Balance-Sheet Problems in Japan: An Investigation Using Micro Data</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Nagahata</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Sekine</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Japan and the World Economy</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note>Issue. 3</note>
+</biblStruct>
+
+<biblStruct coords="49,59.58,62.70,89.85,12.15" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page">78</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.58,99.54,473.13,12.15;49,87.96,112.20,120.94,12.15" >
+	<monogr>
+		<title level="m" type="main">Wealth Effects in Emerging Market Economies</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Peltonen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Sousa</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Vansteenkiste</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1000" />
+			<publisher>ECB Working Papers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.58,136.86,283.49,12.15" >
+	<analytic>
+		<title level="a" type="main">OECD Economic Survey of China</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.58,161.52,287.05,12.15" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Investment Policy Review of China</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.58,186.18,283.49,12.15" >
+	<analytic>
+		<title level="a" type="main">OECD Economic Survey of China</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.58,210.77,395.30,12.15" >
+	<monogr>
+		<title level="m" type="main">Macroeconomic Cycles in China</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Oppers</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<publisher>IMF Working Papers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.57,235.44,450.62,12.15;49,87.95,248.10,391.90,12.15;49,87.94,260.76,57.76,12.15" >
+	<analytic>
+		<title level="a" type="main">China as a Reserve Sink: The Evidence From Offset and Sterilisation Coefficients</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Ouyang</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Rajan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Willett</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Hong Kong Institute for Monetary Research Working Papers</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.56,285.42,472.56,12.15" >
+	<analytic>
+		<title level="a" type="main">What Drives China&apos;s Interbank Market?</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Porter</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Xu</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IMF Working Papers</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.57,310.02,396.19,12.15;49,87.95,322.68,177.23,12.15" >
+	<monogr>
+		<title level="m" type="main">On the Renminbi and Economic Convergence</title>
+		<author>
+			<persName>
+				<forename type="first">Helmut</forename>
+				<surname>Reisen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.58,347.34,434.49,12.15;49,87.95,360.00,138.33,12.15" >
+	<analytic>
+		<title level="a" type="main">A Phillips Curve for China</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Scheibe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Vines</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CAMA Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.57,384.66,428.87,12.15;49,87.94,397.32,131.39,12.15" >
+	<analytic>
+		<title level="a" type="main">Variance Estimation in a Random Coefficients Model</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Schlicht</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Ludsteck</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IZA Discussion Papers</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.56,421.92,449.03,12.15;49,87.94,434.58,268.60,12.15" >
+	<analytic>
+		<title level="a" type="main">Impact of Exchange Rate Movements on the Mainland Economy</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Shu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Yip</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">China Economic Issues</title>
+		<imprint>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page">6</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.56,459.24,416.95,12.15;49,87.93,471.90,307.62,12.15" >
+	<monogr>
+		<title level="m" type="main">Should Monetary Policy Lean or Clean? &quot; , Federal Reserve Bank of Dallas Globalization and Monetary Policy Institute Working Papers</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>White</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="49,59.56,496.56,450.47,12.15;49,87.94,509.17,85.15,12.15" >
+	<analytic>
+		<title level="a" type="main">The Structure of Housing Finance Markets and House Prices in Asia</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Zhu</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">BIS Quarterly Review</title>
+		<imprint>
+			<date type="published" when="2006-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

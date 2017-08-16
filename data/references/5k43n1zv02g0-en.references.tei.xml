@@ -1,0 +1,698 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_105"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="21,59.54,198.28,472.99,9.94;21,87.86,210.88,332.09,9.94" >
+	<analytic>
+		<title level="a" type="main">The colonial origins of comparative development: An empirical investigation</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Acemoglu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Johnson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Robinson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1369" to="1401" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,235.63,473.57,9.94;21,87.86,248.23,161.55,9.94" >
+	<analytic>
+		<title level="a" type="main">An institutionalist perspective on regional development</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Amin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Urban and Regional Research</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page" from="365" to="378" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,272.95,473.56,9.94;21,87.86,285.55,161.63,9.94" >
+	<monogr>
+		<title level="m" type="main">Globalization, Institutions and Regional Development in Europe</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Amin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Thrift</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,310.27,473.48,9.94;21,87.86,322.87,388.76,9.94" >
+	<analytic>
+		<title level="a" type="main">The case for regional development intervention: place-based versus place-neutral approaches</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Barca</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Mccann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rodríguez-Pose</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Regional Science</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="134" to="152" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,347.47,473.33,9.94;21,87.86,360.19,310.85,9.94" >
+	<analytic>
+		<title level="a" type="main">Too much of a good thing? On the growth effects of the EU&apos;s regional policy</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">O</forename>
+				<surname>Becker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">H</forename>
+				<surname>Egger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Von</forename>
+				<surname>Ehrlich</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="648" to="668" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,384.81,473.30,9.94;21,87.86,397.53,265.73,9.94" >
+	<analytic>
+		<title level="a" type="main">Social capital and growth in European regions: An empirical test</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Beugelsdijk</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Van Schaik</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="301" to="324" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,422.13,473.45,9.94;21,87.86,434.73,192.15,9.94" >
+	<analytic>
+		<title level="a" type="main">Differences in social capital between 54 Western European regions</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Beugelsdijk</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Van Schaik</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regional Studies</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1053" to="1064" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,457.15,473.06,12.22;21,87.86,472.05,40.77,9.94" >
+	<monogr>
+		<title level="m" type="main">La grande svolta. Il Mezzogiorno nell &quot; Italia degli anni novanta</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Bodo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Viesti</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<pubPlace>Roma: Donzelli</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,496.77,473.50,9.94;21,87.86,509.37,444.89,9.94;21,87.86,521.97,30.85,9.94" >
+	<monogr>
+		<title level="m" type="main">Regional governance matters. A study on regional variation in quality of government within the EU</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Charron</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Lapuente</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Dijkstra</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>European Commission Working Papers</publisher>
+		</imprint>
+	</monogr>
+	<note>Regional. Policy</note>
+</biblStruct>
+
+<biblStruct coords="21,59.54,546.72,473.09,9.94;21,87.86,559.32,168.40,9.94" >
+	<analytic>
+		<title level="a" type="main">Social capital in the creation of human capital</title>
+		<author>
+			<persName>
+				<forename type="first">James</forename>
+				<forename type="middle">S</forename>
+				<surname>Coleman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology Supplement</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="page" from="95" to="120" />
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,584.04,473.62,9.94;21,87.86,596.64,192.87,9.94;21,59.54,621.24,473.47,9.94;21,87.86,633.96,240.23,9.94" >
+	<analytic>
+		<title level="a" type="main">Cultura e sviluppo. L&apos;associazionismo nel Mezzogiorno</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Diamanti</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Ramella</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Trigilia</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Agenda</title>
+		<imprint>
+			<publisher>Office for Official Publications of the European Communities</publisher>
+			<date type="published" when="1995" />
+			<publisher>Office for Official Publications of the European Communities</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,656.26,473.22,12.23;21,87.86,671.28,307.02,9.94" >
+	<monogr>
+		<title level="m" type="main">Investing in Europe&apos;s future. Fifth report on economic, social and territorial cohesion</title>
+		<author>
+			<persName>
+				<forename type="first">European</forename>
+				<surname>Union</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Luxembourg : Publications Office of the European</publisher>
+			<pubPlace>Union</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.54,695.88,441.20,9.94" >
+	<analytic>
+		<title level="a" type="main">The strength of weak ties</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Granovetter</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Sociology</title>
+		<imprint>
+			<biblScope unit="volume">78</biblScope>
+			<biblScope unit="page" from="1360" to="1380" />
+			<date type="published" when="1973" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,101.68,473.51,9.94;22,87.86,114.28,444.72,9.94;22,87.86,126.88,24.84,9.94" >
+	<monogr>
+		<title level="m" type="main">Informal Institutions and EU Accession: Corruption and Clientelism in Central and Eastern Europe</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Guasti</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Dobovsek</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011-08" />
+		</imprint>
+	</monogr>
+	<note>Paper. presented at ECPR General Conference in Reykjavik</note>
+</biblStruct>
+
+<biblStruct coords="22,59.54,151.60,473.18,9.94;22,87.86,164.20,254.57,9.94" >
+	<analytic>
+		<title level="a" type="main">Why do some countries produce so much more output per worker than others?</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">E</forename>
+				<surname>Hall</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">I</forename>
+				<surname>Jones</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">114</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="83" to="116" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,188.92,473.05,9.94;22,87.86,201.76,444.95,9.94;22,87.86,214.48,79.52,9.94" >
+	<monogr>
+		<title level="m" type="main">Governance Matters VIII: Aggregate and Individual Governance Indicators for 1996‐2008. World Bank Policy Research Working Paper No. 4978</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Kaufmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Kraay</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Mastruzzi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<pubPlace>Washington, D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,239.11,473.40,9.94;22,87.86,251.71,75.17,9.94" >
+	<monogr>
+		<title level="m" type="main">Institutions, institutional change and economic performance</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">C</forename>
+				<surname>North</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990" />
+			<publisher>Cambridge University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,276.43,473.40,9.94;22,87.86,289.03,75.17,9.94" >
+	<monogr>
+		<title level="m" type="main">Making democracy work: civic traditions in modern Italy</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">D</forename>
+				<surname>Putnam</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1993" />
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton NJ</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,313.75,473.50,9.94;22,87.86,326.35,83.51,9.94" >
+	<monogr>
+		<title level="m" type="main">Bowling Alone: the collapse and revival of American community</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">D</forename>
+				<surname>Putnam</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>Simon &amp; Schuster</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,350.95,473.41,9.94;22,87.86,363.67,356.61,9.94" >
+	<monogr>
+		<title level="m" type="main">Measuring the quality of government and subnational variation</title>
+		<editor>N. Charron, V. Lapuente, B. Rothstein</editor>
+		<imprint>
+			<date type="published" when="2010" />
+			<pubPlace>Gothenburg</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,388.29,473.17,9.94;22,87.86,401.01,437.60,9.94" >
+	<analytic>
+		<title level="a" type="main">Better Rules or Stronger Communities? On the Social Foundations of Institutional Change and Its Economic Effects</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rodriguez-Pose</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Storper</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Geography</title>
+		<imprint>
+			<biblScope unit="volume">82</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="25" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,425.61,473.51,9.94;22,87.86,438.21,227.75,9.94" >
+	<monogr>
+		<title level="m" type="main">Do institutions matter for regional development? Regional Studies (forthcoming) doi:10</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rodríguez-Pose</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,462.93,473.33,9.94;22,87.86,475.53,429.68,9.94" >
+	<analytic>
+		<title level="a" type="main">Institutions Rule: The Primacy of Institutions Over Geography and Integration in Economic Development</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Rodrik</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Subramanian</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Trebbi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Growth</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="131" to="165" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,500.25,473.05,9.94;22,87.86,512.85,411.68,9.94" >
+	<analytic>
+		<title level="a" type="main">What is quality of government: A theory of impartial political institutions</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Rothstein</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Teorell</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Governance-an International Journal of Policy and Administration</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="165" to="190" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,537.57,473.53,9.94;22,87.86,550.20,299.04,9.94" >
+	<monogr>
+		<title level="m" type="main">Community and society (Gemeinschaft und gesellschaft) Charles P. Loomis (trans</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Tönnies</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1887" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,574.80,473.40,9.94;22,87.86,587.52,35.27,9.94" >
+	<monogr>
+		<title level="m" type="main">Sviluppo senza Autonomia. Effetti Perversi delle Politiche nel Mezzogiorno</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Trigilia</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992" />
+			<publisher>Il Mulino</publisher>
+			<pubPlace>Bologna</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,612.12,473.53,9.94;22,87.86,624.84,284.81,9.94" >
+	<analytic>
+		<title level="a" type="main">Culture and Institutions: Economic Development in the Regions of Europe</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Tabellini</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the European Economic Association</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="677" to="716" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,649.44,473.54,9.94;22,87.86,662.04,297.53,9.94" >
+	<analytic>
+		<title level="a" type="main">Corruption and Compliance in the EU&apos;s Post-Communist Members and Candidates</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Vachudova</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JCMS: Journal of Common Market Studies</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="43" to="62" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,59.54,686.76,473.33,9.94;22,87.86,699.23,24.96,9.50" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Weber</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economy and Society</title>
+		<editor>Roth and Wittich</editor>
+		<imprint>
+			<publisher>Bedminster Press</publisher>
+			<date type="published" when="1921" />
+			<publisher>Bedminster Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,809 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_120"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="15,80.88,527.99,443.74,7.44" >
+	<monogr>
+		<title level="m" type="main">Countries included are: Austria, Belgium, the Czech Republic</title>
+		<imprint>
+			<date type="published" when="2007" />
+			<pubPlace>Denmark, Finland, France, Germany, Greece, Hungary</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,59.52,537.23,425.67,7.44;15,59.52,552.47,447.92,7.44" >
+	<monogr>
+		<title level="m" type="main">the Slovak Republic, Sweden and the UK. 2. The sub-sample includes all countries for which comparable data is available from the mid-1980s</title>
+		<author>
+			<persName>
+				<forename type="first">Italy</forename>
+				<surname>Ireland</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Luxemburg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Netherlands</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Poland</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Portugal</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Slovenia</forename>
+				<surname>Spain</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>baseline. 1 in Table 8</note>
+</biblStruct>
+
+<biblStruct coords="15,59.52,567.59,207.28,7.44" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Source: OECD Income Distribution and Poverty Database</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,81.60,583.70,451.46,9.94;15,59.52,596.42,473.52,9.94;15,59.53,609.01,473.54,9.94" >
+	<monogr>
+		<title level="m" type="main">the Gini index for the European Union was 0.33 (Table 6) This is broadly in line with previous findings in the scarce literature that exists on EU inequality (Table 7) Some differences are to be expected as the studies do not always include the same countries, nor refer to the same time period</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="15,59.53,621.61,473.54,9.94;15,59.52,634.33,473.45,9.94;15,59.52,646.93,326.09,9.94;15,81.60,671.64,451.49,9.94;15,59.52,684.24,473.53,9.94;15,59.53,696.84,473.54,9.94;15,59.53,709.56,473.59,9.94;15,59.53,722.15,473.52,9.94;15,59.52,734.87,243.60,9.94" >
+	<analytic>
+		<title level="a" type="main">33) is higher than inequality calculated both as a simple average of national Gini indexes (0.29) and a population-weighted average (0.31) since the latter two methods do not take into account the between-country component of European inequality. Inequality in Europe is somewhat higher compared with the average national Gini indicator for the OECD as whole which is 0.30. However, if one constrains the comparison to economies of comparable size, which is probably more relevant, the European Union appears less unequal the Gini index for the United States was 0.38. The difference appears to be in both ends of distribution, as both the top and bottom deciles are closer to the median in Europe</title>
+		<author>
+			<persName>
+				<surname>Unsurprisingly</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Lower inequality in Europe than in the United States is also what the literature tends to find</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Table. 7</note>
+</biblStruct>
+
+<biblStruct coords="16,652.80,64.82,90.00,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,252.84,101.90,86.81,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">BIBLIOGRAPHY</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.60,150.26,451.46,9.94;21,59.53,162.85,143.27,9.94" >
+	<analytic>
+		<title level="a" type="main">Income distribution in Europe and the United States</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">B</forename>
+				<surname>Atkinson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford Review of Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.60,187.57,451.47,9.94;21,59.52,200.17,60.61,9.94" >
+	<analytic>
+		<title level="a" type="main">Measuring Income Inequality in Euroland</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Beblo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Knaus</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Income and Wealth</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.60,224.89,451.45,9.94;21,59.52,237.48,109.67,9.94" >
+	<monogr>
+		<title level="m" type="main">The Institutional Accomodation of an Enlarged Europe &quot; . Paper prepared for the Friedrich-Ebert-Stiftung</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Boix</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.59,262.20,451.44,9.94;21,59.52,274.80,410.41,9.94" >
+	<monogr>
+		<title level="m" type="main">Measurement of income distribution in supranational entities: The case of the European Union &quot; . Banca D&apos;Italia, temi di discussion del Servizio Studi</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Brandolini</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.61,299.39,451.46,9.94" >
+	<monogr>
+		<title level="m" type="main">Income Inequality in Richer and OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Brandolini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">M</forename>
+				<surname>Smeeding</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,59.53,312.11,473.56,9.94;21,59.53,324.71,146.39,9.94" >
+	<monogr>
+		<title level="m" type="main">Chapter The Oxford Handbook of Economic Inequality</title>
+		<editor>W. Salverda, B. Nolan, T.M. Smeeding</editor>
+		<imprint>
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.61,349.43,451.47,9.94;21,59.53,362.02,462.76,9.94" >
+	<analytic>
+		<title level="a" type="main">What explains the German labour market miracle in the great recession?</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Burda</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Hunt</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic research</title>
+		<imprint>
+			<date type="published" when="2011-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.61,386.62,451.49,9.94;21,59.55,399.34,206.16,9.94" >
+	<analytic>
+		<title level="a" type="main">Immeasurable Inequality in the European Union</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Dauderstädt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Kelmtek</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intereconomics</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="44" to="51" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.63,423.94,451.37,9.94;21,59.54,436.66,323.04,9.94" >
+	<analytic>
+		<title level="a" type="main">Measuring Poverty in a Growing World (or Measuring Growth in a Poor World)</title>
+		<author>
+			<persName>
+				<forename type="first">Angus</forename>
+				<surname>Deaton</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Review of Economics and Statistics</title>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2005" />
+			<publisher>MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.62,461.25,451.28,9.94;21,59.53,473.85,392.76,9.94" >
+	<analytic>
+		<title level="a" type="main">The Small-Sample Bias of the Gini Coefficient: Results and Implications for Empirical Research</title>
+		<author>
+			<persName>
+				<forename type="middle">G</forename>
+				<surname>Deltas</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2001-02" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.62,498.57,451.35,9.94;21,59.54,511.16,473.57,9.99;21,59.52,523.94,473.52,9.94;21,59.52,536.53,87.50,9.94" >
+	<analytic>
+		<title level="a" type="main">The evolution of economic inequality in the EU countries during the nineties: A new methodological approach</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Domínguez-Domínguez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Núñez-Velázquez</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Inequality and Poverty</title>
+		<editor>John Bishop, Yoram Amiel</editor>
+		<imprint>
+			<publisher>Emerald Group Publishing Limited</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+	<note>Published. in. Research. on Economic Inequality</note>
+</biblStruct>
+
+<biblStruct coords="21,81.60,561.13,451.44,9.94" >
+	<monogr>
+		<title level="m" type="main">Assessing the effect of economic inequality</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Evans</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Hout</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Mayer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>in. K</note>
+</biblStruct>
+
+<biblStruct coords="21,59.52,573.85,347.15,9.94" >
+	<monogr>
+		<title level="m" type="main">Social Inequality</title>
+		<author>
+			<persName>
+				<surname>Neckerman</surname>
+			</persName>
+		</author>
+		<imprint>
+			<publisher>Russell Sage Foundation Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.59,598.45,451.45,9.94;21,59.51,611.17,260.28,9.94" >
+	<analytic>
+		<title level="a" type="main">Income Distribution and Poverty in the OECD area: Trends and Driving Forces</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Förster</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Pearson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economic Studies</title>
+		<imprint>
+			<biblScope unit="issue">34</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.59,635.76,451.28,9.94;21,59.51,648.36,194.16,9.94" >
+	<monogr>
+		<title level="m" type="main">Controversies about the Rise in American Inequality: A Survey</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Gordon</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Dew-Becker</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.59,673.08,451.48,9.94;21,59.51,685.67,387.11,9.94" >
+	<analytic>
+		<title level="a" type="main">Less Income Inequality and More Growth – Are they Compatible?: Part 4. Top Incomes</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Hoeller</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,81.59,710.39,451.46,9.94;21,59.52,722.99,473.51,9.94;21,59.52,735.71,307.07,9.94" >
+	<analytic>
+		<title level="a" type="main">Less Income Inequality and More Growth – Are They Compatible?: Part 3. Income Redistribution via Taxes and Transfers Across OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Joumard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Pisu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Bloch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,440.16,64.82,90.00,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.60,101.66,451.47,9.94;22,59.52,114.26,473.54,9.94;22,59.52,126.85,143.76,9.94" >
+	<monogr>
+		<title level="m" type="main">Social policy and income distribution: An empirical analysis for the Netherlands</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Koen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Goudswaard</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<biblScope unit="page">3</biblScope>
+		</imprint>
+	</monogr>
+	<note>Published. in Department of Economics Research Memorandum No. 99</note>
+</biblStruct>
+
+<biblStruct coords="22,81.60,151.57,451.32,9.94;22,59.51,164.17,473.52,9.94;22,59.51,176.89,123.47,9.94" >
+	<monogr>
+		<title level="m" type="main">Less Income Inequality and More Growth – Are They Compatible?: Part 2. The Distribution of Labour Income</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Koske</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Fournier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Wanner</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.59,201.48,451.45,9.94;22,59.51,214.20,287.76,9.94" >
+	<analytic>
+		<title level="a" type="main">True world income distribution: First calculations based on household surveys alone</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Milanovic</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Journal</title>
+		<imprint>
+			<biblScope unit="volume">112</biblScope>
+			<biblScope unit="issue">476</biblScope>
+			<date type="published" when="1988" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.59,238.80,451.48,9.94;22,59.51,251.40,204.13,9.94" >
+	<analytic>
+		<title level="a" type="main">Global Income Inequality: What Is It And Why It matters?</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Milanovic</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Policy Research Working Paper Series</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<biblScope unit="volume">3865</biblScope>
+			<date type="published" when="2006" />
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.59,276.11,338.65,9.94" >
+	<analytic>
+		<title level="a" type="main">Economic Survey of the European Union</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.59,300.71,213.10,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Growing Unequal</title>
+		<meeting><address><addrLine>OECD, Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.59,325.43,344.76,9.94" >
+	<analytic>
+		<title level="a" type="main">Divided We Stand: Why Inequalities keep rising</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.60,350.03,451.20,9.94;22,59.52,362.62,473.53,9.94;22,59.53,375.34,180.26,9.94" >
+	<analytic>
+		<title level="a" type="main">Accounting for inequality in the EU: Income disparities between and within member states and overall income inequality</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Papatheodorou</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Pavlopoulos</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">MPRA Paper</title>
+		<imprint>
+			<biblScope unit="volume">209</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.61,399.94,451.35,9.94;22,59.52,412.66,301.68,9.94" >
+	<analytic>
+		<title level="a" type="main">Regional inequalities in the European Union</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Petrakos</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rodiguez-Pose</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Anagnostou</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ZEI Studies in European Economics and Law</title>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.60,437.25,451.46,9.94;22,59.52,449.85,238.31,9.94" >
+	<monogr>
+		<title level="m" type="main">Optimal Taxation of Top Labour Incomes: A Tale of Three Elasticities</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Piketty</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Saez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Stantcheva</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>CEPR Working Papers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.59,474.57,451.47,9.94;22,59.50,487.17,473.53,9.94;22,59.51,499.88,240.88,9.94" >
+	<analytic>
+		<title level="a" type="main">Mapping Regional Personal Income Distribution in Western Europe: Income Per Capita and Inequality</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rodríguez-Pose</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Tselios</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Czech Journal of Economics and Finance</title>
+		<imprint>
+			<biblScope unit="volume">59</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.59,524.48,402.24,9.94" >
+	<analytic>
+		<title level="a" type="main">The Economics of Superstars</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Rosen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">71</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="22,81.59,549.08,451.46,9.94;22,59.51,561.80,85.92,9.94;22,81.59,586.39,451.44,9.94;22,59.51,599.11,281.40,9.94" >
+	<analytic>
+		<title level="a" type="main">Poverty in Poland during the 1990s: Are the Results Robust?</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Szulc</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Income and Wealth World Bank Development Report</title>
+		<imprint>
+			<publisher>World Bank Equity and Development Oxford University Press</publisher>
+			<biblScope unit="issue">52</biblScope>
+			<date type="published" when="2005" />
+			<publisher>World Bank Equity and Development Oxford University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="23,59.52,64.82,90.00,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

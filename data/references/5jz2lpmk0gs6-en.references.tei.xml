@@ -1,0 +1,1678 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_94"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="41,59.52,195.92,473.44,12.22;41,87.84,208.52,366.58,12.22" >
+	<analytic>
+		<title level="a" type="main">Market Size in Innovation: Theory and evidence from the Pharmaceutical Industry</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Acemoglu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Linn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">119</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="1049" to="1090" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,229.28,473.55,12.22;41,87.84,241.88,118.97,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Acemoglu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">U</forename>
+				<surname>Akcigit</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Bloom</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Kerr</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,262.52,473.49,12.22;41,87.84,275.12,409.78,12.22" >
+	<analytic>
+		<title level="a" type="main">The Effect Of Financial Development On Convergence: Theory And Evidence</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Aghion</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Howitt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Mayer-Foulkes</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">120</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="173" to="222" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,295.88,473.62,12.22;41,87.84,308.48,350.50,12.22" >
+	<analytic>
+		<title level="a" type="main">Credit Constraints as a Barrier to the Entry and Post Entry Growth of Firms: Theory and Evidence</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Aghion</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Fally</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Scarpetta</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">52</biblScope>
+			<biblScope unit="page" from="731" to="779" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,329.12,473.56,12.22;41,87.84,341.72,256.72,12.22" >
+	<analytic>
+		<title level="a" type="main">Knowledge-Based Capital, Innovation and Resource Allocation</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Andrews</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Criscuolo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,365.36,473.33,12.22;41,87.84,378.08,226.20,12.22" >
+	<analytic>
+		<title level="a" type="main">Public Policy and Resource Allocation: Evidence from firms in OECD countries</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Andrews</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Cingano</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Policy</title>
+		<imprint>
+			<date type="published" when="2014-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,401.72,473.58,12.22;41,87.84,414.32,315.85,12.22" >
+	<analytic>
+		<title level="a" type="main">Intangible Assets, Resource Allocation and Growth: A Framework for Analysis</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Andrews</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>De Serres</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economics Department Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">989</biblScope>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,437.96,459.98,12.22;41,87.84,450.68,122.87,12.22" >
+	<analytic>
+		<title level="a" type="main">Bankruptcy Codes and Innovation</title>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<forename type="middle">V</forename>
+				<surname>Acharya</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">V</forename>
+				<surname>Subramanian</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Financial Studies</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="4949" to="4988" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,475.28,446.58,12.22;41,87.84,488.00,225.94,12.22" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Arnold</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Nicoletti</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Scarpetta</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regulation, Resource Reallocation and Productivity Growth Nordic Economic Policy Review</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,512.60,473.47,12.22;41,87.84,525.20,388.80,12.22" >
+	<analytic>
+		<title level="a" type="main">What Happens when Firms Patent? New Evidence from U.S. Economic Census Data</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Balasubramanian</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Sivadasan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="issue">931</biblScope>
+			<biblScope unit="page" from="126" to="146" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,548.96,473.46,12.22;41,87.84,561.56,273.07,12.22" >
+	<analytic>
+		<title level="a" type="main">Competition, Firm Turnover and Productivity Growth, Research Paper Economic Analysis</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">R</forename>
+				<surname>Baldwin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Gu</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Paper Series</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,585.20,464.89,12.22;41,87.84,597.80,236.90,12.22" >
+	<monogr>
+		<title level="m" type="main">Employment Protection, Technology Choice, and Worker Allocation</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">J</forename>
+				<surname>Bartelsman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">A</forename>
+				<surname>Gautier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>De Wind</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,622.52,469.61,12.22;41,87.84,635.12,385.81,12.22;41,87.84,647.84,344.55,12.22" >
+	<analytic>
+		<title level="a" type="main">Integrating Evidence on the Determinants of Productivity</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">J</forename>
+				<surname>Bartelsman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">L F</forename>
+				<surname>De Groot</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Fostering Productivity: Patterns, Determinants and Policy Implications</title>
+		<editor>G. Gelauff, L. Klomp, S. Raes, Th. Roelandt</editor>
+		<meeting><address><addrLine>Amsterdam e.a</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2004" />
+			<biblScope unit="page" from="160" to="184" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="41,59.52,672.44,473.55,12.22;41,87.84,685.04,322.04,12.22" >
+	<monogr>
+		<title level="m" type="main">Microeconomic Evidence of Creative Destruction in Industrial and Developing Countries</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Bartelsman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Haltiwanger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Scarpetta</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+	<note>IZA Discussion paper No 1374</note>
+</biblStruct>
+
+<biblStruct coords="41,59.52,708.81,473.59,12.22;41,87.84,721.41,355.77,12.22" >
+	<analytic>
+		<title level="a" type="main">Cross-Country Differences in Productivity: The Role of Allocation and Selection</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Bartelsman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Haltiwanger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Scarpetta</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">103</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="305" to="339" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,440.16,62.48,90.01,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,99.32,473.70,12.22;42,87.84,111.92,445.17,12.22;42,87.84,124.52,252.73,12.22" >
+	<analytic>
+		<title level="a" type="main">Do Lower Tariffs on Foreign Intermediate Inputs Raise Productivity? Panel Data Evidence for OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Bas</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Å</forename>
+				<surname>Johansson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Murtin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Nicoletti</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers, forthcoming</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,149.24,473.57,12.22;42,87.84,161.84,298.54,12.22" >
+	<analytic>
+		<title level="a" type="main">Why Do Management Practices Differ across Firms and Countries?</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Bloom</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Van Reenen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Perspectives</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="203" to="224" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,186.56,341.83,12.22" >
+	<monogr>
+		<title level="m" type="main">Does Management Matter: Evidence from India</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Bloom</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<pubPlace>Mimeo</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,207.20,473.42,12.22;42,87.84,219.80,445.20,12.22;42,87.84,232.52,47.64,12.22" >
+	<analytic>
+		<title level="a" type="main">Do Product Market Regulations in Upstream Sectors Curb Productivity Growth?: Panel Data Evidence for OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Bourlès</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="1750" to="1768" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,253.16,473.52,12.22;42,87.84,265.76,164.52,12.22" >
+	<monogr>
+		<title level="m" type="main">Growth Dynamics: Exploring business growth and contraction in Europe and the US</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Bravo-Biosca</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>NESTA and FORA</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,289.40,473.54,12.22;42,87.84,302.12,148.67,12.22" >
+	<monogr>
+		<title level="m" type="main">What Drives the Dynamics of Business Growth?</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Bravo-Biosca</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Criscuolo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Menon</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,325.76,473.54,12.22;42,87.84,338.36,368.62,12.22" >
+	<analytic>
+		<title level="a" type="main">Global engagement and the innovation activities of firms</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Criscuolo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Haskel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">J</forename>
+				<surname>Slaughter</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Industrial Organization</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="191" to="202" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,362.00,473.59,12.22;42,87.84,374.72,212.01,12.22" >
+	<analytic>
+		<title level="a" type="main">The Dynamics of Employment Growth: New Evidence from 17 Countries</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Criscuolo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Gal</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Menon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD STI Policy Papers</title>
+		<imprint>
+			<biblScope unit="issue">14</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,398.36,453.12,12.22;42,87.84,410.96,444.84,12.22;42,87.84,423.56,393.80,12.22" >
+	<monogr>
+		<title level="m" type="main">General Purpose Technologies and Productivity Surges: Historical Reflections on the Future of the ICT Revolution, &quot; in The Economic Future in Historical Perspective</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">A</forename>
+				<surname>David</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Wright</surname>
+			</persName>
+		</author>
+		<editor>P. A. David and M. Thomas</editor>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>Oxford University Press for the British Academy</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,447.20,473.54,12.22;42,87.84,459.92,143.79,12.22" >
+	<analytic>
+		<title level="a" type="main">Restructuring and Productivity Growth in UK Manufacturing</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Disney</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Haskel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Heden</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Journal</title>
+		<imprint>
+			<biblScope unit="volume">113</biblScope>
+			<biblScope unit="page" from="666" to="694" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,483.56,444.13,12.22;42,87.84,496.16,72.48,12.22" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">H</forename>
+				<surname>Dunning</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Production and the Multinational Enterprise George</title>
+		<meeting><address><addrLine>Allen, and Unwin, London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,519.80,473.48,12.22;42,87.84,532.52,144.97,12.22" >
+	<analytic>
+		<title level="a" type="main">Capital Reallocation and Liquidity</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">L</forename>
+				<surname>Eisfeldt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">A</forename>
+				<surname>Rampini</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Monetary Economics</title>
+		<imprint>
+			<biblScope unit="issue">53</biblScope>
+			<biblScope unit="page" from="369" to="399" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,556.16,473.57,12.22;42,87.84,568.76,167.04,12.22" >
+	<analytic>
+		<title level="a" type="main">Law enforcement and Firm Financing: Theory and evidence</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Fabbri</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the European Economic Association</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="776" to="816" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,592.40,473.78,12.22;42,87.84,605.12,445.09,12.22;42,87.84,617.72,347.83,12.22" >
+	<analytic>
+		<title level="a" type="main">Aggregate Productivity Growth: Lessons from Microeconomic Evidence</title>
+		<author>
+			<persName>
+				<forename type="first">Lucia</forename>
+				<surname>Foster</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Haltiwanger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">J</forename>
+				<surname>John</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Krizan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Developments in Productivity Analysis</title>
+		<editor>Edward Dean, Michael Harper and Charles Hulten eds</editor>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2001" />
+			<publisher>University of Chicago Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,642.44,473.55,12.22;42,87.84,655.04,397.68,12.22" >
+	<analytic>
+		<title level="a" type="main">Market Selection, Reallocation, and Restructuring in the U. S Retail Trade Sector in the 1990s</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Foster</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Haltiwanger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">J</forename>
+				<surname>Krizan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="page" from="748" to="758" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,679.64,473.41,12.22;42,87.84,692.36,303.27,12.22" >
+	<analytic>
+		<title level="a" type="main">Measuring Total Factor Productivity at the Firm Level using OECD-ORBIS</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Gal</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<meeting><address><addrLine>forthcoming, OECD, Paris</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,59.52,713.00,473.52,12.22;42,87.84,725.60,256.31,12.22" >
+	<monogr>
+		<title level="m" type="main">Firm Size Distortions and the Productivity Distribution: Evidence from France</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Garicano</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Lelarge</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Van Reenen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,62.48,90.01,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,99.32,473.53,12.22;43,87.84,111.92,326.88,12.22" >
+	<analytic>
+		<title level="a" type="main">Does R&amp;D Policy Primarily Benefit Scientists and Engineers?</title>
+		<author>
+			<persName>
+				<forename type="first">Austen</forename>
+				<surname>Goolsbee</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic ReviewPapers and Proceedings)</title>
+		<imprint>
+			<biblScope unit="volume">88</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="298" to="302" />
+			<date type="published" when="1998-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,135.56,473.66,12.22;43,87.84,148.28,214.18,12.22" >
+	<monogr>
+		<title level="m" type="main">The OECD-ORBIS database: treatment and benchmarking procedures</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Gonnard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Ragoussis</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>STD Working Paper, Forthcoming</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,168.92,473.67,12.22;43,87.84,181.52,427.47,12.22" >
+	<analytic>
+		<title level="a" type="main">Technological Opportunities and Appropriating the Returns from Innovation</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Goto</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Nagata</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Institute of Science and Technology Policy NISTEP Report</title>
+		<imprint>
+			<biblScope unit="issue">48</biblScope>
+			<date type="published" when="1997-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,202.16,473.54,12.22;43,87.84,214.88,328.64,12.22" >
+	<analytic>
+		<title level="a" type="main">Patent Statistics as Economic Indicators: A Survey</title>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+				<surname>Griliches</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Literature</title>
+		<imprint>
+			<publisher>American Economic Association</publisher>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1661" to="1707" />
+			<date type="published" when="1990-12" />
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,235.52,473.57,12.22;43,87.84,248.12,291.57,12.22" >
+	<analytic>
+		<title level="a" type="main">Patent statistics as economic indicators: a survey</title>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+				<surname>Griliches</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">R&amp;D and productivity: the econometric evidence</title>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="1998" />
+			<biblScope unit="page" from="287" to="343" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,268.77,473.55,12.22;43,87.84,281.37,308.01,12.22" >
+	<analytic>
+		<title level="a" type="main">A Simple Feasible Alternative Procedure to Estimate Models with High-Dimensional Fixed Effects</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Guimaraes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Portugal</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stata Journal</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="628" to="649" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,302.12,473.62,12.22;43,87.84,314.72,98.50,12.22" >
+	<analytic>
+		<title level="a" type="main">Market Value and Patent Citations</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">H</forename>
+				<surname>Hall</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">B</forename>
+				<surname>Jaffe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Trajtenberg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Rand Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="16" to="38" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,335.37,473.51,12.22;43,87.84,347.97,49.33,12.22" >
+	<monogr>
+		<title level="m" type="main">The Financing of R&amp;D and Innovation</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">H</forename>
+				<surname>Hall</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lerner</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,372.68,473.52,12.22;43,87.84,385.28,445.12,12.22;43,87.84,398.00,38.30,12.22" >
+	<monogr>
+		<title level="m" type="main">Assessing Job Flows across Countries: The Role of Industry, Firm Size and Regulations</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">J</forename>
+				<surname>Haltiwanger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Scarpetta</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Schweiger</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006-10" />
+		</imprint>
+	</monogr>
+	<note>Policy. Research Working Paper No. 3613</note>
+</biblStruct>
+
+<biblStruct coords="43,59.52,421.64,344.88,12.22" >
+	<monogr>
+		<title level="m" type="main">Firm Dynamics and Economic Performance</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Haltiwanger</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>mimeo</note>
+</biblStruct>
+
+<biblStruct coords="43,59.52,446.25,473.48,12.22;43,87.84,458.97,192.46,12.22" >
+	<analytic>
+		<title level="a" type="main">Who Creates Jobs: Small vs Large vs Young</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Haltiwanger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Jarmin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Miranda</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="347" to="61" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,483.57,473.49,12.22;43,87.84,496.17,248.03,12.22" >
+	<analytic>
+		<title level="a" type="main">Misallocation and Manufacturing Productivity in China and India</title>
+		<author>
+			<persName>
+				<forename type="first">C-T</forename>
+				<surname>Hsieh</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Klenow</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">124</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1403" to="1448" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,520.89,473.51,12.22;43,87.84,533.49,277.06,12.22" >
+	<analytic>
+		<title level="a" type="main">Courts and banks: Effects of judicial enforcement on credit markets</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Jappelli</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Paganoand</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Bianco</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Money, Credit and Banking</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="223" to="267" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,557.13,473.51,12.22;43,87.84,569.85,149.51,12.22" >
+	<analytic>
+		<title level="a" type="main">The Q-Theory of Mergers</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Jovanovic</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">L</forename>
+				<surname>Rousseau</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review Papers and Proceedings</title>
+		<imprint>
+			<biblScope unit="volume">91</biblScope>
+			<biblScope unit="page" from="336" to="341" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,593.49,473.50,12.22;43,87.84,606.09,250.11,12.22" >
+	<analytic>
+		<title level="a" type="main">R&amp;D, Scope Economies, and Plant Performance</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">J</forename>
+				<surname>Klette</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">RAND Journal of Economics The RAND Corporation</title>
+		<imprint>
+			<publisher>Autumn</publisher>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="502" to="522" />
+			<date type="published" when="1996" />
+			<publisher>Autumn</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,629.73,473.52,12.22;43,87.84,642.45,261.61,12.22" >
+	<monogr>
+		<title level="m" type="main">Technological Innovation, Resource Allocation and Growth</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Kogan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Papanikolaou</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Seru</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Stoffman</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,666.09,473.40,12.22;43,87.84,678.69,165.48,12.22" >
+	<analytic>
+		<title level="a" type="main">An Empirical Model of Growth Through Product Innovation</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Lentz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">T</forename>
+				<surname>Mortensen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">76</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1317" to="1373" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,59.52,702.33,473.51,12.22;43,87.84,715.05,48.96,12.22" >
+	<monogr>
+		<title level="m" type="main">Multinational Firms and the Theory of International Trade</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Markusen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<publisher>MIT Press Books The MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,440.16,62.48,90.01,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,99.32,473.24,12.22;44,87.84,111.92,445.16,12.22;44,87.84,124.52,128.05,12.22" >
+	<analytic>
+		<title level="a" type="main">Patent Statistics as an Innovation Indicator</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Nagaoka</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Motohashi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Goto</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of the Economics of Innovation</title>
+		<editor>Bronwyn H. Hall and Nathan Rosenberg</editor>
+		<imprint>
+			<publisher>North-Holland</publisher>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="1083" to="1127" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,148.28,473.50,12.22;44,87.84,160.88,195.47,12.22" >
+	<analytic>
+		<title level="a" type="main">Relationship-Specificity, Incomplete Contracts and the Pattern of Trade</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Nunn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">122</biblScope>
+			<biblScope unit="page" from="569" to="600" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,184.52,473.53,12.22;44,87.84,197.12,144.12,12.22;44,59.52,220.88,217.73,12.22" >
+	<analytic>
+		<title level="a" type="main">The Sources of Economic Growth in OECD Countries</title>
+	</analytic>
+	<monogr>
+		<title level="m">Innovation Strategy OECD</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,244.52,473.53,12.22;44,87.84,257.12,199.03,12.22" >
+	<analytic>
+		<title level="a" type="main">The Dynamics of Productivity in the Telecommunications Equipment Industry</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Olley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Pakes</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="1263" to="97" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,280.76,473.50,12.22;44,87.84,293.36,99.34,12.22" >
+	<analytic>
+		<title level="a" type="main">Patents and R&amp;D at the firm level: A first report</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Pakes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+				<surname>Griliches</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economics Letters</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="377" to="381" />
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,317.12,473.57,12.22;44,87.84,329.72,241.04,12.22" >
+	<monogr>
+		<title level="m" type="main">What drives firm growth? The role of demand and TFP shocks, &quot; paper presented at Society for Economic Dynamics Meeting</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Pozzi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Schivardi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,353.36,473.52,12.22;44,87.84,365.96,264.00,12.22" >
+	<analytic>
+		<title level="a" type="main">Policy Distortions and Aggregate Productivity with Heterogeneous Plants</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Restuccia</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Rogerson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economic Dynamics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="707" to="720" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,389.72,447.12,12.22" >
+	<monogr>
+		<title level="m" type="main">Invention and Economic Growth</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Schmookler</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1966" />
+			<publisher>Harvard University Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,413.36,473.61,12.22;44,87.84,425.96,87.96,12.22" >
+	<analytic>
+		<title level="a" type="main">Substitutability and Product Dispersion</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Syverson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="534" to="550" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,449.60,473.61,12.22;44,87.84,462.20,19.32,12.22" >
+	<analytic>
+		<title level="a" type="main">What Determines Productivity?</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Syverson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Literature</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="326" to="365" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="44,59.52,485.96,473.57,12.22;44,87.84,498.56,296.49,12.22" >
+	<monogr>
+		<title level="m" type="main">Comparing Patent Litigation Across Europe: A First Look Available at SSRN: http://ssrn</title>
+		<author>
+			<persName>
+				<forename type="first">Nicolas</forename>
+				<surname>Van Zeebroeck</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">H</forename>
+				<surname>Graham</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Stuart</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="45,59.52,62.48,90.01,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

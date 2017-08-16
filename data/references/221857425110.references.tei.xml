@@ -1,0 +1,745 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_13"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="32,440.34,62.70,89.85,12.15" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page">60</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,252.91,174.54,86.75,9.88" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">BIBLIOGRAPHY</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.58,220.86,457.96,12.15;32,87.96,233.52,404.74,12.15" >
+	<analytic>
+		<title level="a" type="main">Minimum Wages and Youth Employment in France and the United States</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Abowd</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research</title>
+		<imprint>
+			<biblScope unit="issue">6111</biblScope>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.59,258.18,471.97,12.15;32,87.96,270.77,120.34,12.15" >
+	<analytic>
+		<title level="a" type="main">Workplace Training in Europe</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Bassanini</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IZA Discussion Paper</title>
+		<imprint>
+			<biblScope unit="issue">1640</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.58,295.43,457.73,12.15;32,87.96,308.09,427.66,12.15;32,87.96,320.75,313.07,12.15" >
+	<monogr>
+		<title level="m" type="main">Employment Patterns in OECD Countries: Reassessing the Role of Policies and Institutions Employment and Migration Working Paper, No. 35 and OECD Economics Department Working Paper</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Bassanini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Duval</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>OECD Social OECD</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.59,345.41,468.84,12.15;32,87.97,358.01,413.74,12.15;32,87.97,370.67,61.44,12.15" >
+	<monogr>
+		<title level="m" type="main">Training and Age-Biased Technical Change: Evidence from French Micro Data</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Behaghel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Greenan</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<pubPlace>Statistique, INSEE, Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Centre. de Recherche en Économie et</note>
+</biblStruct>
+
+<biblStruct coords="32,59.59,395.33,451.26,12.15;32,87.96,407.99,439.30,12.15;32,87.96,420.65,187.59,12.15" >
+	<analytic>
+		<title level="a" type="main">Minimum Wages and Youth Employment: Evidence from the Finnish Retail Sector</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Böckerman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Uusitalo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Labour Institute for Economic Research</title>
+		<meeting><address><addrLine>Helsinki</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.58,445.31,473.24,12.15;32,87.96,457.90,422.77,12.15;32,87.96,470.56,280.44,12.15" >
+	<monogr>
+		<title level="m" type="main">Coping with Ageing: A Dynamic Approach to Quantify the Impact of Alternative Policy Options on Future Labour Supply in OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">J-M</forename>
+				<surname>Burniaux</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Duval</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Jaumotte</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<publisher>OECD</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.58,495.22,461.13,12.15;32,87.96,507.88,409.91,12.15;32,87.96,520.54,324.57,12.15" >
+	<analytic>
+		<title level="a" type="main">Preparing the Labour Market for an Ageing Population: Designing Public Policy to Increase Labour Force Participation</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Burtless</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pension Reform in South-Eastern Europe</title>
+		<editor>Holzmann, R., L. MacKellar and J. Repanšek</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.58,545.14,460.21,12.15;32,87.96,557.80,422.57,12.15" >
+	<analytic>
+		<title level="a" type="main">Access Quality and Efficiency of Tertiary Education in Slovenia Post-2000</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Čelebič</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IMAD Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.58,582.46,431.25,12.15;32,87.96,595.12,438.57,12.15;32,87.96,607.78,24.72,12.15" >
+	<analytic>
+		<title level="a" type="main">The Retirement Effects of Old-age Pension Systems and Other Social Transfer Programmes in OECD countries</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Duval</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Paper</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.58,632.44,445.40,12.15;32,87.96,645.03,336.06,12.15" >
+	<analytic>
+		<title level="a" type="main">Labour Supply and Employment in the Euro Area Countries: Developments and Challenges</title>
+	</analytic>
+	<monogr>
+		<title level="j">Occasional Paper</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.58,669.70,467.39,12.15;32,87.96,682.36,292.90,12.15" >
+	<monogr>
+		<title level="m" type="main">Addressing Labour Market Duality in Korea</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Grubb</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">K</forename>
+				<surname>Lee</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Tergeist</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>OECD Social OECD</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.58,707.02,428.36,12.15;32,87.96,719.68,392.03,12.15;32,87.96,732.27,74.80,12.15" >
+	<analytic>
+		<title level="a" type="main">Minimum Hours Constraints, Job Requirements and Retirement</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">L</forename>
+				<surname>Gustman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">L</forename>
+				<surname>Steinmeier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research</title>
+		<imprint>
+			<biblScope unit="issue">10876</biblScope>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.58,99.53,447.05,12.15;33,87.95,112.19,366.32,12.15" >
+	<analytic>
+		<title level="a" type="main">The Political Economy of Structural Reform – Empirical Evidence from OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Høj</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Paper</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.57,136.86,414.96,12.15;33,87.94,149.52,340.24,12.15" >
+	<analytic>
+		<title level="a" type="main">Youth Minimum Wage Reform and the Labour Market in New Zealand</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Hyslop</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Stillman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Labour Economics</title>
+		<imprint>
+			<publisher>Elsevier BV</publisher>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2007" />
+			<publisher>Elsevier BV</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.56,174.18,442.41,12.15;33,87.94,186.77,361.69,12.15" >
+	<analytic>
+		<title level="a" type="main">Challenges of the Labour Market from the Aspect of Flexicurity</title>
+	</analytic>
+	<monogr>
+		<title level="j">IMADInstitute of Macroeconomic Analysis and Development) Economic issues</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.56,211.43,433.46,12.15;33,87.94,224.09,415.53,12.15" >
+	<analytic>
+		<title level="a" type="main">Efficient Use of Knowledge for Economic Development and High-quality Jobs</title>
+	</analytic>
+	<monogr>
+		<title level="j">IMAD Development Report</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.56,248.75,423.45,12.15;33,87.94,261.41,439.00,12.15;33,87.94,274.01,50.39,12.15" >
+	<analytic>
+		<title level="a" type="main">What Works and for Whom: A Review of OECD Countries&apos; Experiences with Active Labour Market Policies</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Martin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Grubb</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Swedish Economic Policy Review</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.56,298.67,461.06,12.15;33,87.94,311.33,424.72,12.15;33,87.94,323.99,74.80,12.15" >
+	<analytic>
+		<title level="a" type="main">A Cross-National Analysis of the Effects of Minimum Wages on Youth Employment</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Neumark</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Wascher</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research</title>
+		<imprint>
+			<biblScope unit="issue">7299</biblScope>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.56,348.65,308.95,12.15" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Employment Outlook</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.57,373.31,459.02,12.15" >
+	<analytic>
+		<title level="a" type="main">Live Longer, Work Longer, Ageing and Employment Policies</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2006" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.57,397.91,441.53,12.15" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Employment Outlook: Boosting Jobs and Incomes</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.56,422.57,276.87,12.15" >
+	<analytic>
+		<title level="a" type="main">Pensions at a Glance</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2007" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.56,447.23,282.33,12.15" >
+	<analytic>
+		<title level="a" type="main">Education at a Glance</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2008" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.56,471.89,285.08,12.15" >
+	<analytic>
+		<title level="a" type="main">Jobs for Youth – Japan</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2009" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.56,496.55,448.24,12.15;33,87.94,509.14,400.07,12.15" >
+	<monogr>
+		<title level="m" type="main">Neutral or Fair?: Actuarial Concepts and Pension-System Design</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Queisser</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">R</forename>
+				<surname>Whitehouse</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>OECD Social OECD</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.57,533.80,451.11,12.15;33,87.95,546.46,438.10,12.15;33,87.95,559.12,88.87,12.15" >
+	<analytic>
+		<title level="a" type="main">The Impact of the Introduction of the UK Minimum Wage on the Employment Probabilities of Low Wage Workers</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">B</forename>
+				<surname>Stewart</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Warwick Economics Research Paper</title>
+		<imprint>
+			<biblScope unit="issue">630</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.57,583.79,468.34,12.15;33,87.95,596.45,345.83,12.15" >
+	<analytic>
+		<title level="a" type="main">Mobility of Work (Mobilnost dela)</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Vodopivec</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mobilnost dela in fleksibilnost sistema plač</title>
+		<editor>Dolenc. P and M. Vodopivec</editor>
+		<meeting><address><addrLine>Koper</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.57,621.04,441.14,12.15;33,87.95,633.70,434.13,12.15;33,87.95,646.36,174.19,12.15" >
+	<analytic>
+		<title level="a" type="main">Live Longer, Work Longer: Making it Happen in the Labour Market</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Vodopivec</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Dolenc</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Pension Reform in South-Eastern Europe</title>
+		<editor>Holzmann, R., L. MacKellar and J. Repanšek</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.57,671.02,467.59,12.15;33,87.95,683.68,298.81,12.15" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">ZPIZ (Zavod za pokojninsko in invalidsko zavarovanje Slovenije) Institute of Pension and Invalidity Insurance of Slovenia</title>
+		<meeting><address><addrLine>Ljubljana</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,440.34,62.70,89.85,12.15" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page">60</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,80.89,636.87,208.45,7.38;35,59.58,733.93,7.53,11.09;35,102.04,733.93,316.46,11.09" >
+	<monogr>
+		<title level="m" type="main">Newey-West heteroskedasticity consistent standard errors. 3. The value chosen for the sum of the autoregressive parameters is equal to 0</title>
+		<imprint>
+			<biblScope unit="page">75</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,440.34,62.70,89.85,12.15" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page">60</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,252.90,149.88,86.75,9.88;36,59.57,196.20,437.25,12.15;36,87.95,208.86,148.21,12.15" >
+	<analytic>
+		<title level="a" type="main">The Role of Monetary Policy</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Bibliography Friedman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<publisher>American Economic Association</publisher>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="1968" />
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.56,233.52,467.66,12.15;36,87.95,246.18,280.43,12.15" >
+	<analytic>
+		<title level="a" type="main">What Drives the NAIRU? Evidence from a Panel of OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Gianella</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Paper</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.56,270.77,455.86,12.15;36,87.95,283.43,324.41,12.15" >
+	<analytic>
+		<title level="a" type="main">The Time-varying NAIRU and its Implications for Economic Policy</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Gordon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Perspectives</title>
+		<imprint>
+			<publisher>American Economic Association</publisher>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="1997" />
+			<publisher>American Economic Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.57,308.09,455.16,12.15;36,87.96,320.75,429.46,12.15;36,87.96,333.41,174.01,12.15" >
+	<analytic>
+		<title level="a" type="main">The Concept, Policy Use and Measurement of Structural Unemployment: Estimating a Time Varying NAIRU Across 21 OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Richardson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Paper</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

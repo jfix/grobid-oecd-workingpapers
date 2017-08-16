@@ -1,0 +1,1334 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_147"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="25,79.46,230.30,453.22,12.22;25,96.50,243.02,436.39,12.23;25,96.50,257.92,250.66,9.94" >
+	<analytic>
+		<title level="a" type="main">American Council for an Energy Efficient Economy Quantifying the Effects of Market Failures in the End-Use of Energy</title>
+	</analytic>
+	<monogr>
+		<title level="m">Final draft report prepared for the International Energy Agency</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007-02" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,282.67,453.82,9.94;25,96.50,295.27,436.40,9.94;25,96.50,307.87,63.00,9.94" >
+	<monogr>
+		<title level="m" type="main">Gasoline Prices, Fuel Economy, and the Energy Paradox, unpublished manuscript, MIT Department of Economics</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Allcott</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Wozny</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-11-16" />
+			<pubPlace>Cambridge, Massachusetts</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,330.29,453.56,12.23;25,96.50,342.89,436.73,12.23;25,96.50,357.91,66.96,9.94" >
+	<analytic>
+		<title level="a" type="main">Estimating Consumer Preferences Using Market Data – An Application to U.S. Automobile Demand</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">M</forename>
+				<surname>Arguea</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Hsiao</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">A</forename>
+				<surname>Taylor</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Applied Econometrics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="18" />
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,380.21,449.40,12.22;25,96.50,395.11,268.13,9.94" >
+	<analytic>
+		<title level="a" type="main">Uncertainty and the Evaluation of Public Investment Decisions</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">J</forename>
+				<surname>Arrow</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">C</forename>
+				<surname>Lind</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">60</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="364" to="378" />
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,417.53,453.27,12.22;25,96.50,430.13,409.40,12.23" >
+	<analytic>
+		<title level="a" type="main">A Test of the Theory of Reference-Dependent Preferences</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Bateman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Munro</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Rhodes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Starmer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Sugden</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="page" from="479" to="505" />
+			<date type="published" when="1997-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,454.85,453.63,12.23;25,96.50,467.47,436.68,12.23;25,96.50,482.37,233.21,9.94" >
+	<analytic>
+		<title level="a" type="main">Distributional and Efficiency Impacts of Gasoline Taxes: An Econometrically Based Multi-market Study</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">M</forename>
+				<surname>Bento</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">H</forename>
+				<surname>Goulder</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Henry</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">R</forename>
+				<surname>Jacobsen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">H</forename>
+				<surname>Von Haefen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">AEA Papers and Proceedings</title>
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="page" from="282" to="287" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,504.79,453.70,12.23;25,96.50,519.69,262.13,9.94" >
+	<analytic>
+		<title level="a" type="main">Myopic Loss Aversion and the Equity Premium Puzzle</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Bernatzi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">H</forename>
+				<surname>Thaler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">110</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="73" to="92" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,542.11,449.20,12.22;25,96.50,557.01,186.75,9.94" >
+	<analytic>
+		<title level="a" type="main">Automobile Prices in Market Equilibrium</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Berry</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Levinsohn</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Pakes</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="841" to="890" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,579.31,453.54,12.23;25,96.50,592.03,436.78,12.23;25,96.50,606.93,81.00,9.94" >
+	<analytic>
+		<title level="a" type="main">Household Vehicle Type Holdings and Usage: An Application of the Multiple Discrete-continuous Extreme Value (MDCEV) Model</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">R</forename>
+				<surname>Bhat</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Sen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transportation Research Part B</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="35" to="53" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,629.35,453.79,12.22;25,96.50,644.25,180.27,9.94" >
+	<analytic>
+		<title level="a" type="main">Making enduring choices: Uncertainty and Public Policy</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">J</forename>
+				<surname>Bjornstad</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Mckee</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Economics</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="667" to="676" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,666.70,453.28,12.22;25,96.50,679.30,431.26,12.23" >
+	<analytic>
+		<title level="a" type="main">Joint Mixed Logit Models of Stated and Revealed Preferences for Alternative-fuel Vehicles</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Brownstone</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">S</forename>
+				<surname>Bunch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Train</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transportation Research Part B</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="315" to="338" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="25,79.46,703.90,453.44,12.23;25,96.50,716.62,436.78,12.23;25,96.50,731.52,81.00,9.94" >
+	<analytic>
+		<title level="a" type="main">A Transactions Choice Model for Forecasting Demand for Alternative-Fuel Vehicles</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Brownstone</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">S</forename>
+				<surname>Bunch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">F</forename>
+				<surname>Golob</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Ren</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research in Transportation Economics</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="87" to="129" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,110.20,453.71,9.94;26,96.50,122.80,436.69,9.94;26,96.50,135.52,341.51,9.94" >
+	<monogr>
+		<title level="m" type="main">The Differential Effect of Usage Cost on New and Used Durable Goods Markets: Evidence from the Automobile Industry, manuscript, Northwestern University and NBER</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">R</forename>
+				<surname>Busse</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">R</forename>
+				<surname>Knittel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Zettelmeyer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,160.12,453.66,9.94;26,96.50,172.84,244.89,9.94" >
+	<monogr>
+		<title level="m" type="main">Demand for Cars and their Attributes, a final report for the Department for Transport</title>
+		<author>
+			<persName>
+				<forename type="first">Cambridge</forename>
+				<surname>Econometrics</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-01-23" />
+			<pubPlace>Cambridge, UK</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,195.14,453.48,12.23;26,96.50,207.74,436.59,12.23;26,96.50,222.76,55.92,9.94" >
+	<analytic>
+		<title level="a" type="main">To Lease or By? A Structural Model of a Consumer&apos;s Vehicle and Contract Choice Decisions</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Dasgupta</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Siddarth</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Silva-Risso</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Marketing Research</title>
+		<imprint>
+			<biblScope unit="volume">XLIV</biblScope>
+			<biblScope unit="page" from="490" to="502" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,245.06,453.73,12.23;26,96.50,260.08,107.13,9.94" >
+	<analytic>
+		<title level="a" type="main">Psychology and Economics: Evidence from the Field</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Dellavigna</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Literature</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>forthcoming</note>
+</biblStruct>
+
+<biblStruct coords="26,79.46,282.41,453.75,12.23;26,96.50,297.31,425.89,9.94" >
+	<monogr>
+		<title level="m" type="main">Cost-Benefit Analysis of Fuel-Economy Improvement Discussion Paper, Institute for Transportation Studies</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Delucchi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-08" />
+			<pubPlace>Davis, California</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,319.73,453.77,12.23;26,96.50,334.63,432.88,9.94;26,96.50,347.35,276.77,9.94" >
+	<analytic>
+		<title level="a" type="main">Returns on Investments in Energysaving Technologies under Energy Price Uncertainty in Dutch Greenhouse Horticulture</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Diederen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Van Tongeren</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Van Der Veen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental and Resource Economics</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="379" to="394" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,371.95,453.71,9.94;26,96.50,384.55,363.68,9.94" >
+	<monogr>
+		<title level="m" type="main">Economics for the Environment Consultancy Ltd Demand for Cars and their Attributes, report prepared for the Department of Transport</title>
+		<imprint>
+			<date type="published" when="2008-01" />
+			<pubPlace>UK, London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,406.97,453.75,12.23;26,96.50,421.87,223.73,9.94" >
+	<analytic>
+		<title level="a" type="main">Automobile Fuel Economy: What is it Worth?</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Espey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Nair</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Contemporary Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="317" to="323" />
+			<date type="published" when="2005-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,444.29,453.66,12.23;26,96.50,459.21,254.69,9.94;26,351.19,456.94,5.40,6.26;26,360.67,459.21,172.48,9.94;26,96.50,471.81,226.19,9.94" >
+	<analytic>
+		<title level="a" type="main">Two-Stage Hedonic Price Model for Light-Duty Vehicles: Consumers&apos; Valuations of Automotive Fuel Economy in Maine</title>
+		<author>
+			<persName>
+				<forename type="first">Q</forename>
+				<surname>Fan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Rubin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">89 th Annual Meeting of the Transportation Research Board</title>
+		<meeting><address><addrLine>Washington, D.C</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,496.53,453.82,9.94;26,96.50,509.13,436.69,9.94;26,96.50,521.85,34.54,9.94" >
+	<analytic>
+		<title level="a" type="main">Vehicle Choices, Miles Driven and Pollution Policies, Working Paper 11553</title>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Feng</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Fullerton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Gan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research</title>
+		<imprint>
+			<date type="published" when="2005-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,546.45,453.68,9.94;26,96.50,559.17,436.63,9.94;26,96.50,571.77,24.84,9.94" >
+	<monogr>
+		<title level="m" type="main">Should Automobile Fuel Economy Standards Be Tightened? RFF Discussion Paper 04-53, Resources for the Future</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Fischer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Harrington</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">W H</forename>
+				<surname>Parry</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-02" />
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,594.07,453.78,12.23;26,96.50,609.09,202.61,9.94" >
+	<analytic>
+		<title level="a" type="main">A Psychological Law of Intertia and the Illusion of Loss Aversion</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Gal</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Judgment and Decision Making</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="23" to="32" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,631.39,449.87,12.22;26,96.50,646.44,285.65,9.94" >
+	<analytic>
+		<title level="a" type="main">The Effects of the Corporate Average Fuel Efficiency Standards in the U.S</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">K</forename>
+				<surname>Goldberg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Industrial Economics</title>
+		<imprint>
+			<biblScope unit="volume">XLVI</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="33" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,668.74,453.40,12.22;26,96.50,683.64,379.88,9.94" >
+	<analytic>
+		<title level="a" type="main">The Effects of the Corporate Average Fuel Efficiency Standards</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">K</forename>
+				<surname>Goldberg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Working Paper National Bureau of Economic Research</title>
+		<imprint>
+			<biblScope unit="volume">5673</biblScope>
+			<date type="published" when="1996-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,79.46,706.06,453.67,12.23;26,96.50,718.66,311.48,12.23" >
+	<analytic>
+		<title level="a" type="main">Product Differentiation and Oligopoly in International Markets: the Case of the U.S. Automobile Industry</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">K</forename>
+				<surname>Goldberg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Econometrica</title>
+		<imprint>
+			<biblScope unit="volume">63</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="891" to="951" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,272.33,759.68,260.73,11.09" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">—</forename>
+				<surname>Greene</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Discussion</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,110.20,453.82,9.94;27,96.50,122.80,436.64,9.94;27,96.50,135.52,93.36,9.94" >
+	<monogr>
+		<title level="m" type="main">Gas Prices and Endogenous Produce Selection in the U.S. Automobile Industry, manuscript</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Gramlich</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-11-20" />
+			<pubPlace>New Haven, Connecticut</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,157.82,453.30,12.22;27,96.50,170.54,415.64,12.23" >
+	<analytic>
+		<title level="a" type="main">A Note on Implicit Consumer Discounting of Automobile Fuel Economy: Reviewing the Available Evidence</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Greene</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transportation Research B</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="491" to="499" />
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,195.14,453.23,12.22;27,96.50,210.04,85.71,9.94" >
+	<monogr>
+		<title level="m" type="main">Uncertainty, Loss Aversion and Markets for Energy Efficiency</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Greene</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,232.46,453.36,12.22;27,96.50,247.36,436.78,9.94;27,96.50,260.08,159.41,9.94" >
+	<monogr>
+		<title level="m" type="main">Fuel Economy: The Case for Market Failure Reducing Climate Impacts in the Transportation Sector</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Greene</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>German</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Delucchi</surname>
+			</persName>
+		</author>
+		<editor>D. Sperling and J.S. Cannon</editor>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Springer Science + Business Media</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,282.41,453.64,12.23;27,96.50,295.01,428.00,12.22" >
+	<analytic>
+		<title level="a" type="main">Technology-Neutral Incentives for Energy-Efficient, Low Greenhouse Gas Emitting Vehicles</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Greene</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Testimony to the U.S. Senate Finance Committee</title>
+		<meeting><address><addrLine>Thursday</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-04-23" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,319.73,453.66,12.23;27,96.50,332.33,436.71,12.23;27,96.50,347.35,375.92,9.94" >
+	<analytic>
+		<title level="a" type="main">Analysis of In-Use fuel Economy Shortfall by Means of Voluntarily Reported Fuel Economy Estimates</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>Greene</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Goeltz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Hopson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Tworek</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transportation Research Record</title>
+		<imprint>
+			<biblScope unit="page" from="99" to="105" />
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+	<note>Transportation. Research Board of the National Academies</note>
+</biblStruct>
+
+<biblStruct coords="27,79.46,369.65,453.51,12.23;27,96.50,382.25,271.01,12.23" >
+	<analytic>
+		<title level="a" type="main">Energy Conservation Investment: Do Consumers Discount the Future Correctly</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">A</forename>
+				<surname>Hassett</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">E</forename>
+				<surname>Metcalf</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="710" to="716" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,406.97,453.63,12.23;27,96.50,421.87,199.85,9.94" >
+	<analytic>
+		<title level="a" type="main">Discount Rates and Energy Efficiency</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">B</forename>
+				<surname>Howarth</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">H</forename>
+				<surname>Stanstad</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Contemporary Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="101" to="109" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,446.59,406.11,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">International Energy Agency (IEA)</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,468.91,439.54,12.22" >
+	<analytic>
+		<title level="a" type="main">Bounded Rationality</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">D</forename>
+				<surname>Jones</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annual Review of Political Science</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page" from="297" to="321" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,495.81,453.52,9.94;27,96.50,508.53,436.52,9.94;27,96.50,521.13,307.51,9.94" >
+	<monogr>
+		<title level="m" type="main">Automobile Prices, Gasoline Prices, and Consumer Demand for Fuel Economy, Economic Analysis Group Discussion Paper EAG 08-11</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Langer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Miller</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-12" />
+			<pubPlace>Berkeley, California</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,543.55,448.84,12.23;27,96.50,558.45,313.52,9.94" >
+	<analytic>
+		<title level="a" type="main">How Do Gasoline Prices Affect Fleet Fuel Economy</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Li</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Timmins</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">G</forename>
+				<surname>Von Haefen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Journal: Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="113" to="137" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,580.87,453.82,12.23;27,96.50,595.77,112.11,9.94" >
+	<analytic>
+		<title level="a" type="main">The Link between Gasoline Prices and Vehicle Sales</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Mcmanus</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Business Economics</title>
+		<imprint>
+			<biblScope unit="page" from="53" to="60" />
+			<date type="published" when="2007-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,620.37,453.59,9.94;27,96.50,633.09,328.98,9.94" >
+	<analytic>
+		<title level="a" type="main">Effectiveness and Impact of Corporate Average Fuel Economy (CAFE) Standards</title>
+	</analytic>
+	<monogr>
+		<title level="m">NRC) National Research Council</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Academies Press</publisher>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,655.42,453.36,12.22;27,96.50,670.44,263.37,9.94" >
+	<monogr>
+		<title level="m" type="main">Qualitative Research Report: ORNL/NTRC Focus Groups</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Nye</surname>
+			</persName>
+		</author>
+		<editor>the Looking Glass Group</editor>
+		<imprint>
+			<date type="published" when="2002-04-08" />
+			<pubPlace>Knoxville, Tennessee</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,79.46,692.74,453.42,12.22;27,96.50,707.64,259.91,9.94" >
+	<analytic>
+		<title level="a" type="main">CARAVAN &quot; ORC Study #713218 for the National Renewable Energy Laboratory</title>
+	</analytic>
+	<monogr>
+		<title level="m">Opinion Research Corporation</title>
+		<meeting><address><addrLine>Princeton, New Jersey</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2004-03-20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,79.46,107.90,453.54,12.22;28,96.50,122.80,284.59,9.94" >
+	<analytic>
+		<title level="a" type="main">Review of International Policies for Vehicle Fuel Efficiency</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Onoda</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Energy Agency Information Paper Series</title>
+		<imprint>
+			<date type="published" when="2007-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,79.46,145.22,453.79,12.23;28,96.50,160.12,214.49,9.94" >
+	<analytic>
+		<title level="a" type="main">Does Britain or the U.S. Have the Right Gasoline Tax?</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">H</forename>
+				<surname>Parry</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">A</forename>
+				<surname>Small</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1276" to="1289" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,79.46,184.84,453.41,9.94;28,96.50,197.44,436.55,9.94;28,96.50,210.04,339.89,9.94" >
+	<monogr>
+		<title level="m" type="main">Are Capital and Operating Costs Weighted Equally in Durable Goods Purchases? Evidence from the U.S. Automobile Market, discussion paper</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">W</forename>
+				<surname>Sawhill</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-04" />
+			<pubPlace>Berkeley, California</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,79.46,234.76,453.58,9.94;28,96.50,247.36,436.43,9.94;28,96.50,260.08,183.45,9.94" >
+	<monogr>
+		<title level="m" type="main">Energy Use The Human Dimension, Committee on Behavioral and Social Aspects of Energy Consumption and Production, National Research Council</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">C</forename>
+				<surname>Stern</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Aronson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1984" />
+			<publisher>Freeman and Company</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,79.46,282.41,453.29,12.22;28,96.50,295.01,339.44,12.23" >
+	<analytic>
+		<title level="a" type="main">Vehicle Choice Behavior and the Declining Market Share of U.S. Automakers</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">E</forename>
+				<surname>Train</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Winston</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1469" to="1496" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,79.46,319.73,77.46,12.22;28,173.55,319.73,359.68,12.23;28,96.50,332.33,227.09,12.23" >
+	<analytic>
+		<title level="a" type="main">Discount Rates in Consumers&apos; Energy-related Decisions: A Review of the Literature</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Train</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="issue">12</biblScope>
+			<biblScope unit="page" from="1243" to="1253" />
+			<date type="published" when="1985" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,79.46,357.05,453.76,12.23;28,96.50,371.95,66.96,9.94" >
+	<analytic>
+		<title level="a" type="main">Car Buyers and Fuel Economy</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">S</forename>
+				<surname>Turrentine</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">S</forename>
+				<surname>Kurani</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Energy Policy</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="1213" to="1223" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,79.46,394.25,453.75,12.23;28,96.50,406.97,296.09,12.23" >
+	<analytic>
+		<title level="a" type="main">Advances in Prospect Theory: Cumulative Representation of Uncertainty</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Tversky</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Kahneman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Risk and Uncertainty</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="297" to="323" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,79.46,431.57,453.75,12.23;28,96.50,446.59,99.99,9.94" >
+	<analytic>
+		<title level="a" type="main">Context-dependent Preferences</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Tversky</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Simonson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Management Science</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="1179" to="1189" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

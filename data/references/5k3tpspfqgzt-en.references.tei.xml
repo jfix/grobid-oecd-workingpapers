@@ -1,0 +1,313 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_99"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="26,57.21,100.20,368.51,9.45;26,85.56,112.20,146.41,9.45" >
+	<monogr>
+		<title level="m" type="main">Essays on Environmental Regulation with Applications to Sweden</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Höglund</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<pubPlace>Sweden</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,130.20,337.71,9.45;26,85.56,142.20,292.25,9.45" >
+	<analytic>
+		<title level="a" type="main">Abatement Costs in Response to the Swedish Charge on Nitrogen Oxide Emissions</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Höglund-Isaksson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Environmental Economics and Management</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="issue">120</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,160.20,345.50,9.45;26,85.56,172.20,173.86,9.45" >
+	<analytic>
+		<title level="a" type="main">Innovation Impacts of the Swedish NOx Charge</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,190.20,363.81,9.45" >
+	<analytic>
+		<title level="a" type="main">Taxation, Innovation and the Environment</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing. doi</publisher>
+			<biblScope unit="page" from="10" to="1787" />
+			<date type="published" when="2010" />
+			<publisher>OECD Publishing. doi</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,208.20,367.59,9.45;26,85.56,220.20,326.22,9.45" >
+	<analytic>
+		<title level="a" type="main">Environmentally Related Taxes and Tradable Permit Systems in Practice</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD</publisher>
+			<biblScope unit="page">31</biblScope>
+			<date type="published" when="2007" />
+			<publisher>OECD</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,238.20,368.29,9.45;26,85.56,250.20,191.60,9.45" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Database of Information from Annual Surveys of Plants Regulated by the Swedish NOx Charge</title>
+		<meeting><address><addrLine>SEPA, Östersund</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,268.20,360.41,9.45;26,85.56,280.20,262.81,9.45" >
+	<analytic>
+		<title level="a" type="main">The Swedish Charge on Nitrogen Oxides – Cost-effective emission reduction, SEPA, Stockholm, available at www.naturvardsverket.se/Documents</title>
+	</analytic>
+	<monogr>
+		<title level="j">SEPA</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,298.20,367.14,9.45;26,85.56,310.20,330.70,9.45;26,85.56,322.20,262.81,9.45" >
+	<analytic>
+		<title level="a" type="main">Kväveoxidavgiften – ett effektivt styrmedel Utvärdering av NOx-avgiften (Reducing NOx Emissions. An Evaluation of the NOx Tax), Swedish, with an English Summary</title>
+	</analytic>
+	<monogr>
+		<title level="j">SEPA</title>
+		<imprint>
+			<publisher>pdf</publisher>
+			<biblScope unit="volume">5335</biblScope>
+			<biblScope unit="page" from="620" to="5335" />
+			<date type="published" when="2003" />
+			<publisher>pdf</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,340.20,359.96,9.45;26,85.56,352.20,262.14,9.45" >
+	<analytic>
+		<title level="a" type="main">Kväveoxider från förbränning &quot; (Nitrogen Oxide Emissions from Combustion), Allmänna råd 98:1, Swedish Environmental Protection Agency</title>
+	</analytic>
+	<monogr>
+		<title level="j">SEPA</title>
+		<imprint>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,370.20,357.69,9.45;26,85.56,382.20,87.57,9.45;26,173.12,387.29,2.19,5.67;26,177.43,382.20,187.68,9.45" >
+	<analytic>
+		<title level="a" type="main">Refunded Emission Payments Theory, Distribution of Costs, and Swedish Experience of NO x Abatement</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Sterner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Höglund-Isaksson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Economics</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="93" to="106" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,400.20,359.12,9.45;26,85.56,412.20,309.85,9.45;26,85.56,424.20,63.48,9.45" >
+	<monogr>
+		<title level="m" type="main">Innovation and Diffusion of Environmental Technology Discussion Paper 2008:02, Resources for the Future</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Sterner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Turnheim</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>pdf</publisher>
+			<biblScope unit="page" from="8" to="10" />
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.21,442.20,337.44,9.45;26,85.56,454.20,268.85,9.45" >
+	<monogr>
+		<title level="m" type="main">Economic Instruments in Environmental Policy, webpage, www. economicinstruments.com/index</title>
+		<imprint>
+			<date type="published" when="2008-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,57.19,53.87,91.02,20.33;26,227.14,645.14,198.57,8.35" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+				<surname>References</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Environment</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Paper</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>No</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,56.69,645.14,198.58,8.35" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">|</forename>
+				<surname>Oecd</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Policy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>No</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,56.69,54.87,344.57,8.35;29,82.92,245.81,321.22,9.57;29,82.92,257.81,252.43,9.57" >
+	<analytic>
+		<title level="a" type="main">Climate and Carbon: Aligning Prices and Policies</title>
+		<author>
+			<persName>
+				<forename type="first">The</forename>
+				<surname>Swedish</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>On</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Nitrogen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Emissions</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">LESSONS IN ENVIRONMENTAL POLICY REFORM OECD OECD Environment Policy Papers</title>
+		<imprint>
+			<publisher>OECD Publishing. doi</publisher>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="10" to="1787" />
+			<date type="published" when="2013" />
+			<publisher>OECD Publishing. doi</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,91.37,281.81,327.48,9.57;29,82.92,293.81,273.94,9.57" >
+	<analytic>
+		<title level="a" type="main">The Swedish Tax on Nitrogen Oxide Emissions: Lessons in Environmental Policy Reform</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD OECD Environment Policy Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2013" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

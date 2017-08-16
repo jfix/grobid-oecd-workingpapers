@@ -1,0 +1,697 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_131"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="9,68.16,578.20,464.97,8.90;9,59.52,587.44,473.46,8.90;9,59.52,596.68,473.49,8.90;9,59.52,605.80,175.32,8.90" >
+	<monogr>
+		<title level="m" type="main">Homes Passed are potential premises to which an operator has the capability to connect in a service area, but the premises may or may not be connected to the network. Typically new service activation will require the installation and/or connection of a drop cable from the homes passed point (e.g. fibre-pedestal, handhole, chamber, utility-pole) to the premises, and the installation of subscriber premises equipment, including an ONT (Optical Network Termination) device at the premises</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,68.29,615.04,464.77,8.90;9,59.52,624.28,309.75,8.90" >
+	<monogr>
+		<title level="m" type="main">Network architecture in which a communications path is provided over optical fibre cables extending from the telecommunications operator&apos;s switching equipment to (at least) the boundary of the home living space or business office space</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,68.29,633.40,464.77,8.90;9,59.52,642.64,473.46,8.90;9,59.52,651.88,473.48,8.90;9,59.52,661.00,277.50,8.90" >
+	<monogr>
+		<title level="m" type="main">Network architecture in which a communications path is provided over optical fiber cables extending from the telecommunications operator&apos;s switching equipment to (at least) the boundary of the private property enclosing the home or business of the subscriber or set of subscribers, but where the optical fiber terminates before reaching the home living space or business office space and where the access path continues to the subscriber over a physical medium other than optical fiber (for example copper loops)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,67.68,670.24,241.73,8.90" >
+	<monogr>
+		<title level="m" type="main">Topologies can be either point-to-point (PtP) or point to multipoint (PtMP)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,67.68,679.48,278.26,8.90" >
+	<monogr>
+		<title level="m" type="main">Altnets are alternative network operators other than the traditional Incumbent operator</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,67.68,688.60,250.31,8.90" >
+	<monogr>
+		<title level="m" type="main">Data excludes the network of the main cable operator in France</title>
+		<imprint>
+			<pubPlace>Numericable</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="9,59.52,707.08,473.60,8.90;9,59.52,716.20,473.56,8.90;9,59.52,725.44,23.02,8.90" >
+	<analytic>
+		<title level="a" type="main">Data is for FTTH/B only. FTTC and FTTLA are not included</title>
+		<author>
+			<persName>
+				<surname>Sources</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">FTTH Council North America FTTH Council Asia Pacific See definition in Annex 1 for further details</title>
+		<imprint>
+			<date type="published" when="2009-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,252.84,159.60,86.81,12.22" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">BIBLIOGRAPHY</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,215.52,383.98,12.22;31,87.84,229.92,357.24,12.22" >
+	<monogr>
+		<title level="m" type="main">Fibre capacity limitations in access networks</title>
+		<author>
+			<persName>
+				<forename type="first">Analysys</forename>
+				<surname>Mason</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,254.52,464.63,12.22;31,87.84,267.12,406.40,12.22;31,87.84,279.84,308.09,12.22" >
+	<analytic>
+		<title level="a" type="main">Rapport relatif au déploiement des réseaux en fibre optique suite à la première phase de travaux d&apos;expérimentation et d&apos;évaluation menés sous l&apos;égide de l&apos;ARCEP&quot;. Available here: www</title>
+	</analytic>
+	<monogr>
+		<title level="j">ARCEP</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,304.44,473.41,12.22;31,87.84,317.16,273.00,12.22" >
+	<analytic>
+		<title level="a" type="main">Contestable markets: an uprising in the theory of industry structure: Reply</title>
+		<author>
+			<persName>
+				<surname>Baumol</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">73</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="491" to="496" />
+			<date type="published" when="1983" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,341.76,405.08,12.22;31,87.84,354.36,168.48,12.22" >
+	<analytic>
+		<title level="a" type="main">BoR (10) 08 BEREC, Report on NGA wholesale products Available here: www</title>
+	</analytic>
+	<monogr>
+		<title level="j">BEREC</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,379.08,458.96,12.22;31,87.84,391.68,196.00,12.22;31,87.84,404.40,326.78,12.22" >
+	<monogr>
+		<title level="m" type="main">Next Generation Connectivity: A review of broadband Internet transitions and policy from around the world</title>
+		<author>
+			<persName>
+				<forename type="first">Berkman</forename>
+				<surname>Centre</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,429.01,420.61,12.22;31,87.84,441.61,314.28,12.22" >
+	<analytic>
+		<title level="a" type="main">Six Degrees of Separation: Operational Separation as a Remedy in European Telecommunications Regulation</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Cave</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Communications &amp; Strategies</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="15" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,466.32,442.31,12.22;31,87.84,478.92,108.72,12.22" >
+	<analytic>
+		<title level="a" type="main">Snakes and ladders: unbundling in a next generation world</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Cave</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Telecommunications Policy</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="80" to="85" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,503.64,447.55,12.22;31,87.84,516.24,432.00,12.22" >
+	<analytic>
+		<title level="a" type="main">The Extended Gestation and Birth of the European Commission&apos;s Recommendation on the Regulation of NGAs</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Cave</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Shortall</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Monitoring EU Telecoms Policy</title>
+		<imprint>
+			<publisher>NEREC</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,540.84,467.49,12.22;31,87.84,553.57,65.19,12.22" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Progress Report on the Single European Electronic Communications Market</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>15th. Report</note>
+</biblStruct>
+
+<biblStruct coords="31,59.52,578.17,447.40,12.22;31,87.84,590.89,25.20,12.22" >
+	<analytic>
+		<title level="a" type="main">European Broadband: investing in digitally driven growth</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Commission COM</title>
+		<imprint>
+			<biblScope unit="volume">472</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,615.49,350.19,12.22;31,59.52,640.21,175.84,12.22" >
+	<analytic>
+		<title level="a" type="main">Broadband Economics: Lessons from Japan</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Ida</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Digiworld Presentation</title>
+		<meeting><address><addrLine>Routledge, London IDATE</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,664.81,352.08,12.22" >
+	<analytic>
+		<title level="a" type="main">Market Trends, Facts &amp; Figures&quot; www.idate.org</title>
+	</analytic>
+	<monogr>
+		<title level="j">IDATE</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,689.40,359.58,12.22" >
+	<analytic>
+		<title level="a" type="main">Ubiquitous Network Societies: The Case of the Republic of Korea</title>
+	</analytic>
+	<monogr>
+		<title level="j">ITU</title>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,59.52,714.12,406.83,12.22;31,87.84,726.72,175.06,12.22" >
+	<analytic>
+		<title level="a" type="main">Network Neutrality: The Roots of the Debate in the United States</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Scott</forename>
+				<surname>Marcus</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Intereconomics</title>
+		<imprint>
+			<biblScope unit="volume">43</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.52,99.36,461.15,12.22;32,87.84,111.96,66.97,12.22" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Scott</forename>
+				<surname>Marcus</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Kenneth</forename>
+				<forename type="middle">R</forename>
+				<surname>Carter</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Christian</forename>
+				<surname>Wernick</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Network Neutrality: Implications for Europe</title>
+		<imprint>
+			<publisher>WIK</publisher>
+			<date type="published" when="2009" />
+			<publisher>WIK</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.52,136.68,460.38,12.22;32,87.84,149.28,171.70,12.22;32,87.84,162.00,383.07,12.22;32,59.52,186.60,463.65,12.22;32,87.84,199.32,344.99,12.22;32,59.52,223.92,373.87,12.22;32,87.84,236.52,199.53,12.22;32,59.52,261.24,371.22,12.22;32,87.84,273.89,205.68,12.75" >
+	<analytic>
+		<title level="a" type="main">Results of Public Comment Thereon Press release 11.08Japan&apos;s Strategy for the Nationwide Development of Broadband and FTTHBroadband Growth and Policies in OECD Countries</title>
+	</analytic>
+	<monogr>
+		<title level="m">Telecommunications/news060811_1.html MICJ Developments in fibre technologies and investment</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.52,299.04,426.10,12.22;32,87.84,311.76,442.50,12.22;32,87.84,324.36,29.75,12.22" >
+	<analytic>
+		<title level="a" type="main">Network Developments in Support of Innovation and User Needs&apos;. Available at: www.oecd.org/officialdocuments/displaydocumentpdf</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>final&amp;doclangua. ge=en</note>
+</biblStruct>
+
+<biblStruct coords="32,59.52,349.08,277.10,12.22" >
+	<analytic>
+		<title level="a" type="main">Is Two Enough</title>
+	</analytic>
+	<monogr>
+		<title level="m">Economic Policy Note</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.52,373.68,467.76,12.22;32,87.84,386.88,399.63,12.22;32,87.84,399.60,102.80,12.22" >
+	<monogr>
+		<title level="m" type="main">Broadband facts, fiction and urban myths&quot;. Telecommunications Journal of Australia</title>
+		<author>
+			<persName>
+				<forename type="first">Rodney</forename>
+				<forename type="middle">S</forename>
+				<surname>Tucker</surname>
+			</persName>
+		</author>
+		<imprint>
+			<publisher>Monash University ePress</publisher>
+			<pubPlace>Victoria</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.52,424.20,380.40,12.22" >
+	<analytic>
+		<title level="a" type="main">Driving fibre closer to the home</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Twist</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Photonics</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">22</biblScope>
+			<biblScope unit="page" from="149" to="150" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,59.52,448.80,384.93,12.22;32,87.84,461.52,347.77,12.22;33,277.56,147.60,37.36,12.22;33,59.52,207.23,3.24,7.17" >
+	<analytic>
+		<title level="a" type="main">The Economics of Next Generation Access -Final Report Available at: http://www.ectaportal.com/en</title>
+	</analytic>
+	<monogr>
+		<title level="j">WiK</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,104.52,208.68,264.39,11.03" >
+	<monogr>
+		<title level="m" type="main">IDate &apos;FTTX Facts and Figures 2010&apos; and FTTH Council Europe</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,102.00,232.20,430.92,11.03;33,102.00,243.72,54.66,11.03" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Triennial Review Order</title>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page" from="3" to="36" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,102.00,267.12,355.01,11.03;33,59.52,289.19,3.24,7.17;33,102.00,290.64,430.86,11.03;33,102.00,302.16,431.02,11.03;33,102.00,313.68,430.81,11.03;33,102.00,325.20,42.12,11.03;33,172.83,325.20,32.12,11.03;33,233.71,325.20,11.60,11.03;33,274.13,325.20,24.22,11.03;33,327.09,325.20,32.25,11.03;33,387.96,325.20,6.67,11.03;33,423.27,325.20,30.53,11.03;33,482.43,325.20,50.46,11.03;33,102.00,336.72,382.65,11.03" >
+	<monogr>
+		<title level="m" type="main">fcc.gov/edocs_public/attachmatch/DOC-264436A1.pdf; Letter from Edward Shakin, Vice President and Associate General Counsel, Verizon, to Marlene H. Dortch, Secretary, FCC, WC Docket No. 04-440, at Attach. 1 (filed Feb Letter) (including a list of 10 specific broadband services for which Verizon is seeking forbearance)</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,102.00,360.12,283.14,11.03;33,59.52,382.19,3.24,7.17;33,102.00,383.64,283.14,11.03;33,59.52,405.71,3.24,7.17;33,102.00,407.16,283.14,11.03;33,59.52,429.23,3.24,7.17;33,102.00,430.68,330.31,11.03;33,102.00,442.20,329.99,11.03" >
+	<monogr>
+		<title level="m" type="main">fcc.gov/edocs_public/attachmatch/FCC-08-168A1.pdf 7 http://hraunfoss.fcc.gov/edocs_public/attachmatch/FCC-07-184A1</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,102.00,489.12,431.00,11.03;33,102.00,500.64,93.45,11.03" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">American</forename>
+				<surname>Recovery</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Reinvestment</forename>
+				<surname>Act</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">123 Stat</title>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="111" to="116" />
+		</imprint>
+	</monogr>
+	<note>Recovery. Act</note>
+</biblStruct>
+
+<biblStruct coords="33,102.00,524.16,274.25,11.03" >
+	<monogr>
+		<title level="m" type="main">Article 19 Recommendations seek to ensure a harmonised approach</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,102.00,547.68,430.84,11.03;33,102.00,559.20,431.00,11.03;33,102.00,570.60,156.78,11.03" >
+	<analytic>
+		<title level="a" type="main">access products are split into physical access markets (market 4) and virtual access markets (market 5) for a full description</title>
+	</analytic>
+	<monogr>
+		<title level="m">European Union Member States</title>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="page" from="28" to="40" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.52,592.72,6.96,7.70;33,102.00,595.08,244.25,11.03;33,104.52,606.84,402.74,11.03;33,102.00,618.25,272.07,11.03;33,102.00,629.76,280.19,11.03;33,102.00,641.28,348.38,11.03;33,102.00,652.80,376.66,11.03;33,102.00,664.32,279.71,11.03;33,102.00,675.84,411.17,11.03;33,102.00,687.24,126.36,11.03;33,102.00,698.76,251.34,11.03;33,102.00,710.28,246.77,11.03;33,102.00,721.80,310.17,11.03;34,102.00,111.96,293.76,11.03;34,102.00,123.48,220.70,11.03;34,102.00,135.00,220.60,11.03;34,59.52,156.59,6.48,7.17" >
+	<monogr>
+		<title level="m" type="main">/dgtp-003-08-telesat-replycomments.pdf; http://www.usda.gov/rus/telecom/; http://www.usda.gov/rusaustralia-goes-structural-separation.html http://www.med.govt.nz/upload/63958/Final-broadband-initiative-consultation-document.pdf</title>
+		<author>
+			<persName>
+				<forename type="first">/</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>www.planavanza.es/NR/rdonlyres/EAF9F73D-DF3B-4955-8CCD- F5AA38642A1F/0/TheInformationSocietyinSpain.pdf</note>
+</biblStruct>
+
+<biblStruct coords="34,102.00,158.04,431.03,11.03;34,102.00,169.56,22.86,11.03" >
+	<analytic>
+		<title level="a" type="main">European Broadband: investing in digitally driven growth</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Commission COM</title>
+		<imprint>
+			<biblScope unit="volume">472</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,102.00,192.96,423.52,11.03" >
+	<monogr>
+		<title level="m" type="main">For instance BT accounts for approximately 2% of the FTTH/B lines identified in the UK as at</title>
+		<imprint>
+			<date type="published" when="2010-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,102.00,263.52,275.56,11.03" >
+	<monogr>
+		<title level="m" type="main">See &apos;Fiber To The Home Benefit Compendium</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,102.00,287.04,116.95,11.03" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">See</forename>
+				<surname>For</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Arcep</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.52,332.51,6.48,7.17;34,102.00,333.96,179.28,11.03;34,59.52,356.03,6.48,7.17;34,102.00,357.48,159.41,11.03;34,59.52,379.55,6.48,7.17;34,102.00,381.00,430.83,11.03;34,102.00,392.52,414.46,11.03" >
+	<monogr>
+		<title level="m" type="main">Opta in the Netherland Arcep in France 22 E.g. SFR in France, Sonaecom Portugal 23 http://stakeholders.ofcom.org.uk/binaries/research/technology-research/fibre.pdf interestingly, Analysis Mason also rank TDM PON ahead of PtP networks due (principally) to operational space requirements</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,102.00,416.04,430.93,11.03;34,102.00,427.56,430.88,11.03;34,102.00,438.96,430.91,11.03;34,102.00,450.48,430.89,11.03;34,102.00,462.00,54.58,11.03" >
+	<monogr>
+		<title level="m" type="main">The key upgrade requirement is that active equipment in the field will need to be changed. Deployments which anticipate upgrades are likely to facilitate such a change. For example Portugal Telecom in Portugal and Verizon in the United States have both used snap-in, snap-out type systems for splitters (an active element) which should make an upgrade easier than spliced solutions if an upgrades were ever implemented</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,102.00,545.64,431.09,11.03;34,104.52,557.40,79.96,11.03" >
+	<analytic>
+		<title level="a" type="main">Snakes and ladders: unbundling in a next generation world</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>See</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Cave</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Telecommunications Policy</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="page" from="80" to="85" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.52,578.87,6.48,7.17;34,102.00,580.32,430.95,11.03;34,102.00,591.84,431.01,11.03;34,102.00,603.36,430.98,11.03;34,102.00,614.88,430.86,11.03;34,102.00,626.28,137.87,11.03" >
+	<monogr>
+		<title level="m" type="main">France does not a have regulated FTTH/B bitstream product, the Netherlands has limited bitstream access over FTTH to the high-quality market, while Portugal has proposed to bring forward regulated bitstream offer in the non-competitive areas. Spain has limited bitstream access to products under 30 mbs. Note that this position may be viewed as being at odds with the European Commission&apos;s advice regarding the availability of access products</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.52,648.35,6.48,7.17;34,102.00,649.80,430.89,11.03;34,102.00,661.32,431.04,11.03;34,102.00,672.84,306.79,11.03" >
+	<monogr>
+		<title level="m" type="main">Ofcom in the United Kingdom While Ofcom also favours infrastructure-based competition (hence its focus on LLU) but recognises that, in relation to superfast broadband, the best solution may vary by geography and ultimately hopes to achieve a form of light-wave unbundling</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,102.00,696.36,411.16,11.03" >
+	<monogr>
+		<title level="m" type="main">Local loop availability and pricing in the Netherlands and Canada being the most celebrated examples</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,102.00,719.88,430.89,11.03;34,102.00,731.29,317.70,11.03" >
+	<monogr>
+		<title level="m" type="main">Network Developments in Support of Innovation and User Needs&apos; OECD. See also Ovum 2009 &apos;Fibre: the socio-economic benefits</title>
+		<author>
+			<persName>
+				<forename type="first">See</forename>
+				<surname>For</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Enck</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Reynolds</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

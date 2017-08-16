@@ -1,0 +1,1362 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_52"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="36,59.52,196.58,463.30,12.22;36,87.86,209.30,409.81,12.23;36,87.86,224.20,38.26,9.94" >
+	<monogr>
+		<title level="m" type="main">Institutions as a Fundamental Cause of Long-Run Growth</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Acemoglu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Johnson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Robinson</surname>
+			</persName>
+		</author>
+		<editor>Aghion, F. and S. Darlauf</editor>
+		<imprint>
+			<date type="published" when="2005" />
+			<publisher>Elsevier North Holland</publisher>
+		</imprint>
+	</monogr>
+	<note>Handbook. of Economic Growth</note>
+</biblStruct>
+
+<biblStruct coords="36,59.52,243.62,468.19,12.23;36,87.86,258.52,433.64,9.94" >
+	<analytic>
+		<title level="a" type="main">Regional GDP in OECD Countries: How Has Inequality Developed over Time?</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Arnold</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Blöchliger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,277.97,450.81,12.23;36,87.86,292.87,161.91,9.94" >
+	<analytic>
+		<title level="a" type="main">Agglomeration, Integration and Tax Harmonisation</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Baldwin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Krugman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,312.17,459.64,12.23;36,87.86,327.19,113.19,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Barro</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Sala-I-Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Convergence Across States and Regions</title>
+		<imprint>
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,348.79,372.75,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Barro</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Sala-I-Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Economic Growth</title>
+		<meeting><address><addrLine>New York</addrLine></address></meeting>
+		<imprint>
+			<publisher>McGraw-Hill</publisher>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,368.21,458.30,12.23;36,87.86,383.11,331.49,9.94" >
+	<analytic>
+		<title level="a" type="main">Political Yardstick Competition Among Italian Municipalities on Spending Decisions</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Bartolini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Santolini</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Annals of Regional Science</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="213" to="235" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,402.41,449.73,12.23;36,87.86,415.13,277.49,12.23" >
+	<analytic>
+		<title level="a" type="main">Estimation and Inference in Dynamic Unbalanced Panel-data Models with a Small Number of Individuals</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Bruno</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Stata Journal</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="473" to="500" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,436.73,462.52,12.23;36,87.86,449.45,141.30,12.22" >
+	<monogr>
+		<title level="m" type="main">Measuring Fiscal Decentralization: a New Perspective</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">E</forename>
+				<surname>Bell</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">D</forename>
+				<surname>Ebel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Kaiser</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Rojchaichaninthorn</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,471.07,442.37,12.22;36,87.86,483.67,302.21,12.23" >
+	<analytic>
+		<title level="a" type="main">Incentives, Choice, and Accountability in the Provision of Public Services</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Besley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Ghatak</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford Review of Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="235" to="249" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,505.39,438.12,12.23;36,87.86,520.29,361.56,9.94;36,87.86,533.01,211.95,9.94" >
+	<analytic>
+		<title level="a" type="main">Does Fiscal Decentralisation Foster Regional Convergence?</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Blöchliger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Bartolini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Stossberg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economic Policy Paper</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">17</biblScope>
+			<date type="published" when="2016" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,554.61,375.47,9.94;36,87.86,567.21,418.90,9.94;36,87.86,579.93,216.39,9.94" >
+	<analytic>
+		<title level="a" type="main">Tax Competition Between Sub-Central Governments</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Blöchliger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J. Pinero</forename>
+				<surname>Campos</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Working Papers on Fiscal Federalism</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">13</biblScope>
+			<date type="published" when="2011" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,601.53,442.40,9.94;36,87.86,614.25,427.88,9.94;36,87.86,626.85,145.50,9.94;36,87.86,639.45,220.59,9.94" >
+	<analytic>
+		<title level="a" type="main">Decentralisation and Economic Growth -Part 2: The Impact on Economic Activity, Productivity and Investment</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Blöchliger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Égert</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Working Papers on Fiscal Federalism</title>
+		<meeting><address><addrLine>Paris. DOI</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="5" to="4559" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,661.20,467.31,9.94;36,87.86,673.80,126.77,9.94" >
+	<monogr>
+		<title level="m" type="main">Fiscal Federalism. Principles and Practice of Multiorder Governance</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Broadway</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Shah</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.52,693.22,442.88,12.22;36,87.86,705.82,403.64,12.23" >
+	<analytic>
+		<title level="a" type="main">Fiscal Decentralization and Regional Disparities: Evidence from Several European Union Countries</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ezcurra</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Pascual</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning A</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1185" to="1201" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,64.82,89.95,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page">54</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,101.68,462.68,9.94;37,87.86,111.98,308.33,12.23" >
+	<analytic>
+		<title level="a" type="main">Government Quality and Spatial Inequality: a Cross-Country Analysis</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ezcurra</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rodríguez-Pose</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning A</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1732" to="1753" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,135.88,458.43,9.94;37,87.86,148.60,431.47,9.94;37,87.86,161.20,334.01,9.94" >
+	<analytic>
+		<title level="a" type="main">Decentralisation and Economic Growth -Part 3: Decentralisation, Infrastructure Investment and Educational Performance</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Fredriksen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Working Papers on Fiscal Federalism</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">16</biblScope>
+			<biblScope unit="page" from="5" to="4559" />
+			<date type="published" when="2013" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,182.92,384.07,9.94" >
+	<monogr>
+		<title level="m" type="main">The Spatial Economy</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Fujita</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Krugman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Venables</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+			<publisher>The MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,204.52,454.49,9.94;37,87.86,217.24,423.85,9.94;37,87.86,229.84,212.67,9.94" >
+	<analytic>
+		<title level="a" type="main">The Contribution of Regions to Aggregate Growth in the OECD</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Garcilazo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Oliveira</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Martins</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Regional Development Working Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page" from="5" to="8" />
+			<date type="published" when="2013" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,249.14,409.26,12.23;37,87.86,261.86,193.46,12.23" >
+	<analytic>
+		<title level="a" type="main">Income Inequality, Fiscal Decentralization and Transfer Dependency</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Goerl</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Seiferling</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IMF Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">64</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,283.49,451.46,12.22;37,87.86,296.21,203.91,12.23" >
+	<monogr>
+		<title level="m" type="main">Decentralizing Spending More than Revenue: Does it Hurt Fiscal Performance?</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Eyraud</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Lusinyan</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,320.11,463.67,9.94;37,87.86,332.71,210.39,9.94" >
+	<monogr>
+		<title level="m" type="main">Manual on Regional Accounts Methods, Eurostat Manuals and Guidelines</title>
+		<author>
+			<persName>
+				<forename type="first">European</forename>
+				<surname>Union</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>2013. edition</note>
+</biblStruct>
+
+<biblStruct coords="37,59.52,352.13,438.60,12.23;37,87.86,367.03,159.75,9.94" >
+	<analytic>
+		<title level="a" type="main">Structural Indicators: A Critical Review</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Furceri</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Mourougane</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Journal: Economic Studies</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="34" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,388.75,455.41,9.94;37,87.86,401.35,400.10,9.94;37,87.86,413.95,112.59,9.94" >
+	<monogr>
+		<title level="m" type="main">A Postfunctionalist Theory of Governance. Volume I: Measuring Regional Authority</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Hooghe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Marks</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">H</forename>
+				<surname>Schakel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">S</forename>
+				<surname>Osterkatz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Niedzwiecki</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Shair-Rosenfield</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>Oxford</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,433.37,460.54,12.23;37,87.86,448.27,107.28,9.94" >
+	<analytic>
+		<title level="a" type="main">What Have We Learnt from the Convergence Debate?</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Islam</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Survey</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="309" to="362" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,467.71,435.40,12.23;37,87.86,480.31,413.97,12.23;37,87.86,495.21,83.40,9.94" >
+	<analytic>
+		<title level="a" type="main">Does Fiscal Decentralization Foster Regional Investment in Productive Infrastructures?</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Kappeler</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sollé-Ollé</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Stephan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Välilä</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Journal of Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="15" to="25" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,516.93,462.30,9.94;37,87.86,529.53,404.84,9.94;37,87.86,542.25,43.80,9.94" >
+	<analytic>
+		<title level="a" type="main">The Worldwide Governance Indicators: A Summary of Methodology, Data and Analytical Issues</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Kaufmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Kraay</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Mastruzzi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">World Bank Policy Research Working Paper</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,561.55,440.15,12.23;37,87.86,574.15,420.85,12.23;37,87.86,589.17,33.84,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Decentralization and Regional Disparities: The Importance of Good Governance</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Kyriacou</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Muinelo-Gallo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Roca-Sagalés</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Papers in Regional Science</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="107" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,610.77,453.54,9.94;37,87.86,623.49,75.17,9.94" >
+	<monogr>
+		<title level="m" type="main">The Theory of Incentives. The Principal-Agent Model</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">J</forename>
+				<surname>Laffont</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Martimort</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Princeton University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,642.82,468.15,12.23;37,87.86,657.84,180.02,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Decentralization and Regional Disparity: A Panel Data Approach for OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Lessmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IFO Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">25</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,677.14,462.78,12.23;37,87.86,689.74,298.01,12.23" >
+	<analytic>
+		<title level="a" type="main">Fiscal Decentralisation and Regional Disparity: Evidence from Cross-Section and Panel Data</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Lessmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning A</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="page" from="2455" to="2473" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.52,711.46,443.74,12.23;37,87.86,726.36,251.93,9.94" >
+	<analytic>
+		<title level="a" type="main">Spatial Inequality and Development – Is There an Inverted-U Relationship?</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Lessmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Development Economics</title>
+		<imprint>
+			<biblScope unit="volume">106</biblScope>
+			<biblScope unit="page" from="35" to="51" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,440.23,64.82,89.95,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+			<biblScope unit="page">54</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,99.38,452.32,12.23;38,87.86,114.28,192.51,9.94" >
+	<analytic>
+		<title level="a" type="main">A Short History of Global Inequality: the Past Two Centuries</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Milanovic</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Explorations in Economic History</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="494" to="506" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,133.58,447.17,12.23;38,87.86,148.60,351.77,9.94" >
+	<analytic>
+		<title level="a" type="main">Global Inequality of Opportunity: How much of our Income is Determined by where We Live?</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Milanovic</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Economics and Statistics</title>
+		<imprint>
+			<biblScope unit="volume">97</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="452" to="460" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,170.20,467.91,9.94;38,87.86,182.92,26.03,9.94" >
+	<monogr>
+		<title level="m" type="main">Institutions, Institutional Change and Economic Performance</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">C</forename>
+				<surname>North</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990" />
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,204.52,366.01,9.94;38,87.86,217.24,227.07,9.94" >
+	<analytic>
+		<title level="a" type="main">How Regions Grow: Trends and Analysis</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2009" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,238.84,470.07,9.94;38,87.86,251.44,77.37,9.94;38,87.86,264.16,227.07,9.94" >
+	<analytic>
+		<title level="a" type="main">OECD Regional Outlook 2011: Building Resilient Regions for Stronger Economies</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2011" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,285.79,331.79,9.94;38,87.86,298.51,227.07,9.94" >
+	<analytic>
+		<title level="a" type="main">Promoting Growth in All Regions</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2012" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,320.11,466.42,9.94;38,87.86,332.71,110.10,9.94;38,87.86,345.43,227.07,9.94" >
+	<analytic>
+		<title level="a" type="main">How&apos;s Life in Your Region? Measuring Regional and Local Well-being for Policy Making</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2014" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,364.73,430.27,12.23;38,87.86,377.45,304.37,12.23" >
+	<analytic>
+		<title level="a" type="main">Is there a Global Link Between Regional Disparities and Devolution?</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rodriguez-Posé</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Gill</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environment and Planning A</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="2097" to="2117" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,399.05,451.57,12.23;38,87.86,411.65,360.89,12.23" >
+	<analytic>
+		<title level="a" type="main">Does Decentralization Matter for Regional Disparities? A Cross-Country Analysis</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rodriguez-Posé</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ezcurra</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Geography</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="619" to="644" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,433.37,418.08,12.23;38,87.86,445.97,304.13,12.23" >
+	<analytic>
+		<title level="a" type="main">Regional Cohesion: Evidence and Theories of Regional Growth and Convergence</title>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Sala-I-Martin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">European Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="page" from="1325" to="1352" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,467.71,455.48,12.22;38,87.86,480.31,434.60,12.23;38,87.86,495.21,118.32,9.94" >
+	<analytic>
+		<title level="a" type="main">Bridging the Economic Divide Within Countries: A Scorecard on the Performance of Regional Policies in Reducing Regional Income Disparities</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Shankar</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Shah</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Development</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1421" to="1441" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,514.63,455.09,12.23;38,87.86,529.53,203.28,9.94" >
+	<analytic>
+		<title level="a" type="main">Measuring Regional Economies</title>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Spiezia</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Statistics Brief</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2003" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,548.95,445.01,12.23;38,87.86,563.85,413.35,9.94;38,87.86,576.45,156.63,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Decentralisation and Income Inequality: Empirical Evidence from OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Stossberg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Bartolini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Blöchliger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,595.87,469.86,12.23;38,87.86,610.77,353.81,9.94" >
+	<analytic>
+		<title level="a" type="main">Promoting Responsible and Sustainable Fiscal Decentralization</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Ter-Minassian</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Multilevel Finance</title>
+		<editor>Ahmad, E. and G. Brosio</editor>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,630.19,455.66,12.22;38,87.86,642.82,343.73,12.23" >
+	<analytic>
+		<title level="a" type="main">Regional Inequality and the Process of National Development: a Description of Partners</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Williamson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Development and Cultural Change</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="3" to="45" />
+			<date type="published" when="1965" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,664.54,473.11,12.23;38,87.86,679.44,213.62,9.94" >
+	<analytic>
+		<title level="a" type="main">Tax Competition in a Federal Setting</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">D</forename>
+				<surname>Wilson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Handbook of Multilevel Finance</title>
+		<editor>Ahmad, E. and G. Brosio</editor>
+		<imprint>
+			<publisher>Edward Elgar Publishing</publisher>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.52,701.04,470.30,9.94;38,87.86,713.76,20.55,9.94;42,260.33,235.57,26.28,7.44;42,373.15,235.57,24.50,7.44;42,441.31,235.57,20.06,7.44;42,258.53,248.41,29.78,7.44;42,370.51,248.41,29.78,7.44;42,438.67,248.41,25.34,7.44" >
+	<monogr>
+		<title level="m" type="main">Econometric Analysis of Cross Section and Panel Data</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Wooldridge</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>MIT Press</publisher>
+			<pubPlace>Cambridge, MA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,108.74,285.91,61.59,8.32;42,253.01,286.60,96.88,7.44;42,364.99,286.60,40.94,7.44;42,435.55,286.60,31.62,7.44" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">GDP per capita 1.44e-05*** 1.51e-05*** 1.41e-05*** 4</title>
+		<imprint>
+			<biblScope unit="page" from="41" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,108.74,311.35,97.60,8.32;42,253.25,312.16,40.45,7.44;42,310.73,312.16,37.35,7.44;42,366.79,312.16,37.33,7.44;42,449.11,312.16,4.47,7.44" >
+	<monogr>
+		<title level="m" type="main">GDP per capita (square) -1.28e-10**</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,108.74,413.35,117.59,8.32;42,254.57,414.16,37.80,7.44;42,310.49,414.16,37.80,7.44;42,366.55,414.16,37.80,7.44;42,430.87,414.16,40.93,7.44;42,256.37,426.88,34.22,7.44;42,312.29,426.88,34.22,7.44;42,368.35,426.88,34.22,7.44;42,434.23,426.88,34.22,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Va</forename>
+				<surname>Share</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,254.93,477.90,36.88,7.44;42,310.85,477.90,36.90,7.44;42,366.91,477.90,36.88,7.44;42,432.79,477.90,36.91,7.44" >
+	<monogr>
+		<title level="m" type="main">25e-10) (8.74e-10) (8.47e-10) (6</title>
+		<imprint>
+			<biblScope unit="page" from="90" to="100" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,108.74,489.93,99.11,8.32;42,256.73,490.62,33.36,7.44;42,312.65,490.62,33.36,7.44;42,368.71,490.62,33.36,7.44;42,433.03,490.62,36.49,7.44;42,258.53,503.46,29.78,7.44;42,314.45,503.46,29.78,7.44;42,370.51,503.46,29.78,7.44;42,434.23,503.46,34.22,7.44" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Population</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,108.74,515.37,107.66,8.33;42,256.73,516.18,33.37,7.44;42,312.65,516.18,33.37,7.44;42,368.71,516.18,33.37,7.44;42,429.91,516.18,42.72,7.44;42,254.09,528.90,38.66,7.44;42,310.01,528.90,38.66,7.44;42,366.07,528.90,38.66,7.44;42,431.95,528.90,38.66,7.44" >
+	<monogr>
+		<title level="m" type="main">Public debt (share of GDP) 0</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,108.74,540.93,126.65,8.33;42,254.33,541.62,38.29,7.44;42,310.25,541.62,38.29,7.44;42,366.31,541.62,38.29,7.44;42,432.19,541.62,38.29,7.44;42,254.09,554.46,38.66,7.44;42,310.01,554.46,38.66,7.44;42,366.07,554.46,38.66,7.44;42,431.95,554.46,38.66,7.44" >
+	<monogr>
+		<title level="m" type="main">Public spending (share of GDP) 0</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,108.74,592.41,53.06,8.33;42,266.81,593.22,13.35,7.44;42,322.73,593.22,13.35,7.44" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Observations</title>
+		<imprint>
+			<biblScope unit="volume">274</biblScope>
+			<biblScope unit="page">274</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="42,108.74,617.85,80.99,8.33;42,268.97,618.66,8.91,7.44;42,324.89,618.66,8.91,7.44;42,380.95,618.66,8.91,7.44;42,446.83,618.66,8.91,7.44;43,339.31,250.33,100.58,7.44;43,356.23,263.17,9.75,7.44;43,413.23,263.17,9.75,7.44;43,151.34,275.11,57.52,8.32;43,346.39,275.92,29.41,7.44;43,404.95,275.92,26.28,7.44;43,346.15,288.64,29.78,7.44;43,403.15,288.64,29.78,7.44" >
+	<monogr>
+		<title level="m" type="main">-1.24e-10*** -1.37e-10*** (0) (0) Human capital 0</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,151.34,351.67,107.51,8.32;43,340.63,352.36,40.93,7.44;43,397.63,352.36,40.93,7.44;43,343.99,365.20,34.22,7.44;43,400.99,365.20,34.22,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Va</forename>
+				<surname>Share</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>In</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,151.34,428.11,99.11,8.32;43,342.79,428.92,36.49,7.44;43,399.79,428.92,36.49,7.44;43,343.99,441.64,34.22,7.44;43,400.99,441.64,34.22,7.44" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Population</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,151.34,479.13,166.62,8.32;43,341.95,479.94,38.29,7.44;43,398.95,479.94,38.29,7.44;43,341.71,492.66,38.66,7.44;43,398.71,492.66,38.66,7.44" >
+	<monogr>
+		<title level="m" type="main">Government expenditures (share of GDP) 0.00170*** 0</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,151.34,530.61,53.06,8.33" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Observations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="43,151.34,556.17,80.99,8.33;43,356.59,556.86,8.91,7.44;43,413.59,556.86,8.91,7.44;44,139.70,384.14,28.09,6.99;44,190.58,384.14,28.09,6.99;44,244.49,384.14,28.09,6.99;44,298.37,384.14,28.09,6.99;44,352.27,384.14,28.09,6.99;44,403.15,384.14,28.09,6.99;44,457.06,384.14,28.09,6.99;44,510.94,384.14,28.09,6.99;44,53.64,396.50,16.44,6.99;44,129.26,396.50,89.33,6.99;44,234.05,396.50,38.45,6.99;44,287.93,396.50,38.45,6.99;44,341.83,396.50,38.45,6.99;44,398.59,396.50,32.57,6.99;44,446.59,396.50,38.45,6.99;44,500.50,396.50,38.45,6.99;44,131.42,408.86,87.24,6.99;44,236.21,408.86,36.36,6.99;44,290.09,408.86,36.36,6.99;44,343.99,408.86,87.24,6.99;44,448.75,408.86,36.36,6.99;44,502.66,408.86,36.36,6.99" >
+	<monogr>
+		<title level="m" type="main">0398) (0.0361) (0.0369) (0.0373) (0.0664) (0.0384) (0.0403) gcap -0.00175*** -0</title>
+		<imprint>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

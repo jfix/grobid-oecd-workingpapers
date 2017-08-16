@@ -1,0 +1,409 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_67"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="47,59.25,149.81,95.12,10.13" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Reports</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.25,173.81,469.28,10.13;47,87.75,186.56,442.27,10.13;47,87.75,199.30,202.38,10.13" >
+	<monogr>
+		<title level="m" type="main">Rare Metals: Measures and concepts for the solution of the problem of conflict-aggravating raw material extraction – the example of Coltan. Institute for Future Studies and Technology Assessment</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Behrend</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Scharp</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Erdmann</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<pubPlace>Dessau</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.26,224.05,262.87,10.13" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">M</forename>
+				<surname>Cathles</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page">83</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.26,248.05,454.88,10.13;47,87.75,260.79,209.30,10.13" >
+	<analytic>
+		<title level="a" type="main">Energy Study 2012: Reserves, Resources and Availability of Energy Resources</title>
+	</analytic>
+	<monogr>
+		<title level="j">DERA German Mineral Resources Agency</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.26,285.54,464.62,10.13;47,87.75,298.29,289.14,10.13" >
+	<analytic>
+		<title level="a" type="main">Criticality of non-fuel minerals: a review of major approaches and analyzes</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Erdmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">E</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science and Technology</title>
+		<imprint>
+			<biblScope unit="volume">45</biblScope>
+			<biblScope unit="page" from="7620" to="7630" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.25,323.04,469.19,10.13;47,87.75,335.79,302.93,10.13" >
+	<analytic>
+		<title level="a" type="main">Critical Raw Materials for the EU: Report of the Ad-hoc Working Group on defining critical raw materials. DG Enterprise and Industry</title>
+	</analytic>
+	<monogr>
+		<title level="m">European Commission</title>
+		<meeting><address><addrLine>Brussels</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.25,360.54,469.19,10.13;47,87.75,373.28,347.19,10.13" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">European Commission, 2014, Report on Critical Raw Materials for the EU: Report of the Ad hoc Working Group on defining critical raw materials. DG Enterprise and Industry</title>
+		<meeting><address><addrLine>Brussels</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.26,397.28,452.81,10.13;47,87.75,410.03,40.89,10.13" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">E</forename>
+				<surname>Graedel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">R</forename>
+				<surname>Allenby</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Prentice Hall</publisher>
+			<pubPlace>Michigan</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.26,434.78,436.65,10.13;47,87.75,447.52,149.65,10.13" >
+	<analytic>
+		<title level="a" type="main">What do we know about metal recycling rates?</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">E</forename>
+				<surname>Graedel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Allwood</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Industrial Ecology</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="355" to="366" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.26,472.27,441.30,10.13;47,87.75,485.02,187.15,10.13" >
+	<analytic>
+		<title level="a" type="main">Methodology of metal criticality determination</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">E</forename>
+				<surname>Graedel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Barr</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science and Technology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="1063" to="1070" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.26,509.77,443.06,10.13;47,87.75,521.77,241.95,10.13" >
+	<analytic>
+		<title level="a" type="main">forthcoming, &apos;Criticality of the geological zinc, tin, and lead family</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">M</forename>
+				<surname>Harper</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Kavlak</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Industrial Ecology</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.25,546.52,461.03,10.13;47,87.75,559.27,247.90,10.13" >
+	<analytic>
+		<title level="a" type="main">Growth in global materials use, GDP and population during the 20th century</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Krausmann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Gingrich</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ecological Economics</title>
+		<imprint>
+			<biblScope unit="volume">68</biblScope>
+			<biblScope unit="issue">10</biblScope>
+			<biblScope unit="page" from="2696" to="2705" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.26,584.02,447.31,10.13;47,87.75,596.76,244.44,10.13" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Minerals, Critical Minerals, and the US Economy</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>National Academies Press</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.25,621.51,472.89,10.13;47,87.75,634.26,118.14,10.13" >
+	<analytic>
+		<title level="a" type="main">Criticality of the geological copper family</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">T</forename>
+				<surname>Nassar</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Barr</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science and Technology</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="1071" to="1076" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.25,658.26,465.14,10.13;47,87.74,671.00,173.64,10.13" >
+	<analytic>
+		<title level="a" type="main">Criticality of iron and its principal alloying elements</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Nuss</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">M</forename>
+				<surname>Harper</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Environmental Science and Technology</title>
+		<imprint>
+			<biblScope unit="volume">48</biblScope>
+			<biblScope unit="page" from="4171" to="4177" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,59.25,695.75,423.46,10.13;47,59.25,720.50,247.15,10.13;48,438.75,63.57,91.13,10.13" >
+	<analytic>
+		<title level="a" type="main">Material Security: Ensuring Resource Availability for the UK Economy U.S. Geological Survey, 2012, Minerals Yearbook</title>
+		<author>
+			<persName>
+				<forename type="first">Oakdene</forename>
+				<surname>Hollins</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ENVWKP</title>
+		<imprint>
+			<biblScope unit="page">12</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.25,100.32,429.76,10.13;48,87.76,113.06,304.90,10.13" >
+	<analytic>
+		<title level="a" type="main">Towards a more sustainable use of scarce metals: a review of intervention options along the metals life cycle</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Waeger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">J</forename>
+				<surname>Lang</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gaia</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="300" to="309" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.26,138.57,44.87,10.13" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Websites</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.26,162.56,370.26,10.13;48,87.77,175.31,361.63,10.13" >
+	<monogr>
+		<title level="m" type="main">The Open Market Index (OMI, 2014) from the International Chamber of Commerce www.iccwbo.org/global-influence/g20/reports-and-products/open-markets-index</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="48,59.26,200.06,384.01,10.13;48,87.77,212.06,287.65,10.13;48,59.27,236.81,218.68,10.13;48,87.77,249.56,268.74,10.12;48,59.27,274.31,289.89,10.13;48,87.77,287.06,266.05,10.13;49,59.25,63.57,91.13,10.13" >
+	<analytic>
+		<title level="a" type="main">ICRG) https://www.prsgroup.com/about-us/our-two-methodologies/icrg Mineral profiles from the U.S. Geological Survey http://minerals.usgs.gov/minerals</title>
+	</analytic>
+	<monogr>
+		<title level="m">Political Risk Services (PRS, 2012) from the International Country Risk Guidehtml World Government Indicators (WGI, 2014) from the World Bank http</title>
+		<imprint>
+			<publisher>WKP</publisher>
+			<date type="published" when="2015" />
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

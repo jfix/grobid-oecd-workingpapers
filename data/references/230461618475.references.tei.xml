@@ -1,0 +1,732 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_23"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="67,102.02,114.06,430.32,8.96;67,102.02,125.58,262.21,8.96;67,59.52,144.30,12.59,8.96;67,102.02,144.30,430.93,8.96;67,102.02,155.82,346.19,8.96" >
+	<monogr>
+		<title level="m" type="main">Perceived security is a side effect of the statefull firewall nature implied by the use of NAT, but address translation itself does not provide any significant security benefit. 16. By for example creating strong incentives for multi-party application architectures that simulate end-to-end by using agents and clients to traverse the NAT and create a visible rendez-vous point</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="67,102.02,172.35,430.53,11.03;67,102.02,185.94,237.56,8.96;67,59.52,204.66,12.59,8.96;67,102.02,202.59,430.33,11.03;67,102.02,216.18,370.88,8.96" >
+	<monogr>
+		<title level="m" type="main">―Anatomy: A Look Inside Network Address Translators‖, ―Technical Criteria for Choosing IP The Next Generation (IPng)‖, Informational Internet-draft, RFC 1726</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Huston</surname>
+			</persName>
+		</author>
+		<editor>18. Partridge, C.</editor>
+		<editor>Kastenholz, F.</editor>
+		<imprint>
+			<date type="published" when="1994-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="67,102.02,232.83,430.52,11.03;67,102.02,246.30,260.18,8.96;67,59.52,265.02,12.59,8.96;67,102.02,262.95,430.47,11.03;67,102.02,276.57,430.14,8.96;67,102.02,286.02,111.09,11.03;67,59.52,306.81,12.59,8.96;67,102.02,306.81,327.67,8.96;67,59.52,325.53,12.59,8.96;67,102.02,325.53,430.38,8.96;67,102.02,336.93,401.48,8.96;67,59.52,355.65,12.59,8.96;67,102.02,355.65,120.79,8.96;67,59.52,374.37,12.59,8.96;67,102.02,374.37,235.22,8.96;67,59.52,393.09,12.59,8.96;67,102.02,393.09,430.44,8.96;67,102.02,404.61,430.64,8.96;67,102.02,416.13,430.36,8.96;67,102.02,427.53,430.89,8.96;67,102.02,439.05,396.53,8.96" >
+	<analytic>
+		<title level="a" type="main">IPv6 has had a variety of names — the original IAB documents refer to IP Version 7, working on the assumption that the protocol numbers 5 and 6 were already in use in research networks. It was renamed IPng, for ―next generation.‖ 21presentations/s1-1-carpenter.pdf. 22. To allocate means to distribute address space to Internet Registries for the purpose of subsequent distribution by them. http://www.apnic.net/mailing-lists/sig-policy/archive Initially defined in RFC 1366. 24. NIRs exist in the Asia Pacific and Latin American regions. 25. NIRs were established in the Asia Pacific and Latin American regions in the earliest days of the formation of the RIRs and are responsible for providing services within their country</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Bradner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Mankin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>―the Recommendation For The</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Ip Next Generation</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Standards</forename>
+				<surname>Protocol‖</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Track</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">and Vietnam. Latin American NIRs operate in Brazil and Mexico. They are not ISPs, rather they allocate to their members (generally ISPs) within their economy following RIR policies. Organisations within those NIR economies may go to either the relevant NIR or RIR</title>
+		<meeting><address><addrLine>China, Japan, Chinese Taipei, Indonesia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="67,102.02,455.72,430.48,11.03;67,102.02,467.24,427.02,11.04;67,59.52,488.03,12.59,8.96;67,102.02,488.03,430.29,8.96;67,102.02,499.55,430.83,8.96;67,102.02,510.95,252.07,8.96;67,59.52,529.67,12.59,8.96;67,102.02,529.67,184.12,8.96;67,59.52,548.39,12.59,8.96;67,102.02,548.39,248.12,8.96;67,59.52,567.11,12.59,8.96;67,102.02,567.11,335.78,8.96" >
+	<analytic>
+		<title level="a" type="main">http://www.faqs.org/rfcs/rfc2050.html. 27. It is important to note that having a global address does not mean that it is globally reachable, because there may be filtering on the routing system if the prefix is too specific. Moreover, RIRs cannot guarantee the reachability/ global routability of the addresses they assign</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Hubbard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Kosters</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Conrad</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Karrenberg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Postel</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The dual-stack approach is further detailed on page 35, Transition and co-existence</title>
+		<imprint>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="67,102.02,585.83,430.44,8.96;67,102.02,597.23,430.85,8.96;67,102.02,608.75,393.55,8.96" >
+	<analytic>
+		<title level="a" type="main">reviewing the status of IPv6 policy development by the Regional Internet Registries</title>
+	</analytic>
+	<monogr>
+		<title level="m">The Internet Corporation for Assigned Names and Numbers (ICANN) published a Background Report on Policy for IPv6</title>
+		<imprint>
+			<date type="published" when="2006-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="67,102.02,627.47,430.32,8.96;67,102.02,639.02,431.08,8.96;67,102.02,650.54,37.73,8.96;67,59.52,669.26,12.59,8.96;67,102.02,669.26,135.47,8.96;67,59.52,687.86,12.59,8.96;67,102.02,687.86,237.08,8.96;67,59.52,706.58,12.59,8.96;67,102.02,706.58,17.76,8.96;67,136.68,706.58,34.13,8.96;67,187.75,706.58,38.39,8.96;67,243.15,706.58,16.76,8.96;67,276.86,706.58,18.41,8.96;67,312.12,706.58,15.31,8.96;67,344.48,706.58,22.61,8.96;67,384.02,706.58,21.57,8.96;67,422.51,706.58,12.55,8.96;67,451.88,706.58,31.66,8.96;67,500.47,706.58,32.46,8.96;67,102.02,718.10,206.96,8.96;67,59.52,736.81,12.59,8.96;67,102.02,736.81,197.43,8.96" >
+	<analytic>
+		<title level="a" type="main">http://www.space.net/~gert/RIPE/R54-v6- table.pdf. 33</title>
+		<author>
+			<persName>
+				<forename type="first">Gert</forename>
+				<surname>D¨oring</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Ag</forename>
+				<surname>Spacenet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Germany</forename>
+				<surname>Munich</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Have We Reached 1000 Prefixes Yet? A snapshot of the global IPv6 routing table</title>
+		<meeting><address><addrLine>Tallinn, Estonia ; Tallinn, Estonia</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007-03-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="68,402.43,64.82,127.64,9.94;68,290.81,769.44,11.04,9.94;68,59.52,114.06,12.59,8.96;68,102.02,114.06,226.55,8.96" >
+	<monogr>
+		<title level="m" type="main">20/FINAL 67 37. https://prefix.pch.net/applications/ixpdir/summary</title>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Iccp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="68,102.02,132.78,430.77,8.96;68,102.02,144.30,276.58,8.96;68,59.52,163.02,12.59,8.96;68,102.02,163.02,430.34,8.96;68,102.02,174.42,430.48,8.96;68,102.02,185.94,324.82,8.96;68,59.52,204.66,12.59,8.96;68,102.02,204.66,431.06,8.96;68,102.02,216.18,361.96,8.96" >
+	<monogr>
+		<title level="m" type="main">6meter: Measuring Real Global IPv6 Trafficripe.net/ripe/meetings/ripe-55/presentations/palet-v6.pdf. 39 In a network that provides IPv6 connectivity, according to the data, IPv6 packets represent 70% of the total packets and over 90% of IPv6 traffic is tunnelled with either Teredo or 6to4 compared to just 5% of native IPv6 traffic http://www.ripe.net/ripe/meetings/ripe-55/presentations/palet-v6.pdf. 40. Operating system market share for</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Palet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Vives</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="68,102.02,232.83,430.32,11.03;68,102.02,246.30,340.78,8.96;68,59.52,265.02,12.59,8.96;68,102.02,265.02,356.92,8.96;68,59.52,283.77,12.59,8.96;68,102.02,281.70,421.93,11.03;68,59.52,302.49,12.59,8.96;68,102.02,302.49,430.57,8.96;68,102.02,314.01,26.00,8.96" >
+	<analytic>
+		<title level="a" type="main">ipv6-to-standard.org/index.php lists vendors with IPv6-enabled products. 42. http://www.arin.net/meetings/minutes/ARIN_XX/PDF/thursday/Firewalls_Piscitello.pdf. 43. Conclusions of the Australian ―IPv6 for e-business project‖ that took place from</title>
+	</analytic>
+	<monogr>
+		<title level="m">Top-level domains are the last label on the right-hand side of the domain name, such as .JP, .COM, .FR OR .ORG</title>
+		<imprint>
+			<date type="published" when="2006-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="68,102.02,332.73,430.57,8.96;68,102.02,344.13,26.00,8.96;68,59.52,362.85,12.59,8.96;68,102.02,362.85,265.85,8.96;68,59.52,381.57,12.59,8.96;68,102.02,381.57,154.97,8.96;68,59.52,400.29,12.59,8.96;68,102.02,400.29,8.33,8.96;68,133.20,400.29,21.00,8.96;68,176.96,400.29,20.07,8.96;68,219.87,400.29,20.00,8.96;68,262.79,400.29,19.29,8.96;68,304.90,400.29,15.04,8.96;68,342.89,400.29,30.53,8.96;68,396.15,400.29,18.92,8.96;68,437.88,400.29,35.81,8.96;68,496.49,400.29,36.41,8.96;68,102.02,411.81,202.53,8.96;68,59.52,430.53,12.59,8.96;68,102.02,430.53,346.65,8.96" >
+	<analytic>
+		<title level="a" type="main">http://www.icann.org/announcements/announcement-20jul04.htm. 47 there were 245 country code top-level domains</title>
+	</analytic>
+	<monogr>
+		<title level="j">JP, .COM, .FR OR .ORG</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<date type="published" when="2006-04" />
+		</imprint>
+	</monogr>
+	<note>html</note>
+</biblStruct>
+
+<biblStruct coords="68,102.02,449.13,430.43,8.96;68,102.02,460.67,238.77,8.96;68,59.52,479.39,12.59,8.96;68,102.02,479.39,430.54,8.96;68,102.02,490.91,239.36,8.96;68,59.52,509.63,12.59,8.96;68,102.02,509.63,22.96,8.96;68,142.90,509.63,14.88,8.96;68,175.63,509.63,29.92,8.96;68,223.48,509.63,38.46,8.96;68,279.95,509.63,10.01,8.96;68,307.64,509.63,24.31,8.96;68,349.98,509.63,31.86,8.96;68,399.73,509.63,31.54,8.96;68,449.28,509.63,37.87,8.96;68,505.03,509.63,27.43,8.96;68,102.02,521.15,239.36,8.96;68,59.52,539.75,12.59,8.96;68,102.02,539.75,292.89,8.96;68,59.52,558.47,12.59,8.96;68,102.02,556.40,430.55,11.03;68,102.02,569.99,430.82,8.96;68,102.02,581.51,430.33,8.96;68,102.02,593.03,430.28,8.96;68,102.02,604.43,430.59,8.96;68,102.02,615.95,430.31,8.96;68,102.02,627.47,346.66,8.96" >
+	<analytic>
+		<title level="a" type="main">Co-operative distribution of the end of the IPv4 free pool http://www.apnic.net/policy/proposals/prop-052-v001.html. 52IPv4 soft landing proposal Legacy holders who sign the ―Legacy RSA‖ are guaranteed the same registration services as provided to organisations that sign the standard Registration Services Agreement (RSA) ARIN states that it will not reclaim unutilised address space from legacy holders who sign the RSA. It allows ARIN to accept the return or relinquishment of any address space from any existing address holder. Organisations returning addresses under this policy see their fees waived if they voluntarily return unused address space</title>
+	</analytic>
+	<monogr>
+		<title level="m">Prop-055-v001: Global policy for the allocation of the remaining IPv4 address space Discussions regarding legacy space come primarily out of ARIN because most of the legacy allocations were made to organisations in the ARIN region, before the creation of the RIR system</title>
+		<editor>Tony Hain, Cisco Systems David Conrad, General Manager, IANA</editor>
+		<imprint>
+			<date type="published" when="2008-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="68,102.02,646.22,430.31,8.96;68,102.02,657.74,430.47,8.96;68,102.02,669.26,296.93,8.96" >
+	<monogr>
+		<title level="m" type="main">The Routing Research Group of the Internet Research Task Force (IRTF) is discussing several technical schemes that are intended primarily to help the routing system scale with growing demand for more multihomed end-user networks</title>
+		<imprint/>
+	</monogr>
+	<note>Additional. research is deemed necessary</note>
+</biblStruct>
+
+<biblStruct coords="68,102.02,685.79,431.08,11.03;68,102.02,699.38,194.18,8.96" >
+	<monogr>
+		<title level="m" type="main">―IPv4 address transfers‖, proposed to APNIC on 26</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Huston</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-07" />
+		</imprint>
+	</monogr>
+	<note>msg00005. .html</note>
+</biblStruct>
+
+<biblStruct coords="68,102.02,716.03,430.69,11.03;68,102.02,729.62,290.75,8.96" >
+	<monogr>
+		<title level="m" type="main">―Enabling methods for reallocation of IPv4 resources‖, Submission Date: 23</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Titley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Van Mook</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="69,59.52,64.82,127.64,9.94;69,290.81,769.44,11.04,9.94;69,59.52,114.06,12.59,8.96;69,102.02,114.06,25.60,8.96;69,145.31,114.06,37.87,8.96;69,201.04,114.06,18.87,8.96;69,237.84,114.06,33.76,8.96;69,289.52,114.06,25.60,8.96;69,332.92,114.06,37.59,8.96;69,388.41,114.06,24.22,8.96;69,430.63,114.06,37.23,8.96;69,485.67,114.06,46.86,8.96;69,102.02,125.58,252.89,8.96;69,59.52,144.30,12.59,8.96;69,102.02,144.30,335.31,8.96;69,59.52,163.02,12.59,8.96;69,102.02,163.02,260.38,8.96;69,59.52,181.62,12.59,8.96;69,102.02,181.62,430.34,8.96;69,102.02,193.14,430.23,8.96;69,102.02,204.66,430.76,8.96;69,102.02,216.18,431.08,8.96;69,102.02,227.70,430.18,8.96;69,102.02,237.03,430.39,11.03;69,102.02,250.62,22.61,8.96;69,183.38,250.62,34.28,8.96;69,276.36,250.62,39.33,8.96;69,374.49,250.62,27.22,8.96;69,460.38,250.62,72.70,8.96;69,102.02,262.14,226.20,8.96;69,59.52,280.89,12.59,8.96;69,102.02,280.89,339.56,8.96;69,59.52,299.61,12.59,8.96;69,102.02,297.54,399.97,11.04;69,59.52,318.33,12.59,8.96;69,102.02,318.33,430.43,8.96;69,102.02,329.73,390.24,8.96;69,59.52,348.45,12.59,8.96;69,102.02,348.45,219.54,8.96;69,59.52,367.17,12.59,8.96;69,102.02,367.17,430.27,8.96;69,102.02,378.69,273.33,8.96;69,59.52,397.41,12.59,8.96;69,102.02,397.41,272.74,8.96;69,59.52,416.13,12.59,8.96;69,102.02,416.13,265.05,8.96;69,59.52,434.73,12.59,8.96;69,102.02,434.73,430.30,8.96;69,102.02,446.25,333.47,8.96;69,59.52,464.99,12.59,8.96;69,102.02,464.99,430.21,8.96;69,102.02,476.51,430.51,8.96;69,102.02,488.03,430.55,8.96;69,102.02,499.55,25.40,8.96;69,157.56,499.55,14.34,8.96;69,202.06,499.55,34.60,8.96;69,266.59,499.55,7.85,8.96;69,304.49,499.55,22.83,8.96;69,357.38,499.55,17.20,8.96;69,404.65,499.55,11.58,8.96;69,446.37,499.55,18.87,8.96;69,495.40,499.55,37.38,8.96;69,102.02,510.95,374.28,8.96;69,59.52,529.67,12.59,8.96;69,102.02,529.67,430.67,8.96" >
+	<analytic>
+		<title level="a" type="main">As seen by the Routeviews collector at the University of Oregon. 61. A study finds that only 3.6% of allocated addresses are actually occupied by visible hosts, and that occupancy is unevenly distributed, with a quarter of responsive /24 subnets less than 5% full, and only 9% of subnets more than half full. The study establishes an upper-bound on the number of servers in the Internet at 36 million servers, about 16% of the responsive addresses Just over 100 million pingresponsive IPv4 addresses, or around 4% of advertised addresses ―Exploring Visible Internet Hosts through Census and Survey‖program/amm/presentations/sanjaya-tech-area.pdf 63. ―Quitclaims‖ by which the assignee agrees to relinquish their assignment in favour of another party. 64. The Japanese Intelligent Transport System (ITS) project and the European Car2Car consortium recommended exclusive use of IPv6 for its future Car2car applications http://www.car-to-car.org. 65. CENELEC opted for IPv6 for the smart home concept. 66. IPv6 is specified as the only IP version supported in Release 5 for IP Multimedia Subsystem (IMS). 3GPP mandated use of IPv6 for IMS (IP Multimedia Subsystems) in 2000 according to a recent report released by INPUT, the authority on government business. The report suggests that a key area of growth will come in the wireless market segment. 70. The guideline compares the cost structure between IPv4 and IPv6, and inventories the infrastructure and servers as well as client products used by civil servants. The guideline summarises current adoption of IPv6-enabled products in the Japanese government. It also provides a series of procedures to help each Office and Ministry in Japan plan for IPv6 adoption The strategy identifies three phases in a : Phase i) preparation</title>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Iccp Heidemann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Pradkin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Govindan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Papadopoulos</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Bannister</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Policy Proposal: IPv4 Transfer Policy Proposal, ARIN Advisory Committee</title>
+		<imprint>
+			<date type="published" when="2007-03" />
+			<biblScope unit="page">58</biblScope>
+		</imprint>
+	</monogr>
+	<note>html. 59. IPv4 address report</note>
+</biblStruct>
+
+<biblStruct coords="69,102.02,541.19,430.52,8.96;69,102.02,552.71,430.94,8.96;69,102.02,562.16,430.28,11.03;69,102.02,575.63,280.45,8.96;69,59.52,594.35,12.59,8.96;69,102.02,594.35,430.97,8.96;69,102.02,605.87,430.21,8.96;69,102.02,615.32,430.32,11.03;69,102.02,628.91,282.34,8.96;69,59.52,647.66,12.59,8.96;69,102.02,647.66,430.29,8.96;69,102.02,659.06,207.67,8.96;69,59.52,677.78,12.59,8.96;69,102.02,677.78,291.58,8.96" >
+	<analytic>
+		<title level="a" type="main">Department of Finance and Deregulation, A Strategy for the Transition to IPv6 for Australian Government agencies, ‗Building Capacity for Future Innovation&apos;, AGIMO Arch Rock offers low power wireless sensor nodes, routers and data and management servers based on IPv6 standards developed by the IETF 6LoWPAN Working Group for the IEEE802.15.4 low power radio standard. Arch Rock&apos;s technology provides access to the Wireless Sensor Network as well as to individual Sensor Nodes using Internet Protocol (IP) methods, services and tools</title>
+	</analytic>
+	<monogr>
+		<title level="m">Phase ii) transition</title>
+		<imprint>
+			<date type="published" when="2007-10" />
+			<biblScope unit="page" from="6" to="22" />
+		</imprint>
+	</monogr>
+	<note>IPv6. over IEEE802.15.4) is a communication network based on IPv6 networking, for limited power and for low throughput requirements. 74. It should be noted that a number of other working groups are using IPv4</note>
+</biblStruct>
+
+<biblStruct coords="69,102.02,696.50,430.25,8.96;69,102.02,708.02,430.31,8.96;69,102.02,719.54,430.55,8.96;69,102.02,731.06,144.38,8.96" >
+	<monogr>
+		<title level="m" type="main">An ad-hoc network is a local area network or other small network, especially one with wireless or temporary plug-in connections, in which some of the network devices are part of the network only for the duration of a communications session or, in the case of mobile or portable devices</title>
+		<imprint/>
+	</monogr>
+	<note>while. in some close proximity to the rest of the network</note>
+</biblStruct>
+
+<biblStruct coords="70,402.43,64.82,127.64,9.94;70,290.81,769.44,11.04,9.94;70,59.52,114.06,12.59,8.96;70,102.02,114.06,100.31,8.96;70,59.52,132.78,12.59,8.96;70,102.02,132.78,251.94,8.96" >
+	<monogr>
+		<title level="m" type="main">20/FINAL 69 76. E.g. mobicast or geocast. 77. Alternatively, they could deploy IPv4 private space and NATs</title>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Iccp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="70,102.02,151.50,430.65,8.96;70,102.02,163.02,430.32,8.96;70,102.02,174.42,266.98,8.96" >
+	<monogr>
+		<title level="m" type="main">IPv6 Mobile nodes in IPv6 are able to communicate directly with any peer, as opposed to mobile nodes in IPv4 where generally, the communication between the mobile node and its peer is routed through a fixed anchor point (the Home Agent), which makes routing sub-optimal</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="70,102.02,193.14,430.51,8.96;70,102.02,204.66,430.36,8.96;70,102.02,216.18,47.66,8.96;70,59.52,234.90,12.59,8.96;70,102.02,234.90,430.68,8.96;70,102.02,246.30,430.18,8.96;70,102.02,257.82,430.35,8.96;70,102.02,269.37,430.45,8.96;70,102.02,280.89,30.76,8.96;70,59.52,299.61,12.59,8.96;70,102.02,299.61,219.79,8.96" >
+	<monogr>
+		<title level="m" type="main">Most of the signaling overhead cost is to make the transmission between the mobile node and its peer secure. 80 In this case there appears to be a need to devise more complex forms of protocol translation mechanisms that use forms of 4in6 protocol mapping, in order to allow IPv4 packets to transit across an IPv6 internal infrastructure. The issue concerns the capability of available routers to perform such packet transformations within the necessarily very high packet processing rates that such high volume networks require</title>
+		<imprint>
+			<biblScope unit="page">81</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="70,102.02,316.26,430.83,11.03;70,102.02,329.73,286.92,8.96" >
+	<analytic>
+		<title level="a" type="main">―An Internet Transition Plan‖</title>
+		<author>
+			<persName>
+				<forename type="first">John</forename>
+				<surname>Curran</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Informational Internet-draft</title>
+		<imprint>
+			<date type="published" when="2007-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="70,102.02,346.38,430.42,11.03;70,102.02,359.97,430.71,8.96;70,102.02,371.49,404.56,8.96;70,59.52,390.21,12.59,8.96" >
+	<monogr>
+		<title level="m" type="main">Based Review of IPv6 Transition Tools,‖ Mackay and colleagues leverage their experience running 6Net, one of Europe&apos;s largest IPv6 research networks. They analyse the applicability of different transition tools on ISP, mobile wireless, corporate, and small–medium-business/residential networks</title>
+		<author>
+			<persName>
+				<forename type="first">―a</forename>
+				<surname>In</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Scenario</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="70,102.02,388.14,430.44,11.03;70,102.02,399.66,430.78,11.03;70,102.02,413.13,132.41,8.96" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Asadullah</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Ahmed</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Popoviciu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Savola</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Palet</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">―ISP IPv6 Deployment Scenarios in Broadband Access Networks‖</title>
+		<meeting><address><addrLine>Informational, RFC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="70,102.02,431.85,430.79,8.96;70,102.02,443.37,290.78,8.96" >
+	<monogr>
+		<title level="m" type="main">année cruciale dans l&apos;adoption de l&apos;IPv6 », VNUnet</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Grossetête</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Cisco</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-09-21" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="70,59.52,462.11,12.59,8.96;70,102.02,462.11,430.44,8.96;70,102.02,473.63,83.74,8.96;70,203.62,473.63,41.33,8.96;70,262.84,473.63,22.72,8.96;70,303.50,473.63,35.72,8.96;70,357.22,473.63,41.81,8.96;70,416.92,473.63,14.34,8.96;70,449.18,473.63,83.42,8.96;70,102.02,485.15,262.45,8.96;70,102.02,496.55,234.08,8.96;70,59.52,515.27,12.59,8.96;70,102.02,515.27,430.45,8.96;70,102.02,526.79,46.26,8.96;70,59.52,545.51,12.59,8.96;70,102.02,545.51,119.59,8.96" >
+	<analytic>
+		<title level="a" type="main">pdf. 87. The US National Institute of Standards and Technology is part of the United States Department of Commerce</title>
+	</analytic>
+	<monogr>
+		<title level="m">86. Planning and Accomplishing the IPv6 Integration: Lessons Learned from a Global Construction and Project-Management Company, Cisco Systems, Microsoft, and Comandinformation</title>
+		<imprint/>
+	</monogr>
+	<note>Measured. in 2003 US dollars</note>
+</biblStruct>
+
+<biblStruct coords="70,102.02,562.16,430.60,11.03;70,102.02,575.63,252.62,8.96;70,59.52,594.35,12.59,8.96;70,102.02,594.35,430.33,8.96;70,102.02,605.87,430.60,8.96;70,102.02,617.39,72.40,8.96" >
+	<monogr>
+		<title level="m" type="main">―Is Global IPv6 Deployment on Track?‖, Foundation for National Scientific Computing (FCCN) at the University of Lisbon An explanation for better IPv6 results compared to IPv4 between Portugal and Ireland is a greater number of hops</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Domingues</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Friacas</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1990" />
+			<pubPlace>Geneva and Paris</pubPlace>
+		</imprint>
+	</monogr>
+	<note>IPv6. connectivity is only provided via London while IPv4 connectivity is provided in Madrid</note>
+</biblStruct>
+
+<biblStruct coords="70,102.02,636.14,430.39,8.96;70,102.02,647.66,430.66,8.96;70,102.02,656.99,430.28,11.03;70,102.02,670.58,430.93,8.96;70,102.02,682.10,33.58,8.96" >
+	<monogr>
+		<title level="m" type="main">The issue of scalable routing is being discussed within several constituencies including the Internet Architecture Board (IAB), the IETF, Internet registries, and Internet service providers. Proposed solutions range from technical means to add new layers of ―indirection‖ at various levels of the Internet (e.g. at the end-device level, at the router level, or at the Internet service provider level)</title>
+		<imprint/>
+	</monogr>
+	<note>through. to new addressing policies</note>
+</biblStruct>
+
+<biblStruct coords="70,102.02,698.75,430.33,11.03;70,102.02,712.34,367.25,8.96" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Meyer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Zhang</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Fall</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">―Report from the IAB Workshop on Routing and Addressing‖, Informational Internet-Draft</title>
+		<imprint>
+			<date type="published" when="2007-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="71,59.52,64.82,127.64,9.94;71,290.81,769.44,11.04,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Iccp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<biblScope unit="page">70</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="71,102.02,111.99,430.87,11.03;71,102.02,125.58,259.92,8.96" >
+	<analytic>
+		<title level="a" type="main">―Elements of The Internet Architecture‖</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Sherbin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Informational Internet-Draft</title>
+		<imprint>
+			<biblScope unit="volume">4984</biblScope>
+			<date type="published" when="2007-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="71,102.02,142.23,411.57,11.03;71,59.52,163.02,12.59,8.96;71,102.02,163.02,118.29,8.96" >
+	<monogr>
+		<title level="m" type="main">―Transition to IPv6‖</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Huston</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="71,102.02,181.62,430.81,8.96;71,102.02,193.14,267.12,8.96;71,59.52,211.86,12.59,8.96;71,102.02,211.86,424.56,8.96;71,59.52,230.58,12.59,8.96;71,102.02,230.58,167.75,8.96;71,59.52,249.30,12.59,8.96;71,102.02,249.30,356.32,8.96;71,59.52,267.93,17.63,8.96;71,102.02,267.93,304.25,8.96;71,59.52,286.65,17.63,8.96;71,102.02,286.65,430.55,8.96;71,102.02,298.17,328.85,8.96;71,59.52,316.89,17.63,8.96;71,102.02,316.89,430.34,8.96;71,102.02,326.34,36.81,11.03;71,156.60,326.34,38.31,11.03;71,212.72,326.34,35.67,11.03;71,265.95,326.34,11.58,11.03;71,295.31,326.34,26.11,11.03;71,339.19,326.34,49.00,11.03;71,406.08,326.34,36.18,11.03;71,460.15,326.34,32.20,11.03;71,510.15,326.34,22.50,11.03;71,102.02,339.93,181.96,8.96;71,59.52,358.53,17.63,8.96;71,102.02,358.53,110.61,8.96" >
+	<analytic>
+		<title level="a" type="main">A Scenario-Based Review of IPv6 Transition Tools, pg. 27 Such as NAT-PT or ISATAP. It is also possible to run parallel networks that run IPv6 and IPv4 and NAT. 98. E.g. ISATAP or an internal tunnel broker. 99. They will need to use a 6to4 tunnel or build IPv6-to-IPv4 tunnels to other IPv6 locations. 100. For example, Vint Cerf at the Internet Governance Forum in Rio de Janeiro. 101. Lawful Intercept for the Internet and tracing nodes and application identification by port are inhibited by NAT translation and global uniqueness of IPv6 addresses facilitates identification. 102. Department of Finance and Deregulation, A Strategy for the Transition to IPv6 for Australian Government agencies, ‗Building Capacity for Future Innovation</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Mackay</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Edwards</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Dunmore</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Chown</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Carvalho</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IEEE Computer Society</title>
+		<imprint>
+			<publisher>AGIMO</publisher>
+			<biblScope unit="volume">97</biblScope>
+			<date type="published" when="2003-06" />
+			<publisher>AGIMO</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="71,102.02,377.25,430.81,8.96;71,102.02,386.70,387.24,11.03;71,59.52,407.49,17.63,8.96;71,102.02,407.49,256.64,8.96;71,59.52,426.21,17.63,8.96;71,102.02,426.21,143.37,8.96;71,59.52,444.93,17.63,8.96;71,102.02,444.93,430.60,8.96;71,102.02,456.35,202.16,8.96;71,59.52,475.07,17.63,8.96;71,102.02,475.07,402.72,8.96;71,59.52,493.79,17.63,8.96;71,102.02,493.79,18.66,8.96;71,59.52,512.51,17.63,8.96;71,102.02,510.44,430.47,11.03;71,102.02,524.03,362.22,8.96;71,59.52,542.75,17.63,8.96;71,102.02,542.75,430.49,8.96;71,102.02,554.15,158.43,8.96;71,59.52,572.87,17.63,8.96;71,102.02,572.87,164.67,8.96;71,59.52,591.59,17.63,8.96;71,102.02,591.59,430.32,8.96;71,102.02,603.11,135.57,8.96;71,59.52,621.83,17.63,8.96;71,102.02,621.83,301.12,8.96;71,59.52,640.46,17.63,8.96;71,102.02,640.46,241.34,8.96;71,59.52,659.18,17.63,8.96;71,102.02,659.18,327.43,8.96;71,59.52,677.90,17.63,8.96;71,102.02,677.90,231.30,8.96;71,59.52,696.62,17.63,8.96;71,102.02,696.62,274.19,8.96" >
+	<analytic>
+		<title level="a" type="main">Also called &quot;IPv6 Dual Connection Service for Open Computer Network (OCN) Housing&quot; that is directly linked to a high-quality area backbone connection. 108. http://www.ap-ipv6tf.org/meetings/summit2007 Presentation ―How and Why have millions of households been already IPv6 ready?‖ IPv6 Deployment Status Report in Japan, Asia Pacific IPv6Summit NTT&apos;s &apos;Killer&apos; IPv6 App a Potential Lifesaver 113. IPv6 is also adequately supported in Windows XP and Windows Server 2003 to perform basic functions, including application verification</title>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Rekhter</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Moskowitz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Karrenberg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">J</forename>
+				<surname>De Groot</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Lear</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Address Allocation for Private Internets‖</title>
+		<editor>Sean Michael Kerner</editor>
+		<imprint>
+			<publisher>Takashi Arano, Intec Netcore, Inc. 111</publisher>
+			<date type="published" when="1996-02" />
+		</imprint>
+	</monogr>
+	<note>3. )%20JAPAN%20-%20SummitAP2007.pdf. 109. Ibid. 110</note>
+</biblStruct>
+
+<biblStruct coords="71,59.52,715.34,17.63,8.96;71,102.02,713.27,431.03,11.04;71,102.02,726.86,374.69,8.96" >
+	<monogr>
+		<title level="m" type="main">Study Group on Internet&apos;s Smooth Transition to IPv6 to Convene</title>
+		<imprint>
+			<date type="published" when="2007-08" />
+		</imprint>
+	</monogr>
+	<note>Releases. /Telecommunications/news070807_2.html</note>
+</biblStruct>
+
+<biblStruct coords="72,402.43,64.82,127.64,9.94;72,290.81,769.44,11.04,9.94;72,59.52,114.06,17.63,8.96;72,102.02,114.06,253.76,8.96;72,59.52,132.78,17.63,8.96;72,102.02,132.78,264.26,8.96;72,59.52,151.50,17.63,8.96;72,102.02,151.50,18.66,8.96;72,59.52,170.22,17.63,8.96;72,102.02,170.22,272.74,8.96;72,59.52,188.82,17.63,8.96;72,102.02,188.82,319.89,8.96;72,59.52,207.54,17.63,8.96;72,102.02,207.54,265.05,8.96;72,59.52,226.26,17.63,8.96;72,102.02,226.26,167.74,8.96;72,59.52,244.98,17.63,8.96;72,102.02,244.98,209.07,8.96;72,59.52,263.70,17.63,8.96;72,102.02,263.70,100.36,8.96;72,59.52,282.33,17.63,8.96;72,102.02,282.33,223.13,8.96;72,59.52,301.05,17.63,8.96;72,102.02,301.05,306.11,8.96;72,59.52,319.77,17.63,8.96;72,102.02,319.77,266.70,8.96;72,59.52,338.49,17.63,8.96;72,102.02,338.49,214.88,8.96;72,59.52,357.21,17.63,8.96;72,102.02,355.14,430.88,11.03;72,102.02,368.73,278.16,8.96" >
+	<analytic>
+		<title level="a" type="main">041807-better-internet-ipv6.html. 125. http://www.whitehouse.gov/omb/memoranda/fy2005/m05-22.pdf. 126</title>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Iccp</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Narten, T., ―IETF Statement on IPv4 Exhaustion and IPv6‖</title>
+		<imprint>
+			<date type="published" when="2007-11-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

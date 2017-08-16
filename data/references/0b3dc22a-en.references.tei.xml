@@ -1,0 +1,1702 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_4"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="53,59.52,147.98,447.54,12.23;53,87.86,160.58,420.32,12.23;53,87.86,175.60,191.43,9.94" >
+	<analytic>
+		<title level="a" type="main">Assessing the role of microfinance in fostering adaptation to climate change</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Agrawala</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Maëlis</forename>
+				<surname>Carraro</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Environmental Working Paper</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">15</biblScope>
+			<date type="published" when="2010" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,200.20,267.16,9.94;53,87.86,212.92,440.65,9.94;53,87.86,225.52,29.40,9.94" >
+	<analytic>
+		<title level="a" type="main">Republic of Senegal Final Implementation Plan. (www.africanriskcapacity.org/documents</title>
+	</analytic>
+	<monogr>
+		<title level="j">ARC</title>
+		<imprint>
+			<biblScope unit="volume">350251840546</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>SE_Formatted+FIP_EN_20140128_v02_C. R.pdf</note>
+</biblStruct>
+
+<biblStruct coords="53,59.52,250.24,469.99,9.94;53,87.86,262.84,222.27,9.94" >
+	<analytic>
+		<title level="a" type="main">Measuring the economic impact of dengue in Colombia. XX Latin American Congress of Parasitology</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Bello</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Biomedical</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="3" to="315" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>Sup. .3</note>
+</biblStruct>
+
+<biblStruct coords="53,59.52,287.47,440.86,9.94;53,87.86,300.19,418.28,9.94" >
+	<monogr>
+		<title level="m" type="main">Social Protection and Climate Change</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Béné</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>OECD Development Co-operation Working Papers OECD Publishing</publisher>
+			<pubPlace>Paris, http</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,324.79,461.95,9.94;53,87.86,337.51,417.53,9.94;53,87.86,350.11,414.56,9.94;53,87.86,362.71,176.79,9.94" >
+	<analytic>
+		<title level="a" type="main">Increasing frequency of extreme El Niño events due to greenhouse warming</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Cai</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Borlace</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Lengaigne</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Van Rensch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Collins</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Vecchi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Timmermann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Santoso</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Mcphaden</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Wu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>England</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Wang</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Guilyard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Fei-Fei</forename>
+				<surname>Jin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Nature Climate Change</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,387.43,442.11,9.94;53,87.86,400.03,287.63,9.94" >
+	<analytic>
+		<title level="a" type="main">The Caribbean Catastrophe Risk Insurance Facility) (2010), Enhancing the climate risk and adaptation fact base for the Caribbean</title>
+	</analytic>
+	<monogr>
+		<title level="j">CCRIF</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,422.45,468.44,12.23;53,87.86,435.05,402.68,12.23" >
+	<monogr>
+		<title level="m" type="main">Climate Change Adaptation, Disaster Risk Reduction and Social Protection &quot; , Promoting Pro-poor growth: social protection</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Davies</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Oswald</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Mitchell</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>OECD Publishing</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,461.97,345.39,9.94;53,87.86,474.69,340.01,9.94" >
+	<analytic>
+		<title level="a" type="main">Decentralising climate adaptation funds in Sénégal</title>
+	</analytic>
+	<monogr>
+		<title level="j">DCF</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,499.29,339.59,9.94;53,87.86,512.01,354.17,9.94" >
+	<monogr>
+		<title level="m" type="main">Disaster Information Management System, available at: www.desinventar.net/DesInventar/profiletab.jsp?countrycode=col&amp;continue=y</title>
+		<author>
+			<persName>
+				<surname>Desinventar</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,536.61,337.13,9.94" >
+	<monogr>
+		<title level="m" type="main">Annual Review Summary Sheet for the African Risk Capacity</title>
+		<author>
+			<persName>
+				<surname>Dfid</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,561.21,463.44,9.94;53,87.86,573.93,424.24,9.94;53,87.86,586.53,143.78,9.94;53,87.86,599.25,442.49,9.94;53,87.86,611.85,66.72,9.94" >
+	<analytic>
+		<title level="a" type="main">ABC: Adaptación Bases Conceptuales -Plan Nacional de Adaptación al Cambio Climático [ABC: Adaptation Conceptual Base -National Climate Change Adaptation Plan</title>
+	</analytic>
+	<monogr>
+		<title level="m">Departamento Nacional de Planeación</title>
+		<meeting><address><addrLine>Bogotá</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>PNACC_ABC%20Adaptaci%C3%B3n%20Bases%20Co. nceptuales.pdf</note>
+</biblStruct>
+
+<biblStruct coords="53,59.52,634.15,460.46,12.23;53,87.86,649.20,357.66,9.94;53,87.86,661.80,443.17,9.94;53,87.86,674.52,229.23,9.94" >
+	<analytic>
+		<title level="a" type="main">Impactos Económicos del Cambio Climático en Colombia – Síntesis [Climate Change Economic Impacts in Colombia</title>
+		<author>
+			<persName>
+				<forename type="first">Dnp-Bid</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Departamento Nacional de Planeación</title>
+		<meeting><address><addrLine>Bogotá</addrLine></address></meeting>
+		<imprint>
+			<publisher>Prensa</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+	<note>Impactos%20Econ%C3%B3micos%20del%20Cambio. %20Climatico_Sintesis_Resumen%20Ejecutivo.pdf</note>
+</biblStruct>
+
+<biblStruct coords="53,59.52,699.12,435.94,9.94;53,87.86,711.84,444.60,9.94;53,87.86,724.44,378.63,9.94;53,87.86,737.04,218.31,9.94" >
+	<monogr>
+		<title level="m" type="main">The Social and Economic Impact of Land Titling Programmes in Dakar, Senegal: Main Findings of the Socio-economic Survey in Five Settlements in Dakar and Pikine</title>
+		<author>
+			<persName>
+				<forename type="first">Alain</forename>
+				<surname>Durand-Lasserve</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Selle</forename>
+				<surname>Ndiaye</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>FinaldraftDakar24Mar08. .pdf</note>
+</biblStruct>
+
+<biblStruct coords="54,445.15,64.82,85.03,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Env</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,101.68,455.03,9.94;54,87.86,114.28,406.94,9.94;54,87.86,126.88,437.31,9.94;54,87.86,139.60,41.64,9.94" >
+	<analytic>
+		<title level="a" type="main">Valoración de Daños y Pérdidas -Ola Invernal en Colombia 2010-2011 [Valuation of Damages and Losses -Winter Floods in Colombia</title>
+	</analytic>
+	<monogr>
+		<title level="m">ECLAC and Inter-American Development Bank</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,161.90,463.76,12.23;54,87.86,174.62,415.70,12.23;54,87.86,189.52,104.55,9.94;54,87.86,202.24,441.27,9.94;54,87.86,214.84,48.96,9.94" >
+	<monogr>
+		<title level="m" type="main">Etude Economique et Spatiale de la Vulnerability et de l&apos;Adaptation des Zones Cotieres aux Changements Climatiques au Senegal</title>
+		<author>
+			<persName>
+				<forename type="first">Egis</forename>
+				<surname>Eau</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>Report. for the Direction de l&apos;Environnement et des Etablissements Classes. www.denv.gouv.sn/documents/Projet_BM/Poster%20etude%20erosion%20cotiere%20FRENCH%2 0Final.pdf</note>
+</biblStruct>
+
+<biblStruct coords="54,59.52,239.44,462.43,9.94;54,87.86,252.16,406.27,9.94;54,87.86,264.76,436.59,9.94;54,87.86,277.51,415.52,9.94;54,87.86,290.11,295.34,9.94;54,87.86,302.71,298.61,9.94" >
+	<analytic>
+		<title level="a" type="main">Resumen ejecutivo: levantamiento y evaluación del inventario de información existe para el diseño de seguros agropecuarios catastróficos para Colombia [Executive summary: information gathering and evaluation of the inventory of existing information to design agricultural catastrophic insurance for Colombia]. Fondo para el financiamiento de acciones agropecuarias (FINAGRO) (Fund for the finance of agricultural actions)</title>
+	</analytic>
+	<monogr>
+		<title level="j">FINAGRO</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,325.13,441.35,12.23;54,87.86,337.73,369.17,12.23" >
+	<monogr>
+		<title level="m" type="main">Disaster Risk Assessment and Risk Financing, A G20 / OECD methodological framework Available at: www.oecd.org/gov/risk</title>
+		<author>
+			<persName>
+				<forename type="first">G20</forename>
+				<surname>Oecd</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>G20disasterriskmanagement. .pdf</note>
+</biblStruct>
+
+<biblStruct coords="54,59.52,364.75,463.65,9.94;54,87.86,377.35,218.87,9.94;54,87.86,389.95,309.89,9.94" >
+	<analytic>
+		<title level="a" type="main">Senegal: Urban Floods. Recovery and Reconstruction Since Country Case Study Series. Guide for Disaster Recovery Frameworks. www.gfdrr.org/sites/gfdrr/files</title>
+	</analytic>
+	<monogr>
+		<title level="j">GFDRR</title>
+		<imprint>
+			<date type="published" when="2009-08" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,414.67,461.25,9.94;54,87.86,427.27,202.20,9.94;54,87.86,439.99,409.28,9.94" >
+	<analytic>
+		<title level="a" type="main">Weather Index-based Crop Insurance in Malawi, Global Facility for Disaster reduction and Recovery</title>
+	</analytic>
+	<monogr>
+		<title level="j">GFDRR</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,464.61,433.72,9.94;54,87.86,477.21,442.95,9.94;54,87.86,489.93,137.07,9.94" >
+	<analytic>
+		<title level="a" type="main">Climate Risk and Adaptation Country Profile: Senegal, The World Bank Group</title>
+	</analytic>
+	<monogr>
+		<title level="j">GFDRR</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,514.53,473.16,9.94;54,87.86,527.25,124.25,9.94" >
+	<analytic>
+		<title level="a" type="main">Financial Protection Against Natural Disasters, Global Facility for Disaster reduction and Recovery</title>
+	</analytic>
+	<monogr>
+		<title level="j">GFDRR</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,549.55,445.89,12.22;54,87.86,562.15,429.15,12.23;54,87.86,577.17,50.40,9.94" >
+	<monogr>
+		<title level="m" type="main">Financial Protection of the States Against Natural Disasters: A Primer World Bank Policy Research Working Paper</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Ghesquiere</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Mahul</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,599.47,462.88,12.23;54,87.86,614.49,406.34,9.94;54,87.86,627.09,417.16,9.94;54,87.86,639.81,384.87,9.94;54,87.86,652.44,284.93,9.94" >
+	<monogr>
+		<title level="m" type="main">Ley No 1523 – 24 Abril 2012 per el cual se adopta la política nacional de gestión del riesgo de desastres y se establece el sistema nacional de gestión del riesgo de desastres y se dictan otras disposiciones [Law No adopting the national policy on disaster risk management and establishing the national system of disaster risk management</title>
+		<author>
+			<persName>
+				<forename type="first">Colombia</forename>
+				<surname>Government</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1523-04-24" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,677.04,443.07,9.94;54,87.86,689.76,419.79,9.94;54,87.86,702.36,438.58,9.94;54,87.86,715.08,361.37,9.94" >
+	<monogr>
+		<title level="m" type="main">Analyse institutionnelle des plates-formes nationales et des organes référents de la Réduction des Risques de Catastrophes Première partie: Étude de cas du Sénégal [Institutional analysis of national platforms and relevant bodies for the reduction of catastrophe risks</title>
+		<author>
+			<persName>
+				<surname>Gouvernement</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,64.82,85.03,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Env</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,99.38,473.20,12.23;55,87.86,114.28,391.16,9.94;55,87.86,126.88,341.69,9.94" >
+	<analytic>
+		<title level="a" type="main">Rapport national de suivi sur la mise en oeuvre du Cadre d&apos;action de Hyogo</title>
+		<author>
+			<persName>
+				<surname>Government</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">) [National report on the implementation of the Hyogo Framework in Senegal], www.preventionweb.net/files</title>
+		<imprint>
+			<publisher>pdf</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="41721" to="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,151.60,343.81,9.94;55,87.86,164.20,373.83,9.94;55,87.86,176.92,149.31,9.94" >
+	<monogr>
+		<title level="m" type="main">Intended Nationally Determined Contribution, www.4.unfccc.int/submissions</title>
+		<author>
+			<persName>
+				<surname>Government</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<publisher>INDC/Published%20Documentspdf</publisher>
+			<biblScope unit="page" from="20" to="20" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,201.52,462.77,9.94;55,87.86,214.24,402.20,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<surname>Government</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Revue du cadre institutionnel de la Gestion des Risques et Catastrophes au Sénégal [Review of the institutional framework for catastrophe risk management in Senegal]</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,238.84,460.94,9.94;55,87.86,251.44,443.67,9.94;55,87.86,264.16,444.82,9.94;55,87.86,276.79,36.12,9.94" >
+	<analytic>
+		<title level="a" type="main">Experiencia Peruana en Seguros Agrícolas [Peruvian Experience in Agricultural Insurance], presentation at expert workshop Colombia</title>
+	</analytic>
+	<monogr>
+		<title level="j">GIZ</title>
+		<imprint>
+			<date type="published" when="2016-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,301.51,444.72,9.94;55,87.86,314.11,415.59,9.94;55,87.86,326.71,113.79,9.94" >
+	<analytic>
+		<title level="a" type="main">Climate Risk Insurance for strengthening climate resilience of poor people in vulnerable countries. www.bmz.de/g7</title>
+	</analytic>
+	<monogr>
+		<title level="j">GIZ</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>_Options. -Paper-Plus.pdf</note>
+</biblStruct>
+
+<biblStruct coords="55,59.52,351.43,448.69,9.94;55,87.86,364.03,337.16,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Heltberg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Living Through Crises. How the Food, Fuel and Financial Shocks Affect the Poor</title>
+		<editor>Hossain, and A. Reva</editor>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>World Bank Publishing</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,386.45,458.08,12.23;55,87.86,399.05,424.52,12.23;55,87.86,413.95,439.37,9.94" >
+	<analytic>
+		<title level="a" type="main">Remote sensing data for managing climate risks: Index-based insurance and growth related applications for smallhold-farmers in Ethiopia</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Hochrainer-Stigler</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Van Der Velde</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Fritz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Pflug</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Climate Risk Management</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,438.67,438.62,9.94;55,87.86,448.97,422.39,12.23;55,87.86,464.01,441.65,9.94;55,87.86,474.31,439.36,12.23;55,87.86,489.21,355.52,9.94;55,87.86,501.93,437.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Nuevos Escenarios de Cambio Climático para Colombia 2011-2100 Herramientas Científicas para la Toma de Decisiones – Enfoque Nacional -Regional: Tercera Comunicación Nacional de Cambio Climático.[New Climate Change Scenarios for Colombia 2011-2100 Scientific Tools for Decision Making – National-Regional Focus : Third National Communication on Climate Change], Instituto de Hidrología, Meteorología y Estudios Ambientales</title>
+	</analytic>
+	<monogr>
+		<title level="j">IDEAM</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,526.53,453.19,9.94;55,87.86,539.25,398.09,9.94;55,87.86,551.85,368.93,9.94" >
+	<analytic>
+		<title level="a" type="main">Glaciares de Colombia: más que montañas con hielo [Colombian glaciers: more than snowy mountains], Instituto de Hidrología, Meteorología y Estudios Ambientales</title>
+	</analytic>
+	<monogr>
+		<title level="j">IDEAM</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,576.45,470.09,9.94;55,87.86,589.17,408.63,9.94;55,87.86,601.77,303.89,9.94" >
+	<monogr>
+		<title level="m" type="main">Sénégal: revue du contexte socioéconomique, politique et environnemental [Senegal : Review of the Socioeconomic, Political and Environmental Context] http://prise.odi.org/wp- content/uploads</title>
+		<author>
+			<persName>
+				<forename type="first">Ied</forename>
+				<surname>Afrique</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,626.49,434.43,9.94;55,87.86,639.09,250.14,9.94;55,87.86,651.84,287.33,9.94" >
+	<analytic>
+		<title level="a" type="main">Adapting to Climate Change: Assessing World Bank Group Experience, Independent Evaluation Group</title>
+	</analytic>
+	<monogr>
+		<title level="j">IEG</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,674.14,327.12,12.23;55,87.86,689.04,443.53,9.94;55,87.86,701.76,380.60,9.94" >
+	<analytic>
+		<title level="a" type="main">Index Insurance – Frequently Asked Questions, accessed from: www.ifc.org/wps</title>
+	</analytic>
+	<monogr>
+		<title level="j">IFC</title>
+		<imprint/>
+	</monogr>
+	<note>financial. +markets/retail+finance/insurance/index+insurance+-+frequently+asked+questions</note>
+</biblStruct>
+
+<biblStruct coords="56,445.15,64.82,85.03,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Env</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,101.68,427.42,9.94;56,87.86,114.28,413.91,9.94;56,87.86,126.88,199.35,9.94" >
+	<analytic>
+		<title level="a" type="main">Climate-smart agriculture and Senegal: country case of policy and field interplay, Presentation by Siwa Msangi at the CSA Webinar Series</title>
+	</analytic>
+	<monogr>
+		<title level="j">IFPRI</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,151.60,451.26,9.94;56,87.86,164.20,404.07,9.94;56,87.86,176.92,377.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Climate Change 2014: Impacts, Adaptation, and Vulnerability, Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change</title>
+	</analytic>
+	<monogr>
+		<title level="j">IPCC</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2014" />
+			<publisher>Cambridge University Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,201.52,449.02,9.94;56,87.86,214.24,426.63,9.94;56,87.86,226.84,431.86,9.94;56,87.86,239.44,424.19,9.94;56,87.86,252.16,403.04,9.94" >
+	<analytic>
+		<title level="a" type="main">Managing the Risks of Extreme Events and Disasters to Advance Climate Change Adaptation A Special Report of Working Groups I and II of the Intergovernmental Panel on Climate Change</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">B</forename>
+				<surname>Field</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Barros</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">F</forename>
+				<surname>Stocker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Qin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">J</forename>
+				<surname>Dokken</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">L</forename>
+				<surname>Ebi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">D</forename>
+				<surname>Mastrandrea</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">J</forename>
+				<surname>Mach</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G.-K</forename>
+				<surname>Plattner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">K</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Summary for Policymakers</title>
+		<editor>Allen, M. Tignor, and P.M. Midgley</editor>
+		<meeting><address><addrLine>Cambridge, UK, and New York, NY, USA</addrLine></address></meeting>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="1" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,276.79,451.22,9.94;56,87.86,289.51,288.40,9.94;56,87.86,302.11,357.65,9.94" >
+	<monogr>
+		<title level="m" type="main">Financing Disaster Risk Reduction: Towards a coherent and comprehensive approach. Overseas Development Institute (ODI)</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Kellett</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Caravani</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Pichon</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,326.71,433.18,9.94;56,87.86,339.43,362.57,9.94" >
+	<analytic>
+		<title level="a" type="main">Independent Review of the African Risk Capacity (ARC) Contingency Planning. www.africanriskcapacity.org/documents</title>
+	</analytic>
+	<monogr>
+		<title level="j">Kimetrica</title>
+		<imprint>
+			<biblScope unit="volume">350251389546</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,364.03,471.99,9.94;56,87.86,376.75,443.84,9.94" >
+	<analytic>
+		<title level="a" type="main">Financial instruments for disaster risk management and climate change adaptation</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Linnerooth-Bayer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Hochrainer-Stigler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Climatic Change</title>
+		<imprint>
+			<biblScope unit="page" from="1" to="16" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,399.05,445.67,12.23;56,87.86,413.95,241.85,9.94" >
+	<analytic>
+		<title level="a" type="main">2014 Joint Report on Multilateral Development Banks&apos; Climate Finance, available at: www.worldbank.org/climate</title>
+	</analytic>
+	<monogr>
+		<title level="j">MDBs</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,436.37,432.80,12.22;56,87.86,451.27,265.13,9.94;56,87.86,464.01,202.47,9.94" >
+	<analytic>
+		<title level="a" type="main">Financing Disaster Risks in Developing and Emerging Economy Countries</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Mechler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Catastrophic Risks and Insurance</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2005" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,488.61,444.32,9.94;56,87.86,501.21,436.27,9.94;56,87.86,513.93,443.54,9.94;56,87.86,526.53,168.78,9.94;56,87.86,539.25,442.18,9.94;56,87.86,551.85,179.19,9.94" >
+	<analytic>
+		<title level="a" type="main">Experiencia en protección financera y cambio climatico [experience in financial protection and climate change] presentation by the Ministry of Agriculture and Rural Development (MINAGRO) held by Efrain Rosas at the workshop on financial protection and adaptation to climate change held in Bogota</title>
+	</analytic>
+	<monogr>
+		<title level="j">MINAGRO</title>
+		<imprint>
+			<date type="published" when="2016-04-26" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,574.15,400.74,12.23;56,87.86,589.17,383.36,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Ministère de l&apos;Environnement et du Développement Durable du Sénégal Troisième Communication Nationale du Sénégal</title>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,613.77,445.04,9.94;56,87.86,626.49,422.07,9.94;56,87.86,639.09,157.47,9.94" >
+	<monogr>
+		<title level="m" type="main">Property Taxation in Francophone Africa 1: Case Study of Senegal, Working Paper, WP09FAA3 Lincoln Institute of Land Policy, www.lincolninst.edu/pubs/1600_Property- Taxation-in-Francophone-Africa-1</title>
+		<author>
+			<persName>
+				<forename type="first">Nara</forename>
+				<surname>Monkam</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,663.84,428.90,9.94;56,87.86,676.44,436.17,9.94;56,87.86,689.04,431.77,9.94;56,87.86,701.76,442.77,9.94;56,87.86,714.36,47.16,9.94" >
+	<analytic>
+		<title level="a" type="main">Estrategia Financiera para Disminuir la Vulnerabilidad Fiscal del estado ante la Ocurrencia de un Desastre Natural. Financial Strategy to Reduce Fiscal Vulnerability state before the occurrence of a natural disaster</title>
+	</analytic>
+	<monogr>
+		<title level="j">MHCP</title>
+		<imprint>
+			<publisher>Ministerio de Hacienda y Credito Publico. Bogota</publisher>
+			<date type="published" when="2012" />
+			<publisher>Ministerio de Hacienda y Credito Publico. Bogota</publisher>
+		</imprint>
+	</monogr>
+	<note>CALDERON_Estrategia%20Proteccion%20Financiera%20Desastres%20Nat. urales.pdf</note>
+</biblStruct>
+
+<biblStruct coords="57,59.52,64.82,85.03,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Env</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,101.68,451.77,9.94;57,87.86,114.28,307.37,9.94" >
+	<analytic>
+		<title level="a" type="main">Project-level data for every climate-related development finance project in 2013-14</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2016-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,138.88,469.30,9.94;57,87.86,151.60,315.17,9.94" >
+	<analytic>
+		<title level="a" type="main">National Climate Change Adaptation: Emerging Practices in Monitoring and Evaluation</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2015" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,176.20,466.35,9.94;57,87.86,188.92,229.95,9.94" >
+	<analytic>
+		<title level="a" type="main">Disaster Risk Financing: A global survey of practices and challenges</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2015" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,213.52,453.22,9.94;57,87.86,226.24,396.20,9.94" >
+	<analytic>
+		<title level="a" type="main">OECD Reviews of Risk Management Policies: Boosting Resilience through Innovative Risk Governance</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2014" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,250.84,450.82,9.94;57,87.86,263.44,315.17,9.94" >
+	<analytic>
+		<title level="a" type="main">Climate Resilience in Development Planning: Experiences in Colombia and Ethiopia</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2014" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,288.19,468.94,9.94;57,87.86,300.79,315.17,9.94" >
+	<analytic>
+		<title level="a" type="main">Integrating Climate Change Adaptation into Development Co-operation: Policy Guidance</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2009" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,325.51,461.00,9.94;57,87.86,335.81,437.03,12.23;57,87.86,350.71,421.75,9.94;57,87.86,363.43,442.73,9.94;57,87.86,376.03,219.39,9.94" >
+	<monogr>
+		<title level="m" type="main">Livelihoods and poverty &quot; , Climate Change 2014: Impacts, Adaptation, and Vulnerability. Part A: Global and Sectoral Aspects. Contribution of Working Group II to the Fifth Assessment Report of the Intergovernmental Panel on Climate</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Olsson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Opondo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Tschakert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Agrawal</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">H</forename>
+				<surname>Eriksen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Ma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">N</forename>
+				<surname>Perch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">A</forename>
+				<surname>Zakieldeen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Cambridge University Press</publisher>
+			<biblScope unit="page" from="793" to="832" />
+			<pubPlace>Cambridge, United Kingdom and New York, NY, USA</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,398.45,444.15,12.23;57,87.86,413.35,434.67,9.94;57,87.86,425.95,64.56,9.94" >
+	<analytic>
+		<title level="a" type="main">Budgeting for Disasters: Focusing on the Good Times</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Phaup</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Kirschner</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Journal on Budgeting</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="volume">20101</biblScope>
+			<date type="published" when="2010" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,448.37,436.06,12.23;57,87.86,463.29,340.13,9.94;57,87.86,476.01,443.61,9.94;57,87.86,488.61,177.63,9.94" >
+	<analytic>
+		<title level="a" type="main">Initial Market Assessment – Country Scoping Note: Senegal&quot;, Partnership for stimulating insurance penetration in lower income countries</title>
+	</analytic>
+	<monogr>
+		<title level="m">Political Champions Group</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,510.91,443.08,12.23;57,87.86,525.93,419.31,9.94;57,87.86,538.53,218.91,9.94" >
+	<monogr>
+		<title level="m" type="main">A Calculated Risk:How Donors Should Engage with Risk Financing and Transfer Mechanisms</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Poole</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>OECD Development Co-Operation Working Papers OECD Publishing</publisher>
+			<pubPlace>Paris, http</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,563.25,435.66,9.94;57,87.86,575.85,422.31,9.94;57,87.86,588.45,443.07,9.94;57,87.86,601.17,40.44,9.94" >
+	<analytic>
+		<title level="a" type="main">Coping with climate risk: the role of institutions, governance and finance in private adaptation decisions of the poor, http://prise.odi.org/wp-content/uploadsCoping-with- climate-risk-the-role-of-institutions-governance-and-finance-in-private-adaptation-decisions-of-thepoor</title>
+	</analytic>
+	<monogr>
+		<title level="j">PRISE</title>
+		<imprint>
+			<publisher>pdf</publisher>
+			<biblScope unit="volume">07</biblScope>
+			<date type="published" when="2015" />
+			<publisher>pdf</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,625.77,424.66,9.94;57,87.86,638.49,407.91,9.94;57,87.86,651.12,39.72,9.94" >
+	<monogr>
+		<title level="m" type="main">African Risk Capacity for Response Plan for Drought-Related Crises. www.africanriskcapacity.org/documents</title>
+		<author>
+			<persName>
+				<surname>Republic</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<pubPlace>Senegal+Operations+Plan+Final+- +FR.pdf</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,675.84,431.72,9.94;57,87.86,688.44,434.84,9.94;57,87.86,701.04,160.59,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<surname>Republic</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Undp</forename>
+				<surname>Senegal</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Mise en place du Fonds National Climat du Sénégal. Étude comparative, analyse des contextes et proposition de modèle. Rapport Final. [Establishment of the National Climate Fund for Senegal]</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,445.15,64.82,85.03,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Env</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,101.68,457.49,9.94;58,87.86,114.28,202.37,9.94;58,87.86,126.88,406.64,9.94" >
+	<analytic>
+		<title level="a" type="main">Costs and benefits of early warning systems</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Rogers</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Tsirkunov</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Assessment Report on Disaster Risk Reduction</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,151.60,444.91,9.94;58,87.86,164.20,424.45,9.94" >
+	<monogr>
+		<title level="m" type="main">Insurance-related instruments for disaster risk reduction. Contribution to the Global Assessment Report on Disaster Risk Reduction</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Suarez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Linnerooth-Bayer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<pubPlace>ISDR, Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,188.92,470.81,9.94;58,87.86,201.52,428.96,9.94;58,87.86,214.24,424.47,9.94;58,87.86,226.84,162.39,9.94" >
+	<analytic>
+		<title level="a" type="main">Flood insurance schemes and climate adaptation in developing countries/GranthamInstitute/publication/flood-insurance-schemes-and-climate- adaptation-in-developing-countries</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Surminski</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Oramas-Dorta</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Disaster Risk Reduction. International Journal of Disaster Risk Reduction</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,251.44,440.20,9.94;58,87.86,264.16,422.48,9.94;58,87.86,276.79,443.43,9.94;58,87.86,289.51,286.25,9.94" >
+	<monogr>
+		<title level="m" type="main">Novel and improved insurance instruments for risk reduction Centre for Climate Change Economics and Policy Working Paper No. 213 Grantham Research Institute on Climate Change and the Environment Working Paper No. 188, www.lse.ac.uk</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Surminski</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,314.11,466.82,9.94;58,87.86,326.71,311.93,9.94" >
+	<analytic>
+		<title level="a" type="main">Adaptation to Climate Change—Responding to Coastline Change in its human dimensions in West Africa through Integrated Coastal Area Management (ACCC)</title>
+	</analytic>
+	<monogr>
+		<title level="j">UNDP</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,351.43,330.15,9.94;58,87.86,364.03,212.07,9.94" >
+	<analytic>
+		<title level="a" type="main">CPEIR Country Database, available at: www.climatefinancedevelopmenteffectiveness .org/CPEIR-Database</title>
+	</analytic>
+	<monogr>
+		<title level="j">UNDP</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,388.75,352.63,9.94" >
+	<analytic>
+		<title level="a" type="main">Adoption of the Paris Agreement</title>
+	</analytic>
+	<monogr>
+		<title level="j">UNFCCC</title>
+		<imprint>
+			<biblScope unit="issue">91</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,413.35,453.90,9.94;58,87.86,425.95,425.27,9.94;58,87.86,438.67,410.16,9.94;58,87.86,451.27,178.70,9.94;58,87.86,464.01,264.36,9.94;58,87.86,476.61,318.53,9.94" >
+	<analytic>
+		<title level="a" type="main">Resumen ejecutivo: implementación de los procesos de gestión de riesgo de desastres para transferir al FNGRD a nivel nacional [Executive Summary: implementation of the disaster management procedure to transfer the FNGRD to the national level</title>
+	</analytic>
+	<monogr>
+		<title level="m">Proyectos- Inversion</title>
+		<meeting><address><addrLine>Bogotá, http</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>pdf</note>
+</biblStruct>
+
+<biblStruct coords="58,59.52,501.21,457.07,9.94;58,87.86,513.93,357.29,9.94" >
+	<analytic>
+		<title level="a" type="main">Global assessment report on disaster risk reduction 2013, UN Office for Disaster Risk Reduction</title>
+	</analytic>
+	<monogr>
+		<title level="j">UNISDR</title>
+		<imprint>
+			<biblScope unit="page">33013</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,538.53,469.99,9.94;58,87.86,551.25,373.88,9.94" >
+	<analytic>
+		<title level="a" type="main">UNISDR terminology on disaster risk reduction, UN Office for Disaster Risk Reduction Available from: www.unisdr.org/we</title>
+	</analytic>
+	<monogr>
+		<title level="j">UNISDR</title>
+		<imprint>
+			<biblScope unit="page">7817</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,575.85,394.03,9.94;58,87.86,588.45,168.75,9.94" >
+	<analytic>
+		<title level="a" type="main">Senegal Climate Change Vulnerability Assessment and Options Analysis</title>
+	</analytic>
+	<monogr>
+		<title level="j">USAID</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,613.17,441.52,9.94;58,87.86,625.77,325.80,9.94;58,87.86,638.49,227.55,9.94" >
+	<analytic>
+		<title level="a" type="main">USAID Land Tenure Country Profile: Property Rights and Resource Governance in Senegal, www.usaidlandtenure.net/sites/default/files/country-profiles/fullreports</title>
+	</analytic>
+	<monogr>
+		<title level="j">USAID</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,660.82,439.68,12.23;58,87.86,673.54,444.25,12.23;58,87.86,688.44,111.31,9.94" >
+	<analytic>
+		<title level="a" type="main">Unmitigated disasters? New evidence on the macroeconomic cost of natural catastrophes</title>
+		<author>
+			<persName>
+				<forename type="first">Von</forename>
+				<surname>Peter</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Von Dahlen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Saxena</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bank for International Settlements (BIS)</title>
+		<meeting><address><addrLine>Basel</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,713.04,463.58,9.94;58,87.86,725.76,220.77,9.94;58,87.86,738.36,258.65,9.94" >
+	<analytic>
+		<title level="a" type="main">Climate risk and food security in Senegal: Analysis of climate impacts on food security and livelihoods, World Food Programme, available at: www.uncclearn.org/sites</title>
+	</analytic>
+	<monogr>
+		<title level="j">WFP</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>wfp10. .pdf</note>
+</biblStruct>
+
+<biblStruct coords="59,59.52,64.82,85.03,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Env</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,101.68,434.10,9.94;59,87.86,114.28,147.58,9.94;59,87.86,126.88,441.28,9.94;59,87.86,139.60,162.39,9.94" >
+	<monogr>
+		<title level="m" type="main">Preliminary Results of the Impact Evaluation for the R4 Rural Resilience Initiative in Senegal, available at: http://documents.wfp.org/stellent/groups</title>
+		<author>
+			<persName>
+				<forename type="first">Oxfam</forename>
+				<surname>Wfp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,161.90,445.71,12.23;59,87.86,174.62,419.43,12.23;59,87.86,189.52,63.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Financial instruments for managing disaster risks related to climate change</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Wolfrom</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Yokoi-Arai</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Journal: Financial Market Trends</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,214.24,464.72,9.94;59,87.86,226.84,439.04,9.94" >
+	<monogr>
+		<title level="m" type="main">The Economics of Adaptation to Climate Change</title>
+		<imprint>
+			<date type="published" when="2010" />
+			<pubPlace>Washington D.C. http</pubPlace>
+		</imprint>
+	</monogr>
+	<note>siteresources.worldbank.org/EXTCC/Resources/EACC_FinalSynthesisReport0803_2010.pdf</note>
+</biblStruct>
+
+<biblStruct coords="59,59.52,251.44,454.73,9.94;59,87.86,264.16,438.65,9.94;59,87.86,276.79,436.16,9.94" >
+	<monogr>
+		<title level="m" type="main">Analysis of Disaster Risk Management in Colombia: A Contributionto the Creation of Public Policies, The World Bank and the Global Facility for Disaster Risk reduction (GFDRR)</title>
+		<author>
+			<persName>
+				<forename type="first">World</forename>
+				<surname>Bank</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,301.51,473.63,9.94;59,87.86,314.11,445.29,9.94;59,87.86,326.71,445.28,9.94;59,87.86,339.43,441.98,9.94;59,87.86,352.03,78.36,9.94" >
+	<monogr>
+		<title level="m" type="main">Implementation and completion of results report Disaster risk management development policy loan with a catastrophic risk deferred drawdown option Sustainable Development Department Mexico and Colombia Country Management Unit Latin America and the Caribbean Region</title>
+		<author>
+			<persName>
+				<forename type="first">World</forename>
+				<surname>Bank</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>worldbank. .org/curated/en/673891468240868134/pdf/ICR22750P113080IC0disclo sed08070120.pdf</note>
+</biblStruct>
+
+<biblStruct coords="59,59.52,376.75,404.17,9.94;59,87.86,389.35,416.72,9.94" >
+	<monogr>
+		<title level="m" type="main">Senegal -Safety net assessment</title>
+		<author>
+			<persName>
+				<forename type="first">Washington</forename>
+				<forename type="middle">D C</forename>
+				<surname>World Bank Group</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Http</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,413.95,467.11,9.94;59,87.86,426.67,189.75,9.94;59,87.86,439.27,323.33,9.94" >
+	<monogr>
+		<title level="m" type="main">World Bank Work with Governments in Agriculture Index Insurance, Presentation to at the 2015 Global Index Insurance Forum, www.indexinsuranceforum.org/sites</title>
+		<author>
+			<persName>
+				<forename type="first">World</forename>
+				<surname>Bank</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>Presentation%204. .pptx</note>
+</biblStruct>
+
+<biblStruct coords="59,59.52,461.71,359.68,12.23;59,87.86,476.61,436.32,9.94" >
+	<monogr>
+		<title level="m" type="main">World Development Indicators Data Catalog (database), http://data.worldbank.org/data-catalog/world-development-indicators (accessed on 23</title>
+		<author>
+			<persName>
+				<forename type="first">World</forename>
+				<surname>Bank</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,501.21,435.54,9.94;59,87.86,513.93,361.54,9.94" >
+	<monogr>
+		<title level="m" type="main">Shockwaves: Managing the impacts of climate change on poverty. Overview booklet, Climate Change and Development Series</title>
+		<author>
+			<persName>
+				<forename type="first">World</forename>
+				<surname>Bank</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+			<publisher>World Bank</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,538.53,445.16,9.94;59,87.86,548.95,139.67,12.23;59,87.86,563.85,374.00,9.94" >
+	<monogr>
+		<title level="m" type="main">Senegal: Disaster Risk Financing and Insurance Country Note. DRFI Country Notes –Working Paper, www.gfdrr.org/sites/gfdrr</title>
+		<author>
+			<persName>
+				<forename type="first">World</forename>
+				<surname>Bank</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Gfdrr</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+	<note>org. /files/DRFICountryNote_Senegal_Jan072013_Final.pdf</note>
+</biblStruct>
+
+<biblStruct coords="60,445.15,64.82,85.03,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Env</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2017" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

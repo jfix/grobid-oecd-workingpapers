@@ -1,0 +1,355 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_20"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="83,70.69,345.40,425.15,8.97;83,59.52,354.64,439.80,8.97;83,59.52,363.88,41.46,8.97" >
+	<monogr>
+		<title level="m" type="main">ICT equipment is defined here as computer and office equipment and communication equipment; software includes both purchased and own account software. Software investment in Japan is likely to be underestimated, owing to methodological differences</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="83,68.52,376.00,132.90,8.97" >
+	<monogr>
+		<title level="m" type="main">Data for 2003 or latest year available</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="83,59.52,391.24,118.74,8.97;83,81.60,418.44,451.41,12.22;83,59.52,431.16,473.47,12.22" >
+	<analytic>
+		<title level="a" type="main">Total spending on R&amp;D (1.5% of GDP) is significantly lower than the 2</title>
+	</analytic>
+	<monogr>
+		<title level="m">3% average of OECD countries in 2005. Most countries with lower R&amp;D spending also have lower per capita income</title>
+		<meeting><address><addrLine>Annex</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Scoreboard</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="83,69.04,443.76,464.01,12.22;83,59.52,456.48,473.71,12.22;83,59.52,469.07,473.57,12.22;83,59.52,481.79,473.37,12.22;83,59.52,494.39,473.50,12.22;83,59.52,506.98,82.58,12.22" >
+	<monogr>
+		<title level="m" type="main">The ratio has been lower than that of EU countries for more than 20 years and there is no sign of convergence. Private sector R&amp;D spending is particularly low, business R&amp;D spending amounting to only 1.2% of industry value added compared to 2.2% for OECD countries in 2005 (Annex 3.A Figure 3.A.5). The gap in private R&amp;D spending is very large relative to other high per capita income countries (Denmark, Sweden or Switzerland), notwithstanding an R&amp;D tax credit scheme introduced</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Figure</forename>
+				<forename type="middle">3</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+	<note>Skattefunn</note>
+</biblStruct>
+
+<biblStruct coords="83,81.60,531.70,451.41,12.22;83,59.52,544.30,155.57,12.22;83,215.16,542.92,6.96,7.70;83,225.96,544.32,307.06,12.22;83,59.52,557.04,473.61,12.22;83,59.52,569.64,473.49,12.22;83,59.52,582.23,321.31,12.22" >
+	<monogr>
+		<title level="m" type="main">According to national surveys, only 26% of Norwegian enterprises conducted innovation-related activities in the period 2002-2004. 55 The reported innovation activity is a little lower than for the period SMEs seem to lag behind many other OECD countries in terms of product and process innovation (Annex 3.A, Figures 3.A.6 and 7) SMEs in Norway collaborate less in innovation activities than elsewhere</title>
+		<imprint>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+	<note>notably. compared to other Nordic countries (Figure 3.4</note>
+</biblStruct>
+
+<biblStruct coords="83,59.52,732.35,6.48,7.17;83,102.00,733.80,351.03,11.03" >
+	<analytic>
+		<title level="a" type="main">55 Innovation activities are defined as a product or process innovation</title>
+	</analytic>
+	<monogr>
+		<title level="j">Statistics Norway</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="84,444.48,62.52,85.68,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="112,76.56,649.48,99.64,8.97" >
+	<monogr>
+		<title level="m" type="main">Per 100 inhabitants in</title>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="112,76.56,658.60,454.86,8.97;112,59.52,667.84,242.41,8.97" >
+	<monogr>
+		<title level="m" type="main">Other&quot; broadband technologies include satellite broadband Internet, fibre-to-the-home Internet access, ethernet LANs, and fixed wireless subscribers (at downstream speeds greater than 256 kbps)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="112,59.52,683.07,326.83,8.97;112,59.52,732.35,6.48,7.17" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">based on the OECD Communications Outlook</title>
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="page">70</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="112,102.00,733.80,406.98,11.03" >
+	<monogr>
+		<title level="m" type="main">Ministry of Industry and Trade, Regional Competitiveness Operational Programme</title>
+		<imprint>
+			<date type="published" when="2007-11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="113,59.52,62.52,85.68,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="116,158.16,111.73,275.95,10.04;116,128.76,134.05,20.12,10.04;116,172.92,134.30,84.61,10.04;116,128.76,149.17,20.12,10.04;116,172.92,149.42,194.20,10.04;116,128.76,164.42,20.12,10.04;116,172.92,164.66,261.06,10.04;116,128.76,179.54,20.12,10.04;116,172.92,179.78,142.16,10.04;116,172.92,194.90,167.22,10.04;116,172.92,209.90,258.68,10.04" >
+	<monogr>
+		<title level="m" type="main">Calendar of Major Entrepreneurship and SME Policy Events 1990 Creation of KOSGEB 1996 Creation of Customs Union with European Union 1999 Recognition of Turkey as a candidate country for EU-membership 2000 Adoption of OECD Bologna Charter Creation of Telecommunications Authority National Convergence</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>Box. 4.1. Programme. to the EU acquis</note>
+</biblStruct>
+
+<biblStruct coords="116,172.92,225.26,183.05,10.04;116,172.92,240.38,300.97,10.04;116,172.92,255.50,327.62,10.04;116,172.92,265.82,52.19,10.04" >
+	<monogr>
+		<title level="m" type="main">Ratification of the European Charter for SMEs Participation in the Business Environment Simplification Task Force (BEST) Action Plan for Business Support Activities (local and regional cluster programmes</title>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="116,172.92,281.07,221.72,10.04" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Industrial Policy (towards EU Membership)</title>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="116,172.92,296.19,123.06,10.04;116,172.92,311.31,131.14,10.04" >
+	<monogr>
+		<title level="m" type="main">Adoption of Urgent Action Plan Specific Action Plan</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="116,172.92,326.43,152.49,10.04;116,172.92,341.55,172.17,10.04;116,172.92,356.80,222.20,10.04;116,395.04,354.93,6.69,6.70" >
+	<monogr>
+		<title level="m" type="main">Opening of EU accession negotiations Liberalisation of telecommunications sector Adherence to the Istanbul OECD Ministerial Declaration 77</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="116,172.93,371.89,163.22,10.04;116,128.76,386.77,20.12,10.04;116,172.93,387.01,228.72,10.04;116,172.93,402.13,53.11,10.04;116,226.08,400.29,5.02,6.70;116,233.64,402.13,73.36,10.04;116,172.92,417.38,220.78,10.04" >
+	<monogr>
+		<title level="m" type="main">Alignment of SME support programmes on EU-definitions Adoption of 9 th Development Plan Adoption of SME Strategy and Action Plan</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">S</forename>
+				<surname>Partial Privatisation Of Turk Telekom</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="116,172.92,432.37,290.15,10.04;116,128.75,447.38,20.12,10.04" >
+	<monogr>
+		<title level="m" type="main">Establishment of EU legal framework for Pre-Accession Assistance (IPA)</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="116,172.92,447.62,189.13,10.04;116,172.92,462.74,334.17,10.04;116,172.92,473.18,208.16,10.04;116,81.60,507.24,451.57,12.22;116,59.52,519.96,473.65,12.22;116,59.52,532.56,473.49,12.22;116,59.52,545.28,473.51,12.22;116,59.52,557.87,357.13,12.22;116,81.60,582.05,5.07,13.51;116,102.00,583.31,430.96,12.22;116,102.00,596.03,431.15,12.22;116,102.00,608.62,430.96,12.22;116,102.00,621.22,431.04,12.22;116,102.00,633.94,431.06,12.22;116,102.00,646.53,189.23,12.22" >
+	<analytic>
+		<title level="a" type="main">RCOP) in the context of the EU instrument for pre-accession (IPA) Priorities for enterprise and industrial policy are customarily set out in multi-annual development plans, which present a general policy framework. More detailed policy objectives are laid out in mediumterm (three-year) programmes, while annual programmes identify specific policy measures, a time frame and the allocation of responsibilities among different government branches and other policy stakeholders. Highlights of entrepreneurship and SME policy over the past few years included: • The five-year National Convergence Programme to the EU acquis (2001-05) Aimed at improving SMEs&apos; efficiency and competitiveness, the plan promoted the diffusion of bestpractices to upgrade product quality and innovation and technology capacity through modern management techniques, new financial instruments and partnerships with universities and foreign companies. The plan also called for better service delivery to SMEs creating and expanding specialised support units (service stations)</title>
+	</analytic>
+	<monogr>
+		<title level="m">Basel II &quot; prudential rules Preparation of Operational Programme for Regional Competitiveness</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="116,81.60,670.71,5.07,13.51;116,102.00,671.97,431.01,12.22;116,102.00,684.69,431.16,12.22;116,59.52,720.83,6.48,7.17" >
+	<monogr>
+		<title level="m" type="main">• The Urgent Action Plan adopted by the High Planning Council in The implementation of this plan, prepared in the context of EU pre-accession, is one of the priorities 77</title>
+		<imprint>
+			<date type="published" when="2003-11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="116,102.00,722.28,283.64,11.03;116,385.68,720.83,6.48,7.17;116,396.12,722.28,136.84,11.03;116,105.89,733.81,297.87,11.03" >
+	<monogr>
+		<title level="m" type="main">The Istanbul OECD Ministerial Declaration was adopted after the 2 nd OECD Ministerial conference on &quot; Promoting Entrepreneurship and Innovative SMEs in a Global Economy</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="117,59.52,62.52,85.68,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="127,59.52,99.36,473.44,12.22;127,59.52,111.96,114.32,12.22;127,81.60,136.56,451.49,12.22;127,59.52,149.27,473.61,12.22;127,59.52,161.87,258.15,12.22" >
+	<monogr>
+		<title level="m" type="main">vulnerable segments of the business sector thus constitutes a pre-condition for achieving stronger economic convergence with the EU. The new framework for entrepreneurship and SME policies (2007-2013) established by the Pre-Accession Process largely meets these concerns. Fully implemented the RCOP is bound to show that innovative and entrepreneurial activities are co-dependent</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="127,227.40,192.97,137.66,10.04;127,87.84,215.29,170.62,10.04;127,87.84,231.74,315.75,10.04;127,87.84,242.29,346.22,10.04;127,87.84,252.62,445.06,10.04;127,87.84,262.81,132.14,10.04" >
+	<monogr>
+		<title level="m" type="main">Policy recommendations Broaden Support Programme Approach Extend entrepreneurship and SME policy support to include non-industrial firms Create a simplified analytical framework for a broadened support programme approach Differentiate support programmes to meet basic needs of vastly different business categories (large firms, MSEs and small and micro firms</title>
+		<imprint/>
+	</monogr>
+	<note>Box. 4.3</note>
+</biblStruct>
+
+<biblStruct coords="127,87.85,273.25,320.34,10.04;127,87.85,295.46,125.54,10.04;127,87.85,312.02,148.63,10.04;127,87.85,322.21,345.84,10.04;127,87.85,332.54,309.14,10.04;127,87.85,343.09,146.09,10.04;127,87.85,353.42,385.84,10.04;127,87.85,375.49,262.27,10.04;127,87.85,392.05,345.30,10.04;127,87.85,402.49,172.24,10.04;127,87.85,412.82,381.17,10.04;127,87.85,423.14,191.58,10.04;127,87.85,433.46,263.08,10.04;127,87.85,455.54,215.15,10.04;127,87.85,472.22,193.07,10.04;127,87.85,482.54,343.18,10.04;127,87.85,492.86,360.70,10.04;127,87.85,503.19,271.78,10.04;127,87.85,513.63,324.11,10.04;127,87.85,523.95,445.19,10.04;127,87.85,534.27,32.65,10.04;127,87.85,544.60,238.61,10.04;127,87.85,555.04,347.60,10.04;127,87.85,577.11,116.57,10.04;127,87.85,593.67,192.15,10.04;127,87.85,604.00,187.12,10.04;127,87.85,614.32,208.62,10.04;127,87.84,624.64,246.21,10.04;127,87.84,635.08,239.56,10.04;127,87.84,645.28,324.14,10.04;127,87.84,655.84,272.78,10.04;127,87.84,666.16,224.20,10.04;127,87.84,676.48,300.34,10.04;128,444.48,62.52,85.68,12.22" >
+	<monogr>
+		<title level="m" type="main">TOBB and TESK Conduct regular surveys of SMEs&apos; perceptions about different support options Create an efficient evaluation culture Accelerate the collection of business-sector data on the basis of recently accepted EU-definitions Improve entrepreneurial education and training opportunities Enlarge the range of educational opportunities for the benefit of all segments of society Establish innovation laboratories in schools Introduce entrepreneurship education in schools, universities, laboratories and research centres Expand basic training courses for entrepreneurs Make entrepreneurs more aware of existing support policy options Strengthen support services and network building Reduce current asymmetries of support services Adapt support services more closely to the needs of aspiring and actual entrepreneurs Strengthen regular information and experience-sharing among same types of support units Create network links between different categories of support centres Use mobile support centres (vans) to provide assistance for firms in remote areas Exploit more strongly the advantages of geographical proximity (creating firms near universities, research centres) Establish horizontal network links among small (micro) firms Create vertical links between homogenous groups of small (micro) firms and large firms Improve Access to Finance Introduce a nation-wide credit guarantee system Reduce the role of collateral in credit extension Upgrade the banking sector&apos;s ability to lend to SMEs Design special (multi-disciplinary) programmes for micro firms Use mobile banking vans and mobile credit advisory centres Augment number of credit advisors and maintain monitoring after credit extension Enlarge the range of financial instruments for all business categories Use best-practice to augment supplies of venture capital Strengthen interaction between public and private venture-capital suppliers</title>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>DSTI/DOC</publisher>
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="128,59.52,142.20,291.50,12.22;128,81.60,166.56,26.40,12.22;128,108.00,165.16,5.40,7.70;128,116.04,166.56,417.08,12.22;128,59.51,179.28,473.44,12.22;128,59.51,191.88,473.51,12.22;128,59.51,204.60,473.48,12.22;128,59.51,217.19,473.62,12.22;128,59.51,229.91,473.50,12.22;128,59.51,242.51,473.51,12.22;128,59.51,255.10,473.60,12.22;128,59.51,267.82,473.57,12.22;128,59.51,280.42,473.57,12.22;128,59.51,293.14,103.12,12.22" >
+	<analytic>
+		<title level="a" type="main">The 9 th Development Plan (2007-2013) and the SME Strategy and Action Plan have been shaped in close correspondence with the 2006 EU legal framework governing pre-accession assistance for &apos;candidate&apos; countries. The EU Instrument for Pre-Accession Assistance (IPA) covering the period 2007-2013 helps aspiring countries qualify for the receipt of EU structural funds guiding them on their path to eventual EU membership. IPA assists these countries in their efforts to align themselves on EU standards and policy practices. It distinguishes between five intervention areas (components) These comprise Transition Assistance and Institutional Building, Cross-Border Cooperation, Regional Development, Human Resources Development and Rural development. The intervention area &apos;Regional Development&apos; consists of three sub-components one of which &apos;The Operational Programme for Regional Competitiveness</title>
+		<author>
+			<persName>
+				<forename type="first">Eu-Instrument</forename>
+				<surname>The</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>For Pre-Accession</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Assistance</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">) provides a new framework for Turkey&apos;s entrepreneurship and SME policies</title>
+		<imprint>
+			<date type="published" when="2006" />
+			<biblScope unit="page" from="2007" to="2009" />
+		</imprint>
+	</monogr>
+	<note>Figure. 4.A.1</note>
+</biblStruct>
+
+<biblStruct coords="128,85.08,317.65,422.20,10.04;128,270.48,328.21,51.57,10.04;128,278.16,473.69,35.08,7.49;128,276.48,481.72,38.62,7.49;128,267.60,489.53,56.58,7.49" >
+	<monogr>
+		<title level="m" type="main">Figure 4.A.1. The EU-Instrument for Pre-Accession Assistance (IPA), Intervention Areas and Operational Programmes Operational Programmes</title>
+		<imprint/>
+	</monogr>
+	<note>Sub. -Components</note>
+</biblStruct>
+
+<biblStruct coords="128,269.16,387.77,54.22,7.49;128,274.80,395.80,42.80,7.49;128,168.48,421.49,29.52,7.49;128,167.16,429.52,33.01,7.49;128,177.72,437.33,11.53,7.49;128,166.44,445.13,34.25,7.49;128,171.36,453.17,24.25,7.49;128,291.00,360.05,10.48,7.49;128,395.64,433.25,16.24,7.49;128,384.00,441.41,39.66,7.49;128,390.72,539.93,37.86,7.49;128,168.00,537.29,28.74,7.49;128,340.08,429.29,22.09,7.49;128,334.80,437.45,32.62,7.49;128,331.32,445.25,39.66,7.49;128,282.72,429.29,26.93,7.49;128,276.36,437.45,39.65,7.49;128,219.84,433.25,39.54,7.49;128,221.16,441.41,36.97,7.49;128,257.40,521.81,77.50,7.49;128,260.52,529.97,71.16,7.49;128,283.92,537.77,24.07,7.49;128,265.19,545.45,61.55,7.49;128,261.24,553.61,69.13,7.49;128,275.04,561.41,41.53,7.49;128,81.60,601.32,451.47,12.22;128,59.52,614.04,473.45,12.22;128,59.52,626.64,473.60,12.22;128,59.52,639.36,473.56,12.22;128,59.52,651.95,473.47,12.22;128,59.52,664.55,473.48,12.22;128,59.52,677.27,473.39,12.22;128,59.52,689.86,473.34,12.22;128,59.52,702.58,30.95,12.22" >
+	<analytic>
+		<title level="a" type="main">Resources Development Regional Development Cross Border Cooperation Regional Competitiveness Operational Programme (RCOP) New Framework for Entrepreneurship and SME Policies As a &apos;candidate country&apos; Turkey is entitled to be receiving assistance in each of IPA&apos;s five intervention areas. The programming, implementation, monitoring and evaluation of the IPA assistance processes constitute indispensable tools to qualify Turkey for the receipt of EU structural funds. Concrete &apos;outputs&apos; of the IPA process are so-called Operational Programmes, one of which is the Operational Programme for Regional Competitiveness (RCOP). The thrust of Turkeys&apos; new entrepreneurship and SME policies are enshrined in this programme. RCOP has been prepared by the Ministry of Industry and Trade in collaboration with central and regional policy stakeholders</title>
+	</analytic>
+	<monogr>
+		<title level="m">Intervention Areas (Components) Transition Assistance and Institutional Building IPA Rural Development Environment Transport Human the EU Commission and the State Planning Organisation (SPO). Its operating structure is provided by the Ministry of Industry and Trade</title>
+		<imprint/>
+	</monogr>
+	<note>Figure. 4.A.2</note>
+</biblStruct>
+
+<biblStruct coords="129,59.52,62.52,85.68,12.22" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Dsti</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

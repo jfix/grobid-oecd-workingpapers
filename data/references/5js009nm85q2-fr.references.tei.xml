@@ -1,0 +1,777 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_70"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="31,88.33,449.73,197.04,8.96" >
+	<monogr>
+		<title level="m" type="main">Activités d&apos;hébergement et de restauration (CITI rév</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.34,460.48,303.51,7.44;31,114.74,469.62,242.02,7.44;31,114.74,478.86,244.05,7.44" >
+	<monogr>
+		<title level="m" type="main">Note : Niveaux 0-2 : enseignement élémentaire, enseignement primaire et collège. Niveaux 3-4 : lycée et enseignement post-secondaire non supérieur</title>
+		<imprint/>
+	</monogr>
+	<note>Niveaux. 5-6 : enseignement supérieur de premier et deuxième cycle</note>
+</biblStruct>
+
+<biblStruct coords="31,79.34,488.10,214.03,7.44" >
+	<monogr>
+		<title level="m" type="main">Sources : base de données EUROSTAT; calculs de l&apos;OCDE</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="99,88.33,684.98,196.85,8.96" >
+	<monogr>
+		<title level="m" type="main">Activités d&apos;hébergement et de restauration (CITI rév</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="99,90.13,695.73,442.93,7.44;99,79.34,704.97,243.00,7.44" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Les</forename>
+				<surname>Données Proviennent De</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Citi</forename>
+				<surname>Rév</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">et Israël (2009-12). La variation en % pour le Chili couvre la période</title>
+		<imprint>
+			<date type="published" when="2009-12" />
+			<biblScope unit="page" from="2010" to="2023" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="99,88.33,723.33,110.74,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Ocde</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Sauf</forename>
+				<surname>Chili</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>États-Unis</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="99,79.34,732.57,186.17,7.44;99,176.02,149.30,18.79,8.01;99,219.36,149.30,18.79,8.01;99,262.70,149.30,18.79,8.01;99,306.05,149.30,18.79,8.01;99,349.38,149.30,192.10,8.01" >
+	<monogr>
+		<title level="m" type="main">Sources : base de données OIT</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="99,81.35,161.30,90.90,8.01;110,269.21,160.48,73.91,9.94;110,79.34,208.84,418.02,9.94;110,107.66,221.56,325.00,9.94;110,107.66,234.16,107.38,9.94" >
+	<analytic>
+		<title level="a" type="main">Business Growth Opportunities in the New APEC Economy</title>
+		<author>
+			<persName>
+				<surname>Économies De L &apos;ocde Références Apec</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Singapore: APEC TOURISM WORKING GROUP</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="110,79.34,258.88,440.32,9.94;110,107.66,271.48,420.48,9.94;110,107.66,284.11,401.92,9.94;110,107.66,296.83,200.21,9.94" >
+	<monogr>
+		<title level="m" type="main">The Australian Tourism Labour Force Report, prepared by Deloitte Access Economics for the Labour and Skills Working Group and the Department of Resources, Energy and Tourism</title>
+		<author>
+			<persName>
+				<forename type="first">Australian</forename>
+				<surname>Government</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="110,79.34,321.43,441.29,9.94;110,107.66,334.15,109.14,9.94;110,107.66,346.75,423.49,9.94;110,107.66,359.35,109.77,9.94" >
+	<analytic>
+		<title level="a" type="main">Tourism Sector Compensation Study. Ottawa: Malatest and Associates</title>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Tourism Human Resource Council</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="110,79.34,381.77,416.21,12.22;110,107.66,396.67,417.73,9.94;110,107.66,409.39,149.45,9.94;110,107.66,421.99,421.57,9.94;110,107.66,434.71,374.12,9.94" >
+	<monogr>
+		<title level="m" type="main">The Future of Canada&apos;s Tourism Sector: Shortages to resurface as labour markets tighten. Ottawa: Canadian Tourism Research Institute and Conference Board of Canada</title>
+		<author>
+			<persName>
+				<forename type="first">Canadian</forename>
+				<surname>Tourism Human Resource</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Council</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<pubPlace>SupplyDemand_Report_Current_EN.ashx</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="110,79.34,459.31,422.76,9.94;110,107.66,471.93,179.11,9.94" >
+	<analytic>
+		<title level="a" type="main">Job quality and labour market performance</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Erhel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Guergoat-Lariviere</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CEPS Working Document No</title>
+		<imprint>
+			<biblScope unit="volume">330</biblScope>
+			<date type="published" when="2010-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="110,79.34,496.65,409.47,9.94;110,107.66,509.25,403.84,9.94;110,107.66,521.97,151.27,9.94;110,107.66,534.57,424.50,9.94;110,107.66,547.17,161.67,9.94" >
+	<monogr>
+		<title level="m" type="main">The Hospitality Sector in Europe: An assessment of the economic contribution of the hospitality sector across 31 countries. Commissioned by The Brewers of Europe with support of HOTREC</title>
+		<author>
+			<persName>
+				<forename type="first">Young</forename>
+				<surname>Ernest</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>EY_Th. e_Hospitality_Sector_in_Europe.pdf</note>
+</biblStruct>
+
+<biblStruct coords="110,79.34,571.89,409.53,9.94;110,107.66,584.49,191.23,9.94" >
+	<monogr>
+		<title level="m" type="main">Eurofound 2012 Yearbook: Living and working in Europe</title>
+		<author>
+			<persName>
+				<surname>Eurofound</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>Luxembourg: Publications Office of the European</publisher>
+			<pubPlace>Union</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="110,79.34,609.21,452.09,9.94;110,107.66,621.81,136.24,9.94;110,107.66,634.41,420.83,9.94;110,107.66,647.13,126.75,9.94" >
+	<monogr>
+		<title level="m" type="main">Study on the Competitiveness of the EU tourism industry. Directorate- General Enterprise &amp; Industry</title>
+		<author>
+			<persName>
+				<forename type="first">European</forename>
+				<surname>Commission</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="110,79.34,669.46,452.75,12.23;110,107.66,682.18,346.41,12.22;110,107.66,697.08,385.12,9.94;110,107.66,709.68,157.51,9.94" >
+	<analytic>
+		<title level="a" type="main">Communication &quot; Europe, the world&apos;s No. 1 tourist destination – a new political framework for tourism in Europe</title>
+		<author>
+			<persName>
+				<forename type="first">European</forename>
+				<surname>Commission</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">COM</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,100.24,439.26,9.94;111,107.66,112.84,212.77,9.94;111,107.66,125.56,420.27,9.94;111,107.66,138.16,372.16,9.94;111,107.66,150.88,215.83,9.94" >
+	<monogr>
+		<title level="m" type="main">Report on the Employment Situation and Occupations of Trainees Completing Professional Cookery Courses</title>
+		<author>
+			<persName>
+				<forename type="first">Fáilte</forename>
+				<surname>Ireland</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,175.48,452.93,9.94;111,107.66,188.08,405.92,9.94;111,107.66,200.80,118.64,9.94" >
+	<monogr>
+		<title level="m" type="main">Jobs, wages and inequality: the role of non-standard work. OECD Directorate for Employment, Labour and Social Affairs presentation to NAEC seminar</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Forster</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Chen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Llena-Noza</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014-02-17" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,225.40,407.24,9.94;111,107.66,238.12,402.76,9.94;111,107.66,250.72,228.27,9.94;111,107.66,263.32,215.96,9.94" >
+	<monogr>
+		<title level="m" type="main">Putting in Place Jobs that Last: a guide to rebuilding quality employment at local level, OECD Local Economic and Employment Development (LEED) Working Papers</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Froy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Giguère</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>OECD Publishing</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,288.07,452.75,9.94;111,107.66,300.67,401.56,9.94;111,107.66,313.39,288.17,9.94" >
+	<monogr>
+		<title level="m" type="main">Skills for Competitiveness: A Synthesis Report, OECD Local Economic and Employment Development (LEED) Working Papers</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Froy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Giguère</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Meghnagi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>OECD Publishing</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,337.99,430.96,9.94;111,107.66,350.71,424.63,9.94;111,107.66,363.31,342.32,9.94" >
+	<monogr>
+		<title level="m" type="main">Career Pathway and Cluster Skill Development: Promising Models from the United States, OECD Local Economic and Employment Development (LEED) Working Papers</title>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Hamilton</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="page" from="5" to="94" />
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,387.91,447.20,9.94;111,107.66,398.33,370.50,12.23;111,107.66,410.93,218.25,12.23" >
+	<monogr>
+		<title level="m" type="main">Defining, measuring and assessing job quality and its links to labour market performance and well-being. EC/OECD seminar &quot; Job quality, labour market performance and well-being</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Hizjen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Smith</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013-04-05" />
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,437.95,440.23,9.94;111,107.66,448.25,415.22,12.23;111,107.66,463.15,266.44,9.94" >
+	<monogr>
+		<title level="m" type="main">Global Dialogue Forum on New Developments and Challenges in the Hospitality and Tourism Sector – Final report of the discussion</title>
+		<author>
+			<persName>
+				<forename type="first">Ilo</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010-11" />
+			<biblScope unit="page" from="23" to="24" />
+			<pubPlace>Geneva ; Geneva, ILO</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,487.89,419.08,9.94;111,107.66,500.49,100.39,9.94" >
+	<monogr>
+		<title level="m" type="main">A skilled workforce for strong, sustainable and balanced growth. A G20 training strategy</title>
+		<author>
+			<persName>
+				<forename type="first">Ilo</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<pubPlace>Geneva, ILO</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,525.21,430.76,9.94;111,107.66,537.81,403.07,9.94;111,107.66,550.41,306.16,9.94;111,107.66,563.13,243.48,9.94;111,79.34,587.73,436.69,9.94;111,107.66,600.45,82.40,9.94" >
+	<analytic>
+		<title level="a" type="main">Developments and challenges in the hospitality and tourism sector Issues paper for discussion at the Global Dialogue Forum for the Hotels, Catering and Tourism Sector Migrant workers in the international hotel industry</title>
+		<author>
+			<persName>
+				<forename type="first">Ilo</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">pdf ILO. International Migration Paper</title>
+		<imprint>
+			<publisher>ILO</publisher>
+			<biblScope unit="issue">112</biblScope>
+			<date type="published" when="2010" />
+			<publisher>ILO</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,625.05,451.49,9.94;111,107.66,637.65,53.57,9.94;111,79.34,662.40,451.38,9.94;111,107.66,675.00,129.80,9.94" >
+	<analytic>
+		<title level="a" type="main">Decent work agenda. ILO. Geneva. http://www.ilo.org/global/topics/decent-work/lang-it/index International perspectives on women and work in hotels</title>
+		<author>
+			<persName>
+				<forename type="first">Ilo</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">htm ILO</title>
+		<imprint>
+			<publisher>ILO</publisher>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2013" />
+			<publisher>ILO</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="111,79.34,699.72,329.48,9.94;111,107.66,712.32,267.01,9.94;111,107.66,724.92,255.57,9.94;112,79.34,100.24,423.39,9.94" >
+	<analytic>
+		<title level="a" type="main">Toolkit on poverty reduction through tourism. Geneva: ILO. http://www.ilo.org/wcmsp5/groups Youth Employment in the Hospitality, Catering and Tourism Sector</title>
+		<author>
+			<persName>
+				<forename type="first">Ilo</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">pdf ILO</title>
+		<imprint>
+			<publisher>ILO</publisher>
+			<date type="published" when="2013" />
+			<publisher>ILO</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="112,79.34,124.84,413.77,9.94;112,107.66,137.56,258.97,9.94;112,107.66,150.16,363.20,9.94;112,79.34,174.88,450.48,9.94;112,107.66,187.48,277.45,9.94;112,107.66,200.08,423.55,9.94;112,107.66,212.80,192.36,9.94;112,79.34,237.40,392.35,9.94;112,107.66,250.12,409.09,9.94" >
+	<analytic>
+		<title level="a" type="main">Creative quality jobs: transforming the economic development landscape Assessing Private Sector Contributions to Job Creation and Poverty Reduction DC: IFC. http://www.ifc.org/wps/wcm/connect/1c91a5804e6f1b89aceeacfce4951bf6/IFC_FULL+JOB+R EPORT_REV2_JYC.pdf?MOD=AJPERES International Youth Foundation Creating Opportunities for Youth in Hospitality</title>
+		<author>
+			<persName>
+				<forename type="first">Iedc</forename>
+				<surname>Washington</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Dc</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IEDC_Quality_Jobs.pdf International Finance Corporation</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+	<note>www. .iyfnet.org/sites/default/files/Creating-Opportunities-for-Youth-in-Hospitality.pdf</note>
+</biblStruct>
+
+<biblStruct coords="112,79.34,274.72,438.53,9.94;112,107.66,287.35,408.09,9.94;112,107.66,300.07,43.16,9.94" >
+	<monogr>
+		<title level="m" type="main">Informing the National Long-term Tourism Strategy, prepared on behalf of the National Long-term Tourism Strategy Steering Committee</title>
+		<author>
+			<persName>
+				<forename type="first">Jackson</forename>
+				<surname>Report</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Commonwealth of Australia</publisher>
+			<pubPlace>Canberra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="112,79.34,324.67,196.73,9.94;112,79.34,349.39,453.16,9.94;112,107.66,361.99,347.80,9.94;112,107.66,374.71,109.47,9.94;112,79.34,399.31,429.39,9.94;112,107.66,411.91,303.92,9.94;112,79.34,436.63,436.72,9.94;112,107.66,449.23,310.15,9.94;112,79.34,473.97,374.95,9.94;112,107.66,486.57,377.68,9.94;112,107.66,499.17,84.87,9.94;112,79.34,523.89,425.73,9.94;112,107.66,536.49,386.24,9.94;112,79.34,561.21,444.64,9.94;112,107.66,573.81,218.37,9.94;112,79.34,598.41,416.66,9.94;112,107.66,611.13,223.46,9.94;112,107.66,623.73,422.56,9.94;112,107.66,636.45,43.65,9.94;112,79.34,661.08,420.96,9.94;112,107.66,673.68,370.84,9.94" >
+	<analytic>
+		<title level="a" type="main">Flexible Policy for OECD Innovation Strategy: Getting a head start on tomorrowoecd-ilibrary.org/content/book/9789264083479-en OECD Building Quality Jobs in the Recovery OECD Tourism Trends and Policies 2012 http://www.oecd-ilibrary.org/industry-and-services/oecd-tourism-trends-and-policies- Better Skills, Better Jobs, Better Lives. A Strategic Approach to Skills Policies New Approaches to Economic Challenges: A Framework Paper Looking to 2060: A Global Vision of Long-Term Growth</title>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+				<surname>More</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Better</forename>
+				<surname>Jobs</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+				<surname>Leed Programme</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">LEED Programme Conference Proceedings Summary and Recommendations</title>
+		<meeting><address><addrLine>Paris ; Paris ; Paris ; Paris http ; Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing OECD Publishing OECD Publishing OECD Publishing OECD PublishingMIN</publisher>
+			<date type="published" when="2001" />
+			<biblScope unit="page" from="13" to="14" />
+		</imprint>
+	</monogr>
+	<note>oecd. .org/eco/economicoutlookanalysisandforecasts/2060%20policy%20paper%20F INAL.pdf OECD. (2013a). Overview Paper on Jobs, Equality and Trust. Meeting of the OECD Council at Ministerial Level</note>
+</biblStruct>
+
+<biblStruct coords="112,79.34,696.10,451.03,12.23;112,107.66,711.00,230.04,9.94;113,79.34,64.11,50.40,7.24;113,79.34,769.44,417.66,9.94;113,79.34,100.24,402.11,9.94;113,107.66,112.84,310.56,9.94;113,79.34,137.56,402.87,9.94;113,107.66,150.16,301.64,9.94;113,79.34,174.88,438.82,9.94;113,107.66,187.48,385.28,9.94;113,79.34,212.08,451.97,9.94;113,107.66,224.80,223.93,9.94;113,79.34,247.10,451.86,12.23;113,107.66,262.12,297.20,9.94" >
+	<analytic>
+		<title level="a" type="main">Giving Youth a Better Start in the Labour Market: An Action plan OECD Survey of Adult Skills http://www.oecdilibrary .org/education/the-survey-of-adult-skills_9789264204027-en OECD. (2013e) Indicators for measuring competitiveness in tourism, a guidance document. OECD Tourism Papers 2013-02 Strategic Orientations of the Secretary General</title>
+		<author>
+			<persName>
+				<forename type="first">Oecd.-Eng</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Études De L &apos;ocde Sur Le Tourisme – Pour Des Emplois De Qualité Dans Le Tourisme © Ocde Oecd</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">New Approaches to Economic Challenges – Interim ReportMCM-2014-Strategic-Orientations-SG.pdf OECD. (2014b). Working Party on Employment, Chapter 3 – How good is your job? A framework for measuring and assessing job quality</title>
+		<meeting><address><addrLine>Paris ; Paris http ; Paris ; DELSA/ELSA</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing OECD Publishing OECD Publishing OECD Publishing http</publisher>
+			<date type="published" when="2013" />
+			<biblScope unit="page">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="113,79.34,286.75,423.99,9.94;113,107.66,299.35,359.60,9.94;113,79.34,324.07,274.54,9.94;113,79.34,348.67,374.91,9.94;113,107.66,361.39,149.67,9.94;113,79.34,383.69,393.51,12.23" >
+	<monogr>
+		<title level="m" type="main">OECD Employment Outlook 2014 http://www.oecdilibrary .org/employment/oecd-employment-outlook Pre-G20 Leaders Summit Economic Outlook OECD Job Creation and Local Economic Development Work-based learning in vocational education and training – project plan</title>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>OECD Publishing OECD Publishing. DOI</publisher>
+			<biblScope unit="page" from="10" to="1787" />
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="113,79.34,410.71,430.55,9.94;113,107.66,423.31,336.64,9.94;113,107.66,435.91,187.85,9.94;113,79.34,460.63,251.70,9.94;113,79.34,485.25,428.32,9.94;113,107.66,497.97,411.94,9.94" >
+	<analytic>
+		<title level="a" type="main">The Dynamics of Employment Growth: new evidence from 18 countries Short-term labour market outlook and key challenges in G20 countries</title>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+				<forename type="middle">Ilo</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Science, Technology and Industry Policy Papers Memorandum of Understanding OECD and ILO</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="issue">14</biblScope>
+			<biblScope unit="page" from="18" to="19" />
+			<date type="published" when="2011" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+	<note>Statistical. update for the Meeting of G20 Labour and Employment Ministers</note>
+</biblStruct>
+
+<biblStruct coords="113,107.66,510.57,120.93,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">OECD and ILO</title>
+		<imprint>
+			<date type="published" when="2013-07" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="113,79.34,535.17,445.18,9.94;113,107.66,547.89,321.77,9.94;113,79.34,572.49,38.28,9.94;113,117.62,570.24,6.43,6.26;113,126.74,572.49,177.91,9.94;113,107.66,585.21,397.48,9.94;113,107.66,597.81,248.71,9.94" >
+	<monogr>
+		<title level="m" type="main">Addressing employment, labour market and social protection challenges in G20 countries: key measures since 2010 State of the Nation Report</title>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Ilo</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>G20. Taskforce on Employment People 1 st.</note>
+</biblStruct>
+
+<biblStruct coords="113,79.34,622.41,317.37,9.94;113,107.66,635.13,173.52,9.94" >
+	<analytic>
+		<title level="a" type="main">Better Skills, Best Tourism</title>
+	</analytic>
+	<monogr>
+		<title level="j">Portuguese Tourism Confederation</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="113,79.34,659.76,405.77,9.94;113,107.66,672.48,418.86,9.94;113,107.66,685.08,110.67,9.94" >
+	<monogr>
+		<title level="m" type="main">Better Use of Skills, Better Outcomes: A Research Report on Skills Utilisation in Australia, www.awpa.gov.au/publications/documents/Skills-utilisation-research- report-15</title>
+		<author>
+			<persName>
+				<forename type="first">Skills</forename>
+				<surname>Australia</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="114,79.34,100.24,447.66,9.94;114,107.66,112.84,248.25,9.94;114,107.66,125.56,233.81,9.94;114,79.34,150.16,427.09,9.94;114,107.66,162.88,58.42,9.94;114,107.66,175.48,366.19,9.94;114,79.34,200.08,427.58,9.94;114,107.66,212.80,108.21,9.94" >
+	<analytic>
+		<title level="a" type="main">Workforce Skills and Innovation: an overview of major themes in the literature http://www1.oecd.org/innovation/inno/46970941.pdf Tourism Sustainability Group Action for More Sustainable European Tourism. European Commission</title>
+		<author>
+			<persName>
+				<surname>Toner</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Economic Crisis, International Tourism Decline and its Impact on the Poor</title>
+		<meeting><address><addrLine>Paris ; Madrid</addrLine></address></meeting>
+		<imprint>
+			<publisher>UNWTO</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="114,79.34,237.40,364.00,9.94;114,107.66,250.12,394.00,9.94;114,79.34,274.72,450.81,9.94;114,107.66,287.35,340.77,9.94" >
+	<monogr>
+		<title level="m" type="main">Travel Means Jobs United States Travel Association. https://www.ustravel.org/sites Fast Forward: Travel creates opportunities and launches careers</title>
+		<author>
+			<persName>
+				<forename type="first">Usta</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<pubPlace>Washington ; Washington, USTA. https</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="114,79.34,312.07,436.73,9.94;114,107.66,324.67,406.64,9.94;114,107.66,337.39,190.49,9.94" >
+	<monogr>
+		<title level="m" type="main">Skills for Competitiveness: Country Report for Canada. OECD Local Economic and Employment Development (LEED) Working Papers, 2012/03</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Verma</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<publisher>OECD Publishing</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="114,79.34,361.99,415.71,9.94;114,107.66,374.71,142.84,9.94;114,107.66,387.31,418.97,9.94;114,107.66,399.91,399.99,9.94" >
+	<monogr>
+		<title level="m" type="main">The Economic Contribution of the Visitor Economy: UK and the nations. Deloitte and Oxford Economics</title>
+		<author>
+			<persName>
+				<surname>Visitbritain</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="114,79.34,424.63,441.65,9.94;114,107.66,434.93,395.06,12.22;114,107.66,449.95,191.69,9.94" >
+	<analytic>
+		<title level="a" type="main">Perceptions of job quality in the tourism industry: The views of recent graduates of a university&apos;s tourism management programme</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Weaver</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Contemporary Hospitality Management</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="579" to="93" />
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="114,79.34,474.57,448.75,9.94;114,107.66,487.17,409.50,9.94;114,107.66,499.89,121.64,9.94" >
+	<analytic>
+		<title level="a" type="main">Global talent trends and issues for the travel and tourism sector. London: World Travel and Tourism Council. http://www.wttc.org/focus/research-for-action/policy-research/human- capital/global-talent-trends</title>
+	</analytic>
+	<monogr>
+		<title level="j">WTTC</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,99 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_119"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="30,59.52,197.96,473.63,12.22;30,87.84,210.56,189.35,12.22" >
+	<analytic>
+		<title level="a" type="main">Explaining poor performance of European science: institutions versus policies</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Bonaccorsi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science and Public Policy</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="303" to="316" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,59.52,235.28,473.39,12.22;30,87.84,247.88,266.63,12.22" >
+	<analytic>
+		<title level="a" type="main">Methodologies for the analysis of research funding and expenditure: from input to positioning indicators</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Lepori</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="133" to="143" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,59.52,272.48,473.52,12.22;30,87.84,285.20,241.06,12.22" >
+	<analytic>
+		<title level="a" type="main">Indicators for comparative analysis of public funding: concepts, implementation and evaluation</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Lepori</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Research Evaluation</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="243" to="255" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,59.52,309.80,473.46,12.22;30,87.84,322.52,189.35,12.22" >
+	<analytic>
+		<title level="a" type="main">Comparing the evolution of national policies: what patterns of change?</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Lepori</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Science and Public Policy</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="372" to="388" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

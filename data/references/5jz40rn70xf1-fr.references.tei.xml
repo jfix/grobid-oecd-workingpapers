@@ -1,0 +1,538 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_95"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="32,274.97,760.98,269.48,9.74;32,272.09,167.61,79.57,13.38;32,90.74,217.17,399.58,12.07;32,119.06,229.41,59.07,12.07" >
+	<monogr>
+		<title level="m" type="main">Document de référence 2013-31 — © OCDE/FIT 2013 REFERENCES ADEME (2012), Contribution de l&apos;ADEME à l&apos;élaboration de visions énergétiques</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="2030" to="2050" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,90.74,253.53,403.94,12.07;32,119.06,265.65,385.56,12.07;32,119.06,277.80,89.10,12.07" >
+	<monogr>
+		<title level="m" type="main">Planning Transport Networks for an Uncertain Future: A UK Case Study</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Blaney</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Hickford</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Preston</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>communication. à la European Transport Conference 2013</note>
+</biblStruct>
+
+<biblStruct coords="32,90.74,302.04,388.78,12.07;32,119.06,314.16,154.00,12.07" >
+	<monogr>
+		<title level="m" type="main">Transports : pour un meilleur choix des investissements</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Boiteux</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+	<note>Commissariat. général du Plan</note>
+</biblStruct>
+
+<biblStruct coords="32,90.74,338.28,419.64,12.07;32,119.06,350.52,332.48,12.07" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Boiteux</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Transports : choix des investissements et coûts des nuisances, Commissariat général du Plan</title>
+		<meeting><address><addrLine>Paris, La Documentation française</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,90.74,374.64,437.06,12.07;32,119.06,386.76,387.92,12.07;32,119.06,398.88,350.24,12.07" >
+	<analytic>
+		<title level="a" type="main">« Comment satisfaire les objectifs internationaux de la France en termes d&apos;émissions de gaz à effet de serre et de pollution transfrontière</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Château</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Bagard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Crozet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">G</forename>
+				<surname>Lopez-Ruiz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ENERDATA Report</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,90.74,423.12,414.54,12.07;32,119.06,435.24,128.89,12.07" >
+	<analytic>
+		<title level="a" type="main">External Costs of Transport in Europe -Update Study for</title>
+	</analytic>
+	<monogr>
+		<title level="j">CE Delft-INFRAS</title>
+		<imprint>
+			<biblScope unit="page">163</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,90.74,459.50,387.83,12.07;32,119.06,471.74,368.80,12.07;32,119.06,483.86,226.13,12.07" >
+	<analytic>
+		<title level="a" type="main">Évaluation économique des services rendus par les zones humides – Enseignements méthodologiques de monétarisation</title>
+	</analytic>
+	<monogr>
+		<title level="j">CGDD</title>
+		<imprint>
+			<biblScope unit="volume">220</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>Commissariat. général au développement durable</note>
+</biblStruct>
+
+<biblStruct coords="32,90.74,508.22,398.12,12.07;32,119.06,520.34,351.92,12.07;32,119.06,532.46,128.59,12.07" >
+	<monogr>
+		<title level="m" type="main">Approche économique de la biodiversité et des services liés aux écosystèmes, Centre d&apos;analyse stratégique</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Chevassus-Au-Louis</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<pubPlace>Paris, La Documentation française</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,90.74,556.58,376.37,12.07;32,119.06,568.82,388.69,12.07;32,119.06,580.94,413.65,12.07;32,119.06,593.06,399.27,12.07;32,119.06,605.30,182.91,12.07" >
+	<analytic>
+		<title level="a" type="main">AEA Technology), B. Droste-Franke et P. Bickel (IER), Clean Air for Europe Programme (CAFE): Damages per tonne of PM2.5, NH3, SO2, NOx and VOC&apos;s of EU-25 Member States (excluding Cyprus) and surrounding seas</title>
+	</analytic>
+	<monogr>
+		<title level="j">CAFE</title>
+		<editor>M. Holland (EMRC), S. Pye et P. Watkiss</editor>
+		<imprint>
+			<publisher>AEA Technology Environment</publisher>
+			<date type="published" when="2005" />
+			<publisher>AEA Technology Environment</publisher>
+		</imprint>
+	</monogr>
+	<note>Marginal. damage cost report</note>
+</biblStruct>
+
+<biblStruct coords="32,90.74,629.42,439.99,12.07;32,119.06,641.54,375.87,12.07;32,119.06,653.69,355.91,12.07;32,119.06,665.93,160.49,12.07" >
+	<analytic>
+		<title level="a" type="main">Clean air for Europe programme (CAFE): Methodology for the Cost-Benefit analysis for CAFE</title>
+		<author>
+			<persName>
+				<forename type="first">)</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Hurley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Hunt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Cowie</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Holland</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Miller</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Pye</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Watkiss</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CAFE Health Impact Assessment</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,90.74,690.05,440.61,12.07;32,119.06,702.17,126.30,12.07" >
+	<analytic>
+		<title level="a" type="main">White Paper, European transport policy for 2010: time to decide</title>
+	</analytic>
+	<monogr>
+		<title level="m">COM</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,116.90,69.57,415.87,8.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Prise</forename>
+				<surname>En</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Compte Du Développement Durable Dans L &apos;évaluation Des Projets: Un Point De</forename>
+				<surname>Vue Français</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,760.98,261.68,9.74" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>Document. de référence 2013-31 — © OCDE/FIT 2013</note>
+</biblStruct>
+
+<biblStruct coords="33,90.74,107.85,432.01,12.07;33,119.06,119.97,379.06,12.07;33,119.06,132.09,132.78,12.07" >
+	<analytic>
+		<title level="a" type="main">COM(2011) 144 Final, White Paper, Roadmap to a Single European Transport Area – Towards a competitive and resource efficient transport system</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Commission Brussels</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,156.33,425.36,12.07;33,119.06,168.45,73.44,12.07" >
+	<analytic>
+		<title level="a" type="main">TEEB, The Economy of Ecosystems and Biodiversity, interim report</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Communities</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,192.57,432.00,12.07;33,119.06,204.81,253.03,12.07" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">ExternE</title>
+		<editor>P. Bickel et R. Friedrich</editor>
+		<imprint>
+			<publisher>European Commission</publisher>
+			<date type="published" when="2005" />
+			<publisher>European Commission</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,228.93,441.78,12.07;33,119.06,241.05,279.31,12.07" >
+	<analytic>
+		<title level="a" type="main">Cultivating Our Futures -Multiples fonctions de l&apos;agriculture et des terres : l&apos;analyse : www</title>
+	</analytic>
+	<monogr>
+		<title level="j">FAO</title>
+		<imprint>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,265.17,396.22,12.07;33,119.06,277.44,289.53,12.07" >
+	<monogr>
+		<title level="m" type="main">Le calcul du risque dans les investissements publics, Centre d&apos;analyse stratégique</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Gollier</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<pubPlace>Paris, La Documentation française</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,301.56,438.76,12.07;33,119.06,313.68,358.59,12.07;33,119.06,325.92,59.62,12.07" >
+	<analytic>
+		<title level="a" type="main">Evaluation of long-dated investments under uncertain growth trend, volatility and catastrophes</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Gollier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Toulouse School of Economics</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+	<note>unpublished. manuscript</note>
+</biblStruct>
+
+<biblStruct coords="33,90.74,350.04,401.02,12.07;33,119.06,362.16,388.64,12.07;33,119.06,374.28,390.31,12.07" >
+	<analytic>
+		<title level="a" type="main">Handbook on Estimation of External Costs in the Transport Sector; produced within the study on Internalisation Measures and Policies for All External Costs of Transport (IMPACT)</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Commission</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Version. 1.1</note>
+</biblStruct>
+
+<biblStruct coords="33,90.74,398.64,431.67,12.07;33,119.06,410.76,404.69,12.07;33,119.06,422.88,347.15,12.07" >
+	<analytic>
+		<title level="a" type="main">General issues in costing analysis: Units of account, base years, and currency conversion, Annex B to HEATCO Deliverable 5, Developing Harmonised European Approaches for Transport Costing and Project Assessment</title>
+	</analytic>
+	<monogr>
+		<title level="j">HEATCO</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,447.24,425.61,12.07;33,119.06,459.38,212.61,12.07" >
+	<monogr>
+		<title level="m" type="main">Choix des investissements avec prise en compte du risque systèmique, Annex to Quinet</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Lapeyre</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Et</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,483.62,439.61,12.07;33,119.06,495.74,24.85,12.07" >
+	<monogr>
+		<title level="m" type="main">Le prix du temps et la décision publique</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Lebègue</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+	<note>Commissariat. général du Plan</note>
+</biblStruct>
+
+<biblStruct coords="33,90.74,519.86,433.77,12.07;33,119.06,531.98,143.69,12.07" >
+	<monogr>
+		<title level="m" type="main">La valeur tutélaire du carbone, Centre d&apos;analyse stratégique</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>Paris, La Documentation française</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,556.22,394.93,12.07;33,119.06,568.34,185.12,12.07" >
+	<monogr>
+		<title level="m" type="main">La gouvernance des projets d&apos;infrastructure de transports</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<pubPlace>Revue Transport, février</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,90.74,592.46,388.54,12.07;33,119.06,604.70,397.52,12.07;33,119.06,616.82,149.76,12.07" >
+	<monogr>
+		<title level="m" type="main">Évaluation socio-économique des investissements publics</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Quinet</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<pubPlace>Paris, La Documentation française</pubPlace>
+		</imprint>
+	</monogr>
+	<note>à. paraître en 2014</note>
+</biblStruct>
+
+<biblStruct coords="33,90.74,640.94,434.21,12.07;33,119.06,653.09,404.00,12.07;33,119.06,665.33,126.30,12.07" >
+	<monogr>
+		<title level="m" type="main">How Capital-Based Instruments Facilitate the Transition Toward a Low-Carbon Economy</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Rozenberg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Vogt-Schilb</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Hallegatte</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+	<note>Policy. Research Working Paper</note>
+</biblStruct>
+
+<biblStruct coords="34,45.35,711.39,151.73,14.17;34,45.35,725.68,93.73,13.79;34,45.35,739.68,107.33,13.79;34,45.35,753.68,104.55,13.79;34,45.35,767.68,189.70,13.79" >
+	<monogr>
+		<title level="m" type="main">International Transport Forum 2 rue André Pascal 75775 Paris Cedex 16 itf</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

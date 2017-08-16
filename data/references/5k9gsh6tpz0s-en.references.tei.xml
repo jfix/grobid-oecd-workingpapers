@@ -1,0 +1,648 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_122"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="27,265.32,148.97,61.60,13.27" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Bibliogr aphy</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,200.30,441.25,9.94;27,87.85,212.89,394.32,9.94" >
+	<analytic>
+		<title level="a" type="main">Structural reforms and the benefits of the enlarged EU internal market: still much to be gained</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Arnold</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Wörgötter</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Economics Letters</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="1231" to="1235" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,237.61,424.69,9.94;27,87.85,250.21,53.05,9.94" >
+	<analytic>
+		<title level="a" type="main">The Euro&apos;s effect on trade imbalances</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Berger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Nitsch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IMF Working Papers</title>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page">226</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,274.80,428.53,9.94" >
+	<analytic>
+		<title level="a" type="main">Current account deficits in rich countries</title>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Blanchard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">NBER Working Papers</title>
+		<imprint>
+			<biblScope unit="page">12925</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,299.52,447.14,9.94;27,87.84,312.12,430.92,9.94;27,87.84,324.84,71.64,9.94" >
+	<analytic>
+		<title level="a" type="main">Creative destruction and regional productivity growth: evidence from the Dutch manufacturing and services industries</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Bosma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Stam</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Schutjens</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Small Business Economics</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="page" from="401" to="418" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,349.43,426.64,9.94;27,87.84,362.03,234.49,9.94" >
+	<analytic>
+		<title level="a" type="main">2011 G20 Plans and Preparations</title>
+	</analytic>
+	<monogr>
+		<title level="j">Bracht G20 Research Group</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,386.75,441.99,9.94;27,87.84,399.35,133.00,9.94" >
+	<monogr>
+		<title level="m" type="main">Can international productivity differences explain US current account deficits?</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Chakraborty</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Dekle</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Nber</forename>
+				<surname>Wp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.51,424.07,455.52,9.94" >
+	<analytic>
+		<title level="a" type="main">European export performance</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Cheptea</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Fontagné</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Zignago</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CEPII WP</title>
+		<imprint>
+			<biblScope unit="page" from="2010" to="2022" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.51,448.66,453.68,9.94;27,87.84,461.26,302.52,9.94" >
+	<analytic>
+		<title level="a" type="main">Structural and cyclical factors behind current account balances</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Cheung</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Furceri</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Rusticelli</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economics Department Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">775</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,485.98,471.53,9.94;27,87.84,498.57,310.58,9.94;27,87.85,511.29,281.21,9.94" >
+	<analytic>
+		<title level="a" type="main">Markups in the Euro area and the US over the period: a comparison of 50 sectors</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Christopoulou</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Ph</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Vermeulen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Empiricial Economics</title>
+		<imprint>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.53,535.89,458.58,9.94;27,87.85,548.49,342.47,9.94" >
+	<monogr>
+		<title level="m" type="main">The Impact of Structural Policies on Saving, Investment and Current Accounts</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Clovis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Koske</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Wanner</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.53,573.20,461.98,9.94;27,87.85,585.80,344.65,9.94" >
+	<analytic>
+		<title level="a" type="main">Global imbalances: The role of non-tradable total factor productivity in advanced economies</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Cova</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Pisani</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Batini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rebucci</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IMF Working Papers</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.53,610.52,446.64,9.94;27,87.85,623.12,196.09,9.94" >
+	<monogr>
+		<title level="m" type="main">Global rebalancing with gravity: Measuring the burden of adjustment</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Dekle</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Eaton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Kortum</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.53,647.83,464.09,9.94;27,87.85,660.43,354.35,9.94" >
+	<analytic>
+		<title level="a" type="main">A Simple Model of the Relationship Between Productivity, Saving and the Current Account</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Fournier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Koske</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economics Department Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">816</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.53,685.03,432.24,9.94;27,87.86,697.75,367.19,9.94" >
+	<analytic>
+		<title level="a" type="main">Outward FDI, Total Factor Productivity and Domestic Output: Evidence from Germany</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Herzer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Economic Journal</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.55,722.34,454.68,9.94;27,87.86,735.06,305.89,9.94" >
+	<analytic>
+		<title level="a" type="main">Explaining Household Saving Rates in G7 Countries: implications for Germany</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Hüfner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Koske</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economics Department Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">754</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,440.16,64.82,90.00,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,101.66,428.39,9.94;28,87.84,114.26,314.64,9.94" >
+	<analytic>
+		<title level="a" type="main">Germany&apos;s Growth Potential, Structural Reforms and Global Imbalances</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Koske</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Wörgötter</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economics Department Working Papers</title>
+		<imprint>
+			<biblScope unit="issue">780</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,138.85,428.25,9.94;28,87.84,151.57,332.04,9.94" >
+	<analytic>
+		<title level="a" type="main">Skill-specific rather than general education: A reason for US-Europe growth differences?</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Krueger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">B</forename>
+				<surname>Khumar</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Growth</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page" from="167" to="207" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,176.17,327.95,9.94" >
+	<analytic>
+		<title level="a" type="main">Local multipliers</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Moretti</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<date type="published" when="2010-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.51,200.89,448.39,9.94;28,87.83,213.48,387.45,9.94;28,87.82,226.20,155.06,9.94" >
+	<analytic>
+		<title level="a" type="main">Global Finance after the Crisis: Reform Imperatives and Vested Interests</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Naude</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Global Economy Journal</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.50,250.80,418.43,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Obstfeld</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Rogoff</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Foundations of international macroeconomics</title>
+		<imprint>
+			<publisher>MIT Press</publisher>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.50,275.40,290.75,9.94" >
+	<analytic>
+		<title level="a" type="main">Off to a Good Start? Jobs for Youth</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.50,300.12,469.62,9.94;28,87.82,312.71,57.85,9.94" >
+	<analytic>
+		<title level="a" type="main">Getting the most out of international capital flows</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD OECD Economics Department Policy Notes</title>
+		<imprint>
+			<biblScope unit="issue">6</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.51,337.43,455.94,9.94;28,87.83,350.03,198.48,9.94" >
+	<analytic>
+		<title level="a" type="main">Private savings and terms of trade shocks: Evidence from developing countries</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Ostry</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Reinhart</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IMF Staff Papers</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="495" to="517" />
+			<date type="published" when="1992" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.51,374.62,437.47,9.94;28,87.83,387.34,200.53,9.94" >
+	<monogr>
+		<title level="m" type="main">The pathological export boom and the bazaar effect: How to solve the German puzzle</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">W</forename>
+				<surname>Sinn</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>CESIFO Working Papers</publisher>
+			<biblScope unit="page">1708</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,411.94,440.18,9.94" >
+	<monogr>
+		<title level="m" type="main">Open economy macroeconomics in developing countries</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Vegh</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>MIT Press, forthcoming</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,59.52,64.82,90.00,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

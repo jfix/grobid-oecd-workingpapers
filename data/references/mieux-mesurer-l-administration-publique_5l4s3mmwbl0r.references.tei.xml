@@ -1,0 +1,87 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_167"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="152,68.52,488.07,439.27,7.44;152,59.52,497.19,253.17,7.44" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Evaluation Activities For Belgium</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>France</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Greece</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Hungary</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Iceland</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Korea</forename>
+				<surname>Ireland</surname>
+			</persName>
+		</author>
+		<imprint>
+			<pubPlace>Luxembourg, Mexico, Norway, Portugal, Slovak Republic, Spain, Sweden</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Switzerland. and Turkey not available</note>
+</biblStruct>
+
+<biblStruct coords="152,68.51,515.67,450.68,7.44;152,59.52,524.79,272.14,7.44" >
+	<monogr>
+		<title level="m" type="main">BA = break-even analysis; CBA = cost-benefit analysis; IRR = initial rate of return; KPI = key performance indicators; NPV = net present value; ROI = return on investment; VA = value assessment methods</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="152,59.52,540.03,338.53,7.44" >
+	<monogr>
+		<title level="m" type="main">Source: Various published studies and responses to OECD requests for information in</title>
+		<imprint>
+			<biblScope unit="page" from="2003" to="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="153,59.52,64.86,88.69,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Gov</forename>
+				<surname>Pgc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

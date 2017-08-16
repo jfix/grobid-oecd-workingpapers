@@ -1,0 +1,561 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_96"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="30,79.46,196.05,442.47,12.07;30,107.78,208.17,388.08,12.07;30,107.78,220.41,68.20,12.07" >
+	<analytic>
+		<title level="a" type="main">High-speed rail and air transport competition: Game engineering as tool for cost-benefit analysis</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Adler</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Pels</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Nash</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transportation Research Part B</title>
+		<imprint>
+			<date type="published" when="2010-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.46,244.53,440.10,12.07;30,107.78,256.65,329.17,12.07;30,79.46,280.80,251.78,12.07;30,107.78,293.04,357.24,12.07" >
+	<monogr>
+		<title level="m" type="main">ferroviaire global, la ligne à grande vitesse Rhin- Rhône au service du développement durable, 8 pages, www.rff.fr Bilans Loti, mission d&apos;expertise sur 25 ans de TGV http</title>
+		<author>
+			<persName>
+				<forename type="first">Bilan</forename>
+				<surname>Carbone®</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>1er Bilan Carbone</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.46,317.16,437.87,12.07;30,107.78,329.28,419.86,12.07;30,107.78,341.40,207.50,12.07;30,107.78,353.64,240.37,12.07" >
+	<monogr>
+		<title level="m" type="main">Rail access charges in France: Beyond the opposition between competition and financing, Research in Transportation Economics</title>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Crozet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Chassagne</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.46,377.76,418.60,12.07;30,107.78,389.88,422.97,12.07;30,107.78,402.12,424.74,12.07;30,107.78,414.24,130.52,12.07" >
+	<analytic>
+		<title level="a" type="main">Beyond the quiet life of a natural monopoly: Regulatory challenges ahead for Europe&apos;s rail sector, Policy paper</title>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Crozet</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Nash</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Preston</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CERRE</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.46,438.36,403.33,12.07;30,107.78,450.48,409.21,12.07;30,107.78,462.74,226.70,12.07" >
+	<monogr>
+		<title level="m" type="main">Rail access charges: searching the optimal mark-up. in Applied Transport Economics, a management and policy perspective</title>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Crozet</surname>
+			</persName>
+		</author>
+		<editor>E. Van de Voorde &amp; Th Vanelslander ed.), de Boeck</editor>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="307" to="320" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.46,486.86,410.11,12.07;30,107.78,498.98,367.00,12.07;30,107.78,511.10,187.75,12.07" >
+	<monogr>
+		<title level="m" type="main">The prospect for inter-urban travel demand, 18th Symposium of International Transport Forum, OECD, Madrid 16-18</title>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Crozet</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.46,535.34,447.82,12.07;30,107.78,547.46,408.02,12.07;30,107.78,559.58,37.56,12.07" >
+	<monogr>
+		<title level="m" type="main">In what circumstances is investment in HSR worthwhile? in G. de Rus, ed, Economic Analysis of High Speed Rail in Europe</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>De Rus</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Nash</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<pubPlace>Fundacion BBVA, Madrid</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.46,583.82,425.66,12.07;30,107.78,595.94,270.98,12.07" >
+	<analytic>
+		<title level="a" type="main">Is investment in high speed rail socially profitable</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>De Rus</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Nombela</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Transport Economics and Policy</title>
+		<imprint>
+			<biblScope unit="volume">41</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="23" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.46,620.06,429.58,12.07;30,107.78,632.18,397.83,12.07;30,107.78,644.45,40.80,12.07" >
+	<analytic>
+		<title level="a" type="main">Demand for Variety Transportation : a Household Production Perspective</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Gronau</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Hamermesh</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+	<note>working. paper n°8509</note>
+</biblStruct>
+
+<biblStruct coords="30,79.46,668.57,335.68,12.07" >
+	<monogr>
+		<title level="m" type="main">Energy and equity</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Illich</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1973" />
+			<pubPlace>Paperback, Harper &amp; Row</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="30,79.46,692.69,447.35,12.07;30,107.78,704.93,243.80,12.07;31,164.78,62.48,368.37,9.74" >
+	<analytic>
+		<title level="a" type="main">Mega projects and risks, an anatomy of ambitions</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Flyvberg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Bruzelius</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Rothengatter</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">207p. PERFORMANCE IN FRANCE: FROM APPRAISAL METHODOLOGIES TO EX-POST EVALUATION</title>
+		<imprint>
+			<publisher>Cambridge University Press</publisher>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,769.50,253.08,9.74" >
+	<monogr>
+		<title level="m" type="main">Yves Crozet — Discussion Paper 2013-26 — © OECD</title>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,97.89,439.47,12.07;31,107.78,110.01,229.27,12.07" >
+	<analytic>
+		<title level="a" type="main">Inaccuracy in traffic forecasts</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Flyvbjerg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Skamris</forename>
+				<surname>Holl</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Buhl</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transport Reviews</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="24" />
+			<date type="published" when="2006-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,134.25,405.42,12.07;31,107.78,146.37,84.08,12.07" >
+	<monogr>
+		<title level="m" type="main">The Harried Class of Leisure</title>
+		<author>
+			<persName>
+				<surname>Linder S</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1970" />
+			<publisher>University Press</publisher>
+			<pubPlace>New-York and London Columbia</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,170.49,452.81,12.07;31,107.78,182.61,378.29,12.07" >
+	<analytic>
+		<title level="a" type="main">When to Invest in High Speed Rail Links and Network?, Discussion paper</title>
+		<author>
+			<persName>
+				<forename type="middle">C</forename>
+				<surname>Nash</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">ITF-OECD)18th Symposium</title>
+		<meeting><address><addrLine>Madrid</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009" />
+			<biblScope unit="page" from="16" to="18" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,218.97,431.18,12.07;31,107.78,231.09,317.67,12.07;31,107.78,243.21,269.93,12.07" >
+	<monogr>
+		<title level="m" type="main">High Speed Railways, a climate policy sidetrack, VTI (Swedish National Road and Transport research) Rapport 655</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">E</forename>
+				<surname>Nilsson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Pydokke</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+	<note>www. .vti.se/EPiBrowser/Publikationer/R655.pdf</note>
+</biblStruct>
+
+<biblStruct coords="31,79.46,267.45,394.51,12.07;31,107.78,279.60,343.11,12.07" >
+	<analytic>
+		<title level="a" type="main">Second-best problems in railway infrastructure pricing and investment</title>
+		<author>
+			<persName>
+				<forename type="first">J-E</forename>
+				<surname>Nilsson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of transport economics and policy</title>
+		<imprint>
+			<date type="published" when="1992-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,303.72,436.56,12.07;31,107.78,315.96,274.19,12.07" >
+	<analytic>
+		<title level="a" type="main">« Ramsey pricing in the presence of externality costs</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Oum</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Tretheway</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Transport Economics and Policy</title>
+		<imprint>
+			<date type="published" when="1988-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,340.08,441.50,12.07;31,107.78,352.20,385.18,12.07;31,107.78,364.32,413.18,12.07" >
+	<monogr>
+		<title level="m" type="main">Competition for Long Distance Passenger Rail Services: The Emerging Evidence, Discussion paper, International Transport Forum (ITF-OECD) 18th Symposium</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Preston</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-11" />
+			<biblScope unit="page" from="16" to="18" />
+			<pubPlace>Madrid</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,388.56,449.71,12.07;31,107.78,400.68,416.30,12.07;31,107.78,412.80,42.69,12.07" >
+	<analytic>
+		<title level="a" type="main">Rail access charges and the competitiveness of high speed trains</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Sanchez-Borras</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Nash</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Abrantes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Lopez-Pita</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Transport Policy</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="102" to="109" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,437.04,448.73,12.07" >
+	<monogr>
+		<title level="m" type="main">Transportation in a Climate-Constrained world</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Schäfer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>MIT Press</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,461.18,424.09,12.07;31,107.78,473.30,422.00,12.07;31,107.78,485.42,195.37,12.07;31,107.78,497.66,394.52,12.07" >
+	<monogr>
+		<title level="m" type="main">Bilans ex post d&apos;infrastructures, analyse des coûts et des trafics, Rapport et documents, commissariat général à la stratégie et à la prospective, 14p</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Taroux</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,521.78,424.81,12.07;31,79.46,545.90,415.18,12.07;31,79.46,570.02,377.36,12.07" >
+	<monogr>
+		<title level="m" type="main">Effective Speeds: Car Costs are Slowing us Down, report for the Australian Greenhouse Office, Department of the Environment and Heritage</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">J</forename>
+				<surname>Tranter</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="31,79.46,594.26,452.82,12.07;31,107.78,606.38,418.41,12.07;31,107.78,618.50,311.45,12.07" >
+	<monogr>
+		<title level="m" type="main">High speed, the change of paradigm in railway planning, and other stories, in Applied Transport Economics, a management and policy perspective (E</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Tzieropoulos</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page" from="321" to="360" />
+		</imprint>
+	</monogr>
+	<note>Van. de Voorde &amp; Th Vanelslander ed.), de Boeck</note>
+</biblStruct>
+
+<biblStruct coords="31,79.46,642.74,435.11,12.07;31,107.78,654.89,407.58,12.07" >
+	<analytic>
+		<title level="a" type="main">Railway access charge systems in Europe</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Vidaud</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>De Tilière</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">10th Swiss Conference on Transport Research -STRC 10</title>
+		<meeting><address><addrLine>Ascona, septembre</addrLine></address></meeting>
+		<imprint>
+			<publisher>Monte Verità</publisher>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

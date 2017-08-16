@@ -1,0 +1,3097 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_63"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="33,59.54,220.58,457.51,12.23;33,87.86,235.63,39.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Homeowner Balance Sheets and Monetary Policy</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Aladangady</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">FEDS Working Paper</title>
+		<imprint>
+			<biblScope unit="page" from="2014" to="98" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,257.93,470.93,12.23;33,87.86,272.95,319.25,9.94" >
+	<analytic>
+		<title level="a" type="main">Securitization is Not That Evil After All</title>
+		<author>
+			<persName>
+				<forename type="first">U</forename>
+				<surname>Albertazzi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Eramo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Gambacorta</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Salleo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bank for International Settlements</title>
+		<meeting><address><addrLine>Basel</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,295.25,465.65,12.22;33,87.86,307.97,394.04,12.23" >
+	<analytic>
+		<title level="a" type="main">Real time&apos; Early Warning Indicators for Costly Asset Price Boom/bust Cycles. A Role for Global Liquidity</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Alessi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Detken</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">European Central Bank Working Paper</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,332.57,413.33,12.22;33,87.86,345.17,287.08,12.23" >
+	<analytic>
+		<title level="a" type="main">Financial Fragility of Euro Area Households</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Ampudia</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Van Vlokhoven</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Żochowski</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">European Central Bank Working Paper</title>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page">1737</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,369.89,440.34,12.23;33,87.86,384.81,200.76,9.94" >
+	<monogr>
+		<title level="m" type="main">A Bird&apos;s Eye View of OECD Housing Markets</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>André</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>OECD Economics Department Working Papers OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,407.23,451.57,12.23;33,87.86,422.13,307.07,9.94" >
+	<monogr>
+		<title level="m" type="main">Improving the Functioning of the Housing Market in the United Kingdom</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>André</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>OECD Economics Department Working Papers OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,444.43,430.38,12.23;33,87.86,459.45,262.49,9.94" >
+	<analytic>
+		<title level="a" type="main">Housing Cycles: Stylised Facts and Policy Challenges</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>André</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of OeNB Workshops No. 19, Oesterreichische Nationalbank</title>
+		<meeting>OeNB Workshops No. 19, Oesterreichische Nationalbank<address><addrLine>Vienna</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,481.75,457.74,12.23;33,87.86,496.77,430.48,9.94;33,87.86,509.37,103.95,9.94" >
+	<analytic>
+		<title level="a" type="main">Do House Prices Impact Consumption and Interest Rates? Evidence from OECD Countries using an Agnostic Identification Procedure</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>André</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Gupta</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">T</forename>
+				<surname>Kanda</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Economics Quarterly</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="19" to="70" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,531.67,463.38,12.23;33,87.86,546.72,371.84,9.94" >
+	<analytic>
+		<title level="a" type="main">Testing for Persistence in Housing Price-to-income and Price-to-rent Ratios in 16 OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>André</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">A</forename>
+				<surname>Gil-Alana</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Gupta</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Economics</title>
+		<imprint>
+			<biblScope unit="volume">46</biblScope>
+			<biblScope unit="page" from="18" to="2127" />
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,569.02,461.09,12.23;33,87.86,584.04,197.18,9.94" >
+	<analytic>
+		<title level="a" type="main">Self-Reinforcing Effects Between Housing Prices and Credit</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">K</forename>
+				<surname>Anundsen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">S</forename>
+				<surname>Jansen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Housing Economics</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page" from="192" to="212" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,606.34,463.55,12.22;33,87.86,618.94,419.67,12.23;33,87.86,633.96,148.98,9.94" >
+	<analytic>
+		<title level="a" type="main">Houses as Collateral: Has the Link between House Prices and Consumption in the UK Changed?</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Aoki</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Proudman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Vlieghe</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Policy Review</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,656.26,467.58,12.23;33,87.86,671.28,92.75,9.94" >
+	<analytic>
+		<title level="a" type="main">Debt and the Consumption Response to Household Income Shocks</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">R</forename>
+				<surname>Baker</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">SSRN Research Paper</title>
+		<imprint>
+			<biblScope unit="page">2541142</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,695.88,272.52,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Canada</forename>
+				<surname>Bank</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Financial System Review</title>
+		<imprint>
+			<date type="published" when="2014-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,59.54,718.20,461.33,12.23;33,87.86,733.22,348.56,9.94" >
+	<analytic>
+		<title level="a" type="main">The Causal Effect of House Prices on Mortgage Demand and Mortgage Supply: Evidence from Switzerland</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Basten</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Koch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Housing Economics</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page" from="1" to="22" />
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,445.78,64.82,84.43,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,99.38,471.99,12.23;34,87.86,114.28,278.81,9.94" >
+	<analytic>
+		<title level="a" type="main">Measures to Handle Household Indebtedness, Amortisation Requirement</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Berg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Hansen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memorandum</title>
+		<imprint>
+			<date type="published" when="2014-11-11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,136.58,456.28,12.22;34,87.86,149.30,384.43,12.23" >
+	<analytic>
+		<title level="a" type="main">The Financial Accelerator in a Quantitative Business Cycle Framework</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Bernanke</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Gertler</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Gilchrist</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">6455</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,173.90,468.38,12.22;34,87.86,186.62,421.39,12.23;34,87.86,201.52,39.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Mortgage Debt and Household Deleveraging: Accounting for the Decline in Mortgage Debt Using Consumer Credit Record Data</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Bhutta</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Federal Reserve Board FEDS Working Paper</title>
+		<imprint>
+			<biblScope unit="page" from="2012" to="2026" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,223.94,458.51,12.23;34,87.86,238.87,218.79,9.94" >
+	<analytic>
+		<title level="a" type="main">The Future of Debt Markets</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Blommestein</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Harwood</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Holland</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Financial Market Trends</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<biblScope unit="volume">20112</biblScope>
+			<biblScope unit="page" from="263" to="281" />
+			<date type="published" when="2011" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,261.17,452.10,12.23;34,87.86,276.19,302.82,9.94" >
+	<analytic>
+		<title level="a" type="main">Global Imbalances and the Financial Crisis: Link or No Link?</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Borio</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Disyatat</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bank for International Settlements</title>
+		<meeting><address><addrLine>Basel</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,298.49,456.64,12.23;34,87.86,313.51,280.71,9.94" >
+	<analytic>
+		<title level="a" type="main">Assessing the Risk of Banking Crises – Revisited</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Borio</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Drehmann</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bank for International Settlements</title>
+		<meeting><address><addrLine>Basel</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,335.81,458.19,12.23;34,87.86,348.41,301.64,12.23" >
+	<monogr>
+		<title level="m" type="main">After the Fall, Rebuilding Family Balance Sheets, Rebuilding the Economy</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Boshara</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Emmons</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<pubPlace>Federal Reserve Bank of St. Louis</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,373.13,466.26,12.22;34,87.86,388.05,345.25,9.94" >
+	<analytic>
+		<title level="a" type="main">Deleveraging: Challenges, Progress and Policies</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Bouis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">K</forename>
+				<surname>Christensen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Cournède</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,410.47,408.07,12.22;34,87.86,423.07,346.03,12.23" >
+	<analytic>
+		<title level="a" type="main">Stability risks associated with household indebtedness</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Braconier</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Hansen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Palmqvist</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Memorandum</title>
+		<imprint>
+			<date type="published" when="2014-11-11" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,447.67,452.95,12.23;34,87.86,462.69,374.97,9.94" >
+	<analytic>
+		<title level="a" type="main">Monetary and Macroprudential Policy with Foreign Currency Loans</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Brzoza-Brzezina</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Kolasa</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Makarski</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Narodowy Bank Polski Working Paper</title>
+		<meeting><address><addrLine>Warsaw</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,484.99,472.46,12.23;34,87.86,500.01,192.02,9.94" >
+	<monogr>
+		<title level="m" type="main">Lessons from the Global Financial Crisis for Regulators and Supervisors &quot; , Financial Markets Group Discussion Paper</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">H</forename>
+				<surname>Buiter</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,522.31,445.70,12.23" >
+	<analytic>
+		<title level="a" type="main">Household Debt and Spending</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Bunn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Bulletin Q3</title>
+		<imprint>
+			<publisher>Bank of England</publisher>
+			<date type="published" when="2014" />
+			<publisher>Bank of England</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,546.94,471.08,12.23;34,87.86,561.96,237.52,9.94" >
+	<analytic>
+		<title level="a" type="main">The Price Responsiveness of Housing Supply in OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Caldera</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Å</forename>
+				<surname>Johansson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Housing Economics</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="231" to="249" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,584.26,378.80,12.23" >
+	<analytic>
+		<title level="a" type="main">Mortgage Market Design</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">Y</forename>
+				<surname>Campbell</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of Finance</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="1" to="33" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,611.28,431.52,9.94" >
+	<monogr>
+		<title level="m" type="main">Anglo Republic, Inside the Bank that Broke Ireland, Penguin Ireland</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Carswell</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<pubPlace>Dublin</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,633.58,459.88,12.23;34,87.86,648.48,268.97,9.94" >
+	<analytic>
+		<title level="a" type="main">Comparing Wealth Effects: The Stock Market Versus the Housing Market</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">E</forename>
+				<surname>Case</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Quigley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Shiller</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Advances in Macroeconomics</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="1" to="32" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,670.90,467.72,12.23;34,87.86,685.80,339.75,9.94" >
+	<analytic>
+		<title level="a" type="main">Housing Markets, Wealth and the Business Cycle</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Catte</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Girouard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Price</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>André</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,59.54,708.24,433.52,12.23;34,87.86,723.14,350.46,9.94" >
+	<analytic>
+		<title level="a" type="main">Measuring the Macroeconomic Risks Posed By Asset Price Booms</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Cecchetti</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Asset Prices and Monetary Policy</title>
+		<editor>J.Y. Campbell</editor>
+		<imprint>
+			<publisher>University of Chicago Press</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,64.82,84.43,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,99.38,433.84,12.23;35,87.86,111.98,356.08,12.23" >
+	<analytic>
+		<title level="a" type="main">Asset Prices in a Flexible Inflation Targeting Framework</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Cecchetti</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Genberg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Wadhwani</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">8970</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,136.58,460.51,12.22;35,87.86,149.30,384.68,12.23" >
+	<analytic>
+		<title level="a" type="main">The Use and Effectiveness of Macroprudential Policies: New Evidence</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Cerutti</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Claessens</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Laeven</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Monetary Fund Working Paper 15</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015" />
+			<biblScope unit="page">61</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,173.90,435.00,12.23;35,87.86,186.62,386.89,12.23" >
+	<analytic>
+		<title level="a" type="main">Deconstructing Canada&apos;s Housing Markets: Finance, Affordability and Urban Sprawl</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Cheung</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,211.22,443.63,12.23;35,87.86,226.24,284.57,9.94" >
+	<analytic>
+		<title level="a" type="main">Household Debt and the European Crisis</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Chmelar</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">European Credit Research Institute Papers</title>
+		<meeting><address><addrLine>Brussels</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,248.57,455.85,12.23;35,87.86,261.17,358.04,12.23" >
+	<analytic>
+		<title level="a" type="main">What Happens During Recessions, Crunches and Busts?</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Claessens</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Kose</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">E</forename>
+				<surname>Terrones</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Monetary Fund Working Paper 08</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,285.89,440.10,12.23;35,87.86,298.49,428.97,12.22;35,87.86,313.51,336.77,9.94" >
+	<analytic>
+		<title level="a" type="main">The Housing Bubble that Burst: Can House Prices be Explained? And Can Their Fluctuations be Dampened?</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<forename type="middle">A</forename>
+				<surname>Dam</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">S</forename>
+				<surname>Hvolbøl</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">H</forename>
+				<surname>Pedersen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">B</forename>
+				<surname>Sørensen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">H</forename>
+				<surname>Thamsborg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Monetary Review 1st Quarter, Part 1, Danmarks Nationalbank</title>
+		<meeting><address><addrLine>Copenhagen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,335.81,436.43,12.22;35,87.86,348.41,416.20,12.23;35,87.86,363.43,261.47,9.94" >
+	<monogr>
+		<title level="m" type="main">A Revival of the Private Rental Sector of the Housing Market?: Lessons from Germany, Finland, the Czech Republic and the Netherlands</title>
+		<author>
+			<persName>
+				<forename type="first">De</forename>
+				<surname>Boer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Bitetti</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,385.75,420.04,12.23;35,87.86,400.77,257.81,9.94" >
+	<analytic>
+		<title level="a" type="main">Externalities and Macroprudential Policy</title>
+		<author>
+			<persName>
+				<forename type="first">De</forename>
+				<surname>Nicolò</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Favara</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Ratnovski</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Monetary Fund Staff Discussion Note 12/05</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,423.07,444.15,12.23;35,87.86,437.97,111.35,9.94" >
+	<analytic>
+		<title level="a" type="main">Asset Price Booms and Monetary Policy</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Detken</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Smets</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">European Central Bank Working Paper</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,460.39,435.40,12.22;35,87.86,475.29,360.63,9.94" >
+	<analytic>
+		<title level="a" type="main">An Early Warning System to Predict House Price Bubbles</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Dreger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Kholodilin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of OeNB Workshops No. 19, Oesterreichische Nationalbank</title>
+		<meeting>OeNB Workshops No. 19, Oesterreichische Nationalbank<address><addrLine>Vienna</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,497.71,464.87,12.23;35,87.86,512.61,429.32,9.94" >
+	<analytic>
+		<title level="a" type="main">House Prices and Credit Constraints: Making Sense of the US Experience</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">V</forename>
+				<surname>Duca</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Muellbauer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Murphy</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Journal, Royal Economic Society</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="issue">552</biblScope>
+			<biblScope unit="page" from="533" to="551" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,534.91,458.80,12.23;35,87.86,549.96,117.94,9.94" >
+	<analytic>
+		<title level="a" type="main">Is a Household Debt Overhang Holding Back Consumption?</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Dynan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Brookings Papers on Economic Activity</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,572.26,471.66,12.23" >
+	<analytic>
+		<title level="a" type="main">Asset Price Bubbles and Monetary Policy</title>
+	</analytic>
+	<monogr>
+		<title level="j">ECB European Central Bank Monthly Bulletin</title>
+		<imprint>
+			<date type="published" when="2005-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,596.98,372.02,12.23" >
+	<analytic>
+		<title level="a" type="main">Covered Bonds in the EU Financial System</title>
+	</analytic>
+	<monogr>
+		<title level="j">ECB</title>
+		<imprint>
+			<publisher>European Central Bank</publisher>
+			<date type="published" when="2008" />
+			<publisher>European Central Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,621.58,439.21,12.23;35,87.86,634.18,275.80,12.23" >
+	<analytic>
+		<title level="a" type="main">The Eurosystem Household Finance and Consumption Survey, Results from the First Wave</title>
+	</analytic>
+	<monogr>
+		<title level="j">ECB European Central Bank Statistics Paper Series</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,661.20,463.40,9.94;35,87.86,673.80,140.67,9.94" >
+	<analytic>
+		<title level="a" type="main">The ESRB Handbook on Operationalising Macro-prudential Policy in the Banking Sector</title>
+	</analytic>
+	<monogr>
+		<title level="j">ESRB</title>
+		<imprint>
+			<publisher>European Systemic Risk Board</publisher>
+			<date type="published" when="2014" />
+			<publisher>European Systemic Risk Board</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,696.24,459.42,12.22" >
+	<analytic>
+		<title level="a" type="main">Mortgage Market Review</title>
+	</analytic>
+	<monogr>
+		<title level="m">Discussion Paper 09</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<publisher>Financial Services Authority</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.54,720.84,434.38,12.23;36,445.78,64.82,84.43,9.94" >
+	<analytic>
+		<title level="a" type="main">Global Shadow Banking Monitoring Report</title>
+	</analytic>
+	<monogr>
+		<title level="j">FSB Financial Stability Board Basel. ECO/WKP</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,99.38,458.91,12.23;36,87.86,111.98,331.96,12.23" >
+	<monogr>
+		<title level="m" type="main">The Sensitivity of Housing Demand to Financing Conditions: Evidence from a Survey</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Fuster</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Zafar</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<pubPlace>Federal Reserve Bank of New York Staff Reports</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,136.58,469.00,12.23;36,87.86,151.60,225.50,9.94" >
+	<analytic>
+		<title level="a" type="main">Macroprudential Policy – A Literature Review</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Galati</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Moessner</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bank for International Settlements</title>
+		<meeting><address><addrLine>Basel</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,173.90,461.50,12.22;36,59.54,198.62,441.28,12.23" >
+	<analytic>
+		<title level="a" type="main">Recent House Price Developments: the Role of Fundamentals</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Girouard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Kennedy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Van Den Noord</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>André</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,223.22,438.62,12.23;36,87.86,238.27,259.10,9.94" >
+	<analytic>
+		<title level="a" type="main">Why Have Housing Prices Gone Up?</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">L</forename>
+				<surname>Glaeser</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Gyourko</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">E</forename>
+				<surname>Saks</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research Working Paper</title>
+		<imprint>
+			<biblScope unit="page">11129</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,260.57,469.02,12.23;36,87.86,273.17,427.88,12.23" >
+	<analytic>
+		<title level="a" type="main">Metropolitan-Specific Estimates of the Price Elasticity of Supply of Housing, and Their Sources</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">K</forename>
+				<surname>Green</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Malpezzi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">K</forename>
+				<surname>Mayo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">95</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="334" to="339" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,297.89,438.97,12.23;36,87.86,312.79,428.09,9.94;36,87.86,325.51,222.17,9.94" >
+	<monogr>
+		<title level="m" type="main">Did Consumers Want Less Debt? Consumer Credit Demand versus Supply in the Wake of the 2008-2009 Financial Crisis</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Gropp</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Krainer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Laderman</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="2014" to="2022" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,347.81,460.85,12.22;36,87.86,362.71,171.61,9.94" >
+	<analytic>
+		<title level="a" type="main">The Fault Lines in Cross-Border Banking: Lessons from the Icelandic Case</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Guðmundsson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Financial Market Trends</title>
+		<imprint>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,385.15,436.59,12.23;36,87.86,397.75,419.47,12.23;36,87.86,412.77,50.39,9.94" >
+	<analytic>
+		<title level="a" type="main">Macroeconomic Effects of a Decline in Housing Prices in Sweden</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Gustafsson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Stockhammar</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Österholm</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Institute of Economic Research Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">138</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,435.07,420.84,12.22;36,87.86,449.97,324.65,9.94" >
+	<analytic>
+		<title level="a" type="main">A Macroprudential Approach to Financial Regulation</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">G</forename>
+				<surname>Hanson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">K</forename>
+				<surname>Kashyap</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Stein</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Economic Perspectives</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="3" to="28" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,472.39,451.36,12.22;36,87.86,484.99,435.31,12.23" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Haughwout</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Lee</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Tracy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Van Der Klaauw</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Real Estate Investors, the Leverage Cycle, and the Housing Market Crisis</title>
+		<meeting><address><addrLine>Federal Reserve Bank of New York Staff Reports</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,509.71,466.86,12.23;36,87.86,524.61,400.40,9.94;36,87.86,537.21,134.19,9.94" >
+	<analytic>
+		<title level="a" type="main">Decline and Depression: The Impact of the Global Economic Crisis on Housing Markets in Two Post-Socialist States</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Hegedüs</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Lux</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Sunega</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Housing and the Built Environment</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="315" to="333" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,559.66,473.31,12.23;36,87.86,574.56,256.01,9.94" >
+	<monogr>
+		<title level="m" type="main">Housing Markets and Adjustments in Monetary Union</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Hoeller</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Rae</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>OECD Economics Department Working Papers OECD Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,599.28,378.13,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Honohan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Testimony to the Oirechtas Banking Inquiry</title>
+		<meeting><address><addrLine>Dublin</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,621.58,441.50,12.23;36,87.86,634.18,352.64,12.23" >
+	<analytic>
+		<title level="a" type="main">Do Loan-to-Value and Debt-to-Income Limits Work? Evidence from Korea</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Igan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Kang</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Monetary Fund Working Paper</title>
+		<imprint>
+			<biblScope unit="volume">11297</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,658.90,444.58,12.23;36,87.86,673.80,273.53,9.94" >
+	<analytic>
+		<title level="a" type="main">Housing Finance and Financial Stability -Back to Basics?</title>
+	</analytic>
+	<monogr>
+		<title level="j">IMF Global Financial Stability Report</title>
+		<imprint>
+			<publisher>International Monetary Fund</publisher>
+			<date type="published" when="2011-04" />
+			<publisher>International Monetary Fund</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,696.24,467.25,12.23;36,87.86,711.14,150.30,9.94" >
+	<analytic>
+		<title level="a" type="main">Dealing with Household Debt</title>
+	</analytic>
+	<monogr>
+		<title level="j">IMF Chapter World Economic Outlook</title>
+		<imprint>
+			<publisher>International Monetary Fund</publisher>
+			<date type="published" when="2012-04" />
+			<publisher>International Monetary Fund</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="36,59.54,735.86,456.61,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">IMF Country Report</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hungary, International Monetary Fund</publisher>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,64.82,84.43,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,101.68,463.16,9.94;37,87.86,114.28,18.00,9.94" >
+	<analytic>
+		<title level="a" type="main">Staff Guidance Note on Macroprudential Policy</title>
+	</analytic>
+	<monogr>
+		<title level="j">IMF</title>
+		<imprint>
+			<publisher>International Monetary Fund</publisher>
+			<date type="published" when="2014" />
+			<publisher>International Monetary Fund</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,138.88,453.80,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Global Financial Stability Report</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>International Monetary Fund</publisher>
+			<date type="published" when="2015-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,163.60,461.94,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">IMF Country Report</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>Hungary, International Monetary Fund</publisher>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,185.90,432.12,12.23;37,87.86,200.92,261.47,9.94" >
+	<analytic>
+		<title level="a" type="main">Addressing High Household Debt in Korea</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">S</forename>
+				<surname>Jones</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Kim</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,223.22,448.62,12.23;37,87.86,238.27,382.64,9.94" >
+	<analytic>
+		<title level="a" type="main">The Great Mortgaging: Housing Finance, Crises, and Business Cycles</title>
+		<author>
+			<persName>
+				<forename type="first">Ò</forename>
+				<surname>Jordá</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Schularick</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Taylor</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research Working Paper</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,260.57,430.07,12.23;37,87.86,273.17,411.46,12.23;37,87.86,288.19,125.91,9.94" >
+	<analytic>
+		<title level="a" type="main">How Did a Domestic Housing Slump Turn into a Global Financial Crisis?</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">B</forename>
+				<surname>Kamin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<forename type="middle">P</forename>
+				<surname>Demarco</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Board of Governors of the Federal Reserve System, International Finance Discussion Papers</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,310.49,441.62,12.23;37,87.86,325.51,386.51,9.94;37,87.86,338.11,143.08,9.94" >
+	<analytic>
+		<title level="a" type="main">Credit Card Lending Distress in Korea in Household Debt: Implications for Monetary Policy and Financial Stability</title>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Kang</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Ma</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bank for International Settlements</title>
+		<meeting><address><addrLine>Basel</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,360.41,467.91,12.22;37,87.86,373.13,443.23,12.23;37,87.86,388.05,110.01,9.94" >
+	<analytic>
+		<title level="a" type="main">Making the Banking Sector More Resilient and Reducing Household Debt in the Netherlands</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Kierzenkowski</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Havrylchyk</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Beynet</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,410.47,451.50,12.23;37,87.86,425.37,39.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Credit Cycles</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Kiyotaki</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Moore</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Political Economy</title>
+		<imprint>
+			<biblScope unit="volume">105</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="211" to="248" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,447.67,473.44,12.23;37,87.86,460.39,317.89,12.23" >
+	<analytic>
+		<title level="a" type="main">The Current State of U.S. Household Balance Sheets</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Krimmel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">B</forename>
+				<surname>Moore</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Sabelhaus</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Smith</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Federal Reserve Bank of St. Louis Review</title>
+		<imprint>
+			<date type="published" when="2013-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,484.99,445.63,12.23;37,87.86,497.71,392.36,12.23" >
+	<analytic>
+		<title level="a" type="main">With Great Power Comes Great Responsibility: Macroprudential Tools at Work in Canada</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Krznar</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Morsink</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">International Monetary Fund Working Paper 14</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,522.31,461.52,12.23;37,87.86,537.21,437.83,9.94;37,87.86,549.96,27.34,9.94" >
+	<analytic>
+		<title level="a" type="main">Can Non-Interest Rate Policies Stabilise Housing Markets? Evidence From a Panel of 57 Economies</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">N</forename>
+				<surname>Kuttner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Shim</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Bank for International Settlements</title>
+		<meeting><address><addrLine>Basel</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,572.26,444.79,12.23;37,87.86,587.28,298.69,9.94" >
+	<analytic>
+		<title level="a" type="main">The Behaviour of Housing Developers and Aggregate Housing Supply</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Laszek</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Olszewski</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Narodowy Bank Polski Working Paper</title>
+		<meeting><address><addrLine>Warsaw</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,609.58,437.32,12.23;37,87.86,624.48,445.03,9.94;37,87.86,637.20,99.92,9.94" >
+	<analytic>
+		<title level="a" type="main">Household Debt and Consumption During the Financial Crisis: Evidence From Danish Micro Data</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Lau Andersen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Duus</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">L</forename>
+				<surname>Jensen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Danmarks Nationalbank Working Papers</title>
+		<meeting><address><addrLine>Copenhagen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014" />
+			<biblScope unit="page" from="2014" to="89" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,659.50,434.03,12.22;37,87.86,674.52,80.71,9.94" >
+	<monogr>
+		<title level="m" type="main">International Comparison of Mortgage Product Offerings</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Lea</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<publisher>Research Institute for Housing America</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="37,59.54,696.84,472.03,12.23;37,87.86,711.86,100.91,9.94" >
+	<monogr>
+		<title level="m" type="main">A New Look at Second Liens</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Lee</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Mayer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Tracy</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<pubPlace>Federal Reserve Bank of New York Staff Reports</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,445.78,64.82,84.43,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,99.38,457.94,12.23;38,87.86,114.28,359.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Understanding Trend and Cycle in Asset Values: Reevaluating the Wealth Effect on Consumption</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Lettau</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">C</forename>
+				<surname>Ludvigson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Economic Review</title>
+		<imprint>
+			<biblScope unit="volume">94</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="276" to="299" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,136.58,462.87,12.23;38,87.86,151.60,306.17,9.94" >
+	<analytic>
+		<title level="a" type="main">The Relationship between Stock Prices, House Prices and Consumption in OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Ludwig</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Sløk</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The B.E. Journal of Macroeconomics</title>
+		<imprint>
+			<biblScope unit="volume">0</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="4" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,173.90,449.55,12.23;38,87.86,188.92,440.91,9.94;38,87.86,201.52,8.28,9.94" >
+	<analytic>
+		<title level="a" type="main">Distributions of Owner-Occupiers&apos; Housing Wealth, Debt and Interest Expenditure Ratios as Financial Soundness Indicators</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lunde</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Copenhagen Business School Working Paper</title>
+		<imprint>
+			<biblScope unit="page" from="2007" to="2008" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,223.94,472.29,12.23;38,87.86,236.57,279.08,12.23" >
+	<monogr>
+		<title level="m" type="main">Interest-only and Longer-term Mortgages: Easier Access, More Risk</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lunde</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Scanlon</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Whitehead</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<publisher>European Mortgage Federation</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,261.17,451.62,12.23;38,87.86,276.19,246.52,9.94" >
+	<analytic>
+		<title level="a" type="main">Milestones in Danish Housing Finance since</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lunde</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Milestones in European Housing Finance</title>
+		<editor>Lunde, J. and C. Whitehead</editor>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,300.79,404.11,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Milestones in European Housing Finance</title>
+		<editor>Lunde, J. and C. Whitehead</editor>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,323.21,434.57,12.23;38,87.86,338.11,315.77,9.94" >
+	<analytic>
+		<title level="a" type="main">Interrelations Between Housing Supply Agents: The Metropolitan Housing Market in Prague</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Lux</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Sunega</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Post-Communist Economies</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="99" to="117" />
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,360.41,462.65,12.23;38,87.86,373.13,440.42,12.23;38,87.86,388.05,92.61,9.94" >
+	<monogr>
+		<title level="m" type="main">The Sustainability of Homeownership and the Performance of Mortgage Market During the Economic Crisis in the Czech Republic</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Lux</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Sunega</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<pubPlace>European Mortgage Federation, Brussels</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,410.47,466.30,12.23;38,87.86,425.37,41.40,9.94" >
+	<analytic>
+		<title level="a" type="main">A Simple Error Correction Model of House Prices</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Malpezzi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Housing Economics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="27" to="62" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,447.67,440.42,12.23;38,87.86,462.69,132.39,9.94" >
+	<analytic>
+		<title level="a" type="main">The Time-Series Behavior of House Prices: A Transatlantic Divide?</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Meen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Housing Economics</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page" from="1" to="23" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,487.29,341.58,9.94" >
+	<analytic>
+		<title level="a" type="main">Debt and (Not Much) Deleveraging, McKinsey Global Institute</title>
+	</analytic>
+	<monogr>
+		<title level="j">MGI</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,509.71,438.85,12.23;38,87.86,522.31,292.13,12.23" >
+	<analytic>
+		<title level="a" type="main">Household Balance Sheets, Consumption, and the Economic Slump</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Mian</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Rao</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Sufi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">128</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="1687" to="1726" />
+			<date type="published" when="2013" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,549.24,405.01,9.94;38,87.86,561.96,118.88,9.94" >
+	<analytic>
+		<title level="a" type="main">The UK Mortgage Market: Taking a Longer-Term View</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Miles</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Final Report and Recommendations</title>
+		<imprint>
+			<date type="published" when="2004-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,584.26,460.14,12.22;38,87.86,599.28,283.73,9.94" >
+	<analytic>
+		<title level="a" type="main">Financial Innovation and European Housing and Mortgage Markets</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Miles</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Pillonca</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford Review of Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="145" to="175" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,621.58,443.11,12.23;38,87.86,636.48,263.79,9.94" >
+	<analytic>
+		<title level="a" type="main">Implementing LTV-DTI – Through the Magnifying Glass</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Mitra</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of OeNB Workshops No. 19, Oesterreichische Nationalbank</title>
+		<meeting>OeNB Workshops No. 19, Oesterreichische Nationalbank<address><addrLine>Vienna</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,658.90,454.47,12.23;38,87.86,673.80,413.27,9.94;38,87.86,686.52,437.75,9.94" >
+	<analytic>
+		<title level="a" type="main">When is a Housing Market Overheated Enough to Threaten Stability? Property Markets an d Financial Stability</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Muellbauer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of a Conference Held in Sydney on 20–21 August, Reserve Bank of Australia</title>
+		<editor>A. Heath, F. Packer and C. Windsor</editor>
+		<meeting>a Conference Held in Sydney on 20–21 August, Reserve Bank of Australia<address><addrLine>Sydney</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page" from="73" to="105" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="38,59.54,708.84,451.12,12.23;38,87.86,723.86,177.63,9.94" >
+	<analytic>
+		<title level="a" type="main">Housing Markets and the Economy: The Assessment</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Muellbauer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Murphy</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford Review of Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="1" to="33" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,99.38,458.02,12.23;39,87.86,114.28,377.11,9.94" >
+	<analytic>
+		<title level="a" type="main">Housing, Consumption and Monetary Policy: How Different Are the US and the euro Area?</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Musso</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Neri</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Stracca</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Banking and Finance</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="issue">11</biblScope>
+			<biblScope unit="page" from="3019" to="3041" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,136.58,454.04,12.23;39,87.86,151.60,363.68,9.94" >
+	<analytic>
+		<title level="a" type="main">Global Imbalances and the Financial Crisis: Products of Common Causes</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Obstfeld</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Rogoff</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings, Federal Reserve Bank of</title>
+		<meeting>, Federal Reserve Bank of<address><addrLine>San Francisco</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2009-10" />
+			<biblScope unit="page" from="131" to="172" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,173.90,454.81,12.23;39,87.86,188.92,424.98,9.94;39,87.86,201.52,268.03,9.94;39,59.54,223.94,400.69,12.23;39,87.86,238.87,268.03,9.94;39,59.54,261.17,439.71,12.23;39,87.86,276.19,235.31,9.94" >
+	<analytic>
+		<title level="a" type="main">Financial Literacy and Consumer Protection: Overlooked Aspects of the Crisis, OECD Recommendation on Good Practices on Financial Education and Awareness Relating to Credit &quot; , http://www.oecd.org/daf/fin/financial-markets/43138294 G20 High-Level Principles On Financial Consumer Protection Housing and the Economy: Policies for Renovation</title>
+	</analytic>
+	<monogr>
+		<title level="m">OECD, Economic Policy Reforms 2011: Going for Growth</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,298.49,467.59,12.23;39,87.86,313.51,36.94,9.94" >
+	<analytic>
+		<title level="a" type="main">Debt and Macroeconomic Stability</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD OECD Economics Department Policy Notes</title>
+		<imprint>
+			<biblScope unit="issue">16</biblScope>
+			<date type="published" when="2012-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,335.81,454.48,12.23;39,87.86,350.71,214.73,9.94" >
+	<analytic>
+		<title level="a" type="main">Shifting Risks and the Search for Yield in Financial Markets</title>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Business and Finance Outlook 2015</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,373.13,457.15,12.23;39,87.86,388.05,434.16,9.94" >
+	<monogr>
+		<title level="m" type="main">Northern Rock: Just the Tip of the Iceberg The Failure of Northern Rock: A Multi-Dimensional Case Study, SUERF Studies</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Onado</surname>
+			</persName>
+		</author>
+		<editor>F. Bruni and D. T. Llewellyn</editor>
+		<imprint>
+			<date type="published" when="2009" />
+			<pubPlace>Vienna</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,410.47,466.15,12.23;39,87.86,423.07,379.87,12.23" >
+	<analytic>
+		<title level="a" type="main">Momentum Traders in the Housing Market: Survey Evidence and a Search Model</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Piazzesi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Schneider</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research Working Paper</title>
+		<imprint>
+			<biblScope unit="page">14669</biblScope>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,447.67,444.30,12.23;39,87.86,462.69,272.45,9.94" >
+	<analytic>
+		<title level="a" type="main">Tax Subsidies to Owner-occupied Housing: An Asset-market Approach</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Poterba</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Quarterly Journal of Economics</title>
+		<imprint>
+			<biblScope unit="volume">99</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="729" to="752" />
+			<date type="published" when="1984" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,484.99,442.28,12.23;39,87.86,500.01,33.48,9.94" >
+	<analytic>
+		<title level="a" type="main">Tracing the Origins of the Financial Crisis</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Ramskogler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Financial Market Trends</title>
+		<imprint>
+			<biblScope unit="volume">2014</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,524.61,438.08,9.94;39,87.86,537.21,224.16,9.94" >
+	<monogr>
+		<title level="m" type="main">This Time is Different, Eight Centuries of Financial Folly</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">M</forename>
+				<surname>Reinhart</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">S</forename>
+				<surname>Rogoff</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<publisher>Princeton University Press</publisher>
+			<pubPlace>Princeton, New Jersey</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,561.96,464.34,9.94;39,87.86,574.56,286.34,9.94" >
+	<monogr>
+		<title level="m" type="main">Social Housing in the UNECE Region: Models, Trends and Challenges</title>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Rosenfeld</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<pubPlace>New York and Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,596.98,464.36,12.23" >
+	<analytic>
+		<title level="a" type="main">Why Central Banks Should Burst Bubbles?</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Roubini</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Finance</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="87" to="107" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,621.58,472.24,12.23;39,87.86,636.48,416.20,9.94;39,87.86,649.20,89.49,9.94" >
+	<monogr>
+		<title level="m" type="main">Policies to Provide Access to Good-Quality Affordable Housing in OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Salvi Del Pero</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Adema</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Ferraro</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Frey</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+			<publisher>OECD Social</publisher>
+		</imprint>
+	</monogr>
+	<note>forthcoming</note>
+</biblStruct>
+
+<biblStruct coords="39,59.54,671.50,463.57,12.23;39,87.86,686.52,294.02,9.94" >
+	<analytic>
+		<title level="a" type="main">Dynamic Provisioning. The Experience of Spain Public Policy for the Private Sector</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Saurina</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Crisis Response</title>
+		<imprint>
+			<publisher>The World Bank</publisher>
+			<biblScope unit="issue">7</biblScope>
+			<date type="published" when="2009" />
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="39,59.54,708.84,448.70,12.23;39,87.86,723.86,259.12,9.94" >
+	<analytic>
+		<title level="a" type="main">Understanding Recent Trends in House Prices and Home Ownership</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Shiller</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Bureau of Economic Research Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">13553</biblScope>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="40,445.78,64.82,84.43,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="40,59.54,99.38,436.77,12.23;40,87.86,111.98,357.88,12.23" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Shiller</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">M</forename>
+				<surname>Wojakowski</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">S</forename>
+				<surname>Ebrahim</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">B</forename>
+				<surname>Shackleton</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Continuous Workout Mortgages National Bureau of Economic Research Working Paper</title>
+		<imprint>
+			<biblScope unit="page">17007</biblScope>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="40,59.54,136.58,469.02,12.23;40,87.86,149.30,423.68,12.23;40,87.86,164.20,183.10,9.94" >
+	<monogr>
+		<title level="m" type="main">Housing Debt Crisis in Light of a Major Banking Crisis in Iceland: Restructuring of Household Debt in Iceland – An Example for Other Indebted Countries?</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Skulason</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>European Mortgage Federation</publisher>
+			<pubPlace>Brussels</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="40,59.54,186.62,445.79,12.23;40,87.86,201.52,413.88,9.94;40,87.86,214.24,259.68,9.94" >
+	<monogr>
+		<title level="m" type="main">Macro-Prudential Policy and the New Zealand Housing Market &quot; , Speech by Mr Grant Spencer, Deputy Governor and Head of Financial Stability of the Reserve Bank of New Zealand</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Spencer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013-06" />
+			<biblScope unit="page">27</biblScope>
+			<pubPlace>Wellington</pubPlace>
+		</imprint>
+	</monogr>
+	<note>to. the Business NZ Council</note>
+</biblStruct>
+
+<biblStruct coords="40,59.54,236.57,466.15,12.22;40,87.86,249.17,441.85,12.23" >
+	<analytic>
+		<title level="a" type="main">Debt and Macroeconomic Stability: An Overview of the Literature and Some Empirics</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Sutherland</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Hoeller</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Papers</title>
+		<imprint>
+			<publisher>OECD Publishing</publisher>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="40,59.54,273.89,459.39,12.23;40,87.86,288.79,428.46,9.94;40,87.86,301.51,173.45,9.94" >
+	<analytic>
+		<title level="a" type="main">House Price Shocks and Household Savings: Evidence from Dutch Administrative Data</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Van Beers</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Bijlsma</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Mocking</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CPB Discussion Paper</title>
+		<imprint>
+			<biblScope unit="issue">299</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="40,59.54,323.81,432.49,12.22;40,87.86,336.41,419.60,12.23" >
+	<monogr>
+		<title level="m" type="main">Procyclicality in the Financial System: Do We Need a New Macrofinancial Stabilisation Framework? &quot; , Bank for International Settlements Working Paper</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">R</forename>
+				<surname>White</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<pubPlace>Basel</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="40,59.54,361.13,457.99,12.23;40,87.86,373.73,436.19,12.23;40,87.86,388.77,38.87,9.94" >
+	<monogr>
+		<title level="m" type="main">Loan-to-Value Ratio as a Macro-Prudential Tool -Hong Kong&apos;s Experience and Cross-Country Evidence</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Wong</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Fong</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Li</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Choi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>Hong. Kong Monetary Authority Working Paper 01</note>
+</biblStruct>
+
+<biblStruct coords="40,59.54,411.07,438.64,12.23;40,87.86,425.97,440.70,9.94;40,87.86,438.69,213.12,9.94" >
+	<analytic>
+		<title level="a" type="main">Housing in Australia in the 2000s: On the Agenda Too Late? The Australian Economy in the 2000s, Reserve Bank of Australia</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Yates</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of a conference held in Sydney</title>
+		<editor>Gerard, H. and Kearns, J.</editor>
+		<meeting>a conference held in Sydney</meeting>
+		<imprint>
+			<date type="published" when="2011-08" />
+			<biblScope unit="page" from="15" to="16" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="40,59.54,460.99,455.63,12.23;40,87.86,476.01,218.17,9.94" >
+	<monogr>
+		<title level="m" type="main">A Minsky Meltdown: Lessons for Central Bankers &quot; , Federal Reserve Bank of San Francisco Economic Letter</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">L</forename>
+				<surname>Yellen</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

@@ -1,0 +1,3384 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_150"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="47,242.85,527.64,6.99,7.98;47,242.85,475.69,6.99,49.98" >
+	<monogr>
+		<title level="m" type="main">by fee-for-service</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,242.85,366.61,6.99,23.46;47,242.85,314.11,6.99,50.40;47,242.85,303.32,6.99,8.76;47,242.85,278.71,6.99,22.44;47,242.85,248.29,6.99,28.26;47,242.85,203.59,6.99,19.33;47,242.85,193.57,6.99,7.98;47,242.85,169.45,6.99,22.14" >
+	<monogr>
+		<title level="m" type="main">Fee-for-service for private patients</title>
+		<author>
+			<persName>
+				<surname>Salary</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>100%. by salary</note>
+</biblStruct>
+
+<biblStruct coords="47,251.97,759.44,6.99,24.72;47,251.97,703.23,6.99,21.42;47,251.97,690.69,6.99,5.88;47,251.97,664.47,6.99,19.62;47,251.97,635.30,6.99,22.50;47,251.97,580.64,6.99,48.01;47,251.97,568.16,6.99,5.76;47,260.61,701.96,6.99,22.68;47,260.61,677.42,6.99,22.62" >
+	<monogr>
+		<title level="m" type="main">Greece Salary in public sector, fee-for-service in private sector</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,251.97,535.58,6.99,21.42;47,251.97,523.16,6.99,5.88;47,251.97,496.94,6.99,19.62;47,251.97,467.90,6.99,22.50;47,251.97,413.24,6.99,48.00;47,251.97,400.76,6.99,5.88;47,260.61,534.68,6.99,22.68;47,260.61,510.14,6.99,22.62" >
+	<monogr>
+		<title level="m" type="main">Salary in public sector, fee-for-service in private sector</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,251.97,368.30,6.99,21.78;47,251.97,358.22,6.99,7.98;47,251.97,334.23,6.99,22.02" >
+	<monogr>
+		<title level="m" type="main">Mainly by salary</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,251.97,195.32,6.99,27.61;47,251.97,164.54,6.99,28.62;47,251.97,111.92,6.99,50.40;47,251.97,97.39,6.99,12.49;47,251.97,70.70,6.99,24.66" >
+	<monogr>
+		<title level="m" type="main">Blended payment (fee-for-service and salary)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,269.73,761.12,6.99,23.04;47,269.73,674.12,6.99,50.52;47,269.73,662.19,6.99,3.78;47,269.73,633.21,6.99,20.88;47,269.73,602.54,6.99,22.51;47,269.73,568.10,6.99,26.34;47,278.37,692.35,6.99,32.29;47,278.37,686.65,6.99,3.66;47,278.37,666.80,6.99,17.76;47,278.37,642.02,6.99,22.62;47,278.37,613.70,6.99,26.22" >
+	<monogr>
+		<title level="m" type="main">Ireland Fee-for-service if higher patient income, capitation if lower patient income</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,269.73,366.62,6.99,23.46;47,269.73,310.87,6.99,50.53;47,269.73,296.96,6.99,8.76;47,269.73,266.71,6.99,25.09;47,269.73,233.42,6.99,28.02;47,278.37,365.36,6.99,24.72;47,278.37,337.11,6.99,26.22;47,278.37,329.12,6.99,5.76;47,278.37,307.47,6.99,19.62;47,278.37,277.46,6.99,27.90" >
+	<monogr>
+		<title level="m" type="main">Fee-for-service for treating privately insured patients in public hospital</title>
+		<author>
+			<persName>
+				<surname>Salary</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,287.49,763.63,6.99,20.53;47,287.49,672.02,6.99,52.62;47,287.49,535.58,6.99,21.42;47,287.49,524.13,6.99,8.88;47,287.49,495.56,6.99,25.92;47,287.49,459.98,6.99,32.94;47,287.49,427.70,6.99,29.58;47,287.49,400.76,6.99,24.24;47,296.13,533.48,6.99,23.88;47,296.13,522.68,6.99,8.76;47,296.13,479.29,6.99,41.23;47,296.13,444.25,6.99,32.94;47,296.13,419.66,6.99,22.62" >
+	<monogr>
+		<title level="m" type="main">Japan Fee-for-service. Salary for hospital outpatient services, fee-forservice for independent outpatient clinics</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,287.49,366.62,6.99,23.46;47,305.25,764.00,6.99,20.16;47,305.25,705.31,6.99,19.33;47,305.25,695.29,6.99,7.98;47,305.25,645.31,6.99,48.00;47,305.25,537.67,6.99,19.33;47,305.25,527.65,6.99,7.98;47,305.25,475.69,6.99,49.98;47,305.25,370.74,6.99,19.33;47,305.25,360.72,6.99,7.98;47,305.25,336.60,6.99,22.14;47,305.25,203.58,6.99,19.33;47,305.25,193.56,6.99,7.98;47,305.25,169.44,6.99,22.14" >
+	<monogr>
+		<title level="m" type="main">Korea 100% by fee-for-service 100% by fee-for-service. 100% by salary</title>
+		<author>
+			<persName>
+				<surname>Salary</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>100%. by salary</note>
+</biblStruct>
+
+<biblStruct coords="47,314.37,760.28,6.99,23.88;47,314.37,703.22,6.99,21.42;47,314.37,690.68,6.99,5.88;47,314.37,664.46,6.99,19.62;47,314.37,635.30,6.99,22.50;47,314.37,580.63,6.99,48.01;47,314.37,568.15,6.99,5.76;47,323.01,701.96,6.99,22.68;47,323.01,677.42,6.99,22.62" >
+	<monogr>
+		<title level="m" type="main">Mexico Salary in public sector, fee-for-service in private sector</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,314.37,535.58,6.99,21.42;47,314.37,523.16,6.99,5.88;47,314.37,496.94,6.99,19.62;47,314.37,467.90,6.99,22.50;47,314.37,413.24,6.99,48.00;47,314.37,400.76,6.99,5.88;47,323.01,534.68,6.99,22.68;47,323.01,510.14,6.99,22.62" >
+	<monogr>
+		<title level="m" type="main">Salary in public sector, fee-for-service in private sector</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,314.37,366.62,6.99,23.46" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Salary</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,314.37,170.30,6.99,52.62" >
+	<monogr>
+		<title level="m" type="main">Fee-for-service</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,332.13,742.94,6.99,40.51;47,332.13,674.12,6.99,50.52;47,332.13,662.18,6.99,3.78;47,332.13,633.21,6.99,20.88;47,332.13,602.54,6.99,22.51;47,332.13,568.10,6.99,26.34;47,340.77,692.35,6.99,32.29;47,340.77,686.65,6.99,3.66;47,340.77,666.80,6.99,17.76;47,340.77,642.02,6.99,22.62;47,340.77,613.70,6.99,26.22" >
+	<monogr>
+		<title level="m" type="main">Netherlands Fee-for-service if higher patient income, capitation if lower patient income</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,332.13,195.32,6.99,27.60;47,332.13,164.54,6.99,28.62;47,332.13,139.83,6.99,22.50;47,332.13,125.25,6.99,12.48;47,332.13,70.71,6.99,52.50" >
+	<monogr>
+		<title level="m" type="main">Blended payment (salary and fee-for-service)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,349.41,768.26,6.99,15.18;47,349.41,739.15,6.99,27.25;47,349.41,709.51,6.99,15.12;47,349.41,699.49,6.99,7.98;47,349.41,649.51,6.99,48.00;47,349.41,634.87,6.99,12.61;47,349.41,617.83,6.99,15.00;47,349.41,607.69,6.99,7.98;47,349.41,571.56,6.99,34.26;47,349.41,530.89,6.99,26.45;47,349.41,520.93,6.99,7.98;47,349.41,496.82,6.99,22.14;47,349.41,363.63,6.99,26.45;47,349.41,353.66,6.99,7.98;47,349.41,329.55,6.99,22.14;47,349.41,196.48,6.99,26.45;47,349.41,186.52,6.99,7.98;47,349.41,134.56,6.99,49.98;47,349.41,106.10,6.99,26.34;47,349.41,96.14,6.99,7.98;47,349.41,72.02,6.99,22.02" >
+	<monogr>
+		<title level="m" type="main">New Zealand 78% by fee-for-service and 22% by capitation. Majority by salary. Majority by salary. Majority by fee-for-service, minority by salary</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,358.05,758.06,6.99,25.38;47,358.05,697.04,6.99,27.60;47,358.05,666.13,6.99,28.74;47,358.05,646.40,6.99,17.52;47,358.05,637.94,6.99,6.30;47,358.05,611.60,6.99,24.12;47,358.05,594.50,6.99,14.94;47,358.05,568.16,6.99,24.24;47,366.57,700.76,6.99,23.88;47,366.57,686.12,6.99,12.61;47,366.57,669.08,6.99,15.00;47,366.57,652.10,6.99,14.94;47,366.57,613.22,6.99,36.78" >
+	<monogr>
+		<title level="m" type="main">Norway Blended payment (70% of income from fee-forservice and 30% from capitation)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,358.05,535.94,6.99,21.42;47,358.05,521.12,6.99,12.61;47,358.05,470.95,6.99,48.00;47,358.05,462.79,6.99,5.88;47,358.05,440.89,6.99,19.62;47,358.05,416.05,6.99,22.50;47,358.05,400.75,6.99,12.96;47,366.57,522.20,6.99,35.16;47,366.57,514.28,6.99,5.88;47,366.57,489.68,6.99,22.56;47,366.57,465.14,6.99,22.62" >
+	<monogr>
+		<title level="m" type="main">Salary and fee-for-service in public sector, feefor-service in private sector</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,358.05,366.62,6.99,23.46;47,375.21,755.36,6.99,28.08;47,375.21,703.22,6.99,21.42;47,375.21,690.68,6.99,5.88;47,375.21,664.46,6.99,19.62;47,375.21,635.30,6.99,22.50;47,375.21,580.63,6.99,48.01;47,375.21,568.15,6.99,5.76;47,383.85,701.96,6.99,22.68;47,383.85,677.42,6.99,22.62" >
+	<monogr>
+		<title level="m" type="main">Portugal Salary in public sector, fee-for-service in private sector</title>
+		<author>
+			<persName>
+				<surname>Salary</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,375.21,366.62,6.99,23.46" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<surname>Salary</surname>
+			</persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,375.21,170.30,6.99,52.62" >
+	<monogr>
+		<title level="m" type="main">Fee-for-service</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,392.49,760.82,6.99,22.62;47,401.13,754.94,6.99,29.22;47,392.49,697.04,6.99,27.60;47,392.49,659.78,6.99,28.74;47,392.49,616.63,6.99,34.69;47,392.49,595.75,6.99,12.48;47,392.49,568.09,6.99,19.26;47,401.13,692.06,6.99,32.59;47,401.13,681.20,6.99,8.76;47,401.13,644.48,6.99,34.68;47,401.13,623.30,6.99,19.14" >
+	<monogr>
+		<title level="m" type="main">Slovak Republic Blended payment (capitation and target payments for preventive care)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,392.49,538.03,6.99,19.33;47,392.49,528.01,6.99,7.98;47,392.49,476.06,6.99,49.98" >
+	<monogr>
+		<title level="m" type="main">100% by fee-for-service</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,392.49,370.75,6.99,19.33;47,392.49,360.73,6.99,7.98;47,392.49,336.61,6.99,22.14" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">100% by salary</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,392.49,170.30,6.99,52.61" >
+	<monogr>
+		<title level="m" type="main">Fee-for-service</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,409.77,764.12,6.99,19.32;47,409.77,697.03,6.99,27.61;47,409.77,665.41,6.99,28.75;47,409.77,644.95,6.99,17.52;47,409.77,635.89,6.99,6.18;47,409.77,608.83,6.99,24.12;47,409.77,590.89,6.99,15.06;47,409.77,567.97,6.99,20.09;47,418.41,712.04,6.99,12.60;47,418.41,694.88,6.99,15.12;47,418.41,677.90,6.99,15.06;47,418.41,639.14,6.99,36.66" >
+	<monogr>
+		<title level="m" type="main">Spain Blended payment (85% of income from salary and 15% from capitation)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,409.77,538.03,6.99,19.33;47,409.77,528.01,6.99,7.98;47,409.77,503.90,6.99,22.14;47,409.77,370.75,6.99,19.33;47,409.77,360.73,6.99,7.98;47,409.77,336.61,6.99,22.14;47,409.77,201.14,6.99,21.78;47,409.77,191.05,6.99,7.98;47,409.77,139.10,6.99,49.98" >
+	<monogr>
+		<title level="m" type="main">100% by salary. 100% by salary. Mainly by fee-for-service</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,427.05,756.31,6.99,27.13;47,427.05,701.17,6.99,23.46;47,427.05,533.90,6.99,23.46;47,427.05,370.75,6.99,19.33;47,427.05,360.73,6.99,7.98;47,427.05,336.61,6.99,22.14;47,427.05,203.59,6.99,19.33;47,427.05,193.57,6.99,7.98;47,427.05,169.45,6.99,22.14" >
+	<monogr>
+		<title level="m" type="main">Sweden Salary. Salary. 100% by salary. 100% by salary</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,435.57,744.69,6.99,38.76;47,435.57,709.52,6.99,15.12;47,435.57,699.50,6.99,7.98;47,435.57,649.52,6.99,48.00;47,435.57,634.88,6.99,12.61;47,435.57,621.92,6.99,10.92;47,435.57,611.90,6.99,7.98;47,435.57,587.90,6.99,22.02;47,435.57,542.24,6.99,15.12;47,435.57,532.22,6.99,7.98;47,435.57,480.14,6.99,50.10;47,435.57,463.03,6.99,15.00;47,435.57,453.01,6.99,7.98;47,435.57,429.01,6.99,22.02" >
+	<monogr>
+		<title level="m" type="main">Switzerland 96% by fee-for-service and 4% by salary. 90% by fee-for-service, 10% by salary</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,435.57,337.46,6.99,52.62;47,435.57,313.47,6.99,20.09;47,435.57,296.96,6.99,12.61;47,435.57,266.36,6.99,26.65;47,435.57,233.54,6.99,28.86;47,444.21,339.56,6.99,50.52;47,444.21,324.92,6.99,12.61;47,444.21,298.34,6.99,24.54" >
+	<monogr>
+		<title level="m" type="main">Fee-for-service, salary and blended payment (fee-for-service and salary)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,435.57,170.31,6.99,52.61;47,435.57,146.32,6.99,20.09;47,435.57,129.81,6.99,12.61;47,435.57,99.20,6.99,26.65;47,435.57,66.38,6.99,28.87;47,444.21,172.40,6.99,50.52;47,444.21,157.76,6.99,12.61;47,444.21,131.18,6.99,24.54" >
+	<monogr>
+		<title level="m" type="main">Fee-for-service, salary and blended payment (fee-for-service and salary)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="47,452.85,761.60,6.99,21.84;47,452.85,738.38,6.99,21.18;47,452.85,697.04,6.99,27.60;47,452.85,664.10,6.99,30.78;47,452.85,529.76,6.99,27.60;47,452.85,496.82,6.99,30.78;47,452.85,362.48,6.99,27.60;47,452.85,329.54,6.99,30.78;47,452.85,195.32,6.99,27.60;47,452.85,162.38,6.99,30.78;47,462.11,719.65,7.44,31.63;47,460.30,714.52,4.66,2.80;47,462.11,689.20,7.44,23.20;47,462.11,662.58,7.44,24.51;47,462.11,625.34,7.44,34.99;47,462.11,613.73,7.44,9.40;47,462.11,589.61,7.44,21.86;47,462.11,571.85,7.44,15.64;47,462.11,543.48,7.44,26.12;47,460.30,538.36,4.66,2.80;47,462.11,513.04,7.44,23.20;47,462.11,485.64,7.44,25.15" >
+	<monogr>
+		<title level="m" type="main">United States Blended payment Blended payment. Blended payment. Blended payment. Sources: a OECD human resources for health care project</title>
+		<imprint>
+			<date type="published" when="2001" />
+			<biblScope unit="page">b OECD</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,198.30,473.51,9.94;54,87.84,211.02,251.14,9.94" >
+	<monogr>
+		<title level="m" type="main">Demographics of IMGs</title>
+		<author>
+			<persName>
+				<forename type="first">American</forename>
+				<surname>Medical</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>Online Publication</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,235.62,473.70,9.94;54,87.84,248.34,324.96,9.94" >
+	<analytic>
+		<title level="a" type="main">Ontario&apos;s underserviced area program revisited: an indirect analysis</title>
+		<author>
+			<persName>
+				<forename type="first">Anderson</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">W</forename>
+				<surname>Rosenberg</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="35" to="44" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,272.94,473.74,9.94;54,87.84,285.66,134.83,9.94" >
+	<analytic>
+		<title level="a" type="main">Australia now – a statistical profile</title>
+	</analytic>
+	<monogr>
+		<title level="j">AUSTRALIAN BUREAU OF STATISTICS Australian Bureau of Statistics</title>
+		<imprint>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,310.26,473.61,9.94;54,87.84,322.86,342.43,9.94" >
+	<analytic>
+		<title level="a" type="main">Overview of overseas experience in regulating hours of work of doctors in training</title>
+	</analytic>
+	<monogr>
+		<title level="j">AUSTRALIAN MEDICAL ASSOCIATION</title>
+		<imprint>
+			<publisher>Australian Medical Association</publisher>
+			<date type="published" when="1998" />
+			<publisher>Australian Medical Association</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,347.58,473.39,9.94;54,87.84,360.18,327.48,9.94" >
+	<analytic>
+		<title level="a" type="main">Medical workforce planning in Australia</title>
+	</analytic>
+	<monogr>
+		<title level="j">AUSTRALIAN MEDICAL WORKFORCE ADVISORY COMMITTEE Australian Health Review</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="8" to="23" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,384.90,473.58,9.94;54,87.84,397.50,445.22,9.94;54,87.84,410.10,150.26,9.94" >
+	<analytic>
+		<title level="a" type="main">Female participation in the Australian medical workforce</title>
+		<author>
+			<persName>
+				<forename type="first">Australian</forename>
+				<surname>Medical</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Advisory</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Australian</forename>
+				<surname>Committee</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Institute</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Health</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Welfare</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">AMWAC Report</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,434.82,473.64,9.94;54,87.84,447.42,435.35,9.94" >
+	<monogr>
+		<title level="m" type="main">Toward integrated medical resource policies for Canada. Report prepared for the federal / provincial and territorial conference of deputy ministers of health</title>
+		<author>
+			<persName>
+				<forename type="first">Barer</forename>
+				<forename type="middle">M L</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">L</forename>
+				<surname>Stoddart</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,472.14,473.54,9.94;54,87.84,484.74,445.38,9.94;54,87.84,497.34,139.85,9.94" >
+	<monogr>
+		<title level="m" type="main">Immigration and emigration of physicians to / from Canada. Health Human Resources Unit Paper No. 99:6. Centre for Health Services and Policy Research</title>
+		<author>
+			<persName>
+				<forename type="first">Barer</forename>
+				<forename type="middle">M L</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">A</forename>
+				<surname>Webber</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,522.06,469.27,9.94;54,87.84,534.66,350.40,9.94" >
+	<analytic>
+		<title level="a" type="main">Incentives and provider payment methods</title>
+		<author>
+			<persName>
+				<forename type="first">Barnum</forename>
+				<forename type="middle">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Kutzin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Saxenian</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Health Planning and Management</title>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page" from="10" to="45" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,559.38,473.50,9.94;54,87.84,571.98,445.20,9.94;54,87.84,584.58,34.63,9.94" >
+	<monogr>
+		<title level="m" type="main">Planning human resources in health care: towards an economic approach. An international comparative review. Canadian Health Services Research Foundation</title>
+		<author>
+			<persName>
+				<forename type="first">Bloor</forename>
+				<forename type="middle">K</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Maynard</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<pubPlace>Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,609.30,473.44,9.94;54,87.84,621.90,218.75,9.94" >
+	<analytic>
+		<title level="a" type="main">New Steam from an old Cauldron – the Physician–Supply Debate</title>
+		<author>
+			<persName>
+				<forename type="first">Blumenthal</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">35017</biblScope>
+			<biblScope unit="page" from="1780" to="1787" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,646.62,473.61,9.94;54,87.84,659.22,445.28,9.94;54,87.84,671.82,19.32,9.94" >
+	<analytic>
+		<title level="a" type="main">The effect of incentive policies on the practice location of doctors: multinomial probit analysis</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Bolduc</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Fortin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Fournier</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Labour Economics</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="703" to="732" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,696.54,473.45,9.94;54,87.84,709.14,443.68,9.94" >
+	<analytic>
+		<title level="a" type="main">Health and safety problems associated with doctors&apos; working patterns. London: Health Policy and Economic Research Unit</title>
+		<author>
+			<persName>
+				<forename type="first">British</forename>
+				<surname>Medical</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Medical Association</title>
+		<imprint>
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,101.70,473.35,9.94;55,87.84,114.30,300.57,9.94" >
+	<analytic>
+		<title level="a" type="main">Physicians statistics (Ärztestatistik) Bundesärztekammer (http</title>
+	</analytic>
+	<monogr>
+		<title level="j">BUNDESÄRZTEKAMMER</title>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,139.02,473.49,9.94;55,87.84,151.62,392.70,9.94" >
+	<analytic>
+		<title level="a" type="main">Effects of two reimbursement models on house calls by general practitioners</title>
+		<author>
+			<persName>
+				<forename type="first">Burkowitz</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Preissig</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Wehner</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Fischer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gesundheitswesen</title>
+		<imprint>
+			<biblScope unit="volume">57</biblScope>
+			<biblScope unit="page" from="782" to="785" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,176.34,473.51,9.94;55,87.84,188.94,180.80,9.94" >
+	<analytic>
+		<title level="a" type="main">Consumer satisfaction and supplier induced demand</title>
+		<author>
+			<persName>
+				<forename type="first">Carlsen</forename>
+				<forename type="middle">F</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Grytten</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page" from="731" to="753" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,213.66,436.94,9.94;55,87.84,226.26,399.47,9.94" >
+	<analytic>
+		<title level="a" type="main">The Urgent Need to Improve Health Care Quality: Institute of Medicine National Roundtable on Health Care Quality</title>
+		<author>
+			<persName>
+				<forename type="first">Chassin</forename>
+				<surname>Mr</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Rw</forename>
+				<surname>Galvin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">JAMA</title>
+		<imprint>
+			<biblScope unit="volume">280</biblScope>
+			<biblScope unit="page" from="1000" to="1005" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,250.86,473.45,9.94;55,87.84,263.58,442.92,9.94" >
+	<analytic>
+		<title level="a" type="main">Collective bargaining by physicians – labor law, antitrust law, and organized medicine</title>
+		<author>
+			<persName>
+				<forename type="first">Choudhry</forename>
+				<forename type="middle">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">A</forename>
+				<surname>Brennan</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">345</biblScope>
+			<biblScope unit="issue">15 1</biblScope>
+			<biblScope unit="page" from="141" to="1144" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,288.18,473.52,9.94;55,87.84,300.90,347.00,9.94" >
+	<monogr>
+		<title level="m" type="main">Women in medicine – the Canadian perspective. Paper presented at the Fourth International Medical Workforce Conference</title>
+		<author>
+			<persName>
+				<forename type="first">Cohen</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1999-11" />
+			<biblScope unit="page" from="4" to="7" />
+			<pubPlace>San Francisco</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,325.50,473.53,9.94;55,87.84,338.10,209.98,9.94" >
+	<monogr>
+		<title level="m" type="main">Effects of managed care: an update. Congressional Budget Office Memorandum</title>
+		<author>
+			<persName>
+				<forename type="first">Congressional</forename>
+				<surname>Budget</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<pubPlace>Washington D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,362.82,473.52,9.94;55,87.84,375.42,44.88,9.94" >
+	<analytic>
+		<title level="a" type="main">Medical schools and their applicants: an analysis</title>
+		<author>
+			<persName>
+				<forename type="first">Cooper</forename>
+				<forename type="middle">R A</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="71" to="84" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,400.14,198.02,9.94;55,257.52,397.89,5.40,6.26;55,266.88,400.14,266.08,9.94;55,87.84,412.74,445.21,9.94;55,87.84,425.34,445.05,9.94;55,87.84,438.06,34.67,9.94" >
+	<monogr>
+		<title level="m" type="main">concerning the mutual recognition of diplomas, certificates and other evidence of formal qualifications in medicine, including measure to facilitate the effective exercise of the right of establishment and freedom to provide services</title>
+		<imprint>
+			<date type="published" when="1975-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,462.66,198.75,9.94;55,258.24,460.41,5.40,6.26;55,267.72,462.66,265.30,9.94;55,87.84,475.38,445.08,9.94;55,87.84,487.98,40.20,9.94" >
+	<monogr>
+		<title level="m" type="main">concerning the co-ordination of provisions laid down by law, regulation or administrative action in respect of activities of doctors</title>
+		<imprint>
+			<date type="published" when="1975-06" />
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,512.58,473.50,9.94;55,87.84,525.30,445.08,9.94;55,87.84,537.90,98.76,9.94" >
+	<monogr>
+		<title level="m" type="main">Improving access to health care through physician workforce reform: directions for the 21st century. U.S. Department of Health and Human Services</title>
+		<author>
+			<persName>
+				<forename type="first">Council</forename>
+				<surname>On</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Medical</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Education</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1992" />
+			<pubPlace>Washington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,562.62,473.58,9.94;55,87.84,575.22,445.25,9.94;55,87.84,587.82,56.00,9.94" >
+	<monogr>
+		<title level="m" type="main">Recommendations to improve access to health care through physician workforce reform. U.S. Department of Health and Human Services</title>
+		<author>
+			<persName>
+				<forename type="first">Council</forename>
+				<surname>On</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Medical</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Education</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1994" />
+			<pubPlace>Washington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,612.54,473.51,9.94;55,87.84,625.14,445.08,9.94;55,87.84,637.86,56.00,9.94" >
+	<monogr>
+		<title level="m" type="main">Managed health care: implications for the physician workforce and medical education. U.S. Department of Health and Human Services</title>
+		<author>
+			<persName>
+				<forename type="first">Council</forename>
+				<surname>On</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Medical</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Education</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995" />
+			<pubPlace>Washington</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,662.46,473.49,9.94;55,87.84,675.18,445.26,9.94;55,87.84,687.78,294.25,9.94" >
+	<monogr>
+		<title level="m" type="main">Physician distribution and health care challenges in rural and inner-city areas. Council on Graduate Medical Education Tenth Report. U.S. Department of Health and Human Services</title>
+		<author>
+			<persName>
+				<forename type="first">Council</forename>
+				<surname>On</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Medical</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Education</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<pubPlace>Washington D.C</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,712.38,473.64,9.94;55,87.84,725.10,282.00,9.94" >
+	<analytic>
+		<title level="a" type="main">Fixed fees and physician-induced demand: a panel data study on French physicians</title>
+		<author>
+			<persName>
+				<forename type="first">Delattre</forename>
+				<forename type="middle">E</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Dormont</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="741" to="754" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,101.70,473.57,9.94;56,87.84,114.30,129.87,9.94" >
+	<monogr>
+		<title level="m" type="main">Guide to the NHS consultants&apos; distinction award scheme (England and Wales)</title>
+		<author>
+			<persName>
+				<forename type="first">Department</forename>
+				<surname>Of</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<publisher>HMSO</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,139.02,457.45,9.94;56,59.52,163.62,473.45,9.94;56,87.84,176.34,276.81,9.94" >
+	<analytic>
+		<title level="a" type="main">NHS workforce vacancy survey. Department of Health The Australian medical workforce</title>
+		<author>
+			<persName>
+				<forename type="first">Department</forename>
+				<surname>Of</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Canberra: Department of Health and Aged Care</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,200.94,473.54,9.94;56,87.84,213.66,445.12,9.94;56,87.84,226.26,411.73,9.94" >
+	<analytic>
+		<title level="a" type="main">Rural background and clinical rural rotations during medical training: effect on practice location</title>
+		<author>
+			<persName>
+				<forename type="first">Easterbrook</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Godwin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Wilson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Hodgetts</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Brown</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Pong</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Najgebauer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Medical Association Journal</title>
+		<imprint>
+			<biblScope unit="volume">160</biblScope>
+			<biblScope unit="page" from="1159" to="1163" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,250.86,473.45,9.94;56,87.84,263.58,445.08,9.94;56,87.84,276.18,145.06,9.94" >
+	<monogr>
+		<title level="m" type="main">Achieving the right balance: the role of policy-making processes in managing human resources for health problems. Issues in Health Services Delivery Discussion Paper</title>
+		<author>
+			<persName>
+				<forename type="first">Egger</forename>
+				<forename type="middle">D</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Lipson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Adams</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,300.90,473.47,9.94;56,87.84,313.50,382.47,9.94" >
+	<analytic>
+		<title level="a" type="main">The use of ambulatory testing in prepaid and fee for service group practices</title>
+		<author>
+			<persName>
+				<forename type="first">Epstein</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Begg</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Mcneil</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">314</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="89" to="1094" />
+			<date type="published" when="1986" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,338.10,473.50,9.94;56,87.84,350.82,304.29,9.94" >
+	<monogr>
+		<title level="m" type="main">Health care systems in transition: Belgium. WHO Regional Office for Europe</title>
+		<author>
+			<persName>
+				<forename type="first">European</forename>
+				<surname>Observatory</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Health</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Systems</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<pubPlace>Copenhagen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,375.42,473.65,9.94;56,87.84,388.14,445.17,9.94;56,87.84,400.74,114.63,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Fooks</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Duvalko</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Baranek</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Lamothe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Rondeau</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Health human resource planning in Canada. Physician and nursing work force issues. Commission on the Future of Health Care in Canada</title>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,425.34,473.52,9.94;56,87.84,438.06,374.33,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Gavel</forename>
+				<forename type="middle">P</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Horvath</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Harris</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Curnow</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Medical workforce planning frameworks – Australia. Sixth International Medical Workforce Conference</title>
+		<meeting><address><addrLine>Ottawa</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,462.66,473.75,9.94;56,87.84,475.38,359.87,9.94" >
+	<analytic>
+		<title level="a" type="main">Commentary on the second survey of medical education practices in United Kingdom medical schools</title>
+	</analytic>
+	<monogr>
+		<title level="j">GENERAL MEDICAL COUNCIL</title>
+		<imprint>
+			<publisher>General Medical Council</publisher>
+			<date type="published" when="1992" />
+			<publisher>General Medical Council</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,499.98,473.64,9.94;56,87.84,512.58,259.53,9.94" >
+	<analytic>
+		<title level="a" type="main">Physician workforce planning in Canada: from tradition to vision</title>
+		<author>
+			<persName>
+				<forename type="first">Goldsand</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Frechette</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sixth International Medical Workforce Conference</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,537.30,473.76,9.94;56,87.84,549.90,445.19,9.94;56,87.84,562.62,39.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Paying doctors by salary: a controlled study of general practitioner behaviour in England</title>
+		<author>
+			<persName>
+				<forename type="first">Gosden</forename>
+				<forename type="middle">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Sibbald</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Williams</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Petchey</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Leese</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Policy</title>
+		<imprint>
+			<biblScope unit="volume">64</biblScope>
+			<biblScope unit="page" from="415" to="423" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,587.22,473.54,9.94;56,87.84,599.82,445.23,9.94;56,87.84,612.54,444.99,9.94;56,87.84,625.14,28.32,9.94" >
+	<analytic>
+		<title level="a" type="main">Impact of payment method on behaviour of primary care physicians: a systematic review</title>
+		<author>
+			<persName>
+				<forename type="first">Gosden</forename>
+				<forename type="middle">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Forland</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<forename type="middle">S</forename>
+				<surname>Kristiansen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Sutton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Leese</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Giuffrida</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Sergison</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Pedersen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Services Research and Policy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="44" to="55" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,649.86,473.50,9.94;56,87.84,662.46,445.19,9.94;56,87.84,675.18,61.44,9.94" >
+	<analytic>
+		<title level="a" type="main">How should we pay doctors? A systematic review of salary payments and their effect on doctor behaviour</title>
+		<author>
+			<persName>
+				<forename type="first">Gosden</forename>
+				<forename type="middle">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Pederson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Torgerson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Quarterly Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">92</biblScope>
+			<biblScope unit="page" from="47" to="55" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="56,59.52,699.78,473.51,9.94;56,87.84,712.38,445.32,9.94;56,87.84,725.11,369.95,9.94" >
+	<analytic>
+		<title level="a" type="main">Report of the Graduate Medical Education National Advisory Committee to the Secretary, Department of Health and Human Services</title>
+	</analytic>
+	<monogr>
+		<title level="j">GRADUATE MEDICAL EDUCATION NATIONAL ADVISORY COMMITTEE</title>
+		<imprint>
+			<date type="published" when="1981" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,101.70,473.64,9.94;57,87.84,114.30,445.20,9.94;57,87.84,127.02,102.38,9.94" >
+	<analytic>
+		<title level="a" type="main">Inequality in the geographical distribution of general practitioners in England and Wales, 1974-1995</title>
+		<author>
+			<persName>
+				<forename type="first">Gravelle</forename>
+				<forename type="middle">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Sutton</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Services Research and Policy</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="6" to="13" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,151.62,473.54,9.94;57,87.84,164.34,445.20,9.94;57,87.84,176.94,66.96,9.94" >
+	<analytic>
+		<title level="a" type="main">Specialty choices of students who actually have choices: the influence of excellent clinical teachers</title>
+		<author>
+			<persName>
+				<forename type="first">Griffith</forename>
+				<forename type="middle">C H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">C</forename>
+				<surname>Georgesen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">F</forename>
+				<surname>Wilson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Academic Medicine</title>
+		<imprint>
+			<biblScope unit="volume">75</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="278" to="282" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,201.66,473.48,9.94;57,87.84,214.26,343.32,9.94" >
+	<analytic>
+		<title level="a" type="main">Physician fees and procedure intensity: the case of cesarean delivery</title>
+		<author>
+			<persName>
+				<forename type="first">Gruber</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Kim</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Mayzlin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="473" to="490" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,238.86,473.50,9.94;57,87.84,251.58,74.89,9.94" >
+	<analytic>
+		<title level="a" type="main">Fighting hand to hand over physician workforce policy</title>
+		<author>
+			<persName>
+				<forename type="first">Grumbach</forename>
+				<forename type="middle">K</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="13" to="27" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,276.18,473.55,9.94;57,87.84,288.90,214.14,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Grumbach</forename>
+				<forename type="middle">K</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Seifer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Primary care resources and preventable hospitalizations in California. California Policy Seminar</title>
+		<meeting><address><addrLine>Berkeley</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,313.50,473.54,9.94;57,87.84,326.10,353.86,9.94" >
+	<analytic>
+		<title level="a" type="main">Type of contract and supplier-induced demand for primary care physicians in Norway</title>
+		<author>
+			<persName>
+				<forename type="first">Grytten</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">J</forename>
+				<surname>Sorensen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page" from="379" to="393" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,350.82,473.41,9.94;57,87.84,363.42,147.50,9.94" >
+	<analytic>
+		<title level="a" type="main">Why plan human resources for health?</title>
+		<author>
+			<persName>
+				<forename type="first">Hall</forename>
+				<forename type="middle">T L</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Human Resources for Health Development Journal</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="77" to="86" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,388.14,473.51,9.94;57,87.84,400.74,28.32,9.94" >
+	<analytic>
+		<title level="a" type="main">Physician employment in 2000 and beyond</title>
+		<author>
+			<persName>
+				<forename type="first">Hawkins</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hospital Physician</title>
+		<imprint>
+			<biblScope unit="volume">36</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="74" to="86" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,425.34,473.51,9.94;57,87.84,438.06,445.20,9.94;57,87.84,450.66,85.94,9.94" >
+	<analytic>
+		<title level="a" type="main">General internists influences students to choose primary care careers: the power of role modelling</title>
+		<author>
+			<persName>
+				<forename type="first">Henderson</forename>
+				<forename type="middle">M C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">K</forename>
+				<surname>Hunt</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">W</forename>
+				<surname>Williams</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">101</biblScope>
+			<biblScope unit="issue">6</biblScope>
+			<biblScope unit="page" from="648" to="653" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,475.38,473.56,9.94;57,87.84,487.98,435.09,9.94" >
+	<analytic>
+		<title level="a" type="main">The use of financial incentives and feedback to improve pediatric preventive care in Medicaid managed care</title>
+		<author>
+			<persName>
+				<forename type="first">Hillman</forename>
+				<forename type="middle">A L</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Ripley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Goldfarb</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Pediatrics</title>
+		<imprint>
+			<biblScope unit="volume">104</biblScope>
+			<biblScope unit="page" from="931" to="935" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,512.58,473.51,9.94;57,87.84,525.30,337.34,9.94" >
+	<analytic>
+		<title level="a" type="main">Tackling Excessive Waiting Times for Elective Surgery</title>
+		<author>
+			<persName>
+				<forename type="first">Hurst</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Siciliani</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Paris</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Towards High-Performing Health Systems: Policy Studies</title>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,549.90,473.46,9.94;57,87.84,562.62,421.08,9.94" >
+	<analytic>
+		<title level="a" type="main">The general practice rural incentives program, development and implementation: progress to date</title>
+		<author>
+			<persName>
+				<forename type="first">Holub</forename>
+				<forename type="middle">L</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Williams</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Australian Journal of Rural Health</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="117" to="127" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,587.22,473.46,9.94;57,87.84,599.82,145.06,9.94" >
+	<analytic>
+		<title level="a" type="main">A medical school for rural areas</title>
+		<author>
+			<persName>
+				<forename type="first">Inoue</forename>
+				<forename type="middle">K</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Hirayama</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Igarashi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Education</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="430" to="434" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,624.54,473.49,9.94;57,87.84,637.14,251.16,9.94" >
+	<analytic>
+		<title level="a" type="main">Mobile Medics. The mobility of doctors in the European economic area</title>
+		<author>
+			<persName>
+				<forename type="first">Jinks</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">N</forename>
+				<surname>Ong</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Paton</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Policy</title>
+		<imprint>
+			<biblScope unit="volume">54</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="45" to="64" />
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,661.86,473.62,9.94;57,87.84,674.46,376.70,9.94" >
+	<analytic>
+		<title level="a" type="main">Working hours and productivity of curative services in general practice in 1993</title>
+		<author>
+			<persName>
+				<forename type="first">Johnson</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Holtedahl</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Tidsskr Nor Laegeforen</title>
+		<imprint>
+			<biblScope unit="volume">117</biblScope>
+			<biblScope unit="issue">10 1</biblScope>
+			<biblScope unit="page" from="489" to="1492" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="57,59.52,699.18,473.67,9.94;57,87.84,711.78,284.38,9.94" >
+	<analytic>
+		<title level="a" type="main">Staying in or leaving rural practice: 1996 outcomes of rural doctors&apos;1986 intentions</title>
+		<author>
+			<persName>
+				<forename type="first">Kamien</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Journal of Australia</title>
+		<imprint>
+			<biblScope unit="volume">169</biblScope>
+			<biblScope unit="page" from="318" to="321" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,101.70,473.53,9.94;58,87.84,114.30,445.17,9.94;58,87.84,127.02,257.40,9.94" >
+	<analytic>
+		<title level="a" type="main">Primary care physicians&apos; satisfaction with quality of care in California capitated medical groups</title>
+		<author>
+			<persName>
+				<forename type="first">Kerr</forename>
+				<forename type="middle">E A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">D</forename>
+				<surname>Hays</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">S</forename>
+				<surname>Mittman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">L</forename>
+				<surname>Siu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Leake</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">H</forename>
+				<surname>Brook</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Medical Association</title>
+		<imprint>
+			<biblScope unit="volume">278</biblScope>
+			<biblScope unit="page" from="308" to="312" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,151.62,473.28,9.94;58,87.84,164.34,445.17,9.94;58,87.84,176.94,431.34,9.94" >
+	<analytic>
+		<title level="a" type="main">Changing remuneration systems: effects on activity in general practice</title>
+		<author>
+			<persName>
+				<forename type="first">Krasnick</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">P</forename>
+				<surname>Groenewegen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">A</forename>
+				<surname>Pedersen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Scholten</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Mooney</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Gottschau</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<forename type="middle">A</forename>
+				<surname>Flierman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">T</forename>
+				<surname>Damsgaard</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Medical Journal</title>
+		<imprint>
+			<biblScope unit="volume">360</biblScope>
+			<biblScope unit="page" from="1698" to="1701" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,201.66,473.56,9.94;58,87.84,214.26,445.10,9.94;58,87.84,226.86,184.56,9.94" >
+	<analytic>
+		<title level="a" type="main">The effect of the remuneration system on the general practitioner&apos;s choice between surgery consultations and home visits</title>
+		<author>
+			<persName>
+				<forename type="first">Kristiansen</forename>
+				<forename type="middle">I S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Holtedahl</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Epidemiology and Community Health</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page" from="481" to="484" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,251.58,473.52,9.94;58,87.84,264.18,159.12,9.94" >
+	<analytic>
+		<title level="a" type="main">Payment system reform for health care providers in Korea</title>
+		<author>
+			<persName>
+				<forename type="first">Kwon</forename>
+				<forename type="middle">S</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Policy and Planning</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="84" to="92" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,288.90,473.53,9.94;58,87.84,301.50,347.05,9.94" >
+	<analytic>
+		<title level="a" type="main">A re-examination of the meaning and importance of supplier-induced demand</title>
+		<author>
+			<persName>
+				<forename type="first">Labelle</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Stoddart</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<surname>Rice</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="page" from="347" to="368" />
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,326.10,473.35,9.94;58,87.84,338.82,155.16,9.94" >
+	<analytic>
+		<title level="a" type="main">Negotiating fees for medical specialists in the Netherlands</title>
+		<author>
+			<persName>
+				<forename type="first">Lieverdink</forename>
+				<forename type="middle">H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Maarse</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Policy</title>
+		<imprint>
+			<biblScope unit="volume">31</biblScope>
+			<biblScope unit="page" from="81" to="101" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,363.42,473.45,9.94;58,87.84,376.14,275.24,9.94" >
+	<monogr>
+		<title level="m" type="main">Policy responses to the international mobility of skilled labour. International Migration Papers No. 45. International Labour office</title>
+		<author>
+			<persName>
+				<forename type="first">Lowell</forename>
+				<forename type="middle">L B</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2001" />
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,400.74,473.55,9.94;58,87.84,413.34,445.27,9.94;58,87.84,426.06,270.65,9.94" >
+	<analytic>
+		<title level="a" type="main">Les soins de première ligne au Québec : profil des médecins omnipracticiens pratiquant en cabinet privé et en</title>
+		<author>
+			<persName>
+				<forename type="first">Maheux</forename>
+				<forename type="middle">B</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Pineault</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Lambert</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Beland</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Levesque</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">CLSC Canadian Journal of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">81</biblScope>
+			<biblScope unit="page" from="27" to="31" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,450.66,473.59,9.94;58,87.84,463.38,315.59,9.94" >
+	<analytic>
+		<title level="a" type="main">Impact of generalist physician initiatives on residency selection</title>
+		<author>
+			<persName>
+				<forename type="first">Malloy</forename>
+				<forename type="middle">M H</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">A</forename>
+				<surname>Stroup-Benham</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Medical Education Online</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">7</biblScope>
+			<biblScope unit="page" from="1" to="10" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,487.98,473.53,9.94;58,87.84,500.58,205.61,9.94" >
+	<analytic>
+		<title level="a" type="main">Notre système de santé est à la croisée des chemins</title>
+		<author>
+			<persName>
+				<forename type="first">Marchand</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Regards Economiques</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,525.30,473.56,9.94;58,87.84,537.90,445.12,9.94;58,87.84,550.62,178.53,9.94" >
+	<analytic>
+		<title level="a" type="main">Briefing note on international migration of health professionals: levelling the playing field for developing country health systems</title>
+		<author>
+			<persName>
+				<forename type="first">Martineau</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Decker</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Bundred</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Liverpool School of Tropical Medicine</title>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,575.22,473.61,9.94;58,87.84,587.82,224.27,9.94" >
+	<monogr>
+		<title level="m" type="main">The physician workforce in the United Kingdom: issues, prospects, and policies. The Nuffield Trust</title>
+		<author>
+			<persName>
+				<forename type="first">Maynard</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Walker</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<pubPlace>Leeds</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,612.54,473.49,9.94;58,87.84,625.14,205.44,9.94" >
+	<analytic>
+		<title level="a" type="main">The economic determinants of specialty choice by medical residents</title>
+		<author>
+			<persName>
+				<forename type="first">Mckay</forename>
+				<forename type="middle">N L</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="335" to="357" />
+			<date type="published" when="1990" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,649.86,473.56,9.94;58,87.84,662.46,79.92,9.94" >
+	<analytic>
+		<title level="a" type="main">Drop out rate in medical schools seems reasonable</title>
+		<author>
+			<persName>
+				<forename type="first">Mcmanus</forename>
+				<forename type="middle">I C</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Medical Journal</title>
+		<imprint>
+			<biblScope unit="volume">313</biblScope>
+			<biblScope unit="page">173</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,687.18,473.48,9.94;58,87.84,699.78,254.50,9.94" >
+	<analytic>
+		<title level="a" type="main">Planning the medical workforce: second report. Department of Health</title>
+	</analytic>
+	<monogr>
+		<title level="j">MEDICAL WORKFORCE STANDING ADVISORY COMMITTEE</title>
+		<imprint>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="58,59.52,724.38,473.49,9.94;58,87.84,737.10,248.58,9.94" >
+	<analytic>
+		<title level="a" type="main">Planning the medical workforce. Third report. Department of Health</title>
+	</analytic>
+	<monogr>
+		<title level="j">MEDICAL WORKFORCE STANDING ADVISORY COMMITTEE</title>
+		<imprint>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,385.08,64.86,145.04,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Delsa / Hea / Wd /</forename>
+				<surname>Hwp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,101.70,473.45,9.94;59,87.84,114.30,178.14,9.94" >
+	<analytic>
+		<title level="a" type="main">New Zealand physicians 2000. New Zealand Health Information Service, Ministry of Health</title>
+	</analytic>
+	<monogr>
+		<title level="j">MINISTRY OF HEALTH</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,139.02,473.47,9.94;59,87.84,151.62,445.24,9.94;59,87.84,164.34,394.05,9.94" >
+	<analytic>
+		<title level="a" type="main">Does a year make a difference? Changes in physician satisfaction and perception in an increasingly capitated environment</title>
+		<author>
+			<persName>
+				<forename type="first">Nadler</forename>
+				<forename type="middle">E S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Sims</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<forename type="middle">H</forename>
+				<surname>Tyrance</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">G</forename>
+				<surname>Fairchild</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">A</forename>
+				<surname>Brennan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">W</forename>
+				<surname>Bates</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">107</biblScope>
+			<biblScope unit="page" from="38" to="44" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,188.94,379.67,9.94" >
+	<analytic>
+		<title level="a" type="main">Why is There a Quality Chasm?</title>
+		<author>
+			<persName>
+				<forename type="first">Newhouse</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Jp</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="13" to="25" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,213.66,469.36,9.94;59,87.84,226.26,160.68,9.94" >
+	<analytic>
+		<title level="a" type="main">The regional distribution of doctors in Mexico, 1930-1990: a policy assessment</title>
+		<author>
+			<persName>
+				<forename type="first">Nigenda</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Policy</title>
+		<imprint>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="page" from="107" to="122" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,250.86,473.50,9.94;59,87.84,263.58,216.47,9.94" >
+	<analytic>
+		<title level="a" type="main">New directions in health care policy</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Health Policy Studies</title>
+		<imprint>
+			<publisher>Organisation for Economic Co-operation and Development</publisher>
+			<biblScope unit="issue">7</biblScope>
+			<date type="published" when="1995" />
+			<publisher>Organisation for Economic Co-operation and Development</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,288.18,473.43,9.94;59,87.84,300.90,24.83,9.94" >
+	<analytic>
+		<title level="a" type="main">Ageing and income. Financial resources and retirement in 9 OECD member countries</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,325.50,473.57,9.94;59,87.84,338.10,89.62,9.94" >
+	<analytic>
+		<title level="a" type="main">Health at a Glance</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD OECD Indicators</title>
+		<imprint>
+			<publisher>Organisation for Economic Co-operation and Development</publisher>
+			<date type="published" when="2003" />
+			<publisher>Organisation for Economic Co-operation and Development</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,362.82,473.48,9.94;59,87.84,375.42,267.73,9.94" >
+	<analytic>
+		<title level="a" type="main">Health care systems: lessons from the reform experience. Organisation for Economic Cooperation and Development</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">1</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,400.14,473.56,9.94;59,87.84,412.74,259.26,9.94" >
+	<analytic>
+		<title level="a" type="main">Exploring the effects of health care on mortality across OECD countries</title>
+		<author>
+			<persName>
+				<forename type="first">Or</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Labour Market and Social Policy Occasional Papers</title>
+		<imprint>
+			<biblScope unit="issue">46</biblScope>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,437.34,473.59,9.94;59,87.84,450.06,156.58,9.94" >
+	<analytic>
+		<title level="a" type="main">Intake, output, and drop-out in United Kingdom medical schools</title>
+		<author>
+			<persName>
+				<forename type="first">Parkhouse</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Medical Journal</title>
+		<imprint>
+			<biblScope unit="volume">312</biblScope>
+			<biblScope unit="page">885</biblScope>
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,474.66,473.47,9.94;59,87.84,487.38,155.99,9.94" >
+	<analytic>
+		<title level="a" type="main">Career preferences of medical students: some further answers</title>
+		<author>
+			<persName>
+				<forename type="first">Pitts</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of General Practice</title>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+			<biblScope unit="page">184</biblScope>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,511.98,473.53,9.94;59,87.84,524.58,445.16,9.94;59,87.84,537.30,176.68,9.94" >
+	<analytic>
+		<title level="a" type="main">Eliminating primary care health professional shortage areas: the impact of title VII generalist physician education</title>
+		<author>
+			<persName>
+				<forename type="first">Politzer</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<forename type="middle">S</forename>
+				<surname>Hardwick</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">M</forename>
+				<surname>Cultice</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Bazell</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Rural Health</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="11" to="20" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,561.90,473.43,9.94;59,87.84,574.62,445.16,9.94;59,87.84,587.22,181.80,9.94" >
+	<analytic>
+		<title level="a" type="main">Recruitment, retention, and follow-up of graduates of a program to increase the number of family physicians in rural and underserved areas</title>
+		<author>
+			<persName>
+				<forename type="first">Rabinowitz</forename>
+				<forename type="middle">H K</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">328</biblScope>
+			<biblScope unit="issue">13</biblScope>
+			<biblScope unit="page" from="934" to="939" />
+			<date type="published" when="1993" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,611.82,473.50,9.94;59,87.84,624.54,445.18,9.94;59,87.84,637.14,302.32,9.94" >
+	<analytic>
+		<title level="a" type="main">Demographic, educational and economic factors related to recruitment and retention of physicians in rural Pennsylvania</title>
+		<author>
+			<persName>
+				<forename type="first">Rabinowitz</forename>
+				<forename type="middle">H K</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">J</forename>
+				<surname>Diamond</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Hojat</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">E</forename>
+				<surname>Hazelwood</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Rural Health</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="212" to="218" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,661.86,473.47,9.94;59,87.84,674.46,445.17,9.94;59,87.84,687.18,202.26,9.94" >
+	<analytic>
+		<title level="a" type="main">The effect of capitated and fee-for-service remuneration on physician decision making in gynecology</title>
+		<author>
+			<persName>
+				<forename type="first">Ransom</forename>
+				<forename type="middle">S B</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">G</forename>
+				<surname>Mcneeley</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">L</forename>
+				<surname>Kruger</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Doot</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">B</forename>
+				<surname>Cotton</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Obstetrics and Gynecology</title>
+		<imprint>
+			<biblScope unit="volume">87</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="707" to="710" />
+			<date type="published" when="1996" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="59,59.52,711.78,473.52,9.94;59,87.84,724.38,445.23,9.94;60,87.84,101.70,445.18,9.94;60,87.84,114.30,24.84,9.94" >
+	<monogr>
+		<title level="m" type="main">Another search for supplier-induced demand in a health care system with fixed fees. Poster presented at the International Health Economics Association Fourth International Conference &apos;Global health economics: bridging research and reforms</title>
+		<author>
+			<persName>
+				<forename type="first">Riedel</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003-06" />
+			<biblScope unit="page" from="15" to="18" />
+			<pubPlace>San Francisco, U.S.A</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,139.02,473.49,9.94;60,87.84,151.62,445.14,9.94;60,87.84,164.34,372.21,9.94" >
+	<analytic>
+		<title level="a" type="main">Finding solutions to the rural doctor shortage; the roles of selection versus undergraduate medical education at Newcastle</title>
+		<author>
+			<persName>
+				<forename type="first">Rolfe</forename>
+				<forename type="middle">I E</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">A</forename>
+				<surname>Pearson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">L</forename>
+				<surname>O &apos;connell</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Dickinson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Australian and New Zealand Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page" from="512" to="517" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,188.94,473.48,9.94;60,87.84,201.66,160.75,9.94" >
+	<analytic>
+		<title level="a" type="main">The NHS plan. A plan for investment. A plan for reform</title>
+		<author>
+			<persName>
+				<forename type="first">Secretary</forename>
+				<surname>Of</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>For</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Health</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">London: HMSO (Cm</title>
+		<imprint>
+			<biblScope unit="volume">4818</biblScope>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,226.26,473.51,9.94;60,87.84,238.86,256.98,9.94" >
+	<analytic>
+		<title level="a" type="main">A longitudinal study of the effects of age and time to death on hospital costs</title>
+		<author>
+			<persName>
+				<forename type="first">Seshamani</forename>
+				<forename type="middle">M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">M</forename>
+				<surname>Gray</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Economics</title>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>in. press</note>
+</biblStruct>
+
+<biblStruct coords="60,59.52,263.58,473.57,9.94;60,87.84,276.18,412.78,9.94" >
+	<analytic>
+		<title level="a" type="main">National survey of job satisfaction and retirement intentions among general practitioners in England</title>
+		<author>
+			<persName>
+				<forename type="first">Sibbald</forename>
+				<forename type="middle">B</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Bojke</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Gravelle</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Medical Journal</title>
+		<imprint>
+			<biblScope unit="volume">326</biblScope>
+			<biblScope unit="page">22</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,300.90,473.55,9.94;60,87.84,313.50,281.62,9.94" >
+	<analytic>
+		<title level="a" type="main">Competition and supplier-induced demand in a health care system with fixed fees</title>
+		<author>
+			<persName>
+				<forename type="first">Sorensen</forename>
+				<forename type="middle">R J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Grytten</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page" from="497" to="508" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,338.10,473.36,9.94;60,87.84,350.82,151.28,9.94" >
+	<analytic>
+		<title level="a" type="main">Service production and contract choice in primary physician services</title>
+		<author>
+			<persName>
+				<forename type="first">Sorensen</forename>
+				<forename type="middle">R J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Grytten</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Policy</title>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+	<note>In. press</note>
+</biblStruct>
+
+<biblStruct coords="60,59.52,375.42,473.51,9.94;60,87.84,388.14,445.19,9.94;60,87.84,400.74,39.36,9.94" >
+	<analytic>
+		<title level="a" type="main">Volume responses to Medicare payment reductions with multiple payers: a test of the McGuire-Pauly model</title>
+		<author>
+			<persName>
+				<forename type="first">Tai-Seale M</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T</forename>
+				<forename type="middle">H</forename>
+				<surname>Rice</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">C</forename>
+				<surname>Stearns</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="199" to="219" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,425.34,473.42,9.94;60,87.84,438.06,221.50,9.94" >
+	<analytic>
+		<title level="a" type="main">How important are economic factors in choice of medical specialty?</title>
+		<author>
+			<persName>
+				<forename type="first">Thornton</forename>
+				<forename type="middle">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Esposto</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page" from="67" to="73" />
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,462.66,473.58,9.94;60,87.84,475.38,204.74,9.94" >
+	<monogr>
+		<title level="m" type="main">Labour and social dimensions of privatization and restructuring: health care services</title>
+		<author>
+			<persName>
+				<forename type="first">Ullrich</forename>
+				<forename type="middle">G</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1997" />
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,499.98,473.52,9.94;60,87.84,512.58,445.21,9.94;60,87.84,525.30,445.11,9.94;60,87.84,537.90,202.14,9.94" >
+	<monogr>
+		<title level="m" type="main">Physician workforce Physician supply increased in metropolitan and nonmetropolitan areas but geographic disparities persisted</title>
+		<author>
+			<persName>
+				<forename type="first">United</forename>
+				<surname>States</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Accounting</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Office</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<pubPlace>Washington D.C</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Report. to the Chairman</note>
+</biblStruct>
+
+<biblStruct coords="60,59.52,562.62,473.66,9.94;60,87.84,575.22,191.62,9.94" >
+	<analytic>
+		<title level="a" type="main">Does method of surgeon payment affect surgical care?</title>
+		<author>
+			<persName>
+				<forename type="first">Wilson</forename>
+				<forename type="middle">S</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Longmire</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Surgical Research</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="457" to="468" />
+			<date type="published" when="1978" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,599.82,473.46,9.94;60,87.84,612.54,445.14,9.94;60,87.84,625.14,78.00,9.94" >
+	<analytic>
+		<title level="a" type="main">Comparison of activity level and service intensity of male and female in five fields of medicine in Ontario</title>
+		<author>
+			<persName>
+				<forename type="first">Woodward</forename>
+				<forename type="middle">C</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Hurley</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Canadian Medical Association Journal</title>
+		<imprint>
+			<biblScope unit="volume">153</biblScope>
+			<biblScope unit="issue">8</biblScope>
+			<biblScope unit="page" from="1097" to="1106" />
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,649.86,473.53,9.94;60,87.84,662.46,445.24,9.94;60,87.84,675.18,188.52,9.94" >
+	<analytic>
+		<title level="a" type="main">Debt and other influences on career choices among surgical and primary care residents in a community-based hospital system</title>
+		<author>
+			<persName>
+				<forename type="first">Woodworth</forename>
+				<forename type="middle">P A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">C</forename>
+				<surname>Chang</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">D</forename>
+				<surname>Helmer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Surgery</title>
+		<imprint>
+			<biblScope unit="volume">180</biblScope>
+			<biblScope unit="page" from="570" to="576" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="60,59.52,699.78,473.38,9.94;60,87.84,712.38,430.06,9.94" >
+	<analytic>
+		<title level="a" type="main">Counting the cost of social disadvantage in primary care: retrospective analysis of patient data</title>
+		<author>
+			<persName>
+				<forename type="first">Worrall</forename>
+				<forename type="middle">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">N</forename>
+				<surname>Rea</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Ben-Schlomo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Medical Journal</title>
+		<imprint>
+			<biblScope unit="volume">314</biblScope>
+			<biblScope unit="page" from="38" to="42" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="61,59.52,101.70,473.69,9.94;61,87.84,114.30,445.23,9.94;61,87.84,127.02,148.08,9.94" >
+	<analytic>
+		<title level="a" type="main">Physician response to Medicare fee reductions: changes in the volume of coronary artery bypass graft (CABG) surgeries in the Medicare and private sectors</title>
+		<author>
+			<persName>
+				<forename type="first">Yip</forename>
+				<forename type="middle">W C</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Health Economics</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page" from="675" to="699" />
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="61,59.52,151.62,473.55,9.94;61,87.84,164.34,387.58,9.94" >
+	<analytic>
+		<title level="a" type="main">Recruitment and retention of general practitioners in the UK: what are the problems and solutions?</title>
+		<author>
+			<persName>
+				<forename type="first">Young</forename>
+				<forename type="middle">R</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Leese</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">British Journal of General Practice</title>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="829" to="833" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="61,59.52,188.94,473.46,9.94;61,87.84,201.66,422.81,9.94" >
+	<monogr>
+		<title level="m" type="main">Ageing of population and health care expenditure: a red herring? Paper presented to Third European Conference on Health Economics</title>
+		<author>
+			<persName>
+				<forename type="first">Zweifel</forename>
+				<forename type="middle">P</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995-08" />
+			<biblScope unit="page" from="20" to="22" />
+			<pubPlace>Stockholm</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="62,59.52,64.86,145.04,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Delsa / Hea / Wd /</forename>
+				<surname>Hwp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="62,211.32,101.72,169.70,8.96;62,59.52,118.81,351.85,8.10;62,59.52,153.68,27.30,8.96;62,102.00,153.68,430.81,8.96;62,102.12,165.20,430.79,8.96;62,102.12,176.72,274.61,8.96;62,59.52,194.24,27.30,8.96;62,102.00,194.24,430.78,8.96;62,102.12,205.76,53.53,8.96;62,59.52,223.28,27.30,8.96;62,102.00,223.28,430.75,8.96;62,102.12,234.68,79.65,8.96;62,59.52,252.20,27.30,8.96;62,102.00,252.20,430.87,8.96;62,102.12,263.72,160.74,8.96;62,59.52,281.23,27.30,8.96;62,102.00,281.23,430.75,8.96;62,102.12,292.75,194.97,8.96;62,59.52,310.27,27.30,8.96;62,102.00,310.27,430.86,8.96;62,102.12,321.67,352.03,8.96;62,59.52,339.19,27.30,8.96;62,102.00,339.19,431.00,8.96;62,102.12,350.72,342.09,8.96;62,59.52,368.24,27.30,8.96;62,102.00,368.24,431.01,8.96;62,102.12,379.76,304.49,8.96;62,59.52,397.28,27.30,8.96;62,102.00,397.28,409.16,8.96;62,59.52,414.68,27.30,8.96;62,102.00,414.68,430.97,8.96;62,102.12,426.20,344.11,8.96;62,59.52,443.72,27.30,8.96;62,102.00,443.72,430.79,8.96;62,102.12,455.24,25.14,8.96;62,59.52,472.76,22.26,8.96;62,102.00,472.76,430.72,8.96;62,102.12,484.16,76.02,8.96;62,59.52,501.67,22.26,8.96;62,102.00,501.67,430.89,8.96;62,102.12,513.19,54.33,8.96;62,59.52,530.71,22.26,8.96;62,102.00,530.71,430.94,8.96;62,102.12,542.23,159.64,8.96;62,59.52,559.75,22.26,8.96;62,102.00,559.75,430.90,8.96;62,102.12,571.15,270.73,8.96;62,59.52,588.67,22.26,8.96;62,102.00,588.67,430.78,8.96;62,102.12,600.19,430.87,8.96;62,102.12,611.71,25.50,8.96;62,59.52,629.23,22.26,8.96;62,102.00,629.23,431.12,8.96;62,102.12,640.75,227.44,8.96;62,59.52,658.15,22.26,8.96;62,102.01,658.15,430.78,8.96;62,102.12,669.90,430.85,9.94;62,102.12,682.40,78.80,8.96;62,59.52,699.80,22.26,8.96;62,102.00,699.80,377.42,8.96;62,59.52,717.32,22.26,8.96;62,102.00,717.32,431.06,8.96;62,102.12,728.84,345.52,8.96" >
+	<analytic>
+		<title level="a" type="main">Nicole Tapay and Francesca Colombo No Eva Orosz and David Morgan No. 15 PRIVATE HEALTH Francesca Colombo and Nicole Tapay No. 14 INCOME-RELATED INEQUALITY IN THE USE OF MEDICAL CARE Eddy van Doorslaer, Cristina Masseria and the OECD Health Equity Research Group No. 13 DEMENTIA CARE IN 9 OECD COUNTRIES: A COMPARATIVE Pierre Moise, Michael Schwarzinger, Myung-Yong Um and the Dementia Experts&apos; Group No. 12</title>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+				<surname>Health</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Papers</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Consumer</forename>
+				<surname>Papers</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Direction</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Choice</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Long-Term</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Care</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Older Persons</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Including</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>For</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Care</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>How</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>It</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Improve</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Outcomes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Employment</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Jens</forename>
+				<surname>Fiscal</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Insurance</forename>
+				<surname>Lundsgaard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>In</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="middle">A</forename>
+				<surname>Netherlands</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Case</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Skill-Mix</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Policy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>In</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">James</forename>
+				<surname>Health</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Lynn</forename>
+				<surname>Buchan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Sha-Based</forename>
+				<surname>Calman No</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>National</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Accounts</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Thirteen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Countries</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>In</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Countries</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>The</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Benefits</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Costs</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Individuals</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Jeremy</forename>
+				<surname>Health</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Luigi</forename>
+				<surname>Hurst</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Siciliani</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">this series can be found on the OECD website: www.oecd Stéphane Jacobzone and the ARD-Stroke Experts Group and Stéphane Jacobzone No. 3 OECD STUDY OF CROSS-NATIONAL DIFFERENCES IN THE TREATMENT, COSTS AND OUTCOMES OF ISCHAEMIC HEART DISEASE (2003) Pierre Moise, Stéphane Jacobzone and the ARD- IHD Experts Group No. 2 INVESTMENT IN POPULATION HEALTH IN FIVE OECD COUNTRIES Bennett No. 1 PHARMACEUTICAL USE AND EXPENDITURE FOR CARDIOVASCULAR DISEASE AND STROKE: A STUDY OF 12 OECD COUNTRIES</title>
+		<meeting><address><addrLine>Lynelle Moon, Pierre Moïse ; Jeremy Hurst</addrLine></address></meeting>
+		<imprint>
+			<publisher>Michael Dickson Michael Dickson and Stéphane Jacobzone</publisher>
+			<date type="published" when="2003-01" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

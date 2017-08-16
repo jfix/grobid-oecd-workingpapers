@@ -1,0 +1,1603 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_18"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="50,59.52,195.96,440.39,12.22;50,87.84,208.56,219.56,12.22" >
+	<analytic>
+		<title level="a" type="main">Ageing and Carers: Summary of Findings</title>
+	</analytic>
+	<monogr>
+		<title level="m">Disability</title>
+		<meeting><address><addrLine>0, ABS, Canberra</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,233.28,453.90,12.22" >
+	<analytic>
+		<title level="a" type="main">Private Health Insurance: a Snapshot</title>
+	</analytic>
+	<monogr>
+		<title level="j">ABS</title>
+		<imprint>
+			<biblScope unit="page" from="2004" to="2009" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,257.88,445.00,12.22" >
+	<analytic>
+		<title level="a" type="main">Self-Assessed Health in Australia: a Snapshot</title>
+	</analytic>
+	<monogr>
+		<title level="j">ABS</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,282.60,446.04,12.22;50,87.84,295.20,108.86,12.22" >
+	<analytic>
+		<title level="a" type="main">Glossary of Terms Commonly Used in Health Care</title>
+	</analytic>
+	<monogr>
+		<title level="j">Academy Health</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,319.92,468.58,12.22;50,87.84,332.52,37.09,12.22" >
+	<monogr>
+		<title level="m" type="main">Independent Inquiry into Inequalities in Health: Report, The Stationery Office</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Acheson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1998" />
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,357.12,443.75,12.22;50,87.84,369.84,316.07,12.22" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">AHRQAgency for Healthcare Research and Quality) National Healthcare Disparities Report</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,394.44,456.41,12.22;50,87.84,407.16,264.36,12.22" >
+	<analytic>
+		<title level="a" type="main">Healthy Life Expectancy by Area Deprivation: Magnitude and Trends in England</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Bajekal</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Statistics Quarterly</title>
+		<imprint>
+			<biblScope unit="issue">25</biblScope>
+			<biblScope unit="page" from="18" to="27" />
+			<date type="published" when="1994" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,431.76,443.16,12.22;50,87.84,444.36,163.07,12.22" >
+	<analytic>
+		<title level="a" type="main">Financial Burden of Health Care</title>
+		<author>
+			<persName>
+				<surname>Banthin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="188" to="195" />
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,469.08,466.06,12.22;50,87.84,481.68,102.71,12.22" >
+	<monogr>
+		<title level="m" type="main">The Burden of Disease and Injury in Australia 2003, Australian Institute of Health and Welfare</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Begg</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<pubPlace>Canberra</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,506.40,462.10,12.22;50,87.84,519.00,52.32,12.22" >
+	<analytic>
+		<title level="a" type="main">Inequalities in Health Care: a Five-Country Survey</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Blendon</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page" from="182" to="91" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,543.60,464.52,12.22;50,87.84,556.32,393.84,12.22" >
+	<analytic>
+		<title level="a" type="main">National Scorecard on U.S. Health System Performance, 2008: Chartpack, The Commonwealth Fund</title>
+	</analytic>
+	<monogr>
+		<title level="j">Commonwealth Fund</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Available. online at www.commonwealthfund.org</note>
+</biblStruct>
+
+<biblStruct coords="50,59.52,580.92,464.25,12.22;50,87.84,593.64,436.81,12.22" >
+	<analytic>
+		<title level="a" type="main">Trends in Healthy Life Expectancy in the United States</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">M Y</forename>
+				<surname>Crimmins</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Saito</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Gender, Racial, and Educational Differences Social Science &amp; Medicine</title>
+		<imprint>
+			<biblScope unit="volume">52</biblScope>
+			<biblScope unit="page" from="1629" to="1641" />
+			<date type="published" when="1970" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,618.24,471.06,12.22;50,87.84,630.84,404.39,12.22;50,87.84,643.56,99.37,12.22" >
+	<analytic>
+		<title level="a" type="main">Closing the Gap in a Generation: Health Equity through Action on the Social Determinants of Health</title>
+	</analytic>
+	<monogr>
+		<title level="j">CSDH Final Report of the Commission on Social Determinants of Health</title>
+		<imprint>
+			<publisher>World Health Organization</publisher>
+			<date type="published" when="2008" />
+			<publisher>World Health Organization</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,668.16,443.07,12.22;50,87.84,680.88,326.40,12.22" >
+	<analytic>
+		<title level="a" type="main">Tackling Health Inequalities: a Programme for Action, DoH, London. Available online at www</title>
+	</analytic>
+	<monogr>
+		<title level="j">Health</title>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="50,59.52,705.48,449.52,12.22;50,87.84,718.08,150.35,12.22;50,87.84,730.80,410.28,12.22" >
+	<monogr>
+		<title level="m" type="main">Health Inequality Target Monitoring: Update to Include Data for Available online at www.dh.gov.uk</title>
+		<author>
+			<persName>
+				<surname>Department</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Health</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Publicationsandstatistics/Publications/PublicationsStatistics</publisher>
+			<pubPlace>DoH, London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,99.36,451.15,12.22;51,87.84,111.96,209.47,12.22" >
+	<analytic>
+		<title level="a" type="main">Tackling Health Inequalities: 2007 Status Report on the Programme for Action</title>
+	</analytic>
+	<monogr>
+		<title level="j">Health Health Inequalities Unit</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,136.56,464.31,12.22;51,87.84,149.28,312.84,12.22" >
+	<monogr>
+		<title level="m" type="main">Strategic Plan of the Task Force on Health Expectancies Available online at www.tf-he</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,173.88,469.04,12.22;51,87.84,186.60,334.06,12.22" >
+	<analytic>
+		<title level="a" type="main">Health Status and Living Conditions in an Enlarged Europe</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Observatory on the Social Situation London School of Economics and Political Science</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,211.20,441.52,12.22;51,87.84,223.92,440.18,12.22" >
+	<analytic>
+		<title level="a" type="main">Higher Mortality in Areas of Lower Socioeconomic Position Measured by a Single Index of Deprivation in Japan</title>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Fukuda</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Nakamura</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">&amp;</forename>
+				<forename type="middle">T</forename>
+				<surname>Takano</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health</title>
+		<imprint>
+			<biblScope unit="volume">121</biblScope>
+			<biblScope unit="page" from="163" to="73" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,248.52,457.40,12.22;51,87.84,261.12,251.97,12.22" >
+	<analytic>
+		<title level="a" type="main">Coverage of Cervical Cancer Screening in 57 Countries: Low Average Levels and Large Inequalities</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Gakidou</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PLoS Medicine</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="863" to="868" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,285.84,440.38,12.22;51,87.84,298.44,426.49,12.22;51,87.84,311.16,184.10,12.22" >
+	<analytic>
+		<title level="a" type="main">Recent Trends in Research on Health Equity Equitable access: Research Challenges for Health in Developing Countries</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">R</forename>
+				<surname>Gwatkin</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">In: Global Forum Update on Research for Health</title>
+		<imprint>
+			<publisher>Pro-Book Publishing</publisher>
+			<biblScope unit="volume">4</biblScope>
+			<date type="published" when="2007" />
+			<publisher>Pro-Book Publishing</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,335.76,472.71,12.22;51,87.84,348.36,364.78,12.22" >
+	<monogr>
+		<title level="m" type="main">Methods for Measuring Cancer Disparities: Using Data Relevant to Healthy People 2010 Cancer-Related Objectives, National Cancer Institute</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">J</forename>
+				<surname>Harper</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Lynch</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+			<pubPlace>Bethesda, MD</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,373.08,455.64,12.22;51,87.84,385.68,144.29,12.22" >
+	<analytic>
+		<title level="a" type="main">Healthy Canadians – A Federal Report on Comparable Health Indicators</title>
+	</analytic>
+	<monogr>
+		<title level="j">Health Canada Health Canada</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,410.40,470.60,12.22;51,87.84,423.00,200.73,12.22" >
+	<analytic>
+		<title level="a" type="main">Medical Debt and Access to Health Care</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Hoffman</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Kaiser Commission on Medicaid and the Uninsured</title>
+		<meeting><address><addrLine>Washington</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005-09" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,447.60,462.25,12.22;51,87.84,460.32,307.32,12.22" >
+	<analytic>
+		<title level="a" type="main">Social Class Inequalities in Self-Rated Health and their Gender and Age Group Differences in Japan</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Honjo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page" from="223" to="232" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,484.93,467.37,12.22;51,87.84,497.65,405.19,12.22" >
+	<monogr>
+		<title level="m" type="main">Quality in and Equality of Access to Healthcare Services, European Commission Directorate-General for Employment, Social Affairs and Equal Opportunities</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Huber</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>Luxembourg</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,522.25,447.73,12.22;51,87.84,534.85,209.74,12.22" >
+	<monogr>
+		<title level="m" type="main">Health Inequalities: a Challenge for Europe</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Judge</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Central Office for Information</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,559.57,437.30,12.22;51,87.84,572.17,313.72,12.22" >
+	<monogr>
+		<title level="m" type="main">La complémentaire santé en France en 2006 : un accès qui reste inégalitaire &quot; , Questions d&apos;économie de la sante</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Kambia-Chopin</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>IRDES, Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,596.89,435.80,12.22;51,87.84,609.48,202.30,12.22" >
+	<analytic>
+		<title level="a" type="main">Health Disparities by Race and Class: why both Matter</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Kawachi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Daniels</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">&amp; D</forename>
+				<forename type="middle">E</forename>
+				<surname>Robinson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page" from="343" to="352" />
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,634.09,430.96,12.22;51,87.84,646.81,314.64,12.22" >
+	<analytic>
+		<title level="a" type="main">A Glossary for Health Inequalities</title>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Kawachi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">V</forename>
+				<surname>Subramanian</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">&amp;</forename>
+				<forename type="middle">N</forename>
+				<surname>Almeida-Filho</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Epidemiology and Community Health</title>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+			<biblScope unit="page" from="647" to="652" />
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,671.41,463.46,12.22;51,87.84,684.13,414.70,12.22" >
+	<analytic>
+		<title level="a" type="main">Trends in Socioeconomic Health Inequalities in Korea: Use of Mortality and Morbidity Measures</title>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<forename type="middle">H</forename>
+				<surname>Khang</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Epidemiology and Community Health</title>
+		<imprint>
+			<biblScope unit="volume">58</biblScope>
+			<biblScope unit="page" from="308" to="314" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="51,59.52,708.73,437.26,12.22;51,87.84,721.45,297.95,12.22" >
+	<analytic>
+		<title level="a" type="main">The Fall and Rise of US Inequities in Premature Mortality</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Krieger</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">PloS Medicine</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="1960" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,99.36,459.93,12.22;52,87.84,111.96,244.10,12.22" >
+	<monogr>
+		<title level="m" type="main">Measuring Socioeconomic Inequalities in Health, World Health Organization Regional Office for Europe</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">E J P</forename>
+				<surname>Kunst</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Mackenbach</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1995" />
+			<pubPlace>Copenhagen</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,136.56,444.81,12.22;52,87.84,149.28,425.18,12.22;52,87.84,161.88,290.65,12.22" >
+	<analytic>
+		<title level="a" type="main">Balestat, and the Disability Study Expert Group Members</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Lafortune</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Trends in Severe Disability among Elderly People: Assessing the Evidence in 12 OECD Countries and the Future Implications</title>
+		<meeting><address><addrLine>Paris</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD</publisher>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,186.60,453.83,12.22;52,87.84,199.20,126.73,12.22" >
+	<monogr>
+		<title level="m" type="main">Global Burden of Disease and Risk Factors, The World Bank</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">D</forename>
+				<surname>Lopez</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,223.92,454.29,12.22;52,87.84,236.52,165.58,12.22" >
+	<analytic>
+		<title level="a" type="main">Benchmarking of Performance of Mexican States with Effective Coverage</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Lozano</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The Lancet</title>
+		<imprint>
+			<biblScope unit="volume">368</biblScope>
+			<biblScope unit="page" from="1729" to="1741" />
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,261.12,441.64,12.22;52,87.84,273.84,425.63,12.22;52,87.84,286.44,188.50,12.22" >
+	<analytic>
+		<title level="a" type="main">Measuring the Magnitude of Socio-Economic Inequalities in Health: an Overview of Available Measures Illustrated with two Examples from Europe</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A E</forename>
+				<surname>Mackenbach</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Kunst</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science &amp; Medicine</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="page" from="757" to="771" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,311.16,459.59,12.22" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Mackenbach</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Health Inequalities: Europe in Profile, UK Presidency of the EU 2005</title>
+		<meeting><address><addrLine>London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,335.76,460.16,12.22;52,87.84,348.36,418.42,12.22;52,87.84,361.08,49.17,12.22" >
+	<monogr>
+		<title level="m" type="main">Tackling Health Inequalities in Europe: an Integrated Approach</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Mackenbach</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Eurothine Project</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Members</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+			<pubPlace>Rotterdam</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,385.69,436.17,12.22;52,87.84,398.41,287.18,12.22" >
+	<analytic>
+		<title level="a" type="main">Socioeconomic Inequalities in Health in 22 European Countries</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Mackenbach</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">The New England Journal of Medicine</title>
+		<imprint>
+			<biblScope unit="volume">358</biblScope>
+			<biblScope unit="page" from="2468" to="2481" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,423.01,437.65,12.22;52,87.84,435.61,414.68,12.22;52,87.84,448.33,99.87,12.22" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">P</forename>
+				<surname>Mackenbach</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">J</forename>
+				<surname>Meerding</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">&amp;</forename>
+				<forename type="middle">A E</forename>
+				<surname>Kunst</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Economic Implications of Socio-Economic Inequalities in Health in the European Union, EC Health &amp; Consumer Protection Directorate- General</title>
+		<meeting><address><addrLine>Luxembourg</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,472.93,392.40,12.22;52,87.84,485.65,342.24,12.22" >
+	<monogr>
+		<title level="m" type="main">Racial and Ethnic Disparities in U.S. Health Care: a Chartbook. The Commonwealth Fund</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Mead</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Available. online at www.commonwealthfund.org</note>
+</biblStruct>
+
+<biblStruct coords="52,59.52,510.24,465.84,12.22;52,87.84,522.84,417.10,12.22;52,87.84,535.56,305.50,12.22" >
+	<analytic>
+		<title level="a" type="main">Self-Rated Health Status as a Health Measure: the Predictive Value of Self- Reported Health Status on the Use of Physician Services and on Mortality in the Working-Age Population</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Miilunpalo</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Clinical Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">50</biblScope>
+			<biblScope unit="page" from="517" to="528" />
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,560.16,425.29,12.22;52,87.84,572.88,376.80,12.22" >
+	<analytic>
+		<title level="a" type="main">The Widening Gap in Mortality by Educational Level in the Russian Federation</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Murphy</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">American Journal of Public Health</title>
+		<imprint>
+			<biblScope unit="volume">96</biblScope>
+			<biblScope unit="page" from="1293" to="1299" />
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,597.48,420.87,12.22;52,87.84,610.08,211.13,12.22" >
+	<monogr>
+		<title level="m" type="main">Summary Measures of Population Health: Concepts, Ethics, Measurement and Applications</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">J L</forename>
+				<surname>Murray</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<pubPlace>Geneva</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,634.80,450.51,12.22;52,87.84,647.40,20.50,12.22" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Health, United States</title>
+		<meeting><address><addrLine>NCHS, Hyattsville, MD</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,672.12,446.55,12.22;52,87.84,684.72,144.54,12.22" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Health Statistics in the Nordic Countries</title>
+		<meeting><address><addrLine>NOMESCO, Copenhagen</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="52,59.52,709.44,466.68,12.22;52,87.84,722.04,246.57,12.22" >
+	<analytic>
+		<title level="a" type="main">A Portrait of Health. Key Results of the</title>
+		<author>
+			<persName>
+				<forename type="first">Nz</forename>
+				<surname>Moh</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">New Zealand Ministry of Health)</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,99.36,427.56,12.22;53,87.84,111.96,305.15,12.22" >
+	<monogr>
+		<title level="m" type="main">Analyzing Health Equity Using Household Survey Data: A Guide to Techniques and their Implication</title>
+		<author>
+			<persName>
+				<forename type="first">O &apos;</forename>
+				<surname>Donnell</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>The World Bank</publisher>
+			<pubPlace>Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,136.56,455.22,12.22;53,87.84,149.28,138.91,12.22" >
+	<analytic>
+		<title level="a" type="main">Transforming Disability into Ability: Policies to Promote Work and Income Security for Disabled People</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,173.88,326.21,12.22" >
+	<analytic>
+		<title level="a" type="main">Towards High-Performing Health Systems</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,198.60,395.79,12.22" >
+	<analytic>
+		<title level="a" type="main">Towards High-Performing Health Systems: Policy Studies</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,223.20,340.25,12.22" >
+	<analytic>
+		<title level="a" type="main">Private Health Insurance in OECD Countries</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,247.92,331.37,12.22" >
+	<analytic>
+		<title level="a" type="main">Health at a Glance</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Indicators, OECD</publisher>
+			<date type="published" when="2007" />
+			<publisher>OECD Indicators, OECD</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,272.53,399.92,12.22" >
+	<analytic>
+		<title level="a" type="main">Society at a Glance</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<publisher>OECD Social Indicators</publisher>
+			<date type="published" when="2006" />
+			<publisher>OECD Social Indicators</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,297.13,437.97,12.22;53,87.84,309.85,60.37,12.22" >
+	<analytic>
+		<title level="a" type="main">The Looming Crisis in the Health Workforce: How can OECD Countries Respond?</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,334.45,444.64,12.22;53,87.84,347.16,374.03,12.23" >
+	<analytic>
+		<title level="a" type="main">Analysis of Past and Projected Future Trends in Obesity in the OECD Area</title>
+	</analytic>
+	<monogr>
+		<title level="j">OECD</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,371.76,458.40,12.22;53,87.84,384.36,238.12,12.22" >
+	<analytic>
+		<title level="a" type="main">Variations Persist in Life Expectancy by Social Class</title>
+	</analytic>
+	<monogr>
+		<title level="j">Office of National Statistics (ONS) Longitudinal Study</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,409.08,444.39,12.22;53,87.84,421.68,238.82,12.22" >
+	<monogr>
+		<title level="m" type="main">Impact of Health Care System on Socioeconomic Inequalities in Doctor Use, Working Paper DT no</title>
+		<author>
+			<persName>
+				<forename type="first">Z</forename>
+				<surname>Or</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Jusot</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">&amp;</forename>
+				<forename type="middle">E</forename>
+				<surname>Yilmaz</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<pubPlace>17, IRDES, Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,446.40,461.88,12.22;53,87.84,459.00,296.86,12.22" >
+	<analytic>
+		<title level="a" type="main">The Chief Public Health Officer&apos;s Report on the State of Public Health in Canada</title>
+	</analytic>
+	<monogr>
+		<title level="j">Public Health Agency of Canada</title>
+		<imprint>
+			<publisher>Public Health Agency of Canada</publisher>
+			<date type="published" when="2008" />
+			<publisher>Public Health Agency of Canada</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,483.60,451.93,12.22;53,87.84,496.32,34.68,12.22" >
+	<monogr>
+		<title level="m" type="main">Joint Canada/United States Survey of Health</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Sanmartin</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+			<biblScope unit="page" from="2002" to="2005" />
+			<pubPlace>Statistics Canada, Ottawa</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,520.92,458.66,12.22;53,87.84,533.64,212.56,12.22" >
+	<analytic>
+		<title level="a" type="main">Methods for Measuring Health Inequalities</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">C</forename>
+				<surname>Schneider</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Epidemiological Bulletin / PAHO</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">262</biblScope>
+			<biblScope unit="page" from="12" to="14" />
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,558.24,464.96,12.22;53,87.84,570.84,285.72,12.22" >
+	<analytic>
+		<title level="a" type="main">Toward Higher-Performance Health Systems: Adults&apos; Health Care Experiences in Seven Countries</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Schoen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page" from="717" to="734" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,595.56,439.34,12.22;53,87.84,608.16,159.96,12.22" >
+	<analytic>
+		<title level="a" type="main">How many are Underinsured? Trends among U.S. Adults</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Schoen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="page">298</biblScope>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,632.88,438.75,12.22;53,87.84,645.48,330.00,12.22" >
+	<analytic>
+		<title level="a" type="main">Widening Socioeconomic Inequalities in US Life Expectancy</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">K M</forename>
+				<surname>Singh</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Siahpush</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Epidemiology</title>
+		<imprint>
+			<biblScope unit="volume">35</biblScope>
+			<biblScope unit="page" from="969" to="979" />
+			<date type="published" when="1980" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,670.08,432.66,12.22;53,87.84,682.80,226.66,12.22" >
+	<analytic>
+		<title level="a" type="main">On the Measurement of Inequalities in Health</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Wagstaff</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Paci</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">&amp;</forename>
+				<forename type="middle">E</forename>
+				<surname>Van Doorslaer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Social Science and Medicine</title>
+		<imprint>
+			<biblScope unit="volume">33</biblScope>
+			<biblScope unit="page" from="545" to="557" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="53,59.52,707.40,440.31,12.22;53,87.84,720.12,380.77,12.22" >
+	<monogr>
+		<title level="m" type="main">Economic and Health Impacts of Narrower Health Inequalities in Australia The Economics of Health Reforms</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Walker</surname>
+			</persName>
+		</author>
+		<editor>J. Yfantopoulos</editor>
+		<imprint>
+			<date type="published" when="2005" />
+			<biblScope unit="page" from="263" to="282" />
+			<pubPlace>Atiner, Athens</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,99.36,470.73,12.22;54,87.84,111.96,75.82,12.22" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="m">Dutch health care performance report</title>
+		<editor>Westert, G.P. &amp; H. Verkleij</editor>
+		<meeting><address><addrLine>NIPHE, Bilthoven, The Netherlands</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,136.56,466.64,12.22;54,87.84,149.28,394.01,12.22" >
+	<monogr>
+		<title level="m" type="main">Socio-Economic Differences in Mortality: Implications for Pensions Policy</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<forename type="middle">R A</forename>
+				<surname>Whitehouse</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Zaidi</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+			<publisher>OECD Social OECD</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,173.88,452.43,12.22;54,87.84,186.61,103.71,12.22" >
+	<analytic>
+		<title level="a" type="main">International Classification of Functioning, Disability and Health</title>
+	</analytic>
+	<monogr>
+		<title level="j">WHO (World Health Organization)</title>
+		<imprint>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,211.21,318.05,12.22" >
+	<analytic>
+		<title level="a" type="main">Health Systems Performance Assessment</title>
+	</analytic>
+	<monogr>
+		<title level="j">WHO</title>
+		<imprint>
+			<date type="published" when="2003" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,235.93,264.99,12.22" >
+	<analytic>
+		<title level="a" type="main">World Health Statistics</title>
+	</analytic>
+	<monogr>
+		<title level="j">WHO</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,260.53,437.75,12.22" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">C</forename>
+				<surname>Wilkins</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Houle</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Status of Children Health Reports</title>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="25" to="34" />
+			<date type="published" when="1999" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,285.13,421.33,12.22;54,87.84,297.85,148.94,12.22" >
+	<monogr>
+		<title level="m" type="main">Socioeconomic Inequality in Health Outcomes, Health Statistics Data Users Conference</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Wilkins</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<pubPlace>Health Canada</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="54,59.52,322.45,434.16,12.22;54,87.84,335.17,107.26,12.22" >
+	<analytic>
+		<title level="a" type="main">Protecting Households from Catastrophic Health Spending</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Xu</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Health Affairs</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="issue">4</biblScope>
+			<biblScope unit="page" from="972" to="983" />
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,213.84,117.60,186.79,12.22;55,59.52,147.96,385.60,12.22;55,59.52,170.64,473.61,12.22;55,102.00,183.24,431.10,12.22;55,102.00,195.96,256.09,12.22;55,59.52,218.52,473.35,12.22;55,102.00,231.24,431.09,12.22;55,102.00,243.84,207.94,12.22;55,59.52,266.52,473.50,12.22;55,102.00,279.12,123.11,12.22;55,59.52,301.80,473.39,12.22;55,102.00,314.40,207.22,12.22;55,59.52,337.08,416.68,12.22;55,59.52,359.76,431.40,12.22;55,59.52,382.44,473.46,12.22;55,102.00,395.04,378.28,12.22;55,59.52,417.72,473.61,12.22;55,102.00,430.32,431.10,12.22;55,102.00,443.04,256.22,12.22;55,59.52,465.60,473.41,12.22;55,103.56,478.32,274.87,12.22" >
+	<analytic>
+		<title level="a" type="main">Rie Fujisawa and Gaetan Lafortune No. 40 INTERNATIONAL Valérie Paris and Elizabeth Docteur No</title>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+				<surname>Health</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Papers No</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Policies</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Healthy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>The</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Of</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Oecd</forename>
+				<surname>Practitioners</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Countries</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>What</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>The</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Explaining</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Variations</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Countries</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Of</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Professionals</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Health</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Management</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Canada Jean-Christophe</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Pascal</forename>
+				<surname>Dumont</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Jody</forename>
+				<surname>Zurn</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Christine</forename>
+				<forename type="middle">Le</forename>
+				<surname>Church</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Pharmaceutical</forename>
+				<surname>Thi</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Pricing</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Reimbursement</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>In</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Germany</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">No. 35 MISMATCHES IN THE FORMAL SECTOR, EXPANSION OF THE INFORMAL SECTOR: IMMIGRATION OF HEALTH PROFESSIONALS TO ITALY (2008) Jonathan Chaloff No. 34 THE REMUNERATION OF GENERAL PRACTITIONERS AND SPECIALISTS IN 14 OECD COUNTRIES: WHAT ARE THE FACTORS EXPLAINING VARIATIONS ACROSS COUNTRIES? (2008) Gaetan Lafortune and Rie Fujisawa No. 33 HEALTH WORKFORCE AND INTERNATIONAL MIGRATION: CAN NEW ZEALAND COMPETE?</title>
+		<editor>Linda H. Aiken and Robyn Cheung</editor>
+		<meeting><address><addrLine>Pascal Zurn and Jean-Christophe Dumont</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="55,59.52,501.00,473.54,12.22;55,103.56,513.60,238.24,12.22;55,59.52,536.28,473.50,12.22;55,103.56,548.88,216.10,12.22;55,59.52,571.56,98.33,12.22;55,173.90,571.56,41.55,12.22;55,231.50,571.56,39.12,12.22;55,286.74,571.56,78.80,12.22;55,381.60,571.56,52.55,12.22;55,450.30,571.56,39.24,12.22;55,505.58,571.56,27.51,12.22;55,103.56,584.16,374.92,12.22;55,59.52,606.84,473.53,12.22;55,103.56,619.44,429.70,12.22;55,103.56,632.16,197.09,12.22;55,59.52,654.84,473.51,12.22;55,103.56,667.44,128.60,12.22;55,59.52,690.12,473.47,12.22;55,103.56,702.72,158.25,12.22" >
+	<analytic>
+		<title level="a" type="main">Zoltán Kaló, Elizabeth Docteur and Pierre Moïse No. 30 IMPROVED HEALTH SYSTEM PERFORMANCE THROUGH BETTER CARE COORDINATION (2007) Maria M. Hofmarcher, Howard Oxley and Elena Rusticelli No. 29 HEALTH CARE QUALITY INDICATORS PROJECT</title>
+		<author>
+			<persName>
+				<forename type="first">The</forename>
+				<surname>Prevention</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Lifestyle-Related</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Chronic</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>An</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Framework</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Pricing</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Reimbursement</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>In</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Slovakia</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">and the Members of the HCQI Expert Group No. 28 PHARMACEUTICAL PRICING AND REIMBURSEMENT POLICIES IN SWEDEN</title>
+		<editor>Sandra Garcia-Armesto, Maria Luisa Gil Lapetra, Lihan Wei, Edward Kelley</editor>
+		<meeting><address><addrLine>Valérie Paris and Elizabeth Docteur</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>Pierre. Moïse and Elizabeth Docteur No. 27 PHARMACEUTICAL PRICING AND REIMBURSEMENT POLICIES IN SWITZERLAND</note>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

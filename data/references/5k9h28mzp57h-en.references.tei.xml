@@ -1,0 +1,706 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_123"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="21,211.13,229.00,22.06,7.44;21,254.78,229.00,29.41,7.44;21,308.57,229.00,29.41,7.44;21,354.05,229.00,29.41,7.44;21,405.17,229.00,20.53,7.44;21,450.05,229.00,24.97,7.44;21,497.35,229.00,24.97,7.44;21,540.07,229.00,29.41,7.44;21,589.63,229.00,24.97,7.44;21,639.19,229.00,24.97,7.44;21,688.78,229.00,24.97,7.44;21,733.30,229.00,29.41,7.44;21,76.44,240.40,153.62,7.44;21,256.58,240.40,24.48,7.44;21,310.37,240.40,24.48,7.44;21,356.09,240.40,21.36,7.44;21,402.53,240.40,27.61,7.44;21,447.41,240.40,27.61,7.44;21,494.71,240.40,27.61,7.44;21,541.87,240.40,27.61,7.44;21,586.99,240.40,27.61,7.44;21,636.55,240.40,27.61,7.44;21,686.14,240.40,27.61,7.44;21,735.10,240.40,27.61,7.44;21,76.44,251.68,96.61,7.44;21,208.22,251.68,18.72,7.44;21,259.22,251.68,18.72,7.44;21,313.01,251.68,15.62,7.44;21,358.49,251.68,24.97,7.44;21,405.17,251.68,15.62,7.44;21,451.97,251.68,15.62,7.44;21,497.35,251.68,15.62,7.44;21,547.03,251.68,15.62,7.44;21,586.99,251.68,18.26,7.44;21,636.55,251.68,18.26,7.44;21,686.14,251.68,18.26,7.44;21,738.34,251.68,15.62,7.44" >
+	<monogr>
+		<title level="m" type="main">47*** 15.71*** Long-term interest rate (change) -0.10** -0</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,76.44,263.08,61.92,7.44;21,205.58,263.08,27.61,7.44;21,256.58,263.08,27.61,7.44;21,310.37,263.08,27.61,7.44;21,355.85,263.08,27.61,7.44;21,402.53,263.08,27.61,7.44;21,447.41,263.08,27.61,7.44;21,494.71,263.08,27.61,7.44;21,541.87,263.08,27.61,7.44;21,586.99,263.08,27.61,7.44;21,636.55,263.08,27.61,7.44;21,686.14,263.08,27.61,7.44;21,735.10,263.08,27.61,7.44;21,76.44,274.38,109.51,7.44;21,205.58,274.38,21.36,7.44;21,256.58,274.38,27.61,7.44;21,310.37,274.38,21.36,7.44;21,356.09,274.38,21.36,7.44;21,402.53,274.38,27.61,7.44;21,447.41,274.38,27.61,7.44;21,494.71,274.38,27.61,7.44;21,541.87,274.38,27.61,7.44;21,586.99,274.38,27.61,7.44;21,636.55,274.38,27.61,7.44;21,686.14,274.38,27.61,7.44;21,735.10,274.38,27.61,7.44;21,76.44,285.78,70.02,7.44;21,83.28,295.02,42.18,7.44;21,205.58,285.78,21.36,7.44;21,256.58,285.78,18.26,7.44;21,310.37,285.78,18.26,7.44;21,358.73,285.78,15.62,7.44;21,402.53,285.78,24.48,7.44;21,449.33,285.78,21.36,7.44;21,494.71,285.78,24.48,7.44;21,547.03,285.78,15.62,7.44;21,586.99,285.78,27.61,7.44;21,636.55,285.78,27.61,7.44;21,686.14,285.78,27.61,7.44;21,735.70,285.78,18.26,7.44" >
+	<analytic>
+		<title level="a" type="main">28*** -0.26*** -0.28*** -0.47*** -0.24*** -0.22*** -0.24*** -0.38*** Strong left-leaning government -0*** Strong right-leaning government</title>
+	</analytic>
+	<monogr>
+		<title level="j">Inflation</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="21,76.44,304.14,90.84,7.44;21,208.22,304.14,24.97,7.44;21,405.17,304.14,21.84,7.44;21,589.63,304.14,24.97,7.44;21,76.44,315.54,108.22,7.44;21,259.22,315.54,24.97,7.44;21,450.05,315.54,24.97,7.44;21,639.19,315.54,24.97,7.44;21,76.44,326.82,167.83,7.44;21,313.01,326.82,24.97,7.44;21,497.35,326.82,24.97,7.44;21,688.78,326.82,24.97,7.44;21,76.44,338.22,134.61,7.44;21,358.73,338.22,18.72,7.44;21,544.51,338.22,24.97,7.44;21,737.74,338.22,24.97,7.44;21,76.44,349.62,32.09,7.44;21,201.14,349.62,32.05,7.44;21,253.46,349.62,32.05,7.44;21,305.93,349.62,77.53,7.44;21,402.53,349.62,27.61,7.44;21,447.41,349.62,27.61,7.44;21,494.71,349.62,27.61,7.44;21,537.43,349.62,32.05,7.44;21,586.99,349.62,27.61,7.44;21,636.55,349.62,27.61,7.44;21,686.14,349.62,27.61,7.44;21,730.66,349.62,32.05,7.44" >
+	<monogr>
+		<title level="m" type="main">60*** Expenditure and balanced budget rules dummy 0.55*** 0.51*** 0.67*** Fiscal rules index for the EU countries 0</title>
+		<imprint/>
+	</monogr>
+	<note>Expenditure. rules dummy 0.44*** 0.32** 0.42*** Balanced budget rules dummy 0.59*** 0.50*** 0</note>
+</biblStruct>
+
+<biblStruct coords="26,265.37,147.62,61.91,12.22" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Bibliography</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,195.98,473.14,12.22;26,87.86,208.58,445.09,12.23;26,87.86,223.60,38.28,9.94" >
+	<monogr>
+		<title level="m" type="main">Interactions between Monetary and Fiscal Policy: How Monetary Conditions Affect Fiscal Consolidation</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Ahrend</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Catte</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Price</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,245.90,473.58,12.23;26,87.86,260.92,87.82,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Adjustments – Why they can be Expansionary?</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Alesina</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Ardagna</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+			<biblScope unit="issue">27</biblScope>
+			<date type="published" when="1998" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,283.25,473.64,12.23;26,87.86,298.15,122.31,9.94" >
+	<monogr>
+		<title level="m" type="main">Large Changes in Fiscal Policy: Taxes versus Spending</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Alesina</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Ardagna</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,320.57,473.58,12.23;26,87.86,335.47,69.48,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Expansions and Adjustments in OECD Countries</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Alesina</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Perotti</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<date type="published" when="1995" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,357.89,473.29,12.23;26,87.86,370.49,246.26,12.23" >
+	<analytic>
+		<title level="a" type="main">Fiscal Adjustments in OECD Countries: Composition and Macroeconomic Effects</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Alesina</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Perotti</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IMF Staff Papers</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="1997" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,395.09,473.15,12.22;26,87.86,410.11,369.81,9.94" >
+	<monogr>
+		<title level="m" type="main">Determinants and Consequences of Fiscal Consolidations in OECD Countries &quot; in: European Commission: European Economy</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Ardagna</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+			<pubPlace>European Commission, Brussels</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,432.41,473.62,12.23;26,87.86,445.13,257.64,12.22;26,345.67,445.18,5.40,6.26;26,353.71,445.13,179.17,12.22;26,87.86,460.05,312.97,9.94" >
+	<monogr>
+		<title level="m" type="main">EU Fiscal Consolidation after the Financial Crisis – Lessons from Past Experiences &quot; , paper presented at the 12 th Banca d &quot; Italia Public Finance Workshop Fiscal Policy: Lessons from the Crisis held in Perugia on</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Barrios</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Langedijk</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Pench</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010-03" />
+			<biblScope unit="page" from="25" to="27" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,482.47,473.60,12.23;26,87.86,497.37,177.60,9.94" >
+	<analytic>
+		<title level="a" type="main">Prudence or Profligacy: Deficits, Debt, and Fiscal Consolidation</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Boltho</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Glyn</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Oxford Review of Economic Policy</title>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,519.67,473.62,12.23;26,87.86,534.69,235.73,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Preferences and Fiscal Performance – Swiss Cantonal Evidence</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Dafflon</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Pujol</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Public Management Review</title>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,556.99,473.55,12.23;26,87.86,572.01,217.73,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Policy Reactions to the Cycle in the OECD: Pro-or Countercyclical?</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Égert</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Economics Department Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">763</biblScope>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,594.31,473.55,12.23;26,87.86,609.21,40.15,9.94" >
+	<analytic>
+		<title level="a" type="main">European Economy – Public Finances in EMU</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Commission</title>
+		<imprint>
+			<publisher>European Commission</publisher>
+			<date type="published" when="2007" />
+			<publisher>European Commission</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,631.63,473.37,12.23;26,87.86,646.56,250.25,9.94" >
+	<monogr>
+		<title level="m" type="main">Asset-Price Cycles One-off &quot; Factors and Structural Budget Balances</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Girouard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Price</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2004" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,668.98,473.28,12.23;26,87.86,681.58,353.36,12.23" >
+	<monogr>
+		<title level="m" type="main">What Promotes Fiscal Consolidation: OECD Country Experiences</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Guichard</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Kennedy</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Wurzel</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>André</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,706.18,473.48,12.23;26,87.86,718.90,307.84,12.23" >
+	<monogr>
+		<title level="m" type="main">Fiscal Gimmickry in Europe: One-off Measures and Creative Accounting</title>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Koen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Van Den Noord</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,64.82,89.95,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,99.38,473.58,12.23;27,87.86,114.28,41.40,9.94" >
+	<analytic>
+		<title level="a" type="main">Do Fiscal Rules Cause Budgetary Outcomes?</title>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Krogstrup</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Wälti</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Choice</title>
+		<imprint>
+			<biblScope unit="volume">136</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,136.58,473.29,12.23;27,87.86,149.30,378.17,12.23" >
+	<analytic>
+		<title level="a" type="main">Exchange Rates and Fiscal Adjustments: Evidence from the OECD and Implications for the EMU</title>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Lambertini</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">A</forename>
+				<surname>Tavares</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Contributions to Macroeconomics</title>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,173.90,473.48,12.23;27,87.86,188.92,89.67,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Rules, Inertia and Discretionary Fiscal Policy</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Larch</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Salto</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Applied Economics</title>
+		<imprint>
+			<biblScope unit="volume">37</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,211.22,473.39,12.23;27,87.86,223.94,195.41,12.23" >
+	<analytic>
+		<title level="a" type="main">Good, Bad or Ugly? On the Effects of Fiscal Rules with Creative Accounting</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">M</forename>
+				<surname>Milesi-Ferretti</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IMF Working Paper</title>
+		<imprint>
+			<biblScope unit="issue">172</biblScope>
+			<date type="published" when="2000" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,248.54,473.50,12.23;27,87.86,263.44,361.02,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Adjustments and the Short-term Trade-off between Economic Growth and Equality</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Mulas-Granados</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Hacienda Pública Espaňola/Revista de Economía Pública</title>
+		<imprint>
+			<biblScope unit="volume">172</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,285.89,473.47,12.23;27,87.86,298.49,441.94,12.23" >
+	<analytic>
+		<title level="a" type="main">Fiscal Consolidation. Part 1. How Much is Needed and How to Reduce Debt to a Prudent Level?</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<surname>Sutherland</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Hoeller</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Merola</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD Economics Department Working Paper</title>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,323.21,473.48,12.23;27,87.86,335.81,207.65,12.23" >
+	<analytic>
+		<title level="a" type="main">Experience with Large Fiscal Adjustment</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">C</forename>
+				<surname>Tsibouris</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">A</forename>
+				<surname>Horton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">J</forename>
+				<surname>Flanagan</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<forename type="middle">S</forename>
+				<surname>Maliszewski</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">IMF Occasional Paper</title>
+		<imprint>
+			<biblScope unit="issue">246</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,360.41,473.33,12.23;27,87.86,373.13,154.83,12.23" >
+	<analytic>
+		<title level="a" type="main">Fiscal Consolidations: Quality, Economic Conditions and Success</title>
+		<author>
+			<persName>
+				<forename type="first">Von</forename>
+				<surname>Hagen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">R</forename>
+				<surname>Strauch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Public Choice</title>
+		<imprint>
+			<biblScope unit="volume">109</biblScope>
+			<date type="published" when="2001" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,397.73,473.38,12.23;27,87.86,410.45,445.10,12.23;27,87.86,425.35,35.88,9.94" >
+	<analytic>
+		<title level="a" type="main">Budgetary Consolidation in Europe: Quality, Economic Conditions and Persistence</title>
+		<author>
+			<persName>
+				<forename type="first">Von</forename>
+				<surname>Hagen</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<forename type="middle">H</forename>
+				<surname>Hallett</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">R</forename>
+				<surname>Strauch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the Japanese and International Economies</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,447.65,473.62,12.23;27,87.86,462.69,38.28,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Policy: Institutions versus Rules</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Wyplosz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">National Institute Economic Review</title>
+		<imprint>
+			<biblScope unit="issue">191</biblScope>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.54,484.99,473.48,12.23;27,87.86,500.01,73.08,9.94" >
+	<analytic>
+		<title level="a" type="main">Fiscal Councils: Unlovable or just Unloved?</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Wyplosz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Swedish Economic Policy Review</title>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,440.26,64.82,89.96,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Eco</forename>
+				<surname>Wkp</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

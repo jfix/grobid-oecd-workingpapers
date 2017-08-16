@@ -1,0 +1,681 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_58"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="26,441.72,125.25,73.74,8.10;26,440.28,135.57,67.36,8.10;26,428.16,145.89,91.49,8.10;26,450.96,156.21,33.24,8.10;26,486.48,154.30,10.52,5.40" >
+	<monogr>
+		<title level="m" type="main">GDP release date by National Accounts (quarter corresponding to the peak)</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,70.92,168.64,29.87,8.96;26,170.64,168.64,36.42,8.96" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Canada</title>
+		<imprint>
+			<date type="published" when="2007-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,70.92,245.44,53.56,8.96;26,170.64,245.44,36.42,8.96;26,257.16,245.44,56.23,8.96;26,362.64,245.44,35.95,8.96" >
+	<monogr>
+		<title level="m" type="main">United States</title>
+		<imprint>
+			<date type="published" when="2007-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,263.73,239.61,8.10" >
+	<monogr>
+		<title level="m" type="main">Source: OECD Main Economic Indicators, authors&apos; computations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,280.05,473.48,8.10;26,59.52,290.49,473.58,8.10;26,59.52,300.82,473.47,8.10;26,59.52,311.14,165.82,8.10" >
+	<monogr>
+		<title level="m" type="main">Notes: The difference between columns 1 and 2 corresponds to the ex-post lead of the CLI, i.e. to distance (a+c) in the chronology of events (Figure 1) The difference between columns 1 and 3 corresponds to the time required by the dating algorithm to formally identify a turning point, i.e. to distance a in the chronology of events. The difference between columns 1 and 4 corresponds to distance (a+c+d) in the chronology of events</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,208.56,339.88,175.43,8.96;26,64.20,378.40,38.79,8.96;26,144.48,368.49,78.29,8.10;26,148.92,378.81,69.54,8.10;26,157.32,389.13,52.68,8.10" >
+	<monogr>
+		<title level="m" type="main">Table 7. Identification of the 2009 trough Countries 1. Date of CLI trough</title>
+		<imprint/>
+	</monogr>
+	<note>based. on currently available data</note>
+</biblStruct>
+
+<biblStruct coords="26,250.20,368.49,72.66,8.10;26,236.16,378.81,91.67,8.10;26,262.32,389.13,39.37,8.10;26,342.60,358.17,61.12,8.10;26,345.00,368.49,56.42,8.10;26,349.32,378.81,47.82,8.10;26,343.44,389.13,59.50,8.10;26,365.16,399.57,15.88,8.10;26,422.16,363.33,82.86,8.10;26,429.84,373.65,67.36,8.10;26,417.72,383.97,91.49,8.10;26,443.52,394.29,39.83,8.10" >
+	<monogr>
+		<title level="m" type="main">Date of GDP trough and ex-post lead (number of months) 3. Date when the CLI trough was first formally identified in real time 4. GDP release date by National Accounts</title>
+		<imprint/>
+	</monogr>
+	<note>quarter. corresponding to the trough</note>
+</biblStruct>
+
+<biblStruct coords="26,64.20,412.72,29.87,8.96;26,164.88,412.72,37.62,8.96" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Canada Feb</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64.20,425.80,27.10,8.96;26,164.88,425.80,37.62,8.96" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">France</forename>
+				<surname>Feb</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64.20,438.52,37.14,8.96;26,164.88,438.52,37.62,8.96" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Germany Feb</title>
+		<imprint>
+			<date type="published" when="2009" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64.20,508.05,239.61,8.10" >
+	<monogr>
+		<title level="m" type="main">Source: OECD Main Economic Indicators, authors&apos; computations</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,64.20,524.37,433.36,8.10;26,64.20,534.69,433.41,8.10;26,64.20,545.02,433.38,8.10;26,64.20,555.46,314.49,8.10" >
+	<monogr>
+		<title level="m" type="main">Notes: The difference between columns 1 and 2 corresponds to the ex-post lead of the CLI, i.e. to distance (a+c) in the chronology of events (Figure 1) The difference between columns 1 and 3 corresponds to the time required by the dating algorithm to formally identify a turning point, i.e. to distance a in the chronology of events. The difference between columns 1 and 4 corresponds to distance (a+c+d) in the chronology of events</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,101.90,51.47,9.94" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">References</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,120.04,473.32,8.96;28,87.84,131.56,363.41,8.96" >
+	<analytic>
+		<title level="a" type="main">A Look into the Factor Model Black Box: Publication Lags and the Role of Hard and Soft Data in Forecasting GDP</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Banbura</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Rünstler</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">International Journal of Forecasting N°27</title>
+		<imprint>
+			<biblScope unit="page" from="333" to="346" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.51,149.08,473.22,8.96;28,87.83,160.60,137.55,8.96;28,87.83,172.01,243.68,8.96" >
+	<analytic>
+		<title level="a" type="main">The Current Financial Crisis: Causes and Policy Issues</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Blundell-Wignall</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Atkinson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<forename type="middle">H</forename>
+				<surname>Lee</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">OECD Journal: Financial Market Trends</title>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,189.52,473.24,8.96;28,87.84,201.04,92.14,8.96" >
+	<monogr>
+		<title level="m" type="main">Cyclical Analysis of Time Series: Selected Procedures and Computer Programs</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Bry</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Boschan</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="1971" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,218.56,473.37,8.96;28,87.84,230.08,344.58,8.96" >
+	<analytic>
+		<title level="a" type="main">Forecasting Output with the Composite Leading Index: A Real-Time Analysis</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<forename type="middle">X</forename>
+				<surname>Diebold</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<forename type="middle">D</forename>
+				<surname>Rudebusch</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of the American Statistical Association</title>
+		<imprint>
+			<biblScope unit="volume">86</biblScope>
+			<biblScope unit="page" from="415" to="603" />
+			<date type="published" when="1991" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.51,247.60,452.70,8.96;28,87.84,259.01,380.24,8.96;28,59.52,276.52,260.16,8.96;28,87.84,288.04,443.70,8.96;28,87.84,299.56,112.38,8.96" >
+	<analytic>
+		<title level="a" type="main">Joint harmonised EU programme of Business and Consumer surveys User Guide http://ec.europa.eu/economy_finance/db_indicators/surveys/documents/bcs_user_guide_en Financial Crisis Inquiry Commission Final Report http://cybercemetery.unt</title>
+	</analytic>
+	<monogr>
+		<title level="j">European Commissionpdf FCIC</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,317.08,459.25,8.96;28,87.84,328.48,67.54,8.96;28,87.84,340.01,233.25,8.96" >
+	<monogr>
+		<title level="m" type="main">Transition of the OECD CLI system to a GDP-based business cycle target</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Fulop</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Gyomai</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,357.52,473.45,8.96;28,87.84,369.04,328.39,8.96" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Gyomai</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Ahmad</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Astolfi</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">The OECD System of Composite leading indicators Chapter Eurostat Handbook on cyclical composite indicators</title>
+		<meeting><address><addrLine>Luxembourg</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+	<note>forthcoming</note>
+</biblStruct>
+
+<biblStruct coords="28,59.52,386.56,473.45,8.96;28,87.84,398.08,412.39,8.96" >
+	<monogr>
+		<title level="m" type="main">The Performance of the OECD&apos;s Composite Leading Indicator during the 2007 Financial Crisis, The Statistics Newsletter -OECD Issue No</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Gyomai</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Guidetti</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,415.48,473.35,8.96;28,87.84,427.00,374.95,8.96;28,87.84,438.52,440.92,8.96;28,87.84,450.04,19.50,8.96;28,59.52,467.56,286.54,8.96;28,87.84,479.08,225.91,8.96;28,59.52,496.48,232.99,8.96;28,87.85,508.00,230.82,8.96;28,59.52,525.52,323.57,8.96;28,87.84,537.04,443.12,8.96;28,87.84,548.56,15.06,8.96;28,59.52,565.96,257.71,8.96;28,87.85,577.48,230.83,8.96" >
+	<analytic>
+		<title level="a" type="main">Cycle Extraction: A comparison of the Phase-Average Trend Method, the Hodrick- Prescott and Christiano-Fitzgerald Filters OECD Statistics Directorate Working Paper N°39 An Update of the OECD Composite Leading Indicators Business Tendency Surveys: A Handbook Quality framework and guidelines for OECD statistical activities</title>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Nilsson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Gyomai</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">OECD System of Composite Leading Indicators</title>
+		<imprint>
+			<date type="published" when="2002" />
+			<biblScope unit="page" from="282011" to="294" />
+		</imprint>
+	</monogr>
+	<note>qfs%282011%291&amp;doclanguage. =en OECD</note>
+</biblStruct>
+
+<biblStruct coords="28,59.52,595.00,473.49,8.96;28,87.83,606.52,281.12,8.96;28,87.83,618.05,442.59,8.96" >
+	<monogr>
+		<title level="m" type="main">OECD Forecasts during and after the Financial Crisis: A Post-Mortem. OECD Economics Department Working Paper N°1107</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Pain</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Lewis</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">T-T</forename>
+				<surname>Dang</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Y</forename>
+				<surname>Jin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Richardson</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,635.56,473.43,8.96;28,87.84,646.96,139.88,8.96;28,87.84,658.48,442.25,8.96;28,87.84,670.00,28.38,8.96" >
+	<monogr>
+		<title level="m" type="main">Indicator models of real GDP growth in selected OECD countries. OECD Economics Department Working Paper N°364 http</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Sédillot</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Pain</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2003" />
+			<biblScope unit="page" from="282003" to="2918" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,687.52,473.39,8.96;28,87.84,699.04,367.53,8.96" >
+	<analytic>
+		<title level="a" type="main">How Good Are the Leading Indicators, Business and Economics</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<forename type="middle">V</forename>
+				<surname>Vaccara</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Zarnowitz</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Proceedings of the Business and Economic Statistics Section</title>
+		<meeting>the Business and Economic Statistics Section</meeting>
+		<imprint>
+			<publisher>American Statistical Association</publisher>
+			<date type="published" when="1977" />
+			<biblScope unit="page" from="41" to="53" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,716.56,328.76,8.96;28,87.84,727.97,381.92,8.96;29,59.52,64.82,81.95,9.94" >
+	<analytic>
+		<title level="a" type="main">Handbook on Economic Tendency Surveys. Forthcoming. http://unstats.un.org/unsd/nationalaccount/consultationDocs/draftETS-Handbook-May2014</title>
+	</analytic>
+	<monogr>
+		<title level="j">United Nations</title>
+		<editor>pdf STD/DOC</editor>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="32,100.30,549.34,5.07,13.03;32,100.30,543.43,5.07,4.55;32,100.30,530.38,5.07,11.72;32,100.30,509.72,5.07,19.25;32,100.30,493.66,5.07,14.52;32,455.31,706.59,21.07,4.88;32,186.55,720.77,119.36,4.41;32,339.46,720.77,124.44,4.41;32,212.59,485.07,20.12,3.94;32,369.48,486.04,20.32,3.94;32,159.37,623.02,29.92,4.41" >
+	<monogr>
+		<title level="m" type="main">Dates of CLIs Turning Points Vintages Peak reached for IIP Trough reached in</title>
+		<author>
+			<persName>
+				<forename type="first">Gdp</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-02" />
+		</imprint>
+	</monogr>
+	<note>for. IIP PAT to HP IIP to GDP</note>
+</biblStruct>
+
+<biblStruct coords="33,59.52,64.82,81.95,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Std</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,71.88,101.68,448.44,8.96;33,76.56,397.05,157.05,8.10" >
+	<monogr>
+		<title level="m" type="main">Figure 9 Stability over vintages of turning points in the CLI for France at the time of the Great Recession Source: Main Economic Indicators</title>
+		<imprint>
+			<publisher>OECD</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,64.08,425.80,464.16,8.96;33,76.56,695.49,157.05,8.10" >
+	<monogr>
+		<title level="m" type="main">Figure 10 Stability over vintages of turning points in the CLI for Germany at the time of the Great Recession Source: Main Economic Indicators</title>
+		<imprint>
+			<publisher>OECD</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,94.38,202.02,5.21,13.87;33,94.38,195.73,5.21,4.85;33,94.38,181.83,5.21,12.48;33,94.38,159.84,5.21,20.49;33,94.38,142.74,5.21,15.46;33,459.12,364.38,21.64,5.20;33,125.34,378.63,63.91,4.70;33,206.00,378.63,134.21,4.70;33,358.25,378.63,130.10,4.70;33,215.43,127.01,21.85,4.20;33,376.62,128.04,20.87,4.20;33,184.29,250.97,28.14,4.70" >
+	<monogr>
+		<title level="m" type="main">Dates of CLIs Turning Points Vintages Possible peak in October for IIP Trough reached</title>
+		<author>
+			<persName>
+				<forename type="first">Gdp</forename>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006-01" />
+		</imprint>
+	</monogr>
+	<note>for. IIP PAT to HP IIP to GDP</note>
+</biblStruct>
+
+<biblStruct coords="33,400.62,172.39,45.78,4.70;33,400.62,178.38,22.91,4.70" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Cli</forename>
+				<surname>France</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>In</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="33,94.01,513.48,5.21,12.54;33,94.01,507.79,5.21,4.38;33,94.01,495.22,5.21,11.28;33,94.01,475.32,5.21,18.54;33,94.01,459.86,5.21,13.99;33,459.19,665.44,21.64,4.70;33,136.71,679.88,56.66,4.25;33,220.12,679.88,102.68,4.25;33,350.88,679.88,128.70,4.25;33,229.02,451.50,20.66,3.80;33,377.41,452.44,20.87,3.80;33,193.23,578.61,28.70,4.25" >
+	<monogr>
+		<title level="m" type="main">Dates of CLIs Turning Points Vintages Possible peak in Peak reached in March 2008 for both GDP &amp; IIP Trough reached in</title>
+		<imprint>
+			<date type="published" when="2006-03" />
+		</imprint>
+	</monogr>
+	<note>for. IIP PAT to HP IIP to GDP</note>
+</biblStruct>
+
+<biblStruct coords="33,155.31,609.55,34.63,4.25;34,448.21,64.82,81.95,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Std</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006-12" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,74.40,101.68,443.41,8.96;34,93.48,382.89,157.05,8.10" >
+	<monogr>
+		<title level="m" type="main">Figure 11 Stability over vintages of turning points in the CLI for Italy at the time of the Great Recession Source: Main Economic Indicators</title>
+		<imprint>
+			<publisher>OECD</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,71.28,411.64,449.64,8.96;34,93.48,686.61,427.60,8.10;34,93.48,696.94,427.39,8.10;34,93.48,707.26,427.55,8.10;34,93.48,717.70,238.79,8.10" >
+	<monogr>
+		<title level="m" type="main">Figure 12 Stability over vintages of turning points in the CLI for Japan at the time of the Great Recession Note: the Index of Industrial Production (IIP) for Japan exhibits quite high volatility over the period 2006-2008. Three close peaks potentially qualify as turning point The Bry-Boschan routine privileged However, the change to GDP as reference series made the signal less noisy</title>
+		<imprint>
+			<date type="published" when="2006-03" />
+		</imprint>
+	</monogr>
+	<note>As. a result, the Bry-Boschan routine shifted the peak to</note>
+</biblStruct>
+
+<biblStruct coords="34,93.48,734.02,157.05,8.10" >
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Source: Main Economic Indicators</title>
+		<imprint>
+			<publisher>OECD</publisher>
+			<publisher>OECD</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,105.76,198.11,4.92,13.09;34,105.76,192.17,4.92,4.57;34,105.76,179.06,4.92,11.78;34,105.76,158.29,4.92,19.34;34,105.76,142.15,4.92,14.60;34,450.07,351.38,20.43,4.91;34,153.29,358.53,126.67,4.43;34,315.34,358.53,101.29,4.43;34,216.26,126.96,19.50,3.96;34,368.42,127.93,19.70,3.96;34,177.05,261.98,27.10,4.43" >
+	<monogr>
+		<title level="m" type="main">Dates of CLIs Turning Points Vintages Peak reached in February for IIP Trough reached in May 2009 for both GDP and IIP PAT to HP IIP to GDP</title>
+		<imprint>
+			<date type="published" when="2007" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,398.55,196.70,62.91,4.43" >
+	<monogr>
+		<title level="m" type="main">Italy CLI revised in</title>
+		<imprint>
+			<date type="published" when="2012-04" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="34,111.06,506.18,4.79,12.76;34,111.06,500.39,4.79,4.46;34,111.06,487.61,4.79,11.48;34,111.06,467.38,4.79,18.85;34,111.06,451.65,4.79,14.22;34,446.27,655.25,19.90,4.78;34,198.09,668.86,99.25,4.32;34,334.62,668.86,119.66,4.32;34,231.91,437.47,19.00,3.86;34,380.05,438.41,19.19,3.86;34,165.27,575.83,31.47,4.32" >
+	<monogr>
+		<title level="m" type="main">Dates of CLIs Turning Points Vintages Peak reached in February 2008 for both GDP &amp; IIP Trough reached in April</title>
+		<imprint>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>for. IIP PAT to HP IIP to GDP</note>
+</biblStruct>
+
+<biblStruct coords="34,207.95,599.90,39.94,4.32;34,207.95,605.40,19.73,4.32" >
+	<monogr>
+		<title level="m" type="main">Japan CLI revised in</title>
+		<imprint>
+			<date type="published" when="2007-06" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,59.52,64.82,81.95,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Std</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2016" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,62.88,101.68,466.50,8.96;35,275.40,113.08,41.54,8.96;35,76.56,403.53,157.05,8.10" >
+	<monogr>
+		<title level="m" type="main">Figure 13 Stability over vintages of turning points in the CLI for the United Kingdom at the time of the Great Recession Source: Main Economic Indicators</title>
+		<imprint>
+			<publisher>OECD</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="35,99.39,207.57,5.07,13.51;35,99.39,201.44,5.07,4.72;35,99.39,187.91,5.07,12.15;35,99.39,166.48,5.07,19.96;35,99.39,149.83,5.07,15.06;35,454.45,370.65,21.07,5.06;35,138.44,384.51,56.60,4.58;35,220.26,384.51,102.54,4.58;35,349.32,384.51,125.34,4.58;35,250.31,140.40,20.12,4.09;35,383.47,140.56,20.32,4.09;35,212.00,240.03,27.42,4.58" >
+	<monogr>
+		<title level="m" type="main">Dates of CLIs Turning Points Vintages Possible peak in for both GDP &amp; IIP Trough reached in</title>
+		<imprint>
+			<date type="published" when="2006-04" />
+		</imprint>
+	</monogr>
+	<note>for. IIP PAT to HP IIP to GDP</note>
+</biblStruct>
+
+<biblStruct coords="35,186.65,304.64,24.83,4.58;36,448.21,64.82,81.95,9.94" >
+	<monogr>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">Std</forename>
+				<surname>Doc</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>

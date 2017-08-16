@@ -1,0 +1,913 @@
+<?xml version="1.0" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xlink="http://www.w3.org/1999/xlink" 
+ xmlns:mml="http://www.w3.org/1998/Math/MathML">
+	<teiHeader>
+		<fileDesc xml:id="f_66"/>
+	</teiHeader>
+	<text>
+		<front/>
+		<body/>
+		<back>
+			<listBibl>
+<biblStruct coords="26,59.52,126.27,437.96,9.94;26,87.85,138.86,442.23,9.94" >
+	<analytic>
+		<title level="a" type="main">Outcome document of the Third International Conference on Financing for Development</title>
+	</analytic>
+	<monogr>
+		<title level="m">Addis Ababa Action Agenda</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,163.58,465.67,9.94;26,87.84,176.18,239.64,9.94" >
+	<monogr>
+		<title level="m" type="main">Aid for trade and climate change financing mechanisms, ICTSD</title>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<forename type="middle">D</forename>
+				<surname>Ancharaz</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">A</forename>
+				<surname>Sultan</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,200.90,436.37,9.94;26,87.85,213.50,427.52,9.94;26,87.85,226.21,406.27,9.94;26,87.85,238.81,434.97,9.94;26,87.85,251.41,84.72,9.94" >
+	<analytic>
+		<title level="a" type="main">Diagnostic Trade Integration Studies and their Updates under the Enhanced Integrated Framework – A Retrospective Aid for Trade: What have we learned? Which Way Ahead?</title>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Brenton</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">I</forename>
+				<surname>Gillson In Cadot</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Melo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Centre for economic policy Research (CEPRI), Foundation pour les études et recherches sur le développement international (FEDRI)</title>
+		<meeting><address><addrLine>London and Clermond-Ferrand</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.53,276.13,454.67,9.94;26,87.86,288.72,313.92,9.94" >
+	<analytic>
+		<title level="a" type="main">The Impact of Aid for Trade Facilitation on the Costs of Trading</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Busse</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Hoekstra</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Königer</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Kyklos</title>
+		<imprint>
+			<biblScope unit="volume">65</biblScope>
+			<biblScope unit="page" from="143" to="163" />
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,313.44,445.46,9.94;26,87.86,326.04,177.60,9.94" >
+	<monogr>
+		<title level="m" type="main">Aid for Trade: What have we learned? Which Way Ahead? CEPRI and FEDRI</title>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Cadot</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Melo</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<pubPlace>London and Clermond-Ferrand</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.54,350.64,421.13,9.94;26,87.86,363.35,294.25,9.94" >
+	<monogr>
+		<title level="m" type="main">Where to Spend the Next Million? Applying Impact Evaluation to Trade Assistance</title>
+		<author>
+			<persName>
+				<forename type="first">O</forename>
+				<surname>Cadot</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>CEPRI and World Bank</publisher>
+			<pubPlace>London and Washington DC</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.53,387.95,454.85,9.94;26,87.85,400.67,224.76,9.94" >
+	<analytic>
+		<title level="a" type="main">Does Aid for Trade Really Improve Trade Performance</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Cali</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">W</forename>
+				<surname>Velde</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">World Development</title>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<biblScope unit="volume">39</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="725" to="740" />
+			<date type="published" when="2011" />
+			<publisher>Elsevier</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.53,425.27,441.50,9.94;26,87.85,437.86,445.05,9.94" >
+	<monogr>
+		<title level="m" type="main">The Supporting Business Climate Reforms Working Group, Advancing Africa&apos;s Private Sector Series</title>
+		<author>
+			<persName>
+				<forename type="first">Global</forename>
+				<surname>Centre</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Development</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,462.62,457.92,9.94;26,87.84,475.22,438.64,9.94" >
+	<monogr>
+		<title level="m" type="main">Aid for Trade and Structural Transformation in Sub-Saharan Africa, Commonwealth Trade Policy Discussion Papers</title>
+		<author>
+			<persName>
+				<forename type="first">X</forename>
+				<surname>Cirera</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Winters</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<pubPlace>London, Commonwealth Secretariat</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,499.94,442.45,9.94;26,87.84,512.53,284.28,9.94" >
+	<analytic>
+		<title level="a" type="main">Assessing Aid for Trade Effectiveness</title>
+	</analytic>
+	<monogr>
+		<title level="m">Commonwealth and Overseas Development Institute</title>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="page" from="978" to="979" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,537.13,465.90,9.94;26,87.84,549.85,216.13,9.94" >
+	<analytic>
+		<title level="a" type="main">The Global Trade Slowdown: Cyclical or Structural</title>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Constnatinescu</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Mattoo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Ruta</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">IMF Working Paper</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,574.44,443.40,9.94;26,87.84,587.16,424.74,9.95;26,87.84,599.78,116.41,9.94" >
+	<analytic>
+		<title level="a" type="main">Pacific Trade: Dynamics in a High-Cost Region www.adb.org/publications/aidtrade-asia-and-pacific-thinkingforward-about-tradecosts-and digital-economy</title>
+		<author>
+			<persName>
+				<forename type="first">Di</forename>
+				<surname>Caprio</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<surname>Daza</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">ADB Briefs</title>
+		<imprint>
+			<biblScope unit="volume">44</biblScope>
+			<date type="published" when="2015-10" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,624.38,414.36,9.94;26,87.84,637.10,432.05,9.94;26,87.84,649.69,186.00,9.94" >
+	<monogr>
+		<title level="m" type="main">Aid to the Services Sector: Does it Affect Manufacturing Exports &quot; , paper prepared for the workshop &quot; Aid for Trade: What Have we Learnt? Which way Ahead</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Ferro</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Perez</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Wilson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">/</forename>
+				<surname>Geneva</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.52,674.41,471.16,9.94;26,87.84,687.01,421.08,9.94;26,87.84,699.73,26.03,9.94" >
+	<monogr>
+		<title level="m" type="main">Aid for Trade: Do Those Countries that Need it, Get it? &quot; World Economy, Special Issue: Aid for Trade</title>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Gamberoni</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<surname>Newfarmer</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014-04" />
+			<biblScope unit="page" from="542" to="554" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="26,59.51,724.33,431.62,9.94" >
+	<monogr>
+		<title level="m" type="main">Aid For Trade Is Reaching Its Limits, So What&apos;s Next? GEM Working Paper</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">J</forename>
+				<surname>Hallaert</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2012" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,101.66,451.46,9.94;27,87.84,114.26,439.64,9.94;27,87.84,126.86,74.24,9.94" >
+	<monogr>
+		<title level="m" type="main">Benefits and Costs of the Trade Targets for the Post-2015 Development Agenda</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Hoekman</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,151.58,442.15,9.94;27,87.85,164.18,429.03,9.94" >
+	<monogr>
+		<title level="m" type="main">Strengthening the Global Architecture for Economic Development: An Agenda for Action</title>
+		<author>
+			<persName>
+				<forename type="first">B</forename>
+				<surname>Hoekman</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">S</forename>
+				<surname>Prowse</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Zedillo</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,188.90,423.15,9.94;27,87.82,201.50,379.55,9.94" >
+	<analytic>
+		<title level="a" type="main">Aid-for-trade facilitation</title>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<forename type="middle">C</forename>
+				<surname>Helble</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">C</forename>
+				<forename type="middle">L</forename>
+				<surname>Mann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<forename type="middle">S</forename>
+				<surname>Wilson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Review of World EconomicsWeltwirtschaftliches Archiv)</title>
+		<imprint>
+			<publisher>Springer</publisher>
+			<biblScope unit="volume">148</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="357" to="376" />
+			<date type="published" when="2012-06" />
+			<publisher>Springer</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.49,226.22,455.54,9.94;27,87.80,238.81,429.52,9.94;27,87.80,251.41,30.72,9.94;27,59.49,276.13,466.98,9.94;27,87.80,288.72,423.45,9.94;27,87.82,301.44,261.59,9.94" >
+	<monogr>
+		<title level="m" type="main">What Future for the Global Aid for Trade Initiative; Towards a Fairer Assessment of its Achievements and Limitations&apos;, IIIS Discussion Paper No. 421, Trinity College Dublin International Centre for trade and Sustainable Development and (ICTSD) and South Asia Watch on Trade Economics and Environment (SAWTEE) (2013) Assessing the effectiveness of Aid for Trade: Lessons from the Ground</title>
+		<author>
+			<persName>
+				<forename type="first">W</forename>
+				<surname>Hynes</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Holden</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<biblScope unit="page">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>ictsd. .org/programmes</note>
+</biblStruct>
+
+<biblStruct coords="27,59.52,326.06,407.03,9.94;27,87.84,338.66,375.67,9.94;27,87.84,351.38,224.40,9.94" >
+	<monogr>
+		<title level="m" type="main">Understanding China&apos; approaches to international development</title>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,375.98,444.31,9.94;27,87.84,388.70,174.62,9.94" >
+	<monogr>
+		<title level="m" type="main">&apos;Development, trade and carbon reduction: Designing coexistence to promote development&apos; ODI Working Paper</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Keane</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2010" />
+			<biblScope unit="page">315</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.51,413.30,429.39,9.94" >
+	<monogr>
+		<title level="m" type="main">Fabricated: The New World of 3D Printing</title>
+		<author>
+			<persName>
+				<forename type="first">H</forename>
+				<surname>Lipson</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">M</forename>
+				<surname>Kurman</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>Wiley Publishers</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,437.89,439.59,9.94;27,87.84,450.61,113.66,9.94;27,87.84,463.21,346.98,9.94" >
+	<monogr>
+		<title level="m" type="main">Trade Liberalisation and Poverty: What have we learned in a decade</title>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Martuscelli</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Winters</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<pubPlace>London, CEPRI</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,487.94,429.00,9.94;27,59.52,512.54,463.44,9.94;27,87.84,525.13,433.22,9.94;27,87.84,537.85,177.60,9.94" >
+	<monogr>
+		<title level="m" type="main">Aid For Trade as finance for the Aid for Trade: What Can we Learn from the Case Studies Aid for Trade: What have we learned?</title>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Melo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">L</forename>
+				<surname>Wagner Poor</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Clermond-Ferrand</forename>
+				<surname>Fedri</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">R</forename>
+				<forename type="middle">O</forename>
+				<surname>Newfarmer</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Melo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">Clermond-Ferrand</forename>
+				<surname>London</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Which Way Ahead? CEPRI, FEDRI</publisher>
+			<biblScope unit="page" from="73" to="103" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,562.45,400.36,9.94;27,87.84,575.17,386.58,9.94;27,59.52,599.78,456.49,9.94;27,87.84,612.38,318.48,9.94" >
+	<analytic>
+		<title level="a" type="main">Final NAEC Synthesis Report: New Approaches to Economic Challenges</title>
+	</analytic>
+	<monogr>
+		<title level="m">Enabling the Next Production Revolution (Note by the Secretary-General) Background Note for the Meeting of the Council at Ministerial Level</title>
+		<imprint>
+			<date type="published" when="2015-06" />
+			<biblScope unit="page" from="3" to="4" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="27,59.52,637.10,422.19,9.94;27,87.84,649.70,129.59,9.94;27,87.84,662.42,431.12,9.94;27,59.52,687.02,335.40,9.94;27,87.84,699.74,208.08,9.94;27,59.52,724.34,458.99,9.94;27,87.84,736.94,390.73,9.94;28,59.52,101.66,472.13,9.94;28,87.84,114.26,251.52,9.94;28,59.52,138.86,469.05,9.94;28,87.84,151.58,393.49,9.94;28,59.52,176.18,468.85,9.94;28,87.84,188.90,224.29,9.94;28,59.52,213.50,453.49,9.94;28,87.84,226.22,377.88,9.94;28,59.52,250.82,313.81,9.94;28,87.84,263.42,198.96,9.94;28,59.52,288.14,473.33,9.94;28,87.84,300.74,308.89,9.94;28,59.52,325.46,468.36,9.94;28,87.84,338.06,251.89,9.94;28,59.52,362.66,450.06,9.94;28,87.84,375.38,304.33,9.94;28,59.52,399.98,417.28,9.94;28,87.85,412.70,389.59,9.94" >
+	<analytic>
+		<title level="a" type="main">Aid for Trade and Development Results: A Management Framework The Development Dimension Putting Green Growth at the Heart of Development Trade for Growth and Poverty Reduction: How Aid for Trade Can Help The Development Dimension Aid for Trade: Making it Effective, The Development Dimension Aid for Trade at a Glance 2015: Reducing Trade Costs for Inclusive, Sustainable Growth Aid for Trade in Action Aid for Trade at a Glance 2013: Connecting to Value Chains Aid for Trade at a Glance Aid for Trade at a Glance</title>
+	</analytic>
+	<monogr>
+		<title level="m">The New Development Finance Landscape: Developing Countries&apos; Perspective http Regional Perspectives on Aid for Trade Implications of Global Value Chains for Trade, Investment, Development and Jobs</title>
+		<meeting><address><addrLine>Paris. DOI ; Paris. DOI ; Paris. DOI ; Paris. DOI ; Paris ; WTO, Geneva ; Paris. DOI ; Showing Results, WTO, Geneva ; Paris. DOI ; Maintaining Momentum, WTO, Geneva ; Paris. DOI</addrLine></address></meeting>
+		<imprint>
+			<publisher>OECD Publishing OECD Publishing OECD Publishing OECD Publishing OECD Publishing OECD Publishing OECD PublishingOECD PublishingOECD PublishingOECD Publishing WTO, UNCTAD</publisher>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+	<note>dx.doi.org/10.1787/9789264098978-en OECD</note>
+</biblStruct>
+
+<biblStruct coords="28,59.52,437.30,472.27,9.94;28,87.84,449.90,441.00,9.94;28,87.84,462.61,426.55,9.94;28,87.84,475.22,238.91,9.94" >
+	<monogr>
+		<title level="m" type="main">Should Countries Be More Like Shopping Malls? A Proposal for Service Performance Guarantees for Africa&apos; Policy Paper 047, Washington DC: Centre for Global Development, http://www.cgdev.org/publication/should-countries-be-more-shopping- malls-proposal-service-performance-guarantees-africa</title>
+		<author>
+			<persName>
+				<forename type="first">V</forename>
+				<surname>Ramachandran</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Gelb</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">A</forename>
+				<surname>Rossignol</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,499.94,432.59,9.94;28,87.84,512.54,402.44,9.94;28,87.84,525.14,338.10,9.94" >
+	<analytic>
+		<title level="a" type="main">An International Support Programme for Sustainable Investment Facilitation</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Sauvant</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Khalil</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<surname>Hamdani</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">E15 Task Force on Investment Policy</title>
+		<imprint>
+			<biblScope unit="volume">07</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,549.86,463.71,9.94;28,87.84,562.46,231.77,9.94" >
+	<monogr>
+		<title level="m" type="main">Incentive Proliferation? Making Sense of a New Wave of Development Programs www.cgdev.org/content</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">W</forename>
+				<surname>Savedoff</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<biblScope unit="page">1425405</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,587.18,469.83,9.94;28,87.84,599.78,365.55,9.94;28,87.84,612.37,275.98,9.94" >
+	<monogr>
+		<title level="m" type="main">Possibilities for Africa in Global Action on Climate Change&apos; Presentation to the African Partnership Forum Special Session on Climate Change</title>
+		<author>
+			<persName>
+				<forename type="first">N</forename>
+				<surname>Stern</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2009-09-03" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.52,637.25,461.32,10.37;28,87.83,650.30,373.04,9.94" >
+	<analytic>
+		<title level="a" type="main">Aid for eTrade: Accelerating the E-commerce Revolution</title>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Suominen</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">E15 Taskforce blog</title>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.50,675.02,470.28,9.94;28,87.82,687.61,83.53,9.94" >
+	<monogr>
+		<title level="m" type="main">The Silo Effect: The Peril of Expertise and the Promise of Breaking Down Barriers</title>
+		<author>
+			<persName>
+				<forename type="first">G</forename>
+				<surname>Tett</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2015" />
+			<publisher>Simon &amp; Schuster</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="28,59.49,712.21,449.17,9.94;28,87.81,724.93,191.40,9.94;28,87.79,737.53,310.34,9.94" >
+	<analytic>
+		<title level="a" type="main">Draft outcome document of the United Nations summit for the adoption of the post-2015 development agenda</title>
+	</analytic>
+	<monogr>
+		<title level="j">United Nations</title>
+		<imprint>
+			<biblScope unit="volume">85</biblScope>
+			<biblScope unit="issue">691</biblScope>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,59.52,101.66,467.83,9.94;29,87.84,114.26,397.71,9.94;29,87.84,126.85,51.72,9.94" >
+	<analytic>
+		<title level="a" type="main">The road to Dignity by 2030: ending poverty, transforming all lives and protecting the planet: Synthesis report of the Secretary-general on the post 2015 development agenda (A</title>
+	</analytic>
+	<monogr>
+		<title level="j">United Nations</title>
+		<imprint>
+			<biblScope unit="volume">69700</biblScope>
+			<date type="published" when="2014" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,59.52,151.57,458.09,9.94;29,87.84,164.17,217.08,9.94" >
+	<analytic>
+		<title level="a" type="main">Trade and Human Development: A Practical Guide to Mainstreaming Trade</title>
+	</analytic>
+	<monogr>
+		<title level="m">United Nations Development Programme</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,59.52,188.89,454.48,9.94;29,87.84,201.48,277.80,9.94;29,87.84,214.20,206.04,9.94" >
+	<monogr>
+		<title level="m" type="main">From Aid to Trade: Delivering Results, A Cross-Country Evaluation of USAID Trade Capacity Building</title>
+		<imprint>
+			<date type="published" when="2010" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,59.52,238.80,429.31,9.94;29,87.84,251.40,416.32,9.94;29,87.84,264.11,241.68,9.94" >
+	<monogr>
+		<title level="m" type="main">Future Directions of Aid for Trade Assessing Aid for Trade; Effectiveness, Current Issues and Future Directions</title>
+		<author>
+			<persName>
+				<forename type="first">D</forename>
+				<forename type="middle">W</forename>
+				<surname>Velde Te</surname>
+			</persName>
+		</author>
+		<editor>Razzaque M., Velde te D.W.</editor>
+		<imprint>
+			<date type="published" when="2013" />
+			<publisher>Commonwealth Secretariat – Overseas Development Institute</publisher>
+			<pubPlace>London</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,59.51,288.71,453.16,9.94;29,87.83,301.43,183.86,9.94" >
+	<monogr>
+		<title level="m" type="main">The role of international business in aid for trade: Building Capacity for Trade in Developing Countries</title>
+		<author>
+			<persName>
+				<forename type="first">World</forename>
+				<surname>Bank</surname>
+			</persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>The World Bank</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,59.52,326.03,437.40,9.94;29,87.84,338.62,436.10,9.94;29,87.84,351.34,207.02,9.94" >
+	<analytic>
+		<title level="a" type="main">Business perspective on boosting trade and investment: Removing practical barriers as part of trade facilitation reforms</title>
+	</analytic>
+	<monogr>
+		<title level="m">Chapter 10 Reducing Trade Costs for Inclusive</title>
+		<editor>OECD/WTO</editor>
+		<imprint>
+			<date type="published" when="2015" />
+		</imprint>
+	</monogr>
+	<note>Sustainable. Growth</note>
+</biblStruct>
+
+<biblStruct coords="29,59.52,375.94,450.84,9.94;29,87.85,388.66,36.37,9.94" >
+	<analytic>
+		<title level="a" type="main">Recommendations of the Task Force on Aid for Trade</title>
+	</analytic>
+	<monogr>
+		<title level="j">World Trade Organization</title>
+		<imprint>
+			<biblScope unit="issue">1</biblScope>
+			<date type="published" when="2006" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,59.53,413.25,450.52,9.94;29,87.86,425.85,158.66,9.94" >
+	<analytic>
+		<title/>
+		<author>
+			<persName>
+				<forename type="first">E</forename>
+				<surname>Zedillo</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">P</forename>
+				<surname>Messerlin</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">J</forename>
+				<surname>Nielson</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Trade for Development, UN Millennium Project Task Force on Trade</title>
+		<meeting><address><addrLine>Earthscan, London</addrLine></address></meeting>
+		<imprint>
+			<date type="published" when="2005" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct coords="29,59.54,450.57,426.94,9.94;29,87.86,463.16,431.88,9.94" >
+	<analytic>
+		<title level="a" type="main">More Actors, More Money, More Ideas for International Development Co-operation</title>
+		<author>
+			<persName>
+				<forename type="first">F</forename>
+				<surname>Zimmermann</surname>
+			</persName>
+		</author>
+		<author>
+			<persName>
+				<forename type="first">K</forename>
+				<surname>Smith</surname>
+			</persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of International Development</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page" from="722" to="738" />
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+			</listBibl>
+		</back>
+	</text>
+</TEI>
